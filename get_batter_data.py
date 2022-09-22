@@ -46,6 +46,23 @@ def get_data(player_name, s_dt, e_dt):
 
     return
 
+def use_existing(player_name, s_dt, e_dt):
+    print("Parsing: {:}".format(p_name))
+    overall_data = pyb.batting_stats_range(s_dt, e_dt)
+    overall_data = overall_data.loc[overall_data["Name"] == fix_name(player_name)]
+
+    vsa, vsb, vsc, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
+    sz.make_strikezone_graph(p_name)
+
+    all_vsa.append(vsa)
+    all_vsb.append(vsb)
+    all_vsc.append(vsc)
+    all_apal.append(apal)
+    all_pa.append(overall_data["PA"].values[0])
+    all_ba.append(overall_data["BA"].values[0])
+    all_so.append(overall_data["SO"].values[0])
+    return
+
 # player_name = input("Enter the batter's name: ").lower().split()
 # p_name = player_name[0] + "_" + player_name[1]
 # s_dt = input("Enter start date: ")
@@ -73,8 +90,8 @@ for p_name in players_to_search:
     dir_path = "data/" + p_name + "/"
     if os.path.exists(dir_path) == False: os.mkdir(dir_path)
     player_name = p_name.split("_")
-    get_data(player_name, s_dt, e_dt)
-    exit()
+    use_existing(player_name, s_dt, e_dt)
+    # get_data(player_name, s_dt, e_dt)
 
 data = {"name": players_to_search, "vsa": all_vsa, "vsb": all_vsb, "vsc": all_vsc, 
 "apal": all_apal, "pa": all_pa, "ba": all_ba, "so": all_so}
