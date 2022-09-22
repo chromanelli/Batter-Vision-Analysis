@@ -6,8 +6,10 @@ import strikezone_graphs as sz
 from vision_analysis import analysis
 
 all_vsa = []
+all_vsb = []
 all_apal = []
 all_ba = []
+all_so = []
 
 def fix_name(player_name):
     f_name = player_name[0]
@@ -29,12 +31,14 @@ def get_data(player_name, s_dt, e_dt):
     overall_data = pyb.batting_stats_range(s_dt, e_dt)
     overall_data = overall_data.loc[overall_data["Name"] == fix_name(player_name)]
 
-    vsa, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
+    vsa, vsb, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
     sz.make_strikezone_graph(p_name)
 
     all_vsa.append(vsa)
+    all_vsb.append(vsb)
     all_apal.append(apal)
     all_ba.append(overall_data["BA"].values[0])
+    all_so.append(overall_data["SO"].values[0])
 
     return
 
@@ -67,7 +71,7 @@ for p_name in players_to_search:
     player_name = p_name.split("_")
     get_data(player_name, s_dt, e_dt)
 
-data = {"name": players_to_search, "vsa": all_vsa, "apal": all_apal, "ba": all_ba}
+data = {"name": players_to_search, "vsa": all_vsa, "vsb": all_vsb, "apal": all_apal, "ba": all_ba, "so": all_so}
 
 vision_data = pd.DataFrame(data)
 vision_data.to_csv("data/overall.csv")

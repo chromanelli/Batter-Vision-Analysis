@@ -1,13 +1,13 @@
 import pandas as pd
 import pybaseball as pyb
 
+swings = ["swinging_strike", "foul", "hit_into_play"]
+end_events = ["strikeout", "walk", "field_error", "field_out", "single",
+    "double", "triple", "home_run", "grounded_into_double_play", "double_play",
+    "force_out", "hit_by_pitch", "sac_fly", "fielders_choice"]
 
 def vision_score(player_name, s_dt, e_dt, overall_data):
     batter_data = pd.read_csv("data/" + player_name + "/at_bats.csv")
-    swings = ["swinging_strike", "foul", "hit_into_play"]
-    end_events = ["strikeout", "walk", "field_error", "field_out", "single",
-    "double", "triple", "home_run", "grounded_into_double_play", "double_play",
-    "force_out", "hit_by_pitch", "sac_fly", "fielders_choice"]
     
     strike_swing = 0
     strike_take = 0
@@ -39,10 +39,12 @@ def vision_score(player_name, s_dt, e_dt, overall_data):
             if row["events"] == "walk": total_bb += 1
 
     v_score_a = ((strike_swing + ball_take) - (strike_take + ball_swing)) / len(batter_data)
-    v_score_b = ()
+
     apal = ab_length
     total_pa = overall_data["PA"].values[0]
-
+    so_rate = overall_data["SO"].values[0]/total_pa
+    v_score_b = v_score_a - so_rate
+    
     with open("data/" + player_name + "/at_bats.txt", 'w') as f:
         f.write("\nVISION REPORT: {:} ({:} thru {:})\n".format(player_name, s_dt, e_dt))
         f.write("     Strikes Swung At: {:} ({:.2f}%)\n".format(strike_swing, 100 * strike_swing/total_strikes))
@@ -53,6 +55,7 @@ def vision_score(player_name, s_dt, e_dt, overall_data):
         f.write("     Walks: {:}\n".format(total_bb))
         f.write("     {:} saw {:} strikes and {:} balls\n\n".format(player_name, total_strikes, total_balls))
         f.write("VISION SCORE METRIC A (SSA+BT)/(ST+BSA): {:.4f}\n".format(v_score_a))
+        f.write("VISION SCORE METRIC B (VSA - SO%): {:.4f}\n".format(v_score_b))
         f.write("Average PA Length: {:.4f} ({:}/{:})\n".format(apal/total_pa, apal, total_pa))
         f.write("Batting Avg: {:.3f}\n".format(overall_data["BA"].values[0]))
     f.close()
@@ -66,7 +69,8 @@ def vision_score(player_name, s_dt, e_dt, overall_data):
     print("     Walks: {:}".format(total_bb))
     print("     {:} saw {:} strikes and {:} balls\n".format(player_name, total_strikes, total_balls))
     print("VISION SCORE METRIC A (SSA+BT)/(ST+BSA): {:.4f}".format(v_score_a))
+    print("VISION SCORE METRIC B (VSA - SO%): {:.4f}\n".format(v_score_b))
     print("Average PA Length: {:.4f} ({:}/{:})".format(apal/total_pa, apal, total_pa))
     print("Batting Avg: {:.3f}\n".format(overall_data["BA"].values[0]))
     
-    return v_score_a, apal/total_pa
+    return v_score_a, v_score_b, apal/total_pa
