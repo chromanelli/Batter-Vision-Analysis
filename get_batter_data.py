@@ -11,6 +11,7 @@ all_vsc = []
 all_apal = []
 all_pa = []
 all_ba = []
+all_bb = []
 all_so = []
 
 def fix_name(player_name):
@@ -42,14 +43,13 @@ def get_data(player_name, s_dt, e_dt):
     all_apal.append(apal)
     all_pa.append(overall_data["PA"].values[0])
     all_ba.append(overall_data["BA"].values[0])
+    all_bb.append(overall_data["BB"].values[0])
     all_so.append(overall_data["SO"].values[0])
 
     return
 
-def use_existing(player_name, s_dt, e_dt):
+def use_existing(s_dt, e_dt, overall_data):
     print("Parsing: {:}".format(p_name))
-    overall_data = pyb.batting_stats_range(s_dt, e_dt)
-    overall_data = overall_data.loc[overall_data["Name"] == fix_name(player_name)]
 
     vsa, vsb, vsc, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
     sz.make_strikezone_graph(p_name)
@@ -60,6 +60,7 @@ def use_existing(player_name, s_dt, e_dt):
     all_apal.append(apal)
     all_pa.append(overall_data["PA"].values[0])
     all_ba.append(overall_data["BA"].values[0])
+    all_bb.append(overall_data["BB"].values[0])
     all_so.append(overall_data["SO"].values[0])
     return
 
@@ -85,16 +86,17 @@ players_to_search = ["xander_bogaerts", "rafael_devers", "alex_verdugo", "trevor
 
 s_dt = "2021-04-01"
 e_dt = "2021-10-04"
+overall_data = pyb.batting_stats_range(s_dt, e_dt)
 
 for p_name in players_to_search:
     dir_path = "data/" + p_name + "/"
     if os.path.exists(dir_path) == False: os.mkdir(dir_path)
     player_name = p_name.split("_")
-    use_existing(player_name, s_dt, e_dt)
+    use_existing(s_dt, e_dt, overall_data.loc[overall_data["Name"] == fix_name(player_name)])
     # get_data(player_name, s_dt, e_dt)
 
 data = {"name": players_to_search, "vsa": all_vsa, "vsb": all_vsb, "vsc": all_vsc, 
-"apal": all_apal, "pa": all_pa, "ba": all_ba, "so": all_so}
+"apal": all_apal, "pa": all_pa, "ba": all_ba, "bb": all_bb, "so": all_so}
 
 vision_data = pd.DataFrame(data)
 vision_data.to_csv("data/overall.csv")
