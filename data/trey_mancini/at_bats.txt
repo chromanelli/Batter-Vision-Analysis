@@ -1,0 +1,13 @@
+
+VISION REPORT: trey_mancini (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 728 (63.41%)
+     Strikes Taken: 420 (36.59%)
+     Balls Swung At: 382 (28.94%)
+     Balls Taken: 938 (71.06%)
+     Strikeouts: 143
+     Walks: 47
+     trey_mancini saw 1148 strikes and 1320 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3501
+Average PA Length: 3.9692 (2445/616)
+Batting Avg: 0.255

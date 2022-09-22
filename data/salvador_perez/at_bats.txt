@@ -1,0 +1,13 @@
+
+VISION REPORT: salvador_perez (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 776 (77.37%)
+     Strikes Taken: 227 (22.63%)
+     Balls Swung At: 560 (40.32%)
+     Balls Taken: 829 (59.68%)
+     Strikeouts: 169
+     Walks: 24
+     salvador_perez saw 1003 strikes and 1389 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3420
+Average PA Length: 3.5729 (2376/665)
+Batting Avg: 0.273

@@ -1,0 +1,13 @@
+
+VISION REPORT: riley_adams (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 143 (58.61%)
+     Strikes Taken: 101 (41.39%)
+     Balls Swung At: 60 (20.34%)
+     Balls Taken: 235 (79.66%)
+     Strikeouts: 40
+     Walks: 15
+     riley_adams saw 244 strikes and 295 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4026
+Average PA Length: 4.4500 (534/120)
+Batting Avg: 0.222

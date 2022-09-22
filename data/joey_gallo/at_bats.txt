@@ -1,0 +1,13 @@
+
+VISION REPORT: joey_gallo (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 773 (62.95%)
+     Strikes Taken: 455 (37.05%)
+     Balls Swung At: 242 (17.49%)
+     Balls Taken: 1142 (82.51%)
+     Strikeouts: 213
+     Walks: 106
+     joey_gallo saw 1228 strikes and 1384 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4663
+Average PA Length: 4.2240 (2602/616)
+Batting Avg: 0.199

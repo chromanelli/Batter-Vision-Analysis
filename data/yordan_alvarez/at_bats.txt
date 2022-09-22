@@ -1,0 +1,13 @@
+
+VISION REPORT: yordan_alvarez (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 685 (60.73%)
+     Strikes Taken: 443 (39.27%)
+     Balls Swung At: 302 (23.80%)
+     Balls Taken: 967 (76.20%)
+     Strikeouts: 145
+     Walks: 47
+     yordan_alvarez saw 1128 strikes and 1269 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3784
+Average PA Length: 3.9833 (2382/598)
+Batting Avg: 0.278

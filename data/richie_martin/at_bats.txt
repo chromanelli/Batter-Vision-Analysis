@@ -1,0 +1,13 @@
+
+VISION REPORT: richie_martin (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 166 (72.81%)
+     Strikes Taken: 62 (27.19%)
+     Balls Swung At: 45 (26.01%)
+     Balls Taken: 128 (73.99%)
+     Strikeouts: 27
+     Walks: 4
+     richie_martin saw 228 strikes and 173 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4663
+Average PA Length: 3.7143 (390/105)
+Batting Avg: 0.235

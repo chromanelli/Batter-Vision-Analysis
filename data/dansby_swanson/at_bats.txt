@@ -1,0 +1,13 @@
+
+VISION REPORT: dansby_swanson (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 896 (69.89%)
+     Strikes Taken: 386 (30.11%)
+     Balls Swung At: 299 (23.07%)
+     Balls Taken: 997 (76.93%)
+     Strikeouts: 166
+     Walks: 48
+     dansby_swanson saw 1282 strikes and 1296 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4686
+Average PA Length: 3.9265 (2564/653)
+Batting Avg: 0.248

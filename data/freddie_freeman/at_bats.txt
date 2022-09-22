@@ -1,0 +1,13 @@
+
+VISION REPORT: freddie_freeman (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 1004 (75.95%)
+     Strikes Taken: 318 (24.05%)
+     Balls Swung At: 336 (24.60%)
+     Balls Taken: 1030 (75.40%)
+     Strikeouts: 107
+     Walks: 70
+     freddie_freeman saw 1322 strikes and 1366 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5134
+Average PA Length: 3.8633 (2685/695)
+Batting Avg: 0.300

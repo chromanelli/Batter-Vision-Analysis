@@ -1,0 +1,13 @@
+
+VISION REPORT: juan_soto (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 733 (58.97%)
+     Strikes Taken: 510 (41.03%)
+     Balls Swung At: 156 (11.49%)
+     Balls Taken: 1202 (88.51%)
+     Strikeouts: 92
+     Walks: 122
+     juan_soto saw 1243 strikes and 1358 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4879
+Average PA Length: 3.9358 (2574/654)
+Batting Avg: 0.313

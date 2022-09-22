@@ -1,0 +1,13 @@
+
+VISION REPORT: nick_castellanos (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 733 (77.81%)
+     Strikes Taken: 209 (22.19%)
+     Balls Swung At: 402 (33.47%)
+     Balls Taken: 799 (66.53%)
+     Strikeouts: 120
+     Walks: 36
+     nick_castellanos saw 942 strikes and 1201 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4298
+Average PA Length: 3.6581 (2140/585)
+Batting Avg: 0.309

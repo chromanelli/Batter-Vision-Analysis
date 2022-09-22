@@ -1,0 +1,13 @@
+
+VISION REPORT: elias_diaz (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 481 (74.11%)
+     Strikes Taken: 168 (25.89%)
+     Balls Swung At: 164 (24.92%)
+     Balls Taken: 494 (75.08%)
+     Strikeouts: 60
+     Walks: 29
+     elias_diaz saw 649 strikes and 658 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4920
+Average PA Length: 3.5067 (1301/371)
+Batting Avg: 0.246

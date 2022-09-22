@@ -1,0 +1,13 @@
+
+VISION REPORT: miguel_sano (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 641 (63.91%)
+     Strikes Taken: 362 (36.09%)
+     Balls Swung At: 293 (24.58%)
+     Balls Taken: 899 (75.42%)
+     Strikeouts: 183
+     Walks: 57
+     miguel_sano saw 1003 strikes and 1192 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4032
+Average PA Length: 4.1109 (2187/532)
+Batting Avg: 0.223

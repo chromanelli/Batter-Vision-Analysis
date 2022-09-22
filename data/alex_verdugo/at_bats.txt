@@ -1,0 +1,13 @@
+
+VISION REPORT: alex_verdugo (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 737 (61.57%)
+     Strikes Taken: 460 (38.43%)
+     Balls Swung At: 288 (25.07%)
+     Balls Taken: 861 (74.93%)
+     Strikeouts: 96
+     Walks: 45
+     alex_verdugo saw 1197 strikes and 1149 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3623
+Average PA Length: 3.8675 (2336/604)
+Batting Avg: 0.289

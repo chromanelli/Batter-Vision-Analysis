@@ -1,0 +1,13 @@
+
+VISION REPORT: jon_berti (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 346 (60.60%)
+     Strikes Taken: 225 (39.40%)
+     Balls Swung At: 115 (20.28%)
+     Balls Taken: 452 (79.72%)
+     Strikeouts: 61
+     Walks: 32
+     jon_berti saw 571 strikes and 567 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4025
+Average PA Length: 4.1956 (1137/271)
+Batting Avg: 0.210

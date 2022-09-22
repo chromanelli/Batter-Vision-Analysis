@@ -1,0 +1,13 @@
+
+VISION REPORT: enrique_hernandez (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 704 (65.86%)
+     Strikes Taken: 365 (34.14%)
+     Balls Swung At: 281 (23.49%)
+     Balls Taken: 915 (76.51%)
+     Strikeouts: 110
+     Walks: 61
+     enrique_hernandez saw 1069 strikes and 1196 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4296
+Average PA Length: 3.8632 (2260/585)
+Batting Avg: 0.250

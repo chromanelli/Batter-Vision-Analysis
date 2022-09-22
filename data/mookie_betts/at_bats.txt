@@ -1,0 +1,13 @@
+
+VISION REPORT: mookie_betts (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 682 (62.97%)
+     Strikes Taken: 401 (37.03%)
+     Balls Swung At: 199 (17.32%)
+     Balls Taken: 950 (82.68%)
+     Strikeouts: 86
+     Walks: 66
+     mookie_betts saw 1083 strikes and 1149 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4624
+Average PA Length: 4.0436 (2224/550)
+Batting Avg: 0.264

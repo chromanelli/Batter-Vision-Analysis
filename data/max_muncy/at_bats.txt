@@ -1,0 +1,13 @@
+
+VISION REPORT: max_muncy (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 710 (59.41%)
+     Strikes Taken: 485 (40.59%)
+     Balls Swung At: 187 (15.09%)
+     Balls Taken: 1052 (84.91%)
+     Strikeouts: 119
+     Walks: 78
+     max_muncy saw 1195 strikes and 1239 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4478
+Average PA Length: 4.0794 (2415/592)
+Batting Avg: 0.250

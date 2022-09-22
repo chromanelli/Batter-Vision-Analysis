@@ -1,0 +1,13 @@
+
+VISION REPORT: byron_buxton (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 342 (76.51%)
+     Strikes Taken: 105 (23.49%)
+     Balls Swung At: 137 (28.66%)
+     Balls Taken: 341 (71.34%)
+     Strikeouts: 62
+     Walks: 13
+     byron_buxton saw 447 strikes and 478 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4768
+Average PA Length: 3.6378 (924/254)
+Batting Avg: 0.306

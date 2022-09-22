@@ -1,0 +1,13 @@
+
+VISION REPORT: kyle_schwarber (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 590 (62.70%)
+     Strikes Taken: 351 (37.30%)
+     Balls Swung At: 205 (19.62%)
+     Balls Taken: 840 (80.38%)
+     Strikeouts: 127
+     Walks: 63
+     kyle_schwarber saw 941 strikes and 1045 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4401
+Average PA Length: 4.1975 (1977/471)
+Batting Avg: 0.266

@@ -1,0 +1,13 @@
+
+VISION REPORT: ian_happ (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 702 (63.88%)
+     Strikes Taken: 397 (36.12%)
+     Balls Swung At: 241 (20.94%)
+     Balls Taken: 910 (79.06%)
+     Strikeouts: 155
+     Walks: 62
+     ian_happ saw 1099 strikes and 1151 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4329
+Average PA Length: 4.1757 (2234/535)
+Batting Avg: 0.226

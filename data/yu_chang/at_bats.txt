@@ -1,0 +1,13 @@
+
+VISION REPORT: yu_chang (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 338 (71.16%)
+     Strikes Taken: 137 (28.84%)
+     Balls Swung At: 132 (26.94%)
+     Balls Taken: 358 (73.06%)
+     Strikeouts: 69
+     Walks: 11
+     yu_chang saw 475 strikes and 490 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4425
+Average PA Length: 3.8406 (964/251)
+Batting Avg: 0.228

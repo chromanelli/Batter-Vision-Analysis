@@ -1,0 +1,13 @@
+
+VISION REPORT: andrew_benintendi (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 746 (71.39%)
+     Strikes Taken: 299 (28.61%)
+     Balls Swung At: 280 (28.00%)
+     Balls Taken: 720 (72.00%)
+     Strikeouts: 97
+     Walks: 36
+     andrew_benintendi saw 1045 strikes and 1000 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4337
+Average PA Length: 3.7584 (2022/538)
+Batting Avg: 0.276

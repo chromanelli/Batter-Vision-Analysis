@@ -1,0 +1,13 @@
+
+VISION REPORT: christian_arroyo (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 244 (74.62%)
+     Strikes Taken: 83 (25.38%)
+     Balls Swung At: 127 (34.42%)
+     Balls Taken: 242 (65.58%)
+     Strikeouts: 44
+     Walks: 8
+     christian_arroyo saw 327 strikes and 369 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3966
+Average PA Length: 3.7845 (685/181)
+Batting Avg: 0.262

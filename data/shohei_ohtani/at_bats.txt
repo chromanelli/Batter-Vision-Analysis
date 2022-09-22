@@ -1,0 +1,13 @@
+
+VISION REPORT: shohei_ohtani (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 767 (68.18%)
+     Strikes Taken: 358 (31.82%)
+     Balls Swung At: 375 (25.53%)
+     Balls Taken: 1094 (74.47%)
+     Strikeouts: 188
+     Walks: 76
+     shohei_ohtani saw 1125 strikes and 1469 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4348
+Average PA Length: 4.0235 (2571/639)
+Batting Avg: 0.257

@@ -1,0 +1,13 @@
+
+VISION REPORT: mitch_haniger (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 862 (63.90%)
+     Strikes Taken: 487 (36.10%)
+     Balls Swung At: 386 (27.07%)
+     Balls Taken: 1040 (72.93%)
+     Strikeouts: 167
+     Walks: 52
+     mitch_haniger saw 1349 strikes and 1426 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3708
+Average PA Length: 3.9870 (2755/691)
+Batting Avg: 0.253

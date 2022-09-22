@@ -1,0 +1,13 @@
+
+VISION REPORT: kyle_tucker (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 834 (79.66%)
+     Strikes Taken: 213 (20.34%)
+     Balls Swung At: 276 (24.36%)
+     Balls Taken: 857 (75.64%)
+     Strikeouts: 90
+     Walks: 48
+     kyle_tucker saw 1047 strikes and 1133 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5514
+Average PA Length: 3.8289 (2171/567)
+Batting Avg: 0.295
