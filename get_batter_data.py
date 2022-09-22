@@ -7,7 +7,9 @@ from vision_analysis import analysis
 
 all_vsa = []
 all_vsb = []
+all_vsc = []
 all_apal = []
+all_pa = []
 all_ba = []
 all_so = []
 
@@ -31,12 +33,14 @@ def get_data(player_name, s_dt, e_dt):
     overall_data = pyb.batting_stats_range(s_dt, e_dt)
     overall_data = overall_data.loc[overall_data["Name"] == fix_name(player_name)]
 
-    vsa, vsb, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
+    vsa, vsb, vsc, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
     sz.make_strikezone_graph(p_name)
 
     all_vsa.append(vsa)
     all_vsb.append(vsb)
+    all_vsc.append(vsc)
     all_apal.append(apal)
+    all_pa.append(overall_data["PA"].values[0])
     all_ba.append(overall_data["BA"].values[0])
     all_so.append(overall_data["SO"].values[0])
 
@@ -70,8 +74,10 @@ for p_name in players_to_search:
     if os.path.exists(dir_path) == False: os.mkdir(dir_path)
     player_name = p_name.split("_")
     get_data(player_name, s_dt, e_dt)
+    exit()
 
-data = {"name": players_to_search, "vsa": all_vsa, "vsb": all_vsb, "apal": all_apal, "ba": all_ba, "so": all_so}
+data = {"name": players_to_search, "vsa": all_vsa, "vsb": all_vsb, "vsc": all_vsc, 
+"apal": all_apal, "pa": all_pa, "ba": all_ba, "so": all_so}
 
 vision_data = pd.DataFrame(data)
 vision_data.to_csv("data/overall.csv")
