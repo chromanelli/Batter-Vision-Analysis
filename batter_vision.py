@@ -6,7 +6,7 @@ end_events = ["strikeout", "walk", "field_error", "field_out", "single",
     "double", "triple", "home_run", "grounded_into_double_play", "double_play",
     "force_out", "hit_by_pitch", "sac_fly", "fielders_choice"]
 
-def vision_score(player_name, s_dt, e_dt, overall_data):
+def vision_score(player_name, s_dt, e_dt, overall_data, verbose):
     batter_data = pd.read_csv("data/" + player_name + "/at_bats.csv")
     
     strike_swing = 0
@@ -66,19 +66,20 @@ def vision_score(player_name, s_dt, e_dt, overall_data):
         f.write("Batting Avg: {:.3f}\n".format(overall_data["BA"].values[0]))
     f.close()
 
-    print("\nVISION REPORT: {:} ({:} thru {:})".format(player_name, s_dt, e_dt))
-    print("     Total PA: {:}".format(total_pa))
-    print("     Strikes Swung At: {:} ({:.2f}%)".format(strike_swing, 100 * strike_swing/total_strikes))
-    print("     Strikes Taken: {:} ({:.2f}%)".format(strike_take, 100 * strike_take/total_strikes))
-    print("     Balls Swung At: {:} ({:.2f}%)".format(ball_swing, 100 * ball_swing/total_balls))
-    print("     Balls Taken: {:} ({:.2f}%)".format(ball_take, 100 * ball_take/total_balls))
-    print("     Strikeouts: {:}".format(total_so))
-    print("     Walks: {:}".format(total_bb))
-    print("     {:} saw {:} strikes and {:} balls\n".format(player_name, total_strikes, total_balls))
-    print("VISION SCORE METRIC A (SSA+BT)/(ST+BSA): {:.4f}".format(v_score_a))
-    print("VISION SCORE METRIC B (VSA - SO%): {:.4f}".format(v_score_b))
-    print("VISION SCORE METRIC C (VSB + BB%): {:.4f}\n".format(v_score_c))
-    print("Average PA Length: {:.4f} ({:}/{:})".format(apal/total_pa, apal, total_pa))
-    print("Batting Avg: {:.3f}\n".format(overall_data["BA"].values[0]))
+    if verbose == True:
+        print("\nVISION REPORT: {:} ({:} thru {:})".format(player_name, s_dt, e_dt))
+        print("     Total PA: {:}".format(total_pa))
+        print("     Strikes Swung At: {:} ({:.2f}%)".format(strike_swing, 100 * strike_swing/total_strikes))
+        print("     Strikes Taken: {:} ({:.2f}%)".format(strike_take, 100 * strike_take/total_strikes))
+        print("     Balls Swung At: {:} ({:.2f}%)".format(ball_swing, 100 * ball_swing/total_balls))
+        print("     Balls Taken: {:} ({:.2f}%)".format(ball_take, 100 * ball_take/total_balls))
+        print("     Strikeouts: {:}".format(total_so))
+        print("     Walks: {:}".format(total_bb))
+        print("     {:} saw {:} strikes and {:} balls\n".format(player_name, total_strikes, total_balls))
+        print("VISION SCORE METRIC A (SSA+BT)/(ST+BSA): {:.4f}".format(v_score_a))
+        print("VISION SCORE METRIC B (VSA - SO%): {:.4f}".format(v_score_b))
+        print("VISION SCORE METRIC C (VSB + BB%): {:.4f}\n".format(v_score_c))
+        print("Average PA Length: {:.4f} ({:}/{:})".format(apal/total_pa, apal, total_pa))
+        print("Batting Avg: {:.3f}\n".format(overall_data["BA"].values[0]))
     
     return v_score_a, v_score_b, v_score_c, apal/total_pa

@@ -34,7 +34,7 @@ def get_data(player_name, s_dt, e_dt):
     overall_data = pyb.batting_stats_range(s_dt, e_dt)
     overall_data = overall_data.loc[overall_data["Name"] == fix_name(player_name)]
 
-    vsa, vsb, vsc, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
+    vsa, vsb, vsc, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data, True)
     sz.make_strikezone_graph(p_name)
 
     all_vsa.append(vsa)
@@ -51,7 +51,7 @@ def get_data(player_name, s_dt, e_dt):
 def use_existing(s_dt, e_dt, overall_data):
     print("Parsing: {:}".format(p_name))
 
-    vsa, vsb, vsc, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data)
+    vsa, vsb, vsc, apal = bv.vision_score(p_name, s_dt, e_dt, overall_data, False)
     sz.make_strikezone_graph(p_name)
 
     all_vsa.append(vsa)
