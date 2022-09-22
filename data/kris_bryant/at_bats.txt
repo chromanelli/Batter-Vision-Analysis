@@ -9,5 +9,6 @@ VISION REPORT: kris_bryant (2021-04-01 thru 2021-10-04)
      kris_bryant saw 1049 strikes and 1183 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4731
+VISION SCORE METRIC B (VSA - SO%): 0.2427
 Average PA Length: 3.7850 (2218/586)
 Batting Avg: 0.265

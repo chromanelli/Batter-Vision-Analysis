@@ -14,8 +14,8 @@
 12,2021-10-03,571771,607200,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,0,5,7,0.42,1.11
 13,2021-10-03,571771,672851,strikeout,swinging_strike_blocked,13,Enrique Hernandez strikes out swinging.,1,2,0,4,1,-0.15,0.48
 14,2021-10-03,571771,607200,,swinging_strike,9,Enrique Hernandez strikes out swinging.,2,1,0,4,7,0.63,1.91
-15,2021-10-03,571771,607200,,ball,14,Enrique Hernandez strikes out swinging.,1,1,0,3,7,2.03,1.44
-16,2021-10-03,571771,672851,,ball,14,Enrique Hernandez strikes out swinging.,0,2,0,3,1,1.58,-0.11
+15,2021-10-03,571771,672851,,ball,14,Enrique Hernandez strikes out swinging.,0,2,0,3,1,1.58,-0.11
+16,2021-10-03,571771,607200,,ball,14,Enrique Hernandez strikes out swinging.,1,1,0,3,7,2.03,1.44
 17,2021-10-03,571771,672851,,foul,5,Enrique Hernandez strikes out swinging.,0,1,0,2,1,0.17,2.66
 18,2021-10-03,571771,607200,,ball,14,Enrique Hernandez strikes out swinging.,0,1,0,2,7,1.38,1.8
 19,2021-10-03,571771,672851,,called_strike,8,Enrique Hernandez strikes out swinging.,0,0,0,1,1,0.02,1.83
@@ -34,10 +34,10 @@
 32,2021-10-02,571771,680686,field_out,hit_into_play,14,"Enrique Hernandez grounds out, pitcher Josiah Gray to first baseman Josh Bell.",2,2,0,5,1,0.92,2.23
 33,2021-10-02,571771,680686,,ball,14,"Enrique Hernandez grounds out, pitcher Josiah Gray to first baseman Josh Bell.",1,2,0,4,1,1.15,0.39
 34,2021-10-02,571771,680686,,ball,14,"Enrique Hernandez grounds out, pitcher Josiah Gray to first baseman Josh Bell.",0,2,0,3,1,1.86,0.35
-35,2021-10-02,571771,680686,,called_strike,9,"Enrique Hernandez grounds out, pitcher Josiah Gray to first baseman Josh Bell.",0,1,0,2,1,0.79,1.49
-36,2021-10-02,571771,666168,home_run,hit_into_play,4,Enrique Hernandez homers (20) on a fly ball to left center field.   Travis Shaw scores.,1,0,2,2,9,-0.81,2.67
-37,2021-10-02,571771,680686,,called_strike,3,"Enrique Hernandez grounds out, pitcher Josiah Gray to first baseman Josh Bell.",0,0,0,1,1,0.8,2.88
-38,2021-10-02,571771,666168,,ball,11,Enrique Hernandez homers (20) on a fly ball to left center field.   Travis Shaw scores.,0,0,2,1,9,-0.98,3.31
+35,2021-10-02,571771,666168,home_run,hit_into_play,4,Enrique Hernandez homers (20) on a fly ball to left center field.   Travis Shaw scores.,1,0,2,2,9,-0.81,2.67
+36,2021-10-02,571771,680686,,called_strike,9,"Enrique Hernandez grounds out, pitcher Josiah Gray to first baseman Josh Bell.",0,1,0,2,1,0.79,1.49
+37,2021-10-02,571771,666168,,ball,11,Enrique Hernandez homers (20) on a fly ball to left center field.   Travis Shaw scores.,0,0,2,1,9,-0.98,3.31
+38,2021-10-02,571771,680686,,called_strike,3,"Enrique Hernandez grounds out, pitcher Josiah Gray to first baseman Josh Bell.",0,0,0,1,1,0.8,2.88
 39,2021-10-01,571771,642028,walk,ball,12,Enrique Hernandez walks.,3,1,2,5,5,1.23,3.67
 40,2021-10-01,571771,642028,,ball,11,Enrique Hernandez walks.,2,1,2,4,5,-1.2,3.47
 41,2021-10-01,571771,642028,,ball,13,Enrique Hernandez walks.,1,1,2,3,5,-0.46,0.45
@@ -48,12 +48,12 @@
 46,2021-10-01,571771,543594,walk,ball,13,Enrique Hernandez walks.,3,2,0,6,9,-0.1,0.63
 47,2021-10-01,571771,543594,,ball,13,Enrique Hernandez walks.,2,2,0,5,9,-1.41,0.88
 48,2021-10-01,571771,642028,strikeout,swinging_strike,13,Enrique Hernandez strikes out swinging.,2,2,0,5,1,-1.25,1.39
-49,2021-10-01,571771,543594,,ball,12,Enrique Hernandez walks.,1,2,0,4,9,0.55,4.16
-50,2021-10-01,571771,642028,,ball,13,Enrique Hernandez strikes out swinging.,1,2,0,4,1,-0.37,-0.18
+49,2021-10-01,571771,642028,,ball,13,Enrique Hernandez strikes out swinging.,1,2,0,4,1,-0.37,-0.18
+50,2021-10-01,571771,543594,,ball,12,Enrique Hernandez walks.,1,2,0,4,9,0.55,4.16
 51,2021-10-01,571771,642028,,ball,11,Enrique Hernandez strikes out swinging.,0,2,0,3,1,-0.76,3.53
 52,2021-10-01,571771,543594,,foul,13,Enrique Hernandez walks.,1,1,0,3,9,-0.98,1.75
-53,2021-10-01,571771,600921,field_out,hit_into_play,7,Enrique Hernandez lines out sharply to left fielder Andrew Stevenson.,0,1,0,2,7,-0.8,2.03
-54,2021-10-01,571771,642028,,called_strike,4,Enrique Hernandez strikes out swinging.,0,1,0,2,1,-0.41,2.23
+53,2021-10-01,571771,642028,,called_strike,4,Enrique Hernandez strikes out swinging.,0,1,0,2,1,-0.41,2.23
+54,2021-10-01,571771,600921,field_out,hit_into_play,7,Enrique Hernandez lines out sharply to left fielder Andrew Stevenson.,0,1,0,2,7,-0.8,2.03
 55,2021-10-01,571771,543594,,called_strike,7,Enrique Hernandez walks.,1,0,0,2,9,-0.66,1.72
 56,2021-10-01,571771,642028,,called_strike,5,Enrique Hernandez strikes out swinging.,0,0,0,1,1,0.14,2.5
 57,2021-10-01,571771,600921,,called_strike,6,Enrique Hernandez lines out sharply to left fielder Andrew Stevenson.,0,0,0,1,7,0.67,2.54
@@ -70,8 +70,8 @@
 68,2021-09-30,571771,622253,,foul,13,Enrique Hernandez flies out to center fielder Cedric Mullins.,2,1,0,4,8,-0.97,2.27
 69,2021-09-30,571771,622253,,ball,14,Enrique Hernandez flies out to center fielder Cedric Mullins.,1,1,0,3,8,1.8,1.59
 70,2021-09-30,571771,622253,,ball,13,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,1,0,2,8,-0.06,0.7
-71,2021-09-30,571771,649144,home_run,hit_into_play,3,Enrique Hernandez homers (19) on a fly ball to left center field.,0,0,0,1,1,0.34,3.12
-72,2021-09-30,571771,622253,,called_strike,6,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,0,0,1,8,0.47,2.5
+71,2021-09-30,571771,622253,,called_strike,6,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,0,0,1,8,0.47,2.5
+72,2021-09-30,571771,649144,home_run,hit_into_play,3,Enrique Hernandez homers (19) on a fly ball to left center field.,0,0,0,1,1,0.34,3.12
 73,2021-09-29,571771,675912,grounded_into_double_play,hit_into_play,4,"Enrique Hernandez grounds into a double play, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.   Alex Verdugo out at 3rd.    Jose Iglesias to 2nd.    Enrique Hernandez out at 1st.",2,1,0,4,5,-0.64,2.7
 74,2021-09-29,571771,675912,,called_strike,8,"Enrique Hernandez grounds into a double play, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.   Alex Verdugo out at 3rd.    Jose Iglesias to 2nd.    Enrique Hernandez out at 1st.",2,0,0,3,5,0.13,1.82
 75,2021-09-29,571771,675912,,ball,12,"Enrique Hernandez grounds into a double play, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.   Alex Verdugo out at 3rd.    Jose Iglesias to 2nd.    Enrique Hernandez out at 1st.",1,0,0,2,5,1.24,3.25
@@ -85,11 +85,11 @@
 83,2021-09-29,571771,621139,,swinging_strike,14,Enrique Hernandez flies out to first baseman Ryan Mountcastle.,2,1,1,4,7,0.72,0.02
 84,2021-09-29,571771,621139,,ball,13,Enrique Hernandez flies out to first baseman Ryan Mountcastle.,1,1,1,3,7,-0.04,0.27
 85,2021-09-29,571771,621139,,foul,5,Enrique Hernandez flies out to first baseman Ryan Mountcastle.,1,0,1,2,7,-0.2,2.63
-86,2021-09-29,571771,621139,,ball,14,Enrique Hernandez flies out to first baseman Ryan Mountcastle.,0,0,1,1,7,2.45,0.38
-87,2021-09-29,571771,657093,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Austin Hays.,2,2,1,5,9,0.59,2.67
+86,2021-09-29,571771,657093,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Austin Hays.,2,2,1,5,9,0.59,2.67
+87,2021-09-29,571771,621139,,ball,14,Enrique Hernandez flies out to first baseman Ryan Mountcastle.,0,0,1,1,7,2.45,0.38
 88,2021-09-29,571771,657093,,ball,14,Enrique Hernandez flies out to right fielder Austin Hays.,1,2,1,4,9,0.75,1.13
-89,2021-09-29,571771,657093,,foul,8,Enrique Hernandez flies out to right fielder Austin Hays.,1,1,1,3,9,0.01,1.74
-90,2021-09-29,571771,675912,field_error,hit_into_play,6,Enrique Hernandez reaches on a fielding error by shortstop Richie Martin.,3,2,0,7,1,0.34,2.09
+89,2021-09-29,571771,675912,field_error,hit_into_play,6,Enrique Hernandez reaches on a fielding error by shortstop Richie Martin.,3,2,0,7,1,0.34,2.09
+90,2021-09-29,571771,657093,,foul,8,Enrique Hernandez flies out to right fielder Austin Hays.,1,1,1,3,9,0.01,1.74
 91,2021-09-29,571771,657093,,called_strike,7,Enrique Hernandez flies out to right fielder Austin Hays.,1,0,1,2,9,-0.63,1.94
 92,2021-09-29,571771,675912,,ball,13,Enrique Hernandez reaches on a fielding error by shortstop Richie Martin.,2,2,0,6,1,-1.78,0.01
 93,2021-09-29,571771,657093,,ball,14,Enrique Hernandez flies out to right fielder Austin Hays.,0,0,1,1,9,1.01,1.88
@@ -103,8 +103,8 @@
 101,2021-09-28,571771,669145,,ball,12,"Enrique Hernandez grounds out, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.",0,1,1,2,3,1.29,3.41
 102,2021-09-28,571771,669145,,called_strike,4,"Enrique Hernandez grounds out, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.",0,0,1,1,3,-0.47,2.49
 103,2021-09-28,571771,607216,field_out,hit_into_play,8,"Enrique Hernandez grounds out, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.",0,1,1,2,8,0.22,1.95
-104,2021-09-28,571771,607216,,foul,3,"Enrique Hernandez grounds out, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.",0,0,1,1,8,0.57,2.79
-105,2021-09-28,571771,650959,strikeout,swinging_strike_blocked,14,"Enrique Hernandez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,2,2,3,5,0.36,0.97
+104,2021-09-28,571771,650959,strikeout,swinging_strike_blocked,14,"Enrique Hernandez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,2,2,3,5,0.36,0.97
+105,2021-09-28,571771,607216,,foul,3,"Enrique Hernandez grounds out, third baseman Kelvin Gutierrez to first baseman Ryan Mountcastle.",0,0,1,1,8,0.57,2.79
 106,2021-09-28,571771,650959,,swinging_strike,6,"Enrique Hernandez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,1,2,2,5,0.6,2.47
 107,2021-09-28,571771,650959,,called_strike,2,"Enrique Hernandez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,0,2,1,5,-0.08,3.21
 108,2021-09-28,571771,669145,field_out,hit_into_play,12,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,2,0,3,1,0.05,3.45
@@ -145,13 +145,13 @@
 143,2021-09-25,571771,547973,,foul,8,"Enrique Hernandez grounds out, third baseman Gio Urshela to first baseman Anthony Rizzo.",1,2,2,4,9,-0.06,1.88
 144,2021-09-25,571771,547973,,swinging_strike,8,"Enrique Hernandez grounds out, third baseman Gio Urshela to first baseman Anthony Rizzo.",1,1,2,3,9,-0.21,2.0
 145,2021-09-25,571771,547973,,ball,3,"Enrique Hernandez grounds out, third baseman Gio Urshela to first baseman Anthony Rizzo.",0,1,2,2,9,0.78,3.34
-146,2021-09-25,571771,650633,strikeout,swinging_strike,9,Enrique Hernandez strikes out swinging.,2,2,1,5,5,0.42,1.57
-147,2021-09-25,571771,547973,,foul,2,"Enrique Hernandez grounds out, third baseman Gio Urshela to first baseman Anthony Rizzo.",0,0,2,1,9,-0.13,3.2
+146,2021-09-25,571771,547973,,foul,2,"Enrique Hernandez grounds out, third baseman Gio Urshela to first baseman Anthony Rizzo.",0,0,2,1,9,-0.13,3.2
+147,2021-09-25,571771,650633,strikeout,swinging_strike,9,Enrique Hernandez strikes out swinging.,2,2,1,5,5,0.42,1.57
 148,2021-09-25,571771,650633,,ball,14,Enrique Hernandez strikes out swinging.,1,2,1,4,5,3.88,0.85
 149,2021-09-25,571771,650633,,called_strike,9,Enrique Hernandez strikes out swinging.,1,1,1,3,5,0.46,2.13
 150,2021-09-25,571771,650633,,foul,4,Enrique Hernandez strikes out swinging.,1,0,1,2,5,-0.35,2.75
-151,2021-09-25,571771,650633,,ball,9,Enrique Hernandez strikes out swinging.,0,0,1,1,5,0.46,1.5
-152,2021-09-25,571771,641482,field_out,hit_into_play,12,Enrique Hernandez flies out to right fielder Aaron Judge.,3,2,0,6,1,1.01,2.83
+151,2021-09-25,571771,641482,field_out,hit_into_play,12,Enrique Hernandez flies out to right fielder Aaron Judge.,3,2,0,6,1,1.01,2.83
+152,2021-09-25,571771,650633,,ball,9,Enrique Hernandez strikes out swinging.,0,0,1,1,5,0.46,1.5
 153,2021-09-25,571771,641482,,ball,14,Enrique Hernandez flies out to right fielder Aaron Judge.,2,2,0,5,1,1.09,1.8
 154,2021-09-25,571771,641482,,foul,4,Enrique Hernandez flies out to right fielder Aaron Judge.,2,1,0,4,1,-0.43,2.73
 155,2021-09-25,571771,641482,,ball,14,Enrique Hernandez flies out to right fielder Aaron Judge.,1,1,0,3,1,1.04,0.89
@@ -225,8 +225,8 @@
 223,2021-09-19,571771,649144,,ball,11,Enrique Hernandez doubles (34) on a line drive to left fielder Anthony Santander.   Alex Verdugo scores.,1,0,1,2,2,-0.68,3.64
 224,2021-09-19,571771,649144,,ball,13,Enrique Hernandez doubles (34) on a line drive to left fielder Anthony Santander.   Alex Verdugo scores.,0,0,1,1,2,-0.67,1.36
 225,2021-09-19,571771,649144,walk,ball,11,Enrique Hernandez walks.,3,2,0,6,1,-1.39,2.81
-226,2021-09-19,571771,649144,,called_strike,3,Enrique Hernandez walks.,3,1,0,5,1,0.28,2.87
-227,2021-09-19,571771,641632,single,hit_into_play,5,Enrique Hernandez singles on a ground ball to center fielder Cedric Mullins.   Jose Iglesias scores.,0,0,1,1,7,-0.22,2.75
+226,2021-09-19,571771,641632,single,hit_into_play,5,Enrique Hernandez singles on a ground ball to center fielder Cedric Mullins.   Jose Iglesias scores.,0,0,1,1,7,-0.22,2.75
+227,2021-09-19,571771,649144,,called_strike,3,Enrique Hernandez walks.,3,1,0,5,1,0.28,2.87
 228,2021-09-19,571771,649144,,ball,14,Enrique Hernandez walks.,2,1,0,4,1,0.22,1.33
 229,2021-09-19,571771,649144,,ball,12,Enrique Hernandez walks.,1,1,0,3,1,0.35,3.93
 230,2021-09-19,571771,649144,,ball,11,Enrique Hernandez walks.,0,1,0,2,1,-1.15,3.36
@@ -237,20 +237,20 @@
 235,2021-09-18,571771,657508,,called_strike,11,Enrique Hernandez singles on a sharp line drive to left fielder Anthony Santander.,0,0,2,1,6,-0.32,3.46
 236,2021-09-18,571771,675912,field_out,hit_into_play,5,Enrique Hernandez flies out sharply to center fielder Cedric Mullins.,2,1,1,4,2,-0.05,2.4
 237,2021-09-18,571771,675912,,foul,5,Enrique Hernandez flies out sharply to center fielder Cedric Mullins.,2,0,1,3,2,-0.14,2.36
-238,2021-09-18,571771,472551,field_out,hit_into_play,9,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",3,2,2,8,7,0.6,1.73
-239,2021-09-18,571771,675912,,ball,12,Enrique Hernandez flies out sharply to center fielder Cedric Mullins.,1,0,1,2,2,1.56,3.46
-240,2021-09-18,571771,675912,,ball,11,Enrique Hernandez flies out sharply to center fielder Cedric Mullins.,0,0,1,1,2,-0.38,3.8
-241,2021-09-18,571771,472551,,foul,11,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",3,2,2,7,7,-0.02,3.8
+238,2021-09-18,571771,675912,,ball,12,Enrique Hernandez flies out sharply to center fielder Cedric Mullins.,1,0,1,2,2,1.56,3.46
+239,2021-09-18,571771,472551,field_out,hit_into_play,9,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",3,2,2,8,7,0.6,1.73
+240,2021-09-18,571771,472551,,foul,11,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",3,2,2,7,7,-0.02,3.8
+241,2021-09-18,571771,675912,,ball,11,Enrique Hernandez flies out sharply to center fielder Cedric Mullins.,0,0,1,1,2,-0.38,3.8
 242,2021-09-18,571771,472551,,foul,11,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",3,2,2,6,7,-0.06,3.46
 243,2021-09-18,571771,472551,,ball,14,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",2,2,2,5,7,1.6,2.37
 244,2021-09-18,571771,472551,,ball,12,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",1,2,2,4,7,1.78,3.0
 245,2021-09-18,571771,472551,,called_strike,8,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",1,1,2,3,7,0.16,1.95
 246,2021-09-18,571771,472551,,swinging_strike,14,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",1,0,2,2,7,0.41,1.18
 247,2021-09-18,571771,472551,,ball,14,"Enrique Hernandez grounds out softly, pitcher Fernando Abad to first baseman Ryan Mountcastle.",0,0,2,1,7,1.1,1.89
-248,2021-09-18,571771,641632,field_out,hit_into_play,11,Enrique Hernandez flies out to right fielder Austin Hays.,0,1,2,2,4,-0.34,3.6
-249,2021-09-18,571771,675912,double,hit_into_play,8,Enrique Hernandez doubles (33) on a sharp line drive to left fielder Anthony Santander.,2,2,0,5,1,-0.03,1.87
-250,2021-09-18,571771,641632,,called_strike,2,Enrique Hernandez flies out to right fielder Austin Hays.,0,0,2,1,4,0.13,3.07
-251,2021-09-18,571771,675912,,called_strike,7,Enrique Hernandez doubles (33) on a sharp line drive to left fielder Anthony Santander.,2,1,0,4,1,-0.29,1.72
+248,2021-09-18,571771,675912,double,hit_into_play,8,Enrique Hernandez doubles (33) on a sharp line drive to left fielder Anthony Santander.,2,2,0,5,1,-0.03,1.87
+249,2021-09-18,571771,641632,field_out,hit_into_play,11,Enrique Hernandez flies out to right fielder Austin Hays.,0,1,2,2,4,-0.34,3.6
+250,2021-09-18,571771,675912,,called_strike,7,Enrique Hernandez doubles (33) on a sharp line drive to left fielder Anthony Santander.,2,1,0,4,1,-0.29,1.72
+251,2021-09-18,571771,641632,,called_strike,2,Enrique Hernandez flies out to right fielder Austin Hays.,0,0,2,1,4,0.13,3.07
 252,2021-09-18,571771,675912,,ball,13,Enrique Hernandez doubles (33) on a sharp line drive to left fielder Anthony Santander.,1,1,0,3,1,-1.05,1.56
 253,2021-09-18,571771,675912,,ball,11,Enrique Hernandez doubles (33) on a sharp line drive to left fielder Anthony Santander.,0,1,0,2,1,-1.26,3.17
 254,2021-09-18,571771,675912,,called_strike,6,Enrique Hernandez doubles (33) on a sharp line drive to left fielder Anthony Santander.,0,0,0,1,1,0.55,2.58
@@ -315,14 +315,14 @@
 313,2021-09-13,571771,669302,,ball,14,Enrique Hernandez flies out to left fielder Dylan Moore.,0,0,1,1,3,0.35,1.29
 314,2021-09-13,571771,669302,field_out,hit_into_play,14,Enrique Hernandez grounds out to first baseman Ty France.,3,2,0,6,1,1.08,2.07
 315,2021-09-13,571771,623149,strikeout,swinging_strike,11,Enrique Hernandez strikes out swinging.,2,2,0,6,8,-0.48,3.74
-316,2021-09-13,571771,623149,,foul,3,Enrique Hernandez strikes out swinging.,2,2,0,5,8,0.49,2.89
-317,2021-09-13,571771,669302,,swinging_strike,2,Enrique Hernandez grounds out to first baseman Ty France.,3,1,0,5,1,-0.24,2.8
+316,2021-09-13,571771,669302,,swinging_strike,2,Enrique Hernandez grounds out to first baseman Ty France.,3,1,0,5,1,-0.24,2.8
+317,2021-09-13,571771,623149,,foul,3,Enrique Hernandez strikes out swinging.,2,2,0,5,8,0.49,2.89
 318,2021-09-13,571771,669302,,called_strike,2,Enrique Hernandez grounds out to first baseman Ty France.,3,0,0,4,1,0.27,2.77
 319,2021-09-13,571771,623149,,ball,14,Enrique Hernandez strikes out swinging.,1,2,0,4,8,1.36,1.78
-320,2021-09-13,571771,669302,,ball,12,Enrique Hernandez grounds out to first baseman Ty France.,2,0,0,3,1,1.3,2.66
-321,2021-09-13,571771,623149,,ball,14,Enrique Hernandez strikes out swinging.,0,2,0,3,8,1.13,1.47
-322,2021-09-13,571771,669302,,ball,14,Enrique Hernandez grounds out to first baseman Ty France.,1,0,0,2,1,0.74,0.59
-323,2021-09-13,571771,623149,,swinging_strike,5,Enrique Hernandez strikes out swinging.,0,1,0,2,8,0.25,2.27
+320,2021-09-13,571771,623149,,ball,14,Enrique Hernandez strikes out swinging.,0,2,0,3,8,1.13,1.47
+321,2021-09-13,571771,669302,,ball,12,Enrique Hernandez grounds out to first baseman Ty France.,2,0,0,3,1,1.3,2.66
+322,2021-09-13,571771,623149,,swinging_strike,5,Enrique Hernandez strikes out swinging.,0,1,0,2,8,0.25,2.27
+323,2021-09-13,571771,669302,,ball,14,Enrique Hernandez grounds out to first baseman Ty France.,1,0,0,2,1,0.74,0.59
 324,2021-09-13,571771,623149,,called_strike,6,Enrique Hernandez strikes out swinging.,0,0,0,1,8,0.79,2.64
 325,2021-09-13,571771,669302,,ball,11,Enrique Hernandez grounds out to first baseman Ty France.,0,0,0,1,1,-0.99,2.34
 326,2021-09-12,571771,458681,strikeout,swinging_strike,11,Enrique Hernandez strikes out swinging.,3,2,2,6,3,-0.59,3.46
@@ -336,8 +336,8 @@
 334,2021-09-12,571771,676979,,ball,11,"Enrique Hernandez flies into a double play, center fielder Luis Robert to second baseman Cesar Hernandez.   Jose Iglesias out at 2nd.",0,0,0,1,6,-0.41,3.77
 335,2021-09-12,571771,458681,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,1,2,0,4,1,1.51,1.17
 336,2021-09-12,571771,458681,,foul,6,Enrique Hernandez strikes out swinging.,1,1,0,3,1,0.42,2.68
-337,2021-09-12,571771,518886,double,hit_into_play,2,Enrique Hernandez doubles (32) on a sharp line drive to center fielder Luis Robert.,1,0,0,2,9,0.22,2.99
-338,2021-09-12,571771,458681,,foul,8,Enrique Hernandez strikes out swinging.,1,0,0,2,1,0.25,1.8
+337,2021-09-12,571771,458681,,foul,8,Enrique Hernandez strikes out swinging.,1,0,0,2,1,0.25,1.8
+338,2021-09-12,571771,518886,double,hit_into_play,2,Enrique Hernandez doubles (32) on a sharp line drive to center fielder Luis Robert.,1,0,0,2,9,0.22,2.99
 339,2021-09-12,571771,458681,,ball,14,Enrique Hernandez strikes out swinging.,0,0,0,1,1,1.13,1.78
 340,2021-09-12,571771,518886,,ball,14,Enrique Hernandez doubles (32) on a sharp line drive to center fielder Luis Robert.,0,0,0,1,9,0.36,1.17
 341,2021-09-11,571771,656302,single,hit_into_play,9,Enrique Hernandez singles on a sharp ground ball to center fielder Luis Robert.,1,2,1,4,3,0.28,1.57
@@ -346,16 +346,16 @@
 344,2021-09-11,571771,656302,,called_strike,5,Enrique Hernandez singles on a sharp ground ball to center fielder Luis Robert.,0,0,1,1,3,-0.21,2.3
 345,2021-09-11,571771,656629,strikeout,swinging_strike_blocked,14,Enrique Hernandez strikes out swinging.,1,2,2,4,5,0.11,0.45
 346,2021-09-11,571771,656629,,blocked_ball,14,Enrique Hernandez strikes out swinging.,0,2,2,3,5,2.23,0.19
-347,2021-09-11,571771,518886,sac_fly,hit_into_play,3,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,2,2,1,5,8,0.37,2.89
-348,2021-09-11,571771,656629,,foul,3,Enrique Hernandez strikes out swinging.,0,1,2,2,5,0.49,3.05
+347,2021-09-11,571771,656629,,foul,3,Enrique Hernandez strikes out swinging.,0,1,2,2,5,0.49,3.05
+348,2021-09-11,571771,518886,sac_fly,hit_into_play,3,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,2,2,1,5,8,0.37,2.89
 349,2021-09-11,571771,518886,,ball,12,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,1,2,1,4,8,0.38,4.0
 350,2021-09-11,571771,656629,,foul,4,Enrique Hernandez strikes out swinging.,0,0,2,1,5,-0.29,2.35
-351,2021-09-11,571771,605541,field_out,hit_into_play,5,"Enrique Hernandez grounds out sharply, third baseman Yoan Moncada to first baseman Jose Abreu.",1,2,2,4,10,0.0,2.52
-352,2021-09-11,571771,518886,,ball,14,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,0,2,1,3,8,2.13,-0.7
+351,2021-09-11,571771,518886,,ball,14,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,0,2,1,3,8,2.13,-0.7
+352,2021-09-11,571771,605541,field_out,hit_into_play,5,"Enrique Hernandez grounds out sharply, third baseman Yoan Moncada to first baseman Jose Abreu.",1,2,2,4,10,0.0,2.52
 353,2021-09-11,571771,605541,,ball,14,"Enrique Hernandez grounds out sharply, third baseman Yoan Moncada to first baseman Jose Abreu.",0,2,2,3,10,1.7,1.19
 354,2021-09-11,571771,518886,,swinging_strike_blocked,14,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,0,1,1,2,8,1.19,0.39
-355,2021-09-11,571771,605541,,swinging_strike,14,"Enrique Hernandez grounds out sharply, third baseman Yoan Moncada to first baseman Jose Abreu.",0,1,2,2,10,1.06,1.05
-356,2021-09-11,571771,518886,,foul,2,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,0,0,1,1,8,-0.15,3.01
+355,2021-09-11,571771,518886,,foul,2,Enrique Hernandez out on a sacrifice fly to center fielder Luis Robert.   Jack Lopez scores.,0,0,1,1,8,-0.15,3.01
+356,2021-09-11,571771,605541,,swinging_strike,14,"Enrique Hernandez grounds out sharply, third baseman Yoan Moncada to first baseman Jose Abreu.",0,1,2,2,10,1.06,1.05
 357,2021-09-11,571771,605541,,swinging_strike,14,"Enrique Hernandez grounds out sharply, third baseman Yoan Moncada to first baseman Jose Abreu.",0,0,2,1,10,0.43,1.03
 358,2021-09-11,571771,621114,double,hit_into_play,5,Enrique Hernandez doubles (31) on a line drive to left fielder Romy Gonzalez.   Christian Vazquez to 3rd.,1,1,2,3,3,-0.08,2.49
 359,2021-09-11,571771,621114,,ball,14,Enrique Hernandez doubles (31) on a line drive to left fielder Romy Gonzalez.   Christian Vazquez to 3rd.,0,1,2,2,3,1.17,1.75
@@ -415,15 +415,15 @@
 413,2021-08-26,571771,658305,,blocked_ball,14,Enrique Hernandez walks.   Bobby Dalbec to 2nd.,0,0,0,1,6,1.63,0.37
 414,2021-08-26,571771,607457,single,hit_into_play,11,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,3,2,0,6,5,-0.92,3.21
 415,2021-08-26,571771,607457,,foul,6,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,3,1,0,5,5,0.49,2.55
-416,2021-08-26,571771,621248,strikeout,called_strike,14,Enrique Hernandez called out on strikes.,0,2,2,4,7,0.83,1.4
-417,2021-08-26,571771,607457,,called_strike,6,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,3,0,0,4,5,0.53,2.88
-418,2021-08-26,571771,607457,,ball,11,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,2,0,0,3,5,-0.93,3.29
-419,2021-08-26,571771,621248,,foul,14,Enrique Hernandez called out on strikes.,0,2,2,3,7,0.51,1.25
-420,2021-08-26,571771,621248,,swinging_strike,2,Enrique Hernandez called out on strikes.,0,1,2,2,7,-0.02,3.08
-421,2021-08-26,571771,607457,,ball,12,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,1,0,0,2,5,1.29,2.74
-422,2021-08-26,571771,607231,field_out,hit_into_play,8,"Enrique Hernandez grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",0,1,0,2,1,-0.12,1.92
-423,2021-08-26,571771,607231,,called_strike,8,"Enrique Hernandez grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",0,0,0,1,1,0.17,1.48
-424,2021-08-26,571771,621248,,swinging_strike,13,Enrique Hernandez called out on strikes.,0,0,2,1,7,-1.42,2.34
+416,2021-08-26,571771,607457,,called_strike,6,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,3,0,0,4,5,0.53,2.88
+417,2021-08-26,571771,621248,strikeout,called_strike,14,Enrique Hernandez called out on strikes.,0,2,2,4,7,0.83,1.4
+418,2021-08-26,571771,621248,,foul,14,Enrique Hernandez called out on strikes.,0,2,2,3,7,0.51,1.25
+419,2021-08-26,571771,607457,,ball,11,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,2,0,0,3,5,-0.93,3.29
+420,2021-08-26,571771,607231,field_out,hit_into_play,8,"Enrique Hernandez grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",0,1,0,2,1,-0.12,1.92
+421,2021-08-26,571771,621248,,swinging_strike,2,Enrique Hernandez called out on strikes.,0,1,2,2,7,-0.02,3.08
+422,2021-08-26,571771,607457,,ball,12,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,1,0,0,2,5,1.29,2.74
+423,2021-08-26,571771,621248,,swinging_strike,13,Enrique Hernandez called out on strikes.,0,0,2,1,7,-1.42,2.34
+424,2021-08-26,571771,607231,,called_strike,8,"Enrique Hernandez grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",0,0,0,1,1,0.17,1.48
 425,2021-08-26,571771,607457,,ball,11,Enrique Hernandez singles on a ground ball to third baseman Willians Astudillo.,0,0,0,1,5,-1.21,2.97
 426,2021-08-25,571771,641927,strikeout,swinging_strike,11,Enrique Hernandez strikes out swinging.,2,2,2,5,5,-1.03,4.04
 427,2021-08-25,571771,641927,,foul,12,Enrique Hernandez strikes out swinging.,2,1,2,4,5,0.12,3.53
@@ -441,8 +441,8 @@
 439,2021-08-25,571771,517008,double,hit_into_play,2,Enrique Hernandez doubles (30) on a line drive to center fielder Jake Cave.,3,1,0,5,9,-0.09,2.77
 440,2021-08-25,571771,517008,,called_strike,14,Enrique Hernandez doubles (30) on a line drive to center fielder Jake Cave.,3,0,0,4,9,0.95,2.4
 441,2021-08-25,571771,517008,,ball,11,Enrique Hernandez doubles (30) on a line drive to center fielder Jake Cave.,2,0,0,3,9,-0.03,3.71
-442,2021-08-25,571771,641927,field_out,hit_into_play,6,Enrique Hernandez flies out to center fielder Nick Gordon.,1,0,0,2,1,0.4,2.37
-443,2021-08-25,571771,517008,,ball,14,Enrique Hernandez doubles (30) on a line drive to center fielder Jake Cave.,1,0,0,2,9,1.89,2.1
+442,2021-08-25,571771,517008,,ball,14,Enrique Hernandez doubles (30) on a line drive to center fielder Jake Cave.,1,0,0,2,9,1.89,2.1
+443,2021-08-25,571771,641927,field_out,hit_into_play,6,Enrique Hernandez flies out to center fielder Nick Gordon.,1,0,0,2,1,0.4,2.37
 444,2021-08-25,571771,517008,,ball,14,Enrique Hernandez doubles (30) on a line drive to center fielder Jake Cave.,0,0,0,1,9,1.2,2.16
 445,2021-08-25,571771,641927,,ball,12,Enrique Hernandez flies out to center fielder Nick Gordon.,0,0,0,1,1,0.12,4.19
 446,2021-08-24,571771,643377,single,hit_into_play,9,"Enrique Hernandez singles on a ground ball to third baseman Luis Arraez.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by third baseman Luis Arraez.",1,0,0,2,5,0.61,1.74
@@ -512,14 +512,14 @@
 510,2021-08-18,571771,571760,field_out,hit_into_play,9,Enrique Hernandez flies out to right fielder Aaron Judge.,2,2,0,6,1,0.62,1.59
 511,2021-08-18,571771,571760,,foul,2,Enrique Hernandez flies out to right fielder Aaron Judge.,2,2,0,5,1,-0.21,3.04
 512,2021-08-18,571771,547973,,ball,12,Enrique Hernandez strikes out swinging.,2,2,0,5,9,1.21,4.26
-513,2021-08-18,571771,571760,,ball,12,Enrique Hernandez flies out to right fielder Aaron Judge.,1,2,0,4,1,1.34,3.13
-514,2021-08-18,571771,547973,,swinging_strike,8,Enrique Hernandez strikes out swinging.,2,1,0,4,9,-0.04,1.76
+513,2021-08-18,571771,547973,,swinging_strike,8,Enrique Hernandez strikes out swinging.,2,1,0,4,9,-0.04,1.76
+514,2021-08-18,571771,571760,,ball,12,Enrique Hernandez flies out to right fielder Aaron Judge.,1,2,0,4,1,1.34,3.13
 515,2021-08-18,571771,547973,,ball,12,Enrique Hernandez strikes out swinging.,1,1,0,3,9,1.98,4.51
 516,2021-08-18,571771,571760,,foul,3,Enrique Hernandez flies out to right fielder Aaron Judge.,1,1,0,3,1,0.51,3.0
-517,2021-08-18,571771,571760,,swinging_strike,8,Enrique Hernandez flies out to right fielder Aaron Judge.,1,0,0,2,1,0.26,1.9
-518,2021-08-18,571771,547973,,called_strike,7,Enrique Hernandez strikes out swinging.,1,0,0,2,9,-0.78,1.69
-519,2021-08-18,571771,571760,,ball,12,Enrique Hernandez flies out to right fielder Aaron Judge.,0,0,0,1,1,0.69,3.87
-520,2021-08-18,571771,547973,,ball,12,Enrique Hernandez strikes out swinging.,0,0,0,1,9,0.94,4.5
+517,2021-08-18,571771,547973,,called_strike,7,Enrique Hernandez strikes out swinging.,1,0,0,2,9,-0.78,1.69
+518,2021-08-18,571771,571760,,swinging_strike,8,Enrique Hernandez flies out to right fielder Aaron Judge.,1,0,0,2,1,0.26,1.9
+519,2021-08-18,571771,547973,,ball,12,Enrique Hernandez strikes out swinging.,0,0,0,1,9,0.94,4.5
+520,2021-08-18,571771,571760,,ball,12,Enrique Hernandez flies out to right fielder Aaron Judge.,0,0,0,1,1,0.69,3.87
 521,2021-08-17,571771,656756,walk,ball,14,Enrique Hernandez walks.,3,2,2,7,5,0.49,0.86
 522,2021-08-17,571771,656756,,foul,8,Enrique Hernandez walks.,3,2,2,6,5,-0.22,1.83
 523,2021-08-17,571771,656756,,ball,13,Enrique Hernandez walks.,2,2,2,5,5,-1.3,1.75
@@ -534,8 +534,8 @@
 532,2021-08-17,571771,661563,,foul,11,"Enrique Hernandez singles on a ground ball to center fielder Brett Gardner, deflected by shortstop Tyler Wade.   Jarren Duran to 3rd.",0,0,1,1,5,-0.35,3.49
 533,2021-08-17,571771,661563,field_out,hit_into_play,5,Enrique Hernandez pops out to first baseman Luke Voit in foul territory.,1,1,0,3,3,-0.19,2.56
 534,2021-08-17,571771,661563,,ball,14,Enrique Hernandez pops out to first baseman Luke Voit in foul territory.,0,1,0,2,3,0.89,0.75
-535,2021-08-17,571771,656756,walk,ball,14,Enrique Hernandez walks.   Bobby Dalbec to 2nd.,3,2,1,7,3,0.82,0.97
-536,2021-08-17,571771,661563,,swinging_strike,9,Enrique Hernandez pops out to first baseman Luke Voit in foul territory.,0,0,0,1,3,0.39,2.05
+535,2021-08-17,571771,661563,,swinging_strike,9,Enrique Hernandez pops out to first baseman Luke Voit in foul territory.,0,0,0,1,3,0.39,2.05
+536,2021-08-17,571771,656756,walk,ball,14,Enrique Hernandez walks.   Bobby Dalbec to 2nd.,3,2,1,7,3,0.82,0.97
 537,2021-08-17,571771,656756,,foul,5,Enrique Hernandez walks.   Bobby Dalbec to 2nd.,3,2,1,6,3,-0.04,2.35
 538,2021-08-17,571771,656756,,ball,14,Enrique Hernandez walks.   Bobby Dalbec to 2nd.,2,2,1,5,3,1.49,1.57
 539,2021-08-17,571771,656756,,ball,12,Enrique Hernandez walks.   Bobby Dalbec to 2nd.,1,2,1,4,3,1.43,2.82
@@ -548,17 +548,17 @@
 546,2021-08-17,571771,642528,,ball,11,Enrique Hernandez strikes out swinging.,2,0,1,3,7,-0.41,3.56
 547,2021-08-17,571771,642528,,blocked_ball,14,Enrique Hernandez strikes out swinging.,1,0,1,2,7,0.22,0.15
 548,2021-08-17,571771,642528,,ball,14,Enrique Hernandez strikes out swinging.,0,0,1,1,7,1.14,1.37
-549,2021-08-17,571771,661563,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,1,2,0,5,1,0.82,2.57
-550,2021-08-17,571771,643338,field_out,hit_into_play,14,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,2,2,0,5,7,0.0,1.36
-551,2021-08-17,571771,643338,,ball,14,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,1,2,0,4,7,2.05,1.55
-552,2021-08-17,571771,661563,,foul,3,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,1,2,0,4,1,0.44,3.37
+549,2021-08-17,571771,643338,field_out,hit_into_play,14,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,2,2,0,5,7,0.0,1.36
+550,2021-08-17,571771,661563,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,1,2,0,5,1,0.82,2.57
+551,2021-08-17,571771,661563,,foul,3,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,1,2,0,4,1,0.44,3.37
+552,2021-08-17,571771,643338,,ball,14,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,1,2,0,4,7,2.05,1.55
 553,2021-08-17,571771,643338,,swinging_strike,9,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,1,1,0,3,7,0.57,1.83
 554,2021-08-17,571771,661563,,swinging_strike,3,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,1,1,0,3,1,0.33,2.82
-555,2021-08-17,571771,661563,,called_strike,12,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,1,0,0,2,1,0.84,2.88
-556,2021-08-17,571771,643338,,swinging_strike,14,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,1,0,0,2,7,0.84,1.21
-557,2021-08-17,571771,656756,field_out,hit_into_play,14,"Enrique Hernandez grounds out, shortstop Andrew Velazquez to first baseman Luke Voit.",0,0,0,1,1,0.88,2.2
-558,2021-08-17,571771,643338,,ball,12,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,0,0,0,1,7,1.85,3.54
-559,2021-08-17,571771,661563,,ball,1,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,0,0,0,1,1,-0.42,3.44
+555,2021-08-17,571771,643338,,swinging_strike,14,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,1,0,0,2,7,0.84,1.21
+556,2021-08-17,571771,661563,,called_strike,12,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,1,0,0,2,1,0.84,2.88
+557,2021-08-17,571771,643338,,ball,12,Enrique Hernandez pops out to first baseman DJ LeMahieu in foul territory.,0,0,0,1,7,1.85,3.54
+558,2021-08-17,571771,661563,,ball,1,Enrique Hernandez flies out to right fielder Giancarlo Stanton.,0,0,0,1,1,-0.42,3.44
+559,2021-08-17,571771,656756,field_out,hit_into_play,14,"Enrique Hernandez grounds out, shortstop Andrew Velazquez to first baseman Luke Voit.",0,0,0,1,1,0.88,2.2
 560,2021-08-15,571771,669211,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Austin Hays.,2,1,1,4,4,0.3,2.53
 561,2021-08-15,571771,669211,,ball,14,Enrique Hernandez flies out to right fielder Austin Hays.,1,1,1,3,4,1.39,2.02
 562,2021-08-15,571771,669211,,ball,12,Enrique Hernandez flies out to right fielder Austin Hays.,0,1,1,2,4,0.79,3.53
@@ -573,12 +573,12 @@
 571,2021-08-15,571771,592831,,ball,13,Enrique Hernandez flies out to right fielder Austin Hays.,0,1,1,2,8,-1.68,2.33
 572,2021-08-15,571771,592831,,foul,4,Enrique Hernandez flies out to right fielder Austin Hays.,0,0,1,1,8,-0.36,2.58
 573,2021-08-15,571771,669211,single,hit_into_play,5,Enrique Hernandez singles on a line drive to center fielder Cedric Mullins.,1,2,0,5,1,0.21,2.2
-574,2021-08-15,571771,669211,,foul,9,Enrique Hernandez singles on a line drive to center fielder Cedric Mullins.,1,2,0,4,1,0.42,1.71
-575,2021-08-15,571771,656945,single,hit_into_play,4,Enrique Hernandez singles on a ground ball to third baseman Maikel Franco.   Kyle Schwarber scores.    Alex Verdugo to 3rd.    Christian Vazquez to 2nd.,2,1,1,4,6,-0.67,2.2
+574,2021-08-15,571771,656945,single,hit_into_play,4,Enrique Hernandez singles on a ground ball to third baseman Maikel Franco.   Kyle Schwarber scores.    Alex Verdugo to 3rd.    Christian Vazquez to 2nd.,2,1,1,4,6,-0.67,2.2
+575,2021-08-15,571771,669211,,foul,9,Enrique Hernandez singles on a line drive to center fielder Cedric Mullins.,1,2,0,4,1,0.42,1.71
 576,2021-08-15,571771,656945,,ball,12,Enrique Hernandez singles on a ground ball to third baseman Maikel Franco.   Kyle Schwarber scores.    Alex Verdugo to 3rd.    Christian Vazquez to 2nd.,1,1,1,3,6,1.29,3.52
 577,2021-08-15,571771,669211,,ball,12,Enrique Hernandez singles on a line drive to center fielder Cedric Mullins.,0,2,0,3,1,0.03,4.32
-578,2021-08-15,571771,669211,,foul,5,Enrique Hernandez singles on a line drive to center fielder Cedric Mullins.,0,1,0,2,1,-0.18,2.27
-579,2021-08-15,571771,656945,,swinging_strike,13,Enrique Hernandez singles on a ground ball to third baseman Maikel Franco.   Kyle Schwarber scores.    Alex Verdugo to 3rd.    Christian Vazquez to 2nd.,1,0,1,2,6,-0.68,1.1
+578,2021-08-15,571771,656945,,swinging_strike,13,Enrique Hernandez singles on a ground ball to third baseman Maikel Franco.   Kyle Schwarber scores.    Alex Verdugo to 3rd.    Christian Vazquez to 2nd.,1,0,1,2,6,-0.68,1.1
+579,2021-08-15,571771,669211,,foul,5,Enrique Hernandez singles on a line drive to center fielder Cedric Mullins.,0,1,0,2,1,-0.18,2.27
 580,2021-08-15,571771,656945,,ball,12,Enrique Hernandez singles on a ground ball to third baseman Maikel Franco.   Kyle Schwarber scores.    Alex Verdugo to 3rd.    Christian Vazquez to 2nd.,0,0,1,1,6,1.05,4.06
 581,2021-08-15,571771,669211,,called_strike,9,Enrique Hernandez singles on a line drive to center fielder Cedric Mullins.,0,0,0,1,1,0.6,2.22
 582,2021-08-14,571771,605347,hit_by_pitch,hit_by_pitch,11,Enrique Hernandez hit by pitch.,2,2,1,7,4,-1.74,3.96
@@ -633,10 +633,10 @@
 631,2021-08-12,571771,543521,,called_strike,4,"Enrique Hernandez grounds out, shortstop Wander Franco to first baseman Yandy Diaz.",0,1,0,2,6,-0.61,2.16
 632,2021-08-12,571771,543521,,called_strike,3,"Enrique Hernandez grounds out, shortstop Wander Franco to first baseman Yandy Diaz.",0,0,0,1,6,0.62,2.91
 633,2021-08-12,571771,656876,walk,ball,14,Enrique Hernandez walks.,3,1,0,5,1,1.27,2.2
-634,2021-08-12,571771,656876,,ball,12,Enrique Hernandez walks.,2,1,0,4,1,0.95,3.71
-635,2021-08-12,571771,595411,walk,ball,13,Enrique Hernandez walks.,3,0,0,4,9,-1.72,0.99
-636,2021-08-12,571771,656876,,foul,1,Enrique Hernandez walks.,2,0,0,3,1,-0.28,2.76
-637,2021-08-12,571771,595411,,ball,13,Enrique Hernandez walks.,2,0,0,3,9,-1.14,1.77
+634,2021-08-12,571771,595411,walk,ball,13,Enrique Hernandez walks.,3,0,0,4,9,-1.72,0.99
+635,2021-08-12,571771,656876,,ball,12,Enrique Hernandez walks.,2,1,0,4,1,0.95,3.71
+636,2021-08-12,571771,595411,,ball,13,Enrique Hernandez walks.,2,0,0,3,9,-1.14,1.77
+637,2021-08-12,571771,656876,,foul,1,Enrique Hernandez walks.,2,0,0,3,1,-0.28,2.76
 638,2021-08-12,571771,656876,,ball,11,Enrique Hernandez walks.,1,0,0,2,1,-0.12,4.01
 639,2021-08-12,571771,595411,,ball,13,Enrique Hernandez walks.,1,0,0,2,9,-0.88,2.32
 640,2021-08-12,571771,595411,,ball,13,Enrique Hernandez walks.,0,0,0,1,9,-1.55,1.17
@@ -655,8 +655,8 @@
 653,2021-08-11,571771,608650,,foul,12,Enrique Hernandez strikes out swinging.,2,2,2,6,4,0.3,3.58
 654,2021-08-11,571771,608650,,foul,5,Enrique Hernandez strikes out swinging.,2,2,2,5,4,-0.04,2.32
 655,2021-08-11,571771,608650,,foul,7,Enrique Hernandez strikes out swinging.,2,1,2,4,4,-0.68,1.96
-656,2021-08-11,571771,676596,double,hit_into_play,8,Enrique Hernandez doubles (26) on a sharp line drive to center fielder Brett Phillips.,3,2,0,6,1,0.04,1.94
-657,2021-08-11,571771,608650,,ball,12,Enrique Hernandez strikes out swinging.,1,1,2,3,4,0.87,4.49
+656,2021-08-11,571771,608650,,ball,12,Enrique Hernandez strikes out swinging.,1,1,2,3,4,0.87,4.49
+657,2021-08-11,571771,676596,double,hit_into_play,8,Enrique Hernandez doubles (26) on a sharp line drive to center fielder Brett Phillips.,3,2,0,6,1,0.04,1.94
 658,2021-08-11,571771,608650,,ball,12,Enrique Hernandez strikes out swinging.,0,1,2,2,4,0.68,3.52
 659,2021-08-11,571771,676596,,foul,3,Enrique Hernandez doubles (26) on a sharp line drive to center fielder Brett Phillips.,3,1,0,5,1,0.36,2.81
 660,2021-08-11,571771,608650,,called_strike,5,Enrique Hernandez strikes out swinging.,0,0,2,1,4,-0.19,2.64
@@ -690,8 +690,8 @@
 688,2021-08-08,571771,547943,,ball,12,"Red Sox challenged (play at 1st), call on the field was overturned: Blue Jays challenged (slide interference), call on the field was upheld: Enrique Hernandez grounds into a force out, third baseman Santiago Espinal to second baseman Breyvic Valera.   Jarren Duran out at 2nd.    Enrique Hernandez to 1st.",0,0,0,1,4,1.54,3.96
 689,2021-08-08,571771,547943,single,hit_into_play,3,Enrique Hernandez singles on a sharp ground ball to right fielder Teoscar Hernandez.   Kevin Plawecki scores.    Bobby Dalbec to 3rd.,0,2,2,3,2,0.73,3.08
 690,2021-08-08,571771,547943,,swinging_strike,3,Enrique Hernandez singles on a sharp ground ball to right fielder Teoscar Hernandez.   Kevin Plawecki scores.    Bobby Dalbec to 3rd.,0,1,2,2,2,0.54,3.29
-691,2021-08-08,571771,547943,,called_strike,2,Enrique Hernandez singles on a sharp ground ball to right fielder Teoscar Hernandez.   Kevin Plawecki scores.    Bobby Dalbec to 3rd.,0,0,2,1,2,-0.27,3.13
-692,2021-08-08,571771,669912,field_out,hit_into_play,2,Enrique Hernandez flies out sharply to center fielder George Springer.,0,1,1,2,7,0.03,3.09
+691,2021-08-08,571771,669912,field_out,hit_into_play,2,Enrique Hernandez flies out sharply to center fielder George Springer.,0,1,1,2,7,0.03,3.09
+692,2021-08-08,571771,547943,,called_strike,2,Enrique Hernandez singles on a sharp ground ball to right fielder Teoscar Hernandez.   Kevin Plawecki scores.    Bobby Dalbec to 3rd.,0,0,2,1,2,-0.27,3.13
 693,2021-08-08,571771,669912,,called_strike,9,Enrique Hernandez flies out sharply to center fielder George Springer.,0,0,1,1,7,0.65,1.34
 694,2021-08-08,571771,641907,field_out,hit_into_play,5,Enrique Hernandez flies out to center fielder George Springer.,3,2,1,6,5,-0.2,2.24
 695,2021-08-08,571771,641907,,ball,11,Enrique Hernandez flies out to center fielder George Springer.,2,2,1,5,5,-0.39,4.42
@@ -713,8 +713,8 @@
 711,2021-08-07,571771,621244,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,0,7,6,1.55,1.12
 712,2021-08-07,571771,621244,,foul,8,Enrique Hernandez strikes out swinging.,2,2,0,6,6,0.21,2.07
 713,2021-08-07,571771,592662,,blocked_ball,13,Enrique Hernandez called out on strikes.,1,0,0,2,6,-0.42,-0.15
-714,2021-08-07,571771,592662,,ball,14,Enrique Hernandez called out on strikes.,0,0,0,1,6,0.78,1.21
-715,2021-08-07,571771,621244,,foul,6,Enrique Hernandez strikes out swinging.,2,2,0,5,6,0.41,2.31
+714,2021-08-07,571771,621244,,foul,6,Enrique Hernandez strikes out swinging.,2,2,0,5,6,0.41,2.31
+715,2021-08-07,571771,592662,,ball,14,Enrique Hernandez called out on strikes.,0,0,0,1,6,0.78,1.21
 716,2021-08-07,571771,621244,,foul,13,Enrique Hernandez strikes out swinging.,2,1,0,4,6,-1.31,2.18
 717,2021-08-07,571771,621244,,called_strike,7,Enrique Hernandez strikes out swinging.,2,0,0,3,6,-0.35,1.55
 718,2021-08-07,571771,621244,,ball,14,Enrique Hernandez strikes out swinging.,1,0,0,2,6,1.52,1.84
@@ -789,10 +789,10 @@
 787,2021-08-04,571771,663554,walk,ball,14,Enrique Hernandez walks.,3,2,0,7,1,1.03,0.9
 788,2021-08-04,571771,641729,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,0,2,1,3,9,1.33,1.51
 789,2021-08-04,571771,663554,,foul,2,Enrique Hernandez walks.,3,2,0,6,1,0.21,3.08
-790,2021-08-04,571771,641729,,foul,2,Enrique Hernandez strikes out swinging.,0,1,1,2,9,-0.23,2.78
-791,2021-08-04,571771,663554,,ball,11,Enrique Hernandez walks.,2,2,0,5,1,-0.09,3.97
-792,2021-08-04,571771,641729,,foul,4,Enrique Hernandez strikes out swinging.,0,0,1,1,9,-0.56,2.48
-793,2021-08-04,571771,663554,,ball,14,Enrique Hernandez walks.,1,2,0,4,1,0.94,0.29
+790,2021-08-04,571771,663554,,ball,11,Enrique Hernandez walks.,2,2,0,5,1,-0.09,3.97
+791,2021-08-04,571771,641729,,foul,2,Enrique Hernandez strikes out swinging.,0,1,1,2,9,-0.23,2.78
+792,2021-08-04,571771,663554,,ball,14,Enrique Hernandez walks.,1,2,0,4,1,0.94,0.29
+793,2021-08-04,571771,641729,,foul,4,Enrique Hernandez strikes out swinging.,0,0,1,1,9,-0.56,2.48
 794,2021-08-04,571771,663554,,ball,12,Enrique Hernandez walks.,0,2,0,3,1,1.26,5.47
 795,2021-08-04,571771,663554,,called_strike,6,Enrique Hernandez walks.,0,1,0,2,1,0.48,2.42
 796,2021-08-04,571771,663554,,swinging_strike,2,Enrique Hernandez walks.,0,0,0,1,1,0.14,2.83
@@ -809,14 +809,14 @@
 807,2021-08-01,571771,605538,single,hit_into_play,9,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,3,2,2,6,9,0.44,1.84
 808,2021-08-01,571771,656876,,ball,12,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,2,2,2,5,7,1.12,3.87
 809,2021-08-01,571771,605538,,ball,14,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,2,2,2,5,9,1.59,0.4
-810,2021-08-01,571771,605538,,foul,5,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,2,1,2,4,9,-0.14,2.39
-811,2021-08-01,571771,656876,,ball,14,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,1,2,2,4,7,0.11,-1.38
+810,2021-08-01,571771,656876,,ball,14,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,1,2,2,4,7,0.11,-1.38
+811,2021-08-01,571771,605538,,foul,5,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,2,1,2,4,9,-0.14,2.39
 812,2021-08-01,571771,656876,,swinging_strike_blocked,13,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,1,1,2,3,7,-0.27,0.5
 813,2021-08-01,571771,605538,,ball,14,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,1,1,2,3,9,1.53,0.58
-814,2021-08-01,571771,605538,,ball,14,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,0,1,2,2,9,0.06,0.43
-815,2021-08-01,571771,656876,,foul,6,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,1,0,2,2,7,0.4,2.38
-816,2021-08-01,571771,656876,,ball,14,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,0,0,2,1,7,0.53,0.57
-817,2021-08-01,571771,605538,,called_strike,14,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,0,0,2,1,9,0.9,1.94
+814,2021-08-01,571771,656876,,foul,6,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,1,0,2,2,7,0.4,2.38
+815,2021-08-01,571771,605538,,ball,14,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,0,1,2,2,9,0.06,0.43
+816,2021-08-01,571771,605538,,called_strike,14,Enrique Hernandez singles on a line drive to left fielder Brett Phillips.,0,0,2,1,9,0.9,1.94
+817,2021-08-01,571771,656876,,ball,14,Enrique Hernandez singles on a line drive to right fielder Manuel Margot.,0,0,2,1,7,0.53,0.57
 818,2021-08-01,571771,663556,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Manuel Margot.,1,1,0,3,1,0.69,2.11
 819,2021-08-01,571771,663556,,ball,13,Enrique Hernandez flies out to right fielder Manuel Margot.,0,1,0,2,1,-0.64,0.08
 820,2021-08-01,571771,663556,,foul,5,Enrique Hernandez flies out to right fielder Manuel Margot.,0,0,0,1,1,0.13,2.28
@@ -833,13 +833,13 @@
 831,2021-07-31,571771,607391,,foul,13,"Enrique Hernandez singles on a soft ground ball to pitcher Chris Mazza.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by pitcher Chris Mazza.",0,2,1,5,9,-0.85,2.18
 832,2021-07-31,571771,607391,,foul,14,"Enrique Hernandez singles on a soft ground ball to pitcher Chris Mazza.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by pitcher Chris Mazza.",0,2,1,4,9,0.83,2.14
 833,2021-07-31,571771,607391,,foul,6,"Enrique Hernandez singles on a soft ground ball to pitcher Chris Mazza.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by pitcher Chris Mazza.",0,2,1,3,9,0.43,2.39
-834,2021-07-31,571771,642232,field_out,hit_into_play,4,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",2,2,0,6,1,-0.4,2.48
-835,2021-07-31,571771,607391,,foul,5,"Enrique Hernandez singles on a soft ground ball to pitcher Chris Mazza.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by pitcher Chris Mazza.",0,1,1,2,9,-0.14,2.74
+834,2021-07-31,571771,607391,,foul,5,"Enrique Hernandez singles on a soft ground ball to pitcher Chris Mazza.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by pitcher Chris Mazza.",0,1,1,2,9,-0.14,2.74
+835,2021-07-31,571771,642232,field_out,hit_into_play,4,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",2,2,0,6,1,-0.4,2.48
 836,2021-07-31,571771,642232,,ball,14,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",1,2,0,5,1,1.6,1.47
-837,2021-07-31,571771,607391,,called_strike,4,"Enrique Hernandez singles on a soft ground ball to pitcher Chris Mazza.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by pitcher Chris Mazza.",0,0,1,1,9,-0.42,2.29
-838,2021-07-31,571771,605488,single,hit_into_play,12,Enrique Hernandez singles on a line drive to left fielder Austin Meadows.,1,0,1,2,7,0.84,2.66
-839,2021-07-31,571771,642232,,foul,6,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",1,2,0,4,1,0.49,2.19
-840,2021-07-31,571771,605488,,ball,12,Enrique Hernandez singles on a line drive to left fielder Austin Meadows.,0,0,1,1,7,0.99,3.63
+837,2021-07-31,571771,605488,single,hit_into_play,12,Enrique Hernandez singles on a line drive to left fielder Austin Meadows.,1,0,1,2,7,0.84,2.66
+838,2021-07-31,571771,607391,,called_strike,4,"Enrique Hernandez singles on a soft ground ball to pitcher Chris Mazza.   Enrique Hernandez to 2nd.  Enrique Hernandez advances to 2nd, on a throwing error by pitcher Chris Mazza.",0,0,1,1,9,-0.42,2.29
+839,2021-07-31,571771,605488,,ball,12,Enrique Hernandez singles on a line drive to left fielder Austin Meadows.,0,0,1,1,7,0.99,3.63
+840,2021-07-31,571771,642232,,foul,6,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",1,2,0,4,1,0.49,2.19
 841,2021-07-31,571771,642232,,foul,4,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",1,1,0,3,1,-0.72,2.6
 842,2021-07-31,571771,642232,,ball,11,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",0,1,0,2,1,-1.0,2.86
 843,2021-07-31,571771,642232,,called_strike,6,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Ji-Man Choi.",0,0,0,1,1,0.61,2.82
@@ -854,12 +854,12 @@
 852,2021-07-30,571771,595411,,ball,12,Enrique Hernandez walks.,2,0,2,3,6,1.32,2.61
 853,2021-07-30,571771,595411,,ball,13,Enrique Hernandez walks.,1,0,2,2,6,-0.19,0.99
 854,2021-07-30,571771,595411,,ball,14,Enrique Hernandez walks.,0,0,2,1,6,0.1,1.07
-855,2021-07-30,571771,676596,single,hit_into_play,9,Enrique Hernandez singles on a sharp ground ball to left fielder Austin Meadows.,2,0,0,3,1,0.51,2.02
-856,2021-07-30,571771,605488,field_out,hit_into_play,5,Enrique Hernandez lines out sharply to shortstop Wander Franco.,1,1,0,3,9,0.24,2.57
-857,2021-07-30,571771,676596,,ball,14,Enrique Hernandez singles on a sharp ground ball to left fielder Austin Meadows.,1,0,0,2,1,1.42,1.94
-858,2021-07-30,571771,605488,,foul,5,Enrique Hernandez lines out sharply to shortstop Wander Franco.,1,0,0,2,9,-0.01,2.24
-859,2021-07-30,571771,605488,,ball,14,Enrique Hernandez lines out sharply to shortstop Wander Franco.,0,0,0,1,9,1.05,2.04
-860,2021-07-30,571771,676596,,ball,14,Enrique Hernandez singles on a sharp ground ball to left fielder Austin Meadows.,0,0,0,1,1,0.7,1.35
+855,2021-07-30,571771,605488,field_out,hit_into_play,5,Enrique Hernandez lines out sharply to shortstop Wander Franco.,1,1,0,3,9,0.24,2.57
+856,2021-07-30,571771,676596,single,hit_into_play,9,Enrique Hernandez singles on a sharp ground ball to left fielder Austin Meadows.,2,0,0,3,1,0.51,2.02
+857,2021-07-30,571771,605488,,foul,5,Enrique Hernandez lines out sharply to shortstop Wander Franco.,1,0,0,2,9,-0.01,2.24
+858,2021-07-30,571771,676596,,ball,14,Enrique Hernandez singles on a sharp ground ball to left fielder Austin Meadows.,1,0,0,2,1,1.42,1.94
+859,2021-07-30,571771,676596,,ball,14,Enrique Hernandez singles on a sharp ground ball to left fielder Austin Meadows.,0,0,0,1,1,0.7,1.35
+860,2021-07-30,571771,605488,,ball,14,Enrique Hernandez lines out sharply to shortstop Wander Franco.,0,0,0,1,9,1.05,2.04
 861,2021-07-29,571771,547943,field_out,hit_into_play,1,Enrique Hernandez lines out to second baseman Marcus Semien.,0,1,2,2,5,-0.56,3.2
 862,2021-07-29,571771,547943,,foul,1,Enrique Hernandez lines out to second baseman Marcus Semien.,0,0,2,1,5,-0.42,3.13
 863,2021-07-29,571771,547943,field_out,hit_into_play,1,Enrique Hernandez pops out to second baseman Marcus Semien.,0,1,2,2,2,-0.29,3.1
@@ -878,26 +878,26 @@
 876,2021-07-28,571771,592662,strikeout,swinging_strike,11,Enrique Hernandez strikes out swinging.,3,2,1,8,2,-0.46,3.59
 877,2021-07-28,571771,592662,,foul,5,Enrique Hernandez strikes out swinging.,3,2,1,7,2,-0.15,2.53
 878,2021-07-28,571771,592662,,ball,13,Enrique Hernandez strikes out swinging.,2,2,1,6,2,-0.45,1.06
-879,2021-07-28,571771,592662,,ball,12,Enrique Hernandez strikes out swinging.,1,2,1,5,2,1.03,3.92
-880,2021-07-28,571771,571927,walk,ball,12,Enrique Hernandez walks.,3,0,2,4,2,1.29,3.46
+879,2021-07-28,571771,571927,walk,ball,12,Enrique Hernandez walks.,3,0,2,4,2,1.29,3.46
+880,2021-07-28,571771,592662,,ball,12,Enrique Hernandez strikes out swinging.,1,2,1,5,2,1.03,3.92
 881,2021-07-28,571771,592662,,foul,7,Enrique Hernandez strikes out swinging.,1,2,1,4,2,-0.35,1.63
 882,2021-07-28,571771,571927,,ball,12,Enrique Hernandez walks.,2,0,2,3,2,1.11,3.15
-883,2021-07-28,571771,592662,,foul,3,Enrique Hernandez strikes out swinging.,1,1,1,3,2,0.48,2.97
-884,2021-07-28,571771,571927,,ball,14,Enrique Hernandez walks.,1,0,2,2,2,1.43,2.48
+883,2021-07-28,571771,571927,,ball,14,Enrique Hernandez walks.,1,0,2,2,2,1.43,2.48
+884,2021-07-28,571771,592662,,foul,3,Enrique Hernandez strikes out swinging.,1,1,1,3,2,0.48,2.97
 885,2021-07-28,571771,571927,,ball,13,Enrique Hernandez walks.,0,0,2,1,2,-1.19,1.52
 886,2021-07-28,571771,592662,,foul,6,Enrique Hernandez strikes out swinging.,1,0,1,2,2,0.35,2.61
 887,2021-07-28,571771,592662,,blocked_ball,14,Enrique Hernandez strikes out swinging.,0,0,1,1,2,0.1,0.32
 888,2021-07-28,571771,605447,field_out,hit_into_play,5,Enrique Hernandez pops out to shortstop Bo Bichette.,1,1,1,3,7,0.05,2.52
 889,2021-07-28,571771,605447,,ball,14,Enrique Hernandez pops out to shortstop Bo Bichette.,0,1,1,2,7,1.32,1.73
 890,2021-07-28,571771,592662,walk,ball,12,Enrique Hernandez walks.,3,1,0,5,1,1.17,2.81
-891,2021-07-28,571771,592662,,ball,12,Enrique Hernandez walks.,2,1,0,4,1,1.67,3.42
-892,2021-07-28,571771,605447,,called_strike,2,Enrique Hernandez pops out to shortstop Bo Bichette.,0,0,1,1,7,0.23,2.86
+891,2021-07-28,571771,605447,,called_strike,2,Enrique Hernandez pops out to shortstop Bo Bichette.,0,0,1,1,7,0.23,2.86
+892,2021-07-28,571771,592662,,ball,12,Enrique Hernandez walks.,2,1,0,4,1,1.67,3.42
 893,2021-07-28,571771,592662,,ball,14,Enrique Hernandez walks.,1,1,0,3,1,1.1,1.77
 894,2021-07-28,571771,663423,field_out,hit_into_play,6,Enrique Hernandez pops out to second baseman Marcus Semien.,1,0,0,2,6,0.82,2.52
 895,2021-07-28,571771,592662,,foul,14,Enrique Hernandez walks.,1,0,0,2,1,1.04,2.29
-896,2021-07-28,571771,571927,double,hit_into_play,9,Enrique Hernandez doubles (25) on a sharp line drive to center fielder George Springer.,0,0,0,1,1,0.35,1.86
+896,2021-07-28,571771,592662,,ball,14,Enrique Hernandez walks.,0,0,0,1,1,1.3,2.27
 897,2021-07-28,571771,663423,,ball,12,Enrique Hernandez pops out to second baseman Marcus Semien.,0,0,0,1,6,0.21,3.65
-898,2021-07-28,571771,592662,,ball,14,Enrique Hernandez walks.,0,0,0,1,1,1.3,2.27
+898,2021-07-28,571771,571927,double,hit_into_play,9,Enrique Hernandez doubles (25) on a sharp line drive to center fielder George Springer.,0,0,0,1,1,0.35,1.86
 899,2021-07-26,571771,641672,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,1,2,1,4,4,0.48,1.11
 900,2021-07-26,571771,641672,,foul,2,Enrique Hernandez strikes out swinging.,1,1,1,3,4,0.21,3.18
 901,2021-07-26,571771,641672,,blocked_ball,14,Enrique Hernandez strikes out swinging.,0,1,1,2,4,1.12,-0.01
@@ -1007,8 +1007,8 @@
 1005,2021-07-19,571771,548389,,swinging_strike,14,Enrique Hernandez doubles (21) on a line drive to center fielder George Springer.,2,1,0,4,1,0.43,1.23
 1006,2021-07-19,571771,548389,,ball,14,Enrique Hernandez doubles (21) on a line drive to center fielder George Springer.,1,1,0,3,1,1.61,1.99
 1007,2021-07-19,571771,548389,,foul,1,Enrique Hernandez doubles (21) on a line drive to center fielder George Springer.,1,0,0,2,1,-0.72,3.0
-1008,2021-07-19,571771,641835,field_out,hit_into_play,5,"Enrique Hernandez grounds out sharply, pitcher Tim Mayza to first baseman Vladimir Guerrero Jr.",0,0,0,1,9,0.09,2.27
-1009,2021-07-19,571771,548389,,ball,14,Enrique Hernandez doubles (21) on a line drive to center fielder George Springer.,0,0,0,1,1,1.62,1.23
+1008,2021-07-19,571771,548389,,ball,14,Enrique Hernandez doubles (21) on a line drive to center fielder George Springer.,0,0,0,1,1,1.62,1.23
+1009,2021-07-19,571771,641835,field_out,hit_into_play,5,"Enrique Hernandez grounds out sharply, pitcher Tim Mayza to first baseman Vladimir Guerrero Jr.",0,0,0,1,9,0.09,2.27
 1010,2021-07-18,571771,592791,field_out,hit_into_play,9,Enrique Hernandez lines out to left fielder Greg Allen.,0,0,2,1,5,0.61,1.93
 1011,2021-07-18,571771,592791,field_out,hit_into_play,5,Enrique Hernandez flies out to right fielder Trey Amburgey.,2,2,2,5,3,-0.21,2.09
 1012,2021-07-18,571771,592791,,ball,11,Enrique Hernandez flies out to right fielder Trey Amburgey.,1,2,2,4,3,-0.07,4.47
@@ -1041,10 +1041,10 @@
 1039,2021-07-16,571771,656756,,foul,8,Enrique Hernandez pops out to first baseman Chris Gittens in foul territory.,0,1,2,2,2,0.15,1.9
 1040,2021-07-16,571771,656756,,called_strike,2,Enrique Hernandez pops out to first baseman Chris Gittens in foul territory.,0,0,2,1,2,0.14,2.91
 1041,2021-07-16,571771,656756,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,0,5,1,0.34,1.09
-1042,2021-07-16,571771,656756,,ball,13,Enrique Hernandez strikes out swinging.,1,2,0,4,1,-0.86,-0.7
-1043,2021-07-16,571771,458677,field_out,hit_into_play,3,"Enrique Hernandez grounds out, shortstop Gleyber Torres to first baseman Chris Gittens.",1,2,0,4,8,0.7,3.04
-1044,2021-07-16,571771,656756,,ball,14,Enrique Hernandez strikes out swinging.,0,2,0,3,1,1.03,0.37
-1045,2021-07-16,571771,458677,,called_strike,6,"Enrique Hernandez grounds out, shortstop Gleyber Torres to first baseman Chris Gittens.",1,1,0,3,8,0.79,2.31
+1042,2021-07-16,571771,458677,field_out,hit_into_play,3,"Enrique Hernandez grounds out, shortstop Gleyber Torres to first baseman Chris Gittens.",1,2,0,4,8,0.7,3.04
+1043,2021-07-16,571771,656756,,ball,13,Enrique Hernandez strikes out swinging.,1,2,0,4,1,-0.86,-0.7
+1044,2021-07-16,571771,458677,,called_strike,6,"Enrique Hernandez grounds out, shortstop Gleyber Torres to first baseman Chris Gittens.",1,1,0,3,8,0.79,2.31
+1045,2021-07-16,571771,656756,,ball,14,Enrique Hernandez strikes out swinging.,0,2,0,3,1,1.03,0.37
 1046,2021-07-16,571771,656756,,swinging_strike,6,Enrique Hernandez strikes out swinging.,0,1,0,2,1,0.71,2.1
 1047,2021-07-16,571771,458677,,called_strike,3,"Enrique Hernandez grounds out, shortstop Gleyber Torres to first baseman Chris Gittens.",1,0,0,2,8,0.8,3.05
 1048,2021-07-16,571771,458677,,ball,14,"Enrique Hernandez grounds out, shortstop Gleyber Torres to first baseman Chris Gittens.",0,0,0,1,8,0.83,1.55
@@ -1060,21 +1060,21 @@
 1058,2021-07-11,571771,650911,,called_strike,8,Enrique Hernandez reaches on a throwing error by pitcher Cristopher Sanchez.   Christian Arroyo to 2nd.,0,0,0,1,3,0.02,2.11
 1059,2021-07-11,571771,593576,field_out,hit_into_play,2,Enrique Hernandez flies out to center fielder Travis Jankowski.   Christian Arroyo to 3rd.,1,2,0,4,5,0.09,3.32
 1060,2021-07-11,571771,445213,field_out,hit_into_play,14,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",2,1,0,4,1,0.21,1.19
-1061,2021-07-11,571771,593576,,foul,1,Enrique Hernandez flies out to center fielder Travis Jankowski.   Christian Arroyo to 3rd.,1,1,0,3,5,-0.31,3.24
-1062,2021-07-11,571771,445213,,called_strike,9,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",2,0,0,3,1,0.43,1.69
+1061,2021-07-11,571771,445213,,called_strike,9,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",2,0,0,3,1,0.43,1.69
+1062,2021-07-11,571771,593576,,foul,1,Enrique Hernandez flies out to center fielder Travis Jankowski.   Christian Arroyo to 3rd.,1,1,0,3,5,-0.31,3.24
 1063,2021-07-11,571771,445213,,ball,14,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",1,0,0,2,1,0.52,1.09
-1064,2021-07-11,571771,593576,,blocked_ball,14,Enrique Hernandez flies out to center fielder Travis Jankowski.   Christian Arroyo to 3rd.,0,1,0,2,5,0.5,0.63
-1065,2021-07-11,571771,605151,field_out,hit_into_play,5,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",1,0,2,2,6,0.02,2.63
-1066,2021-07-11,571771,593576,,foul,8,Enrique Hernandez flies out to center fielder Travis Jankowski.   Christian Arroyo to 3rd.,0,0,0,1,5,0.04,1.75
-1067,2021-07-11,571771,445213,,ball,14,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",0,0,0,1,1,0.05,1.24
-1068,2021-07-11,571771,605151,,ball,14,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",0,0,2,1,6,0.65,0.84
+1064,2021-07-11,571771,605151,field_out,hit_into_play,5,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",1,0,2,2,6,0.02,2.63
+1065,2021-07-11,571771,593576,,blocked_ball,14,Enrique Hernandez flies out to center fielder Travis Jankowski.   Christian Arroyo to 3rd.,0,1,0,2,5,0.5,0.63
+1066,2021-07-11,571771,605151,,ball,14,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",0,0,2,1,6,0.65,0.84
+1067,2021-07-11,571771,593576,,foul,8,Enrique Hernandez flies out to center fielder Travis Jankowski.   Christian Arroyo to 3rd.,0,0,0,1,5,0.04,1.75
+1068,2021-07-11,571771,445213,,ball,14,"Enrique Hernandez grounds out, third baseman Ronald Torreyes to first baseman Rhys Hoskins.",0,0,0,1,1,0.05,1.24
 1069,2021-07-10,571771,519043,field_out,hit_into_play,3,Enrique Hernandez flies out to center fielder Luke Williams.,0,0,0,1,5,0.52,2.88
 1070,2021-07-10,571771,519043,hit_by_pitch,hit_by_pitch,11,Enrique Hernandez hit by pitch.,1,1,1,3,3,-1.79,3.93
 1071,2021-07-10,571771,519043,,ball,14,Enrique Hernandez hit by pitch.,0,1,1,2,3,0.42,1.1
 1072,2021-07-10,571771,519043,,called_strike,9,Enrique Hernandez hit by pitch.,0,0,1,1,3,0.33,1.7
 1073,2021-07-10,571771,670456,hit_by_pitch,hit_by_pitch,11,Enrique Hernandez hit by pitch.,2,2,0,5,8,-2.82,2.54
-1074,2021-07-10,571771,519043,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Bryce Harper.,2,1,0,4,1,0.37,2.4
-1075,2021-07-10,571771,670456,,ball,14,Enrique Hernandez hit by pitch.,1,2,0,4,8,1.65,-0.56
+1074,2021-07-10,571771,670456,,ball,14,Enrique Hernandez hit by pitch.,1,2,0,4,8,1.65,-0.56
+1075,2021-07-10,571771,519043,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Bryce Harper.,2,1,0,4,1,0.37,2.4
 1076,2021-07-10,571771,670456,,ball,14,Enrique Hernandez hit by pitch.,0,2,0,3,8,0.84,1.85
 1077,2021-07-10,571771,519043,,called_strike,3,Enrique Hernandez flies out to right fielder Bryce Harper.,2,0,0,3,1,0.83,2.92
 1078,2021-07-10,571771,670456,,swinging_strike,14,Enrique Hernandez hit by pitch.,0,1,0,2,8,0.5,1.24
@@ -1096,12 +1096,12 @@
 1094,2021-07-09,571771,660853,field_out,hit_into_play,2,Enrique Hernandez flies out to right fielder Brad Miller.   Christian Vazquez to 3rd.,1,0,1,2,3,0.12,2.92
 1095,2021-07-09,571771,621237,,foul,11,Enrique Hernandez strikes out swinging.,1,2,0,4,7,-1.18,3.02
 1096,2021-07-09,571771,621237,,swinging_strike,13,Enrique Hernandez strikes out swinging.,1,1,0,3,7,-0.91,2.17
-1097,2021-07-09,571771,660853,,ball,14,Enrique Hernandez flies out to right fielder Brad Miller.   Christian Vazquez to 3rd.,0,0,1,1,3,0.76,1.31
-1098,2021-07-09,571771,592826,home_run,hit_into_play,2,Enrique Hernandez homers (11) on a fly ball to left field.,1,1,0,3,1,-0.27,2.9
-1099,2021-07-09,571771,592826,,ball,14,Enrique Hernandez homers (11) on a fly ball to left field.,0,1,0,2,1,1.53,-0.28
-1100,2021-07-09,571771,621237,,called_strike,7,Enrique Hernandez strikes out swinging.,1,0,0,2,7,-0.69,1.87
-1101,2021-07-09,571771,592826,,called_strike,5,Enrique Hernandez homers (11) on a fly ball to left field.,0,0,0,1,1,-0.27,2.61
-1102,2021-07-09,571771,621237,,ball,11,Enrique Hernandez strikes out swinging.,0,0,0,1,7,0.0,3.65
+1097,2021-07-09,571771,592826,home_run,hit_into_play,2,Enrique Hernandez homers (11) on a fly ball to left field.,1,1,0,3,1,-0.27,2.9
+1098,2021-07-09,571771,660853,,ball,14,Enrique Hernandez flies out to right fielder Brad Miller.   Christian Vazquez to 3rd.,0,0,1,1,3,0.76,1.31
+1099,2021-07-09,571771,621237,,called_strike,7,Enrique Hernandez strikes out swinging.,1,0,0,2,7,-0.69,1.87
+1100,2021-07-09,571771,592826,,ball,14,Enrique Hernandez homers (11) on a fly ball to left field.,0,1,0,2,1,1.53,-0.28
+1101,2021-07-09,571771,621237,,ball,11,Enrique Hernandez strikes out swinging.,0,0,0,1,7,0.0,3.65
+1102,2021-07-09,571771,592826,,called_strike,5,Enrique Hernandez homers (11) on a fly ball to left field.,0,0,0,1,1,-0.27,2.61
 1103,2021-07-07,571771,571760,strikeout,swinging_strike,12,Enrique Hernandez strikes out swinging.,1,2,1,4,5,0.49,4.48
 1104,2021-07-07,571771,571760,,swinging_strike,11,Enrique Hernandez strikes out swinging.,1,1,1,3,5,-0.61,3.66
 1105,2021-07-07,571771,571760,,ball,12,Enrique Hernandez strikes out swinging.,0,1,1,2,5,0.26,4.53
@@ -1111,10 +1111,10 @@
 1109,2021-07-07,571771,571760,,ball,12,"Enrique Hernandez grounds out, third baseman Luis Rengifo to first baseman Jared Walsh.",0,1,0,2,4,0.81,3.83
 1110,2021-07-07,571771,571760,,foul,7,"Enrique Hernandez grounds out, third baseman Luis Rengifo to first baseman Jared Walsh.",0,0,0,1,4,-0.62,1.87
 1111,2021-07-07,571771,518553,strikeout,called_strike,6,Enrique Hernandez called out on strikes.,1,2,1,4,7,0.52,2.55
-1112,2021-07-07,571771,518553,,ball,14,Enrique Hernandez called out on strikes.,0,2,1,3,7,1.81,1.92
-1113,2021-07-07,571771,628452,strikeout,swinging_strike,13,Enrique Hernandez strikes out swinging.,1,2,2,4,9,-0.46,1.22
-1114,2021-07-07,571771,518553,,foul,1,Enrique Hernandez called out on strikes.,0,1,1,2,7,-0.37,3.34
-1115,2021-07-07,571771,628452,,ball,12,Enrique Hernandez strikes out swinging.,0,2,2,3,9,1.63,2.54
+1112,2021-07-07,571771,628452,strikeout,swinging_strike,13,Enrique Hernandez strikes out swinging.,1,2,2,4,9,-0.46,1.22
+1113,2021-07-07,571771,518553,,ball,14,Enrique Hernandez called out on strikes.,0,2,1,3,7,1.81,1.92
+1114,2021-07-07,571771,628452,,ball,12,Enrique Hernandez strikes out swinging.,0,2,2,3,9,1.63,2.54
+1115,2021-07-07,571771,518553,,foul,1,Enrique Hernandez called out on strikes.,0,1,1,2,7,-0.37,3.34
 1116,2021-07-07,571771,628452,,called_strike,9,Enrique Hernandez strikes out swinging.,0,1,2,2,9,0.32,2.15
 1117,2021-07-07,571771,518553,,called_strike,9,Enrique Hernandez called out on strikes.,0,0,1,1,7,0.31,2.25
 1118,2021-07-07,571771,628452,,foul,5,Enrique Hernandez strikes out swinging.,0,0,2,1,9,0.01,2.7
@@ -1155,10 +1155,10 @@
 1153,2021-07-05,571771,605164,,foul,3,Enrique Hernandez walks.,3,1,2,5,4,0.59,2.9
 1154,2021-07-05,571771,605164,,ball,11,Enrique Hernandez walks.,2,1,2,4,4,-0.08,4.0
 1155,2021-07-05,571771,605164,,ball,14,Enrique Hernandez walks.,1,1,2,3,4,1.77,1.51
-1156,2021-07-05,571771,605164,,foul,5,Enrique Hernandez walks.,1,0,2,2,4,0.05,2.61
-1157,2021-07-05,571771,453265,field_out,hit_into_play,6,Enrique Hernandez flies out to center fielder Juan Lagares.,3,2,0,6,6,0.48,2.24
-1158,2021-07-05,571771,605164,,ball,14,Enrique Hernandez walks.,0,0,2,1,4,0.48,1.18
-1159,2021-07-05,571771,453265,,foul,14,Enrique Hernandez flies out to center fielder Juan Lagares.,3,1,0,5,6,1.11,2.01
+1156,2021-07-05,571771,453265,field_out,hit_into_play,6,Enrique Hernandez flies out to center fielder Juan Lagares.,3,2,0,6,6,0.48,2.24
+1157,2021-07-05,571771,605164,,foul,5,Enrique Hernandez walks.,1,0,2,2,4,0.05,2.61
+1158,2021-07-05,571771,453265,,foul,14,Enrique Hernandez flies out to center fielder Juan Lagares.,3,1,0,5,6,1.11,2.01
+1159,2021-07-05,571771,605164,,ball,14,Enrique Hernandez walks.,0,0,2,1,4,0.48,1.18
 1160,2021-07-05,571771,453265,,called_strike,14,Enrique Hernandez flies out to center fielder Juan Lagares.,3,0,0,4,6,1.01,2.51
 1161,2021-07-05,571771,453265,,ball,7,Enrique Hernandez flies out to center fielder Juan Lagares.,2,0,0,3,6,-0.7,1.96
 1162,2021-07-05,571771,453265,,ball,12,Enrique Hernandez flies out to center fielder Juan Lagares.,1,0,0,2,6,0.34,3.84
@@ -1193,8 +1193,8 @@
 1191,2021-07-03,571771,605525,,called_strike,6,Enrique Hernandez singles on a line drive to center fielder Ramon Laureano.   Christian Vazquez scores.    Marwin Gonzalez to 2nd.,0,0,2,1,12,0.61,2.41
 1192,2021-07-03,571771,489265,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,1,2,0,4,10,0.94,0.91
 1193,2021-07-03,571771,489265,,called_strike,4,Enrique Hernandez strikes out swinging.,1,1,0,3,10,-0.71,2.24
-1194,2021-07-03,571771,489265,,foul,9,Enrique Hernandez strikes out swinging.,1,0,0,2,10,0.57,1.43
-1195,2021-07-03,571771,608344,field_out,hit_into_play,9,"Enrique Hernandez grounds out sharply, shortstop Elvis Andrus to first baseman Matt Olson.",1,0,0,2,1,0.41,1.88
+1194,2021-07-03,571771,608344,field_out,hit_into_play,9,"Enrique Hernandez grounds out sharply, shortstop Elvis Andrus to first baseman Matt Olson.",1,0,0,2,1,0.41,1.88
+1195,2021-07-03,571771,489265,,foul,9,Enrique Hernandez strikes out swinging.,1,0,0,2,10,0.57,1.43
 1196,2021-07-03,571771,608344,,ball,12,"Enrique Hernandez grounds out sharply, shortstop Elvis Andrus to first baseman Matt Olson.",0,0,0,1,1,0.49,3.8
 1197,2021-07-03,571771,489265,,ball,14,Enrique Hernandez strikes out swinging.,0,0,0,1,10,1.44,2.37
 1198,2021-07-02,571771,593423,grounded_into_double_play,hit_into_play,4,"Enrique Hernandez grounds into a double play, first baseman Matt Olson to shortstop Elvis Andrus to first baseman Matt Olson.   Danny Santana to 3rd.    Michael Chavis out at 2nd.    Enrique Hernandez out at 1st.",0,0,0,1,5,-0.39,2.09
@@ -1204,26 +1204,26 @@
 1202,2021-07-02,571771,593423,,ball,14,Enrique Hernandez walks.,0,0,2,1,3,0.84,1.05
 1203,2021-07-02,571771,593423,field_out,hit_into_play,2,Enrique Hernandez pops out to third baseman Matt Chapman.,3,1,0,5,1,0.13,2.98
 1204,2021-07-02,571771,605525,field_out,hit_into_play,5,Enrique Hernandez flies out to left fielder Tony Kemp.,2,1,0,4,7,0.14,2.27
-1205,2021-07-02,571771,593423,,ball,14,Enrique Hernandez pops out to third baseman Matt Chapman.,2,1,0,4,1,1.0,1.31
-1206,2021-07-02,571771,605525,,ball,14,Enrique Hernandez flies out to left fielder Tony Kemp.,1,1,0,3,7,1.35,1.89
-1207,2021-07-02,571771,605525,,called_strike,6,Enrique Hernandez flies out to left fielder Tony Kemp.,1,0,0,2,7,0.33,2.28
-1208,2021-07-02,571771,593423,,foul,4,Enrique Hernandez pops out to third baseman Matt Chapman.,2,0,0,3,1,-0.31,2.54
-1209,2021-07-02,571771,593423,,ball,13,Enrique Hernandez pops out to third baseman Matt Chapman.,1,0,0,2,1,-0.19,1.18
-1210,2021-07-02,571771,605525,,ball,12,Enrique Hernandez flies out to left fielder Tony Kemp.,0,0,0,1,7,0.05,3.55
-1211,2021-07-02,571771,642152,single,hit_into_play,6,Enrique Hernandez singles on a line drive to right fielder Seth Brown.   Michael Chavis scores.,0,0,0,1,10,0.31,2.4
-1212,2021-07-02,571771,593423,,ball,14,Enrique Hernandez pops out to third baseman Matt Chapman.,0,0,0,1,1,0.57,1.28
+1205,2021-07-02,571771,605525,,ball,14,Enrique Hernandez flies out to left fielder Tony Kemp.,1,1,0,3,7,1.35,1.89
+1206,2021-07-02,571771,593423,,ball,14,Enrique Hernandez pops out to third baseman Matt Chapman.,2,1,0,4,1,1.0,1.31
+1207,2021-07-02,571771,593423,,foul,4,Enrique Hernandez pops out to third baseman Matt Chapman.,2,0,0,3,1,-0.31,2.54
+1208,2021-07-02,571771,605525,,called_strike,6,Enrique Hernandez flies out to left fielder Tony Kemp.,1,0,0,2,7,0.33,2.28
+1209,2021-07-02,571771,605525,,ball,12,Enrique Hernandez flies out to left fielder Tony Kemp.,0,0,0,1,7,0.05,3.55
+1210,2021-07-02,571771,593423,,ball,13,Enrique Hernandez pops out to third baseman Matt Chapman.,1,0,0,2,1,-0.19,1.18
+1211,2021-07-02,571771,593423,,ball,14,Enrique Hernandez pops out to third baseman Matt Chapman.,0,0,0,1,1,0.57,1.28
+1212,2021-07-02,571771,642152,single,hit_into_play,6,Enrique Hernandez singles on a line drive to right fielder Seth Brown.   Michael Chavis scores.,0,0,0,1,10,0.31,2.4
 1213,2021-07-01,571771,663460,walk,ball,13,Enrique Hernandez walks.,3,1,1,5,3,-1.77,0.8
 1214,2021-07-01,571771,663460,,ball,13,Enrique Hernandez walks.,2,1,1,4,3,-1.43,0.98
 1215,2021-07-01,571771,663460,,called_strike,6,Enrique Hernandez walks.,2,0,1,3,3,0.41,2.55
 1216,2021-07-01,571771,663460,,ball,13,Enrique Hernandez walks.,1,0,1,2,3,-0.31,1.0
 1217,2021-07-01,571771,663460,,ball,13,Enrique Hernandez walks.,0,0,1,1,3,-1.98,-0.41
 1218,2021-07-01,571771,663460,home_run,hit_into_play,5,Enrique Hernandez homers (9) on a fly ball to left field.,2,1,0,4,1,0.17,2.19
-1219,2021-07-01,571771,663460,,ball,11,Enrique Hernandez homers (9) on a fly ball to left field.,1,1,0,3,1,-1.51,2.77
-1220,2021-07-01,571771,622251,field_out,hit_into_play,4,Enrique Hernandez flies out to right fielder Jorge Soler.,2,0,0,3,6,-0.73,2.15
-1221,2021-07-01,571771,663460,,called_strike,14,Enrique Hernandez homers (9) on a fly ball to left field.,1,0,0,2,1,0.9,2.31
-1222,2021-07-01,571771,622251,,ball,14,Enrique Hernandez flies out to right fielder Jorge Soler.,1,0,0,2,6,0.54,1.09
-1223,2021-07-01,571771,663460,,ball,14,Enrique Hernandez homers (9) on a fly ball to left field.,0,0,0,1,1,0.18,1.49
-1224,2021-07-01,571771,622251,,ball,14,Enrique Hernandez flies out to right fielder Jorge Soler.,0,0,0,1,6,1.18,0.76
+1219,2021-07-01,571771,622251,field_out,hit_into_play,4,Enrique Hernandez flies out to right fielder Jorge Soler.,2,0,0,3,6,-0.73,2.15
+1220,2021-07-01,571771,663460,,ball,11,Enrique Hernandez homers (9) on a fly ball to left field.,1,1,0,3,1,-1.51,2.77
+1221,2021-07-01,571771,622251,,ball,14,Enrique Hernandez flies out to right fielder Jorge Soler.,1,0,0,2,6,0.54,1.09
+1222,2021-07-01,571771,663460,,called_strike,14,Enrique Hernandez homers (9) on a fly ball to left field.,1,0,0,2,1,0.9,2.31
+1223,2021-07-01,571771,622251,,ball,14,Enrique Hernandez flies out to right fielder Jorge Soler.,0,0,0,1,6,1.18,0.76
+1224,2021-07-01,571771,663460,,ball,14,Enrique Hernandez homers (9) on a fly ball to left field.,0,0,0,1,1,0.18,1.49
 1225,2021-07-01,571771,429722,field_out,hit_into_play,5,Enrique Hernandez lines out to center fielder Jarrod Dyson.,0,0,0,1,5,0.08,2.73
 1226,2021-06-30,571771,501985,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Jorge Soler.,1,1,2,3,4,0.63,2.12
 1227,2021-06-30,571771,501985,,ball,11,Enrique Hernandez flies out to right fielder Jorge Soler.,0,1,2,2,4,-0.09,4.1
@@ -1272,14 +1272,14 @@
 1270,2021-06-28,571771,672578,,ball,14,Enrique Hernandez pops out to third baseman Emmanuel Rivera.,0,0,2,1,7,0.89,1.6
 1271,2021-06-28,571771,622251,,blocked_ball,14,Enrique Hernandez walks.,1,2,0,6,5,1.21,0.66
 1272,2021-06-28,571771,622251,,ball,11,Enrique Hernandez walks.,0,2,0,5,5,-0.98,4.03
-1273,2021-06-28,571771,622251,,foul,12,Enrique Hernandez walks.,0,2,0,4,5,0.96,2.84
-1274,2021-06-28,571771,518633,home_run,hit_into_play,1,Enrique Hernandez homers (8) on a fly ball to left center field.,2,1,0,4,1,-0.45,3.06
-1275,2021-06-28,571771,622251,,foul,4,Enrique Hernandez walks.,0,2,0,3,5,-0.43,2.29
-1276,2021-06-28,571771,518633,,ball,14,Enrique Hernandez homers (8) on a fly ball to left center field.,1,1,0,3,1,1.32,2.2
+1273,2021-06-28,571771,518633,home_run,hit_into_play,1,Enrique Hernandez homers (8) on a fly ball to left center field.,2,1,0,4,1,-0.45,3.06
+1274,2021-06-28,571771,622251,,foul,12,Enrique Hernandez walks.,0,2,0,4,5,0.96,2.84
+1275,2021-06-28,571771,518633,,ball,14,Enrique Hernandez homers (8) on a fly ball to left center field.,1,1,0,3,1,1.32,2.2
+1276,2021-06-28,571771,622251,,foul,4,Enrique Hernandez walks.,0,2,0,3,5,-0.43,2.29
 1277,2021-06-28,571771,622251,,swinging_strike,14,Enrique Hernandez walks.,0,1,0,2,5,0.72,-1.24
 1278,2021-06-28,571771,518633,,ball,3,Enrique Hernandez homers (8) on a fly ball to left center field.,0,1,0,2,1,0.58,3.43
-1279,2021-06-28,571771,622251,,swinging_strike,6,Enrique Hernandez walks.,0,0,0,1,5,0.32,2.33
-1280,2021-06-28,571771,518633,,called_strike,6,Enrique Hernandez homers (8) on a fly ball to left center field.,0,0,0,1,1,0.56,2.2
+1279,2021-06-28,571771,518633,,called_strike,6,Enrique Hernandez homers (8) on a fly ball to left center field.,0,0,0,1,1,0.56,2.2
+1280,2021-06-28,571771,622251,,swinging_strike,6,Enrique Hernandez walks.,0,0,0,1,5,0.32,2.33
 1281,2021-06-27,571771,543037,field_out,hit_into_play,5,Enrique Hernandez flies out to center fielder Aaron Judge.,2,0,0,3,4,-0.21,2.3
 1282,2021-06-27,571771,543037,,ball,12,Enrique Hernandez flies out to center fielder Aaron Judge.,1,0,0,2,4,0.93,2.92
 1283,2021-06-27,571771,543037,,ball,14,Enrique Hernandez flies out to center fielder Aaron Judge.,0,0,0,1,4,0.44,1.24
@@ -1289,8 +1289,8 @@
 1287,2021-06-27,571771,621139,,foul,9,Enrique Hernandez doubles (17) on a ground ball to right fielder Clint Frazier.   Marwin Gonzalez scores.,3,1,1,5,8,0.32,1.63
 1288,2021-06-27,571771,621139,,called_strike,6,Enrique Hernandez doubles (17) on a ground ball to right fielder Clint Frazier.   Marwin Gonzalez scores.,3,0,1,4,8,0.46,2.18
 1289,2021-06-27,571771,621139,,ball,12,Enrique Hernandez doubles (17) on a ground ball to right fielder Clint Frazier.   Marwin Gonzalez scores.,2,0,1,3,8,0.82,3.7
-1290,2021-06-27,571771,621139,,ball,11,Enrique Hernandez doubles (17) on a ground ball to right fielder Clint Frazier.   Marwin Gonzalez scores.,1,0,1,2,8,-0.69,4.68
-1291,2021-06-27,571771,570666,field_out,hit_into_play,11,Enrique Hernandez pops out to first baseman Luke Voit in foul territory.,0,1,2,2,6,-0.9,2.49
+1290,2021-06-27,571771,570666,field_out,hit_into_play,11,Enrique Hernandez pops out to first baseman Luke Voit in foul territory.,0,1,2,2,6,-0.9,2.49
+1291,2021-06-27,571771,621139,,ball,11,Enrique Hernandez doubles (17) on a ground ball to right fielder Clint Frazier.   Marwin Gonzalez scores.,1,0,1,2,8,-0.69,4.68
 1292,2021-06-27,571771,570666,,called_strike,14,Enrique Hernandez pops out to first baseman Luke Voit in foul territory.,0,0,2,1,6,0.85,1.85
 1293,2021-06-27,571771,621139,,ball,12,Enrique Hernandez doubles (17) on a ground ball to right fielder Clint Frazier.   Marwin Gonzalez scores.,0,0,1,1,8,0.51,4.47
 1294,2021-06-27,571771,543037,home_run,hit_into_play,4,Enrique Hernandez homers (7) on a line drive to left field.,0,0,0,1,1,-0.55,2.16
@@ -1307,8 +1307,8 @@
 1305,2021-06-25,571771,476595,strikeout,swinging_strike_blocked,13,Enrique Hernandez strikes out swinging.,1,2,1,4,6,-0.34,1.0
 1306,2021-06-25,571771,476595,,swinging_strike,12,Enrique Hernandez strikes out swinging.,1,1,1,3,6,0.28,3.69
 1307,2021-06-25,571771,476595,,blocked_ball,13,Enrique Hernandez strikes out swinging.,0,1,1,2,6,-2.52,0.22
-1308,2021-06-25,571771,593334,strikeout,swinging_strike,6,Enrique Hernandez strikes out swinging.,1,2,2,4,1,0.61,2.4
-1309,2021-06-25,571771,476595,,called_strike,11,Enrique Hernandez strikes out swinging.,0,0,1,1,6,-0.99,2.76
+1308,2021-06-25,571771,476595,,called_strike,11,Enrique Hernandez strikes out swinging.,0,0,1,1,6,-0.99,2.76
+1309,2021-06-25,571771,593334,strikeout,swinging_strike,6,Enrique Hernandez strikes out swinging.,1,2,2,4,1,0.61,2.4
 1310,2021-06-25,571771,593334,,swinging_strike,6,Enrique Hernandez strikes out swinging.,1,1,2,3,1,0.52,2.54
 1311,2021-06-25,571771,593334,,called_strike,3,Enrique Hernandez strikes out swinging.,1,0,2,2,1,0.35,2.84
 1312,2021-06-25,571771,593334,,ball,14,Enrique Hernandez strikes out swinging.,0,0,2,1,1,1.24,0.93
@@ -1334,12 +1334,12 @@
 1332,2021-06-23,571771,552640,,foul,7,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,2,2,2,6,6,-0.73,1.46
 1333,2021-06-23,571771,552640,,ball,14,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,1,2,2,5,6,0.93,1.04
 1334,2021-06-23,571771,552640,,foul,14,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,1,2,2,4,6,0.93,1.76
-1335,2021-06-23,571771,552640,,ball,12,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,0,2,2,3,6,1.45,2.31
-1336,2021-06-23,571771,657044,strikeout,swinging_strike,3,Enrique Hernandez strikes out swinging.,1,2,1,5,8,0.33,3.3
+1335,2021-06-23,571771,657044,strikeout,swinging_strike,3,Enrique Hernandez strikes out swinging.,1,2,1,5,8,0.33,3.3
+1336,2021-06-23,571771,552640,,ball,12,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,0,2,2,3,6,1.45,2.31
 1337,2021-06-23,571771,657044,,foul,2,Enrique Hernandez strikes out swinging.,1,2,1,4,8,-0.07,3.44
 1338,2021-06-23,571771,552640,,called_strike,8,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,0,1,2,2,6,0.26,1.91
-1339,2021-06-23,571771,552640,,swinging_strike,5,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,0,0,2,1,6,-0.26,2.62
-1340,2021-06-23,571771,657044,,called_strike,4,Enrique Hernandez strikes out swinging.,1,1,1,3,8,-0.31,2.08
+1339,2021-06-23,571771,657044,,called_strike,4,Enrique Hernandez strikes out swinging.,1,1,1,3,8,-0.31,2.08
+1340,2021-06-23,571771,552640,,swinging_strike,5,Enrique Hernandez doubles (16) on a line drive to left fielder Randy Arozarena.,0,0,2,1,6,-0.26,2.62
 1341,2021-06-23,571771,657044,,foul,6,Enrique Hernandez strikes out swinging.,1,0,1,2,8,0.68,2.6
 1342,2021-06-23,571771,657044,,ball,14,Enrique Hernandez strikes out swinging.,0,0,1,1,8,1.02,1.85
 1343,2021-06-22,571771,642232,hit_by_pitch,hit_by_pitch,13,Enrique Hernandez hit by pitch.,1,2,2,5,3,-3.51,0.83
@@ -1348,22 +1348,22 @@
 1346,2021-06-22,571771,642232,,foul,4,Enrique Hernandez hit by pitch.,0,1,2,2,3,-0.49,2.63
 1347,2021-06-22,571771,642232,,swinging_strike,8,Enrique Hernandez hit by pitch.,0,0,2,1,3,0.15,2.07
 1348,2021-06-22,571771,664126,sac_fly,hit_into_play,9,Enrique Hernandez out on a sacrifice fly to right fielder Brandon Lowe.   Hunter Renfroe scores.,3,2,1,6,11,0.5,1.96
-1349,2021-06-22,571771,543521,field_out,hit_into_play,5,Enrique Hernandez flies out to left fielder Randy Arozarena.,0,0,1,1,6,0.26,2.46
-1350,2021-06-22,571771,664126,,swinging_strike,14,Enrique Hernandez out on a sacrifice fly to right fielder Brandon Lowe.   Hunter Renfroe scores.,3,1,1,5,11,0.93,2.0
+1349,2021-06-22,571771,664126,,swinging_strike,14,Enrique Hernandez out on a sacrifice fly to right fielder Brandon Lowe.   Hunter Renfroe scores.,3,1,1,5,11,0.93,2.0
+1350,2021-06-22,571771,543521,field_out,hit_into_play,5,Enrique Hernandez flies out to left fielder Randy Arozarena.,0,0,1,1,6,0.26,2.46
 1351,2021-06-22,571771,664126,,ball,12,Enrique Hernandez out on a sacrifice fly to right fielder Brandon Lowe.   Hunter Renfroe scores.,2,1,1,4,11,1.3,2.45
 1352,2021-06-22,571771,664126,,ball,13,Enrique Hernandez out on a sacrifice fly to right fielder Brandon Lowe.   Hunter Renfroe scores.,1,1,1,3,11,-0.59,0.05
 1353,2021-06-22,571771,664126,,foul,12,Enrique Hernandez out on a sacrifice fly to right fielder Brandon Lowe.   Hunter Renfroe scores.,1,0,1,2,11,1.03,2.7
 1354,2021-06-22,571771,664126,,ball,14,Enrique Hernandez out on a sacrifice fly to right fielder Brandon Lowe.   Hunter Renfroe scores.,0,0,1,1,11,0.93,1.33
 1355,2021-06-22,571771,642232,double,hit_into_play,3,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,3,2,2,7,2,0.37,2.79
 1356,2021-06-22,571771,656420,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,1,6,9,1.17,1.9
-1357,2021-06-22,571771,656420,,foul,9,Enrique Hernandez strikes out swinging.,2,2,1,5,9,0.31,1.79
-1358,2021-06-22,571771,642232,,ball,12,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,2,2,2,6,2,2.08,2.63
-1359,2021-06-22,571771,656420,,foul,6,Enrique Hernandez strikes out swinging.,2,1,1,4,9,0.42,2.51
-1360,2021-06-22,571771,642232,,ball,14,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,1,2,2,5,2,1.27,1.42
-1361,2021-06-22,571771,642232,,foul,11,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,1,2,2,4,2,-0.11,3.57
-1362,2021-06-22,571771,656420,,ball,13,Enrique Hernandez strikes out swinging.,1,1,1,3,9,-0.35,1.35
-1363,2021-06-22,571771,642232,,foul,7,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,1,1,2,3,2,-0.34,1.95
-1364,2021-06-22,571771,656420,,ball,14,Enrique Hernandez strikes out swinging.,0,1,1,2,9,1.65,1.12
+1357,2021-06-22,571771,642232,,ball,12,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,2,2,2,6,2,2.08,2.63
+1358,2021-06-22,571771,656420,,foul,9,Enrique Hernandez strikes out swinging.,2,2,1,5,9,0.31,1.79
+1359,2021-06-22,571771,642232,,ball,14,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,1,2,2,5,2,1.27,1.42
+1360,2021-06-22,571771,656420,,foul,6,Enrique Hernandez strikes out swinging.,2,1,1,4,9,0.42,2.51
+1361,2021-06-22,571771,656420,,ball,13,Enrique Hernandez strikes out swinging.,1,1,1,3,9,-0.35,1.35
+1362,2021-06-22,571771,642232,,foul,11,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,1,2,2,4,2,-0.11,3.57
+1363,2021-06-22,571771,656420,,ball,14,Enrique Hernandez strikes out swinging.,0,1,1,2,9,1.65,1.12
+1364,2021-06-22,571771,642232,,foul,7,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,1,1,2,3,2,-0.34,1.95
 1365,2021-06-22,571771,656420,,swinging_strike,2,Enrique Hernandez strikes out swinging.,0,0,1,1,9,-0.06,3.04
 1366,2021-06-22,571771,642232,,ball,14,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,0,1,2,2,2,0.48,0.83
 1367,2021-06-22,571771,642232,,called_strike,9,Enrique Hernandez doubles (15) on a line drive to right fielder Manuel Margot.,0,0,2,1,2,0.62,1.8
@@ -1391,8 +1391,8 @@
 1389,2021-06-19,571771,641745,,ball,12,Enrique Hernandez walks.,0,0,0,1,5,0.84,2.84
 1390,2021-06-19,571771,663804,single,hit_into_play,4,Enrique Hernandez singles on a sharp line drive to left fielder Hunter Dozier.,2,0,1,3,9,-0.77,2.74
 1391,2021-06-19,571771,663804,,ball,14,Enrique Hernandez singles on a sharp line drive to left fielder Hunter Dozier.,1,0,1,2,9,0.98,0.99
-1392,2021-06-19,571771,641745,walk,ball,12,Enrique Hernandez walks.,3,0,2,4,2,1.06,2.9
-1393,2021-06-19,571771,663804,,ball,11,Enrique Hernandez singles on a sharp line drive to left fielder Hunter Dozier.,0,0,1,1,9,-0.25,5.45
+1392,2021-06-19,571771,663804,,ball,11,Enrique Hernandez singles on a sharp line drive to left fielder Hunter Dozier.,0,0,1,1,9,-0.25,5.45
+1393,2021-06-19,571771,641745,walk,ball,12,Enrique Hernandez walks.,3,0,2,4,2,1.06,2.9
 1394,2021-06-19,571771,641745,,ball,14,Enrique Hernandez walks.,2,0,2,3,2,0.24,0.89
 1395,2021-06-19,571771,641745,,ball,14,Enrique Hernandez walks.,1,0,2,2,2,0.94,0.75
 1396,2021-06-19,571771,641745,,ball,14,Enrique Hernandez walks.,0,0,2,1,2,2.01,0.84
@@ -1409,10 +1409,10 @@
 1407,2021-06-15,571771,650828,field_out,hit_into_play,1,Enrique Hernandez pops out to third baseman Austin Riley in foul territory.,1,2,0,4,6,-0.49,3.2
 1408,2021-06-15,571771,650828,,blocked_ball,14,Enrique Hernandez pops out to third baseman Austin Riley in foul territory.,0,2,0,3,6,1.62,0.55
 1409,2021-06-15,571771,656794,,ball,12,Enrique Hernandez strikes out swinging.,0,2,1,3,4,1.44,2.93
-1410,2021-06-15,571771,656794,,swinging_strike,2,Enrique Hernandez strikes out swinging.,0,1,1,2,4,0.1,3.0
-1411,2021-06-15,571771,650828,,foul,4,Enrique Hernandez pops out to third baseman Austin Riley in foul territory.,0,1,0,2,6,-0.49,2.3
-1412,2021-06-15,571771,650828,,foul_bunt,3,Enrique Hernandez pops out to third baseman Austin Riley in foul territory.,0,0,0,1,6,0.3,2.86
-1413,2021-06-15,571771,656794,,called_strike,6,Enrique Hernandez strikes out swinging.,0,0,1,1,4,0.39,2.48
+1410,2021-06-15,571771,650828,,foul,4,Enrique Hernandez pops out to third baseman Austin Riley in foul territory.,0,1,0,2,6,-0.49,2.3
+1411,2021-06-15,571771,656794,,swinging_strike,2,Enrique Hernandez strikes out swinging.,0,1,1,2,4,0.1,3.0
+1412,2021-06-15,571771,656794,,called_strike,6,Enrique Hernandez strikes out swinging.,0,0,1,1,4,0.39,2.48
+1413,2021-06-15,571771,650828,,foul_bunt,3,Enrique Hernandez pops out to third baseman Austin Riley in foul territory.,0,0,0,1,6,0.3,2.86
 1414,2021-06-15,571771,455119,field_out,hit_into_play,2,"Enrique Hernandez grounds out, second baseman Ozzie Albies to first baseman Freddie Freeman.",0,0,1,1,8,0.24,3.34
 1415,2021-06-15,571771,656353,single,hit_into_play,5,Enrique Hernandez singles on a sharp line drive to center fielder Guillermo Heredia.,0,1,0,2,1,0.25,2.43
 1416,2021-06-15,571771,656353,,called_strike,4,Enrique Hernandez singles on a sharp line drive to center fielder Guillermo Heredia.,0,0,0,1,1,-0.3,2.59
@@ -1459,17 +1459,17 @@
 1457,2021-06-11,571771,548389,field_out,hit_into_play,2,Enrique Hernandez pops out to first baseman Rowdy Tellez in foul territory.,0,0,2,1,5,-0.13,2.81
 1458,2021-06-11,571771,548389,field_out,hit_into_play,5,Enrique Hernandez flies out to center fielder Randal Grichuk.,0,0,1,1,3,-0.25,2.17
 1459,2021-06-11,571771,548389,strikeout,foul_tip,14,Enrique Hernandez strikes out on a foul tip.,2,2,0,5,1,1.17,1.74
-1460,2021-06-11,571771,641835,field_out,hit_into_play,14,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",1,2,2,4,6,1.22,2.1
-1461,2021-06-11,571771,548389,,ball,14,Enrique Hernandez strikes out on a foul tip.,1,2,0,4,1,0.22,1.4
-1462,2021-06-11,571771,503569,field_error,hit_into_play,5,Enrique Hernandez reaches on a throwing error by shortstop Bo Bichette.   Enrique Hernandez to 2nd.,1,1,0,3,9,0.14,2.16
-1463,2021-06-11,571771,641835,,blocked_ball,13,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",0,2,2,3,6,-1.65,0.17
-1464,2021-06-11,571771,548389,,ball,12,Enrique Hernandez strikes out on a foul tip.,0,2,0,3,1,0.9,4.3
-1465,2021-06-11,571771,641835,,foul,7,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",0,1,2,2,6,-0.83,2.06
-1466,2021-06-11,571771,503569,,ball,14,Enrique Hernandez reaches on a throwing error by shortstop Bo Bichette.   Enrique Hernandez to 2nd.,0,1,0,2,9,1.41,1.05
-1467,2021-06-11,571771,548389,,swinging_strike,5,Enrique Hernandez strikes out on a foul tip.,0,1,0,2,1,-0.1,2.4
-1468,2021-06-11,571771,503569,,called_strike,9,Enrique Hernandez reaches on a throwing error by shortstop Bo Bichette.   Enrique Hernandez to 2nd.,0,0,0,1,9,0.82,1.95
+1460,2021-06-11,571771,548389,,ball,14,Enrique Hernandez strikes out on a foul tip.,1,2,0,4,1,0.22,1.4
+1461,2021-06-11,571771,641835,field_out,hit_into_play,14,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",1,2,2,4,6,1.22,2.1
+1462,2021-06-11,571771,641835,,blocked_ball,13,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",0,2,2,3,6,-1.65,0.17
+1463,2021-06-11,571771,548389,,ball,12,Enrique Hernandez strikes out on a foul tip.,0,2,0,3,1,0.9,4.3
+1464,2021-06-11,571771,503569,field_error,hit_into_play,5,Enrique Hernandez reaches on a throwing error by shortstop Bo Bichette.   Enrique Hernandez to 2nd.,1,1,0,3,9,0.14,2.16
+1465,2021-06-11,571771,548389,,swinging_strike,5,Enrique Hernandez strikes out on a foul tip.,0,1,0,2,1,-0.1,2.4
+1466,2021-06-11,571771,641835,,foul,7,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",0,1,2,2,6,-0.83,2.06
+1467,2021-06-11,571771,503569,,ball,14,Enrique Hernandez reaches on a throwing error by shortstop Bo Bichette.   Enrique Hernandez to 2nd.,0,1,0,2,9,1.41,1.05
+1468,2021-06-11,571771,641835,,called_strike,3,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",0,0,2,1,6,0.34,3.19
 1469,2021-06-11,571771,548389,,called_strike,5,Enrique Hernandez strikes out on a foul tip.,0,0,0,1,1,-0.22,2.51
-1470,2021-06-11,571771,641835,,called_strike,3,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Rowdy Tellez.",0,0,2,1,6,0.34,3.19
+1470,2021-06-11,571771,503569,,called_strike,9,Enrique Hernandez reaches on a throwing error by shortstop Bo Bichette.   Enrique Hernandez to 2nd.,0,0,0,1,9,0.82,1.95
 1471,2021-06-10,571771,425844,walk,ball,14,Enrique Hernandez walks.   Hunter Renfroe scores.    Christian Vazquez to 3rd.    Bobby Dalbec to 2nd.,3,2,2,6,2,1.08,0.92
 1472,2021-06-10,571771,425844,,blocked_ball,13,Enrique Hernandez walks.   Hunter Renfroe scores.    Christian Vazquez to 3rd.    Bobby Dalbec to 2nd.,2,2,2,5,2,-0.98,0.06
 1473,2021-06-10,571771,425844,,ball,14,Enrique Hernandez walks.   Hunter Renfroe scores.    Christian Vazquez to 3rd.    Bobby Dalbec to 2nd.,1,2,2,4,2,2.46,1.8
@@ -1480,14 +1480,14 @@
 1478,2021-06-10,571771,425844,strikeout,swinging_strike,12,Enrique Hernandez strikes out swinging.,2,2,0,5,1,1.45,2.43
 1479,2021-06-10,571771,425844,,ball,14,Enrique Hernandez strikes out swinging.,1,2,0,4,1,1.46,1.95
 1480,2021-06-10,571771,656232,,called_strike,1,Enrique Hernandez doubles (11) on a line drive to right fielder Kyle Tucker.,1,1,1,3,4,-0.4,2.84
-1481,2021-06-10,571771,656232,,called_strike,2,Enrique Hernandez doubles (11) on a line drive to right fielder Kyle Tucker.,1,0,1,2,4,-0.19,2.98
+1481,2021-06-10,571771,425844,,ball,7,Enrique Hernandez strikes out swinging.,0,2,0,3,1,-0.77,1.64
 1482,2021-06-10,571771,642130,double,hit_into_play,7,Enrique Hernandez doubles (12) on a line drive to left fielder Taylor Jones.,0,2,0,3,6,-0.31,1.65
-1483,2021-06-10,571771,425844,,ball,7,Enrique Hernandez strikes out swinging.,0,2,0,3,1,-0.77,1.64
+1483,2021-06-10,571771,656232,,called_strike,2,Enrique Hernandez doubles (11) on a line drive to right fielder Kyle Tucker.,1,0,1,2,4,-0.19,2.98
 1484,2021-06-10,571771,548384,field_out,hit_into_play,3,Enrique Hernandez pops out to second baseman Jose Altuve.,0,1,2,2,6,0.56,3.16
-1485,2021-06-10,571771,642130,,foul,2,Enrique Hernandez doubles (12) on a line drive to left fielder Taylor Jones.,0,1,0,2,6,-0.19,3.3
+1485,2021-06-10,571771,656232,,ball,14,Enrique Hernandez doubles (11) on a line drive to right fielder Kyle Tucker.,0,0,1,1,4,1.4,0.68
 1486,2021-06-10,571771,425844,,called_strike,3,Enrique Hernandez strikes out swinging.,0,1,0,2,1,0.49,2.76
-1487,2021-06-10,571771,548384,,called_strike,6,Enrique Hernandez pops out to second baseman Jose Altuve.,0,0,2,1,6,0.54,2.44
-1488,2021-06-10,571771,656232,,ball,14,Enrique Hernandez doubles (11) on a line drive to right fielder Kyle Tucker.,0,0,1,1,4,1.4,0.68
+1487,2021-06-10,571771,642130,,foul,2,Enrique Hernandez doubles (12) on a line drive to left fielder Taylor Jones.,0,1,0,2,6,-0.19,3.3
+1488,2021-06-10,571771,548384,,called_strike,6,Enrique Hernandez pops out to second baseman Jose Altuve.,0,0,2,1,6,0.54,2.44
 1489,2021-06-10,571771,425844,,called_strike,6,Enrique Hernandez strikes out swinging.,0,0,0,1,1,0.7,2.1
 1490,2021-06-10,571771,642130,,called_strike,4,Enrique Hernandez doubles (12) on a line drive to left fielder Taylor Jones.,0,0,0,1,6,-0.58,2.38
 1491,2021-06-09,571771,543606,field_out,hit_into_play,9,"Enrique Hernandez grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",1,2,1,5,5,0.79,1.7
@@ -1599,8 +1599,8 @@
 1597,2021-06-01,571771,677651,field_out,hit_into_play,6,Enrique Hernandez flies out to center fielder Myles Straw.,2,1,0,4,1,0.32,2.74
 1598,2021-06-01,571771,677651,,ball,14,Enrique Hernandez flies out to center fielder Myles Straw.,1,1,0,3,1,1.09,0.58
 1599,2021-06-01,571771,548384,,swinging_strike,13,Enrique Hernandez strikes out swinging.,2,0,0,3,8,-1.34,2.13
-1600,2021-06-01,571771,548384,,ball,13,Enrique Hernandez strikes out swinging.,1,0,0,2,8,-1.03,1.38
-1601,2021-06-01,571771,677651,,ball,14,Enrique Hernandez flies out to center fielder Myles Straw.,0,1,0,2,1,1.14,2.0
+1600,2021-06-01,571771,677651,,ball,14,Enrique Hernandez flies out to center fielder Myles Straw.,0,1,0,2,1,1.14,2.0
+1601,2021-06-01,571771,548384,,ball,13,Enrique Hernandez strikes out swinging.,1,0,0,2,8,-1.03,1.38
 1602,2021-06-01,571771,677651,,foul,14,Enrique Hernandez flies out to center fielder Myles Straw.,0,0,0,1,1,1.07,2.37
 1603,2021-06-01,571771,548384,,ball,13,Enrique Hernandez strikes out swinging.,0,0,0,1,8,-1.52,2.28
 1604,2021-05-31,571771,664353,field_out,hit_into_play,2,Enrique Hernandez lines out to right fielder Kyle Tucker.,0,0,0,1,6,0.0,3.32
@@ -1650,10 +1650,10 @@
 1648,2021-05-26,571771,656794,field_out,hit_into_play,11,Enrique Hernandez pops out to first baseman Freddie Freeman.,2,1,0,4,7,-1.14,3.16
 1649,2021-05-26,571771,656794,,ball,12,Enrique Hernandez pops out to first baseman Freddie Freeman.,1,1,0,3,7,1.39,3.01
 1650,2021-05-26,571771,592767,,ball,13,"Enrique Hernandez grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",1,1,0,3,1,-0.35,1.09
-1651,2021-05-26,571771,592767,,ball,13,"Enrique Hernandez grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",0,1,0,2,1,-0.71,1.42
-1652,2021-05-26,571771,656794,,called_strike,6,Enrique Hernandez pops out to first baseman Freddie Freeman.,1,0,0,2,7,0.49,2.19
-1653,2021-05-26,571771,592767,,called_strike,4,"Enrique Hernandez grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",0,0,0,1,1,-0.29,2.23
-1654,2021-05-26,571771,656794,,ball,12,Enrique Hernandez pops out to first baseman Freddie Freeman.,0,0,0,1,7,1.21,3.74
+1651,2021-05-26,571771,656794,,called_strike,6,Enrique Hernandez pops out to first baseman Freddie Freeman.,1,0,0,2,7,0.49,2.19
+1652,2021-05-26,571771,592767,,ball,13,"Enrique Hernandez grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",0,1,0,2,1,-0.71,1.42
+1653,2021-05-26,571771,656794,,ball,12,Enrique Hernandez pops out to first baseman Freddie Freeman.,0,0,0,1,7,1.21,3.74
+1654,2021-05-26,571771,592767,,called_strike,4,"Enrique Hernandez grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",0,0,0,1,1,-0.29,2.23
 1655,2021-05-25,571771,450203,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,3,2,1,7,5,0.52,0.92
 1656,2021-05-25,571771,450203,,ball,13,Enrique Hernandez strikes out swinging.,2,2,1,6,5,-0.32,1.16
 1657,2021-05-25,571771,450203,,foul,5,Enrique Hernandez strikes out swinging.,2,2,1,5,5,0.02,2.32
@@ -1679,12 +1679,12 @@
 1677,2021-05-23,571771,554430,,called_strike,9,Enrique Hernandez lines out to right fielder Brad Miller.,1,1,2,3,3,0.61,2.02
 1678,2021-05-23,571771,554430,,ball,13,Enrique Hernandez lines out to right fielder Brad Miller.,0,1,2,2,3,-0.7,1.06
 1679,2021-05-23,571771,554430,,foul,11,Enrique Hernandez lines out to right fielder Brad Miller.,0,0,2,1,3,-1.21,3.11
-1680,2021-05-23,571771,621237,field_out,hit_into_play,2,"Enrique Hernandez grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",0,2,1,3,8,-0.12,2.79
-1681,2021-05-23,571771,554430,single,hit_into_play,5,Enrique Hernandez singles on a fly ball to right fielder Brad Miller.,0,2,0,3,1,-0.03,2.3
+1680,2021-05-23,571771,554430,single,hit_into_play,5,Enrique Hernandez singles on a fly ball to right fielder Brad Miller.,0,2,0,3,1,-0.03,2.3
+1681,2021-05-23,571771,621237,field_out,hit_into_play,2,"Enrique Hernandez grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",0,2,1,3,8,-0.12,2.79
 1682,2021-05-23,571771,554430,,foul,1,Enrique Hernandez singles on a fly ball to right fielder Brad Miller.,0,1,0,2,1,-0.31,2.8
 1683,2021-05-23,571771,621237,,foul,7,"Enrique Hernandez grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",0,1,1,2,8,-0.57,1.58
-1684,2021-05-23,571771,554430,,called_strike,3,Enrique Hernandez singles on a fly ball to right fielder Brad Miller.,0,0,0,1,1,0.63,2.82
-1685,2021-05-23,571771,621237,,called_strike,4,"Enrique Hernandez grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",0,0,1,1,8,-0.69,2.27
+1684,2021-05-23,571771,621237,,called_strike,4,"Enrique Hernandez grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",0,0,1,1,8,-0.69,2.27
+1685,2021-05-23,571771,554430,,called_strike,3,Enrique Hernandez singles on a fly ball to right fielder Brad Miller.,0,0,0,1,1,0.63,2.82
 1686,2021-05-22,571771,675921,walk,ball,14,Enrique Hernandez walks.,3,1,1,5,3,1.76,0.93
 1687,2021-05-22,571771,675921,,blocked_ball,14,Enrique Hernandez walks.,2,1,1,4,3,1.1,0.74
 1688,2021-05-22,571771,675921,,ball,14,Enrique Hernandez walks.,1,1,1,3,3,1.72,-0.01
@@ -1698,19 +1698,19 @@
 1696,2021-05-22,571771,624133,,called_strike,8,Enrique Hernandez flies out to center fielder Odubel Herrera.,0,0,0,1,5,-0.15,1.49
 1697,2021-05-22,571771,621237,single,hit_into_play,8,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,3,2,0,7,7,-0.27,1.82
 1698,2021-05-22,571771,621237,,ball,13,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,2,2,0,6,7,-0.08,1.2
-1699,2021-05-22,571771,621237,,foul,6,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,2,2,0,5,7,0.5,2.34
-1700,2021-05-22,571771,593576,force_out,hit_into_play,8,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",2,2,2,5,8,-0.12,1.62
-1701,2021-05-22,571771,621237,,ball,13,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,1,2,0,4,7,-1.67,1.82
-1702,2021-05-22,571771,593576,,foul,5,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",2,1,2,4,8,-0.07,2.53
-1703,2021-05-22,571771,593576,,blocked_ball,14,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",1,1,2,3,8,1.21,0.57
-1704,2021-05-22,571771,675921,strikeout,swinging_strike,11,Enrique Hernandez strikes out swinging.,0,2,0,3,1,-0.91,3.92
+1699,2021-05-22,571771,593576,force_out,hit_into_play,8,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",2,2,2,5,8,-0.12,1.62
+1700,2021-05-22,571771,621237,,foul,6,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,2,2,0,5,7,0.5,2.34
+1701,2021-05-22,571771,593576,,foul,5,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",2,1,2,4,8,-0.07,2.53
+1702,2021-05-22,571771,621237,,ball,13,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,1,2,0,4,7,-1.67,1.82
+1703,2021-05-22,571771,675921,strikeout,swinging_strike,11,Enrique Hernandez strikes out swinging.,0,2,0,3,1,-0.91,3.92
+1704,2021-05-22,571771,593576,,blocked_ball,14,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",1,1,2,3,8,1.21,0.57
 1705,2021-05-22,571771,621237,,swinging_strike,11,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,1,1,0,3,7,-0.18,3.61
 1706,2021-05-22,571771,675921,,foul,2,Enrique Hernandez strikes out swinging.,0,1,0,2,1,0.2,2.79
-1707,2021-05-22,571771,593576,,swinging_strike,2,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",1,0,2,2,8,-0.06,3.33
-1708,2021-05-22,571771,621237,,called_strike,2,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,1,0,0,2,7,-0.16,2.88
-1709,2021-05-22,571771,593576,,ball,13,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",0,0,2,1,8,-1.77,1.61
+1707,2021-05-22,571771,621237,,called_strike,2,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,1,0,0,2,7,-0.16,2.88
+1708,2021-05-22,571771,593576,,swinging_strike,2,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",1,0,2,2,8,-0.06,3.33
+1709,2021-05-22,571771,675921,,called_strike,5,Enrique Hernandez strikes out swinging.,0,0,0,1,1,0.26,2.27
 1710,2021-05-22,571771,621237,,ball,13,Enrique Hernandez singles on a ground ball to third baseman Brad Miller.,0,0,0,1,7,-1.42,0.25
-1711,2021-05-22,571771,675921,,called_strike,5,Enrique Hernandez strikes out swinging.,0,0,0,1,1,0.26,2.27
+1711,2021-05-22,571771,593576,,ball,13,"Enrique Hernandez grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Marwin Gonzalez out at 2nd.",0,0,2,1,8,-1.77,1.61
 1712,2021-05-21,571771,641401,field_error,hit_into_play,9,"Phillies challenged (play at 1st), call on the field was upheld: Enrique Hernandez reaches on a throwing error by third baseman Alec Bohm.",1,1,0,3,7,0.35,1.81
 1713,2021-05-21,571771,641401,,called_strike,6,"Phillies challenged (play at 1st), call on the field was upheld: Enrique Hernandez reaches on a throwing error by third baseman Alec Bohm.",1,0,0,2,7,0.37,2.38
 1714,2021-05-21,571771,641401,,ball,12,"Phillies challenged (play at 1st), call on the field was upheld: Enrique Hernandez reaches on a throwing error by third baseman Alec Bohm.",0,0,0,1,7,0.84,3.37
@@ -1778,13 +1778,13 @@
 1776,2021-05-05,571771,642397,walk,ball,12,Enrique Hernandez walks.,3,1,2,5,9,1.82,3.09
 1777,2021-05-05,571771,642397,,ball,12,Enrique Hernandez walks.,2,1,2,4,9,0.35,3.67
 1778,2021-05-05,571771,642397,,ball,14,Enrique Hernandez walks.,1,1,2,3,9,0.87,0.95
-1779,2021-05-05,571771,642397,,called_strike,8,Enrique Hernandez walks.,1,0,2,2,9,-0.07,1.68
-1780,2021-05-05,571771,605242,strikeout,called_strike,5,Enrique Hernandez called out on strikes.,1,2,2,4,10,-0.01,2.23
+1779,2021-05-05,571771,605242,strikeout,called_strike,5,Enrique Hernandez called out on strikes.,1,2,2,4,10,-0.01,2.23
+1780,2021-05-05,571771,642397,,called_strike,8,Enrique Hernandez walks.,1,0,2,2,9,-0.07,1.68
 1781,2021-05-05,571771,642397,,ball,12,Enrique Hernandez walks.,0,0,2,1,9,0.48,4.59
 1782,2021-05-05,571771,605242,,swinging_strike,2,Enrique Hernandez called out on strikes.,1,1,2,3,10,0.06,3.32
 1783,2021-05-05,571771,605242,,ball,14,Enrique Hernandez called out on strikes.,0,1,2,2,10,1.37,2.15
-1784,2021-05-05,571771,596057,single,hit_into_play,5,Enrique Hernandez singles on a line drive to left fielder Robbie Grossman.,0,1,1,2,7,-0.22,2.26
-1785,2021-05-05,571771,605242,,foul,1,Enrique Hernandez called out on strikes.,0,0,2,1,10,-0.69,2.89
+1784,2021-05-05,571771,605242,,foul,1,Enrique Hernandez called out on strikes.,0,0,2,1,10,-0.69,2.89
+1785,2021-05-05,571771,596057,single,hit_into_play,5,Enrique Hernandez singles on a line drive to left fielder Robbie Grossman.,0,1,1,2,7,-0.22,2.26
 1786,2021-05-05,571771,596057,,called_strike,1,Enrique Hernandez singles on a line drive to left fielder Robbie Grossman.,0,0,1,1,7,-0.75,3.13
 1787,2021-05-05,571771,663554,field_out,hit_into_play,5,"Enrique Hernandez grounds out, third baseman Jeimer Candelario to first baseman Miguel Cabrera.",1,2,0,4,1,-0.08,2.14
 1788,2021-05-05,571771,663554,,ball,12,"Enrique Hernandez grounds out, third baseman Jeimer Candelario to first baseman Miguel Cabrera.",0,2,0,3,1,0.64,4.09
@@ -1799,14 +1799,14 @@
 1797,2021-05-04,571771,605242,walk,ball,12,Enrique Hernandez walks.,3,2,0,6,1,0.93,2.39
 1798,2021-05-04,571771,656638,field_out,hit_into_play,2,"Enrique Hernandez grounds out, shortstop Niko Goodrum to first baseman Jonathan Schoop.",0,1,0,2,2,0.1,3.12
 1799,2021-05-04,571771,605242,,ball,12,Enrique Hernandez walks.,2,2,0,5,1,0.11,4.1
-1800,2021-05-04,571771,605242,,foul_tip,14,Enrique Hernandez walks.,2,1,0,4,1,1.44,2.07
-1801,2021-05-04,571771,656638,,called_strike,4,"Enrique Hernandez grounds out, shortstop Niko Goodrum to first baseman Jonathan Schoop.",0,0,0,1,2,-0.63,2.39
-1802,2021-05-04,571771,605242,,called_strike,6,Enrique Hernandez walks.,2,0,0,3,1,0.52,2.38
-1803,2021-05-04,571771,542585,home_run,hit_into_play,5,Enrique Hernandez homers (4) on a fly ball to left center field.,2,0,0,3,8,-0.26,2.18
-1804,2021-05-04,571771,542585,,ball,14,Enrique Hernandez homers (4) on a fly ball to left center field.,1,0,0,2,8,0.21,1.35
-1805,2021-05-04,571771,605242,,ball,11,Enrique Hernandez walks.,1,0,0,2,1,-0.11,3.79
-1806,2021-05-04,571771,542585,,ball,14,Enrique Hernandez homers (4) on a fly ball to left center field.,0,0,0,1,8,1.61,2.11
-1807,2021-05-04,571771,605242,,ball,12,Enrique Hernandez walks.,0,0,0,1,1,0.13,4.43
+1800,2021-05-04,571771,656638,,called_strike,4,"Enrique Hernandez grounds out, shortstop Niko Goodrum to first baseman Jonathan Schoop.",0,0,0,1,2,-0.63,2.39
+1801,2021-05-04,571771,605242,,foul_tip,14,Enrique Hernandez walks.,2,1,0,4,1,1.44,2.07
+1802,2021-05-04,571771,542585,home_run,hit_into_play,5,Enrique Hernandez homers (4) on a fly ball to left center field.,2,0,0,3,8,-0.26,2.18
+1803,2021-05-04,571771,605242,,called_strike,6,Enrique Hernandez walks.,2,0,0,3,1,0.52,2.38
+1804,2021-05-04,571771,605242,,ball,11,Enrique Hernandez walks.,1,0,0,2,1,-0.11,3.79
+1805,2021-05-04,571771,542585,,ball,14,Enrique Hernandez homers (4) on a fly ball to left center field.,1,0,0,2,8,0.21,1.35
+1806,2021-05-04,571771,605242,,ball,12,Enrique Hernandez walks.,0,0,0,1,1,0.13,4.43
+1807,2021-05-04,571771,542585,,ball,14,Enrique Hernandez homers (4) on a fly ball to left center field.,0,0,0,1,8,1.61,2.11
 1808,2021-05-02,571771,592314,strikeout,called_strike,8,Enrique Hernandez called out on strikes.,2,2,0,5,5,-0.27,1.46
 1809,2021-05-02,571771,592314,,foul,2,Enrique Hernandez called out on strikes.,2,1,0,4,5,0.08,2.86
 1810,2021-05-02,571771,592314,,foul,5,Enrique Hernandez called out on strikes.,2,0,0,3,5,-0.14,2.45
@@ -1847,8 +1847,8 @@
 1845,2021-04-29,571771,570257,,called_strike,14,"Enrique Hernandez grounds out, pitcher Joely Rodriguez to first baseman Nate Lowe.",1,1,0,3,8,1.07,2.09
 1846,2021-04-29,571771,570257,,ball,13,"Enrique Hernandez grounds out, pitcher Joely Rodriguez to first baseman Nate Lowe.",0,1,0,2,8,-1.37,1.8
 1847,2021-04-29,571771,502043,field_out,hit_into_play,13,"Enrique Hernandez grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,1,0,2,1,-1.11,2.31
-1848,2021-04-29,571771,570257,,called_strike,5,"Enrique Hernandez grounds out, pitcher Joely Rodriguez to first baseman Nate Lowe.",0,0,0,1,8,-0.11,2.51
-1849,2021-04-29,571771,502043,,called_strike,6,"Enrique Hernandez grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,0,1,1,0.56,2.6
+1848,2021-04-29,571771,502043,,called_strike,6,"Enrique Hernandez grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,0,1,1,0.56,2.6
+1849,2021-04-29,571771,570257,,called_strike,5,"Enrique Hernandez grounds out, pitcher Joely Rodriguez to first baseman Nate Lowe.",0,0,0,1,8,-0.11,2.51
 1850,2021-04-28,571771,594798,field_out,hit_into_play,6,Enrique Hernandez flies out to right fielder Michael Conforto.,3,2,0,8,6,0.61,2.5
 1851,2021-04-28,571771,594798,,ball,14,Enrique Hernandez flies out to right fielder Michael Conforto.,2,2,0,7,6,0.63,0.55
 1852,2021-04-28,571771,594798,,foul,2,Enrique Hernandez flies out to right fielder Michael Conforto.,2,2,0,6,6,0.11,2.99
@@ -1925,13 +1925,13 @@
 1923,2021-04-22,571771,606160,,ball,13,Enrique Hernandez strikes out swinging.,0,2,1,3,9,-0.36,1.08
 1924,2021-04-22,571771,643290,strikeout,swinging_strike,5,Enrique Hernandez strikes out swinging.,1,2,0,4,1,0.0,2.38
 1925,2021-04-22,571771,606160,,foul,2,Enrique Hernandez strikes out swinging.,0,1,1,2,9,-0.04,2.95
-1926,2021-04-22,571771,594987,triple,hit_into_play,6,Enrique Hernandez triples (1) on a fly ball to left fielder Taylor Trammell.,2,0,0,3,7,0.41,2.34
-1927,2021-04-22,571771,606160,,swinging_strike,3,Enrique Hernandez strikes out swinging.,0,0,1,1,9,0.35,2.95
-1928,2021-04-22,571771,643290,,swinging_strike,11,Enrique Hernandez strikes out swinging.,1,1,0,3,1,-0.85,3.0
-1929,2021-04-22,571771,643290,,ball,14,Enrique Hernandez strikes out swinging.,0,1,0,2,1,1.53,2.19
-1930,2021-04-22,571771,594987,,ball,13,Enrique Hernandez triples (1) on a fly ball to left fielder Taylor Trammell.,1,0,0,2,7,-0.07,1.09
-1931,2021-04-22,571771,643290,,called_strike,7,Enrique Hernandez strikes out swinging.,0,0,0,1,1,-0.48,2.05
-1932,2021-04-22,571771,594987,,ball,12,Enrique Hernandez triples (1) on a fly ball to left fielder Taylor Trammell.,0,0,0,1,7,0.17,3.6
+1926,2021-04-22,571771,606160,,swinging_strike,3,Enrique Hernandez strikes out swinging.,0,0,1,1,9,0.35,2.95
+1927,2021-04-22,571771,643290,,swinging_strike,11,Enrique Hernandez strikes out swinging.,1,1,0,3,1,-0.85,3.0
+1928,2021-04-22,571771,594987,triple,hit_into_play,6,Enrique Hernandez triples (1) on a fly ball to left fielder Taylor Trammell.,2,0,0,3,7,0.41,2.34
+1929,2021-04-22,571771,594987,,ball,13,Enrique Hernandez triples (1) on a fly ball to left fielder Taylor Trammell.,1,0,0,2,7,-0.07,1.09
+1930,2021-04-22,571771,643290,,ball,14,Enrique Hernandez strikes out swinging.,0,1,0,2,1,1.53,2.19
+1931,2021-04-22,571771,594987,,ball,12,Enrique Hernandez triples (1) on a fly ball to left fielder Taylor Trammell.,0,0,0,1,7,0.17,3.6
+1932,2021-04-22,571771,643290,,called_strike,7,Enrique Hernandez strikes out swinging.,0,0,0,1,1,-0.48,2.05
 1933,2021-04-21,571771,621366,field_out,hit_into_play,8,Enrique Hernandez flies out to left fielder Lourdes Gurriel Jr.,1,0,0,2,7,-0.12,1.85
 1934,2021-04-21,571771,621366,,ball,12,Enrique Hernandez flies out to left fielder Lourdes Gurriel Jr.,0,0,0,1,7,0.47,3.45
 1935,2021-04-21,571771,543548,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,1,2,1,4,3,1.19,1.52
@@ -1942,16 +1942,16 @@
 1940,2021-04-21,571771,641835,,ball,14,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Vladimir Guerrero Jr.  Christian Arroyo to 2nd.",2,1,0,4,9,1.0,0.85
 1941,2021-04-21,571771,641835,,ball,13,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Vladimir Guerrero Jr.  Christian Arroyo to 2nd.",1,1,0,3,9,-0.26,0.95
 1942,2021-04-21,571771,641835,,foul,9,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Vladimir Guerrero Jr.  Christian Arroyo to 2nd.",1,0,0,2,9,0.69,2.02
-1943,2021-04-21,571771,663423,field_out,hit_into_play,1,Enrique Hernandez pops out to shortstop Bo Bichette.,1,2,0,6,1,-0.31,2.9
-1944,2021-04-21,571771,641835,,ball,12,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Vladimir Guerrero Jr.  Christian Arroyo to 2nd.",0,0,0,1,9,1.27,3.27
-1945,2021-04-21,571771,663423,,foul,7,Enrique Hernandez pops out to shortstop Bo Bichette.,1,2,0,5,1,-0.48,1.63
-1946,2021-04-21,571771,475479,double,hit_into_play,11,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,2,2,1,5,5,-0.88,3.42
-1947,2021-04-21,571771,663423,,foul,8,Enrique Hernandez pops out to shortstop Bo Bichette.,1,2,0,4,1,0.11,1.89
-1948,2021-04-21,571771,475479,,blocked_ball,14,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,1,2,1,4,5,1.73,-0.22
-1949,2021-04-21,571771,663423,,foul,12,Enrique Hernandez pops out to shortstop Bo Bichette.,1,1,0,3,1,0.88,2.75
-1950,2021-04-21,571771,475479,,foul,2,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,1,1,1,3,5,0.01,3.04
-1951,2021-04-21,571771,475479,,foul,2,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,1,0,1,2,5,-0.18,2.79
-1952,2021-04-21,571771,663423,,ball,14,Enrique Hernandez pops out to shortstop Bo Bichette.,0,1,0,2,1,0.34,0.51
+1943,2021-04-21,571771,641835,,ball,12,"Enrique Hernandez grounds out, pitcher Tim Mayza to first baseman Vladimir Guerrero Jr.  Christian Arroyo to 2nd.",0,0,0,1,9,1.27,3.27
+1944,2021-04-21,571771,663423,field_out,hit_into_play,1,Enrique Hernandez pops out to shortstop Bo Bichette.,1,2,0,6,1,-0.31,2.9
+1945,2021-04-21,571771,475479,double,hit_into_play,11,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,2,2,1,5,5,-0.88,3.42
+1946,2021-04-21,571771,663423,,foul,7,Enrique Hernandez pops out to shortstop Bo Bichette.,1,2,0,5,1,-0.48,1.63
+1947,2021-04-21,571771,475479,,blocked_ball,14,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,1,2,1,4,5,1.73,-0.22
+1948,2021-04-21,571771,663423,,foul,8,Enrique Hernandez pops out to shortstop Bo Bichette.,1,2,0,4,1,0.11,1.89
+1949,2021-04-21,571771,475479,,foul,2,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,1,1,1,3,5,0.01,3.04
+1950,2021-04-21,571771,663423,,foul,12,Enrique Hernandez pops out to shortstop Bo Bichette.,1,1,0,3,1,0.88,2.75
+1951,2021-04-21,571771,663423,,ball,14,Enrique Hernandez pops out to shortstop Bo Bichette.,0,1,0,2,1,0.34,0.51
+1952,2021-04-21,571771,475479,,foul,2,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,1,0,1,2,5,-0.18,2.79
 1953,2021-04-21,571771,663423,,called_strike,1,Enrique Hernandez pops out to shortstop Bo Bichette.,0,0,0,1,1,-0.52,2.9
 1954,2021-04-21,571771,475479,,ball,14,Enrique Hernandez doubles (5) on a ground ball to shortstop Bo Bichette.   Marwin Gonzalez scores.    Bobby Dalbec to 3rd.,0,0,1,1,5,0.6,1.46
 1955,2021-04-20,571771,547943,field_out,hit_into_play,4,Enrique Hernandez flies out to center fielder Randal Grichuk.,2,2,0,5,5,-0.32,2.2
@@ -1988,10 +1988,10 @@
 1986,2021-04-19,571771,641420,,called_strike,6,Enrique Hernandez pops out to first baseman Jose Abreu in foul territory.,0,0,1,1,3,0.78,2.16
 1987,2021-04-19,571771,664901,force_out,hit_into_play,2,"Enrique Hernandez grounds into a force out, shortstop Tim Anderson to second baseman Nick Madrigal.   Hunter Renfroe out at 2nd.",0,2,2,3,8,0.0,2.91
 1988,2021-04-19,571771,606213,,called_strike,1,Enrique Hernandez doubles (4) on a line drive to center fielder Luis Robert.,1,1,2,3,7,-0.55,3.24
-1989,2021-04-19,571771,606213,,ball,14,Enrique Hernandez doubles (4) on a line drive to center fielder Luis Robert.,0,1,2,2,7,0.61,-0.65
-1990,2021-04-19,571771,664901,,called_strike,3,"Enrique Hernandez grounds into a force out, shortstop Tim Anderson to second baseman Nick Madrigal.   Hunter Renfroe out at 2nd.",0,1,2,2,8,0.6,3.59
-1991,2021-04-19,571771,664901,,called_strike,1,"Enrique Hernandez grounds into a force out, shortstop Tim Anderson to second baseman Nick Madrigal.   Hunter Renfroe out at 2nd.",0,0,2,1,8,-0.68,3.16
-1992,2021-04-19,571771,606213,,called_strike,8,Enrique Hernandez doubles (4) on a line drive to center fielder Luis Robert.,0,0,2,1,7,-0.02,1.53
+1989,2021-04-19,571771,664901,,called_strike,3,"Enrique Hernandez grounds into a force out, shortstop Tim Anderson to second baseman Nick Madrigal.   Hunter Renfroe out at 2nd.",0,1,2,2,8,0.6,3.59
+1990,2021-04-19,571771,606213,,ball,14,Enrique Hernandez doubles (4) on a line drive to center fielder Luis Robert.,0,1,2,2,7,0.61,-0.65
+1991,2021-04-19,571771,606213,,called_strike,8,Enrique Hernandez doubles (4) on a line drive to center fielder Luis Robert.,0,0,2,1,7,-0.02,1.53
+1992,2021-04-19,571771,664901,,called_strike,1,"Enrique Hernandez grounds into a force out, shortstop Tim Anderson to second baseman Nick Madrigal.   Hunter Renfroe out at 2nd.",0,0,2,1,8,-0.68,3.16
 1993,2021-04-19,571771,614179,strikeout,called_strike,12,Enrique Hernandez called out on strikes.,1,2,1,4,5,0.86,2.9
 1994,2021-04-19,571771,614179,,foul,5,Enrique Hernandez called out on strikes.,1,1,1,3,5,-0.26,2.12
 1995,2021-04-19,571771,614179,,swinging_strike,3,Enrique Hernandez called out on strikes.,1,0,1,2,5,0.63,3.41
@@ -2008,8 +2008,8 @@
 2006,2021-04-18,571771,572971,,foul,1,"Enrique Hernandez grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",2,2,2,7,3,-0.51,3.17
 2007,2021-04-18,571771,656629,,swinging_strike,14,Enrique Hernandez walks.,1,0,0,2,4,0.78,1.28
 2008,2021-04-18,571771,572971,,foul,13,"Enrique Hernandez grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",2,2,2,6,3,-1.06,1.95
-2009,2021-04-18,571771,572971,,foul,13,"Enrique Hernandez grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",2,2,2,5,3,-0.39,0.98
-2010,2021-04-18,571771,656629,,ball,12,Enrique Hernandez walks.,0,0,0,1,4,0.02,3.82
+2009,2021-04-18,571771,656629,,ball,12,Enrique Hernandez walks.,0,0,0,1,4,0.02,3.82
+2010,2021-04-18,571771,572971,,foul,13,"Enrique Hernandez grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",2,2,2,5,3,-0.39,0.98
 2011,2021-04-18,571771,572971,,ball,7,"Enrique Hernandez grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",1,2,2,4,3,-0.83,1.51
 2012,2021-04-18,571771,572971,,foul,8,"Enrique Hernandez grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",1,1,2,3,3,0.19,1.89
 2013,2021-04-18,571771,572971,,ball,14,"Enrique Hernandez grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",0,1,2,2,3,1.23,1.39
@@ -2030,8 +2030,8 @@
 2028,2021-04-17,571771,656302,,ball,14,Enrique Hernandez strikes out swinging.,0,0,2,1,4,0.02,-0.72
 2029,2021-04-17,571771,656302,double,hit_into_play,5,Enrique Hernandez doubles (3) on a ground ball to left fielder Andrew Vaughn.,2,1,0,4,3,0.25,2.11
 2030,2021-04-17,571771,656302,,ball,14,Enrique Hernandez doubles (3) on a ground ball to left fielder Andrew Vaughn.,1,1,0,3,3,1.33,1.64
-2031,2021-04-17,571771,656302,,ball,14,Enrique Hernandez doubles (3) on a ground ball to left fielder Andrew Vaughn.,0,1,0,2,3,1.17,0.96
-2032,2021-04-17,571771,676051,single,hit_into_play,1,Enrique Hernandez singles on a line drive to center fielder Luis Robert.   Christian Arroyo to 2nd.,2,1,2,4,8,-0.35,2.91
+2031,2021-04-17,571771,676051,single,hit_into_play,1,Enrique Hernandez singles on a line drive to center fielder Luis Robert.   Christian Arroyo to 2nd.,2,1,2,4,8,-0.35,2.91
+2032,2021-04-17,571771,656302,,ball,14,Enrique Hernandez doubles (3) on a ground ball to left fielder Andrew Vaughn.,0,1,0,2,3,1.17,0.96
 2033,2021-04-17,571771,656302,,called_strike,6,Enrique Hernandez doubles (3) on a ground ball to left fielder Andrew Vaughn.,0,0,0,1,3,0.28,2.6
 2034,2021-04-17,571771,676051,,foul,9,Enrique Hernandez singles on a line drive to center fielder Luis Robert.   Christian Arroyo to 2nd.,2,0,2,3,8,0.57,2.03
 2035,2021-04-17,571771,676051,,ball,12,Enrique Hernandez singles on a line drive to center fielder Luis Robert.   Christian Arroyo to 2nd.,1,0,2,2,8,0.97,2.86
@@ -2067,19 +2067,19 @@
 2065,2021-04-14,571771,573204,,foul,7,Enrique Hernandez strikes out swinging.,0,0,0,1,7,-0.6,1.94
 2066,2021-04-14,571771,621244,single,hit_into_play,11,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,2,2,0,7,1,-0.87,2.47
 2067,2021-04-14,571771,621244,,foul,11,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,2,2,0,6,1,-1.34,2.56
-2068,2021-04-14,571771,621244,,foul,3,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,2,2,0,5,1,0.4,3.05
-2069,2021-04-14,571771,608648,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,1,5,5,1.33,1.16
-2070,2021-04-14,571771,663399,field_out,hit_into_play,11,Enrique Hernandez pops out to third baseman Luis Arraez.,1,2,0,4,6,-0.89,3.11
-2071,2021-04-14,571771,621244,,ball,14,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,1,2,0,4,1,1.6,0.89
+2068,2021-04-14,571771,608648,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,1,5,5,1.33,1.16
+2069,2021-04-14,571771,621244,,foul,3,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,2,2,0,5,1,0.4,3.05
+2070,2021-04-14,571771,621244,,ball,14,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,1,2,0,4,1,1.6,0.89
+2071,2021-04-14,571771,663399,field_out,hit_into_play,11,Enrique Hernandez pops out to third baseman Luis Arraez.,1,2,0,4,6,-0.89,3.11
 2072,2021-04-14,571771,608648,,ball,14,Enrique Hernandez strikes out swinging.,1,2,1,4,5,1.31,1.01
-2073,2021-04-14,571771,621244,,ball,11,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,0,2,0,3,1,-0.17,3.96
+2073,2021-04-14,571771,608648,,ball,11,Enrique Hernandez strikes out swinging.,0,2,1,3,5,-1.4,2.33
 2074,2021-04-14,571771,663399,,ball,13,Enrique Hernandez pops out to third baseman Luis Arraez.,0,2,0,3,6,-0.86,1.05
-2075,2021-04-14,571771,608648,,ball,11,Enrique Hernandez strikes out swinging.,0,2,1,3,5,-1.4,2.33
-2076,2021-04-14,571771,608648,,called_strike,8,Enrique Hernandez strikes out swinging.,0,1,1,2,5,-0.12,1.58
-2077,2021-04-14,571771,663399,,called_strike,8,Enrique Hernandez pops out to third baseman Luis Arraez.,0,1,0,2,6,-0.11,1.9
-2078,2021-04-14,571771,621244,,called_strike,6,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,0,1,0,2,1,0.46,2.11
-2079,2021-04-14,571771,621244,,foul,11,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,0,0,0,1,1,-0.85,3.0
-2080,2021-04-14,571771,608648,,called_strike,5,Enrique Hernandez strikes out swinging.,0,0,1,1,5,0.07,2.05
+2075,2021-04-14,571771,621244,,ball,11,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,0,2,0,3,1,-0.17,3.96
+2076,2021-04-14,571771,663399,,called_strike,8,Enrique Hernandez pops out to third baseman Luis Arraez.,0,1,0,2,6,-0.11,1.9
+2077,2021-04-14,571771,621244,,called_strike,6,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,0,1,0,2,1,0.46,2.11
+2078,2021-04-14,571771,608648,,called_strike,8,Enrique Hernandez strikes out swinging.,0,1,1,2,5,-0.12,1.58
+2079,2021-04-14,571771,608648,,called_strike,5,Enrique Hernandez strikes out swinging.,0,0,1,1,5,0.07,2.05
+2080,2021-04-14,571771,621244,,foul,11,Enrique Hernandez singles on a line drive to left fielder Kyle Garlick.,0,0,0,1,1,-0.85,3.0
 2081,2021-04-14,571771,663399,,called_strike,8,Enrique Hernandez pops out to third baseman Luis Arraez.,0,0,0,1,6,0.25,1.81
 2082,2021-04-13,571771,457918,field_out,hit_into_play,8,Enrique Hernandez flies out sharply to center fielder Byron Buxton.,1,0,2,2,3,-0.11,1.61
 2083,2021-04-13,571771,457918,,ball,13,Enrique Hernandez flies out sharply to center fielder Byron Buxton.,0,0,2,1,3,-0.17,1.36
@@ -2090,16 +2090,16 @@
 2088,2021-04-13,571771,457918,field_out,hit_into_play,9,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",3,2,0,9,1,0.51,1.46
 2089,2021-04-13,571771,457918,,foul,4,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",3,2,0,8,1,-0.43,2.62
 2090,2021-04-13,571771,457918,,foul,2,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",3,2,0,7,1,-0.08,3.19
-2091,2021-04-13,571771,664054,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,2,6,5,1.24,1.99
-2092,2021-04-13,571771,457918,,foul,5,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",3,2,0,6,1,-0.19,2.07
+2091,2021-04-13,571771,457918,,foul,5,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",3,2,0,6,1,-0.19,2.07
+2092,2021-04-13,571771,664054,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,2,6,5,1.24,1.99
 2093,2021-04-13,571771,664054,,foul,11,Enrique Hernandez strikes out swinging.,2,2,2,5,5,-1.04,2.74
 2094,2021-04-13,571771,457918,,ball,12,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",2,2,0,5,1,1.17,3.91
 2095,2021-04-13,571771,664054,,foul,2,Enrique Hernandez strikes out swinging.,2,1,2,4,5,-0.22,3.33
 2096,2021-04-13,571771,457918,,foul,7,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",2,1,0,4,1,-0.67,1.83
 2097,2021-04-13,571771,664054,,foul_tip,6,Enrique Hernandez strikes out swinging.,2,0,2,3,5,0.36,2.52
 2098,2021-04-13,571771,457918,,ball,14,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",1,1,0,3,1,0.14,1.41
-2099,2021-04-13,571771,664054,,blocked_ball,14,Enrique Hernandez strikes out swinging.,1,0,2,2,5,0.53,0.39
-2100,2021-04-13,571771,457918,,called_strike,9,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",1,0,0,2,1,0.54,1.55
+2099,2021-04-13,571771,457918,,called_strike,9,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",1,0,0,2,1,0.54,1.55
+2100,2021-04-13,571771,664054,,blocked_ball,14,Enrique Hernandez strikes out swinging.,1,0,2,2,5,0.53,0.39
 2101,2021-04-13,571771,457918,,ball,12,"Enrique Hernandez grounds out, third baseman Luis Arraez to first baseman Willians Astudillo.",0,0,0,1,1,1.18,2.9
 2102,2021-04-13,571771,664054,,ball,12,Enrique Hernandez strikes out swinging.,0,0,2,1,5,0.55,3.64
 2103,2021-04-11,571771,605347,single,hit_into_play,13,Enrique Hernandez singles on a sharp ground ball to center fielder Cedric Mullins.,2,2,0,6,5,-0.01,1.09
@@ -2113,10 +2113,10 @@
 2111,2021-04-11,571771,542888,strikeout,swinging_strike,2,Enrique Hernandez strikes out swinging.,2,2,2,5,8,0.27,2.84
 2112,2021-04-11,571771,542888,,ball,12,Enrique Hernandez strikes out swinging.,1,2,2,4,8,0.92,3.24
 2113,2021-04-11,571771,542888,,foul,5,Enrique Hernandez strikes out swinging.,1,1,2,3,8,-0.26,2.14
-2114,2021-04-11,571771,669330,field_out,hit_into_play,5,Enrique Hernandez flies out to center fielder Cedric Mullins.,1,0,2,2,7,-0.09,2.17
-2115,2021-04-11,571771,542888,,ball,12,Enrique Hernandez strikes out swinging.,0,1,2,2,8,0.86,3.31
-2116,2021-04-11,571771,669330,,ball,11,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,0,2,1,7,-0.21,3.78
-2117,2021-04-11,571771,542888,,foul,4,Enrique Hernandez strikes out swinging.,0,0,2,1,8,-0.47,2.56
+2114,2021-04-11,571771,542888,,ball,12,Enrique Hernandez strikes out swinging.,0,1,2,2,8,0.86,3.31
+2115,2021-04-11,571771,669330,field_out,hit_into_play,5,Enrique Hernandez flies out to center fielder Cedric Mullins.,1,0,2,2,7,-0.09,2.17
+2116,2021-04-11,571771,542888,,foul,4,Enrique Hernandez strikes out swinging.,0,0,2,1,8,-0.47,2.56
+2117,2021-04-11,571771,669330,,ball,11,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,0,2,1,7,-0.21,3.78
 2118,2021-04-11,571771,605347,field_out,hit_into_play,8,Enrique Hernandez lines out sharply to right fielder Anthony Santander.,1,1,0,3,1,0.09,1.48
 2119,2021-04-11,571771,605347,,ball,14,Enrique Hernandez lines out sharply to right fielder Anthony Santander.,0,1,0,2,1,0.92,1.8
 2120,2021-04-11,571771,605347,,called_strike,6,Enrique Hernandez lines out sharply to right fielder Anthony Santander.,0,0,0,1,1,0.57,2.36
@@ -2180,8 +2180,8 @@
 2178,2021-04-06,571771,642003,strikeout,swinging_strike,5,Enrique Hernandez strikes out swinging.,3,2,1,6,7,-0.11,2.71
 2179,2021-04-06,571771,642003,,foul,4,Enrique Hernandez strikes out swinging.,3,1,1,5,7,-0.46,2.34
 2180,2021-04-06,571771,642003,,ball,12,Enrique Hernandez strikes out swinging.,2,1,1,4,7,1.48,2.83
-2181,2021-04-06,571771,642003,,ball,13,Enrique Hernandez strikes out swinging.,1,1,1,3,7,-1.23,0.86
-2182,2021-04-06,571771,657044,field_out,hit_into_play,13,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",1,1,0,3,12,-0.93,2.29
+2181,2021-04-06,571771,657044,field_out,hit_into_play,13,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",1,1,0,3,12,-0.93,2.29
+2182,2021-04-06,571771,642003,,ball,13,Enrique Hernandez strikes out swinging.,1,1,1,3,7,-1.23,0.86
 2183,2021-04-06,571771,657044,,ball,14,"Enrique Hernandez grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",0,1,0,2,12,2.06,2.21
 2184,2021-04-06,571771,642003,,ball,13,Enrique Hernandez strikes out swinging.,0,1,1,2,7,-0.88,1.04
 2185,2021-04-06,571771,642003,,called_strike,5,Enrique Hernandez strikes out swinging.,0,0,1,1,7,0.05,2.28
@@ -2252,15 +2252,15 @@
 2250,2021-04-02,571771,607644,field_out,hit_into_play,11,Enrique Hernandez flies out to center fielder Cedric Mullins.,1,1,2,3,3,-0.87,2.67
 2251,2021-04-02,571771,607644,,ball,14,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,1,2,2,3,0.18,1.41
 2252,2021-04-02,571771,607644,,called_strike,5,Enrique Hernandez flies out to center fielder Cedric Mullins.,0,0,2,1,3,-0.17,2.66
-2253,2021-04-02,571771,607644,single,hit_into_play,6,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,2,2,0,6,1,0.75,2.56
-2254,2021-04-02,571771,491624,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,0,6,9,0.53,1.18
-2255,2021-04-02,571771,607644,,foul,9,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,2,2,0,5,1,0.5,1.78
-2256,2021-04-02,571771,491624,,foul,14,Enrique Hernandez strikes out swinging.,2,2,0,5,9,0.7,1.21
+2253,2021-04-02,571771,491624,strikeout,swinging_strike,14,Enrique Hernandez strikes out swinging.,2,2,0,6,9,0.53,1.18
+2254,2021-04-02,571771,607644,single,hit_into_play,6,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,2,2,0,6,1,0.75,2.56
+2255,2021-04-02,571771,491624,,foul,14,Enrique Hernandez strikes out swinging.,2,2,0,5,9,0.7,1.21
+2256,2021-04-02,571771,607644,,foul,9,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,2,2,0,5,1,0.5,1.78
 2257,2021-04-02,571771,491624,,foul,9,Enrique Hernandez strikes out swinging.,2,1,0,4,9,0.42,1.5
 2258,2021-04-02,571771,607644,,ball,14,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,1,2,0,4,1,0.61,0.99
 2259,2021-04-02,571771,607644,,swinging_strike,6,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,1,1,0,3,1,0.37,2.69
 2260,2021-04-02,571771,491624,,called_strike,14,Enrique Hernandez strikes out swinging.,2,0,0,3,9,1.08,2.26
-2261,2021-04-02,571771,491624,,ball,14,Enrique Hernandez strikes out swinging.,1,0,0,2,9,0.15,1.29
-2262,2021-04-02,571771,607644,,called_strike,7,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,1,0,0,2,1,-0.75,1.8
+2261,2021-04-02,571771,607644,,called_strike,7,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,1,0,0,2,1,-0.75,1.8
+2262,2021-04-02,571771,491624,,ball,14,Enrique Hernandez strikes out swinging.,1,0,0,2,9,0.15,1.29
 2263,2021-04-02,571771,607644,,ball,12,Enrique Hernandez singles on a line drive to right fielder Anthony Santander.,0,0,0,1,1,1.06,3.4
 2264,2021-04-02,571771,491624,,ball,14,Enrique Hernandez strikes out swinging.,0,0,0,1,9,1.77,1.49

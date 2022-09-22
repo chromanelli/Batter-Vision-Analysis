@@ -7,8 +7,8 @@
 5,2021-10-03,660271,664948,,swinging_strike,13.0,Shohei Ohtani called out on strikes.,2,1,1,4,4,-0.76,0.85
 6,2021-10-03,660271,664948,,ball,13.0,Shohei Ohtani called out on strikes.,1,1,1,3,4,-1.53,2.5
 7,2021-10-03,660271,664948,,ball,11.0,Shohei Ohtani called out on strikes.,0,1,1,2,4,-0.82,4.26
-8,2021-10-03,660271,542881,home_run,hit_into_play,2.0,Shohei Ohtani homers (46) on a line drive to right field.,1,1,0,3,1,0.09,3.01
-9,2021-10-03,660271,664948,,called_strike,3.0,Shohei Ohtani called out on strikes.,0,0,1,1,4,0.32,3.5
+8,2021-10-03,660271,664948,,called_strike,3.0,Shohei Ohtani called out on strikes.,0,0,1,1,4,0.32,3.5
+9,2021-10-03,660271,542881,home_run,hit_into_play,2.0,Shohei Ohtani homers (46) on a line drive to right field.,1,1,0,3,1,0.09,3.01
 10,2021-10-03,660271,542881,,ball,13.0,Shohei Ohtani homers (46) on a line drive to right field.,0,1,0,2,1,-1.27,0.64
 11,2021-10-03,660271,542881,,swinging_strike,5.0,Shohei Ohtani homers (46) on a line drive to right field.,0,0,0,1,1,-0.2,2.77
 12,2021-10-02,660271,623167,walk,ball,11.0,Shohei Ohtani walks.,3,1,0,5,6,-1.72,3.29
@@ -99,8 +99,8 @@
 97,2021-09-28,660271,663465,,ball,13.0,Shohei Ohtani called out on strikes.,1,2,0,4,6,-1.01,0.48
 98,2021-09-28,660271,663465,,called_strike,5.0,Shohei Ohtani called out on strikes.,1,1,0,3,6,0.14,2.18
 99,2021-09-28,660271,663465,,ball,13.0,Shohei Ohtani called out on strikes.,0,1,0,2,6,-1.45,1.82
-100,2021-09-28,660271,669618,field_out,hit_into_play,4.0,Shohei Ohtani lines out to second baseman Nick Solak.,0,0,0,1,9,-0.63,2.65
-101,2021-09-28,660271,663465,,called_strike,9.0,Shohei Ohtani called out on strikes.,0,0,0,1,6,0.3,1.76
+100,2021-09-28,660271,663465,,called_strike,9.0,Shohei Ohtani called out on strikes.,0,0,0,1,6,0.3,1.76
+101,2021-09-28,660271,669618,field_out,hit_into_play,4.0,Shohei Ohtani lines out to second baseman Nick Solak.,0,0,0,1,9,-0.63,2.65
 102,2021-09-26,660271,594835,single,hit_into_play,4.0,Shohei Ohtani singles on a ground ball to center fielder Jarred Kelenic.,1,1,0,3,6,-0.76,2.61
 103,2021-09-26,660271,594835,,ball,13.0,Shohei Ohtani singles on a ground ball to center fielder Jarred Kelenic.,0,1,0,2,6,-0.49,1.35
 104,2021-09-26,660271,594835,,called_strike,1.0,Shohei Ohtani singles on a ground ball to center fielder Jarred Kelenic.,0,0,0,1,6,-0.62,3.06
@@ -152,13 +152,13 @@
 150,2021-09-24,660271,669302,strikeout,swinging_strike,12.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,0.04,4.1
 151,2021-09-24,660271,669302,,swinging_strike,9.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,0.5,2.02
 152,2021-09-24,660271,669302,,ball,11.0,Shohei Ohtani strikes out swinging.,0,1,1,2,1,-1.78,2.62
-153,2021-09-24,660271,669302,,foul,4.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.67,2.27
-154,2021-09-24,660271,664948,walk,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,3,1,0,5,7,-1.96,1.23
+153,2021-09-24,660271,664948,walk,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,3,1,0,5,7,-1.96,1.23
+154,2021-09-24,660271,669302,,foul,4.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.67,2.27
 155,2021-09-24,660271,664948,,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,2,1,0,4,7,-1.19,1.34
 156,2021-09-24,660271,664948,,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,1,1,0,3,7,-0.01,1.07
 157,2021-09-24,660271,664948,,foul,7.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,1,0,0,2,7,-0.58,2.21
-158,2021-09-24,660271,664948,,ball,12.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,0,0,0,1,7,0.13,4.36
-159,2021-09-24,660271,623149,,ball,13.0,Paul Sewald intentionally walks Shohei Ohtani.,1,0,1,2,9,-1.46,2.34
+158,2021-09-24,660271,623149,,ball,13.0,Paul Sewald intentionally walks Shohei Ohtani.,1,0,1,2,9,-1.46,2.34
+159,2021-09-24,660271,664948,,ball,12.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,0,0,0,1,7,0.13,4.36
 160,2021-09-24,660271,623149,,ball,13.0,Paul Sewald intentionally walks Shohei Ohtani.,0,0,1,1,9,-1.57,2.39
 161,2021-09-23,660271,621121,walk,ball,9.0,Shohei Ohtani walks.,3,2,1,7,6,0.45,1.66
 162,2021-09-23,660271,621121,,foul,5.0,Shohei Ohtani walks.,3,2,1,6,6,-0.1,2.68
@@ -177,12 +177,12 @@
 175,2021-09-23,660271,621121,,ball,14.0,Shohei Ohtani called out on strikes.,2,2,1,6,1,0.59,1.07
 176,2021-09-23,660271,621121,,foul,9.0,Shohei Ohtani called out on strikes.,2,2,1,5,1,0.65,1.68
 177,2021-09-23,660271,621121,,ball,11.0,Shohei Ohtani called out on strikes.,1,2,1,4,1,-0.79,4.88
-178,2021-09-23,660271,621121,,foul,13.0,Shohei Ohtani called out on strikes.,1,1,1,3,1,-0.25,1.36
-179,2021-09-23,660271,642130,walk,ball,13.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,3,2,2,7,7,-1.7,1.82
-180,2021-09-23,660271,621121,,foul,7.0,Shohei Ohtani called out on strikes.,1,0,1,2,1,-0.45,1.57
-181,2021-09-23,660271,642130,,ball,13.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,2,2,2,6,7,-1.57,1.01
-182,2021-09-23,660271,642130,,ball,13.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,1,2,2,5,7,-1.74,2.18
-183,2021-09-23,660271,621121,,ball,11.0,Shohei Ohtani called out on strikes.,0,0,1,1,1,-1.1,2.95
+178,2021-09-23,660271,642130,walk,ball,13.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,3,2,2,7,7,-1.7,1.82
+179,2021-09-23,660271,621121,,foul,13.0,Shohei Ohtani called out on strikes.,1,1,1,3,1,-0.25,1.36
+180,2021-09-23,660271,642130,,ball,13.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,2,2,2,6,7,-1.57,1.01
+181,2021-09-23,660271,621121,,foul,7.0,Shohei Ohtani called out on strikes.,1,0,1,2,1,-0.45,1.57
+182,2021-09-23,660271,621121,,ball,11.0,Shohei Ohtani called out on strikes.,0,0,1,1,1,-1.1,2.95
+183,2021-09-23,660271,642130,,ball,13.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,1,2,2,5,7,-1.74,2.18
 184,2021-09-23,660271,642130,,foul,11.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,1,2,2,4,7,-1.2,2.99
 185,2021-09-23,660271,642130,,called_strike,11.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,1,1,2,3,7,-1.15,2.47
 186,2021-09-23,660271,642130,,ball,13.0,Shohei Ohtani walks.   Kean Wong to 3rd.    Brandon Marsh to 2nd.,0,1,2,2,7,-0.9,1.03
@@ -198,10 +198,10 @@
 196,2021-09-22,660271,677651,,ball,11.0,Shohei Ohtani walks.,0,0,0,1,4,-1.08,3.17
 197,2021-09-22,660271,677651,walk,ball,14.0,Shohei Ohtani walks.,3,0,2,4,1,0.53,1.32
 198,2021-09-22,660271,677651,,ball,13.0,Shohei Ohtani walks.,2,0,2,3,1,-0.41,1.32
-199,2021-09-22,660271,657624,strikeout,swinging_strike,4.0,Shohei Ohtani strikes out swinging.,0,2,2,3,12,-0.33,2.34
-200,2021-09-22,660271,677651,,ball,14.0,Shohei Ohtani walks.,1,0,2,2,1,2.04,-0.35
-201,2021-09-22,660271,657624,,foul,7.0,Shohei Ohtani strikes out swinging.,0,1,2,2,12,-0.48,1.85
-202,2021-09-22,660271,677651,,ball,14.0,Shohei Ohtani walks.,0,0,2,1,1,1.22,0.47
+199,2021-09-22,660271,677651,,ball,14.0,Shohei Ohtani walks.,1,0,2,2,1,2.04,-0.35
+200,2021-09-22,660271,657624,strikeout,swinging_strike,4.0,Shohei Ohtani strikes out swinging.,0,2,2,3,12,-0.33,2.34
+201,2021-09-22,660271,677651,,ball,14.0,Shohei Ohtani walks.,0,0,2,1,1,1.22,0.47
+202,2021-09-22,660271,657624,,foul,7.0,Shohei Ohtani strikes out swinging.,0,1,2,2,12,-0.48,1.85
 203,2021-09-22,660271,657624,,called_strike,6.0,Shohei Ohtani strikes out swinging.,0,0,2,1,12,0.52,2.42
 204,2021-09-22,660271,642130,,ball,13.0,Blake Taylor intentionally walks Shohei Ohtani.,1,0,0,2,10,-1.19,2.11
 205,2021-09-22,660271,642130,,ball,11.0,Blake Taylor intentionally walks Shohei Ohtani.,0,0,0,1,10,-0.99,2.67
@@ -253,8 +253,8 @@
 251,2021-09-18,660271,621076,,ball,12.0,Shohei Ohtani flies out to right fielder Chad Pinder.,0,0,2,1,1,1.42,2.69
 252,2021-09-18,660271,605177,single,hit_into_play,5.0,Shohei Ohtani singles on a sharp line drive to center fielder Starling Marte.,1,1,0,3,9,-0.03,2.91
 253,2021-09-18,660271,605177,,ball,13.0,Shohei Ohtani singles on a sharp line drive to center fielder Starling Marte.,0,1,0,2,9,-2.13,-0.84
-254,2021-09-18,660271,500610,single,hit_into_play,13.0,Shohei Ohtani singles on a ground ball to left fielder Mark Canha.,0,0,0,1,7,-1.4,2.11
-255,2021-09-18,660271,605177,,swinging_strike,14.0,Shohei Ohtani singles on a sharp line drive to center fielder Starling Marte.,0,0,0,1,9,0.51,0.85
+254,2021-09-18,660271,605177,,swinging_strike,14.0,Shohei Ohtani singles on a sharp line drive to center fielder Starling Marte.,0,0,0,1,9,0.51,0.85
+255,2021-09-18,660271,500610,single,hit_into_play,13.0,Shohei Ohtani singles on a ground ball to left fielder Mark Canha.,0,0,0,1,7,-1.4,2.11
 256,2021-09-17,660271,608344,field_out,hit_into_play,11.0,Shohei Ohtani flies out to left fielder Mark Canha.,1,0,0,2,5,-0.98,2.81
 257,2021-09-17,660271,608344,,ball,13.0,Shohei Ohtani flies out to left fielder Mark Canha.,0,0,0,1,5,-1.31,1.28
 258,2021-09-17,660271,608344,field_out,hit_into_play,13.0,Shohei Ohtani pops out to third baseman Matt Chapman.,2,2,1,5,2,-0.45,1.38
@@ -262,10 +262,10 @@
 260,2021-09-17,660271,608344,,foul,8.0,Shohei Ohtani pops out to third baseman Matt Chapman.,1,1,1,3,2,-0.19,1.91
 261,2021-09-17,660271,608344,,swinging_strike,9.0,Shohei Ohtani pops out to third baseman Matt Chapman.,1,0,1,2,2,0.6,2.05
 262,2021-09-17,660271,608344,,ball,9.0,Shohei Ohtani pops out to third baseman Matt Chapman.,0,0,1,1,2,0.72,2.01
-263,2021-09-17,660271,518617,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,3,2,2,6,7,-0.74,2.38
-264,2021-09-17,660271,608344,single,hit_into_play,8.0,"Shohei Ohtani singles on a sharp ground ball to right fielder Chad Pinder.   David Fletcher to 3rd.  David Fletcher advances to 3rd, on a fielding error by right fielder Chad Pinder.",1,1,1,3,1,-0.19,2.06
-265,2021-09-17,660271,518617,,foul,9.0,Shohei Ohtani called out on strikes.,3,1,2,5,7,0.29,2.17
-266,2021-09-17,660271,608344,,foul,4.0,"Shohei Ohtani singles on a sharp ground ball to right fielder Chad Pinder.   David Fletcher to 3rd.  David Fletcher advances to 3rd, on a fielding error by right fielder Chad Pinder.",1,0,1,2,1,-0.44,2.83
+263,2021-09-17,660271,608344,single,hit_into_play,8.0,"Shohei Ohtani singles on a sharp ground ball to right fielder Chad Pinder.   David Fletcher to 3rd.  David Fletcher advances to 3rd, on a fielding error by right fielder Chad Pinder.",1,1,1,3,1,-0.19,2.06
+264,2021-09-17,660271,518617,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,3,2,2,6,7,-0.74,2.38
+265,2021-09-17,660271,608344,,foul,4.0,"Shohei Ohtani singles on a sharp ground ball to right fielder Chad Pinder.   David Fletcher to 3rd.  David Fletcher advances to 3rd, on a fielding error by right fielder Chad Pinder.",1,0,1,2,1,-0.44,2.83
+266,2021-09-17,660271,518617,,foul,9.0,Shohei Ohtani called out on strikes.,3,1,2,5,7,0.29,2.17
 267,2021-09-17,660271,518617,,ball,13.0,Shohei Ohtani called out on strikes.,2,1,2,4,7,-1.6,1.64
 268,2021-09-17,660271,608344,,ball,12.0,"Shohei Ohtani singles on a sharp ground ball to right fielder Chad Pinder.   David Fletcher to 3rd.  David Fletcher advances to 3rd, on a fielding error by right fielder Chad Pinder.",0,0,1,1,1,0.01,3.96
 269,2021-09-17,660271,518617,,ball,7.0,Shohei Ohtani called out on strikes.,1,1,2,3,7,-0.73,1.61
@@ -308,8 +308,8 @@
 306,2021-09-15,660271,572971,,ball,14.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,0.99,1.35
 307,2021-09-15,660271,572971,,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,1,0,1,2,1,0.35,1.13
 308,2021-09-15,660271,656629,,foul,7.0,"Shohei Ohtani grounds out, shortstop Leury Garcia to first baseman Jose Abreu.",3,1,0,5,7,-0.43,2.16
-309,2021-09-15,660271,656629,,called_strike,8.0,"Shohei Ohtani grounds out, shortstop Leury Garcia to first baseman Jose Abreu.",3,0,0,4,7,-0.2,1.54
-310,2021-09-15,660271,572971,,ball,14.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,1.58,1.11
+309,2021-09-15,660271,572971,,ball,14.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,1.58,1.11
+310,2021-09-15,660271,656629,,called_strike,8.0,"Shohei Ohtani grounds out, shortstop Leury Garcia to first baseman Jose Abreu.",3,0,0,4,7,-0.2,1.54
 311,2021-09-15,660271,656629,,ball,14.0,"Shohei Ohtani grounds out, shortstop Leury Garcia to first baseman Jose Abreu.",2,0,0,3,7,0.09,1.17
 312,2021-09-15,660271,656629,,ball,11.0,"Shohei Ohtani grounds out, shortstop Leury Garcia to first baseman Jose Abreu.",1,0,0,2,7,-1.97,3.52
 313,2021-09-15,660271,656629,,ball,14.0,"Shohei Ohtani grounds out, shortstop Leury Garcia to first baseman Jose Abreu.",0,0,0,1,7,0.34,1.35
@@ -320,19 +320,19 @@
 318,2021-09-14,660271,608337,,ball,11.0,Shohei Ohtani called out on strikes.,0,0,0,1,4,-1.6,4.32
 319,2021-09-14,660271,605541,walk,ball,13.0,Shohei Ohtani walks.,3,1,1,5,5,-1.41,2.38
 320,2021-09-14,660271,608337,strikeout,swinging_strike,3.0,Shohei Ohtani strikes out swinging.,2,2,1,7,1,0.68,3.21
-321,2021-09-14,660271,605541,,ball,11.0,Shohei Ohtani walks.,2,1,1,4,5,-1.22,3.47
-322,2021-09-14,660271,608337,,foul,11.0,Shohei Ohtani strikes out swinging.,2,2,1,6,1,-1.5,3.98
-323,2021-09-14,660271,608337,,foul,14.0,Shohei Ohtani strikes out swinging.,2,2,1,5,1,0.94,2.48
-324,2021-09-14,660271,605541,,ball,11.0,Shohei Ohtani walks.,1,1,1,3,5,-1.75,2.86
-325,2021-09-14,660271,608337,,ball,14.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,0.92,2.37
-326,2021-09-14,660271,605541,,ball,14.0,Shohei Ohtani walks.,0,1,1,2,5,1.86,-0.58
-327,2021-09-14,660271,605240,strikeout,swinging_strike_blocked,13.0,Shohei Ohtani strikes out swinging.,0,2,1,3,9,-1.57,0.86
-328,2021-09-14,660271,608337,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,-0.09,1.44
-329,2021-09-14,660271,605541,,swinging_strike,1.0,Shohei Ohtani walks.,0,0,1,1,5,-0.3,3.52
-330,2021-09-14,660271,605240,,swinging_strike,6.0,Shohei Ohtani strikes out swinging.,0,1,1,2,9,0.3,2.84
-331,2021-09-14,660271,608337,,ball,14.0,Shohei Ohtani strikes out swinging.,0,1,1,2,1,0.33,0.03
-332,2021-09-14,660271,605240,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,0,0,1,1,9,-0.22,1.2
-333,2021-09-14,660271,608337,,foul,1.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.7,2.99
+321,2021-09-14,660271,608337,,foul,11.0,Shohei Ohtani strikes out swinging.,2,2,1,6,1,-1.5,3.98
+322,2021-09-14,660271,605541,,ball,11.0,Shohei Ohtani walks.,2,1,1,4,5,-1.22,3.47
+323,2021-09-14,660271,605541,,ball,11.0,Shohei Ohtani walks.,1,1,1,3,5,-1.75,2.86
+324,2021-09-14,660271,608337,,foul,14.0,Shohei Ohtani strikes out swinging.,2,2,1,5,1,0.94,2.48
+325,2021-09-14,660271,605541,,ball,14.0,Shohei Ohtani walks.,0,1,1,2,5,1.86,-0.58
+326,2021-09-14,660271,608337,,ball,14.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,0.92,2.37
+327,2021-09-14,660271,605541,,swinging_strike,1.0,Shohei Ohtani walks.,0,0,1,1,5,-0.3,3.52
+328,2021-09-14,660271,605240,strikeout,swinging_strike_blocked,13.0,Shohei Ohtani strikes out swinging.,0,2,1,3,9,-1.57,0.86
+329,2021-09-14,660271,608337,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,-0.09,1.44
+330,2021-09-14,660271,608337,,ball,14.0,Shohei Ohtani strikes out swinging.,0,1,1,2,1,0.33,0.03
+331,2021-09-14,660271,605240,,swinging_strike,6.0,Shohei Ohtani strikes out swinging.,0,1,1,2,9,0.3,2.84
+332,2021-09-14,660271,608337,,foul,1.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.7,2.99
+333,2021-09-14,660271,605240,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,0,0,1,1,9,-0.22,1.2
 334,2021-09-14,660271,607481,field_out,hit_into_play,8.0,"Shohei Ohtani grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",0,0,0,1,7,0.08,1.73
 335,2021-09-12,660271,621121,field_out,hit_into_play,7.0,"Shohei Ohtani grounds out, first baseman Yuli Gurriel to pitcher Lance McCullers.",0,1,2,2,5,-0.74,1.81
 336,2021-09-12,660271,621121,,swinging_strike,14.0,"Shohei Ohtani grounds out, first baseman Yuli Gurriel to pitcher Lance McCullers.",0,0,2,1,5,0.07,1.45
@@ -418,8 +418,8 @@
 416,2021-09-05,660271,621368,,foul,6.0,Shohei Ohtani grounds out to first baseman Nathaniel Lowe.,1,2,1,4,1,0.49,2.49
 417,2021-09-05,660271,621368,,ball,13.0,Shohei Ohtani grounds out to first baseman Nathaniel Lowe.,0,2,1,3,1,-1.25,1.05
 418,2021-09-05,660271,621368,,swinging_strike,13.0,Shohei Ohtani grounds out to first baseman Nathaniel Lowe.,0,1,1,2,1,-1.32,1.59
-419,2021-09-05,660271,621368,,called_strike,4.0,Shohei Ohtani grounds out to first baseman Nathaniel Lowe.,0,0,1,1,1,-0.48,2.85
-420,2021-09-05,660271,622250,walk,ball,12.0,Shohei Ohtani walks.,3,1,0,5,8,1.14,3.69
+419,2021-09-05,660271,622250,walk,ball,12.0,Shohei Ohtani walks.,3,1,0,5,8,1.14,3.69
+420,2021-09-05,660271,621368,,called_strike,4.0,Shohei Ohtani grounds out to first baseman Nathaniel Lowe.,0,0,1,1,1,-0.48,2.85
 421,2021-09-05,660271,622250,,ball,11.0,Shohei Ohtani walks.,2,1,0,4,8,-1.59,3.22
 422,2021-09-05,660271,622250,,foul,3.0,Shohei Ohtani walks.,2,0,0,3,8,0.3,2.96
 423,2021-09-05,660271,622250,,ball,11.0,Shohei Ohtani walks.,1,0,0,2,8,-1.07,2.86
@@ -491,10 +491,10 @@
 489,2021-08-30,660271,446372,,foul,3.0,Shohei Ohtani called out on strikes.,0,1,1,2,1,0.68,3.19
 490,2021-08-30,660271,446372,,called_strike,7.0,Shohei Ohtani called out on strikes.,0,0,1,1,1,-0.49,1.93
 491,2021-08-30,660271,593974,strikeout,called_strike,8.0,Shohei Ohtani called out on strikes.,1,2,0,4,7,0.22,1.68
-492,2021-08-30,660271,571760,home_run,hit_into_play,5.0,Shohei Ohtani homers (42) on a fly ball to right field.,1,1,0,3,5,-0.05,2.88
-493,2021-08-30,660271,593974,,foul,8.0,Shohei Ohtani called out on strikes.,1,1,0,3,7,0.24,1.96
-494,2021-08-30,660271,593974,,ball,12.0,Shohei Ohtani called out on strikes.,0,1,0,2,7,1.92,2.91
-495,2021-08-30,660271,571760,,ball,12.0,Shohei Ohtani homers (42) on a fly ball to right field.,0,1,0,2,5,1.39,3.44
+492,2021-08-30,660271,593974,,foul,8.0,Shohei Ohtani called out on strikes.,1,1,0,3,7,0.24,1.96
+493,2021-08-30,660271,571760,home_run,hit_into_play,5.0,Shohei Ohtani homers (42) on a fly ball to right field.,1,1,0,3,5,-0.05,2.88
+494,2021-08-30,660271,571760,,ball,12.0,Shohei Ohtani homers (42) on a fly ball to right field.,0,1,0,2,5,1.39,3.44
+495,2021-08-30,660271,593974,,ball,12.0,Shohei Ohtani called out on strikes.,0,1,0,2,7,1.92,2.91
 496,2021-08-30,660271,571760,,foul,12.0,Shohei Ohtani homers (42) on a fly ball to right field.,0,0,0,1,5,1.41,3.93
 497,2021-08-30,660271,593974,,foul,12.0,Shohei Ohtani called out on strikes.,0,0,0,1,7,1.22,3.06
 498,2021-08-28,660271,677960,field_out,hit_into_play,13.0,Shohei Ohtani flies out to shortstop Jake Cronenworth.,3,2,1,9,3,-0.85,1.52
@@ -514,12 +514,12 @@
 512,2021-08-28,660271,622503,,ball,13.0,Shohei Ohtani strikes out swinging.,0,0,0,1,8,-0.91,1.4
 513,2021-08-28,660271,657612,force_out,hit_into_play,11.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",1,2,0,5,6,-1.11,3.04
 514,2021-08-28,660271,657612,,foul,12.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",1,2,0,4,6,0.25,4.07
-515,2021-08-28,660271,613534,walk,ball,13.0,Shohei Ohtani walks.,3,2,1,6,5,-1.08,1.73
-516,2021-08-28,660271,657612,,foul,1.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",1,1,0,3,6,-0.39,3.02
-517,2021-08-28,660271,657612,,called_strike,7.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",1,0,0,2,6,-0.69,1.76
-518,2021-08-28,660271,613534,,ball,11.0,Shohei Ohtani walks.,2,2,1,5,5,-0.96,2.73
-519,2021-08-28,660271,613534,,called_strike,11.0,Shohei Ohtani walks.,2,1,1,4,5,-0.98,3.25
-520,2021-08-28,660271,657612,,ball,7.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",0,0,0,1,6,-0.78,1.97
+515,2021-08-28,660271,657612,,foul,1.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",1,1,0,3,6,-0.39,3.02
+516,2021-08-28,660271,613534,walk,ball,13.0,Shohei Ohtani walks.,3,2,1,6,5,-1.08,1.73
+517,2021-08-28,660271,613534,,ball,11.0,Shohei Ohtani walks.,2,2,1,5,5,-0.96,2.73
+518,2021-08-28,660271,657612,,called_strike,7.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",1,0,0,2,6,-0.69,1.76
+519,2021-08-28,660271,657612,,ball,7.0,"Shohei Ohtani grounds into a force out, pitcher Tim Hill to catcher Austin Nola.   Brandon Marsh out at home.    Jack Mayfield to 3rd.    David Fletcher to 2nd.    Shohei Ohtani to 1st.",0,0,0,1,6,-0.78,1.97
+520,2021-08-28,660271,613534,,called_strike,11.0,Shohei Ohtani walks.,2,1,1,4,5,-0.98,3.25
 521,2021-08-28,660271,613534,,ball,11.0,Shohei Ohtani walks.,1,1,1,3,5,-0.98,3.74
 522,2021-08-28,660271,613534,,ball,14.0,Shohei Ohtani walks.,0,1,1,2,5,1.24,0.59
 523,2021-08-28,660271,613534,,foul,11.0,Shohei Ohtani walks.,0,0,1,1,5,-1.11,3.07
@@ -569,16 +569,16 @@
 567,2021-08-25,660271,642121,,foul,13.0,Shohei Ohtani strikes out swinging.,0,2,2,3,6,-0.98,1.91
 568,2021-08-25,660271,642121,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,0,1,2,2,6,-0.6,1.5
 569,2021-08-25,660271,642121,,called_strike,1.0,Shohei Ohtani strikes out swinging.,0,0,2,1,6,-0.63,3.19
-570,2021-08-25,660271,641632,field_out,hit_into_play,5.0,Shohei Ohtani grounds out sharply to first baseman Trey Mancini.   Jo Adell to 2nd.,0,0,1,1,4,-0.21,2.71
-571,2021-08-25,660271,595939,strikeout,swinging_strike,11.0,Shohei Ohtani strikes out swinging.,1,2,0,4,1,-0.6,4.17
+570,2021-08-25,660271,595939,strikeout,swinging_strike,11.0,Shohei Ohtani strikes out swinging.,1,2,0,4,1,-0.6,4.17
+571,2021-08-25,660271,641632,field_out,hit_into_play,5.0,Shohei Ohtani grounds out sharply to first baseman Trey Mancini.   Jo Adell to 2nd.,0,0,1,1,4,-0.21,2.71
 572,2021-08-25,660271,595939,,foul_tip,1.0,Shohei Ohtani strikes out swinging.,1,1,0,3,1,-0.53,2.97
 573,2021-08-25,660271,595939,,swinging_strike,4.0,Shohei Ohtani strikes out swinging.,1,0,0,2,1,-0.64,2.41
 574,2021-08-25,660271,595939,,ball,11.0,Shohei Ohtani strikes out swinging.,0,0,0,1,1,-1.76,3.78
 575,2021-08-24,660271,657093,field_out,hit_into_play,4.0,Shohei Ohtani flies out sharply to left fielder Austin Hays.,1,1,1,3,2,-0.66,2.86
-576,2021-08-24,660271,472551,walk,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,3,1,2,5,6,-1.9,1.3
-577,2021-08-24,660271,657093,,ball,12.0,Shohei Ohtani flies out sharply to left fielder Austin Hays.,0,1,1,2,2,1.12,4.07
-578,2021-08-24,660271,472551,,ball,14.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,2,1,2,4,6,0.05,1.28
-579,2021-08-24,660271,657093,,foul,2.0,Shohei Ohtani flies out sharply to left fielder Austin Hays.,0,0,1,1,2,-0.06,3.54
+576,2021-08-24,660271,657093,,ball,12.0,Shohei Ohtani flies out sharply to left fielder Austin Hays.,0,1,1,2,2,1.12,4.07
+577,2021-08-24,660271,472551,walk,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,3,1,2,5,6,-1.9,1.3
+578,2021-08-24,660271,657093,,foul,2.0,Shohei Ohtani flies out sharply to left fielder Austin Hays.,0,0,1,1,2,-0.06,3.54
+579,2021-08-24,660271,472551,,ball,14.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,2,1,2,4,6,0.05,1.28
 580,2021-08-24,660271,472551,,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,1,1,2,3,6,-1.37,1.01
 581,2021-08-24,660271,472551,,swinging_strike,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,1,0,2,2,6,-1.2,1.67
 582,2021-08-24,660271,472551,,ball,13.0,Shohei Ohtani walks.   Brandon Marsh to 2nd.,0,0,2,1,6,-0.98,1.46
@@ -588,8 +588,8 @@
 586,2021-08-24,660271,657093,,foul,3.0,Shohei Ohtani strikes out swinging.,2,2,0,6,1,0.4,2.96
 587,2021-08-24,660271,657093,,foul,11.0,Shohei Ohtani strikes out swinging.,2,2,0,5,1,-1.51,2.92
 588,2021-08-24,660271,657093,,ball,11.0,Shohei Ohtani strikes out swinging.,1,2,0,4,1,-1.06,3.08
-589,2021-08-24,660271,657093,,called_strike,11.0,Shohei Ohtani strikes out swinging.,1,1,0,3,1,-0.88,2.66
-590,2021-08-24,660271,472551,strikeout,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,0,2,1,3,4,-0.68,1.52
+589,2021-08-24,660271,472551,strikeout,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,0,2,1,3,4,-0.68,1.52
+590,2021-08-24,660271,657093,,called_strike,11.0,Shohei Ohtani strikes out swinging.,1,1,0,3,1,-0.88,2.66
 591,2021-08-24,660271,657093,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,0,2,1,-0.25,1.3
 592,2021-08-24,660271,472551,,called_strike,4.0,Shohei Ohtani strikes out swinging.,0,1,1,2,4,-0.51,2.22
 593,2021-08-24,660271,472551,,called_strike,2.0,Shohei Ohtani strikes out swinging.,0,0,1,1,4,0.21,3.29
@@ -628,8 +628,8 @@
 626,2021-08-21,660271,663474,,foul,1.0,Shohei Ohtani strikes out swinging.,1,0,2,2,3,-0.52,3.41
 627,2021-08-21,660271,663474,,ball,14.0,Shohei Ohtani strikes out swinging.,0,0,2,1,3,0.6,1.42
 628,2021-08-21,660271,663474,strikeout,swinging_strike,9.0,Shohei Ohtani strikes out swinging.,1,2,0,4,1,0.41,1.71
-629,2021-08-21,660271,663474,,ball,11.0,Shohei Ohtani strikes out swinging.,0,2,0,3,1,-0.76,4.05
-630,2021-08-21,660271,661403,field_out,hit_into_play,9.0,"Shohei Ohtani grounds out, second baseman Ernie Clement to first baseman Owen Miller.",0,2,0,3,9,0.69,1.85
+629,2021-08-21,660271,661403,field_out,hit_into_play,9.0,"Shohei Ohtani grounds out, second baseman Ernie Clement to first baseman Owen Miller.",0,2,0,3,9,0.69,1.85
+630,2021-08-21,660271,663474,,ball,11.0,Shohei Ohtani strikes out swinging.,0,2,0,3,1,-0.76,4.05
 631,2021-08-21,660271,663474,,called_strike,1.0,Shohei Ohtani strikes out swinging.,0,1,0,2,1,-0.63,3.09
 632,2021-08-21,660271,661403,,swinging_strike,14.0,"Shohei Ohtani grounds out, second baseman Ernie Clement to first baseman Owen Miller.",0,1,0,2,9,0.46,1.32
 633,2021-08-21,660271,663474,,called_strike,8.0,Shohei Ohtani strikes out swinging.,0,0,0,1,1,0.0,1.6
@@ -708,8 +708,8 @@
 706,2021-08-17,660271,571871,,ball,12.0,Shohei Ohtani walks.,2,1,2,4,9,0.79,5.15
 707,2021-08-17,660271,571871,,ball,12.0,Shohei Ohtani walks.,1,1,2,3,9,1.05,4.47
 708,2021-08-17,660271,571871,,ball,11.0,Shohei Ohtani walks.,0,1,2,2,9,-0.77,3.8
-709,2021-08-17,660271,663554,single,hit_into_play,5.0,Shohei Ohtani singles on a ground ball to center fielder Victor Reyes.,0,0,0,1,1,0.28,2.53
-710,2021-08-17,660271,571871,,swinging_strike,12.0,Shohei Ohtani walks.,0,0,2,1,9,0.8,3.94
+709,2021-08-17,660271,571871,,swinging_strike,12.0,Shohei Ohtani walks.,0,0,2,1,9,0.8,3.94
+710,2021-08-17,660271,663554,single,hit_into_play,5.0,Shohei Ohtani singles on a ground ball to center fielder Victor Reyes.,0,0,0,1,1,0.28,2.53
 711,2021-08-16,660271,543037,field_out,hit_into_play,6.0,Shohei Ohtani flies out sharply to right fielder Giancarlo Stanton.,1,2,0,6,6,0.34,2.91
 712,2021-08-16,660271,543037,,foul,11.0,Shohei Ohtani flies out sharply to right fielder Giancarlo Stanton.,1,2,0,5,6,-1.07,2.64
 713,2021-08-16,660271,543037,,foul,11.0,Shohei Ohtani flies out sharply to right fielder Giancarlo Stanton.,1,2,0,4,6,-1.02,2.72
@@ -720,14 +720,14 @@
 718,2021-08-16,660271,543037,,swinging_strike,11.0,Shohei Ohtani flies out to right fielder Giancarlo Stanton.,1,1,1,3,3,-1.15,2.81
 719,2021-08-16,660271,543037,,called_strike,5.0,Shohei Ohtani flies out to right fielder Giancarlo Stanton.,1,0,1,2,3,-0.06,2.82
 720,2021-08-16,660271,543037,,ball,13.0,Shohei Ohtani flies out to right fielder Giancarlo Stanton.,0,0,1,1,3,-0.21,1.05
-721,2021-08-16,660271,570257,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,2,2,2,5,8,-0.46,2.37
-722,2021-08-16,660271,543037,strikeout,swinging_strike,1.0,Shohei Ohtani strikes out swinging.,2,2,0,5,1,-0.58,3.66
+721,2021-08-16,660271,543037,strikeout,swinging_strike,1.0,Shohei Ohtani strikes out swinging.,2,2,0,5,1,-0.58,3.66
+722,2021-08-16,660271,570257,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,2,2,2,5,8,-0.46,2.37
 723,2021-08-16,660271,543037,,swinging_strike,4.0,Shohei Ohtani strikes out swinging.,2,1,0,4,1,-0.5,2.32
 724,2021-08-16,660271,570257,,called_strike,8.0,Shohei Ohtani called out on strikes.,2,1,2,4,8,-0.15,1.65
 725,2021-08-16,660271,543037,,ball,11.0,Shohei Ohtani strikes out swinging.,1,1,0,3,1,-0.37,3.72
 726,2021-08-16,660271,570257,,ball,13.0,Shohei Ohtani called out on strikes.,1,1,2,3,8,-2.16,0.83
-727,2021-08-16,660271,543037,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,0,2,1,-0.24,0.84
-728,2021-08-16,660271,570257,,swinging_strike,14.0,Shohei Ohtani called out on strikes.,1,0,2,2,8,1.06,0.74
+727,2021-08-16,660271,570257,,swinging_strike,14.0,Shohei Ohtani called out on strikes.,1,0,2,2,8,1.06,0.74
+728,2021-08-16,660271,543037,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,0,2,1,-0.24,0.84
 729,2021-08-16,660271,543037,,swinging_strike,2.0,Shohei Ohtani strikes out swinging.,0,0,0,1,1,-0.11,3.53
 730,2021-08-16,660271,570257,,ball,8.0,Shohei Ohtani called out on strikes.,0,0,2,1,8,0.04,1.48
 731,2021-08-15,660271,621121,single,hit_into_play,6.0,Shohei Ohtani singles on a ground ball to center fielder Chas McCormick.   Jack Mayfield to 3rd.    Shohei Ohtani to 2nd.,0,1,1,2,5,0.46,2.46
@@ -759,10 +759,10 @@
 757,2021-08-14,660271,554340,,swinging_strike,14.0,Shohei Ohtani lines out sharply to left fielder Michael Brantley.,0,0,1,1,9,0.29,1.29
 758,2021-08-14,660271,642130,field_out,hit_into_play,7.0,Shohei Ohtani flies out to center fielder Chas McCormick.,2,1,0,4,7,-0.29,1.74
 759,2021-08-14,660271,642130,,called_strike,8.0,Shohei Ohtani flies out to center fielder Chas McCormick.,2,0,0,3,7,-0.2,1.83
-760,2021-08-14,660271,677651,home_run,hit_into_play,7.0,Shohei Ohtani homers (39) on a fly ball to right center field.,1,1,0,3,1,-0.36,1.83
-761,2021-08-14,660271,642130,,ball,11.0,Shohei Ohtani flies out to center fielder Chas McCormick.,1,0,0,2,7,-0.79,3.93
-762,2021-08-14,660271,677651,,ball,13.0,Shohei Ohtani homers (39) on a fly ball to right center field.,0,1,0,2,1,-1.36,2.52
-763,2021-08-14,660271,642130,,blocked_ball,13.0,Shohei Ohtani flies out to center fielder Chas McCormick.,0,0,0,1,7,-0.64,-0.13
+760,2021-08-14,660271,642130,,ball,11.0,Shohei Ohtani flies out to center fielder Chas McCormick.,1,0,0,2,7,-0.79,3.93
+761,2021-08-14,660271,677651,home_run,hit_into_play,7.0,Shohei Ohtani homers (39) on a fly ball to right center field.,1,1,0,3,1,-0.36,1.83
+762,2021-08-14,660271,642130,,blocked_ball,13.0,Shohei Ohtani flies out to center fielder Chas McCormick.,0,0,0,1,7,-0.64,-0.13
+763,2021-08-14,660271,677651,,ball,13.0,Shohei Ohtani homers (39) on a fly ball to right center field.,0,1,0,2,1,-1.36,2.52
 764,2021-08-14,660271,677651,,called_strike,4.0,Shohei Ohtani homers (39) on a fly ball to right center field.,0,0,0,1,1,-0.69,2.67
 765,2021-08-13,660271,425844,strikeout,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,2,2,1,8,6,-0.97,2.19
 766,2021-08-13,660271,425844,,foul,8.0,Shohei Ohtani strikes out swinging.,2,2,1,7,6,0.03,1.76
@@ -789,10 +789,10 @@
 787,2021-08-12,660271,621244,,called_strike,1.0,Shohei Ohtani walks.,2,0,1,3,2,-0.8,2.88
 788,2021-08-12,660271,621244,,ball,13.0,Shohei Ohtani walks.,1,0,1,2,2,-0.58,1.06
 789,2021-08-12,660271,621244,,ball,14.0,Shohei Ohtani walks.,0,0,1,1,2,0.03,1.16
-790,2021-08-12,660271,669912,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,2,2,0,5,6,-0.28,2.56
-791,2021-08-12,660271,621244,double,hit_into_play,9.0,Shohei Ohtani doubles (25) on a sharp line drive to center fielder Randal Grichuk.,1,2,0,5,1,0.36,2.17
-792,2021-08-12,660271,669912,,called_strike,4.0,Shohei Ohtani called out on strikes.,2,1,0,4,6,-0.8,2.65
-793,2021-08-12,660271,621244,,foul,13.0,Shohei Ohtani doubles (25) on a sharp line drive to center fielder Randal Grichuk.,1,2,0,4,1,-1.05,2.26
+790,2021-08-12,660271,621244,double,hit_into_play,9.0,Shohei Ohtani doubles (25) on a sharp line drive to center fielder Randal Grichuk.,1,2,0,5,1,0.36,2.17
+791,2021-08-12,660271,669912,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,2,2,0,5,6,-0.28,2.56
+792,2021-08-12,660271,621244,,foul,13.0,Shohei Ohtani doubles (25) on a sharp line drive to center fielder Randal Grichuk.,1,2,0,4,1,-1.05,2.26
+793,2021-08-12,660271,669912,,called_strike,4.0,Shohei Ohtani called out on strikes.,2,1,0,4,6,-0.8,2.65
 794,2021-08-12,660271,621244,,called_strike,3.0,Shohei Ohtani doubles (25) on a sharp line drive to center fielder Randal Grichuk.,1,1,0,3,1,0.41,2.95
 795,2021-08-12,660271,669912,,ball,14.0,Shohei Ohtani called out on strikes.,1,1,0,3,6,1.7,1.12
 796,2021-08-12,660271,669912,,ball,13.0,Shohei Ohtani called out on strikes.,0,1,0,2,6,-3.08,1.71
@@ -837,16 +837,16 @@
 835,2021-08-10,660271,643256,,swinging_strike,5.0,Shohei Ohtani called out on strikes.,0,1,2,2,5,-0.06,2.56
 836,2021-08-10,660271,571927,,called_strike,11.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Marcus Semien.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Marcus Semien.",2,1,0,4,1,-0.92,2.98
 837,2021-08-10,660271,643256,,swinging_strike,5.0,Shohei Ohtani called out on strikes.,0,0,2,1,5,0.0,2.57
-838,2021-08-10,660271,571927,,ball,11.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Marcus Semien.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Marcus Semien.",1,1,0,3,1,-1.51,3.06
-839,2021-08-10,660271,670950,field_out,hit_into_play,11.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",2,2,1,5,3,-1.3,3.61
-840,2021-08-10,660271,571927,,ball,8.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Marcus Semien.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Marcus Semien.",0,1,0,2,1,-0.24,1.67
-841,2021-08-10,660271,670950,,ball,11.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",1,2,1,4,3,-2.69,3.13
-842,2021-08-10,660271,571927,,called_strike,5.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Marcus Semien.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Marcus Semien.",0,0,0,1,1,-0.08,2.36
-843,2021-08-10,660271,670950,,swinging_strike,13.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",1,1,1,3,3,-0.18,1.18
-844,2021-08-10,660271,670950,,ball,13.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",0,1,1,2,3,-1.34,2.4
-845,2021-08-10,660271,548389,triple,hit_into_play,11.0,Shohei Ohtani triples (5) on a line drive to right fielder Teoscar Hernandez.,1,1,0,3,1,-1.03,2.72
-846,2021-08-10,660271,548389,,ball,7.0,Shohei Ohtani triples (5) on a line drive to right fielder Teoscar Hernandez.,0,1,0,2,1,-0.62,1.56
-847,2021-08-10,660271,670950,,foul,11.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",0,0,1,1,3,-0.97,2.9
+838,2021-08-10,660271,670950,field_out,hit_into_play,11.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",2,2,1,5,3,-1.3,3.61
+839,2021-08-10,660271,571927,,ball,11.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Marcus Semien.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Marcus Semien.",1,1,0,3,1,-1.51,3.06
+840,2021-08-10,660271,670950,,ball,11.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",1,2,1,4,3,-2.69,3.13
+841,2021-08-10,660271,571927,,ball,8.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Marcus Semien.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Marcus Semien.",0,1,0,2,1,-0.24,1.67
+842,2021-08-10,660271,670950,,swinging_strike,13.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",1,1,1,3,3,-0.18,1.18
+843,2021-08-10,660271,571927,,called_strike,5.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Marcus Semien.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Marcus Semien.",0,0,0,1,1,-0.08,2.36
+844,2021-08-10,660271,548389,triple,hit_into_play,11.0,Shohei Ohtani triples (5) on a line drive to right fielder Teoscar Hernandez.,1,1,0,3,1,-1.03,2.72
+845,2021-08-10,660271,670950,,ball,13.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",0,1,1,2,3,-1.34,2.4
+846,2021-08-10,660271,670950,,foul,11.0,"Shohei Ohtani grounds out, third baseman Santiago Espinal to first baseman Vladimir Guerrero.",0,0,1,1,3,-0.97,2.9
+847,2021-08-10,660271,548389,,ball,7.0,Shohei Ohtani triples (5) on a line drive to right fielder Teoscar Hernandez.,0,1,0,2,1,-0.62,1.56
 848,2021-08-10,660271,548389,,called_strike,4.0,Shohei Ohtani triples (5) on a line drive to right fielder Teoscar Hernandez.,0,0,0,1,1,-0.83,2.38
 849,2021-08-08,660271,677865,walk,ball,13.0,Shohei Ohtani walks.,3,2,2,6,8,-2.22,1.58
 850,2021-08-08,660271,677865,,foul,5.0,Shohei Ohtani walks.,3,1,2,5,8,0.13,2.56
@@ -872,8 +872,8 @@
 870,2021-08-05,660271,621368,walk,blocked_ball,14.0,Shohei Ohtani walks.,3,2,2,6,5,0.64,0.81
 871,2021-08-05,660271,621368,,ball,13.0,Shohei Ohtani walks.,2,2,2,5,5,-1.14,1.41
 872,2021-08-05,660271,621368,,ball,13.0,Shohei Ohtani walks.,1,2,2,4,5,-1.03,1.49
-873,2021-08-05,660271,621368,,called_strike,6.0,Shohei Ohtani walks.,1,1,2,3,5,0.32,2.35
-874,2021-08-05,660271,605194,field_out,hit_into_play,2.0,Shohei Ohtani flies out to right fielder Adolis Garcia.,3,2,1,6,9,-0.08,3.16
+873,2021-08-05,660271,605194,field_out,hit_into_play,2.0,Shohei Ohtani flies out to right fielder Adolis Garcia.,3,2,1,6,9,-0.08,3.16
+874,2021-08-05,660271,621368,,called_strike,6.0,Shohei Ohtani walks.,1,1,2,3,5,0.32,2.35
 875,2021-08-05,660271,605194,,ball,11.0,Shohei Ohtani flies out to right fielder Adolis Garcia.,2,2,1,5,9,-0.47,3.63
 876,2021-08-05,660271,621368,,ball,12.0,Shohei Ohtani walks.,0,1,2,2,5,1.06,2.65
 877,2021-08-05,660271,621368,,swinging_strike,8.0,Shohei Ohtani walks.,0,0,2,1,5,-0.05,1.7
@@ -910,8 +910,8 @@
 908,2021-08-03,660271,656685,,called_strike,1.0,"Shohei Ohtani grounds out, second baseman Andy Ibanez to first baseman Nathaniel Lowe.",1,0,1,2,8,-0.51,3.0
 909,2021-08-03,660271,656685,,ball,13.0,"Shohei Ohtani grounds out, second baseman Andy Ibanez to first baseman Nathaniel Lowe.",0,0,1,1,8,-0.19,0.45
 910,2021-08-03,660271,642701,single,hit_into_play,7.0,Shohei Ohtani singles on a ground ball to second baseman Andy Ibanez.,1,1,0,3,7,-0.3,1.92
-911,2021-08-03,660271,642701,,ball,13.0,Shohei Ohtani singles on a ground ball to second baseman Andy Ibanez.,0,1,0,2,7,-1.11,1.19
-912,2021-08-03,660271,543475,field_out,hit_into_play,7.0,Shohei Ohtani flies out to left fielder Eli White.,0,1,0,2,1,-0.56,2.21
+911,2021-08-03,660271,543475,field_out,hit_into_play,7.0,Shohei Ohtani flies out to left fielder Eli White.,0,1,0,2,1,-0.56,2.21
+912,2021-08-03,660271,642701,,ball,13.0,Shohei Ohtani singles on a ground ball to second baseman Andy Ibanez.,0,1,0,2,7,-1.11,1.19
 913,2021-08-03,660271,543475,,called_strike,11.0,Shohei Ohtani flies out to left fielder Eli White.,0,0,0,1,1,-0.89,2.88
 914,2021-08-03,660271,642701,,foul_tip,1.0,Shohei Ohtani singles on a ground ball to second baseman Andy Ibanez.,0,0,0,1,7,-0.4,3.51
 915,2021-08-02,660271,641540,field_out,hit_into_play,7.0,"Shohei Ohtani grounds out sharply, second baseman Andy Ibanez to first baseman Nathaniel Lowe.",2,1,2,4,5,-0.67,2.17
@@ -962,8 +962,8 @@
 960,2021-07-31,660271,608344,,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,0.86,2.21
 961,2021-07-31,660271,605177,,swinging_strike,13.0,Shohei Ohtani strikes out on a foul tip.,1,1,0,3,8,-0.83,0.83
 962,2021-07-31,660271,608344,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,1,2,1,-0.13,1.38
-963,2021-07-31,660271,608344,,called_strike,9.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,0.8,1.74
-964,2021-07-31,660271,605177,,called_strike,7.0,Shohei Ohtani strikes out on a foul tip.,1,0,0,2,8,-0.48,2.12
+963,2021-07-31,660271,605177,,called_strike,7.0,Shohei Ohtani strikes out on a foul tip.,1,0,0,2,8,-0.48,2.12
+964,2021-07-31,660271,608344,,called_strike,9.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,0.8,1.74
 965,2021-07-31,660271,605177,,ball,13.0,Shohei Ohtani strikes out on a foul tip.,0,0,0,1,8,-0.74,0.76
 966,2021-07-30,660271,605135,single,hit_into_play,2.0,Shohei Ohtani singles on a line drive to center fielder Starling Marte.,1,2,0,4,6,0.26,2.97
 967,2021-07-30,660271,605135,,ball,9.0,Shohei Ohtani singles on a line drive to center fielder Starling Marte.,0,2,0,3,6,0.37,1.66
@@ -1007,22 +1007,22 @@
 1005,2021-07-28,660271,665733,walk,ball,11.0,Shohei Ohtani walks.,3,1,0,5,3,-1.33,4.06
 1006,2021-07-28,660271,608032,walk,ball,11.0,Shohei Ohtani walks.   David Fletcher to 2nd.,3,2,1,6,8,-1.63,4.55
 1007,2021-07-28,660271,665733,,ball,11.0,Shohei Ohtani walks.,2,1,0,4,3,-1.46,4.21
-1008,2021-07-28,660271,665733,,ball,14.0,Shohei Ohtani walks.,1,1,0,3,3,1.99,0.47
-1009,2021-07-28,660271,608032,,foul,7.0,Shohei Ohtani walks.   David Fletcher to 2nd.,3,1,1,5,8,-0.71,1.94
-1010,2021-07-28,660271,608032,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,2,1,1,4,8,-1.56,1.31
-1011,2021-07-28,660271,665733,,called_strike,11.0,Shohei Ohtani walks.,1,0,0,2,3,-0.93,2.65
-1012,2021-07-28,660271,608032,,ball,11.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,1,1,3,8,-1.13,5.4
-1013,2021-07-28,660271,665733,,ball,11.0,Shohei Ohtani walks.,0,0,0,1,3,-1.14,3.73
+1008,2021-07-28,660271,608032,,foul,7.0,Shohei Ohtani walks.   David Fletcher to 2nd.,3,1,1,5,8,-0.71,1.94
+1009,2021-07-28,660271,665733,,ball,14.0,Shohei Ohtani walks.,1,1,0,3,3,1.99,0.47
+1010,2021-07-28,660271,665733,,called_strike,11.0,Shohei Ohtani walks.,1,0,0,2,3,-0.93,2.65
+1011,2021-07-28,660271,608032,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,2,1,1,4,8,-1.56,1.31
+1012,2021-07-28,660271,665733,,ball,11.0,Shohei Ohtani walks.,0,0,0,1,3,-1.14,3.73
+1013,2021-07-28,660271,608032,,ball,11.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,1,1,3,8,-1.13,5.4
 1014,2021-07-28,660271,608032,,foul,6.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,0,1,2,8,0.55,2.51
 1015,2021-07-28,660271,608032,,ball,14.0,Shohei Ohtani walks.   David Fletcher to 2nd.,0,0,1,1,8,0.4,1.38
 1016,2021-07-28,660271,622786,home_run,hit_into_play,4.0,Shohei Ohtani homers (37) on a fly ball to right field.    Jack Mayfield scores.    David Fletcher scores.,2,1,2,4,4,-0.58,2.56
 1017,2021-07-28,660271,622786,,ball,13.0,Shohei Ohtani homers (37) on a fly ball to right field.    Jack Mayfield scores.    David Fletcher scores.,1,1,2,3,4,-1.24,1.97
 1018,2021-07-28,660271,656458,single,hit_into_play,7.0,Shohei Ohtani singles on a ground ball to right fielder Sam Hilliard.,0,0,1,1,1,-0.5,2.12
 1019,2021-07-28,660271,641386,strikeout,called_strike,7.0,Shohei Ohtani called out on strikes.,2,2,0,5,6,-0.28,1.9
-1020,2021-07-28,660271,622786,,ball,14.0,Shohei Ohtani homers (37) on a fly ball to right field.    Jack Mayfield scores.    David Fletcher scores.,0,1,2,2,4,0.69,0.89
-1021,2021-07-28,660271,641386,,swinging_strike,2.0,Shohei Ohtani called out on strikes.,2,1,0,4,6,-0.06,3.54
-1022,2021-07-28,660271,641386,,swinging_strike,12.0,Shohei Ohtani called out on strikes.,2,0,0,3,6,1.02,3.15
-1023,2021-07-28,660271,622786,,swinging_strike,4.0,Shohei Ohtani homers (37) on a fly ball to right field.    Jack Mayfield scores.    David Fletcher scores.,0,0,2,1,4,-0.38,2.51
+1020,2021-07-28,660271,641386,,swinging_strike,2.0,Shohei Ohtani called out on strikes.,2,1,0,4,6,-0.06,3.54
+1021,2021-07-28,660271,622786,,ball,14.0,Shohei Ohtani homers (37) on a fly ball to right field.    Jack Mayfield scores.    David Fletcher scores.,0,1,2,2,4,0.69,0.89
+1022,2021-07-28,660271,622786,,swinging_strike,4.0,Shohei Ohtani homers (37) on a fly ball to right field.    Jack Mayfield scores.    David Fletcher scores.,0,0,2,1,4,-0.38,2.51
+1023,2021-07-28,660271,641386,,swinging_strike,12.0,Shohei Ohtani called out on strikes.,2,0,0,3,6,1.02,3.15
 1024,2021-07-28,660271,641386,,ball,13.0,Shohei Ohtani called out on strikes.,1,0,0,2,6,-1.82,1.55
 1025,2021-07-28,660271,641386,,ball,11.0,Shohei Ohtani called out on strikes.,0,0,0,1,6,-2.21,2.94
 1026,2021-07-27,660271,596295,home_run,hit_into_play,5.0,Shohei Ohtani homers (36) on a fly ball to center field.   Juan Lagares scores.,1,2,2,6,5,-0.1,2.55
@@ -1087,10 +1087,10 @@
 1085,2021-07-24,660271,621244,,called_strike,1.0,Shohei Ohtani strikes out swinging.,0,0,0,1,3,-0.53,3.1
 1086,2021-07-24,660271,573204,double,hit_into_play,4.0,Shohei Ohtani doubles (22) on a sharp line drive to right fielder Max Kepler.,1,2,2,4,8,-0.3,2.36
 1087,2021-07-24,660271,573204,,called_strike,7.0,Shohei Ohtani doubles (22) on a sharp line drive to right fielder Max Kepler.,1,1,2,3,8,-0.75,1.65
-1088,2021-07-24,660271,573204,,called_strike,2.0,Shohei Ohtani doubles (22) on a sharp line drive to right fielder Max Kepler.,1,0,2,2,8,-0.24,2.82
-1089,2021-07-24,660271,621244,double,hit_into_play,4.0,Shohei Ohtani doubles (21) on a sharp line drive to center fielder Gilberto Celestino.,1,0,1,2,1,-0.5,2.88
-1090,2021-07-24,660271,621244,,ball,11.0,Shohei Ohtani doubles (21) on a sharp line drive to center fielder Gilberto Celestino.,0,0,1,1,1,-1.14,3.31
-1091,2021-07-24,660271,573204,,ball,13.0,Shohei Ohtani doubles (22) on a sharp line drive to right fielder Max Kepler.,0,0,2,1,8,-1.19,1.88
+1088,2021-07-24,660271,621244,double,hit_into_play,4.0,Shohei Ohtani doubles (21) on a sharp line drive to center fielder Gilberto Celestino.,1,0,1,2,1,-0.5,2.88
+1089,2021-07-24,660271,573204,,called_strike,2.0,Shohei Ohtani doubles (22) on a sharp line drive to right fielder Max Kepler.,1,0,2,2,8,-0.24,2.82
+1090,2021-07-24,660271,573204,,ball,13.0,Shohei Ohtani doubles (22) on a sharp line drive to right fielder Max Kepler.,0,0,2,1,8,-1.19,1.88
+1091,2021-07-24,660271,621244,,ball,11.0,Shohei Ohtani doubles (21) on a sharp line drive to center fielder Gilberto Celestino.,0,0,1,1,1,-1.14,3.31
 1092,2021-07-22,660271,628317,strikeout,swinging_strike_blocked,13.0,Shohei Ohtani strikes out swinging.,1,2,2,4,5,-0.77,-0.14
 1093,2021-07-22,660271,628317,,called_strike,8.0,Shohei Ohtani strikes out swinging.,1,1,2,3,5,-0.03,2.06
 1094,2021-07-22,660271,628317,,called_strike,4.0,Shohei Ohtani strikes out swinging.,1,0,2,2,5,-0.68,2.34
@@ -1100,12 +1100,12 @@
 1098,2021-07-22,660271,628317,,ball,11.0,"Shohei Ohtani grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,0,1,4,-1.08,2.56
 1099,2021-07-22,660271,628317,strikeout,foul_tip,4.0,Shohei Ohtani strikes out on a foul tip.,2,2,0,5,1,-0.49,2.34
 1100,2021-07-22,660271,628317,,foul,13.0,Shohei Ohtani strikes out on a foul tip.,2,1,0,4,1,-0.2,1.18
-1101,2021-07-22,660271,628317,,ball,13.0,Shohei Ohtani strikes out on a foul tip.,1,1,0,3,1,-0.51,0.79
-1102,2021-07-22,660271,543056,strikeout,swinging_strike,3.0,Shohei Ohtani strikes out swinging.,1,2,1,6,8,0.6,3.28
-1103,2021-07-22,660271,543056,,foul,3.0,Shohei Ohtani strikes out swinging.,1,2,1,5,8,0.6,3.09
-1104,2021-07-22,660271,628317,,ball,11.0,Shohei Ohtani strikes out on a foul tip.,0,1,0,2,1,-1.63,3.16
-1105,2021-07-22,660271,543056,,foul,13.0,Shohei Ohtani strikes out swinging.,1,2,1,4,8,-1.44,1.71
-1106,2021-07-22,660271,628317,,called_strike,4.0,Shohei Ohtani strikes out on a foul tip.,0,0,0,1,1,-0.63,2.67
+1101,2021-07-22,660271,543056,strikeout,swinging_strike,3.0,Shohei Ohtani strikes out swinging.,1,2,1,6,8,0.6,3.28
+1102,2021-07-22,660271,628317,,ball,13.0,Shohei Ohtani strikes out on a foul tip.,1,1,0,3,1,-0.51,0.79
+1103,2021-07-22,660271,628317,,ball,11.0,Shohei Ohtani strikes out on a foul tip.,0,1,0,2,1,-1.63,3.16
+1104,2021-07-22,660271,543056,,foul,3.0,Shohei Ohtani strikes out swinging.,1,2,1,5,8,0.6,3.09
+1105,2021-07-22,660271,628317,,called_strike,4.0,Shohei Ohtani strikes out on a foul tip.,0,0,0,1,1,-0.63,2.67
+1106,2021-07-22,660271,543056,,foul,13.0,Shohei Ohtani strikes out swinging.,1,2,1,4,8,-1.44,1.71
 1107,2021-07-22,660271,543056,,foul,4.0,Shohei Ohtani strikes out swinging.,1,1,1,3,8,-0.48,2.8
 1108,2021-07-22,660271,543056,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,1,0,1,2,8,-0.86,1.62
 1109,2021-07-22,660271,543056,,ball,11.0,Shohei Ohtani strikes out swinging.,0,0,1,1,8,-0.72,3.67
@@ -1186,8 +1186,8 @@
 1184,2021-07-17,660271,606160,strikeout,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,2,2,1,5,8,1.75,1.81
 1185,2021-07-17,660271,606160,,foul,2.0,Shohei Ohtani strikes out swinging.,2,1,1,4,8,0.13,3.59
 1186,2021-07-17,660271,606160,,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,2,0,1,3,8,0.42,1.4
-1187,2021-07-17,660271,657024,strikeout,foul_tip,5.0,Shohei Ohtani strikes out on a foul tip.,3,2,2,6,6,0.24,2.84
-1188,2021-07-17,660271,606160,,blocked_ball,14.0,Shohei Ohtani strikes out swinging.,1,0,1,2,8,0.53,0.16
+1187,2021-07-17,660271,606160,,blocked_ball,14.0,Shohei Ohtani strikes out swinging.,1,0,1,2,8,0.53,0.16
+1188,2021-07-17,660271,657024,strikeout,foul_tip,5.0,Shohei Ohtani strikes out on a foul tip.,3,2,2,6,6,0.24,2.84
 1189,2021-07-17,660271,606160,,ball,14.0,Shohei Ohtani strikes out swinging.,0,0,1,1,8,0.13,0.98
 1190,2021-07-17,660271,657024,,foul,5.0,Shohei Ohtani strikes out on a foul tip.,3,1,2,5,6,-0.18,2.45
 1191,2021-07-17,660271,657024,,ball,14.0,Shohei Ohtani strikes out on a foul tip.,2,1,2,4,6,0.78,1.29
@@ -1215,8 +1215,8 @@
 1213,2021-07-16,660271,664948,,foul,5.0,Shohei Ohtani strikes out swinging.,3,1,0,5,8,0.0,2.42
 1214,2021-07-16,660271,623167,field_out,hit_into_play,6.0,Shohei Ohtani flies out to left fielder Shed Long Jr.,1,1,1,3,1,0.65,2.9
 1215,2021-07-16,660271,664948,,ball,13.0,Shohei Ohtani strikes out swinging.,2,1,0,4,8,-3.9,0.02
-1216,2021-07-16,660271,664948,,ball,11.0,Shohei Ohtani strikes out swinging.,1,1,0,3,8,-0.85,3.5
-1217,2021-07-16,660271,623167,,ball,13.0,Shohei Ohtani flies out to left fielder Shed Long Jr.,0,1,1,2,1,-0.69,0.37
+1216,2021-07-16,660271,623167,,ball,13.0,Shohei Ohtani flies out to left fielder Shed Long Jr.,0,1,1,2,1,-0.69,0.37
+1217,2021-07-16,660271,664948,,ball,11.0,Shohei Ohtani strikes out swinging.,1,1,0,3,8,-0.85,3.5
 1218,2021-07-16,660271,664948,,foul,13.0,Shohei Ohtani strikes out swinging.,1,0,0,2,8,-0.85,2.33
 1219,2021-07-16,660271,623167,,called_strike,8.0,Shohei Ohtani flies out to left fielder Shed Long Jr.,0,0,1,1,1,0.14,1.98
 1220,2021-07-16,660271,664948,,ball,11.0,Shohei Ohtani strikes out swinging.,0,0,0,1,8,-0.85,3.96
@@ -1227,16 +1227,16 @@
 1225,2021-07-11,660271,606160,,ball,11.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,1,0,3,9,-1.03,3.3
 1226,2021-07-11,660271,502327,strikeout,swinging_strike,1.0,Shohei Ohtani strikes out swinging.,1,2,2,4,3,-0.38,3.57
 1227,2021-07-11,660271,606160,,swinging_strike,1.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,0,0,2,9,-0.58,3.36
-1228,2021-07-11,660271,502327,,foul,8.0,Shohei Ohtani strikes out swinging.,1,1,2,3,3,0.18,1.67
-1229,2021-07-11,660271,606160,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,0,0,0,1,9,-0.4,1.31
+1228,2021-07-11,660271,606160,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,0,0,0,1,9,-0.4,1.31
+1229,2021-07-11,660271,502327,,foul,8.0,Shohei Ohtani strikes out swinging.,1,1,2,3,3,0.18,1.67
 1230,2021-07-11,660271,502327,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,2,2,3,-1.26,1.76
 1231,2021-07-11,660271,502327,,foul,2.0,Shohei Ohtani strikes out swinging.,0,0,2,1,3,-0.04,3.15
-1232,2021-07-11,660271,664948,field_out,hit_into_play,5.0,Shohei Ohtani flies out sharply to left fielder Jake Bauers.,1,1,1,3,5,0.25,2.3
-1233,2021-07-11,660271,502327,double,hit_into_play,14.0,Shohei Ohtani doubles (19) on a sharp line drive to right fielder Mitch Haniger.,0,0,1,1,1,1.21,2.57
-1234,2021-07-11,660271,657024,single,hit_into_play,4.0,Shohei Ohtani singles on a ground ball to first baseman Ty France.   David Fletcher to 2nd.,1,0,1,2,7,-0.68,2.79
-1235,2021-07-11,660271,664948,,ball,13.0,Shohei Ohtani flies out sharply to left fielder Jake Bauers.,0,1,1,2,5,-2.16,-0.51
-1236,2021-07-11,660271,657024,,ball,13.0,Shohei Ohtani singles on a ground ball to first baseman Ty France.   David Fletcher to 2nd.,0,0,1,1,7,-0.32,1.27
-1237,2021-07-11,660271,664948,,swinging_strike,5.0,Shohei Ohtani flies out sharply to left fielder Jake Bauers.,0,0,1,1,5,-0.21,2.3
+1232,2021-07-11,660271,502327,double,hit_into_play,14.0,Shohei Ohtani doubles (19) on a sharp line drive to right fielder Mitch Haniger.,0,0,1,1,1,1.21,2.57
+1233,2021-07-11,660271,664948,field_out,hit_into_play,5.0,Shohei Ohtani flies out sharply to left fielder Jake Bauers.,1,1,1,3,5,0.25,2.3
+1234,2021-07-11,660271,664948,,ball,13.0,Shohei Ohtani flies out sharply to left fielder Jake Bauers.,0,1,1,2,5,-2.16,-0.51
+1235,2021-07-11,660271,657024,single,hit_into_play,4.0,Shohei Ohtani singles on a ground ball to first baseman Ty France.   David Fletcher to 2nd.,1,0,1,2,7,-0.68,2.79
+1236,2021-07-11,660271,664948,,swinging_strike,5.0,Shohei Ohtani flies out sharply to left fielder Jake Bauers.,0,0,1,1,5,-0.21,2.3
+1237,2021-07-11,660271,657024,,ball,13.0,Shohei Ohtani singles on a ground ball to first baseman Ty France.   David Fletcher to 2nd.,0,0,1,1,7,-0.32,1.27
 1238,2021-07-10,660271,623167,strikeout,called_strike,13.0,Shohei Ohtani called out on strikes.,2,2,1,6,6,-1.27,1.74
 1239,2021-07-10,660271,623167,,ball,11.0,Shohei Ohtani called out on strikes.,1,2,1,5,6,-0.39,4.14
 1240,2021-07-10,660271,623167,,foul,4.0,Shohei Ohtani called out on strikes.,1,2,1,4,6,-0.54,2.79
@@ -1252,10 +1252,10 @@
 1250,2021-07-10,660271,623167,walk,ball,11.0,Shohei Ohtani walks.,3,2,1,6,1,-0.19,3.7
 1251,2021-07-10,660271,623167,,called_strike,11.0,Shohei Ohtani walks.,3,1,1,5,1,-0.86,2.86
 1252,2021-07-10,660271,623149,strikeout,foul_tip,4.0,Shohei Ohtani strikes out on a foul tip.,2,2,0,6,9,-0.51,2.69
-1253,2021-07-10,660271,623149,,foul,4.0,Shohei Ohtani strikes out on a foul tip.,2,2,0,5,9,-0.64,2.91
-1254,2021-07-10,660271,623167,,ball,12.0,Shohei Ohtani walks.,2,1,1,4,1,0.72,5.21
-1255,2021-07-10,660271,623167,,swinging_strike,7.0,Shohei Ohtani walks.,2,0,1,3,1,-0.58,2.0
-1256,2021-07-10,660271,623149,,foul,1.0,Shohei Ohtani strikes out on a foul tip.,2,1,0,4,9,-0.3,3.12
+1253,2021-07-10,660271,623167,,ball,12.0,Shohei Ohtani walks.,2,1,1,4,1,0.72,5.21
+1254,2021-07-10,660271,623149,,foul,4.0,Shohei Ohtani strikes out on a foul tip.,2,2,0,5,9,-0.64,2.91
+1255,2021-07-10,660271,623149,,foul,1.0,Shohei Ohtani strikes out on a foul tip.,2,1,0,4,9,-0.3,3.12
+1256,2021-07-10,660271,623167,,swinging_strike,7.0,Shohei Ohtani walks.,2,0,1,3,1,-0.58,2.0
 1257,2021-07-10,660271,623149,,swinging_strike,5.0,Shohei Ohtani strikes out on a foul tip.,2,0,0,3,9,-0.09,2.93
 1258,2021-07-10,660271,623167,,ball,13.0,Shohei Ohtani walks.,1,0,1,2,1,-1.21,2.15
 1259,2021-07-10,660271,623149,,ball,11.0,Shohei Ohtani strikes out on a foul tip.,1,0,0,2,9,-0.66,3.7
@@ -1325,8 +1325,8 @@
 1323,2021-07-05,660271,527048,,ball,13.0,Shohei Ohtani strikes out swinging.,2,2,1,5,1,-0.17,1.3
 1324,2021-07-05,660271,527048,,called_strike,5.0,Shohei Ohtani strikes out swinging.,2,1,1,4,1,0.2,2.56
 1325,2021-07-05,660271,527048,,foul,12.0,Shohei Ohtani strikes out swinging.,2,0,1,3,1,0.92,3.16
-1326,2021-07-05,660271,657031,field_out,hit_into_play,5.0,Shohei Ohtani flies out to left fielder Danny Santana.,0,2,2,3,7,-0.11,2.36
-1327,2021-07-05,660271,527048,,ball,14.0,Shohei Ohtani strikes out swinging.,1,0,1,2,1,1.09,2.27
+1326,2021-07-05,660271,527048,,ball,14.0,Shohei Ohtani strikes out swinging.,1,0,1,2,1,1.09,2.27
+1327,2021-07-05,660271,657031,field_out,hit_into_play,5.0,Shohei Ohtani flies out to left fielder Danny Santana.,0,2,2,3,7,-0.11,2.36
 1328,2021-07-05,660271,657031,,called_strike,5.0,Shohei Ohtani flies out to left fielder Danny Santana.,0,1,2,2,7,-0.08,2.8
 1329,2021-07-05,660271,527048,,ball,14.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,1.39,1.71
 1330,2021-07-05,660271,657031,,foul,12.0,Shohei Ohtani flies out to left fielder Danny Santana.,0,0,2,1,7,1.02,2.77
@@ -1335,8 +1335,8 @@
 1333,2021-07-04,660271,664045,,called_strike,7.0,Shohei Ohtani homers (31) on a fly ball to center field.,2,0,1,3,3,-0.4,1.97
 1334,2021-07-04,660271,664045,,ball,13.0,Shohei Ohtani homers (31) on a fly ball to center field.,1,0,1,2,3,-0.34,0.99
 1335,2021-07-04,660271,664045,,ball,11.0,Shohei Ohtani homers (31) on a fly ball to center field.,0,0,1,1,3,-2.0,2.92
-1336,2021-07-04,660271,656945,field_out,hit_into_play,4.0,Shohei Ohtani flies out sharply to center fielder Cedric Mullins.,1,0,2,2,7,-0.31,2.57
-1337,2021-07-04,660271,664045,strikeout,swinging_strike,8.0,Shohei Ohtani strikes out swinging.,3,2,0,7,1,0.03,1.7
+1336,2021-07-04,660271,664045,strikeout,swinging_strike,8.0,Shohei Ohtani strikes out swinging.,3,2,0,7,1,0.03,1.7
+1337,2021-07-04,660271,656945,field_out,hit_into_play,4.0,Shohei Ohtani flies out sharply to center fielder Cedric Mullins.,1,0,2,2,7,-0.31,2.57
 1338,2021-07-04,660271,664045,,ball,11.0,Shohei Ohtani strikes out swinging.,2,2,0,6,1,-1.57,2.96
 1339,2021-07-04,660271,656945,,ball,14.0,Shohei Ohtani flies out sharply to center fielder Cedric Mullins.,0,0,2,1,7,0.02,0.86
 1340,2021-07-04,660271,664045,,foul,13.0,Shohei Ohtani strikes out swinging.,2,2,0,5,1,-0.9,2.2
@@ -1373,13 +1373,13 @@
 1371,2021-07-02,660271,656945,field_out,hit_into_play,14.0,"Shohei Ohtani grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",2,2,2,5,6,0.26,1.04
 1372,2021-07-02,660271,643316,,ball,13.0,Shohei Ohtani walks.,2,1,1,4,9,-1.33,1.33
 1373,2021-07-02,660271,656945,,swinging_strike,14.0,"Shohei Ohtani grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",2,1,2,4,6,0.13,1.26
-1374,2021-07-02,660271,656945,,called_strike,9.0,"Shohei Ohtani grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",2,0,2,3,6,0.74,1.91
-1375,2021-07-02,660271,643316,,foul,8.0,Shohei Ohtani walks.,2,0,1,3,9,0.17,2.08
-1376,2021-07-02,660271,669211,field_out,hit_into_play,12.0,Shohei Ohtani flies out to second baseman Pat Valaika.,0,0,1,1,1,1.37,3.44
+1374,2021-07-02,660271,669211,field_out,hit_into_play,12.0,Shohei Ohtani flies out to second baseman Pat Valaika.,0,0,1,1,1,1.37,3.44
+1375,2021-07-02,660271,656945,,called_strike,9.0,"Shohei Ohtani grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",2,0,2,3,6,0.74,1.91
+1376,2021-07-02,660271,643316,,foul,8.0,Shohei Ohtani walks.,2,0,1,3,9,0.17,2.08
 1377,2021-07-02,660271,643316,,ball,11.0,Shohei Ohtani walks.,1,0,1,2,9,-0.22,4.16
 1378,2021-07-02,660271,656945,,ball,14.0,"Shohei Ohtani grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",1,0,2,2,6,0.82,1.33
-1379,2021-07-02,660271,656945,,ball,14.0,"Shohei Ohtani grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",0,0,2,1,6,0.59,1.35
-1380,2021-07-02,660271,643316,,ball,13.0,Shohei Ohtani walks.,0,0,1,1,9,-2.66,0.68
+1379,2021-07-02,660271,643316,,ball,13.0,Shohei Ohtani walks.,0,0,1,1,9,-2.66,0.68
+1380,2021-07-02,660271,656945,,ball,14.0,"Shohei Ohtani grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",0,0,2,1,6,0.59,1.35
 1381,2021-06-30,660271,593334,field_out,hit_into_play,11.0,Shohei Ohtani flies out to center fielder Brett Gardner.,3,2,0,6,1,-1.08,2.79
 1382,2021-06-30,660271,593334,,ball,13.0,Shohei Ohtani flies out to center fielder Brett Gardner.,2,2,0,5,1,-0.97,1.83
 1383,2021-06-30,660271,593334,,swinging_strike,7.0,Shohei Ohtani flies out to center fielder Brett Gardner.,2,1,0,4,1,-0.73,1.89
@@ -1393,8 +1393,8 @@
 1391,2021-06-29,660271,592791,,swinging_strike,3.0,Shohei Ohtani homers (28) on a line drive to right field.    David Fletcher scores.,0,0,0,1,5,0.45,3.1
 1392,2021-06-29,660271,592791,home_run,hit_into_play,7.0,Shohei Ohtani homers (27) on a fly ball to right center field.,3,1,1,5,3,-0.38,1.86
 1393,2021-06-29,660271,592791,,called_strike,4.0,Shohei Ohtani homers (27) on a fly ball to right center field.,3,0,1,4,3,-0.39,2.82
-1394,2021-06-29,660271,656061,field_out,hit_into_play,4.0,Shohei Ohtani grounds out to first baseman Luke Voit.,0,2,2,3,9,-0.45,2.4
-1395,2021-06-29,660271,592791,,ball,14.0,Shohei Ohtani homers (27) on a fly ball to right center field.,2,0,1,3,3,1.43,1.35
+1394,2021-06-29,660271,592791,,ball,14.0,Shohei Ohtani homers (27) on a fly ball to right center field.,2,0,1,3,3,1.43,1.35
+1395,2021-06-29,660271,656061,field_out,hit_into_play,4.0,Shohei Ohtani grounds out to first baseman Luke Voit.,0,2,2,3,9,-0.45,2.4
 1396,2021-06-29,660271,592791,,ball,11.0,Shohei Ohtani homers (27) on a fly ball to right center field.,1,0,1,2,3,-1.66,3.6
 1397,2021-06-29,660271,656061,,called_strike,13.0,Shohei Ohtani grounds out to first baseman Luke Voit.,0,1,2,2,9,-0.83,2.05
 1398,2021-06-29,660271,656061,,called_strike,8.0,Shohei Ohtani grounds out to first baseman Luke Voit.,0,0,2,1,9,-0.11,1.99
@@ -1423,12 +1423,12 @@
 1421,2021-06-28,660271,650633,,called_strike,11.0,Shohei Ohtani homers (26) on a fly ball to right center field.,1,0,1,2,1,-0.94,2.79
 1422,2021-06-28,660271,641482,,called_strike,9.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",3,1,0,5,9,0.63,1.92
 1423,2021-06-28,660271,650633,,ball,13.0,Shohei Ohtani homers (26) on a fly ball to right center field.,0,0,1,1,1,-1.22,1.87
-1424,2021-06-28,660271,643338,strikeout,called_strike,7.0,Shohei Ohtani called out on strikes.,1,2,2,4,6,-0.6,1.69
-1425,2021-06-28,660271,641482,,called_strike,13.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",3,0,0,4,9,-1.05,2.19
-1426,2021-06-28,660271,641482,,ball,13.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",2,0,0,3,9,-0.97,2.24
-1427,2021-06-28,660271,643338,,called_strike,4.0,Shohei Ohtani called out on strikes.,1,1,2,3,6,-0.66,2.29
-1428,2021-06-28,660271,643338,,ball,11.0,Shohei Ohtani called out on strikes.,0,1,2,2,6,-1.28,4.17
-1429,2021-06-28,660271,641482,,ball,11.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",1,0,0,2,9,-1.01,4.66
+1424,2021-06-28,660271,641482,,called_strike,13.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",3,0,0,4,9,-1.05,2.19
+1425,2021-06-28,660271,643338,strikeout,called_strike,7.0,Shohei Ohtani called out on strikes.,1,2,2,4,6,-0.6,1.69
+1426,2021-06-28,660271,643338,,called_strike,4.0,Shohei Ohtani called out on strikes.,1,1,2,3,6,-0.66,2.29
+1427,2021-06-28,660271,641482,,ball,13.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",2,0,0,3,9,-0.97,2.24
+1428,2021-06-28,660271,641482,,ball,11.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",1,0,0,2,9,-1.01,4.66
+1429,2021-06-28,660271,643338,,ball,11.0,Shohei Ohtani called out on strikes.,0,1,2,2,6,-1.28,4.17
 1430,2021-06-28,660271,641482,,ball,11.0,"Shohei Ohtani grounds out, second baseman DJ LeMahieu to first baseman Luke Voit.",0,0,0,1,9,-0.69,3.56
 1431,2021-06-28,660271,643338,,foul,6.0,Shohei Ohtani called out on strikes.,0,0,2,1,6,0.45,2.82
 1432,2021-06-27,660271,642232,double,hit_into_play,6.0,Shohei Ohtani doubles (17) on a line drive to right fielder Manuel Margot.   David Fletcher scores.,0,0,0,1,6,0.75,2.43
@@ -1443,8 +1443,8 @@
 1441,2021-06-27,660271,642232,,foul,12.0,Shohei Ohtani walks.,0,0,0,1,4,0.9,3.05
 1442,2021-06-27,660271,664126,home_run,hit_into_play,6.0,Shohei Ohtani homers (25) on a fly ball to left center field.,2,1,2,4,9,0.68,2.38
 1443,2021-06-27,660271,664126,,ball,9.0,Shohei Ohtani homers (25) on a fly ball to left center field.,1,1,2,3,9,0.49,1.56
-1444,2021-06-27,660271,664126,,ball,12.0,Shohei Ohtani homers (25) on a fly ball to left center field.,0,1,2,2,9,1.24,2.64
-1445,2021-06-27,660271,642232,strikeout,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,1,2,0,4,1,-0.7,1.69
+1444,2021-06-27,660271,642232,strikeout,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,1,2,0,4,1,-0.7,1.69
+1445,2021-06-27,660271,664126,,ball,12.0,Shohei Ohtani homers (25) on a fly ball to left center field.,0,1,2,2,9,1.24,2.64
 1446,2021-06-27,660271,642232,,swinging_strike,5.0,Shohei Ohtani strikes out swinging.,1,1,0,3,1,0.05,2.74
 1447,2021-06-27,660271,664126,,swinging_strike,3.0,Shohei Ohtani homers (25) on a fly ball to left center field.,0,0,2,1,9,0.46,3.39
 1448,2021-06-27,660271,642232,,blocked_ball,13.0,Shohei Ohtani strikes out swinging.,0,1,0,2,1,-0.78,0.24
@@ -1475,8 +1475,8 @@
 1473,2021-06-25,660271,543521,,foul,6.0,Shohei Ohtani flies out to left fielder Manuel Margot.,1,0,2,2,7,0.62,2.59
 1474,2021-06-25,660271,543521,,ball,11.0,Shohei Ohtani flies out to left fielder Manuel Margot.,0,0,2,1,7,-0.78,4.03
 1475,2021-06-25,660271,676596,single,hit_into_play,14.0,Shohei Ohtani singles on a soft bunt ground ball to first baseman Ji-Man Choi.   David Fletcher to 3rd.,0,1,0,2,3,1.2,1.96
-1476,2021-06-25,660271,676596,,called_strike,7.0,Shohei Ohtani singles on a soft bunt ground ball to first baseman Ji-Man Choi.   David Fletcher to 3rd.,0,0,0,1,3,-0.37,1.85
-1477,2021-06-25,660271,552640,home_run,hit_into_play,8.0,Shohei Ohtani homers (24) on a fly ball to right center field.,1,1,0,3,1,-0.11,1.99
+1476,2021-06-25,660271,552640,home_run,hit_into_play,8.0,Shohei Ohtani homers (24) on a fly ball to right center field.,1,1,0,3,1,-0.11,1.99
+1477,2021-06-25,660271,676596,,called_strike,7.0,Shohei Ohtani singles on a soft bunt ground ball to first baseman Ji-Man Choi.   David Fletcher to 3rd.,0,0,0,1,3,-0.37,1.85
 1478,2021-06-25,660271,552640,,swinging_strike,5.0,Shohei Ohtani homers (24) on a fly ball to right center field.,1,0,0,2,1,0.09,2.74
 1479,2021-06-25,660271,552640,,ball,13.0,Shohei Ohtani homers (24) on a fly ball to right center field.,0,0,0,1,1,-1.1,2.28
 1480,2021-06-23,660271,592332,strikeout,swinging_strike_blocked,13.0,Shohei Ohtani strikes out swinging.,2,2,2,5,5,-0.29,0.63
@@ -1508,8 +1508,8 @@
 1506,2021-06-22,660271,543101,,swinging_strike,1.0,Shohei Ohtani strikes out swinging.,0,0,0,1,3,-0.53,2.97
 1507,2021-06-22,660271,608678,strikeout,swinging_strike,3.0,Shohei Ohtani strikes out swinging.,1,2,1,5,8,0.59,3.63
 1508,2021-06-22,660271,543101,walk,ball,14.0,Shohei Ohtani walks.,3,2,1,6,1,1.67,2.57
-1509,2021-06-22,660271,543101,,ball,14.0,Shohei Ohtani walks.,2,2,1,5,1,0.62,0.48
-1510,2021-06-22,660271,608678,,ball,11.0,Shohei Ohtani strikes out swinging.,0,2,1,4,8,-2.06,3.24
+1509,2021-06-22,660271,608678,,ball,11.0,Shohei Ohtani strikes out swinging.,0,2,1,4,8,-2.06,3.24
+1510,2021-06-22,660271,543101,,ball,14.0,Shohei Ohtani walks.,2,2,1,5,1,0.62,0.48
 1511,2021-06-22,660271,608678,,foul,13.0,Shohei Ohtani strikes out swinging.,0,2,1,3,8,-0.9,1.5
 1512,2021-06-22,660271,543101,,ball,11.0,Shohei Ohtani walks.,1,2,1,4,1,-1.38,3.66
 1513,2021-06-22,660271,608678,,called_strike,7.0,Shohei Ohtani strikes out swinging.,0,1,1,2,8,-0.51,2.16
@@ -1526,18 +1526,18 @@
 1524,2021-06-20,660271,663554,,swinging_strike,12.0,Shohei Ohtani strikes out swinging.,0,1,0,2,3,0.91,3.47
 1525,2021-06-20,660271,663554,,swinging_strike,12.0,Shohei Ohtani strikes out swinging.,0,0,0,1,3,0.19,3.93
 1526,2021-06-20,660271,663554,strikeout,swinging_strike,12.0,Shohei Ohtani strikes out swinging.,2,2,1,9,1,0.36,3.71
-1527,2021-06-20,660271,605242,walk,ball,14.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,3,0,2,4,10,2.3,1.58
+1527,2021-06-20,660271,663554,,foul,9.0,Shohei Ohtani strikes out swinging.,2,2,1,8,1,0.69,2.03
 1528,2021-06-20,660271,642397,strikeout,foul_tip,3.0,Shohei Ohtani strikes out on a foul tip.,1,2,2,4,7,0.61,3.07
-1529,2021-06-20,660271,663554,,foul,9.0,Shohei Ohtani strikes out swinging.,2,2,1,8,1,0.69,2.03
+1529,2021-06-20,660271,605242,walk,ball,14.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,3,0,2,4,10,2.3,1.58
 1530,2021-06-20,660271,663554,,foul,12.0,Shohei Ohtani strikes out swinging.,2,2,1,7,1,0.95,3.21
-1531,2021-06-20,660271,605242,,ball,14.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,2,0,2,3,10,1.22,1.09
-1532,2021-06-20,660271,642397,,ball,12.0,Shohei Ohtani strikes out on a foul tip.,0,2,2,3,7,0.63,4.4
-1533,2021-06-20,660271,605242,,ball,13.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,1,0,2,2,10,-1.41,2.44
-1534,2021-06-20,660271,642397,,swinging_strike,7.0,Shohei Ohtani strikes out on a foul tip.,0,1,2,2,7,-0.42,1.68
-1535,2021-06-20,660271,663554,,foul,12.0,Shohei Ohtani strikes out swinging.,2,2,1,6,1,1.2,3.06
-1536,2021-06-20,660271,642397,,called_strike,5.0,Shohei Ohtani strikes out on a foul tip.,0,0,2,1,7,0.05,2.51
-1537,2021-06-20,660271,605242,,blocked_ball,14.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,0,0,2,1,10,0.5,0.35
-1538,2021-06-20,660271,663554,,foul,8.0,Shohei Ohtani strikes out swinging.,2,2,1,5,1,-0.1,1.81
+1531,2021-06-20,660271,642397,,ball,12.0,Shohei Ohtani strikes out on a foul tip.,0,2,2,3,7,0.63,4.4
+1532,2021-06-20,660271,605242,,ball,14.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,2,0,2,3,10,1.22,1.09
+1533,2021-06-20,660271,642397,,swinging_strike,7.0,Shohei Ohtani strikes out on a foul tip.,0,1,2,2,7,-0.42,1.68
+1534,2021-06-20,660271,663554,,foul,12.0,Shohei Ohtani strikes out swinging.,2,2,1,6,1,1.2,3.06
+1535,2021-06-20,660271,605242,,ball,13.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,1,0,2,2,10,-1.41,2.44
+1536,2021-06-20,660271,605242,,blocked_ball,14.0,Shohei Ohtani walks.   Juan Lagares to 3rd.  Juan Lagares advances to 3rd on defensive indifference.,0,0,2,1,10,0.5,0.35
+1537,2021-06-20,660271,663554,,foul,8.0,Shohei Ohtani strikes out swinging.,2,2,1,5,1,-0.1,1.81
+1538,2021-06-20,660271,642397,,called_strike,5.0,Shohei Ohtani strikes out on a foul tip.,0,0,2,1,7,0.05,2.51
 1539,2021-06-20,660271,663554,,called_strike,6.0,Shohei Ohtani strikes out swinging.,2,1,1,4,1,0.3,2.42
 1540,2021-06-20,660271,663554,,ball,12.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,1.77,2.72
 1541,2021-06-20,660271,663554,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,1,2,1,-0.28,0.93
@@ -1552,8 +1552,8 @@
 1550,2021-06-19,660271,503449,,foul_tip,7.0,Shohei Ohtani homers (22) on a fly ball to left field.   David Fletcher scores.,0,0,1,1,3,-0.52,1.67
 1551,2021-06-19,660271,641729,field_out,hit_into_play,8.0,Shohei Ohtani flies out sharply to left fielder Eric Haase.,1,1,1,3,8,0.12,2.08
 1552,2021-06-19,660271,641729,,ball,14.0,Shohei Ohtani flies out sharply to left fielder Eric Haase.,0,1,1,2,8,0.35,1.21
-1553,2021-06-19,660271,641729,,swinging_strike,5.0,Shohei Ohtani flies out sharply to left fielder Eric Haase.,0,0,1,1,8,-0.03,2.3
-1554,2021-06-19,660271,503449,strikeout,swinging_strike,8.0,Shohei Ohtani strikes out swinging.,3,2,1,6,1,-0.01,1.85
+1553,2021-06-19,660271,503449,strikeout,swinging_strike,8.0,Shohei Ohtani strikes out swinging.,3,2,1,6,1,-0.01,1.85
+1554,2021-06-19,660271,641729,,swinging_strike,5.0,Shohei Ohtani flies out sharply to left fielder Eric Haase.,0,0,1,1,8,-0.03,2.3
 1555,2021-06-19,660271,503449,,called_strike,1.0,Shohei Ohtani strikes out swinging.,3,1,1,5,1,-0.71,3.22
 1556,2021-06-19,660271,503449,,ball,13.0,Shohei Ohtani strikes out swinging.,2,1,1,4,1,-0.17,0.93
 1557,2021-06-19,660271,503449,,called_strike,11.0,Shohei Ohtani strikes out swinging.,2,0,1,3,1,-0.93,2.96
@@ -1601,12 +1601,12 @@
 1599,2021-06-16,660271,608344,,foul,7.0,Shohei Ohtani singles on a bunt ground ball to pitcher Cole Irvin.,0,0,0,1,5,-0.5,1.78
 1600,2021-06-16,660271,608344,home_run,hit_into_play,5.0,Shohei Ohtani homers (19) on a fly ball to right field.,0,0,2,1,2,-0.14,2.66
 1601,2021-06-16,660271,608344,field_out,hit_into_play,5.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",3,2,0,7,1,0.2,2.36
-1602,2021-06-16,660271,608344,,blocked_ball,13.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",2,2,0,6,1,-1.06,0.45
-1603,2021-06-16,660271,572143,field_out,hit_into_play,8.0,"Shohei Ohtani grounds out sharply, second baseman Tony Kemp to first baseman Matt Olson.",0,2,0,3,7,0.24,2.23
-1604,2021-06-16,660271,572143,,foul,3.0,"Shohei Ohtani grounds out sharply, second baseman Tony Kemp to first baseman Matt Olson.",0,1,0,2,7,0.36,3.49
-1605,2021-06-16,660271,608344,,foul,12.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",2,2,0,5,1,0.09,3.69
-1606,2021-06-16,660271,572143,,called_strike,13.0,"Shohei Ohtani grounds out sharply, second baseman Tony Kemp to first baseman Matt Olson.",0,0,0,1,7,-0.99,2.55
-1607,2021-06-16,660271,608344,,ball,12.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",1,2,0,4,1,1.13,3.91
+1602,2021-06-16,660271,572143,field_out,hit_into_play,8.0,"Shohei Ohtani grounds out sharply, second baseman Tony Kemp to first baseman Matt Olson.",0,2,0,3,7,0.24,2.23
+1603,2021-06-16,660271,608344,,blocked_ball,13.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",2,2,0,6,1,-1.06,0.45
+1604,2021-06-16,660271,608344,,foul,12.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",2,2,0,5,1,0.09,3.69
+1605,2021-06-16,660271,572143,,foul,3.0,"Shohei Ohtani grounds out sharply, second baseman Tony Kemp to first baseman Matt Olson.",0,1,0,2,7,0.36,3.49
+1606,2021-06-16,660271,608344,,ball,12.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",1,2,0,4,1,1.13,3.91
+1607,2021-06-16,660271,572143,,called_strike,13.0,"Shohei Ohtani grounds out sharply, second baseman Tony Kemp to first baseman Matt Olson.",0,0,0,1,7,-0.99,2.55
 1608,2021-06-16,660271,608344,,ball,13.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",0,2,0,3,1,-0.67,1.14
 1609,2021-06-16,660271,608344,,foul,2.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",0,1,0,2,1,-0.15,3.06
 1610,2021-06-16,660271,608344,,foul,5.0,"Shohei Ohtani grounds out, shortstop Elvis Andrus to first baseman Matt Olson.   Justin Upton to 3rd.",0,0,0,1,1,-0.03,2.59
@@ -1666,8 +1666,8 @@
 1664,2021-06-11,660271,518876,field_out,hit_into_play,6.0,"Shohei Ohtani grounds out, first baseman Asdrubal Cabrera to pitcher Merrill Kelly.",3,2,1,6,1,0.68,2.51
 1665,2021-06-11,660271,518876,,ball,13.0,"Shohei Ohtani grounds out, first baseman Asdrubal Cabrera to pitcher Merrill Kelly.",2,2,1,5,1,-0.45,1.1
 1666,2021-06-11,660271,518876,,foul,12.0,"Shohei Ohtani grounds out, first baseman Asdrubal Cabrera to pitcher Merrill Kelly.",2,1,1,4,1,1.0,2.83
-1667,2021-06-11,660271,518876,,ball,14.0,"Shohei Ohtani grounds out, first baseman Asdrubal Cabrera to pitcher Merrill Kelly.",1,1,1,3,1,1.37,2.25
-1668,2021-06-11,660271,664199,double,hit_into_play,8.0,Shohei Ohtani doubles (15) on a line drive to right fielder Pavin Smith.   Justin Upton to 3rd.,0,0,0,1,7,-0.18,1.97
+1667,2021-06-11,660271,664199,double,hit_into_play,8.0,Shohei Ohtani doubles (15) on a line drive to right fielder Pavin Smith.   Justin Upton to 3rd.,0,0,0,1,7,-0.18,1.97
+1668,2021-06-11,660271,518876,,ball,14.0,"Shohei Ohtani grounds out, first baseman Asdrubal Cabrera to pitcher Merrill Kelly.",1,1,1,3,1,1.37,2.25
 1669,2021-06-11,660271,518876,,ball,14.0,"Shohei Ohtani grounds out, first baseman Asdrubal Cabrera to pitcher Merrill Kelly.",0,1,1,2,1,1.3,2.42
 1670,2021-06-11,660271,518876,,called_strike,5.0,"Shohei Ohtani grounds out, first baseman Asdrubal Cabrera to pitcher Merrill Kelly.",0,0,1,1,1,-0.13,2.35
 1671,2021-06-09,660271,641745,walk,blocked_ball,13.0,Shohei Ohtani walks.   Justin Upton to 2nd.,3,1,2,5,5,-0.11,1.07
@@ -1697,10 +1697,10 @@
 1695,2021-06-08,660271,641394,,foul,5.0,Shohei Ohtani walks.,3,1,1,5,7,-0.15,2.68
 1696,2021-06-08,660271,663460,home_run,hit_into_play,5.0,Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.,2,2,0,6,1,0.1,2.56
 1697,2021-06-08,660271,641394,,ball,13.0,Shohei Ohtani walks.,2,1,1,4,7,-1.58,1.72
-1698,2021-06-08,660271,663460,,foul,3.0,Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.,2,2,0,5,1,0.28,3.34
-1699,2021-06-08,660271,641394,,ball,11.0,Shohei Ohtani walks.,1,1,1,3,7,-1.05,3.11
-1700,2021-06-08,660271,663460,,ball,13.0,Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.,1,2,0,4,1,-1.03,1.4
-1701,2021-06-08,660271,641394,,blocked_ball,13.0,Shohei Ohtani walks.,0,1,1,2,7,-1.93,0.6
+1698,2021-06-08,660271,641394,,ball,11.0,Shohei Ohtani walks.,1,1,1,3,7,-1.05,3.11
+1699,2021-06-08,660271,663460,,foul,3.0,Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.,2,2,0,5,1,0.28,3.34
+1700,2021-06-08,660271,641394,,blocked_ball,13.0,Shohei Ohtani walks.,0,1,1,2,7,-1.93,0.6
+1701,2021-06-08,660271,663460,,ball,13.0,Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.,1,2,0,4,1,-1.03,1.4
 1702,2021-06-08,660271,641394,,called_strike,5.0,Shohei Ohtani walks.,0,0,1,1,7,0.26,2.39
 1703,2021-06-08,660271,663460,,foul,5.0,Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.,1,1,0,3,1,0.19,2.54
 1704,2021-06-08,660271,663460,,ball,13.0,Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.,0,1,0,2,1,-1.21,1.7
@@ -1708,14 +1708,14 @@
 1706,2021-06-07,660271,429722,field_out,hit_into_play,7.0,Shohei Ohtani grounds out to first baseman Carlos Santana.,0,1,0,2,5,-0.33,1.54
 1707,2021-06-07,660271,429722,,called_strike,5.0,Shohei Ohtani grounds out to first baseman Carlos Santana.,0,0,0,1,5,-0.11,2.48
 1708,2021-06-07,660271,429722,walk,blocked_ball,14.0,Shohei Ohtani walks.,3,1,2,5,2,1.56,0.9
-1709,2021-06-07,660271,451584,walk,ball,12.0,Shohei Ohtani walks.,3,0,0,4,7,0.33,4.02
-1710,2021-06-07,660271,429722,,called_strike,8.0,Shohei Ohtani walks.,3,0,2,4,2,-0.05,1.93
-1711,2021-06-07,660271,429722,,ball,13.0,Shohei Ohtani walks.,2,0,2,3,2,-1.25,2.31
-1712,2021-06-07,660271,451584,,ball,12.0,Shohei Ohtani walks.,2,0,0,3,7,0.26,4.39
+1709,2021-06-07,660271,429722,,called_strike,8.0,Shohei Ohtani walks.,3,0,2,4,2,-0.05,1.93
+1710,2021-06-07,660271,451584,walk,ball,12.0,Shohei Ohtani walks.,3,0,0,4,7,0.33,4.02
+1711,2021-06-07,660271,451584,,ball,12.0,Shohei Ohtani walks.,2,0,0,3,7,0.26,4.39
+1712,2021-06-07,660271,429722,,ball,13.0,Shohei Ohtani walks.,2,0,2,3,2,-1.25,2.31
 1713,2021-06-07,660271,451584,,ball,11.0,Shohei Ohtani walks.,1,0,0,2,7,-0.78,4.54
 1714,2021-06-07,660271,429722,,ball,12.0,Shohei Ohtani walks.,1,0,2,2,2,1.59,2.65
-1715,2021-06-07,660271,451584,,ball,12.0,Shohei Ohtani walks.,0,0,0,1,7,1.02,4.25
-1716,2021-06-07,660271,429722,,ball,1.0,Shohei Ohtani walks.,0,0,2,1,2,-0.78,2.78
+1715,2021-06-07,660271,429722,,ball,1.0,Shohei Ohtani walks.,0,0,2,1,2,-0.78,2.78
+1716,2021-06-07,660271,451584,,ball,12.0,Shohei Ohtani walks.,0,0,0,1,7,1.02,4.25
 1717,2021-06-07,660271,663804,walk,ball,11.0,Shohei Ohtani walks.,3,1,1,5,1,-2.0,4.85
 1718,2021-06-07,660271,663804,,foul,2.0,Shohei Ohtani walks.,3,0,1,4,1,-0.1,3.12
 1719,2021-06-07,660271,663804,,ball,11.0,Shohei Ohtani walks.,2,0,1,3,1,-0.87,3.22
@@ -1735,14 +1735,14 @@
 1733,2021-06-06,660271,623149,,ball,13.0,Shohei Ohtani strikes out swinging.,2,2,2,7,7,-0.71,1.34
 1734,2021-06-06,660271,623149,,foul,1.0,Shohei Ohtani strikes out swinging.,2,2,2,6,7,-0.36,3.29
 1735,2021-06-06,660271,623149,,foul,4.0,Shohei Ohtani strikes out swinging.,2,2,2,5,7,-0.64,2.6
-1736,2021-06-06,660271,623149,,swinging_strike,1.0,Shohei Ohtani strikes out swinging.,2,1,2,4,7,-0.44,3.03
-1737,2021-06-06,660271,641871,walk,ball,11.0,Shohei Ohtani walks.,3,1,0,5,9,-0.38,4.89
-1738,2021-06-06,660271,623149,,ball,11.0,Shohei Ohtani strikes out swinging.,1,1,2,3,7,-0.94,2.96
-1739,2021-06-06,660271,641871,,ball,14.0,Shohei Ohtani walks.,2,1,0,4,9,0.84,1.59
+1736,2021-06-06,660271,641871,walk,ball,11.0,Shohei Ohtani walks.,3,1,0,5,9,-0.38,4.89
+1737,2021-06-06,660271,623149,,swinging_strike,1.0,Shohei Ohtani strikes out swinging.,2,1,2,4,7,-0.44,3.03
+1738,2021-06-06,660271,641871,,ball,14.0,Shohei Ohtani walks.,2,1,0,4,9,0.84,1.59
+1739,2021-06-06,660271,623149,,ball,11.0,Shohei Ohtani strikes out swinging.,1,1,2,3,7,-0.94,2.96
 1740,2021-06-06,660271,641871,,foul,14.0,Shohei Ohtani walks.,2,0,0,3,9,0.88,2.18
 1741,2021-06-06,660271,623149,,called_strike,7.0,Shohei Ohtani strikes out swinging.,1,0,2,2,7,-0.32,2.08
-1742,2021-06-06,660271,623149,,ball,11.0,Shohei Ohtani strikes out swinging.,0,0,2,1,7,-1.52,4.09
-1743,2021-06-06,660271,641871,,ball,14.0,Shohei Ohtani walks.,1,0,0,2,9,0.83,1.37
+1742,2021-06-06,660271,641871,,ball,14.0,Shohei Ohtani walks.,1,0,0,2,9,0.83,1.37
+1743,2021-06-06,660271,623149,,ball,11.0,Shohei Ohtani strikes out swinging.,0,0,2,1,7,-1.52,4.09
 1744,2021-06-06,660271,641871,,ball,14.0,Shohei Ohtani walks.,0,0,0,1,9,1.14,1.93
 1745,2021-06-06,660271,669302,walk,ball,13.0,Shohei Ohtani walks.,3,1,0,5,1,-1.58,2.35
 1746,2021-06-06,660271,669302,,ball,11.0,Shohei Ohtani walks.,2,1,0,4,1,-0.84,3.82
@@ -1754,13 +1754,13 @@
 1752,2021-06-05,660271,579328,,ball,14.0,Shohei Ohtani strikes out swinging.,1,1,1,3,3,0.33,0.06
 1753,2021-06-05,660271,579328,,called_strike,8.0,Shohei Ohtani strikes out swinging.,1,0,1,2,3,0.07,2.19
 1754,2021-06-05,660271,579328,,ball,11.0,Shohei Ohtani strikes out swinging.,0,0,1,1,3,-0.07,3.68
-1755,2021-06-05,660271,664948,double,hit_into_play,14.0,Shohei Ohtani doubles (12) on a line drive to left fielder Taylor Trammell.   Justin Upton scores.,3,2,1,6,8,1.04,2.18
-1756,2021-06-05,660271,608638,strikeout,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,0,2,1,3,5,0.53,1.2
+1755,2021-06-05,660271,608638,strikeout,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,0,2,1,3,5,0.53,1.2
+1756,2021-06-05,660271,664948,double,hit_into_play,14.0,Shohei Ohtani doubles (12) on a line drive to left fielder Taylor Trammell.   Justin Upton scores.,3,2,1,6,8,1.04,2.18
 1757,2021-06-05,660271,608638,,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,0,1,1,2,5,0.35,1.49
 1758,2021-06-05,660271,664948,,ball,13.0,Shohei Ohtani doubles (12) on a line drive to left fielder Taylor Trammell.   Justin Upton scores.,2,2,1,5,8,-1.35,1.18
-1759,2021-06-05,660271,579328,home_run,hit_into_play,5.0,Shohei Ohtani homers (16) on a line drive to center field.,0,0,1,1,1,0.21,2.42
-1760,2021-06-05,660271,608638,,foul,7.0,Shohei Ohtani strikes out swinging.,0,0,1,1,5,-0.3,2.19
-1761,2021-06-05,660271,605441,field_out,hit_into_play,5.0,Shohei Ohtani lines out sharply to right fielder Mitch Haniger.   Justin Upton to 3rd.,0,0,0,1,7,-0.03,2.53
+1759,2021-06-05,660271,608638,,foul,7.0,Shohei Ohtani strikes out swinging.,0,0,1,1,5,-0.3,2.19
+1760,2021-06-05,660271,605441,field_out,hit_into_play,5.0,Shohei Ohtani lines out sharply to right fielder Mitch Haniger.   Justin Upton to 3rd.,0,0,0,1,7,-0.03,2.53
+1761,2021-06-05,660271,579328,home_run,hit_into_play,5.0,Shohei Ohtani homers (16) on a line drive to center field.,0,0,1,1,1,0.21,2.42
 1762,2021-06-05,660271,664948,,blocked_ball,13.0,Shohei Ohtani doubles (12) on a line drive to left fielder Taylor Trammell.   Justin Upton scores.,1,2,1,4,8,-2.33,-0.01
 1763,2021-06-05,660271,664948,,swinging_strike,13.0,Shohei Ohtani doubles (12) on a line drive to left fielder Taylor Trammell.   Justin Upton scores.,1,1,1,3,8,-0.99,1.18
 1764,2021-06-05,660271,664948,,ball,13.0,Shohei Ohtani doubles (12) on a line drive to left fielder Taylor Trammell.   Justin Upton scores.,0,1,1,2,8,-1.3,1.74
@@ -1818,16 +1818,16 @@
 1816,2021-05-29,660271,593423,,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,0,1,0,2,4,0.24,1.22
 1817,2021-05-29,660271,593423,,swinging_strike,8.0,Shohei Ohtani strikes out swinging.,0,0,0,1,4,0.0,1.57
 1818,2021-05-29,660271,592135,single,hit_into_play,1.0,Shohei Ohtani singles on a sharp line drive to center fielder Mark Canha.   David Fletcher to 2nd.,2,1,1,4,7,-0.66,3.16
-1819,2021-05-29,660271,489265,field_out,hit_into_play,13.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,2,2,2,6,9,-1.61,1.77
-1820,2021-05-29,660271,592135,,called_strike,11.0,Shohei Ohtani singles on a sharp line drive to center fielder Mark Canha.   David Fletcher to 2nd.,2,0,1,3,7,-0.86,2.76
+1819,2021-05-29,660271,592135,,called_strike,11.0,Shohei Ohtani singles on a sharp line drive to center fielder Mark Canha.   David Fletcher to 2nd.,2,0,1,3,7,-0.86,2.76
+1820,2021-05-29,660271,489265,field_out,hit_into_play,13.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,2,2,2,6,9,-1.61,1.77
 1821,2021-05-29,660271,592135,,blocked_ball,13.0,Shohei Ohtani singles on a sharp line drive to center fielder Mark Canha.   David Fletcher to 2nd.,1,0,1,2,7,-0.46,-1.11
 1822,2021-05-29,660271,489265,,foul,11.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,2,2,2,5,9,-1.47,2.74
-1823,2021-05-29,660271,489265,,blocked_ball,13.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,1,2,2,4,9,-0.06,-0.06
-1824,2021-05-29,660271,592135,,ball,11.0,Shohei Ohtani singles on a sharp line drive to center fielder Mark Canha.   David Fletcher to 2nd.,0,0,1,1,7,-1.56,2.98
+1823,2021-05-29,660271,592135,,ball,11.0,Shohei Ohtani singles on a sharp line drive to center fielder Mark Canha.   David Fletcher to 2nd.,0,0,1,1,7,-1.56,2.98
+1824,2021-05-29,660271,489265,,blocked_ball,13.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,1,2,2,4,9,-0.06,-0.06
 1825,2021-05-29,660271,489265,,called_strike,7.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,1,1,2,3,9,-0.57,2.13
 1826,2021-05-29,660271,489265,,swinging_strike,8.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,1,0,2,2,9,-0.15,1.66
-1827,2021-05-29,660271,593423,field_out,hit_into_play,5.0,Shohei Ohtani flies out sharply to left fielder Chad Pinder.,2,2,1,6,1,-0.19,2.89
-1828,2021-05-29,660271,489265,,ball,13.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,0,0,2,1,9,-1.9,2.27
+1827,2021-05-29,660271,489265,,ball,13.0,Shohei Ohtani pops out to third baseman Matt Chapman in foul territory.,0,0,2,1,9,-1.9,2.27
+1828,2021-05-29,660271,593423,field_out,hit_into_play,5.0,Shohei Ohtani flies out sharply to left fielder Chad Pinder.,2,2,1,6,1,-0.19,2.89
 1829,2021-05-29,660271,593423,,foul,6.0,Shohei Ohtani flies out sharply to left fielder Chad Pinder.,2,2,1,5,1,0.45,2.68
 1830,2021-05-29,660271,593423,,foul,6.0,Shohei Ohtani flies out sharply to left fielder Chad Pinder.,2,1,1,4,1,0.47,2.57
 1831,2021-05-29,660271,593423,,foul,2.0,Shohei Ohtani flies out sharply to left fielder Chad Pinder.,2,0,1,3,1,-0.08,3.12
@@ -1881,22 +1881,22 @@
 1879,2021-05-25,660271,676969,,ball,13.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,2,2,2,6,4,-0.37,1.12
 1880,2021-05-25,660271,676969,,foul,11.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,2,2,2,5,4,-0.97,2.96
 1881,2021-05-25,660271,676969,,ball,11.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,1,2,2,4,4,-1.57,3.05
-1882,2021-05-25,660271,676969,,foul,7.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,1,1,2,3,4,-0.51,1.84
-1883,2021-05-25,660271,656685,strikeout,swinging_strike_blocked,13.0,Shohei Ohtani strikes out swinging.,2,2,1,5,8,-0.57,0.97
-1884,2021-05-25,660271,663770,walk,ball,11.0,Shohei Ohtani walks.,3,1,1,5,6,-0.69,4.24
-1885,2021-05-25,660271,676969,,swinging_strike,5.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,1,0,2,2,4,-0.05,2.78
-1886,2021-05-25,660271,656685,,swinging_strike,8.0,Shohei Ohtani strikes out swinging.,2,1,1,4,8,-0.01,1.9
-1887,2021-05-25,660271,656685,,ball,11.0,Shohei Ohtani strikes out swinging.,1,1,1,3,8,-1.06,2.71
+1882,2021-05-25,660271,656685,strikeout,swinging_strike_blocked,13.0,Shohei Ohtani strikes out swinging.,2,2,1,5,8,-0.57,0.97
+1883,2021-05-25,660271,676969,,foul,7.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,1,1,2,3,4,-0.51,1.84
+1884,2021-05-25,660271,656685,,swinging_strike,8.0,Shohei Ohtani strikes out swinging.,2,1,1,4,8,-0.01,1.9
+1885,2021-05-25,660271,663770,walk,ball,11.0,Shohei Ohtani walks.,3,1,1,5,6,-0.69,4.24
+1886,2021-05-25,660271,676969,,swinging_strike,5.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,1,0,2,2,4,-0.05,2.78
+1887,2021-05-25,660271,676969,,ball,11.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,0,0,2,1,4,-0.84,3.81
 1888,2021-05-25,660271,663770,,ball,11.0,Shohei Ohtani walks.,2,1,1,4,6,-0.58,3.79
-1889,2021-05-25,660271,676969,,ball,11.0,Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.,0,0,2,1,4,-0.84,3.81
-1890,2021-05-25,660271,663770,,ball,12.0,Shohei Ohtani walks.,1,1,1,3,6,1.03,2.68
-1891,2021-05-25,660271,660365,walk,ball,13.0,Shohei Ohtani walks.,3,0,0,4,1,-1.2,2.42
-1892,2021-05-25,660271,656685,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,1,2,8,-0.66,0.94
-1893,2021-05-25,660271,656685,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,0,0,1,1,8,-1.03,1.35
-1894,2021-05-25,660271,663770,,ball,11.0,Shohei Ohtani walks.,0,1,1,2,6,-0.01,4.01
-1895,2021-05-25,660271,660365,,ball,13.0,Shohei Ohtani walks.,2,0,0,3,1,-1.1,1.99
-1896,2021-05-25,660271,663770,,foul,6.0,Shohei Ohtani walks.,0,0,1,1,6,0.42,2.86
-1897,2021-05-25,660271,660365,,ball,13.0,Shohei Ohtani walks.,1,0,0,2,1,-1.54,1.86
+1889,2021-05-25,660271,656685,,ball,11.0,Shohei Ohtani strikes out swinging.,1,1,1,3,8,-1.06,2.71
+1890,2021-05-25,660271,656685,,ball,13.0,Shohei Ohtani strikes out swinging.,0,1,1,2,8,-0.66,0.94
+1891,2021-05-25,660271,663770,,ball,12.0,Shohei Ohtani walks.,1,1,1,3,6,1.03,2.68
+1892,2021-05-25,660271,660365,walk,ball,13.0,Shohei Ohtani walks.,3,0,0,4,1,-1.2,2.42
+1893,2021-05-25,660271,660365,,ball,13.0,Shohei Ohtani walks.,2,0,0,3,1,-1.1,1.99
+1894,2021-05-25,660271,656685,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,0,0,1,1,8,-1.03,1.35
+1895,2021-05-25,660271,663770,,ball,11.0,Shohei Ohtani walks.,0,1,1,2,6,-0.01,4.01
+1896,2021-05-25,660271,660365,,ball,13.0,Shohei Ohtani walks.,1,0,0,2,1,-1.54,1.86
+1897,2021-05-25,660271,663770,,foul,6.0,Shohei Ohtani walks.,0,0,1,1,6,0.42,2.86
 1898,2021-05-25,660271,660365,,ball,11.0,Shohei Ohtani walks.,0,0,0,1,1,-0.15,4.04
 1899,2021-05-23,660271,594056,sac_fly,hit_into_play,2.0,Shohei Ohtani out on a sacrifice fly to right fielder Seth Brown.   Justin Upton scores.    Jose Rojas to 3rd.,2,1,1,4,7,0.15,3.4
 1900,2021-05-23,660271,594056,,called_strike,1.0,Shohei Ohtani out on a sacrifice fly to right fielder Seth Brown.   Justin Upton scores.    Jose Rojas to 3rd.,2,0,1,3,7,-0.66,3.56
@@ -1933,14 +1933,14 @@
 1931,2021-05-21,660271,621076,,ball,11.0,Shohei Ohtani pops out to third baseman Matt Chapman.,0,0,1,1,3,-1.42,2.99
 1932,2021-05-21,660271,518617,walk,ball,13.0,Shohei Ohtani walks.,3,2,2,6,7,-2.81,0.18
 1933,2021-05-21,660271,621076,field_out,hit_into_play,4.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,2,2,1,5,1,-0.29,2.82
-1934,2021-05-21,660271,518617,,ball,13.0,Shohei Ohtani walks.,2,2,2,5,7,-3.81,-0.78
-1935,2021-05-21,660271,621076,,called_strike,11.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,2,1,1,4,1,-0.93,3.05
+1934,2021-05-21,660271,621076,,called_strike,11.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,2,1,1,4,1,-0.93,3.05
+1935,2021-05-21,660271,518617,,ball,13.0,Shohei Ohtani walks.,2,2,2,5,7,-3.81,-0.78
 1936,2021-05-21,660271,621076,,ball,13.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,1,1,1,3,1,-0.34,0.96
 1937,2021-05-21,660271,518617,,ball,13.0,Shohei Ohtani walks.,1,2,2,4,7,-2.37,0.88
-1938,2021-05-21,660271,518617,,called_strike,4.0,Shohei Ohtani walks.,1,1,2,3,7,-0.65,2.64
-1939,2021-05-21,660271,621076,,called_strike,8.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,1,0,1,2,1,0.02,2.01
-1940,2021-05-21,660271,621076,,ball,12.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,0,0,1,1,1,1.41,2.68
-1941,2021-05-21,660271,518617,,called_strike,8.0,Shohei Ohtani walks.,1,0,2,2,7,0.01,2.06
+1938,2021-05-21,660271,621076,,called_strike,8.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,1,0,1,2,1,0.02,2.01
+1939,2021-05-21,660271,518617,,called_strike,4.0,Shohei Ohtani walks.,1,1,2,3,7,-0.65,2.64
+1940,2021-05-21,660271,518617,,called_strike,8.0,Shohei Ohtani walks.,1,0,2,2,7,0.01,2.06
+1941,2021-05-21,660271,621076,,ball,12.0,Shohei Ohtani flies out sharply to center fielder Ramon Laureano.,0,0,1,1,1,1.41,2.68
 1942,2021-05-21,660271,518617,,ball,11.0,Shohei Ohtani walks.,0,0,2,1,7,-1.23,2.67
 1943,2021-05-20,660271,621244,strikeout,swinging_strike,9.0,Shohei Ohtani strikes out swinging.,3,2,0,6,3,0.81,1.62
 1944,2021-05-20,660271,621244,,called_strike,9.0,Shohei Ohtani strikes out swinging.,3,1,0,5,3,0.42,2.01
@@ -1975,8 +1975,8 @@
 1973,2021-05-18,660271,668676,,ball,13.0,Shohei Ohtani singles on a line drive to center fielder Harold Ramirez.,0,0,0,1,4,-1.54,2.31
 1974,2021-05-18,660271,543766,field_out,hit_into_play,4.0,"Shohei Ohtani grounds out, shortstop Amed Rosario to first baseman Yu Chang.",2,2,0,5,8,-0.41,2.95
 1975,2021-05-18,660271,668676,home_run,hit_into_play,4.0,Shohei Ohtani homers (14) on a fly ball to center field.,1,0,1,2,1,-0.43,2.66
-1976,2021-05-18,660271,668676,,ball,14.0,Shohei Ohtani homers (14) on a fly ball to center field.,0,0,1,1,1,0.23,1.17
-1977,2021-05-18,660271,543766,,ball,14.0,"Shohei Ohtani grounds out, shortstop Amed Rosario to first baseman Yu Chang.",1,2,0,4,8,1.57,-0.17
+1976,2021-05-18,660271,543766,,ball,14.0,"Shohei Ohtani grounds out, shortstop Amed Rosario to first baseman Yu Chang.",1,2,0,4,8,1.57,-0.17
+1977,2021-05-18,660271,668676,,ball,14.0,Shohei Ohtani homers (14) on a fly ball to center field.,0,0,1,1,1,0.23,1.17
 1978,2021-05-18,660271,543766,,ball,13.0,"Shohei Ohtani grounds out, shortstop Amed Rosario to first baseman Yu Chang.",0,2,0,3,8,-1.16,2.35
 1979,2021-05-18,660271,543766,,foul,12.0,"Shohei Ohtani grounds out, shortstop Amed Rosario to first baseman Yu Chang.",0,1,0,2,8,1.21,3.28
 1980,2021-05-18,660271,543766,,swinging_strike,14.0,"Shohei Ohtani grounds out, shortstop Amed Rosario to first baseman Yu Chang.",0,0,0,1,8,0.8,1.42
@@ -1996,10 +1996,10 @@
 1994,2021-05-17,660271,656529,walk,blocked_ball,13.0,Shohei Ohtani walks.,3,2,1,6,1,-1.85,0.07
 1995,2021-05-17,660271,656529,,ball,13.0,Shohei Ohtani walks.,2,2,1,5,1,-0.97,1.31
 1996,2021-05-17,660271,656529,,ball,13.0,Shohei Ohtani walks.,1,2,1,4,1,-1.29,2.17
-1997,2021-05-17,660271,621295,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,0,2,2,3,8,-0.65,2.47
-1998,2021-05-17,660271,656529,,foul,1.0,Shohei Ohtani walks.,1,1,1,3,1,-0.42,3.31
-1999,2021-05-17,660271,621295,,foul,8.0,Shohei Ohtani called out on strikes.,0,1,2,2,8,-0.14,2.17
-2000,2021-05-17,660271,656529,,ball,11.0,Shohei Ohtani walks.,0,1,1,2,1,-0.92,2.84
+1997,2021-05-17,660271,656529,,foul,1.0,Shohei Ohtani walks.,1,1,1,3,1,-0.42,3.31
+1998,2021-05-17,660271,621295,strikeout,called_strike,4.0,Shohei Ohtani called out on strikes.,0,2,2,3,8,-0.65,2.47
+1999,2021-05-17,660271,656529,,ball,11.0,Shohei Ohtani walks.,0,1,1,2,1,-0.92,2.84
+2000,2021-05-17,660271,621295,,foul,8.0,Shohei Ohtani called out on strikes.,0,1,2,2,8,-0.14,2.17
 2001,2021-05-17,660271,656529,,swinging_strike,1.0,Shohei Ohtani walks.,0,0,1,1,1,-0.32,3.46
 2002,2021-05-17,660271,621295,,called_strike,8.0,Shohei Ohtani called out on strikes.,0,0,2,1,8,-0.21,2.0
 2003,2021-05-16,660271,543135,field_error,hit_into_play,9.0,Shohei Ohtani reaches on a throwing error by third baseman Rafael Devers.,1,0,1,2,5,0.46,2.04
@@ -2009,8 +2009,8 @@
 2007,2021-05-16,660271,543135,,foul,5.0,Shohei Ohtani strikes out swinging.,0,0,2,1,2,-0.04,2.89
 2008,2021-05-16,660271,598264,home_run,hit_into_play,6.0,Shohei Ohtani homers (12) on a fly ball to right field.    Mike Trout scores.,0,0,2,1,9,0.43,2.55
 2009,2021-05-16,660271,543135,field_out,hit_into_play,2.0,"Shohei Ohtani grounds out, second baseman Michael Chavis to first baseman Bobby Dalbec.",0,1,2,2,1,0.24,3.18
-2010,2021-05-16,660271,657031,field_out,hit_into_play,2.0,Shohei Ohtani flies out to right fielder Marwin Gonzalez.,0,0,2,1,7,-0.1,3.5
-2011,2021-05-16,660271,543135,,foul,2.0,"Shohei Ohtani grounds out, second baseman Michael Chavis to first baseman Bobby Dalbec.",0,0,2,1,1,-0.1,3.45
+2010,2021-05-16,660271,543135,,foul,2.0,"Shohei Ohtani grounds out, second baseman Michael Chavis to first baseman Bobby Dalbec.",0,0,2,1,1,-0.1,3.45
+2011,2021-05-16,660271,657031,field_out,hit_into_play,2.0,Shohei Ohtani flies out to right fielder Marwin Gonzalez.,0,0,2,1,7,-0.1,3.5
 2012,2021-05-15,660271,527048,strikeout,called_strike,6.0,Shohei Ohtani called out on strikes.,1,2,2,4,5,0.62,2.3
 2013,2021-05-15,660271,527048,,swinging_strike,14.0,Shohei Ohtani called out on strikes.,1,1,2,3,5,1.14,2.43
 2014,2021-05-15,660271,527048,,ball,13.0,Shohei Ohtani called out on strikes.,0,1,2,2,5,-1.25,2.1
@@ -2043,10 +2043,10 @@
 2041,2021-05-14,660271,493603,,foul,3.0,Shohei Ohtani strikes out swinging.,2,2,1,5,8,0.36,3.65
 2042,2021-05-14,660271,493603,,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,2,1,1,4,8,-0.3,2.02
 2043,2021-05-14,660271,601713,double,hit_into_play,6.0,Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.,2,2,1,6,1,0.36,2.83
-2044,2021-05-14,660271,493603,,ball,14.0,Shohei Ohtani strikes out swinging.,1,1,1,3,8,0.45,1.43
-2045,2021-05-14,660271,601713,,ball,12.0,Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.,1,2,1,5,1,0.11,4.95
-2046,2021-05-14,660271,601713,,foul,8.0,Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.,1,2,1,4,1,0.24,1.57
-2047,2021-05-14,660271,493603,,ball,14.0,Shohei Ohtani strikes out swinging.,0,1,1,2,8,1.54,2.68
+2044,2021-05-14,660271,601713,,ball,12.0,Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.,1,2,1,5,1,0.11,4.95
+2045,2021-05-14,660271,493603,,ball,14.0,Shohei Ohtani strikes out swinging.,1,1,1,3,8,0.45,1.43
+2046,2021-05-14,660271,493603,,ball,14.0,Shohei Ohtani strikes out swinging.,0,1,1,2,8,1.54,2.68
+2047,2021-05-14,660271,601713,,foul,8.0,Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.,1,2,1,4,1,0.24,1.57
 2048,2021-05-14,660271,601713,,swinging_strike,11.0,Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.,1,1,1,3,1,-0.02,3.97
 2049,2021-05-14,660271,493603,,swinging_strike,2.0,Shohei Ohtani strikes out swinging.,0,0,1,1,8,0.0,3.15
 2050,2021-05-14,660271,601713,,swinging_strike,11.0,Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.,1,0,1,2,1,-0.37,4.1
@@ -2089,16 +2089,16 @@
 2087,2021-05-10,660271,677651,,called_strike,8.0,Shohei Ohtani strikes out swinging.,0,1,2,2,3,0.0,1.94
 2088,2021-05-10,660271,677651,,called_strike,7.0,Shohei Ohtani strikes out swinging.,0,0,2,1,3,-0.32,2.05
 2089,2021-05-10,660271,592288,field_out,hit_into_play,13.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,3,2,2,6,8,-1.35,2.35
-2090,2021-05-10,660271,677651,strikeout,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,0,2,1,3,1,-0.51,1.52
-2091,2021-05-10,660271,592288,,foul,4.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,3,1,2,5,8,-0.51,2.8
+2090,2021-05-10,660271,592288,,foul,4.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,3,1,2,5,8,-0.51,2.8
+2091,2021-05-10,660271,677651,strikeout,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,0,2,1,3,1,-0.51,1.52
 2092,2021-05-10,660271,592288,,ball,13.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,2,1,2,4,8,-1.82,2.37
 2093,2021-05-10,660271,677651,,called_strike,8.0,Shohei Ohtani strikes out swinging.,0,1,1,2,1,-0.26,1.52
-2094,2021-05-10,660271,592288,,ball,13.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,1,1,2,3,8,-1.61,2.22
-2095,2021-05-10,660271,677651,,called_strike,2.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.27,2.98
+2094,2021-05-10,660271,677651,,called_strike,2.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.27,2.98
+2095,2021-05-10,660271,592288,,ball,13.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,1,1,2,3,8,-1.61,2.22
 2096,2021-05-10,660271,548384,field_out,hit_into_play,9.0,"Shohei Ohtani grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,0,2,2,6,0.77,1.68
 2097,2021-05-10,660271,592288,,called_strike,11.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,1,0,2,2,8,-0.84,2.6
-2098,2021-05-10,660271,548384,,ball,13.0,"Shohei Ohtani grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,2,1,6,-1.58,2.13
-2099,2021-05-10,660271,592288,,ball,13.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,0,0,2,1,8,-1.29,1.69
+2098,2021-05-10,660271,592288,,ball,13.0,Shohei Ohtani grounds out to first baseman Yuli Gurriel.,0,0,2,1,8,-1.29,1.69
+2099,2021-05-10,660271,548384,,ball,13.0,"Shohei Ohtani grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,2,1,6,-1.58,2.13
 2100,2021-05-09,660271,545333,strikeout,swinging_strike_blocked,14.0,Shohei Ohtani strikes out swinging.,0,2,2,3,5,0.34,0.61
 2101,2021-05-09,660271,545333,,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,0,1,2,2,5,0.4,1.16
 2102,2021-05-09,660271,545333,,swinging_strike,2.0,Shohei Ohtani strikes out swinging.,0,0,2,1,5,0.07,3.19
@@ -2108,8 +2108,8 @@
 2106,2021-05-09,660271,545333,,called_strike,2.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,0,2,2,3,-0.26,3.01
 2107,2021-05-09,660271,545333,,ball,11.0,Shohei Ohtani walks.   David Fletcher to 2nd.,0,0,2,1,3,-1.35,3.48
 2108,2021-05-09,660271,445276,field_out,hit_into_play,6.0,Shohei Ohtani flies out sharply to center fielder Chris Taylor.,1,1,0,3,8,0.66,2.44
-2109,2021-05-09,660271,445276,,ball,14.0,Shohei Ohtani flies out sharply to center fielder Chris Taylor.,0,1,0,2,8,0.5,1.39
-2110,2021-05-09,660271,545333,single,hit_into_play,9.0,Shohei Ohtani singles on a ground ball to shortstop Corey Seager.,0,2,1,3,1,0.66,1.57
+2109,2021-05-09,660271,545333,single,hit_into_play,9.0,Shohei Ohtani singles on a ground ball to shortstop Corey Seager.,0,2,1,3,1,0.66,1.57
+2110,2021-05-09,660271,445276,,ball,14.0,Shohei Ohtani flies out sharply to center fielder Chris Taylor.,0,1,0,2,8,0.5,1.39
 2111,2021-05-09,660271,445276,,called_strike,8.0,Shohei Ohtani flies out sharply to center fielder Chris Taylor.,0,0,0,1,8,0.19,1.88
 2112,2021-05-09,660271,545333,,foul,9.0,Shohei Ohtani singles on a ground ball to shortstop Corey Seager.,0,1,1,2,1,0.64,2.19
 2113,2021-05-09,660271,545333,,called_strike,6.0,Shohei Ohtani singles on a ground ball to shortstop Corey Seager.,0,0,1,1,1,0.71,2.69
@@ -2167,14 +2167,14 @@
 2165,2021-05-04,660271,672715,,ball,7.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,0,0,1,6,-0.69,1.62
 2166,2021-05-04,660271,663556,field_out,hit_into_play,4.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,1,2,0,6,1,-0.64,2.52
 2167,2021-05-04,660271,663556,,foul,6.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,1,2,0,5,1,0.63,2.53
-2168,2021-05-04,660271,663556,,ball,13.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,2,0,4,1,-0.78,1.27
-2169,2021-05-04,660271,642003,walk,blocked_ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,3,1,0,5,8,-1.41,-0.71
-2170,2021-05-04,660271,642003,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,2,1,0,4,8,-0.75,0.88
-2171,2021-05-04,660271,663556,,foul,2.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,2,0,3,1,-0.2,3.38
-2172,2021-05-04,660271,642003,,called_strike,9.0,Shohei Ohtani walks.   David Fletcher to 2nd.,2,0,0,3,8,0.74,2.11
-2173,2021-05-04,660271,663556,,swinging_strike,5.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,1,0,2,1,0.0,2.77
-2174,2021-05-04,660271,642003,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,0,0,2,8,-1.3,2.51
-2175,2021-05-04,660271,663556,,called_strike,13.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,0,0,1,1,-1.01,2.5
+2168,2021-05-04,660271,642003,walk,blocked_ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,3,1,0,5,8,-1.41,-0.71
+2169,2021-05-04,660271,663556,,ball,13.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,2,0,4,1,-0.78,1.27
+2170,2021-05-04,660271,663556,,foul,2.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,2,0,3,1,-0.2,3.38
+2171,2021-05-04,660271,642003,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,2,1,0,4,8,-0.75,0.88
+2172,2021-05-04,660271,663556,,swinging_strike,5.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,1,0,2,1,0.0,2.77
+2173,2021-05-04,660271,642003,,called_strike,9.0,Shohei Ohtani walks.   David Fletcher to 2nd.,2,0,0,3,8,0.74,2.11
+2174,2021-05-04,660271,663556,,called_strike,13.0,Shohei Ohtani flies out to left fielder Randy Arozarena.,0,0,0,1,1,-1.01,2.5
+2175,2021-05-04,660271,642003,,ball,13.0,Shohei Ohtani walks.   David Fletcher to 2nd.,1,0,0,2,8,-1.3,2.51
 2176,2021-05-04,660271,642003,,ball,12.0,Shohei Ohtani walks.   David Fletcher to 2nd.,0,0,0,1,8,1.48,3.36
 2177,2021-05-03,660271,607192,home_run,hit_into_play,6.0,Shohei Ohtani homers (9) on a fly ball to center field.   David Fletcher scores.,0,1,0,2,6,0.3,2.56
 2178,2021-05-03,660271,607192,,called_strike,7.0,Shohei Ohtani homers (9) on a fly ball to center field.   David Fletcher scores.,0,0,0,1,6,-0.56,1.99
@@ -2333,17 +2333,17 @@
 2331,2021-04-22,660271,664299,,swinging_strike,8.0,Shohei Ohtani flies out to center fielder Myles Straw.,0,0,2,1,3,-0.16,1.8
 2332,2021-04-22,660271,519151,strikeout,foul_tip,3.0,Shohei Ohtani strikes out on a foul tip.,3,2,1,6,9,0.65,3.65
 2333,2021-04-22,660271,664299,strikeout,swinging_strike,11.0,Shohei Ohtani strikes out swinging.,2,2,1,5,1,-1.55,3.23
-2334,2021-04-22,660271,519151,,swinging_strike,2.0,Shohei Ohtani strikes out on a foul tip.,3,1,1,5,9,-0.25,3.3
-2335,2021-04-22,660271,664299,,ball,14.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,1.75,2.16
+2334,2021-04-22,660271,664299,,ball,14.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,1.75,2.16
+2335,2021-04-22,660271,519151,,swinging_strike,2.0,Shohei Ohtani strikes out on a foul tip.,3,1,1,5,9,-0.25,3.3
 2336,2021-04-22,660271,519151,,called_strike,4.0,Shohei Ohtani strikes out on a foul tip.,3,0,1,4,9,-0.41,2.68
 2337,2021-04-22,660271,664299,,foul,2.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,-0.23,3.37
-2338,2021-04-22,660271,519151,,ball,14.0,Shohei Ohtani strikes out on a foul tip.,2,0,1,3,9,1.59,1.75
-2339,2021-04-22,660271,664299,,swinging_strike,2.0,Shohei Ohtani strikes out swinging.,1,0,1,2,1,0.02,3.58
-2340,2021-04-22,660271,548384,force_out,hit_into_play,12.0,"Shohei Ohtani grounds into a force out, fielded by shortstop Carlos Correa.   Kurt Suzuki to 3rd.    David Fletcher out at 2nd.    Shohei Ohtani to 1st.",2,2,1,5,7,1.49,3.21
-2341,2021-04-22,660271,519151,,blocked_ball,14.0,Shohei Ohtani strikes out on a foul tip.,1,0,1,2,9,0.83,0.52
-2342,2021-04-22,660271,664299,,ball,14.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,0.77,0.21
-2343,2021-04-22,660271,548384,,ball,11.0,"Shohei Ohtani grounds into a force out, fielded by shortstop Carlos Correa.   Kurt Suzuki to 3rd.    David Fletcher out at 2nd.    Shohei Ohtani to 1st.",1,2,1,4,7,-1.79,3.2
-2344,2021-04-22,660271,519151,,ball,14.0,Shohei Ohtani strikes out on a foul tip.,0,0,1,1,9,0.66,0.89
+2338,2021-04-22,660271,664299,,swinging_strike,2.0,Shohei Ohtani strikes out swinging.,1,0,1,2,1,0.02,3.58
+2339,2021-04-22,660271,519151,,ball,14.0,Shohei Ohtani strikes out on a foul tip.,2,0,1,3,9,1.59,1.75
+2340,2021-04-22,660271,519151,,blocked_ball,14.0,Shohei Ohtani strikes out on a foul tip.,1,0,1,2,9,0.83,0.52
+2341,2021-04-22,660271,664299,,ball,14.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,0.77,0.21
+2342,2021-04-22,660271,548384,force_out,hit_into_play,12.0,"Shohei Ohtani grounds into a force out, fielded by shortstop Carlos Correa.   Kurt Suzuki to 3rd.    David Fletcher out at 2nd.    Shohei Ohtani to 1st.",2,2,1,5,7,1.49,3.21
+2343,2021-04-22,660271,519151,,ball,14.0,Shohei Ohtani strikes out on a foul tip.,0,0,1,1,9,0.66,0.89
+2344,2021-04-22,660271,548384,,ball,11.0,"Shohei Ohtani grounds into a force out, fielded by shortstop Carlos Correa.   Kurt Suzuki to 3rd.    David Fletcher out at 2nd.    Shohei Ohtani to 1st.",1,2,1,4,7,-1.79,3.2
 2345,2021-04-22,660271,548384,,ball,13.0,"Shohei Ohtani grounds into a force out, fielded by shortstop Carlos Correa.   Kurt Suzuki to 3rd.    David Fletcher out at 2nd.    Shohei Ohtani to 1st.",0,2,1,3,7,-1.5,2.18
 2346,2021-04-22,660271,548384,,called_strike,4.0,"Shohei Ohtani grounds into a force out, fielded by shortstop Carlos Correa.   Kurt Suzuki to 3rd.    David Fletcher out at 2nd.    Shohei Ohtani to 1st.",0,1,1,2,7,-0.7,2.35
 2347,2021-04-22,660271,548384,,foul,12.0,"Shohei Ohtani grounds into a force out, fielded by shortstop Carlos Correa.   Kurt Suzuki to 3rd.    David Fletcher out at 2nd.    Shohei Ohtani to 1st.",0,0,1,1,7,1.05,3.0
@@ -2357,8 +2357,8 @@
 2355,2021-04-21,660271,592314,,foul,5.0,Shohei Ohtani homers (5) on a fly ball to right center field.,1,1,2,3,3,-0.05,2.91
 2356,2021-04-21,660271,592314,,ball,11.0,Shohei Ohtani homers (5) on a fly ball to right center field.,0,1,2,2,3,-0.96,3.74
 2357,2021-04-21,660271,592314,,foul,5.0,Shohei Ohtani homers (5) on a fly ball to right center field.,0,0,2,1,3,0.06,2.73
-2358,2021-04-21,660271,667463,hit_by_pitch,hit_by_pitch,12.0,Shohei Ohtani hit by pitch.    David Fletcher to 2nd.,0,0,2,1,7,2.33,3.77
-2359,2021-04-21,660271,592314,strikeout,called_strike,9.0,Shohei Ohtani called out on strikes.,3,2,1,6,1,0.58,1.68
+2358,2021-04-21,660271,592314,strikeout,called_strike,9.0,Shohei Ohtani called out on strikes.,3,2,1,6,1,0.58,1.68
+2359,2021-04-21,660271,667463,hit_by_pitch,hit_by_pitch,12.0,Shohei Ohtani hit by pitch.    David Fletcher to 2nd.,0,0,2,1,7,2.33,3.77
 2360,2021-04-21,660271,592314,,ball,14.0,Shohei Ohtani called out on strikes.,2,2,1,5,1,0.41,1.1
 2361,2021-04-21,660271,592314,,called_strike,6.0,Shohei Ohtani called out on strikes.,2,1,1,4,1,0.6,2.78
 2362,2021-04-21,660271,592314,,ball,14.0,Shohei Ohtani called out on strikes.,1,1,1,3,1,1.06,2.44
@@ -2374,14 +2374,14 @@
 2372,2021-04-19,660271,570257,strikeout,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,3,2,0,7,8,-0.28,2.09
 2373,2021-04-19,660271,685503,,foul,5.0,"Angels challenged (play at 1st), call on the field was upheld: Shohei Ohtani grounds into a double play, first baseman Nate Lowe to shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.   David Fletcher out at 2nd.    Shohei Ohtani out at 1st.",0,0,0,1,1,-0.09,2.31
 2374,2021-04-19,660271,570257,,ball,13.0,Shohei Ohtani strikes out swinging.,2,2,0,6,8,-0.91,1.81
-2375,2021-04-19,660271,570257,,ball,13.0,Shohei Ohtani strikes out swinging.,1,2,0,5,8,-0.06,0.44
-2376,2021-04-19,660271,656685,strikeout,swinging_strike_blocked,13.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",2,2,2,5,6,-1.35,0.65
-2377,2021-04-19,660271,570257,,foul,12.0,Shohei Ohtani strikes out swinging.,1,2,0,4,8,1.15,3.44
-2378,2021-04-19,660271,656685,,swinging_strike,9.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",2,1,2,4,6,0.57,1.73
+2375,2021-04-19,660271,656685,strikeout,swinging_strike_blocked,13.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",2,2,2,5,6,-1.35,0.65
+2376,2021-04-19,660271,570257,,ball,13.0,Shohei Ohtani strikes out swinging.,1,2,0,5,8,-0.06,0.44
+2377,2021-04-19,660271,656685,,swinging_strike,9.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",2,1,2,4,6,0.57,1.73
+2378,2021-04-19,660271,570257,,foul,12.0,Shohei Ohtani strikes out swinging.,1,2,0,4,8,1.15,3.44
 2379,2021-04-19,660271,570257,,ball,13.0,Shohei Ohtani strikes out swinging.,0,2,0,3,8,-0.79,1.33
 2380,2021-04-19,660271,656685,,foul,6.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",2,0,2,3,6,0.74,2.42
-2381,2021-04-19,660271,570257,,called_strike,8.0,Shohei Ohtani strikes out swinging.,0,1,0,2,8,0.1,2.07
-2382,2021-04-19,660271,656685,,blocked_ball,13.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",1,0,2,2,6,-1.56,0.3
+2381,2021-04-19,660271,656685,,blocked_ball,13.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",1,0,2,2,6,-1.56,0.3
+2382,2021-04-19,660271,570257,,called_strike,8.0,Shohei Ohtani strikes out swinging.,0,1,0,2,8,0.1,2.07
 2383,2021-04-19,660271,656685,,ball,14.0,"Shohei Ohtani strikes out swinging, catcher Jose Trevino to first baseman Nate Lowe.",0,0,2,1,6,2.02,2.34
 2384,2021-04-19,660271,570257,,swinging_strike,14.0,Shohei Ohtani strikes out swinging.,0,0,0,1,8,1.24,2.59
 2385,2021-04-16,660271,626929,field_out,hit_into_play,13.0,"Shohei Ohtani grounds out, shortstop Jorge Polanco to first baseman Miguel Sano.",1,2,1,4,4,-0.9,2.53
@@ -2392,8 +2392,8 @@
 2390,2021-04-16,660271,677976,,foul_tip,7.0,Shohei Ohtani singles on a line drive to center fielder Jake Cave.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.,0,0,0,1,6,-0.37,2.15
 2391,2021-04-16,660271,626929,field_out,hit_into_play,13.0,Shohei Ohtani flies out to shortstop Jorge Polanco.,1,2,1,4,1,-0.97,2.38
 2392,2021-04-16,660271,626929,,called_strike,4.0,Shohei Ohtani flies out to shortstop Jorge Polanco.,1,1,1,3,1,-0.47,2.6
-2393,2021-04-16,660271,626929,,ball,13.0,Shohei Ohtani flies out to shortstop Jorge Polanco.,0,1,1,2,1,-1.12,1.21
-2394,2021-04-16,660271,573204,strikeout,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,2,2,1,5,7,-1.49,1.99
+2393,2021-04-16,660271,573204,strikeout,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,2,2,1,5,7,-1.49,1.99
+2394,2021-04-16,660271,626929,,ball,13.0,Shohei Ohtani flies out to shortstop Jorge Polanco.,0,1,1,2,1,-1.12,1.21
 2395,2021-04-16,660271,573204,,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,2,1,1,4,7,-0.36,2.2
 2396,2021-04-16,660271,626929,,called_strike,8.0,Shohei Ohtani flies out to shortstop Jorge Polanco.,0,0,1,1,1,-0.13,1.87
 2397,2021-04-16,660271,573204,,ball,14.0,Shohei Ohtani strikes out swinging.,1,1,1,3,7,0.95,1.91
@@ -2414,8 +2414,8 @@
 2412,2021-04-14,660271,641745,,foul,13.0,Shohei Ohtani strikes out swinging.,1,2,0,6,1,-1.45,1.24
 2413,2021-04-14,660271,641745,,foul,4.0,Shohei Ohtani strikes out swinging.,1,2,0,5,1,-0.7,2.4
 2414,2021-04-14,660271,622251,field_out,hit_into_play,3.0,Shohei Ohtani flies out to left fielder Andrew Benintendi.,1,0,0,2,8,0.62,3.25
-2415,2021-04-14,660271,641745,,ball,14.0,Shohei Ohtani strikes out swinging.,0,2,0,4,1,1.29,1.06
-2416,2021-04-14,660271,622251,,ball,12.0,Shohei Ohtani flies out to left fielder Andrew Benintendi.,0,0,0,1,8,1.16,4.1
+2415,2021-04-14,660271,622251,,ball,12.0,Shohei Ohtani flies out to left fielder Andrew Benintendi.,0,0,0,1,8,1.16,4.1
+2416,2021-04-14,660271,641745,,ball,14.0,Shohei Ohtani strikes out swinging.,0,2,0,4,1,1.29,1.06
 2417,2021-04-14,660271,641745,,foul,12.0,Shohei Ohtani strikes out swinging.,0,2,0,3,1,1.1,2.71
 2418,2021-04-14,660271,641745,,swinging_strike,5.0,Shohei Ohtani strikes out swinging.,0,1,0,2,1,-0.03,2.79
 2419,2021-04-14,660271,641745,,foul,2.0,Shohei Ohtani strikes out swinging.,0,0,0,1,1,-0.09,3.27
@@ -2431,10 +2431,10 @@
 2429,2021-04-13,660271,518813,,ball,14.0,Shohei Ohtani singles on a sharp ground ball to right fielder Jarrod Dyson.   David Fletcher to 2nd.,1,0,1,2,9,0.22,1.49
 2430,2021-04-13,660271,518813,,ball,11.0,Shohei Ohtani singles on a sharp ground ball to right fielder Jarrod Dyson.   David Fletcher to 2nd.,0,0,1,1,9,-0.91,2.87
 2431,2021-04-13,660271,518633,single,hit_into_play,4.0,"Royals challenged (play at 1st), call on the field was upheld: Shohei Ohtani singles on a ground ball to third baseman Hunter Dozier.",1,2,1,4,1,-0.48,2.83
-2432,2021-04-13,660271,518633,,called_strike,13.0,"Royals challenged (play at 1st), call on the field was upheld: Shohei Ohtani singles on a ground ball to third baseman Hunter Dozier.",1,1,1,3,1,-0.86,1.98
-2433,2021-04-13,660271,641394,field_out,hit_into_play,5.0,Shohei Ohtani lines out sharply to second baseman Whit Merrifield.,0,1,1,2,7,-0.24,2.4
-2434,2021-04-13,660271,641394,,foul,11.0,Shohei Ohtani lines out sharply to second baseman Whit Merrifield.,0,0,1,1,7,-1.17,2.65
-2435,2021-04-13,660271,518633,,ball,13.0,"Royals challenged (play at 1st), call on the field was upheld: Shohei Ohtani singles on a ground ball to third baseman Hunter Dozier.",0,1,1,2,1,-1.09,1.11
+2432,2021-04-13,660271,641394,field_out,hit_into_play,5.0,Shohei Ohtani lines out sharply to second baseman Whit Merrifield.,0,1,1,2,7,-0.24,2.4
+2433,2021-04-13,660271,518633,,called_strike,13.0,"Royals challenged (play at 1st), call on the field was upheld: Shohei Ohtani singles on a ground ball to third baseman Hunter Dozier.",1,1,1,3,1,-0.86,1.98
+2434,2021-04-13,660271,518633,,ball,13.0,"Royals challenged (play at 1st), call on the field was upheld: Shohei Ohtani singles on a ground ball to third baseman Hunter Dozier.",0,1,1,2,1,-1.09,1.11
+2435,2021-04-13,660271,641394,,foul,11.0,Shohei Ohtani lines out sharply to second baseman Whit Merrifield.,0,0,1,1,7,-1.17,2.65
 2436,2021-04-13,660271,518633,,foul,8.0,"Royals challenged (play at 1st), call on the field was upheld: Shohei Ohtani singles on a ground ball to third baseman Hunter Dozier.",0,0,1,1,1,0.07,1.84
 2437,2021-04-12,660271,663903,field_error,hit_into_play,1.0,Shohei Ohtani reaches on a fielding error by shortstop Nicky Lopez.   Albert Pujols scores.    Jose Iglesias to 3rd.,3,2,2,7,5,-0.8,3.44
 2438,2021-04-12,660271,663903,,ball,13.0,Shohei Ohtani reaches on a fielding error by shortstop Nicky Lopez.   Albert Pujols scores.    Jose Iglesias to 3rd.,2,2,2,6,5,-1.93,2.09
@@ -2490,8 +2490,8 @@
 2488,2021-04-09,660271,676709,,ball,11.0,Shohei Ohtani lines out sharply to center fielder Jonathan Davis.,1,1,0,3,9,-1.75,4.89
 2489,2021-04-09,660271,606303,field_out,hit_into_play,2.0,Shohei Ohtani flies out to left fielder Josh Palacios.,1,2,0,4,7,-0.09,3.49
 2490,2021-04-09,660271,676709,,foul,5.0,Shohei Ohtani lines out sharply to center fielder Jonathan Davis.,1,0,0,2,9,0.02,2.31
-2491,2021-04-09,660271,676709,,ball,11.0,Shohei Ohtani lines out sharply to center fielder Jonathan Davis.,0,0,0,1,9,-1.78,3.4
-2492,2021-04-09,660271,606303,,called_strike,6.0,Shohei Ohtani flies out to left fielder Josh Palacios.,1,1,0,3,7,0.62,2.23
+2491,2021-04-09,660271,606303,,called_strike,6.0,Shohei Ohtani flies out to left fielder Josh Palacios.,1,1,0,3,7,0.62,2.23
+2492,2021-04-09,660271,676709,,ball,11.0,Shohei Ohtani lines out sharply to center fielder Jonathan Davis.,0,0,0,1,9,-1.78,3.4
 2493,2021-04-09,660271,606303,,foul,11.0,Shohei Ohtani flies out to left fielder Josh Palacios.,1,0,0,2,7,-0.91,2.7
 2494,2021-04-09,660271,606303,,ball,11.0,Shohei Ohtani flies out to left fielder Josh Palacios.,0,0,0,1,7,-0.64,3.52
 2495,2021-04-09,660271,475479,strikeout,swinging_strike,11.0,Shohei Ohtani strikes out swinging.,2,2,1,5,1,-0.94,2.85
@@ -2511,10 +2511,10 @@
 2509,2021-04-08,660271,657240,,ball,11.0,Shohei Ohtani walks.   Dexter Fowler to 2nd.,1,0,2,2,9,-1.16,3.09
 2510,2021-04-08,660271,657240,,ball,11.0,Shohei Ohtani walks.   Dexter Fowler to 2nd.,0,0,2,1,9,-1.53,4.03
 2511,2021-04-08,660271,605447,single,hit_into_play,8.0,Shohei Ohtani singles on a sharp line drive to right fielder Teoscar Hernandez.   Dexter Fowler scores.,1,1,2,3,7,-0.11,1.7
-2512,2021-04-08,660271,548389,strikeout,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,-1.96,1.38
-2513,2021-04-08,660271,605447,,called_strike,7.0,Shohei Ohtani singles on a sharp line drive to right fielder Teoscar Hernandez.   Dexter Fowler scores.,1,0,2,2,7,-0.55,1.92
-2514,2021-04-08,660271,605447,,ball,14.0,Shohei Ohtani singles on a sharp line drive to right fielder Teoscar Hernandez.   Dexter Fowler scores.,0,0,2,1,7,0.25,1.23
-2515,2021-04-08,660271,548389,,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,-0.51,2.08
+2512,2021-04-08,660271,605447,,called_strike,7.0,Shohei Ohtani singles on a sharp line drive to right fielder Teoscar Hernandez.   Dexter Fowler scores.,1,0,2,2,7,-0.55,1.92
+2513,2021-04-08,660271,548389,strikeout,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,-1.96,1.38
+2514,2021-04-08,660271,548389,,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,1,1,1,3,1,-0.51,2.08
+2515,2021-04-08,660271,605447,,ball,14.0,Shohei Ohtani singles on a sharp line drive to right fielder Teoscar Hernandez.   Dexter Fowler scores.,0,0,2,1,7,0.25,1.23
 2516,2021-04-08,660271,548389,,called_strike,7.0,Shohei Ohtani strikes out swinging.,1,0,1,2,1,-0.67,2.1
 2517,2021-04-08,660271,548389,,ball,13.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-1.21,1.69
 2518,2021-04-08,660271,503569,field_out,hit_into_play,7.0,Shohei Ohtani grounds out to first baseman Vladimir Guerrero Jr.,0,0,2,1,11,-0.64,2.03
@@ -2562,21 +2562,21 @@
 2560,2021-04-02,660271,572971,,swinging_strike,7.0,Shohei Ohtani strikes out swinging.,1,0,2,2,3,-0.29,1.72
 2561,2021-04-02,660271,572971,,ball,13.0,Shohei Ohtani strikes out swinging.,0,0,2,1,3,-1.51,1.18
 2562,2021-04-02,660271,656629,strikeout,swinging_strike_blocked,14.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",2,2,2,6,7,0.67,0.63
-2563,2021-04-02,660271,656629,,ball,14.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",1,2,2,5,7,0.18,0.79
-2564,2021-04-02,660271,521230,home_run,hit_into_play,4.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,3,2,2,6,9,-0.6,2.58
-2565,2021-04-02,660271,656629,,foul,11.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",1,2,2,4,7,-0.75,3.73
-2566,2021-04-02,660271,521230,,ball,14.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,2,2,2,5,9,1.09,2.08
-2567,2021-04-02,660271,521230,,ball,12.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,1,2,2,4,9,1.02,3.1
-2568,2021-04-02,660271,656629,,swinging_strike,11.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",1,1,2,3,7,-0.05,3.97
+2563,2021-04-02,660271,521230,home_run,hit_into_play,4.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,3,2,2,6,9,-0.6,2.58
+2564,2021-04-02,660271,656629,,ball,14.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",1,2,2,5,7,0.18,0.79
+2565,2021-04-02,660271,521230,,ball,14.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,2,2,2,5,9,1.09,2.08
+2566,2021-04-02,660271,656629,,foul,11.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",1,2,2,4,7,-0.75,3.73
+2567,2021-04-02,660271,656629,,swinging_strike,11.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",1,1,2,3,7,-0.05,3.97
+2568,2021-04-02,660271,521230,,ball,12.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,1,2,2,4,9,1.02,3.1
 2569,2021-04-02,660271,656629,,ball,11.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",0,1,2,2,7,-0.44,4.14
 2570,2021-04-02,660271,521230,,swinging_strike,1.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,1,1,2,3,9,-0.75,3.33
-2571,2021-04-02,660271,521230,,ball,11.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,0,1,2,2,9,-1.08,3.89
-2572,2021-04-02,660271,656629,,swinging_strike,2.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",0,0,2,1,7,0.06,3.59
+2571,2021-04-02,660271,656629,,swinging_strike,2.0,"Shohei Ohtani strikes out swinging, catcher Yasmani Grandal to first baseman Jose Abreu.",0,0,2,1,7,0.06,3.59
+2572,2021-04-02,660271,521230,,ball,11.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,0,1,2,2,9,-1.08,3.89
 2573,2021-04-02,660271,521230,,foul,3.0,Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.,0,0,2,1,9,0.42,3.49
 2574,2021-04-02,660271,572971,triple,hit_into_play,6.0,Shohei Ohtani triples (1) on a sharp ground ball to right fielder Adam Eaton.,1,1,1,3,1,0.49,2.52
 2575,2021-04-02,660271,572971,,swinging_strike,9.0,Shohei Ohtani triples (1) on a sharp ground ball to right fielder Adam Eaton.,1,0,1,2,1,0.75,1.8
-2576,2021-04-02,660271,572971,,ball,14.0,Shohei Ohtani triples (1) on a sharp ground ball to right fielder Adam Eaton.,0,0,1,1,1,0.37,0.99
-2577,2021-04-02,660271,641582,strikeout,swinging_strike,11.0,Shohei Ohtani strikes out swinging.,1,2,0,4,5,-1.36,3.53
+2576,2021-04-02,660271,641582,strikeout,swinging_strike,11.0,Shohei Ohtani strikes out swinging.,1,2,0,4,5,-1.36,3.53
+2577,2021-04-02,660271,572971,,ball,14.0,Shohei Ohtani triples (1) on a sharp ground ball to right fielder Adam Eaton.,0,0,1,1,1,0.37,0.99
 2578,2021-04-02,660271,641582,,swinging_strike_blocked,13.0,Shohei Ohtani strikes out swinging.,1,1,0,3,5,-0.18,0.37
 2579,2021-04-02,660271,641582,,ball,14.0,Shohei Ohtani strikes out swinging.,0,1,0,2,5,0.62,0.89
 2580,2021-04-02,660271,641582,,swinging_strike,13.0,Shohei Ohtani strikes out swinging.,0,0,0,1,5,-0.27,1.31
@@ -2588,8 +2588,8 @@
 2586,2021-04-01,660271,608337,,foul,12.0,Shohei Ohtani strikes out swinging.,1,2,1,4,1,0.32,3.74
 2587,2021-04-01,660271,608337,,ball,14.0,Shohei Ohtani strikes out swinging.,0,2,1,3,1,1.52,0.18
 2588,2021-04-01,660271,608337,,swinging_strike,11.0,Shohei Ohtani strikes out swinging.,0,1,1,2,1,-0.31,4.01
-2589,2021-04-01,660271,608337,,foul,2.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.04,2.96
-2590,2021-04-01,660271,607481,fielders_choice,hit_into_play,5.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Nick Madrigal.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Nick Madrigal.",1,2,0,4,8,-0.09,2.33
+2589,2021-04-01,660271,607481,fielders_choice,hit_into_play,5.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Nick Madrigal.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Nick Madrigal.",1,2,0,4,8,-0.09,2.33
+2590,2021-04-01,660271,608337,,foul,2.0,Shohei Ohtani strikes out swinging.,0,0,1,1,1,-0.04,2.96
 2591,2021-04-01,660271,607481,,swinging_strike_blocked,13.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Nick Madrigal.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Nick Madrigal.",1,1,0,3,8,-0.89,0.71
 2592,2021-04-01,660271,607481,,swinging_strike,13.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Nick Madrigal.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Nick Madrigal.",1,0,0,2,8,-0.89,1.94
 2593,2021-04-01,660271,607481,,ball,13.0,"Shohei Ohtani reaches on a fielder's choice, fielded by second baseman Nick Madrigal.   David Fletcher to 2nd.  David Fletcher advances to 2nd, on a throwing error by second baseman Nick Madrigal.",0,0,0,1,8,-1.35,1.74

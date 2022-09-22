@@ -9,5 +9,6 @@ VISION REPORT: gavin_lux (2021-04-01 thru 2021-10-04)
      gavin_lux saw 730 strikes and 711 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5017
+VISION SCORE METRIC B (VSA - SO%): 0.2839
 Average PA Length: 3.7612 (1433/381)
 Batting Avg: 0.242

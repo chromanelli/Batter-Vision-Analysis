@@ -26,8 +26,8 @@
 24,2021-10-02,621566,543606,,blocked_ball,13,Matt Olson strikes out swinging.,1,2,0,4,1,-0.1,0.21
 25,2021-10-02,621566,543606,,foul,14,Matt Olson strikes out swinging.,1,1,0,3,1,0.14,1.0
 26,2021-10-02,621566,548384,single,hit_into_play,4,Matt Olson singles on a line drive to center fielder Jake Meyers.,2,2,1,7,7,-0.81,2.69
-27,2021-10-02,621566,548384,,foul,2,Matt Olson singles on a line drive to center fielder Jake Meyers.,2,2,1,6,7,0.14,3.27
-28,2021-10-02,621566,543606,,called_strike,4,Matt Olson strikes out swinging.,1,0,0,2,1,-0.31,2.61
+27,2021-10-02,621566,543606,,called_strike,4,Matt Olson strikes out swinging.,1,0,0,2,1,-0.31,2.61
+28,2021-10-02,621566,548384,,foul,2,Matt Olson singles on a line drive to center fielder Jake Meyers.,2,2,1,6,7,0.14,3.27
 29,2021-10-02,621566,543606,,ball,14,Matt Olson strikes out swinging.,0,0,0,1,1,0.17,1.41
 30,2021-10-02,621566,548384,,foul,13,Matt Olson singles on a line drive to center fielder Jake Meyers.,2,2,1,5,7,-1.13,2.49
 31,2021-10-02,621566,548384,,foul,4,Matt Olson singles on a line drive to center fielder Jake Meyers.,2,1,1,4,7,-0.38,2.5
@@ -46,15 +46,15 @@
 44,2021-10-01,621566,664299,strikeout,swinging_strike,6,Matt Olson strikes out swinging.,3,2,0,6,8,0.47,2.3
 45,2021-10-01,621566,664299,,called_strike,5,Matt Olson strikes out swinging.,3,1,0,5,8,0.16,2.78
 46,2021-10-01,621566,664299,,ball,11,Matt Olson strikes out swinging.,2,1,0,4,8,-0.49,5.11
-47,2021-10-01,621566,664299,,ball,11,Matt Olson strikes out swinging.,1,1,0,3,8,-2.94,5.31
-48,2021-10-01,621566,664285,field_out,hit_into_play,8,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",3,2,2,7,1,-0.05,1.69
+47,2021-10-01,621566,664285,field_out,hit_into_play,8,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",3,2,2,7,1,-0.05,1.69
+48,2021-10-01,621566,664299,,ball,11,Matt Olson strikes out swinging.,1,1,0,3,8,-2.94,5.31
 49,2021-10-01,621566,664299,,ball,2,Matt Olson strikes out swinging.,0,1,0,2,8,-0.23,3.67
 50,2021-10-01,621566,664285,,ball,13,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",2,2,2,6,1,-0.79,1.12
-51,2021-10-01,621566,664285,,ball,13,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",1,2,2,5,1,-0.56,1.36
-52,2021-10-01,621566,664299,,called_strike,13,Matt Olson strikes out swinging.,0,0,0,1,8,-1.08,2.65
+51,2021-10-01,621566,664299,,called_strike,13,Matt Olson strikes out swinging.,0,0,0,1,8,-1.08,2.65
+52,2021-10-01,621566,664285,,ball,13,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",1,2,2,5,1,-0.56,1.36
 53,2021-10-01,621566,664285,,foul,14,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",1,2,2,4,1,0.07,1.13
-54,2021-10-01,621566,664285,,foul,6,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",1,1,2,3,1,0.58,2.39
-55,2021-10-01,621566,554340,strikeout,swinging_strike,6,Matt Olson strikes out swinging.,2,2,1,5,9,0.5,2.85
+54,2021-10-01,621566,554340,strikeout,swinging_strike,6,Matt Olson strikes out swinging.,2,2,1,5,9,0.5,2.85
+55,2021-10-01,621566,664285,,foul,6,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",1,1,2,3,1,0.58,2.39
 56,2021-10-01,621566,554340,,ball,14,Matt Olson strikes out swinging.,1,2,1,4,9,2.0,1.04
 57,2021-10-01,621566,664285,,ball,13,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",0,1,2,2,1,-0.83,1.33
 58,2021-10-01,621566,664285,,foul,3,"Matt Olson grounds out, third baseman Alex Bregman to first baseman Aledmys Diaz.",0,0,2,1,1,0.61,3.1
@@ -80,11 +80,11 @@
 78,2021-09-28,621566,542881,,ball,13,Matt Olson flies out to left fielder Jake Fraley.,0,1,0,2,4,-1.18,0.51
 79,2021-09-28,621566,542881,,called_strike,4,Matt Olson flies out to left fielder Jake Fraley.,0,0,0,1,4,-0.7,2.64
 80,2021-09-28,621566,623149,single,hit_into_play,4,Matt Olson singles on a sharp ground ball to left fielder Jake Fraley.,2,1,1,4,8,-0.8,2.55
-81,2021-09-28,621566,594987,field_out,hit_into_play,7,"Matt Olson grounds out, second baseman Abraham Toro to first baseman Ty France.",1,1,1,3,6,-0.49,2.07
-82,2021-09-28,621566,542881,field_out,hit_into_play,3,Matt Olson pops out to shortstop J.  P. Crawford.,0,0,2,1,1,0.38,3.21
-83,2021-09-28,621566,623149,,swinging_strike,8,Matt Olson singles on a sharp ground ball to left fielder Jake Fraley.,2,0,1,3,8,-0.1,2.15
-84,2021-09-28,621566,594987,,called_strike,3,"Matt Olson grounds out, second baseman Abraham Toro to first baseman Ty France.",1,0,1,2,6,0.66,3.41
-85,2021-09-28,621566,623149,,ball,14,Matt Olson singles on a sharp ground ball to left fielder Jake Fraley.,1,0,1,2,8,0.43,1.18
+81,2021-09-28,621566,623149,,swinging_strike,8,Matt Olson singles on a sharp ground ball to left fielder Jake Fraley.,2,0,1,3,8,-0.1,2.15
+82,2021-09-28,621566,594987,field_out,hit_into_play,7,"Matt Olson grounds out, second baseman Abraham Toro to first baseman Ty France.",1,1,1,3,6,-0.49,2.07
+83,2021-09-28,621566,542881,field_out,hit_into_play,3,Matt Olson pops out to shortstop J.  P. Crawford.,0,0,2,1,1,0.38,3.21
+84,2021-09-28,621566,623149,,ball,14,Matt Olson singles on a sharp ground ball to left fielder Jake Fraley.,1,0,1,2,8,0.43,1.18
+85,2021-09-28,621566,594987,,called_strike,3,"Matt Olson grounds out, second baseman Abraham Toro to first baseman Ty France.",1,0,1,2,6,0.66,3.41
 86,2021-09-28,621566,594987,,ball,13,"Matt Olson grounds out, second baseman Abraham Toro to first baseman Ty France.",0,0,1,1,6,-1.88,2.57
 87,2021-09-28,621566,623149,,ball,14,Matt Olson singles on a sharp ground ball to left fielder Jake Fraley.,0,0,1,1,8,1.12,2.38
 88,2021-09-27,621566,623167,double,hit_into_play,13,Matt Olson doubles (35) on a line drive to left fielder Dylan Moore.,1,2,2,4,5,-0.98,1.86
@@ -129,8 +129,8 @@
 127,2021-09-25,621566,608665,,foul,5,Matt Olson walks.,3,1,0,5,8,0.18,2.93
 128,2021-09-25,621566,608665,,ball,12,Matt Olson walks.,2,1,0,4,8,0.51,3.96
 129,2021-09-25,621566,608665,,called_strike,12,Matt Olson walks.,2,0,0,3,8,0.87,2.98
-130,2021-09-25,621566,608665,,ball,11,Matt Olson walks.,1,0,0,2,8,-1.23,3.43
-131,2021-09-25,621566,664285,field_out,hit_into_play,7,Matt Olson lines out sharply to right fielder Kyle Tucker.,1,2,2,4,1,-0.36,2.01
+130,2021-09-25,621566,664285,field_out,hit_into_play,7,Matt Olson lines out sharply to right fielder Kyle Tucker.,1,2,2,4,1,-0.36,2.01
+131,2021-09-25,621566,608665,,ball,11,Matt Olson walks.,1,0,0,2,8,-1.23,3.43
 132,2021-09-25,621566,664285,,ball,13,Matt Olson lines out sharply to right fielder Kyle Tucker.,0,2,2,3,1,-0.39,1.51
 133,2021-09-25,621566,608665,,ball,13,Matt Olson walks.,0,0,0,1,8,-1.41,2.59
 134,2021-09-25,621566,664285,,called_strike,7,Matt Olson lines out sharply to right fielder Kyle Tucker.,0,1,2,2,1,-0.6,1.91
@@ -151,10 +151,10 @@
 149,2021-09-24,621566,661527,,ball,14,Matt Olson doubles (34) on a sharp line drive to center fielder Jake Meyers.   Elvis Andrus scores.    Skye Bolt scores.    Starling Marte scores.,0,0,0,1,8,1.96,2.29
 150,2021-09-24,621566,656232,strikeout,called_strike,5,Matt Olson called out on strikes.,2,2,0,5,1,0.01,2.5
 151,2021-09-24,621566,656232,,ball,11,Matt Olson called out on strikes.,1,2,0,4,1,-0.45,4.22
-152,2021-09-24,621566,656232,,swinging_strike,11,Matt Olson called out on strikes.,1,1,0,3,1,-0.46,3.78
-153,2021-09-24,621566,548384,strikeout,swinging_strike,7,Matt Olson strikes out swinging.,3,2,1,8,7,-0.76,1.93
-154,2021-09-24,621566,548384,,ball,13,Matt Olson strikes out swinging.,2,2,1,7,7,-1.74,1.42
-155,2021-09-24,621566,656232,,ball,12,Matt Olson called out on strikes.,0,1,0,2,1,0.23,4.59
+152,2021-09-24,621566,548384,strikeout,swinging_strike,7,Matt Olson strikes out swinging.,3,2,1,8,7,-0.76,1.93
+153,2021-09-24,621566,656232,,swinging_strike,11,Matt Olson called out on strikes.,1,1,0,3,1,-0.46,3.78
+154,2021-09-24,621566,656232,,ball,12,Matt Olson called out on strikes.,0,1,0,2,1,0.23,4.59
+155,2021-09-24,621566,548384,,ball,13,Matt Olson strikes out swinging.,2,2,1,7,7,-1.74,1.42
 156,2021-09-24,621566,656232,,foul,6,Matt Olson called out on strikes.,0,0,0,1,1,0.32,2.29
 157,2021-09-24,621566,548384,,foul,2,Matt Olson strikes out swinging.,2,2,1,6,7,0.27,3.08
 158,2021-09-24,621566,548384,,ball,13,Matt Olson strikes out swinging.,1,2,1,5,7,-1.94,1.59
@@ -172,14 +172,14 @@
 170,2021-09-23,621566,579328,,foul,9,Matt Olson walks.,3,1,2,5,1,0.47,1.91
 171,2021-09-23,621566,579328,,called_strike,5,Matt Olson walks.,3,0,2,4,1,-0.21,2.89
 172,2021-09-23,621566,579328,,ball,13,Matt Olson walks.,2,0,2,3,1,-1.04,2.36
-173,2021-09-23,621566,594987,strikeout,called_strike,6,Matt Olson called out on strikes.,1,2,1,4,7,0.4,2.92
-174,2021-09-23,621566,579328,,ball,12,Matt Olson walks.,1,0,2,2,1,0.88,3.29
-175,2021-09-23,621566,579328,,ball,14,Matt Olson walks.,0,0,2,1,1,0.68,1.42
-176,2021-09-23,621566,594987,,foul_tip,12,Matt Olson called out on strikes.,1,1,1,3,7,1.23,3.31
-177,2021-09-23,621566,594987,,foul,8,Matt Olson called out on strikes.,1,0,1,2,7,-0.02,2.08
-178,2021-09-23,621566,623149,home_run,hit_into_play,2,Matt Olson homers (38) on a fly ball to right field.,0,1,2,2,9,0.03,3.37
-179,2021-09-23,621566,594987,,ball,13,Matt Olson called out on strikes.,0,0,1,1,7,-1.62,2.42
-180,2021-09-23,621566,623149,,called_strike,5,Matt Olson homers (38) on a fly ball to right field.,0,0,2,1,9,0.09,2.79
+173,2021-09-23,621566,579328,,ball,12,Matt Olson walks.,1,0,2,2,1,0.88,3.29
+174,2021-09-23,621566,594987,strikeout,called_strike,6,Matt Olson called out on strikes.,1,2,1,4,7,0.4,2.92
+175,2021-09-23,621566,594987,,foul_tip,12,Matt Olson called out on strikes.,1,1,1,3,7,1.23,3.31
+176,2021-09-23,621566,579328,,ball,14,Matt Olson walks.,0,0,2,1,1,0.68,1.42
+177,2021-09-23,621566,623149,home_run,hit_into_play,2,Matt Olson homers (38) on a fly ball to right field.,0,1,2,2,9,0.03,3.37
+178,2021-09-23,621566,594987,,foul,8,Matt Olson called out on strikes.,1,0,1,2,7,-0.02,2.08
+179,2021-09-23,621566,623149,,called_strike,5,Matt Olson homers (38) on a fly ball to right field.,0,0,2,1,9,0.09,2.79
+180,2021-09-23,621566,594987,,ball,13,Matt Olson called out on strikes.,0,0,1,1,7,-1.62,2.42
 181,2021-09-23,621566,664948,strikeout,swinging_strike,13,Matt Olson strikes out swinging.,1,2,1,4,4,-1.3,1.06
 182,2021-09-23,621566,664948,,ball,12,Matt Olson strikes out swinging.,0,2,1,3,4,0.16,4.49
 183,2021-09-23,621566,664948,,swinging_strike,13,Matt Olson strikes out swinging.,0,1,1,2,4,-1.22,1.68
@@ -289,22 +289,22 @@
 287,2021-09-16,621566,663738,,swinging_strike,8,"Matt Olson lines into a double play, second baseman Whit Merrifield to first baseman Ryan O'Hearn.   Starling Marte out at 1st.",1,0,0,2,3,-0.14,2.14
 288,2021-09-16,621566,663738,,ball,13,"Matt Olson lines into a double play, second baseman Whit Merrifield to first baseman Ryan O'Hearn.   Starling Marte out at 1st.",0,0,0,1,3,-1.0,2.06
 289,2021-09-16,621566,663738,grounded_into_double_play,hit_into_play,13,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",3,2,0,6,1,-0.94,2.05
-290,2021-09-16,621566,663738,,ball,11,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",2,2,0,5,1,-1.4,2.96
-291,2021-09-16,621566,593619,double,hit_into_play,8,Matt Olson doubles (33) on a pop up to left fielder Andrew Benintendi.,0,0,2,1,7,-0.22,1.85
-292,2021-09-16,621566,663738,,swinging_strike,4,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",2,1,0,4,1,-0.32,2.55
-293,2021-09-16,621566,676604,walk,ball,3,Matt Olson walks.,3,2,1,6,9,0.75,3.39
+290,2021-09-16,621566,593619,double,hit_into_play,8,Matt Olson doubles (33) on a pop up to left fielder Andrew Benintendi.,0,0,2,1,7,-0.22,1.85
+291,2021-09-16,621566,663738,,ball,11,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",2,2,0,5,1,-1.4,2.96
+292,2021-09-16,621566,676604,walk,ball,3,Matt Olson walks.,3,2,1,6,9,0.75,3.39
+293,2021-09-16,621566,663738,,swinging_strike,4,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",2,1,0,4,1,-0.32,2.55
 294,2021-09-16,621566,663738,,ball,11,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",1,1,0,3,1,-0.33,4.37
 295,2021-09-16,621566,676604,,foul,7,Matt Olson walks.,3,1,1,5,9,-0.4,2.2
-296,2021-09-16,621566,663738,,ball,12,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",0,1,0,2,1,0.74,4.84
+296,2021-09-16,621566,642100,strikeout,swinging_strike,9,Matt Olson strikes out swinging.,3,2,1,8,5,0.79,1.72
 297,2021-09-16,621566,676604,,ball,12,Matt Olson walks.,2,1,1,4,9,0.59,4.73
-298,2021-09-16,621566,642100,strikeout,swinging_strike,9,Matt Olson strikes out swinging.,3,2,1,8,5,0.79,1.72
-299,2021-09-16,621566,676604,,ball,11,Matt Olson walks.,1,1,1,3,9,-0.3,4.15
+298,2021-09-16,621566,663738,,ball,12,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",0,1,0,2,1,0.74,4.84
+299,2021-09-16,621566,663738,,called_strike,11,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",0,0,0,1,1,-0.85,3.32
 300,2021-09-16,621566,642100,,foul,2,Matt Olson strikes out swinging.,3,2,1,7,5,-0.13,3.19
-301,2021-09-16,621566,663738,,called_strike,11,"Matt Olson grounds into a double play, pitcher Daniel Lynch to shortstop Nicky Lopez to first baseman Ryan O'Hearn.   Josh Harrison to 3rd.    Starling Marte out at 2nd.    Matt Olson out at 1st.",0,0,0,1,1,-0.85,3.32
+301,2021-09-16,621566,676604,,ball,11,Matt Olson walks.,1,1,1,3,9,-0.3,4.15
 302,2021-09-16,621566,642100,,foul,5,Matt Olson strikes out swinging.,3,2,1,6,5,-0.21,2.28
 303,2021-09-16,621566,676604,,ball,13,Matt Olson walks.,0,1,1,2,9,-2.22,2.13
-304,2021-09-16,621566,676604,,called_strike,11,Matt Olson walks.,0,0,1,1,9,-0.6,3.74
-305,2021-09-16,621566,642100,,foul,2,Matt Olson strikes out swinging.,3,1,1,5,5,0.06,3.22
+304,2021-09-16,621566,642100,,foul,2,Matt Olson strikes out swinging.,3,1,1,5,5,0.06,3.22
+305,2021-09-16,621566,676604,,called_strike,11,Matt Olson walks.,0,0,1,1,9,-0.6,3.74
 306,2021-09-16,621566,642100,,called_strike,8,Matt Olson strikes out swinging.,3,0,1,4,5,0.14,2.16
 307,2021-09-16,621566,642100,,ball,11,Matt Olson strikes out swinging.,2,0,1,3,5,-0.47,4.26
 308,2021-09-16,621566,642100,,ball,14,Matt Olson strikes out swinging.,1,0,1,2,5,0.87,2.44
@@ -328,8 +328,8 @@
 326,2021-09-15,621566,656240,,ball,14,Matt Olson pops out to shortstop Nicky Lopez.,0,0,2,1,9,1.27,1.16
 327,2021-09-15,621566,672578,single,hit_into_play,6,Matt Olson singles on a line drive to center fielder Edward Olivares.   Starling Marte to 2nd.,0,0,1,1,1,0.47,2.28
 328,2021-09-15,621566,642100,strikeout,swinging_strike,13,Matt Olson strikes out swinging.,1,2,1,4,7,-0.2,1.49
-329,2021-09-15,621566,518813,field_out,hit_into_play,3,Matt Olson pops out to catcher Salvador Perez in foul territory.,0,0,0,1,6,0.43,3.43
-330,2021-09-15,621566,642100,,foul,6,Matt Olson strikes out swinging.,1,1,1,3,7,0.7,2.64
+329,2021-09-15,621566,642100,,foul,6,Matt Olson strikes out swinging.,1,1,1,3,7,0.7,2.64
+330,2021-09-15,621566,518813,field_out,hit_into_play,3,Matt Olson pops out to catcher Salvador Perez in foul territory.,0,0,0,1,6,0.43,3.43
 331,2021-09-15,621566,642100,,called_strike,8,Matt Olson strikes out swinging.,1,0,1,2,7,0.11,1.88
 332,2021-09-15,621566,642100,,blocked_ball,13,Matt Olson strikes out swinging.,0,0,1,1,7,-0.36,0.5
 333,2021-09-14,621566,605130,walk,ball,14,Matt Olson walks.   Starling Marte to 2nd.,3,2,0,7,9,1.06,1.16
@@ -337,17 +337,17 @@
 335,2021-09-14,621566,605130,,called_strike,7,Matt Olson walks.   Starling Marte to 2nd.,3,1,0,5,9,-0.38,1.61
 336,2021-09-14,621566,605130,,called_strike,9,Matt Olson walks.   Starling Marte to 2nd.,3,0,0,4,9,0.62,1.99
 337,2021-09-14,621566,605130,,ball,14,Matt Olson walks.   Starling Marte to 2nd.,2,0,0,3,9,0.82,1.03
-338,2021-09-14,621566,605130,,ball,11,Matt Olson walks.   Starling Marte to 2nd.,1,0,0,2,9,-0.96,3.74
-339,2021-09-14,621566,641394,field_out,hit_into_play,13,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,2,1,5,6,-1.04,2.38
-340,2021-09-14,621566,663804,sac_fly,hit_into_play,8,Matt Olson out on a sacrifice fly to right fielder Hunter Dozier.   Josh Harrison scores.    Starling Marte to 3rd.,1,0,0,2,1,0.01,2.04
-341,2021-09-14,621566,663804,,ball,11,Matt Olson out on a sacrifice fly to right fielder Hunter Dozier.   Josh Harrison scores.    Starling Marte to 3rd.,0,0,0,1,1,-1.45,4.53
+338,2021-09-14,621566,641394,field_out,hit_into_play,13,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,2,1,5,6,-1.04,2.38
+339,2021-09-14,621566,663804,sac_fly,hit_into_play,8,Matt Olson out on a sacrifice fly to right fielder Hunter Dozier.   Josh Harrison scores.    Starling Marte to 3rd.,1,0,0,2,1,0.01,2.04
+340,2021-09-14,621566,605130,,ball,11,Matt Olson walks.   Starling Marte to 2nd.,1,0,0,2,9,-0.96,3.74
+341,2021-09-14,621566,641394,,foul,8,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,2,1,4,6,0.2,1.65
 342,2021-09-14,621566,605130,,ball,14,Matt Olson walks.   Starling Marte to 2nd.,0,0,0,1,9,1.21,1.58
 343,2021-09-14,621566,429722,fielders_choice_out,hit_into_play,8,"Matt Olson reaches on a fielder's choice out, third baseman Adalberto Mondesi to catcher Salvador Perez.   Elvis Andrus out at home.    Josh Harrison to 3rd.",1,1,1,3,2,-0.1,1.75
-344,2021-09-14,621566,641394,,foul,8,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,2,1,4,6,0.2,1.65
+344,2021-09-14,621566,663804,,ball,11,Matt Olson out on a sacrifice fly to right fielder Hunter Dozier.   Josh Harrison scores.    Starling Marte to 3rd.,0,0,0,1,1,-1.45,4.53
 345,2021-09-14,621566,429722,,ball,14,"Matt Olson reaches on a fielder's choice out, third baseman Adalberto Mondesi to catcher Salvador Perez.   Elvis Andrus out at home.    Josh Harrison to 3rd.",0,1,1,2,2,1.15,2.32
 346,2021-09-14,621566,641394,,foul,12,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,2,1,3,6,0.86,3.76
-347,2021-09-14,621566,429722,,called_strike,2,"Matt Olson reaches on a fielder's choice out, third baseman Adalberto Mondesi to catcher Salvador Perez.   Elvis Andrus out at home.    Josh Harrison to 3rd.",0,0,1,1,2,-0.02,3.1
-348,2021-09-14,621566,641394,,foul,2,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,1,1,2,6,-0.1,3.41
+347,2021-09-14,621566,641394,,foul,2,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,1,1,2,6,-0.1,3.41
+348,2021-09-14,621566,429722,,called_strike,2,"Matt Olson reaches on a fielder's choice out, third baseman Adalberto Mondesi to catcher Salvador Perez.   Elvis Andrus out at home.    Josh Harrison to 3rd.",0,0,1,1,2,-0.02,3.1
 349,2021-09-14,621566,641394,,foul,2,"Matt Olson grounds out, pitcher Jake Brentz to first baseman Carlos Santana.",0,0,1,1,6,-0.08,3.59
 350,2021-09-14,621566,606303,field_out,hit_into_play,6,Matt Olson flies out to right fielder Hunter Dozier.,0,1,0,2,4,0.67,2.88
 351,2021-09-14,621566,606303,,foul,5,Matt Olson flies out to right fielder Hunter Dozier.,0,0,0,1,4,0.19,2.75
@@ -361,8 +361,8 @@
 359,2021-09-12,621566,621368,,ball,13,"Matt Olson grounds out, second baseman Nick Solak to first baseman Nathaniel Lowe.",0,1,1,2,4,-0.77,-0.06
 360,2021-09-12,621566,621368,,called_strike,7,"Matt Olson grounds out, second baseman Nick Solak to first baseman Nathaniel Lowe.",0,0,1,1,4,-0.45,1.88
 361,2021-09-12,621566,669618,field_out,hit_into_play,6,Matt Olson flies out sharply to center fielder Leody Taveras.,1,1,1,3,9,0.43,2.6
-362,2021-09-12,621566,669618,,called_strike,6,Matt Olson flies out sharply to center fielder Leody Taveras.,1,0,1,2,9,0.69,2.24
-363,2021-09-12,621566,621368,field_out,hit_into_play,6,Matt Olson pops out to second baseman Nick Solak on the infield fly rule.,0,1,0,2,1,0.66,2.78
+362,2021-09-12,621566,621368,field_out,hit_into_play,6,Matt Olson pops out to second baseman Nick Solak on the infield fly rule.,0,1,0,2,1,0.66,2.78
+363,2021-09-12,621566,669618,,called_strike,6,Matt Olson flies out sharply to center fielder Leody Taveras.,1,0,1,2,9,0.69,2.24
 364,2021-09-12,621566,621368,,foul,5,Matt Olson pops out to second baseman Nick Solak on the infield fly rule.,0,0,0,1,1,0.21,2.48
 365,2021-09-12,621566,669618,,ball,11,Matt Olson flies out sharply to center fielder Leody Taveras.,0,0,1,1,9,-1.5,3.71
 366,2021-09-11,621566,605138,home_run,hit_into_play,4,Matt Olson homers (33) on a fly ball to right center field.,1,2,2,4,3,-0.43,2.83
@@ -371,17 +371,17 @@
 369,2021-09-11,621566,605138,,foul,7,Matt Olson homers (33) on a fly ball to right center field.,0,0,2,1,3,-0.63,1.98
 370,2021-09-11,621566,605194,field_out,hit_into_play,3,Matt Olson pops out to first baseman Nathaniel Lowe.,2,2,0,5,5,0.73,3.31
 371,2021-09-11,621566,605194,,swinging_strike,2,Matt Olson pops out to first baseman Nathaniel Lowe.,2,1,0,4,5,-0.17,3.29
-372,2021-09-11,621566,656685,field_out,hit_into_play,14,Matt Olson grounds out to first baseman Nathaniel Lowe.,2,2,2,6,7,0.2,1.38
-373,2021-09-11,621566,605194,,swinging_strike,5,Matt Olson pops out to first baseman Nathaniel Lowe.,2,0,0,3,5,0.18,2.31
-374,2021-09-11,621566,605138,field_out,hit_into_play,9,Matt Olson flies out to right fielder Adolis Garcia.,1,2,1,4,1,0.42,1.92
-375,2021-09-11,621566,605138,,ball,12,Matt Olson flies out to right fielder Adolis Garcia.,0,2,1,3,1,0.97,2.58
-376,2021-09-11,621566,605194,,ball,11,Matt Olson pops out to first baseman Nathaniel Lowe.,1,0,0,2,5,-0.97,3.08
-377,2021-09-11,621566,656685,,ball,11,Matt Olson grounds out to first baseman Nathaniel Lowe.,1,2,2,5,7,-0.33,4.15
-378,2021-09-11,621566,656685,,foul,13,Matt Olson grounds out to first baseman Nathaniel Lowe.,1,2,2,4,7,-0.93,0.65
-379,2021-09-11,621566,605138,,swinging_strike,3,Matt Olson flies out to right fielder Adolis Garcia.,0,1,1,2,1,0.35,3.31
-380,2021-09-11,621566,605194,,ball,13,Matt Olson pops out to first baseman Nathaniel Lowe.,0,0,0,1,5,-1.35,2.24
-381,2021-09-11,621566,605138,,called_strike,9,Matt Olson flies out to right fielder Adolis Garcia.,0,0,1,1,1,0.47,1.77
-382,2021-09-11,621566,656685,,called_strike,7,Matt Olson grounds out to first baseman Nathaniel Lowe.,1,1,2,3,7,-0.61,2.01
+372,2021-09-11,621566,605194,,swinging_strike,5,Matt Olson pops out to first baseman Nathaniel Lowe.,2,0,0,3,5,0.18,2.31
+373,2021-09-11,621566,605138,field_out,hit_into_play,9,Matt Olson flies out to right fielder Adolis Garcia.,1,2,1,4,1,0.42,1.92
+374,2021-09-11,621566,656685,field_out,hit_into_play,14,Matt Olson grounds out to first baseman Nathaniel Lowe.,2,2,2,6,7,0.2,1.38
+375,2021-09-11,621566,656685,,ball,11,Matt Olson grounds out to first baseman Nathaniel Lowe.,1,2,2,5,7,-0.33,4.15
+376,2021-09-11,621566,605138,,ball,12,Matt Olson flies out to right fielder Adolis Garcia.,0,2,1,3,1,0.97,2.58
+377,2021-09-11,621566,605194,,ball,11,Matt Olson pops out to first baseman Nathaniel Lowe.,1,0,0,2,5,-0.97,3.08
+378,2021-09-11,621566,605194,,ball,13,Matt Olson pops out to first baseman Nathaniel Lowe.,0,0,0,1,5,-1.35,2.24
+379,2021-09-11,621566,656685,,foul,13,Matt Olson grounds out to first baseman Nathaniel Lowe.,1,2,2,4,7,-0.93,0.65
+380,2021-09-11,621566,605138,,swinging_strike,3,Matt Olson flies out to right fielder Adolis Garcia.,0,1,1,2,1,0.35,3.31
+381,2021-09-11,621566,656685,,called_strike,7,Matt Olson grounds out to first baseman Nathaniel Lowe.,1,1,2,3,7,-0.61,2.01
+382,2021-09-11,621566,605138,,called_strike,9,Matt Olson flies out to right fielder Adolis Garcia.,0,0,1,1,1,0.47,1.77
 383,2021-09-11,621566,656685,,ball,12,Matt Olson grounds out to first baseman Nathaniel Lowe.,0,1,2,2,7,1.95,2.95
 384,2021-09-11,621566,656685,,called_strike,4,Matt Olson grounds out to first baseman Nathaniel Lowe.,0,0,2,1,7,-0.72,2.24
 385,2021-09-10,621566,657248,single,hit_into_play,14,"Rangers challenged (tag play), call on the field was overturned: Matt Olson singles on a line drive to right fielder Adolis Garcia.   Sean Murphy scores.    Elvis Andrus scores.    Starling Marte scores.  Matt Olson out at 2nd on the throw, right fielder Adolis Garcia to shortstop Isiah Kiner-Falefa.",0,1,1,2,2,0.37,1.38
@@ -394,8 +394,8 @@
 392,2021-09-10,621566,642701,,swinging_strike,14,Matt Olson singles on a line drive to right fielder Adolis Garcia.   Starling Marte to 3rd.,1,1,2,3,7,0.96,1.06
 393,2021-09-10,621566,642701,,blocked_ball,13,Matt Olson singles on a line drive to right fielder Adolis Garcia.   Starling Marte to 3rd.,0,1,2,2,7,0.0,0.43
 394,2021-09-10,621566,657248,single,hit_into_play,13,Matt Olson singles on a ground ball to shortstop Isiah Kiner-Falefa.,1,2,2,5,1,-0.82,1.47
-395,2021-09-10,621566,642701,,swinging_strike,13,Matt Olson singles on a line drive to right fielder Adolis Garcia.   Starling Marte to 3rd.,0,0,2,1,7,-0.58,1.39
-396,2021-09-10,621566,657248,,foul,3,Matt Olson singles on a ground ball to shortstop Isiah Kiner-Falefa.,1,2,2,4,1,0.4,3.38
+395,2021-09-10,621566,657248,,foul,3,Matt Olson singles on a ground ball to shortstop Isiah Kiner-Falefa.,1,2,2,4,1,0.4,3.38
+396,2021-09-10,621566,642701,,swinging_strike,13,Matt Olson singles on a line drive to right fielder Adolis Garcia.   Starling Marte to 3rd.,0,0,2,1,7,-0.58,1.39
 397,2021-09-10,621566,657248,,foul,2,Matt Olson singles on a ground ball to shortstop Isiah Kiner-Falefa.,1,1,2,3,1,0.02,3.43
 398,2021-09-10,621566,657248,,ball,11,Matt Olson singles on a ground ball to shortstop Isiah Kiner-Falefa.,0,1,2,2,1,-1.89,4.13
 399,2021-09-10,621566,657248,,called_strike,6,Matt Olson singles on a ground ball to shortstop Isiah Kiner-Falefa.,0,0,2,1,1,0.56,2.36
@@ -448,8 +448,8 @@
 446,2021-09-07,621566,669424,,called_strike,7,Matt Olson out on a sacrifice fly to right fielder Andrew Vaughn.   Josh Harrison scores.,1,0,1,2,1,-0.38,1.73
 447,2021-09-07,621566,669424,,ball,13,Matt Olson out on a sacrifice fly to right fielder Andrew Vaughn.   Josh Harrison scores.,0,0,1,1,1,-0.44,1.11
 448,2021-09-07,621566,518886,field_out,hit_into_play,11,Matt Olson pops out to third baseman Yoan Moncada in foul territory.,0,2,1,3,8,-0.14,3.79
-449,2021-09-07,621566,676979,field_out,hit_into_play,5,"Matt Olson grounds out sharply, second baseman Cesar Hernandez to first baseman Jose Abreu.",2,0,1,3,6,0.07,2.34
-450,2021-09-07,621566,518886,,foul,2,Matt Olson pops out to third baseman Yoan Moncada in foul territory.,0,1,1,2,8,-0.14,3.12
+449,2021-09-07,621566,518886,,foul,2,Matt Olson pops out to third baseman Yoan Moncada in foul territory.,0,1,1,2,8,-0.14,3.12
+450,2021-09-07,621566,676979,field_out,hit_into_play,5,"Matt Olson grounds out sharply, second baseman Cesar Hernandez to first baseman Jose Abreu.",2,0,1,3,6,0.07,2.34
 451,2021-09-07,621566,518886,,called_strike,4,Matt Olson pops out to third baseman Yoan Moncada in foul territory.,0,0,1,1,8,-0.69,2.91
 452,2021-09-07,621566,676979,,ball,12,"Matt Olson grounds out sharply, second baseman Cesar Hernandez to first baseman Jose Abreu.",1,0,1,2,6,0.66,4.01
 453,2021-09-07,621566,676979,,ball,12,"Matt Olson grounds out sharply, second baseman Cesar Hernandez to first baseman Jose Abreu.",0,0,1,1,6,0.96,2.81
@@ -484,12 +484,12 @@
 482,2021-09-04,621566,621244,,called_strike,7,Matt Olson strikes out swinging.,0,0,2,1,4,-0.74,2.26
 483,2021-09-04,621566,621244,strikeout_double_play,swinging_strike,11,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",3,2,1,8,1,-0.51,3.82
 484,2021-09-04,621566,621244,,foul,4,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",3,2,1,7,1,-0.79,2.9
-485,2021-09-04,621566,621244,,ball,11,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",2,2,1,6,1,-1.18,3.59
-486,2021-09-04,621566,641835,field_out,hit_into_play,9,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",1,2,2,4,8,0.52,1.77
-487,2021-09-04,621566,641835,,swinging_strike,1,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",1,1,2,3,8,-0.41,3.52
-488,2021-09-04,621566,621244,,foul,14,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",2,2,1,5,1,0.37,1.32
-489,2021-09-04,621566,621244,,ball,11,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",1,2,1,4,1,-1.79,3.7
-490,2021-09-04,621566,641835,,ball,13,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",0,1,2,2,8,-1.92,0.92
+485,2021-09-04,621566,641835,field_out,hit_into_play,9,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",1,2,2,4,8,0.52,1.77
+486,2021-09-04,621566,621244,,ball,11,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",2,2,1,6,1,-1.18,3.59
+487,2021-09-04,621566,621244,,foul,14,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",2,2,1,5,1,0.37,1.32
+488,2021-09-04,621566,641835,,swinging_strike,1,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",1,1,2,3,8,-0.41,3.52
+489,2021-09-04,621566,641835,,ball,13,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",0,1,2,2,8,-1.92,0.92
+490,2021-09-04,621566,621244,,ball,11,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",1,2,1,4,1,-1.79,3.7
 491,2021-09-04,621566,641835,,called_strike,4,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",0,0,2,1,8,-0.54,2.82
 492,2021-09-04,621566,621244,,foul_tip,11,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",1,1,1,3,1,-0.99,2.78
 493,2021-09-04,621566,621244,,called_strike,11,"Matt Olson strikes out swinging and Tony Kemp caught stealing 2nd, catcher Danny Jansen to shortstop Bo Bichette to catcher Danny Jansen.",1,0,1,2,1,-0.86,3.33
@@ -512,8 +512,8 @@
 510,2021-09-03,621566,666201,,ball,11,Matt Olson flies out to left fielder Lourdes Gurriel.,0,0,0,1,1,-1.82,4.52
 511,2021-09-03,621566,605447,single,hit_into_play,4,"Matt Olson singles on a sharp ground ball to third baseman Breyvic Valera, deflected by pitcher Jordan Romano.",0,2,0,3,9,-0.5,2.86
 512,2021-09-03,621566,663878,field_error,hit_into_play,7,Matt Olson reaches on a fielding error by shortstop Bo Bichette.,2,0,0,3,7,-0.8,1.81
-513,2021-09-03,621566,605447,,foul,7,"Matt Olson singles on a sharp ground ball to third baseman Breyvic Valera, deflected by pitcher Jordan Romano.",0,1,0,2,9,-0.31,1.93
-514,2021-09-03,621566,663878,,ball,13,Matt Olson reaches on a fielding error by shortstop Bo Bichette.,1,0,0,2,7,-1.14,2.46
+513,2021-09-03,621566,663878,,ball,13,Matt Olson reaches on a fielding error by shortstop Bo Bichette.,1,0,0,2,7,-1.14,2.46
+514,2021-09-03,621566,605447,,foul,7,"Matt Olson singles on a sharp ground ball to third baseman Breyvic Valera, deflected by pitcher Jordan Romano.",0,1,0,2,9,-0.31,1.93
 515,2021-09-03,621566,663878,,ball,13,Matt Olson reaches on a fielding error by shortstop Bo Bichette.,0,0,0,1,7,-0.28,1.48
 516,2021-09-03,621566,605447,,called_strike,4,"Matt Olson singles on a sharp ground ball to third baseman Breyvic Valera, deflected by pitcher Jordan Romano.",0,0,0,1,9,-0.44,2.75
 517,2021-09-02,621566,666159,single,hit_into_play,9,Matt Olson singles on a line drive to left fielder Robbie Grossman.,3,2,2,6,4,0.52,1.97
@@ -530,14 +530,14 @@
 528,2021-09-02,621566,600887,,ball,14,Matt Olson called out on strikes.,0,0,0,1,6,0.96,1.89
 529,2021-09-02,621566,656638,field_out,hit_into_play,14,Matt Olson lines out to center fielder Akil Baddoo.,2,2,2,6,8,0.15,1.28
 530,2021-09-02,621566,656638,,foul,14,Matt Olson lines out to center fielder Akil Baddoo.,2,2,2,5,8,0.43,0.96
-531,2021-09-02,621566,666159,field_out,hit_into_play,14,"Matt Olson grounds out, second baseman Willi Castro to first baseman Jonathan Schoop.   Starling Marte to 2nd.",1,2,1,4,1,0.26,1.27
-532,2021-09-02,621566,656638,,ball,11,Matt Olson lines out to center fielder Akil Baddoo.,1,2,2,4,8,-1.46,4.43
+531,2021-09-02,621566,656638,,ball,11,Matt Olson lines out to center fielder Akil Baddoo.,1,2,2,4,8,-1.46,4.43
+532,2021-09-02,621566,666159,field_out,hit_into_play,14,"Matt Olson grounds out, second baseman Willi Castro to first baseman Jonathan Schoop.   Starling Marte to 2nd.",1,2,1,4,1,0.26,1.27
 533,2021-09-02,621566,656638,,foul,8,Matt Olson lines out to center fielder Akil Baddoo.,1,1,2,3,8,0.17,1.72
 534,2021-09-02,621566,666159,,ball,12,"Matt Olson grounds out, second baseman Willi Castro to first baseman Jonathan Schoop.   Starling Marte to 2nd.",0,2,1,3,1,0.34,4.24
 535,2021-09-02,621566,656638,,ball,11,Matt Olson lines out to center fielder Akil Baddoo.,0,1,2,2,8,-1.34,3.22
 536,2021-09-02,621566,666159,,foul,5,"Matt Olson grounds out, second baseman Willi Castro to first baseman Jonathan Schoop.   Starling Marte to 2nd.",0,1,1,2,1,-0.13,2.88
-537,2021-09-02,621566,656638,,foul,9,Matt Olson lines out to center fielder Akil Baddoo.,0,0,2,1,8,0.45,1.74
-538,2021-09-02,621566,666159,,foul,4,"Matt Olson grounds out, second baseman Willi Castro to first baseman Jonathan Schoop.   Starling Marte to 2nd.",0,0,1,1,1,-0.49,2.79
+537,2021-09-02,621566,666159,,foul,4,"Matt Olson grounds out, second baseman Willi Castro to first baseman Jonathan Schoop.   Starling Marte to 2nd.",0,0,1,1,1,-0.49,2.79
+538,2021-09-02,621566,656638,,foul,9,Matt Olson lines out to center fielder Akil Baddoo.,0,0,2,1,8,0.45,1.74
 539,2021-09-01,621566,503449,walk,ball,11,Matt Olson walks.,3,2,0,7,4,-0.89,3.69
 540,2021-09-01,621566,503449,,ball,14,Matt Olson walks.,2,2,0,6,4,0.26,0.77
 541,2021-09-01,621566,503449,,foul,1,Matt Olson walks.,2,2,0,5,4,-0.77,3.17
@@ -622,8 +622,8 @@
 620,2021-08-27,621566,570257,single,hit_into_play,5,Matt Olson singles on a ground ball to left fielder Joey Gallo.   Chad Pinder scores.    Starling Marte scores.    Matt Olson to 2nd.  Throwing error by left fielder Joey Gallo.,1,2,1,4,7,0.16,2.74
 621,2021-08-27,621566,570257,,called_strike,5,Matt Olson singles on a ground ball to left fielder Joey Gallo.   Chad Pinder scores.    Starling Marte scores.    Matt Olson to 2nd.  Throwing error by left fielder Joey Gallo.,1,1,1,3,7,-0.09,2.69
 622,2021-08-27,621566,570257,,swinging_strike_blocked,14,Matt Olson singles on a ground ball to left fielder Joey Gallo.   Chad Pinder scores.    Starling Marte scores.    Matt Olson to 2nd.  Throwing error by left fielder Joey Gallo.,1,0,1,2,7,0.38,0.71
-623,2021-08-27,621566,543037,strikeout,swinging_strike,11,Matt Olson strikes out swinging.,3,2,1,7,1,-1.05,3.34
-624,2021-08-27,621566,570257,,ball,13,Matt Olson singles on a ground ball to left fielder Joey Gallo.   Chad Pinder scores.    Starling Marte scores.    Matt Olson to 2nd.  Throwing error by left fielder Joey Gallo.,0,0,1,1,7,-0.33,1.48
+623,2021-08-27,621566,570257,,ball,13,Matt Olson singles on a ground ball to left fielder Joey Gallo.   Chad Pinder scores.    Starling Marte scores.    Matt Olson to 2nd.  Throwing error by left fielder Joey Gallo.,0,0,1,1,7,-0.33,1.48
+624,2021-08-27,621566,543037,strikeout,swinging_strike,11,Matt Olson strikes out swinging.,3,2,1,7,1,-1.05,3.34
 625,2021-08-27,621566,543037,,ball,11,Matt Olson strikes out swinging.,2,2,1,6,1,-0.84,4.02
 626,2021-08-27,621566,543037,,foul,9,Matt Olson strikes out swinging.,2,2,1,5,1,0.74,2.14
 627,2021-08-27,621566,543037,,ball,11,Matt Olson strikes out swinging.,1,2,1,4,1,-1.74,3.23
@@ -642,10 +642,10 @@
 640,2021-08-26,621566,656061,,ball,14,Matt Olson strikes out swinging.,1,2,0,4,5,1.27,2.31
 641,2021-08-26,621566,547973,,ball,12,"Matt Olson grounds out, second baseman Rougned Odor to first baseman DJ LeMahieu.",2,1,2,4,9,1.61,3.68
 642,2021-08-26,621566,656061,,ball,14,Matt Olson strikes out swinging.,0,2,0,3,5,1.46,0.31
-643,2021-08-26,621566,547973,,foul,5,"Matt Olson grounds out, second baseman Rougned Odor to first baseman DJ LeMahieu.",2,0,2,3,9,0.05,2.37
-644,2021-08-26,621566,656061,,called_strike,7,Matt Olson strikes out swinging.,0,1,0,2,5,-0.45,1.5
-645,2021-08-26,621566,656061,,called_strike,9,Matt Olson strikes out swinging.,0,0,0,1,5,0.34,2.18
-646,2021-08-26,621566,547973,,ball,12,"Matt Olson grounds out, second baseman Rougned Odor to first baseman DJ LeMahieu.",1,0,2,2,9,0.98,2.8
+643,2021-08-26,621566,656061,,called_strike,7,Matt Olson strikes out swinging.,0,1,0,2,5,-0.45,1.5
+644,2021-08-26,621566,547973,,foul,5,"Matt Olson grounds out, second baseman Rougned Odor to first baseman DJ LeMahieu.",2,0,2,3,9,0.05,2.37
+645,2021-08-26,621566,547973,,ball,12,"Matt Olson grounds out, second baseman Rougned Odor to first baseman DJ LeMahieu.",1,0,2,2,9,0.98,2.8
+646,2021-08-26,621566,656061,,called_strike,9,Matt Olson strikes out swinging.,0,0,0,1,5,0.34,2.18
 647,2021-08-26,621566,592791,field_out,hit_into_play,2,Matt Olson flies out to left fielder Joey Gallo.,1,0,2,2,1,0.23,3.02
 648,2021-08-26,621566,547973,,blocked_ball,13,"Matt Olson grounds out, second baseman Rougned Odor to first baseman DJ LeMahieu.",0,0,2,1,9,-0.87,0.38
 649,2021-08-26,621566,592791,,ball,13,Matt Olson flies out to left fielder Joey Gallo.,0,0,2,1,1,-0.85,1.34
@@ -742,11 +742,11 @@
 740,2021-08-19,621566,656302,,foul,1,Matt Olson strikes out swinging.,0,0,0,1,4,-0.4,3.42
 741,2021-08-19,621566,614179,walk,ball,14,Matt Olson walks.,3,1,2,5,9,0.29,1.29
 742,2021-08-19,621566,656629,home_run,hit_into_play,6,Matt Olson homers (31) on a fly ball to right field.    Elvis Andrus scores.,0,1,2,2,7,0.31,2.51
-743,2021-08-19,621566,656302,field_out,hit_into_play,13,"Matt Olson grounds out, first baseman Andrew Vaughn to pitcher Dylan Cease.",0,1,2,2,1,-1.13,2.32
-744,2021-08-19,621566,656629,,swinging_strike,8,Matt Olson homers (31) on a fly ball to right field.    Elvis Andrus scores.,0,0,2,1,7,0.08,1.92
+743,2021-08-19,621566,656629,,swinging_strike,8,Matt Olson homers (31) on a fly ball to right field.    Elvis Andrus scores.,0,0,2,1,7,0.08,1.92
+744,2021-08-19,621566,656302,field_out,hit_into_play,13,"Matt Olson grounds out, first baseman Andrew Vaughn to pitcher Dylan Cease.",0,1,2,2,1,-1.13,2.32
 745,2021-08-19,621566,614179,,ball,14,Matt Olson walks.,2,1,2,4,9,1.24,2.14
-746,2021-08-19,621566,656302,,called_strike,1,"Matt Olson grounds out, first baseman Andrew Vaughn to pitcher Dylan Cease.",0,0,2,1,1,-0.65,3.43
-747,2021-08-19,621566,614179,,foul,2,Matt Olson walks.,2,0,2,3,9,-0.04,3.16
+746,2021-08-19,621566,614179,,foul,2,Matt Olson walks.,2,0,2,3,9,-0.04,3.16
+747,2021-08-19,621566,656302,,called_strike,1,"Matt Olson grounds out, first baseman Andrew Vaughn to pitcher Dylan Cease.",0,0,2,1,1,-0.65,3.43
 748,2021-08-19,621566,614179,,ball,14,Matt Olson walks.,1,0,2,2,9,1.09,2.48
 749,2021-08-19,621566,614179,,ball,13,Matt Olson walks.,0,0,2,1,9,-0.41,1.2
 750,2021-08-18,621566,458681,walk,ball,13,Matt Olson walks.   Mark Canha to 3rd.    Starling Marte to 2nd.,3,1,0,5,3,-1.58,2.52
@@ -758,14 +758,14 @@
 756,2021-08-18,621566,458681,,foul,14,Matt Olson strikes out swinging.,2,2,0,8,1,1.37,1.89
 757,2021-08-18,621566,458681,,ball,13,Matt Olson strikes out swinging.,1,2,0,7,1,-2.38,1.66
 758,2021-08-18,621566,458681,,foul,13,Matt Olson strikes out swinging.,1,2,0,6,1,-1.35,2.06
-759,2021-08-18,621566,458681,,foul,13,Matt Olson strikes out swinging.,1,2,0,5,1,-1.24,2.57
-760,2021-08-18,621566,521230,strikeout,swinging_strike,6,Matt Olson strikes out swinging.,2,2,1,5,9,0.42,2.75
+759,2021-08-18,621566,521230,strikeout,swinging_strike,6,Matt Olson strikes out swinging.,2,2,1,5,9,0.42,2.75
+760,2021-08-18,621566,458681,,foul,13,Matt Olson strikes out swinging.,1,2,0,5,1,-1.24,2.57
 761,2021-08-18,621566,521230,,ball,11,Matt Olson strikes out swinging.,1,2,1,4,9,-0.04,5.26
 762,2021-08-18,621566,458681,,foul,12,Matt Olson strikes out swinging.,1,2,0,4,1,0.91,2.79
 763,2021-08-18,621566,521230,,ball,11,Matt Olson strikes out swinging.,0,2,1,3,9,-1.35,3.68
 764,2021-08-18,621566,458681,,ball,13,Matt Olson strikes out swinging.,0,2,0,3,1,-2.89,1.99
-765,2021-08-18,621566,458681,,foul,6,Matt Olson strikes out swinging.,0,1,0,2,1,0.48,2.91
-766,2021-08-18,621566,521230,,foul,3,Matt Olson strikes out swinging.,0,1,1,2,9,0.35,3.42
+765,2021-08-18,621566,521230,,foul,3,Matt Olson strikes out swinging.,0,1,1,2,9,0.35,3.42
+766,2021-08-18,621566,458681,,foul,6,Matt Olson strikes out swinging.,0,1,0,2,1,0.48,2.91
 767,2021-08-18,621566,458681,,called_strike,4,Matt Olson strikes out swinging.,0,0,0,1,1,-0.33,2.39
 768,2021-08-18,621566,521230,,called_strike,4,Matt Olson strikes out swinging.,0,0,1,1,9,-0.65,2.42
 769,2021-08-18,621566,676979,walk,ball,13,Matt Olson walks.,3,2,1,7,5,-0.66,0.92
@@ -773,12 +773,12 @@
 771,2021-08-18,621566,676979,,ball,13,Matt Olson walks.,2,2,1,5,5,-1.51,1.47
 772,2021-08-18,621566,676979,,ball,13,Matt Olson walks.,1,2,1,4,5,-1.7,1.81
 773,2021-08-18,621566,607481,strikeout,swinging_strike,13,Matt Olson strikes out swinging.,1,2,1,5,7,-2.07,1.19
-774,2021-08-18,621566,607481,,ball,13,Matt Olson strikes out swinging.,0,2,1,4,7,-2.24,2.22
-775,2021-08-18,621566,676979,,foul,6,Matt Olson walks.,1,1,1,3,5,0.56,2.59
+774,2021-08-18,621566,676979,,foul,6,Matt Olson walks.,1,1,1,3,5,0.56,2.59
+775,2021-08-18,621566,607481,,ball,13,Matt Olson strikes out swinging.,0,2,1,4,7,-2.24,2.22
 776,2021-08-18,621566,676979,,foul,4,Matt Olson walks.,1,0,1,2,5,-0.35,2.93
 777,2021-08-18,621566,607481,,foul,5,Matt Olson strikes out swinging.,0,2,1,3,7,-0.22,2.37
-778,2021-08-18,621566,607481,,called_strike,11,Matt Olson strikes out swinging.,0,1,1,2,7,-0.86,2.92
-779,2021-08-18,621566,676979,,ball,12,Matt Olson walks.,0,0,1,1,5,0.88,4.19
+778,2021-08-18,621566,676979,,ball,12,Matt Olson walks.,0,0,1,1,5,0.88,4.19
+779,2021-08-18,621566,607481,,called_strike,11,Matt Olson strikes out swinging.,0,1,1,2,7,-0.86,2.92
 780,2021-08-18,621566,607481,,foul,2,Matt Olson strikes out swinging.,0,0,1,1,7,-0.06,3.04
 781,2021-08-17,621566,625643,strikeout,called_strike,1,Matt Olson called out on strikes.,0,2,1,3,4,-0.78,2.92
 782,2021-08-17,621566,625643,,swinging_strike,1,Matt Olson called out on strikes.,0,1,1,2,4,-0.78,3.32
@@ -846,14 +846,14 @@
 844,2021-08-13,621566,669618,,foul,1,"Matt Olson grounds out, second baseman Andy Ibanez to first baseman Nathaniel Lowe.",1,0,2,2,9,-0.32,3.14
 845,2021-08-13,621566,669618,,ball,3,"Matt Olson grounds out, second baseman Andy Ibanez to first baseman Nathaniel Lowe.",0,0,2,1,9,0.68,3.77
 846,2021-08-13,621566,641540,walk,blocked_ball,14,Matt Olson walks.,3,2,2,6,1,1.81,0.57
-847,2021-08-13,621566,622250,home_run,hit_into_play,8,Matt Olson homers (29) on a line drive to right center field.,1,0,2,2,7,0.16,2.26
-848,2021-08-13,621566,641540,,ball,13,Matt Olson walks.,2,2,2,5,1,-0.77,0.53
-849,2021-08-13,621566,641540,,ball,14,Matt Olson walks.,1,2,2,4,1,1.04,2.34
-850,2021-08-13,621566,622250,,ball,14,Matt Olson homers (29) on a line drive to right center field.,0,0,2,1,7,0.47,0.65
+847,2021-08-13,621566,641540,,ball,13,Matt Olson walks.,2,2,2,5,1,-0.77,0.53
+848,2021-08-13,621566,622250,home_run,hit_into_play,8,Matt Olson homers (29) on a line drive to right center field.,1,0,2,2,7,0.16,2.26
+849,2021-08-13,621566,622250,,ball,14,Matt Olson homers (29) on a line drive to right center field.,0,0,2,1,7,0.47,0.65
+850,2021-08-13,621566,641540,,ball,14,Matt Olson walks.,1,2,2,4,1,1.04,2.34
 851,2021-08-13,621566,641540,,foul,7,Matt Olson walks.,1,1,2,3,1,-0.34,2.24
 852,2021-08-13,621566,642701,walk,ball,11,Matt Olson walks.   Tony Kemp to 3rd.    Starling Marte to 2nd.,3,2,2,7,5,-1.19,3.26
-853,2021-08-13,621566,641540,,ball,14,Matt Olson walks.,0,1,2,2,1,0.25,0.61
-854,2021-08-13,621566,642701,,foul,9,Matt Olson walks.   Tony Kemp to 3rd.    Starling Marte to 2nd.,3,2,2,6,5,0.37,1.94
+853,2021-08-13,621566,642701,,foul,9,Matt Olson walks.   Tony Kemp to 3rd.    Starling Marte to 2nd.,3,2,2,6,5,0.37,1.94
+854,2021-08-13,621566,641540,,ball,14,Matt Olson walks.,0,1,2,2,1,0.25,0.61
 855,2021-08-13,621566,642701,,ball,11,Matt Olson walks.   Tony Kemp to 3rd.    Starling Marte to 2nd.,2,2,2,5,5,-1.58,4.21
 856,2021-08-13,621566,641540,,called_strike,4,Matt Olson walks.,0,0,2,1,1,-0.57,2.49
 857,2021-08-13,621566,642701,,foul,4,Matt Olson walks.   Tony Kemp to 3rd.    Starling Marte to 2nd.,2,1,2,4,5,-0.62,2.5
@@ -868,8 +868,8 @@
 866,2021-08-12,621566,660906,,ball,13,Matt Olson singles on a ground ball to center fielder Myles Straw.   Matt Chapman scores.    Elvis Andrus scores.    Starling Marte to 3rd.,1,2,2,5,5,-1.74,2.55
 867,2021-08-12,621566,660906,,foul,11,Matt Olson singles on a ground ball to center fielder Myles Straw.   Matt Chapman scores.    Elvis Andrus scores.    Starling Marte to 3rd.,1,2,2,4,5,-0.88,2.63
 868,2021-08-12,621566,660906,,foul,4,Matt Olson singles on a ground ball to center fielder Myles Straw.   Matt Chapman scores.    Elvis Andrus scores.    Starling Marte to 3rd.,1,1,2,3,5,-0.48,2.66
-869,2021-08-12,621566,669212,field_out,hit_into_play,7,Matt Olson flies out to center fielder Myles Straw.,2,2,2,5,1,-0.66,2.17
-870,2021-08-12,621566,660906,,ball,11,Matt Olson singles on a ground ball to center fielder Myles Straw.   Matt Chapman scores.    Elvis Andrus scores.    Starling Marte to 3rd.,0,1,2,2,5,-1.16,2.87
+869,2021-08-12,621566,660906,,ball,11,Matt Olson singles on a ground ball to center fielder Myles Straw.   Matt Chapman scores.    Elvis Andrus scores.    Starling Marte to 3rd.,0,1,2,2,5,-1.16,2.87
+870,2021-08-12,621566,669212,field_out,hit_into_play,7,Matt Olson flies out to center fielder Myles Straw.,2,2,2,5,1,-0.66,2.17
 871,2021-08-12,621566,669212,,swinging_strike,12,Matt Olson flies out to center fielder Myles Straw.,2,1,2,4,1,1.04,2.64
 872,2021-08-12,621566,660906,,called_strike,8,Matt Olson singles on a ground ball to center fielder Myles Straw.   Matt Chapman scores.    Elvis Andrus scores.    Starling Marte to 3rd.,0,0,2,1,5,-0.16,2.34
 873,2021-08-12,621566,669212,,called_strike,2,Matt Olson flies out to center fielder Myles Straw.,2,0,2,3,1,0.15,3.28
@@ -889,10 +889,10 @@
 887,2021-08-11,621566,615698,,ball,1,Matt Olson flies out to left fielder Oscar Mercado.,0,0,2,1,3,-0.77,3.45
 888,2021-08-11,621566,615698,walk,ball,11,Matt Olson walks.,3,2,2,6,1,-0.38,4.2
 889,2021-08-11,621566,615698,,foul,1,Matt Olson walks.,3,1,2,5,1,-0.82,3.47
-890,2021-08-11,621566,680704,,foul,2,Matt Olson called out on strikes.,1,0,0,2,8,-0.19,3.46
-891,2021-08-11,621566,615698,,ball,11,Matt Olson walks.,2,1,2,4,1,-1.15,3.05
-892,2021-08-11,621566,615698,,swinging_strike,1,Matt Olson walks.,2,0,2,3,1,-0.77,3.31
-893,2021-08-11,621566,680704,,ball,13,Matt Olson called out on strikes.,0,0,0,1,8,-1.4,2.33
+890,2021-08-11,621566,615698,,ball,11,Matt Olson walks.,2,1,2,4,1,-1.15,3.05
+891,2021-08-11,621566,680704,,foul,2,Matt Olson called out on strikes.,1,0,0,2,8,-0.19,3.46
+892,2021-08-11,621566,680704,,ball,13,Matt Olson called out on strikes.,0,0,0,1,8,-1.4,2.33
+893,2021-08-11,621566,615698,,swinging_strike,1,Matt Olson walks.,2,0,2,3,1,-0.77,3.31
 894,2021-08-11,621566,615698,,ball,12,Matt Olson walks.,1,0,2,2,1,0.1,4.31
 895,2021-08-11,621566,615698,,ball,1,Matt Olson walks.,0,0,2,1,1,-0.63,3.67
 896,2021-08-11,621566,663986,strikeout,called_strike,7,Matt Olson called out on strikes.,1,2,0,4,8,-0.67,2.12
@@ -906,16 +906,16 @@
 904,2021-08-10,621566,663474,,called_strike,5,Matt Olson singles on a line drive to left fielder Harold Ramirez.,0,0,2,1,3,-0.06,2.58
 905,2021-08-10,621566,675916,single,hit_into_play,6,Matt Olson singles on a sharp ground ball to right fielder Oscar Mercado.   Starling Marte to 3rd.    Matt Olson to 2nd.,3,1,1,5,8,0.39,2.35
 906,2021-08-10,621566,663474,field_out,hit_into_play,8,"Matt Olson grounds out sharply, second baseman Ernie Clement to first baseman Owen Miller.",1,2,2,4,1,0.16,1.81
-907,2021-08-10,621566,663474,,ball,14,"Matt Olson grounds out sharply, second baseman Ernie Clement to first baseman Owen Miller.",0,2,2,3,1,1.07,1.71
-908,2021-08-10,621566,675916,,foul,1,Matt Olson singles on a sharp ground ball to right fielder Oscar Mercado.   Starling Marte to 3rd.    Matt Olson to 2nd.,3,0,1,4,8,-0.32,3.0
+907,2021-08-10,621566,675916,,foul,1,Matt Olson singles on a sharp ground ball to right fielder Oscar Mercado.   Starling Marte to 3rd.    Matt Olson to 2nd.,3,0,1,4,8,-0.32,3.0
+908,2021-08-10,621566,663474,,ball,14,"Matt Olson grounds out sharply, second baseman Ernie Clement to first baseman Owen Miller.",0,2,2,3,1,1.07,1.71
 909,2021-08-10,621566,675916,,ball,12,Matt Olson singles on a sharp ground ball to right fielder Oscar Mercado.   Starling Marte to 3rd.    Matt Olson to 2nd.,2,0,1,3,8,0.39,4.0
-910,2021-08-10,621566,621295,,ball,13,Nick Wittgren intentionally walks Matt Olson.,2,0,2,3,10,-0.18,1.26
-911,2021-08-10,621566,663474,,foul,9,"Matt Olson grounds out sharply, second baseman Ernie Clement to first baseman Owen Miller.",0,1,2,2,1,0.45,1.6
+910,2021-08-10,621566,663474,,foul,9,"Matt Olson grounds out sharply, second baseman Ernie Clement to first baseman Owen Miller.",0,1,2,2,1,0.45,1.6
+911,2021-08-10,621566,621295,,ball,13,Nick Wittgren intentionally walks Matt Olson.,2,0,2,3,10,-0.18,1.26
 912,2021-08-10,621566,675916,,ball,3,Matt Olson singles on a sharp ground ball to right fielder Oscar Mercado.   Starling Marte to 3rd.    Matt Olson to 2nd.,1,0,1,2,8,0.57,3.59
-913,2021-08-10,621566,621295,,ball,14,Nick Wittgren intentionally walks Matt Olson.,1,0,2,2,10,0.96,2.16
-914,2021-08-10,621566,663474,,called_strike,8,"Matt Olson grounds out sharply, second baseman Ernie Clement to first baseman Owen Miller.",0,0,2,1,1,0.07,1.86
-915,2021-08-10,621566,621295,,ball,12,Nick Wittgren intentionally walks Matt Olson.,0,0,2,1,10,1.19,2.88
-916,2021-08-10,621566,675916,,ball,12,Matt Olson singles on a sharp ground ball to right fielder Oscar Mercado.   Starling Marte to 3rd.    Matt Olson to 2nd.,0,0,1,1,8,0.18,4.19
+913,2021-08-10,621566,663474,,called_strike,8,"Matt Olson grounds out sharply, second baseman Ernie Clement to first baseman Owen Miller.",0,0,2,1,1,0.07,1.86
+914,2021-08-10,621566,621295,,ball,14,Nick Wittgren intentionally walks Matt Olson.,1,0,2,2,10,0.96,2.16
+915,2021-08-10,621566,675916,,ball,12,Matt Olson singles on a sharp ground ball to right fielder Oscar Mercado.   Starling Marte to 3rd.    Matt Olson to 2nd.,0,0,1,1,8,0.18,4.19
+916,2021-08-10,621566,621295,,ball,12,Nick Wittgren intentionally walks Matt Olson.,0,0,2,1,10,1.19,2.88
 917,2021-08-08,621566,543475,walk,ball,11,Matt Olson walks.   Mark Canha to 3rd.    Starling Marte to 2nd.,3,1,1,5,4,-0.62,3.71
 918,2021-08-08,621566,543475,,ball,11,Matt Olson walks.   Mark Canha to 3rd.    Starling Marte to 2nd.,2,1,1,4,4,-1.19,4.52
 919,2021-08-08,621566,543475,,blocked_ball,14,Matt Olson walks.   Mark Canha to 3rd.    Starling Marte to 2nd.,1,1,1,3,4,0.01,0.74
@@ -946,17 +946,17 @@
 944,2021-08-07,621566,623454,,ball,7,Matt Olson flies out to left fielder Charlie Culberson.,1,0,1,2,1,-0.41,1.77
 945,2021-08-07,621566,623454,,ball,14,Matt Olson flies out to left fielder Charlie Culberson.,0,0,1,1,1,0.24,0.76
 946,2021-08-07,621566,605194,single,hit_into_play,13,Matt Olson singles on a ground ball to center fielder Jason Martin.,2,2,0,5,4,-0.47,1.47
-947,2021-08-07,621566,605194,,foul,11,Matt Olson singles on a ground ball to center fielder Jason Martin.,2,1,0,4,4,-0.91,3.11
-948,2021-08-07,621566,622250,single,hit_into_play,5,Matt Olson singles on a ground ball to center fielder Jason Martin.,1,2,0,4,7,-0.24,2.66
+947,2021-08-07,621566,622250,single,hit_into_play,5,Matt Olson singles on a ground ball to center fielder Jason Martin.,1,2,0,4,7,-0.24,2.66
+948,2021-08-07,621566,605194,,foul,11,Matt Olson singles on a ground ball to center fielder Jason Martin.,2,1,0,4,4,-0.91,3.11
 949,2021-08-07,621566,622250,,foul,2,Matt Olson singles on a ground ball to center fielder Jason Martin.,1,1,0,3,7,-0.08,3.18
-950,2021-08-07,621566,663770,single,hit_into_play,7,Matt Olson singles on a sharp line drive to center fielder Jason Martin.,1,1,0,3,5,-0.42,1.95
-951,2021-08-07,621566,605194,,ball,11,Matt Olson singles on a ground ball to center fielder Jason Martin.,1,1,0,3,4,-0.85,3.81
-952,2021-08-07,621566,622250,,swinging_strike,14,Matt Olson singles on a ground ball to center fielder Jason Martin.,1,0,0,2,7,0.79,1.1
-953,2021-08-07,621566,663770,,foul,14,Matt Olson singles on a sharp line drive to center fielder Jason Martin.,1,0,0,2,5,0.99,2.03
-954,2021-08-07,621566,605194,,ball,14,Matt Olson singles on a ground ball to center fielder Jason Martin.,0,1,0,2,4,2.01,0.83
+950,2021-08-07,621566,605194,,ball,11,Matt Olson singles on a ground ball to center fielder Jason Martin.,1,1,0,3,4,-0.85,3.81
+951,2021-08-07,621566,663770,single,hit_into_play,7,Matt Olson singles on a sharp line drive to center fielder Jason Martin.,1,1,0,3,5,-0.42,1.95
+952,2021-08-07,621566,663770,,foul,14,Matt Olson singles on a sharp line drive to center fielder Jason Martin.,1,0,0,2,5,0.99,2.03
+953,2021-08-07,621566,605194,,ball,14,Matt Olson singles on a ground ball to center fielder Jason Martin.,0,1,0,2,4,2.01,0.83
+954,2021-08-07,621566,622250,,swinging_strike,14,Matt Olson singles on a ground ball to center fielder Jason Martin.,1,0,0,2,7,0.79,1.1
 955,2021-08-07,621566,663770,,ball,13,Matt Olson singles on a sharp line drive to center fielder Jason Martin.,0,0,0,1,5,-1.09,2.33
-956,2021-08-07,621566,605194,,called_strike,1,Matt Olson singles on a ground ball to center fielder Jason Martin.,0,0,0,1,4,-0.4,3.48
-957,2021-08-07,621566,622250,,ball,14,Matt Olson singles on a ground ball to center fielder Jason Martin.,0,0,0,1,7,1.05,2.19
+956,2021-08-07,621566,622250,,ball,14,Matt Olson singles on a ground ball to center fielder Jason Martin.,0,0,0,1,7,1.05,2.19
+957,2021-08-07,621566,605194,,called_strike,1,Matt Olson singles on a ground ball to center fielder Jason Martin.,0,0,0,1,4,-0.4,3.48
 958,2021-08-06,621566,592314,grounded_into_double_play,hit_into_play,8,"Matt Olson grounds into a double play, second baseman Yonny Hernandez to shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.   Starling Marte out at 2nd.    Matt Olson out at 1st.",3,2,0,7,6,-0.06,1.62
 959,2021-08-06,621566,592314,,ball,13,"Matt Olson grounds into a double play, second baseman Yonny Hernandez to shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.   Starling Marte out at 2nd.    Matt Olson out at 1st.",2,2,0,6,6,-0.06,1.12
 960,2021-08-06,621566,592314,,foul,5,"Matt Olson grounds into a double play, second baseman Yonny Hernandez to shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.   Starling Marte out at 2nd.    Matt Olson out at 1st.",2,2,0,5,6,-0.24,2.57
@@ -991,8 +991,8 @@
 989,2021-08-04,621566,605397,,swinging_strike,8,Matt Olson strikes out swinging.,1,1,1,3,1,-0.16,1.98
 990,2021-08-04,621566,605397,,ball,13,Matt Olson strikes out swinging.,0,1,1,2,1,-1.02,2.22
 991,2021-08-04,621566,519141,field_out,hit_into_play,5,Matt Olson pops out to shortstop Jake Cronenworth.,1,2,2,5,8,-0.07,2.68
-992,2021-08-04,621566,605397,,called_strike,7,Matt Olson strikes out swinging.,0,0,1,1,1,-0.64,2.15
-993,2021-08-04,621566,519141,,ball,14,Matt Olson pops out to shortstop Jake Cronenworth.,0,2,2,4,8,0.02,0.81
+992,2021-08-04,621566,519141,,ball,14,Matt Olson pops out to shortstop Jake Cronenworth.,0,2,2,4,8,0.02,0.81
+993,2021-08-04,621566,605397,,called_strike,7,Matt Olson strikes out swinging.,0,0,1,1,1,-0.64,2.15
 994,2021-08-04,621566,519141,,foul,1,Matt Olson pops out to shortstop Jake Cronenworth.,0,2,2,3,8,-0.41,3.6
 995,2021-08-04,621566,519141,,foul,8,Matt Olson pops out to shortstop Jake Cronenworth.,0,1,2,2,8,-0.23,1.69
 996,2021-08-04,621566,519141,,called_strike,8,Matt Olson pops out to shortstop Jake Cronenworth.,0,0,2,1,8,-0.11,2.29
@@ -1025,10 +1025,10 @@
 1023,2021-08-01,621566,448855,field_out,hit_into_play,2,Matt Olson flies out to left fielder Justin Upton.,2,1,0,4,8,0.2,3.69
 1024,2021-08-01,621566,672282,,foul,5,Matt Olson strikes out swinging.  Starling Marte steals (3) 3rd base.,2,0,1,3,1,0.08,2.49
 1025,2021-08-01,621566,448855,,ball,11,Matt Olson flies out to left fielder Justin Upton.,1,1,0,3,8,-0.71,4.1
-1026,2021-08-01,621566,448855,,called_strike,13,Matt Olson flies out to left fielder Justin Upton.,1,0,0,2,8,-0.91,2.57
-1027,2021-08-01,621566,672282,,ball,11,Matt Olson strikes out swinging.  Starling Marte steals (3) 3rd base.,1,0,1,2,1,-1.05,3.07
-1028,2021-08-01,621566,672282,,ball,13,Matt Olson strikes out swinging.  Starling Marte steals (3) 3rd base.,0,0,1,1,1,-1.09,1.7
-1029,2021-08-01,621566,448855,,ball,11,Matt Olson flies out to left fielder Justin Upton.,0,0,0,1,8,-1.66,6.11
+1026,2021-08-01,621566,672282,,ball,11,Matt Olson strikes out swinging.  Starling Marte steals (3) 3rd base.,1,0,1,2,1,-1.05,3.07
+1027,2021-08-01,621566,448855,,called_strike,13,Matt Olson flies out to left fielder Justin Upton.,1,0,0,2,8,-0.91,2.57
+1028,2021-08-01,621566,448855,,ball,11,Matt Olson flies out to left fielder Justin Upton.,0,0,0,1,8,-1.66,6.11
+1029,2021-08-01,621566,672282,,ball,13,Matt Olson strikes out swinging.  Starling Marte steals (3) 3rd base.,0,0,1,1,1,-1.09,1.7
 1030,2021-08-01,621566,572125,,ball,13,Sam Selman intentionally walks Matt Olson.,1,1,2,3,6,-1.8,2.28
 1031,2021-08-01,621566,572125,,ball,13,Sam Selman intentionally walks Matt Olson.,0,1,2,2,6,-1.69,1.38
 1032,2021-08-01,621566,572125,,foul,5,Sam Selman intentionally walks Matt Olson.,0,0,2,1,6,-0.1,2.51
@@ -1064,11 +1064,11 @@
 1062,2021-07-30,621566,663776,,ball,13,Matt Olson walks.,0,0,2,1,3,-1.26,2.08
 1063,2021-07-30,621566,650671,strikeout,swinging_strike,11,Matt Olson strikes out swinging.,2,2,1,5,7,-0.92,3.38
 1064,2021-07-30,621566,663776,field_out,hit_into_play,12,"Matt Olson grounds out softly, second baseman David Fletcher to first baseman Phil Gosselin.",0,1,2,2,1,1.06,2.95
-1065,2021-07-30,621566,663776,,called_strike,6,"Matt Olson grounds out softly, second baseman David Fletcher to first baseman Phil Gosselin.",0,0,2,1,1,0.46,2.87
-1066,2021-07-30,621566,448855,field_out,hit_into_play,3,Matt Olson flies out to right fielder Adam Eaton.,0,1,2,2,9,0.54,3.57
+1065,2021-07-30,621566,448855,field_out,hit_into_play,3,Matt Olson flies out to right fielder Adam Eaton.,0,1,2,2,9,0.54,3.57
+1066,2021-07-30,621566,663776,,called_strike,6,"Matt Olson grounds out softly, second baseman David Fletcher to first baseman Phil Gosselin.",0,0,2,1,1,0.46,2.87
 1067,2021-07-30,621566,650671,,ball,11,Matt Olson strikes out swinging.,1,2,1,4,7,-0.77,3.86
-1068,2021-07-30,621566,650671,,called_strike,6,Matt Olson strikes out swinging.,1,1,1,3,7,0.76,2.55
-1069,2021-07-30,621566,448855,,swinging_strike,2,Matt Olson flies out to right fielder Adam Eaton.,0,0,2,1,9,-0.14,3.26
+1068,2021-07-30,621566,448855,,swinging_strike,2,Matt Olson flies out to right fielder Adam Eaton.,0,0,2,1,9,-0.14,3.26
+1069,2021-07-30,621566,650671,,called_strike,6,Matt Olson strikes out swinging.,1,1,1,3,7,0.76,2.55
 1070,2021-07-30,621566,650671,,called_strike,8,Matt Olson strikes out swinging.,1,0,1,2,7,0.05,2.15
 1071,2021-07-30,621566,650671,,ball,13,Matt Olson strikes out swinging.,0,0,1,1,7,-0.98,1.23
 1072,2021-07-29,621566,500779,hit_by_pitch,hit_by_pitch,12,Matt Olson hit by pitch.,1,2,2,5,7,2.45,3.59
@@ -1108,12 +1108,12 @@
 1106,2021-07-28,621566,605483,,ball,12,Matt Olson walks.,2,2,1,7,1,0.33,4.55
 1107,2021-07-28,621566,613534,strikeout,swinging_strike,5,Matt Olson strikes out swinging.,1,2,1,4,8,0.1,2.33
 1108,2021-07-28,621566,605483,,blocked_ball,13,Matt Olson walks.,1,2,1,6,1,-0.74,0.4
-1109,2021-07-28,621566,605483,,foul,4,Matt Olson walks.,1,2,1,5,1,-0.52,2.53
-1110,2021-07-28,621566,613534,,foul,5,Matt Olson strikes out swinging.,1,1,1,3,8,-0.17,2.87
+1109,2021-07-28,621566,613534,,foul,5,Matt Olson strikes out swinging.,1,1,1,3,8,-0.17,2.87
+1110,2021-07-28,621566,605483,,foul,4,Matt Olson walks.,1,2,1,5,1,-0.52,2.53
 1111,2021-07-28,621566,613534,,foul,14,Matt Olson strikes out swinging.,1,0,1,2,8,1.01,2.18
 1112,2021-07-28,621566,605483,,ball,12,Matt Olson walks.,0,2,1,4,1,1.03,3.39
-1113,2021-07-28,621566,613534,,ball,14,Matt Olson strikes out swinging.,0,0,1,1,8,0.95,2.48
-1114,2021-07-28,621566,605483,,foul,3,Matt Olson walks.,0,2,1,3,1,0.5,3.08
+1113,2021-07-28,621566,605483,,foul,3,Matt Olson walks.,0,2,1,3,1,0.5,3.08
+1114,2021-07-28,621566,613534,,ball,14,Matt Olson strikes out swinging.,0,0,1,1,8,0.95,2.48
 1115,2021-07-28,621566,605483,,foul_tip,4,Matt Olson walks.,0,1,1,2,1,-0.33,2.47
 1116,2021-07-28,621566,605483,,called_strike,3,Matt Olson walks.,0,0,1,1,1,0.32,3.57
 1117,2021-07-28,621566,622503,double,hit_into_play,4,Matt Olson doubles (24) on a line drive to center fielder Jurickson Profar.,2,2,0,6,7,-0.66,2.33
@@ -1160,13 +1160,13 @@
 1158,2021-07-24,621566,669302,strikeout,foul_tip,13,Matt Olson strikes out on a foul tip.,2,2,1,5,1,-0.12,1.5
 1159,2021-07-24,621566,669302,,ball,11,Matt Olson strikes out on a foul tip.,1,2,1,4,1,-1.62,3.86
 1160,2021-07-24,621566,669302,,called_strike,7,Matt Olson strikes out on a foul tip.,1,1,1,3,1,-0.79,2.18
-1161,2021-07-24,621566,664948,field_out,hit_into_play,1,"Matt Olson grounds out, second baseman Dylan Moore to first baseman Ty France.   Mark Canha to 3rd.",1,2,1,5,5,-0.56,3.6
-1162,2021-07-24,621566,669302,,foul,1,Matt Olson strikes out on a foul tip.,1,0,1,2,1,-0.46,3.09
+1161,2021-07-24,621566,669302,,foul,1,Matt Olson strikes out on a foul tip.,1,0,1,2,1,-0.46,3.09
+1162,2021-07-24,621566,664948,field_out,hit_into_play,1,"Matt Olson grounds out, second baseman Dylan Moore to first baseman Ty France.   Mark Canha to 3rd.",1,2,1,5,5,-0.56,3.6
 1163,2021-07-24,621566,664948,,foul,11,"Matt Olson grounds out, second baseman Dylan Moore to first baseman Ty France.   Mark Canha to 3rd.",1,2,1,4,5,-1.08,2.82
 1164,2021-07-24,621566,669302,,ball,11,Matt Olson strikes out on a foul tip.,0,0,1,1,1,-1.46,2.43
 1165,2021-07-24,621566,664948,,ball,13,"Matt Olson grounds out, second baseman Dylan Moore to first baseman Ty France.   Mark Canha to 3rd.",0,2,1,3,5,-1.54,1.67
-1166,2021-07-24,621566,623149,strikeout,called_strike,6,Matt Olson called out on strikes.,3,2,0,6,8,0.71,2.73
-1167,2021-07-24,621566,664948,,swinging_strike,13,"Matt Olson grounds out, second baseman Dylan Moore to first baseman Ty France.   Mark Canha to 3rd.",0,1,1,2,5,-1.19,1.65
+1166,2021-07-24,621566,664948,,swinging_strike,13,"Matt Olson grounds out, second baseman Dylan Moore to first baseman Ty France.   Mark Canha to 3rd.",0,1,1,2,5,-1.19,1.65
+1167,2021-07-24,621566,623149,strikeout,called_strike,6,Matt Olson called out on strikes.,3,2,0,6,8,0.71,2.73
 1168,2021-07-24,621566,664948,,swinging_strike,13,"Matt Olson grounds out, second baseman Dylan Moore to first baseman Ty France.   Mark Canha to 3rd.",0,0,1,1,5,-0.8,1.49
 1169,2021-07-24,621566,623149,,ball,11,Matt Olson called out on strikes.,2,2,0,5,8,-1.49,4.02
 1170,2021-07-24,621566,623149,,swinging_strike,12,Matt Olson called out on strikes.,2,1,0,4,8,0.04,3.7
@@ -1195,10 +1195,10 @@
 1193,2021-07-22,621566,623167,,foul,6,Matt Olson flies out to second baseman Dylan Moore.,1,0,0,2,4,0.43,2.48
 1194,2021-07-22,621566,623167,,ball,1,Matt Olson flies out to second baseman Dylan Moore.,0,0,0,1,4,-0.62,3.72
 1195,2021-07-22,621566,606160,sac_fly,hit_into_play,5,Matt Olson out on a sacrifice fly to right fielder Mitch Haniger.   Seth Brown scores.    Mark Canha to 3rd.,0,0,1,1,8,0.11,2.45
-1196,2021-07-22,621566,608716,walk,ball,14,Matt Olson walks.,3,2,1,7,7,0.34,1.1
-1197,2021-07-22,621566,623167,field_out,hit_into_play,4,Matt Olson flies out to shortstop J.  P. Crawford.,2,0,1,3,1,-0.79,2.87
-1198,2021-07-22,621566,608716,,ball,13,Matt Olson walks.,2,2,1,6,7,-1.12,1.35
-1199,2021-07-22,621566,623167,,ball,13,Matt Olson flies out to shortstop J.  P. Crawford.,1,0,1,2,1,-0.84,1.78
+1196,2021-07-22,621566,623167,field_out,hit_into_play,4,Matt Olson flies out to shortstop J.  P. Crawford.,2,0,1,3,1,-0.79,2.87
+1197,2021-07-22,621566,608716,walk,ball,14,Matt Olson walks.,3,2,1,7,7,0.34,1.1
+1198,2021-07-22,621566,623167,,ball,13,Matt Olson flies out to shortstop J.  P. Crawford.,1,0,1,2,1,-0.84,1.78
+1199,2021-07-22,621566,608716,,ball,13,Matt Olson walks.,2,2,1,6,7,-1.12,1.35
 1200,2021-07-22,621566,608716,,foul,3,Matt Olson walks.,2,2,1,5,7,0.29,3.16
 1201,2021-07-22,621566,623167,,ball,13,Matt Olson flies out to shortstop J.  P. Crawford.,0,0,1,1,1,-0.65,1.19
 1202,2021-07-22,621566,608716,,ball,14,Matt Olson walks.,1,2,1,4,7,1.18,0.46
@@ -1294,8 +1294,8 @@
 1292,2021-07-16,621566,669212,,ball,11,Matt Olson strikes out swinging.,0,0,1,1,1,-0.41,4.33
 1293,2021-07-16,621566,543766,,foul,7,Matt Olson doubles (22) on a line drive to center fielder Bradley Zimmer.,1,2,1,4,7,-0.41,1.98
 1294,2021-07-16,621566,543766,,ball,13,Matt Olson doubles (22) on a line drive to center fielder Bradley Zimmer.,0,2,1,3,7,-0.92,2.32
-1295,2021-07-16,621566,543766,,called_strike,6,Matt Olson doubles (22) on a line drive to center fielder Bradley Zimmer.,0,1,1,2,7,0.38,2.55
-1296,2021-07-16,621566,661403,field_out,hit_into_play,12,Matt Olson lines out to second baseman Cesar Hernandez.,0,0,0,1,9,1.18,2.86
+1295,2021-07-16,621566,661403,field_out,hit_into_play,12,Matt Olson lines out to second baseman Cesar Hernandez.,0,0,0,1,9,1.18,2.86
+1296,2021-07-16,621566,543766,,called_strike,6,Matt Olson doubles (22) on a line drive to center fielder Bradley Zimmer.,0,1,1,2,7,0.38,2.55
 1297,2021-07-16,621566,543766,,called_strike,6,Matt Olson doubles (22) on a line drive to center fielder Bradley Zimmer.,0,0,1,1,7,0.28,2.8
 1298,2021-07-11,621566,663465,home_run,hit_into_play,6,Matt Olson homers (23) on a line drive to right center field.,0,1,1,2,6,0.57,2.62
 1299,2021-07-11,621566,663465,,called_strike,9,Matt Olson homers (23) on a line drive to right center field.,0,0,1,1,6,0.29,2.17
@@ -1304,8 +1304,8 @@
 1302,2021-07-11,621566,663465,,called_strike,6,Matt Olson homers (22) on a fly ball to center field.,1,0,0,2,4,0.35,2.59
 1303,2021-07-11,621566,663465,,ball,13,Matt Olson homers (22) on a fly ball to center field.,0,0,0,1,4,-0.3,0.97
 1304,2021-07-11,621566,663465,field_out,hit_into_play,13,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",3,2,2,7,1,-1.35,1.98
-1305,2021-07-11,621566,622250,field_out,hit_into_play,13,"Matt Olson grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,2,1,8,-0.08,1.55
-1306,2021-07-11,621566,663465,,ball,11,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",2,2,2,6,1,-1.03,2.84
+1305,2021-07-11,621566,663465,,ball,11,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",2,2,2,6,1,-1.03,2.84
+1306,2021-07-11,621566,622250,field_out,hit_into_play,13,"Matt Olson grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,2,1,8,-0.08,1.55
 1307,2021-07-11,621566,663465,,foul,6,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",2,2,2,5,1,0.65,2.97
 1308,2021-07-11,621566,663465,,foul,5,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",2,1,2,4,1,-0.16,2.29
 1309,2021-07-11,621566,663465,,ball,13,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",1,1,2,3,1,-0.96,-0.98
@@ -1343,12 +1343,12 @@
 1341,2021-07-09,621566,543475,,ball,6,Matt Olson doubles (20) on a sharp line drive to right fielder Joey Gallo.   Elvis Andrus to 3rd.,0,0,0,1,4,0.77,2.74
 1342,2021-07-09,621566,543475,field_out,hit_into_play,8,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",3,2,2,8,1,0.05,1.86
 1343,2021-07-09,621566,543475,,foul,2,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",3,2,2,7,1,-0.12,3.37
-1344,2021-07-09,621566,622250,field_out,hit_into_play,5,"Matt Olson grounds out sharply, second baseman Nick Solak to first baseman Andy Ibanez.",1,1,2,3,7,0.05,2.58
-1345,2021-07-09,621566,543475,,foul,1,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",3,2,2,6,1,-0.76,3.4
-1346,2021-07-09,621566,622250,,blocked_ball,14,"Matt Olson grounds out sharply, second baseman Nick Solak to first baseman Andy Ibanez.",0,1,2,2,7,1.31,-0.09
-1347,2021-07-09,621566,543475,,swinging_strike,11,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",3,1,2,5,1,-1.16,2.67
-1348,2021-07-09,621566,543475,,ball,13,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",2,1,2,4,1,-1.23,2.63
-1349,2021-07-09,621566,622250,,swinging_strike,14,"Matt Olson grounds out sharply, second baseman Nick Solak to first baseman Andy Ibanez.",0,0,2,1,7,0.85,1.16
+1344,2021-07-09,621566,543475,,foul,1,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",3,2,2,6,1,-0.76,3.4
+1345,2021-07-09,621566,622250,field_out,hit_into_play,5,"Matt Olson grounds out sharply, second baseman Nick Solak to first baseman Andy Ibanez.",1,1,2,3,7,0.05,2.58
+1346,2021-07-09,621566,543475,,swinging_strike,11,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",3,1,2,5,1,-1.16,2.67
+1347,2021-07-09,621566,622250,,blocked_ball,14,"Matt Olson grounds out sharply, second baseman Nick Solak to first baseman Andy Ibanez.",0,1,2,2,7,1.31,-0.09
+1348,2021-07-09,621566,622250,,swinging_strike,14,"Matt Olson grounds out sharply, second baseman Nick Solak to first baseman Andy Ibanez.",0,0,2,1,7,0.85,1.16
+1349,2021-07-09,621566,543475,,ball,13,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",2,1,2,4,1,-1.23,2.63
 1350,2021-07-09,621566,543475,,ball,13,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",1,1,2,3,1,-1.33,1.3
 1351,2021-07-09,621566,543475,,foul,11,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",1,0,2,2,1,-0.87,2.79
 1352,2021-07-09,621566,543475,,ball,13,"Matt Olson grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",0,0,2,1,1,-1.31,2.04
@@ -1406,8 +1406,8 @@
 1404,2021-07-04,621566,601713,,called_strike,1,Matt Olson walks.,3,0,2,4,1,-0.36,3.26
 1405,2021-07-04,621566,601713,,ball,11,Matt Olson walks.,2,0,2,3,1,-1.53,2.67
 1406,2021-07-04,621566,601713,,ball,11,Matt Olson walks.,1,0,2,2,1,-1.41,3.58
-1407,2021-07-04,621566,598264,single,hit_into_play,1,Matt Olson singles on a sharp ground ball to right fielder Alex Verdugo.,3,2,0,8,9,-0.33,3.41
-1408,2021-07-04,621566,601713,,ball,12,Matt Olson walks.,0,0,2,1,1,0.11,5.1
+1407,2021-07-04,621566,601713,,ball,12,Matt Olson walks.,0,0,2,1,1,0.11,5.1
+1408,2021-07-04,621566,598264,single,hit_into_play,1,Matt Olson singles on a sharp ground ball to right fielder Alex Verdugo.,3,2,0,8,9,-0.33,3.41
 1409,2021-07-04,621566,598264,,ball,14,Matt Olson singles on a sharp ground ball to right fielder Alex Verdugo.,2,2,0,7,9,1.51,0.09
 1410,2021-07-04,621566,598264,,foul,1,Matt Olson singles on a sharp ground ball to right fielder Alex Verdugo.,2,2,0,6,9,-0.32,2.99
 1411,2021-07-04,621566,598264,,ball,14,Matt Olson singles on a sharp ground ball to right fielder Alex Verdugo.,1,2,0,5,9,2.22,2.28
@@ -1472,8 +1472,8 @@
 1470,2021-07-01,621566,641540,walk,ball,11,Matt Olson walks.,3,1,2,5,1,-2.01,2.88
 1471,2021-07-01,621566,667463,field_out,hit_into_play,9,Matt Olson pops out to catcher John Hicks in foul territory.,1,1,2,3,5,0.46,1.96
 1472,2021-07-01,621566,641540,,ball,11,Matt Olson walks.,2,1,2,4,1,-0.94,3.93
-1473,2021-07-01,621566,641540,,ball,13,Matt Olson walks.,1,1,2,3,1,-1.95,2.41
-1474,2021-07-01,621566,667463,,called_strike,3,Matt Olson pops out to catcher John Hicks in foul territory.,1,0,2,2,5,0.38,2.99
+1473,2021-07-01,621566,667463,,called_strike,3,Matt Olson pops out to catcher John Hicks in foul territory.,1,0,2,2,5,0.38,2.99
+1474,2021-07-01,621566,641540,,ball,13,Matt Olson walks.,1,1,2,3,1,-1.95,2.41
 1475,2021-07-01,621566,667463,,ball,14,Matt Olson pops out to catcher John Hicks in foul territory.,0,0,2,1,5,0.52,0.92
 1476,2021-07-01,621566,641540,,ball,11,Matt Olson walks.,0,1,2,2,1,-2.88,2.88
 1477,2021-07-01,621566,641540,,called_strike,7,Matt Olson walks.,0,0,2,1,1,-0.38,2.02
@@ -1574,19 +1574,19 @@
 1572,2021-06-24,621566,605138,,foul,1,Matt Olson walks.,3,2,2,6,9,-0.51,3.05
 1573,2021-06-24,621566,605138,,foul,8,Matt Olson walks.,3,1,2,5,9,-0.01,2.21
 1574,2021-06-24,621566,605138,,called_strike,5,Matt Olson walks.,3,0,2,4,9,0.23,2.38
-1575,2021-06-24,621566,622250,walk,blocked_ball,14,Matt Olson walks.,3,2,1,6,7,0.95,-0.07
-1576,2021-06-24,621566,605138,,ball,13,Matt Olson walks.,2,0,2,3,9,-1.18,1.67
+1575,2021-06-24,621566,605138,,ball,13,Matt Olson walks.,2,0,2,3,9,-1.18,1.67
+1576,2021-06-24,621566,622250,walk,blocked_ball,14,Matt Olson walks.,3,2,1,6,7,0.95,-0.07
 1577,2021-06-24,621566,605138,,ball,13,Matt Olson walks.,1,0,2,2,9,-0.8,-0.89
 1578,2021-06-24,621566,622250,,ball,11,Matt Olson walks.,2,2,1,5,7,-1.38,3.43
-1579,2021-06-24,621566,663465,single,hit_into_play,5,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,3,2,1,6,1,-0.16,2.8
+1579,2021-06-24,621566,605138,,ball,13,Matt Olson walks.,0,0,2,1,9,-0.2,1.36
 1580,2021-06-24,621566,622250,,swinging_strike,13,Matt Olson walks.,2,1,1,4,7,-0.49,1.12
-1581,2021-06-24,621566,605138,,ball,13,Matt Olson walks.,0,0,2,1,9,-0.2,1.36
-1582,2021-06-24,621566,663465,,blocked_ball,13,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,2,2,1,5,1,-1.48,-1.15
-1583,2021-06-24,621566,622250,,swinging_strike,8,Matt Olson walks.,2,0,1,3,7,0.1,1.57
+1581,2021-06-24,621566,663465,single,hit_into_play,5,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,3,2,1,6,1,-0.16,2.8
+1582,2021-06-24,621566,622250,,swinging_strike,8,Matt Olson walks.,2,0,1,3,7,0.1,1.57
+1583,2021-06-24,621566,663465,,blocked_ball,13,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,2,2,1,5,1,-1.48,-1.15
 1584,2021-06-24,621566,622250,,ball,14,Matt Olson walks.,1,0,1,2,7,0.09,1.21
 1585,2021-06-24,621566,663465,,ball,13,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,1,2,1,4,1,-1.76,2.39
-1586,2021-06-24,621566,663465,,ball,12,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,0,2,1,3,1,2.51,6.57
-1587,2021-06-24,621566,622250,,blocked_ball,14,Matt Olson walks.,0,0,1,1,7,0.71,0.79
+1586,2021-06-24,621566,622250,,blocked_ball,14,Matt Olson walks.,0,0,1,1,7,0.71,0.79
+1587,2021-06-24,621566,663465,,ball,12,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,0,2,1,3,1,2.51,6.57
 1588,2021-06-24,621566,663465,,foul,8,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,0,1,1,2,1,0.14,2.1
 1589,2021-06-24,621566,663465,,swinging_strike,4,Matt Olson singles on a sharp line drive to right fielder Joey Gallo.   Matt Chapman to 3rd.,0,0,1,1,1,-0.76,2.74
 1590,2021-06-23,621566,592314,field_out,hit_into_play,13,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",1,2,0,4,6,-0.63,1.39
@@ -1622,8 +1622,8 @@
 1620,2021-06-22,621566,621368,strikeout,swinging_strike,5,Matt Olson strikes out swinging.,1,2,0,4,1,-0.28,2.69
 1621,2021-06-22,621566,621368,,swinging_strike,8,Matt Olson strikes out swinging.,1,1,0,3,1,-0.09,2.06
 1622,2021-06-22,621566,543475,field_out,hit_into_play,4,Matt Olson pops out to third baseman Charlie Culberson.,1,1,1,3,3,-0.63,2.65
-1623,2021-06-22,621566,621368,,called_strike,9,Matt Olson strikes out swinging.,1,0,0,2,1,0.38,2.2
-1624,2021-06-22,621566,543475,,ball,11,Matt Olson pops out to third baseman Charlie Culberson.,0,1,1,2,3,-0.99,3.49
+1623,2021-06-22,621566,543475,,ball,11,Matt Olson pops out to third baseman Charlie Culberson.,0,1,1,2,3,-0.99,3.49
+1624,2021-06-22,621566,621368,,called_strike,9,Matt Olson strikes out swinging.,1,0,0,2,1,0.38,2.2
 1625,2021-06-22,621566,621368,,ball,12,Matt Olson strikes out swinging.,0,0,0,1,1,1.16,3.75
 1626,2021-06-22,621566,543475,,foul,9,Matt Olson pops out to third baseman Charlie Culberson.,0,0,1,1,3,0.54,1.7
 1627,2021-06-22,621566,663770,double,hit_into_play,1,Matt Olson doubles (18) on a line drive to left fielder Willie Calhoun.,3,2,0,8,9,-0.66,3.56
@@ -1641,8 +1641,8 @@
 1639,2021-06-21,621566,502043,,called_strike,7,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",0,1,0,2,4,-0.77,1.71
 1640,2021-06-21,621566,502043,,called_strike,13,"Matt Olson grounds out, third baseman Brock Holt to first baseman Nate Lowe.",0,0,0,1,4,-0.5,1.33
 1641,2021-06-21,621566,502043,walk,ball,13,Matt Olson walks.,3,2,2,7,1,-0.96,1.81
-1642,2021-06-21,621566,656685,field_out,hit_into_play,2,Matt Olson flies out to second baseman Andy Ibanez.,1,2,0,4,7,0.03,3.02
-1643,2021-06-21,621566,502043,,ball,14,Matt Olson walks.,2,2,2,6,1,0.44,0.07
+1642,2021-06-21,621566,502043,,ball,14,Matt Olson walks.,2,2,2,6,1,0.44,0.07
+1643,2021-06-21,621566,656685,field_out,hit_into_play,2,Matt Olson flies out to second baseman Andy Ibanez.,1,2,0,4,7,0.03,3.02
 1644,2021-06-21,621566,502043,,ball,12,Matt Olson walks.,1,2,2,5,1,1.04,3.34
 1645,2021-06-21,621566,656685,,called_strike,4,Matt Olson flies out to second baseman Andy Ibanez.,1,1,0,3,7,-0.39,2.78
 1646,2021-06-21,621566,453178,field_out,hit_into_play,7,"Matt Olson grounds out sharply, third baseman Brock Holt to first baseman Nate Lowe.",0,1,2,2,9,-0.32,2.03
@@ -1660,8 +1660,8 @@
 1658,2021-06-20,621566,656756,,ball,11,Matt Olson singles on a ground ball to left fielder Miguel Andujar.   Mark Canha to 2nd.,1,0,1,2,6,-0.96,2.8
 1659,2021-06-20,621566,656756,,ball,14,Matt Olson singles on a ground ball to left fielder Miguel Andujar.   Mark Canha to 2nd.,0,0,1,1,6,1.19,2.49
 1660,2021-06-20,621566,656756,field_out,hit_into_play,2,Matt Olson flies out sharply to right fielder Clint Frazier.,0,0,2,1,3,0.11,3.3
-1661,2021-06-20,621566,656756,home_run,hit_into_play,5,Matt Olson homers (20) on a fly ball to center field.,1,0,2,2,1,-0.08,2.64
-1662,2021-06-20,621566,476595,strikeout,swinging_strike,8,Matt Olson strikes out swinging.,3,2,1,6,8,0.01,1.97
+1661,2021-06-20,621566,476595,strikeout,swinging_strike,8,Matt Olson strikes out swinging.,3,2,1,6,8,0.01,1.97
+1662,2021-06-20,621566,656756,home_run,hit_into_play,5,Matt Olson homers (20) on a fly ball to center field.,1,0,2,2,1,-0.08,2.64
 1663,2021-06-20,621566,656756,,ball,12,Matt Olson homers (20) on a fly ball to center field.,0,0,2,1,1,0.07,3.99
 1664,2021-06-20,621566,476595,,ball,11,Matt Olson strikes out swinging.,2,2,1,5,8,-1.39,2.91
 1665,2021-06-20,621566,476595,,blocked_ball,13,Matt Olson strikes out swinging.,1,2,1,4,8,-2.36,-0.28
@@ -1672,8 +1672,8 @@
 1670,2021-06-19,621566,641482,single,hit_into_play,2,Matt Olson singles on a ground ball to center fielder Brett Gardner.,2,1,2,4,7,0.14,3.08
 1671,2021-06-19,621566,641482,,called_strike,8,Matt Olson singles on a ground ball to center fielder Brett Gardner.,2,0,2,3,7,0.1,1.59
 1672,2021-06-19,621566,641482,,ball,12,Matt Olson singles on a ground ball to center fielder Brett Gardner.,1,0,2,2,7,1.16,3.57
-1673,2021-06-19,621566,593334,field_out,hit_into_play,4,Matt Olson flies out to left fielder Clint Frazier.,2,0,2,3,3,-0.82,2.49
-1674,2021-06-19,621566,641482,,ball,13,Matt Olson singles on a ground ball to center fielder Brett Gardner.,0,0,2,1,7,-1.5,2.25
+1673,2021-06-19,621566,641482,,ball,13,Matt Olson singles on a ground ball to center fielder Brett Gardner.,0,0,2,1,7,-1.5,2.25
+1674,2021-06-19,621566,593334,field_out,hit_into_play,4,Matt Olson flies out to left fielder Clint Frazier.,2,0,2,3,3,-0.82,2.49
 1675,2021-06-19,621566,593334,,ball,13,Matt Olson flies out to left fielder Clint Frazier.,1,0,2,2,3,-1.66,2.16
 1676,2021-06-19,621566,593334,,ball,13,Matt Olson flies out to left fielder Clint Frazier.,0,0,2,1,3,-0.58,1.22
 1677,2021-06-19,621566,547973,single,hit_into_play,8,"Matt Olson singles on a sharp ground ball to second baseman Tyler Wade, deflected by first baseman DJ LeMahieu.   Mark Canha to 3rd.",0,0,2,1,9,0.02,1.93
@@ -1730,8 +1730,8 @@
 1728,2021-06-15,621566,571760,,ball,12,Matt Olson flies out to left fielder Justin Upton.,0,1,1,2,3,0.52,4.69
 1729,2021-06-15,621566,571760,,swinging_strike,13,Matt Olson flies out to left fielder Justin Upton.,0,0,1,1,3,-0.64,1.42
 1730,2021-06-15,621566,669735,field_out,hit_into_play,5,Matt Olson flies out to right fielder Taylor Ward.,0,2,2,4,7,0.11,2.63
-1731,2021-06-15,621566,571760,field_out,hit_into_play,2,Matt Olson lines out to left fielder Justin Upton.,0,2,1,4,1,-0.03,2.99
-1732,2021-06-15,621566,669735,,foul,13,Matt Olson flies out to right fielder Taylor Ward.,0,2,2,3,7,-1.01,1.55
+1731,2021-06-15,621566,669735,,foul,13,Matt Olson flies out to right fielder Taylor Ward.,0,2,2,3,7,-1.01,1.55
+1732,2021-06-15,621566,571760,field_out,hit_into_play,2,Matt Olson lines out to left fielder Justin Upton.,0,2,1,4,1,-0.03,2.99
 1733,2021-06-15,621566,571760,,foul,2,Matt Olson lines out to left fielder Justin Upton.,0,2,1,3,1,-0.04,3.64
 1734,2021-06-15,621566,669735,,swinging_strike,13,Matt Olson flies out to right fielder Taylor Ward.,0,1,2,2,7,-1.44,2.33
 1735,2021-06-15,621566,571760,,called_strike,5,Matt Olson lines out to left fielder Justin Upton.,0,1,1,2,1,-0.19,2.81
@@ -1785,8 +1785,8 @@
 1783,2021-06-12,621566,672578,single,hit_into_play,8,Matt Olson singles on a sharp line drive to right fielder Hunter Dozier.,3,2,1,6,6,0.12,2.1
 1784,2021-06-12,621566,672578,,ball,11,Matt Olson singles on a sharp line drive to right fielder Hunter Dozier.,2,2,1,5,6,-1.21,3.48
 1785,2021-06-12,621566,663804,,ball,11,Matt Olson singles on a line drive to right fielder Hunter Dozier.   Tony Kemp to 3rd.,1,1,1,3,1,-2.26,3.4
-1786,2021-06-12,621566,672578,,ball,14,Matt Olson singles on a sharp line drive to right fielder Hunter Dozier.,1,2,1,4,6,0.3,-0.9
-1787,2021-06-12,621566,663804,,foul,8,Matt Olson singles on a line drive to right fielder Hunter Dozier.   Tony Kemp to 3rd.,1,0,1,2,1,-0.21,2.19
+1786,2021-06-12,621566,663804,,foul,8,Matt Olson singles on a line drive to right fielder Hunter Dozier.   Tony Kemp to 3rd.,1,0,1,2,1,-0.21,2.19
+1787,2021-06-12,621566,672578,,ball,14,Matt Olson singles on a sharp line drive to right fielder Hunter Dozier.,1,2,1,4,6,0.3,-0.9
 1788,2021-06-12,621566,663804,,ball,11,Matt Olson singles on a line drive to right fielder Hunter Dozier.   Tony Kemp to 3rd.,0,0,1,1,1,-1.3,2.77
 1789,2021-06-12,621566,672578,,ball,12,Matt Olson singles on a sharp line drive to right fielder Hunter Dozier.,0,2,1,3,6,1.59,3.62
 1790,2021-06-12,621566,672578,,foul,4,Matt Olson singles on a sharp line drive to right fielder Hunter Dozier.,0,1,1,2,6,-0.36,2.96
@@ -1910,8 +1910,8 @@
 1908,2021-06-04,621566,592351,double,hit_into_play,2,Matt Olson doubles (14) on a line drive to center fielder Yonathan Daza.   Mark Canha scores.,2,1,1,4,1,0.01,3.37
 1909,2021-06-04,621566,592351,,foul,5,Matt Olson doubles (14) on a line drive to center fielder Yonathan Daza.   Mark Canha scores.,2,0,1,3,1,0.25,2.4
 1910,2021-06-04,621566,592351,,ball,13,Matt Olson doubles (14) on a line drive to center fielder Yonathan Daza.   Mark Canha scores.,1,0,1,2,1,-0.65,1.11
-1911,2021-06-04,621566,641755,strikeout,called_strike,3,Matt Olson called out on strikes.,3,2,0,7,8,0.76,3.1
-1912,2021-06-04,621566,592351,,ball,14,Matt Olson doubles (14) on a line drive to center fielder Yonathan Daza.   Mark Canha scores.,0,0,1,1,1,0.15,1.3
+1911,2021-06-04,621566,592351,,ball,14,Matt Olson doubles (14) on a line drive to center fielder Yonathan Daza.   Mark Canha scores.,0,0,1,1,1,0.15,1.3
+1912,2021-06-04,621566,641755,strikeout,called_strike,3,Matt Olson called out on strikes.,3,2,0,7,8,0.76,3.1
 1913,2021-06-04,621566,641755,,foul,13,Matt Olson called out on strikes.,3,2,0,6,8,-0.18,1.33
 1914,2021-06-04,621566,641755,,ball,14,Matt Olson called out on strikes.,2,2,0,5,8,0.54,1.02
 1915,2021-06-04,621566,641755,,foul,5,Matt Olson called out on strikes.,2,1,0,4,8,0.18,2.88
@@ -1941,8 +1941,8 @@
 1939,2021-06-01,621566,594835,,ball,14,Matt Olson homers (14) on a fly ball to left center field.,0,0,0,1,2,1.54,2.77
 1940,2021-06-01,621566,676684,hit_by_pitch,hit_by_pitch,14,Matt Olson hit by pitch.    Jed Lowrie to 2nd.,0,2,0,3,9,1.41,0.81
 1941,2021-06-01,621566,676684,,foul,2,Matt Olson hit by pitch.    Jed Lowrie to 2nd.,0,1,0,2,9,-0.25,3.1
-1942,2021-06-01,621566,623354,single,hit_into_play,13,Matt Olson singles on a line drive to right fielder Jake Fraley.   Mark Canha scores.    Chad Pinder scores.    Jed Lowrie to 2nd.,1,1,2,3,7,-0.65,1.5
-1943,2021-06-01,621566,676684,,foul,5,Matt Olson hit by pitch.    Jed Lowrie to 2nd.,0,0,0,1,9,0.2,2.84
+1942,2021-06-01,621566,676684,,foul,5,Matt Olson hit by pitch.    Jed Lowrie to 2nd.,0,0,0,1,9,0.2,2.84
+1943,2021-06-01,621566,623354,single,hit_into_play,13,Matt Olson singles on a line drive to right fielder Jake Fraley.   Mark Canha scores.    Chad Pinder scores.    Jed Lowrie to 2nd.,1,1,2,3,7,-0.65,1.5
 1944,2021-06-01,621566,623354,,called_strike,14,Matt Olson singles on a line drive to right fielder Jake Fraley.   Mark Canha scores.    Chad Pinder scores.    Jed Lowrie to 2nd.,1,0,2,2,7,0.84,2.08
 1945,2021-06-01,621566,623354,,ball,7,Matt Olson singles on a line drive to right fielder Jake Fraley.   Mark Canha scores.    Chad Pinder scores.    Jed Lowrie to 2nd.,0,0,2,1,7,-0.8,1.97
 1946,2021-05-31,621566,669302,double,hit_into_play,4,Matt Olson doubles (12) on a sharp line drive to center fielder Kyle Lewis.   Chad Pinder scores.,1,1,2,3,5,-0.29,2.49
@@ -2010,12 +2010,12 @@
 2008,2021-05-27,621566,663776,,ball,12,Matt Olson grounds out to first baseman Jared Walsh.,0,0,2,1,1,1.14,3.45
 2009,2021-05-27,621566,642083,double,hit_into_play,4,Matt Olson doubles (11) on a ground ball to left fielder Justin Upton.,2,1,1,4,6,-0.57,2.34
 2010,2021-05-27,621566,448855,field_out,hit_into_play,6,Matt Olson flies out to left fielder Justin Upton.,2,1,0,4,7,0.68,2.71
-2011,2021-05-27,621566,448855,,ball,14,Matt Olson flies out to left fielder Justin Upton.,1,1,0,3,7,0.65,-0.74
-2012,2021-05-27,621566,642083,,ball,14,Matt Olson doubles (11) on a ground ball to left fielder Justin Upton.,1,1,1,3,6,1.05,2.28
-2013,2021-05-27,621566,642083,,ball,13,Matt Olson doubles (11) on a ground ball to left fielder Justin Upton.,0,1,1,2,6,-0.53,1.42
-2014,2021-05-27,621566,448855,,called_strike,8,Matt Olson flies out to left fielder Justin Upton.,1,0,0,2,7,-0.21,2.19
-2015,2021-05-27,621566,642083,,swinging_strike,2,Matt Olson doubles (11) on a ground ball to left fielder Justin Upton.,0,0,1,1,6,-0.08,3.18
-2016,2021-05-27,621566,448855,,ball,14,Matt Olson flies out to left fielder Justin Upton.,0,0,0,1,7,0.53,1.0
+2011,2021-05-27,621566,642083,,ball,14,Matt Olson doubles (11) on a ground ball to left fielder Justin Upton.,1,1,1,3,6,1.05,2.28
+2012,2021-05-27,621566,448855,,ball,14,Matt Olson flies out to left fielder Justin Upton.,1,1,0,3,7,0.65,-0.74
+2013,2021-05-27,621566,448855,,called_strike,8,Matt Olson flies out to left fielder Justin Upton.,1,0,0,2,7,-0.21,2.19
+2014,2021-05-27,621566,642083,,ball,13,Matt Olson doubles (11) on a ground ball to left fielder Justin Upton.,0,1,1,2,6,-0.53,1.42
+2015,2021-05-27,621566,448855,,ball,14,Matt Olson flies out to left fielder Justin Upton.,0,0,0,1,7,0.53,1.0
+2016,2021-05-27,621566,642083,,swinging_strike,2,Matt Olson doubles (11) on a ground ball to left fielder Justin Upton.,0,0,1,1,6,-0.08,3.18
 2017,2021-05-26,621566,667498,home_run,hit_into_play,12,Matt Olson homers (13) on a fly ball to right field.,2,2,0,7,3,0.21,3.9
 2018,2021-05-26,621566,667498,,foul,5,Matt Olson homers (13) on a fly ball to right field.,2,2,0,6,3,-0.12,2.84
 2019,2021-05-26,621566,667498,,foul,9,Matt Olson homers (13) on a fly ball to right field.,2,2,0,5,3,0.75,2.04
@@ -2025,17 +2025,17 @@
 2023,2021-05-26,621566,667498,,ball,12,Matt Olson homers (13) on a fly ball to right field.,0,0,0,1,3,0.69,3.74
 2024,2021-05-26,621566,664948,strikeout,called_strike,14,Matt Olson called out on strikes.,3,2,1,6,6,0.45,1.42
 2025,2021-05-26,621566,664948,,ball,14,Matt Olson called out on strikes.,2,2,1,5,6,0.53,1.47
-2026,2021-05-26,621566,664948,,ball,11,Matt Olson called out on strikes.,1,2,1,4,6,-1.59,4.01
-2027,2021-05-26,621566,667498,strikeout,swinging_strike,5,Matt Olson strikes out swinging.,2,2,0,5,1,0.09,2.36
-2028,2021-05-26,621566,664948,,foul,5,Matt Olson called out on strikes.,1,1,1,3,6,-0.12,2.29
-2029,2021-05-26,621566,667498,,called_strike,4,Matt Olson strikes out swinging.,2,1,0,4,1,-0.43,2.73
+2026,2021-05-26,621566,667498,strikeout,swinging_strike,5,Matt Olson strikes out swinging.,2,2,0,5,1,0.09,2.36
+2027,2021-05-26,621566,664948,,ball,11,Matt Olson called out on strikes.,1,2,1,4,6,-1.59,4.01
+2028,2021-05-26,621566,667498,,called_strike,4,Matt Olson strikes out swinging.,2,1,0,4,1,-0.43,2.73
+2029,2021-05-26,621566,664948,,foul,5,Matt Olson called out on strikes.,1,1,1,3,6,-0.12,2.29
 2030,2021-05-26,621566,667498,,called_strike,1,Matt Olson strikes out swinging.,2,0,0,3,1,-0.53,3.31
 2031,2021-05-26,621566,664948,,ball,13,Matt Olson called out on strikes.,0,1,1,2,6,-1.33,1.58
-2032,2021-05-26,621566,667498,,ball,14,Matt Olson strikes out swinging.,1,0,0,2,1,0.49,1.16
+2032,2021-05-26,621566,670090,sac_fly,hit_into_play,9,Matt Olson out on a sacrifice fly to center fielder Kyle Lewis.   Elvis Andrus scores.,1,0,1,2,4,0.39,2.0
 2033,2021-05-26,621566,664948,,swinging_strike,13,Matt Olson called out on strikes.,0,0,1,1,6,-0.34,1.09
-2034,2021-05-26,621566,670090,sac_fly,hit_into_play,9,Matt Olson out on a sacrifice fly to center fielder Kyle Lewis.   Elvis Andrus scores.,1,0,1,2,4,0.39,2.0
-2035,2021-05-26,621566,670090,,ball,14,Matt Olson out on a sacrifice fly to center fielder Kyle Lewis.   Elvis Andrus scores.,0,0,1,1,4,0.26,1.48
-2036,2021-05-26,621566,667498,,ball,13,Matt Olson strikes out swinging.,0,0,0,1,1,-0.83,1.11
+2034,2021-05-26,621566,667498,,ball,14,Matt Olson strikes out swinging.,1,0,0,2,1,0.49,1.16
+2035,2021-05-26,621566,667498,,ball,13,Matt Olson strikes out swinging.,0,0,0,1,1,-0.83,1.11
+2036,2021-05-26,621566,670090,,ball,14,Matt Olson out on a sacrifice fly to center fielder Kyle Lewis.   Elvis Andrus scores.,0,0,1,1,4,0.26,1.48
 2037,2021-05-25,621566,669302,field_out,hit_into_play,4,Matt Olson flies out to left fielder Jarred Kelenic.,3,2,2,6,3,-0.57,2.98
 2038,2021-05-25,621566,669302,,ball,13,Matt Olson flies out to left fielder Jarred Kelenic.,2,2,2,5,3,-0.02,1.31
 2039,2021-05-25,621566,669302,,foul,1,Matt Olson flies out to left fielder Jarred Kelenic.,2,1,2,4,3,-0.65,3.17
@@ -2065,8 +2065,8 @@
 2063,2021-05-24,621566,579328,,blocked_ball,13,Matt Olson pops out to left fielder Jarred Kelenic in foul territory.,0,2,2,3,1,-1.97,0.62
 2064,2021-05-24,621566,579328,,called_strike,5,Matt Olson pops out to left fielder Jarred Kelenic in foul territory.,0,1,2,2,1,-0.23,2.82
 2065,2021-05-24,621566,657024,strikeout,swinging_strike,1,Matt Olson strikes out swinging.,2,2,2,6,8,-0.61,3.66
-2066,2021-05-24,621566,657024,,foul,3,Matt Olson strikes out swinging.,2,2,2,5,8,0.51,3.12
-2067,2021-05-24,621566,579328,,swinging_strike,1,Matt Olson pops out to left fielder Jarred Kelenic in foul territory.,0,0,2,1,1,-0.82,3.28
+2066,2021-05-24,621566,579328,,swinging_strike,1,Matt Olson pops out to left fielder Jarred Kelenic in foul territory.,0,0,2,1,1,-0.82,3.28
+2067,2021-05-24,621566,657024,,foul,3,Matt Olson strikes out swinging.,2,2,2,5,8,0.51,3.12
 2068,2021-05-24,621566,657024,,foul,1,Matt Olson strikes out swinging.,2,1,2,4,8,-0.38,3.17
 2069,2021-05-24,621566,657024,,called_strike,9,Matt Olson strikes out swinging.,2,0,2,3,8,0.79,1.92
 2070,2021-05-24,621566,657024,,ball,11,Matt Olson strikes out swinging.,1,0,2,2,8,-1.22,3.72
@@ -2079,14 +2079,14 @@
 2077,2021-05-23,621566,605164,,ball,13,Matt Olson singles on a sharp line drive to left fielder Justin Upton.   Jed Lowrie to 2nd.,0,0,1,1,3,-0.15,1.68
 2078,2021-05-23,621566,518553,field_out,hit_into_play,4,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",3,2,0,6,5,-0.55,2.85
 2079,2021-05-23,621566,518553,,ball,13,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",2,2,0,5,5,-1.56,2.09
-2080,2021-05-23,621566,605164,home_run,hit_into_play,3,Matt Olson homers (12) on a fly ball to right field.,2,2,0,5,2,0.3,3.09
-2081,2021-05-23,621566,518553,,ball,13,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",1,2,0,4,5,-2.07,1.89
-2082,2021-05-23,621566,518553,,ball,11,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",0,2,0,3,5,-1.29,2.83
-2083,2021-05-23,621566,605164,,ball,14,Matt Olson homers (12) on a fly ball to right field.,1,2,0,4,2,0.01,0.57
+2080,2021-05-23,621566,518553,,ball,13,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",1,2,0,4,5,-2.07,1.89
+2081,2021-05-23,621566,605164,home_run,hit_into_play,3,Matt Olson homers (12) on a fly ball to right field.,2,2,0,5,2,0.3,3.09
+2082,2021-05-23,621566,605164,,ball,14,Matt Olson homers (12) on a fly ball to right field.,1,2,0,4,2,0.01,0.57
+2083,2021-05-23,621566,518553,,ball,11,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",0,2,0,3,5,-1.29,2.83
 2084,2021-05-23,621566,518553,,foul,5,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",0,1,0,2,5,0.21,2.74
 2085,2021-05-23,621566,605164,,ball,11,Matt Olson homers (12) on a fly ball to right field.,0,2,0,3,2,-0.44,4.49
-2086,2021-05-23,621566,518553,,called_strike,13,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",0,0,0,1,5,-1.11,2.28
-2087,2021-05-23,621566,605164,,swinging_strike,11,Matt Olson homers (12) on a fly ball to right field.,0,1,0,2,2,-0.04,3.96
+2086,2021-05-23,621566,605164,,swinging_strike,11,Matt Olson homers (12) on a fly ball to right field.,0,1,0,2,2,-0.04,3.96
+2087,2021-05-23,621566,518553,,called_strike,13,"Matt Olson grounds out sharply, shortstop Jose Iglesias to first baseman Jared Walsh.",0,0,0,1,5,-1.11,2.28
 2088,2021-05-23,621566,605164,,called_strike,13,Matt Olson homers (12) on a fly ball to right field.,0,0,0,1,2,-1.12,2.37
 2089,2021-05-23,621566,453265,walk,ball,14,Matt Olson walks.,3,0,0,4,8,0.9,2.41
 2090,2021-05-23,621566,453265,,ball,13,Matt Olson walks.,2,0,0,3,8,-0.9,1.17
@@ -2134,14 +2134,14 @@
 2132,2021-05-20,621566,677651,,ball,11,Matt Olson flies out to center fielder Myles Straw.,0,1,2,2,1,-0.96,4.3
 2133,2021-05-20,621566,677651,,called_strike,14,Matt Olson flies out to center fielder Myles Straw.,0,0,2,1,1,0.19,1.25
 2134,2021-05-20,621566,592773,walk,blocked_ball,14,Matt Olson walks.   Ramon Laureano to 2nd.,3,1,0,5,8,0.05,0.72
-2135,2021-05-20,621566,592773,,ball,11,Matt Olson walks.   Ramon Laureano to 2nd.,2,1,0,4,8,-0.78,3.73
-2136,2021-05-20,621566,548384,double,hit_into_play,5,Matt Olson doubles (9) on a fly ball to center fielder Myles Straw.,2,1,1,4,6,0.06,2.76
-2137,2021-05-20,621566,548384,,ball,13,Matt Olson doubles (9) on a fly ball to center fielder Myles Straw.,1,1,1,3,6,-2.55,1.28
-2138,2021-05-20,621566,592773,,ball,11,Matt Olson walks.   Ramon Laureano to 2nd.,1,1,0,3,8,-0.98,5.43
+2135,2021-05-20,621566,548384,double,hit_into_play,5,Matt Olson doubles (9) on a fly ball to center fielder Myles Straw.,2,1,1,4,6,0.06,2.76
+2136,2021-05-20,621566,592773,,ball,11,Matt Olson walks.   Ramon Laureano to 2nd.,2,1,0,4,8,-0.78,3.73
+2137,2021-05-20,621566,592773,,ball,11,Matt Olson walks.   Ramon Laureano to 2nd.,1,1,0,3,8,-0.98,5.43
+2138,2021-05-20,621566,548384,,ball,13,Matt Olson doubles (9) on a fly ball to center fielder Myles Straw.,1,1,1,3,6,-2.55,1.28
 2139,2021-05-20,621566,548384,,ball,13,Matt Olson doubles (9) on a fly ball to center fielder Myles Straw.,0,1,1,2,6,-2.06,1.49
 2140,2021-05-20,621566,592773,,ball,7,Matt Olson walks.   Ramon Laureano to 2nd.,0,1,0,2,8,-0.76,1.82
-2141,2021-05-20,621566,592773,,called_strike,4,Matt Olson walks.   Ramon Laureano to 2nd.,0,0,0,1,8,-0.62,2.61
-2142,2021-05-20,621566,548384,,foul,12,Matt Olson doubles (9) on a fly ball to center fielder Myles Straw.,0,0,1,1,6,1.04,3.03
+2141,2021-05-20,621566,548384,,foul,12,Matt Olson doubles (9) on a fly ball to center fielder Myles Straw.,0,0,1,1,6,1.04,3.03
+2142,2021-05-20,621566,592773,,called_strike,4,Matt Olson walks.   Ramon Laureano to 2nd.,0,0,0,1,8,-0.62,2.61
 2143,2021-05-19,621566,425844,field_out,hit_into_play,13,"Matt Olson grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",1,1,0,3,7,-0.69,1.46
 2144,2021-05-19,621566,425844,,ball,13,"Matt Olson grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,1,0,2,7,-0.12,0.97
 2145,2021-05-19,621566,425844,,foul,7,"Matt Olson grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,0,0,1,7,-0.72,2.02
@@ -2150,8 +2150,8 @@
 2148,2021-05-19,621566,592288,field_out,hit_into_play,4,Matt Olson flies out to center fielder Myles Straw.,1,2,2,4,9,-0.64,2.93
 2149,2021-05-19,621566,592288,,foul,6,Matt Olson flies out to center fielder Myles Straw.,1,1,2,3,9,0.42,2.89
 2150,2021-05-19,621566,592288,,foul,7,Matt Olson flies out to center fielder Myles Straw.,1,0,2,2,9,-0.76,1.96
-2151,2021-05-19,621566,425844,field_out,hit_into_play,7,Matt Olson flies out to left fielder Michael Brantley.,0,1,0,2,2,-0.33,1.58
-2152,2021-05-19,621566,592288,,ball,13,Matt Olson flies out to center fielder Myles Straw.,0,0,2,1,9,-1.73,2.26
+2151,2021-05-19,621566,592288,,ball,13,Matt Olson flies out to center fielder Myles Straw.,0,0,2,1,9,-1.73,2.26
+2152,2021-05-19,621566,425844,field_out,hit_into_play,7,Matt Olson flies out to left fielder Michael Brantley.,0,1,0,2,2,-0.33,1.58
 2153,2021-05-19,621566,425844,,called_strike,13,Matt Olson flies out to left fielder Michael Brantley.,0,0,0,1,2,-0.94,2.16
 2154,2021-05-18,621566,664299,home_run,hit_into_play,8,Matt Olson homers (10) on a fly ball to right center field.,2,1,2,4,6,0.15,2.21
 2155,2021-05-18,621566,664299,,ball,11,Matt Olson homers (10) on a fly ball to right center field.,1,1,2,3,6,-1.64,4.09
@@ -2182,10 +2182,10 @@
 2180,2021-05-16,621566,628317,double,hit_into_play,4,Matt Olson doubles (8) on a sharp line drive to center fielder Max Kepler.,1,0,0,2,2,-0.78,2.49
 2181,2021-05-16,621566,628317,,ball,12,Matt Olson doubles (8) on a sharp line drive to center fielder Max Kepler.,0,0,0,1,2,0.89,3.43
 2182,2021-05-16,621566,608648,walk,ball,11,Matt Olson walks.   Ramon Laureano to 2nd.,3,0,1,4,5,-1.04,3.23
-2183,2021-05-16,621566,608648,,blocked_ball,14,Matt Olson walks.   Ramon Laureano to 2nd.,2,0,1,3,5,1.64,0.32
-2184,2021-05-16,621566,573124,fielders_choice,hit_into_play,13,"Matt Olson reaches on a fielder's choice, fielded by pitcher Taylor Rogers.   Ramon Laureano to 3rd.  Ramon Laureano advances to 3rd, on a missed catch error by third baseman Josh Donaldson, assist to pitcher Taylor Rogers.",0,1,1,2,9,-0.99,1.81
-2185,2021-05-16,621566,608648,,blocked_ball,14,Matt Olson walks.   Ramon Laureano to 2nd.,1,0,1,2,5,1.08,0.2
-2186,2021-05-16,621566,573124,,called_strike,5,"Matt Olson reaches on a fielder's choice, fielded by pitcher Taylor Rogers.   Ramon Laureano to 3rd.  Ramon Laureano advances to 3rd, on a missed catch error by third baseman Josh Donaldson, assist to pitcher Taylor Rogers.",0,0,1,1,9,-0.25,2.3
+2183,2021-05-16,621566,573124,fielders_choice,hit_into_play,13,"Matt Olson reaches on a fielder's choice, fielded by pitcher Taylor Rogers.   Ramon Laureano to 3rd.  Ramon Laureano advances to 3rd, on a missed catch error by third baseman Josh Donaldson, assist to pitcher Taylor Rogers.",0,1,1,2,9,-0.99,1.81
+2184,2021-05-16,621566,608648,,blocked_ball,14,Matt Olson walks.   Ramon Laureano to 2nd.,2,0,1,3,5,1.64,0.32
+2185,2021-05-16,621566,573124,,called_strike,5,"Matt Olson reaches on a fielder's choice, fielded by pitcher Taylor Rogers.   Ramon Laureano to 3rd.  Ramon Laureano advances to 3rd, on a missed catch error by third baseman Josh Donaldson, assist to pitcher Taylor Rogers.",0,0,1,1,9,-0.25,2.3
+2186,2021-05-16,621566,608648,,blocked_ball,14,Matt Olson walks.   Ramon Laureano to 2nd.,1,0,1,2,5,1.08,0.2
 2187,2021-05-16,621566,608648,,ball,13,Matt Olson walks.   Ramon Laureano to 2nd.,0,0,1,1,5,-1.12,1.46
 2188,2021-05-15,621566,621244,field_out,hit_into_play,5,"Matt Olson grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",2,2,2,6,5,0.26,2.71
 2189,2021-05-15,621566,621244,,ball,14,"Matt Olson grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",1,2,2,5,5,1.63,1.09
@@ -2274,13 +2274,13 @@
 2272,2021-05-09,621566,664126,,called_strike,6,Matt Olson walks.,3,1,1,5,8,0.8,2.31
 2273,2021-05-09,621566,664126,,ball,12,Matt Olson walks.,2,1,1,4,8,1.75,3.57
 2274,2021-05-09,621566,664126,,ball,14,Matt Olson walks.,1,1,1,3,8,1.07,1.23
-2275,2021-05-09,621566,664126,,ball,14,Matt Olson walks.,0,1,1,2,8,1.81,-0.6
-2276,2021-05-09,621566,663556,single,hit_into_play,2,Matt Olson singles on a sharp line drive to right fielder Manuel Margot.   Jed Lowrie to 2nd.,1,2,1,4,1,-0.1,3.23
+2275,2021-05-09,621566,663556,single,hit_into_play,2,Matt Olson singles on a sharp line drive to right fielder Manuel Margot.   Jed Lowrie to 2nd.,1,2,1,4,1,-0.1,3.23
+2276,2021-05-09,621566,664126,,ball,14,Matt Olson walks.,0,1,1,2,8,1.81,-0.6
 2277,2021-05-09,621566,664126,,foul,3,Matt Olson walks.,0,0,1,1,8,0.38,3.45
 2278,2021-05-09,621566,605488,strikeout,swinging_strike,12,Matt Olson strikes out swinging.,0,2,2,3,5,0.41,3.84
 2279,2021-05-09,621566,663556,,ball,13,Matt Olson singles on a sharp line drive to right fielder Manuel Margot.   Jed Lowrie to 2nd.,0,2,1,3,1,-1.51,1.42
-2280,2021-05-09,621566,605488,,swinging_strike,14,Matt Olson strikes out swinging.,0,1,2,2,5,0.07,1.33
-2281,2021-05-09,621566,663556,,foul,5,Matt Olson singles on a sharp line drive to right fielder Manuel Margot.   Jed Lowrie to 2nd.,0,1,1,2,1,-0.08,2.31
+2280,2021-05-09,621566,663556,,foul,5,Matt Olson singles on a sharp line drive to right fielder Manuel Margot.   Jed Lowrie to 2nd.,0,1,1,2,1,-0.08,2.31
+2281,2021-05-09,621566,605488,,swinging_strike,14,Matt Olson strikes out swinging.,0,1,2,2,5,0.07,1.33
 2282,2021-05-09,621566,663556,,foul,6,Matt Olson singles on a sharp line drive to right fielder Manuel Margot.   Jed Lowrie to 2nd.,0,0,1,1,1,0.5,2.3
 2283,2021-05-09,621566,605488,,called_strike,8,Matt Olson strikes out swinging.,0,0,2,1,5,-0.25,1.77
 2284,2021-05-08,621566,607192,field_out,hit_into_play,7,Matt Olson flies out to left fielder Randy Arozarena.,2,2,1,6,6,-0.35,2.07
@@ -2296,8 +2296,8 @@
 2294,2021-05-08,621566,607192,,foul,5,Matt Olson walks.,0,1,2,2,3,0.19,2.3
 2295,2021-05-08,621566,607192,,called_strike,5,Matt Olson walks.,0,0,2,1,3,0.04,2.81
 2296,2021-05-08,621566,519326,field_out,hit_into_play,6,Matt Olson grounds out to first baseman Yoshi Tsutsugo.,1,0,2,2,7,0.48,2.55
-2297,2021-05-08,621566,607192,walk,ball,14,Matt Olson walks.,3,2,1,7,1,1.13,2.31
-2298,2021-05-08,621566,519326,,ball,14,Matt Olson grounds out to first baseman Yoshi Tsutsugo.,0,0,2,1,7,0.84,0.97
+2297,2021-05-08,621566,519326,,ball,14,Matt Olson grounds out to first baseman Yoshi Tsutsugo.,0,0,2,1,7,0.84,0.97
+2298,2021-05-08,621566,607192,walk,ball,14,Matt Olson walks.,3,2,1,7,1,1.13,2.31
 2299,2021-05-08,621566,607192,,ball,14,Matt Olson walks.,2,2,1,6,1,0.9,1.78
 2300,2021-05-08,621566,607192,,ball,14,Matt Olson walks.,1,2,1,5,1,0.16,0.77
 2301,2021-05-08,621566,607192,,foul,12,Matt Olson walks.,1,2,1,4,1,0.99,2.86
@@ -2321,8 +2321,8 @@
 2319,2021-05-06,621566,547943,,swinging_strike,13,Matt Olson strikes out swinging.,0,1,2,2,5,-1.37,1.24
 2320,2021-05-06,621566,547943,,foul,14,Matt Olson strikes out swinging.,0,0,2,1,5,0.87,2.21
 2321,2021-05-06,621566,547943,double,hit_into_play,2,Matt Olson hits a ground-rule double (7) on a line drive to right field.   Tony Kemp scores.    Ramon Laureano to 3rd.,0,0,2,1,3,-0.03,3.29
-2322,2021-05-06,621566,547943,field_out,hit_into_play,7,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",0,1,1,2,1,-0.67,1.58
-2323,2021-05-06,621566,606303,force_out,hit_into_play,4,"Matt Olson grounds into a force out, second baseman Marcus Semien to shortstop Bo Bichette.   Ramon Laureano out at 2nd.    Matt Olson to 1st.",1,1,0,3,8,-0.77,2.98
+2322,2021-05-06,621566,606303,force_out,hit_into_play,4,"Matt Olson grounds into a force out, second baseman Marcus Semien to shortstop Bo Bichette.   Ramon Laureano out at 2nd.    Matt Olson to 1st.",1,1,0,3,8,-0.77,2.98
+2323,2021-05-06,621566,547943,field_out,hit_into_play,7,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",0,1,1,2,1,-0.67,1.58
 2324,2021-05-06,621566,547943,,foul,4,"Matt Olson grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",0,0,1,1,1,-0.31,2.69
 2325,2021-05-06,621566,606303,,called_strike,4,"Matt Olson grounds into a force out, second baseman Marcus Semien to shortstop Bo Bichette.   Ramon Laureano out at 2nd.    Matt Olson to 1st.",1,0,0,2,8,-0.61,2.63
 2326,2021-05-06,621566,606303,,ball,11,"Matt Olson grounds into a force out, second baseman Marcus Semien to shortstop Bo Bichette.   Ramon Laureano out at 2nd.    Matt Olson to 1st.",0,0,0,1,8,-0.58,4.72
@@ -2354,8 +2354,8 @@
 2352,2021-05-04,621566,641743,,called_strike,4,Matt Olson flies out to left fielder Lourdes Gurriel Jr.,1,1,2,3,1,-0.4,2.51
 2353,2021-05-04,621566,641743,,called_strike,4,Matt Olson flies out to left fielder Lourdes Gurriel Jr.,1,0,2,2,1,-0.64,2.59
 2354,2021-05-04,621566,641743,,ball,13,Matt Olson flies out to left fielder Lourdes Gurriel Jr.,0,0,2,1,1,-0.67,1.26
-2355,2021-05-04,621566,676709,field_out,hit_into_play,14,Matt Olson pops out to third baseman Santiago Espinal.,0,1,2,2,7,0.91,2.0
-2356,2021-05-04,621566,663423,field_out,hit_into_play,1,Matt Olson pops out to second baseman Cavan Biggio.,1,2,1,4,5,-0.43,3.69
+2355,2021-05-04,621566,663423,field_out,hit_into_play,1,Matt Olson pops out to second baseman Cavan Biggio.,1,2,1,4,5,-0.43,3.69
+2356,2021-05-04,621566,676709,field_out,hit_into_play,14,Matt Olson pops out to third baseman Santiago Espinal.,0,1,2,2,7,0.91,2.0
 2357,2021-05-04,621566,663423,,called_strike,11,Matt Olson pops out to second baseman Cavan Biggio.,1,1,1,3,5,-0.87,2.57
 2358,2021-05-04,621566,676709,,called_strike,1,Matt Olson pops out to third baseman Santiago Espinal.,0,0,2,1,7,-0.73,3.03
 2359,2021-05-04,621566,663423,,ball,14,Matt Olson pops out to second baseman Cavan Biggio.,0,1,1,2,5,0.38,0.98
@@ -2476,8 +2476,8 @@
 2474,2021-04-24,621566,656945,,ball,12,Matt Olson walks.,2,1,2,4,9,1.1,2.98
 2475,2021-04-24,621566,453281,,ball,12,Matt Olson singles on a fly ball to right fielder DJ Stewart.   Mark Canha scores.,1,0,1,2,1,1.26,4.12
 2476,2021-04-24,621566,656945,,called_strike,9,Matt Olson walks.,2,0,2,3,9,0.46,1.97
-2477,2021-04-24,621566,656945,,ball,11,Matt Olson walks.,1,0,2,2,9,-1.26,3.03
-2478,2021-04-24,621566,453281,,ball,13,Matt Olson singles on a fly ball to right fielder DJ Stewart.   Mark Canha scores.,0,0,1,1,1,-1.21,1.42
+2477,2021-04-24,621566,453281,,ball,13,Matt Olson singles on a fly ball to right fielder DJ Stewart.   Mark Canha scores.,0,0,1,1,1,-1.21,1.42
+2478,2021-04-24,621566,656945,,ball,11,Matt Olson walks.,1,0,2,2,9,-1.26,3.03
 2479,2021-04-24,621566,656945,,ball,12,Matt Olson walks.,0,0,2,1,9,0.84,3.87
 2480,2021-04-24,621566,592644,field_out,hit_into_play,2,Matt Olson flies out to left fielder Austin Hays.,0,1,2,2,6,0.13,3.02
 2481,2021-04-24,621566,592644,,swinging_strike,3,Matt Olson flies out to left fielder Austin Hays.,0,0,2,1,6,0.53,3.18
@@ -2487,16 +2487,16 @@
 2485,2021-04-23,621566,605347,,ball,13,"Matt Olson grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,0,0,1,3,-1.9,2.14
 2486,2021-04-23,621566,605347,single,hit_into_play,4,Matt Olson singles on a sharp line drive to right fielder DJ Stewart.,1,2,2,5,1,-0.51,2.72
 2487,2021-04-23,621566,605347,,ball,14,Matt Olson singles on a sharp line drive to right fielder DJ Stewart.,0,2,2,4,1,1.14,1.35
-2488,2021-04-23,621566,664042,single,hit_into_play,5,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,3,2,1,8,5,-0.24,2.56
-2489,2021-04-23,621566,605347,,foul,14,Matt Olson singles on a sharp line drive to right fielder DJ Stewart.,0,2,2,3,1,0.43,1.29
-2490,2021-04-23,621566,605347,,swinging_strike,12,Matt Olson singles on a sharp line drive to right fielder DJ Stewart.,0,1,2,2,1,0.9,3.25
-2491,2021-04-23,621566,664042,,ball,14,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,2,2,1,7,5,1.59,1.04
+2488,2021-04-23,621566,605347,,foul,14,Matt Olson singles on a sharp line drive to right fielder DJ Stewart.,0,2,2,3,1,0.43,1.29
+2489,2021-04-23,621566,664042,single,hit_into_play,5,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,3,2,1,8,5,-0.24,2.56
+2490,2021-04-23,621566,664042,,ball,14,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,2,2,1,7,5,1.59,1.04
+2491,2021-04-23,621566,605347,,swinging_strike,12,Matt Olson singles on a sharp line drive to right fielder DJ Stewart.,0,1,2,2,1,0.9,3.25
 2492,2021-04-23,621566,664042,,foul,2,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,2,2,1,6,5,0.04,3.3
 2493,2021-04-23,621566,605347,,called_strike,4,Matt Olson singles on a sharp line drive to right fielder DJ Stewart.,0,0,2,1,1,-0.31,2.2
 2494,2021-04-23,621566,664042,,foul,5,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,2,2,1,5,5,-0.26,2.6
 2495,2021-04-23,621566,664042,,ball,13,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,1,2,1,4,5,-0.67,-0.24
-2496,2021-04-23,621566,664042,,swinging_strike,8,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,1,1,1,3,5,-0.14,2.21
-2497,2021-04-23,621566,642121,field_out,hit_into_play,7,"Matt Olson grounds out, pitcher Cole Sulser to first baseman Trey Mancini.",0,1,2,2,7,-0.45,1.65
+2496,2021-04-23,621566,642121,field_out,hit_into_play,7,"Matt Olson grounds out, pitcher Cole Sulser to first baseman Trey Mancini.",0,1,2,2,7,-0.45,1.65
+2497,2021-04-23,621566,664042,,swinging_strike,8,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,1,1,1,3,5,-0.14,2.21
 2498,2021-04-23,621566,664042,,ball,11,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,0,1,1,2,5,-1.42,2.77
 2499,2021-04-23,621566,642121,,called_strike,2,"Matt Olson grounds out, pitcher Cole Sulser to first baseman Trey Mancini.",0,0,2,1,7,-0.04,3.24
 2500,2021-04-23,621566,664042,,called_strike,7,Matt Olson singles on a sharp line drive to center fielder Cedric Mullins.,0,0,1,1,5,-0.31,1.79
@@ -2506,15 +2506,15 @@
 2504,2021-04-21,621566,628317,,foul,8,Matt Olson homers (5) on a fly ball to right center field.,2,2,0,6,2,-0.19,2.14
 2505,2021-04-21,621566,517008,single,hit_into_play,5,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,3,1,1,5,9,-0.27,2.59
 2506,2021-04-21,621566,628317,,ball,13,Matt Olson homers (5) on a fly ball to right center field.,1,2,0,5,2,-0.25,0.78
-2507,2021-04-21,621566,608648,field_out,hit_into_play,9,Matt Olson grounds out to first baseman Willians Astudillo.,0,0,2,1,4,0.34,1.88
-2508,2021-04-21,621566,517008,,called_strike,4,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,3,0,1,4,9,-0.78,2.64
-2509,2021-04-21,621566,628317,,foul,9,Matt Olson homers (5) on a fly ball to right center field.,1,2,0,4,2,0.66,1.97
-2510,2021-04-21,621566,628317,,ball,11,Matt Olson homers (5) on a fly ball to right center field.,0,2,0,3,2,-2.63,5.89
-2511,2021-04-21,621566,517008,,blocked_ball,13,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,2,0,1,3,9,-0.02,0.38
-2512,2021-04-21,621566,628317,,called_strike,2,Matt Olson homers (5) on a fly ball to right center field.,0,1,0,2,2,0.18,3.17
-2513,2021-04-21,621566,517008,,ball,13,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,1,0,1,2,9,-2.19,2.4
-2514,2021-04-21,621566,628317,,called_strike,1,Matt Olson homers (5) on a fly ball to right center field.,0,0,0,1,2,-0.63,2.87
-2515,2021-04-21,621566,517008,,ball,13,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,0,0,1,1,9,-1.21,2.27
+2507,2021-04-21,621566,517008,,called_strike,4,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,3,0,1,4,9,-0.78,2.64
+2508,2021-04-21,621566,628317,,foul,9,Matt Olson homers (5) on a fly ball to right center field.,1,2,0,4,2,0.66,1.97
+2509,2021-04-21,621566,608648,field_out,hit_into_play,9,Matt Olson grounds out to first baseman Willians Astudillo.,0,0,2,1,4,0.34,1.88
+2510,2021-04-21,621566,517008,,blocked_ball,13,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,2,0,1,3,9,-0.02,0.38
+2511,2021-04-21,621566,628317,,ball,11,Matt Olson homers (5) on a fly ball to right center field.,0,2,0,3,2,-2.63,5.89
+2512,2021-04-21,621566,517008,,ball,13,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,1,0,1,2,9,-2.19,2.4
+2513,2021-04-21,621566,628317,,called_strike,2,Matt Olson homers (5) on a fly ball to right center field.,0,1,0,2,2,0.18,3.17
+2514,2021-04-21,621566,517008,,ball,13,Matt Olson singles on a sharp ground ball to right fielder Brent Rooker.   Ramon Laureano to 3rd.,0,0,1,1,9,-1.21,2.27
+2515,2021-04-21,621566,628317,,called_strike,1,Matt Olson homers (5) on a fly ball to right center field.,0,0,0,1,2,-0.63,2.87
 2516,2021-04-21,621566,573124,field_out,hit_into_play,4,Matt Olson lines out sharply to center fielder Byron Buxton.,0,0,2,1,6,-0.65,2.75
 2517,2021-04-20,621566,621244,double,hit_into_play,13,Matt Olson doubles (3) on a ground ball to left fielder Luis Arraez.,1,2,0,4,4,-0.71,1.14
 2518,2021-04-20,621566,621244,,called_strike,9,Matt Olson doubles (3) on a ground ball to left fielder Luis Arraez.,1,1,0,3,4,0.4,1.79
@@ -2526,25 +2526,25 @@
 2524,2021-04-20,621566,660896,home_run,hit_into_play,6,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,3,2,2,7,4,0.54,2.53
 2525,2021-04-20,621566,621244,grounded_into_double_play,hit_into_play,13,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",2,2,1,7,1,-0.73,1.54
 2526,2021-04-20,621566,660896,,foul,4,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,3,2,2,6,4,-0.33,2.86
-2527,2021-04-20,621566,621244,,ball,14,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,2,1,6,1,1.4,1.11
-2528,2021-04-20,621566,660896,,swinging_strike,5,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,3,1,2,5,4,-0.13,2.45
-2529,2021-04-20,621566,621244,,foul,13,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,2,1,5,1,-0.87,1.63
-2530,2021-04-20,621566,660896,,ball,14,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,2,1,2,4,4,1.15,2.04
+2527,2021-04-20,621566,660896,,swinging_strike,5,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,3,1,2,5,4,-0.13,2.45
+2528,2021-04-20,621566,621244,,ball,14,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,2,1,6,1,1.4,1.11
+2529,2021-04-20,621566,660896,,ball,14,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,2,1,2,4,4,1.15,2.04
+2530,2021-04-20,621566,621244,,foul,13,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,2,1,5,1,-0.87,1.63
 2531,2021-04-20,621566,621244,,foul,4,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,2,1,4,1,-0.82,2.61
 2532,2021-04-20,621566,660896,,called_strike,4,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,2,0,2,3,4,-0.33,2.56
 2533,2021-04-20,621566,533167,field_out,hit_into_play,14,Matt Olson lines out to first baseman Miguel Sano.,2,2,2,5,1,0.19,1.29
-2534,2021-04-20,621566,621244,,foul,8,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,1,1,3,1,-0.11,1.85
-2535,2021-04-20,621566,660896,,ball,13,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,1,0,2,2,4,-0.41,1.46
+2534,2021-04-20,621566,660896,,ball,13,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,1,0,2,2,4,-0.41,1.46
+2535,2021-04-20,621566,621244,,foul,8,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,1,1,3,1,-0.11,1.85
 2536,2021-04-20,621566,533167,,ball,14,Matt Olson lines out to first baseman Miguel Sano.,1,2,2,4,1,1.29,1.74
 2537,2021-04-20,621566,621244,,called_strike,9,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",1,0,1,2,1,0.38,1.96
 2538,2021-04-20,621566,660896,,ball,14,Matt Olson hits a grand slam (4) to right field.   Elvis Andrus scores.    Mark Canha scores.    Jed Lowrie scores.,0,0,2,1,4,0.66,1.35
 2539,2021-04-20,621566,621244,,ball,11,"Matt Olson grounds into a double play, first baseman Mitch Garver to third baseman Josh Donaldson to pitcher Jose Berrios.   Mark Canha out at 2nd.    Matt Olson out at 1st.",0,0,1,1,1,-0.95,3.71
 2540,2021-04-20,621566,626929,field_out,hit_into_play,4,"Matt Olson grounds out, shortstop Jorge Polanco to first baseman Willians Astudillo.",0,1,2,2,6,-0.51,2.55
 2541,2021-04-20,621566,533167,,foul,8,Matt Olson lines out to first baseman Miguel Sano.,1,1,2,3,1,-0.23,1.79
-2542,2021-04-20,621566,626929,,called_strike,8,"Matt Olson grounds out, shortstop Jorge Polanco to first baseman Willians Astudillo.",0,0,2,1,6,0.17,2.19
-2543,2021-04-20,621566,533167,,swinging_strike,9,Matt Olson lines out to first baseman Miguel Sano.,1,0,2,2,1,0.28,2.24
-2544,2021-04-20,621566,533167,,ball,11,Matt Olson lines out to first baseman Miguel Sano.,0,0,2,1,1,-1.09,2.77
-2545,2021-04-20,621566,570663,field_out,hit_into_play,14,"Matt Olson grounds out, third baseman Josh Donaldson to first baseman Willians Astudillo.",1,2,1,4,6,0.19,1.33
+2542,2021-04-20,621566,533167,,swinging_strike,9,Matt Olson lines out to first baseman Miguel Sano.,1,0,2,2,1,0.28,2.24
+2543,2021-04-20,621566,626929,,called_strike,8,"Matt Olson grounds out, shortstop Jorge Polanco to first baseman Willians Astudillo.",0,0,2,1,6,0.17,2.19
+2544,2021-04-20,621566,570663,field_out,hit_into_play,14,"Matt Olson grounds out, third baseman Josh Donaldson to first baseman Willians Astudillo.",1,2,1,4,6,0.19,1.33
+2545,2021-04-20,621566,533167,,ball,11,Matt Olson lines out to first baseman Miguel Sano.,0,0,2,1,1,-1.09,2.77
 2546,2021-04-20,621566,570663,,swinging_strike,14,"Matt Olson grounds out, third baseman Josh Donaldson to first baseman Willians Astudillo.",1,1,1,3,6,0.14,1.12
 2547,2021-04-20,621566,570663,,swinging_strike,1,"Matt Olson grounds out, third baseman Josh Donaldson to first baseman Willians Astudillo.",1,0,1,2,6,-0.43,3.28
 2548,2021-04-20,621566,570663,,ball,11,"Matt Olson grounds out, third baseman Josh Donaldson to first baseman Willians Astudillo.",0,0,1,1,6,-0.5,3.85
@@ -2569,12 +2569,12 @@
 2567,2021-04-17,621566,663554,field_out,hit_into_play,3,Matt Olson pops out to third baseman Jeimer Candelario.,0,1,0,2,3,0.73,3.28
 2568,2021-04-17,621566,663554,,called_strike,6,Matt Olson pops out to third baseman Jeimer Candelario.,0,0,0,1,3,0.67,2.27
 2569,2021-04-17,621566,641729,walk,ball,14,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,3,2,2,6,7,1.98,0.93
-2570,2021-04-17,621566,641729,,ball,14,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,2,2,2,5,7,2.1,1.63
-2571,2021-04-17,621566,663554,home_run,hit_into_play,2,Matt Olson homers (3) on a fly ball to right field.,3,2,2,8,1,0.0,3.43
-2572,2021-04-17,621566,641729,,foul,2,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,2,1,2,4,7,-0.03,3.21
-2573,2021-04-17,621566,663554,,foul,2,Matt Olson homers (3) on a fly ball to right field.,3,2,2,7,1,-0.12,3.0
-2574,2021-04-17,621566,663554,,ball,11,Matt Olson homers (3) on a fly ball to right field.,2,2,2,6,1,-2.18,3.53
-2575,2021-04-17,621566,641729,,ball,9,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,1,1,2,3,7,0.75,2.16
+2570,2021-04-17,621566,663554,home_run,hit_into_play,2,Matt Olson homers (3) on a fly ball to right field.,3,2,2,8,1,0.0,3.43
+2571,2021-04-17,621566,641729,,ball,14,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,2,2,2,5,7,2.1,1.63
+2572,2021-04-17,621566,663554,,foul,2,Matt Olson homers (3) on a fly ball to right field.,3,2,2,7,1,-0.12,3.0
+2573,2021-04-17,621566,641729,,foul,2,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,2,1,2,4,7,-0.03,3.21
+2574,2021-04-17,621566,641729,,ball,9,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,1,1,2,3,7,0.75,2.16
+2575,2021-04-17,621566,663554,,ball,11,Matt Olson homers (3) on a fly ball to right field.,2,2,2,6,1,-2.18,3.53
 2576,2021-04-17,621566,641729,,swinging_strike,2,Matt Olson walks.   Mark Canha to 3rd.  Wild pitch by pitcher Joe Jimenez.   Mark Canha to 3rd.,1,0,2,2,7,-0.01,3.28
 2577,2021-04-17,621566,663554,,ball,11,Matt Olson homers (3) on a fly ball to right field.,1,2,2,5,1,-1.18,3.92
 2578,2021-04-17,621566,663554,,foul,3,Matt Olson homers (3) on a fly ball to right field.,1,2,2,4,1,0.79,3.21
@@ -2611,8 +2611,8 @@
 2609,2021-04-15,621566,656638,,called_strike,6,Matt Olson walks.,2,1,1,4,6,0.76,2.57
 2610,2021-04-15,621566,571656,home_run,hit_into_play,4,Matt Olson homers (2) on a fly ball to center field.,1,0,2,2,5,-0.59,2.72
 2611,2021-04-15,621566,656638,,ball,12,Matt Olson walks.,1,1,1,3,6,0.2,3.76
-2612,2021-04-15,621566,656638,,foul,9,Matt Olson walks.,1,0,1,2,6,0.28,1.79
-2613,2021-04-15,621566,571656,,ball,13,Matt Olson homers (2) on a fly ball to center field.,0,0,2,1,5,-1.32,1.72
+2612,2021-04-15,621566,571656,,ball,13,Matt Olson homers (2) on a fly ball to center field.,0,0,2,1,5,-1.32,1.72
+2613,2021-04-15,621566,656638,,foul,9,Matt Olson walks.,1,0,1,2,6,0.28,1.79
 2614,2021-04-15,621566,656638,,ball,14,Matt Olson walks.,0,0,1,1,6,0.59,1.16
 2615,2021-04-12,621566,518516,sac_fly,hit_into_play,13,Matt Olson out on a sacrifice fly to left fielder David Peralta.   Jed Lowrie scores.,1,2,1,4,5,-1.09,2.29
 2616,2021-04-12,621566,518516,,swinging_strike,13,Matt Olson out on a sacrifice fly to left fielder David Peralta.   Jed Lowrie scores.,1,1,1,3,5,-1.09,1.21
@@ -2623,12 +2623,12 @@
 2621,2021-04-12,621566,592761,hit_by_pitch,hit_by_pitch,12,Matt Olson hit by pitch.,2,2,1,5,7,1.57,4.18
 2622,2021-04-12,621566,592761,,foul,4,Matt Olson hit by pitch.,2,1,1,4,7,-0.34,2.32
 2623,2021-04-12,621566,518516,strikeout,swinging_strike,13,Matt Olson strikes out swinging.,2,2,2,7,1,-0.58,0.95
-2624,2021-04-12,621566,518516,,ball,13,Matt Olson strikes out swinging.,1,2,2,6,1,-1.6,2.24
-2625,2021-04-12,621566,592761,,foul,2,Matt Olson hit by pitch.,2,0,1,3,7,0.16,3.22
-2626,2021-04-12,621566,518516,,foul,5,Matt Olson strikes out swinging.,1,2,2,5,1,0.19,2.87
-2627,2021-04-12,621566,592761,,ball,12,Matt Olson hit by pitch.,1,0,1,2,7,1.27,3.42
-2628,2021-04-12,621566,592761,,blocked_ball,13,Matt Olson hit by pitch.,0,0,1,1,7,-1.6,0.08
-2629,2021-04-12,621566,518516,,foul,5,Matt Olson strikes out swinging.,1,2,2,4,1,0.15,2.96
+2624,2021-04-12,621566,592761,,foul,2,Matt Olson hit by pitch.,2,0,1,3,7,0.16,3.22
+2625,2021-04-12,621566,518516,,ball,13,Matt Olson strikes out swinging.,1,2,2,6,1,-1.6,2.24
+2626,2021-04-12,621566,592761,,ball,12,Matt Olson hit by pitch.,1,0,1,2,7,1.27,3.42
+2627,2021-04-12,621566,518516,,foul,5,Matt Olson strikes out swinging.,1,2,2,5,1,0.19,2.87
+2628,2021-04-12,621566,518516,,foul,5,Matt Olson strikes out swinging.,1,2,2,4,1,0.15,2.96
+2629,2021-04-12,621566,592761,,blocked_ball,13,Matt Olson hit by pitch.,0,0,1,1,7,-1.6,0.08
 2630,2021-04-12,621566,518516,,swinging_strike,4,Matt Olson strikes out swinging.,1,1,2,3,1,-0.71,2.51
 2631,2021-04-12,621566,518516,,foul,12,Matt Olson strikes out swinging.,1,0,2,2,1,1.17,3.0
 2632,2021-04-12,621566,518516,,ball,13,Matt Olson strikes out swinging.,0,0,2,1,1,-1.76,2.04
@@ -2669,8 +2669,8 @@
 2667,2021-04-08,621566,664299,,foul,6,"Matt Olson grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,0,2,1,3,0.3,2.38
 2668,2021-04-08,621566,660600,,ball,13,Matt Olson pops out to third baseman Alex Bregman on the infield fly rule.,1,1,0,3,8,-2.85,2.4
 2669,2021-04-08,621566,660600,,ball,12,Matt Olson pops out to third baseman Alex Bregman on the infield fly rule.,0,1,0,2,8,0.94,2.96
-2670,2021-04-08,621566,660600,,foul,2,Matt Olson pops out to third baseman Alex Bregman on the infield fly rule.,0,0,0,1,8,-0.15,3.14
-2671,2021-04-08,621566,664299,strikeout,swinging_strike,8,Matt Olson strikes out swinging.,1,2,1,4,1,0.05,2.03
+2670,2021-04-08,621566,664299,strikeout,swinging_strike,8,Matt Olson strikes out swinging.,1,2,1,4,1,0.05,2.03
+2671,2021-04-08,621566,660600,,foul,2,Matt Olson pops out to third baseman Alex Bregman on the infield fly rule.,0,0,0,1,8,-0.15,3.14
 2672,2021-04-08,621566,664299,,ball,13,Matt Olson strikes out swinging.,0,2,1,3,1,-0.08,0.51
 2673,2021-04-08,621566,664299,,foul,5,Matt Olson strikes out swinging.,0,1,1,2,1,-0.21,2.67
 2674,2021-04-08,621566,664299,,called_strike,5,Matt Olson strikes out swinging.,0,0,1,1,1,0.27,2.66
@@ -2740,8 +2740,8 @@
 2738,2021-04-02,621566,519151,force_out,hit_into_play,6,"Matt Olson grounds into a force out, third baseman Alex Bregman to shortstop Carlos Correa.   Tony Kemp out at 2nd.",1,1,2,3,9,0.58,2.37
 2739,2021-04-02,621566,664299,,ball,11,Matt Olson strikes out swinging.,1,2,2,5,1,-1.36,3.5
 2740,2021-04-02,621566,519151,,foul,9,"Matt Olson grounds into a force out, third baseman Alex Bregman to shortstop Carlos Correa.   Tony Kemp out at 2nd.",1,0,2,2,9,0.69,2.13
-2741,2021-04-02,621566,519151,,ball,14,"Matt Olson grounds into a force out, third baseman Alex Bregman to shortstop Carlos Correa.   Tony Kemp out at 2nd.",0,0,2,1,9,1.7,1.69
-2742,2021-04-02,621566,664299,,foul,4,Matt Olson strikes out swinging.,1,2,2,4,1,-0.4,2.58
+2741,2021-04-02,621566,664299,,foul,4,Matt Olson strikes out swinging.,1,2,2,4,1,-0.4,2.58
+2742,2021-04-02,621566,519151,,ball,14,"Matt Olson grounds into a force out, third baseman Alex Bregman to shortstop Carlos Correa.   Tony Kemp out at 2nd.",0,0,2,1,9,1.7,1.69
 2743,2021-04-02,621566,664299,,foul,14,Matt Olson strikes out swinging.,1,1,2,3,1,0.98,2.49
 2744,2021-04-02,621566,664299,,called_strike,9,Matt Olson strikes out swinging.,1,0,2,2,1,0.34,1.79
 2745,2021-04-02,621566,664299,,ball,3,Matt Olson strikes out swinging.,0,0,2,1,1,0.35,3.72
@@ -2759,14 +2759,14 @@
 2757,2021-04-01,621566,425844,,foul,13,Matt Olson strikes out swinging.,2,2,2,6,1,-0.9,1.53
 2758,2021-04-01,621566,660600,walk,ball,11,Matt Olson walks.,3,2,0,6,7,-0.79,3.74
 2759,2021-04-01,621566,425844,,ball,13,Matt Olson strikes out swinging.,1,2,2,5,1,-1.07,0.35
-2760,2021-04-01,621566,425844,,foul,4,Matt Olson strikes out swinging.,1,2,2,4,1,-0.31,2.85
-2761,2021-04-01,621566,660600,,foul,6,Matt Olson walks.,3,1,0,5,7,0.64,2.33
-2762,2021-04-01,621566,660600,,ball,11,Matt Olson walks.,2,1,0,4,7,-1.45,4.36
-2763,2021-04-01,621566,425844,,called_strike,13,Matt Olson strikes out swinging.,1,1,2,3,1,-1.2,2.57
-2764,2021-04-01,621566,660600,,ball,11,Matt Olson walks.,1,1,0,3,7,-1.26,3.04
-2765,2021-04-01,621566,425844,,ball,11,Matt Olson strikes out swinging.,0,1,2,2,1,-1.67,3.39
-2766,2021-04-01,621566,425844,,swinging_strike,1,Matt Olson strikes out swinging.,0,0,2,1,1,-0.33,3.19
-2767,2021-04-01,621566,660600,,called_strike,9,Matt Olson walks.,1,0,0,2,7,0.71,2.17
+2760,2021-04-01,621566,660600,,foul,6,Matt Olson walks.,3,1,0,5,7,0.64,2.33
+2761,2021-04-01,621566,425844,,foul,4,Matt Olson strikes out swinging.,1,2,2,4,1,-0.31,2.85
+2762,2021-04-01,621566,425844,,called_strike,13,Matt Olson strikes out swinging.,1,1,2,3,1,-1.2,2.57
+2763,2021-04-01,621566,660600,,ball,11,Matt Olson walks.,2,1,0,4,7,-1.45,4.36
+2764,2021-04-01,621566,425844,,ball,11,Matt Olson strikes out swinging.,0,1,2,2,1,-1.67,3.39
+2765,2021-04-01,621566,660600,,ball,11,Matt Olson walks.,1,1,0,3,7,-1.26,3.04
+2766,2021-04-01,621566,660600,,called_strike,9,Matt Olson walks.,1,0,0,2,7,0.71,2.17
+2767,2021-04-01,621566,425844,,swinging_strike,1,Matt Olson strikes out swinging.,0,0,2,1,1,-0.33,3.19
 2768,2021-04-01,621566,660600,,ball,14,Matt Olson walks.,0,0,0,1,7,1.1,1.6
 2769,2021-04-01,621566,642130,strikeout,called_strike,13,Matt Olson called out on strikes.,1,2,2,5,8,-0.99,2.41
 2770,2021-04-01,621566,642130,,foul,4,Matt Olson called out on strikes.,1,2,2,4,8,-0.54,2.39

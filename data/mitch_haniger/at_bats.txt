@@ -9,5 +9,6 @@ VISION REPORT: mitch_haniger (2021-04-01 thru 2021-10-04)
      mitch_haniger saw 1349 strikes and 1426 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3708
+VISION SCORE METRIC B (VSA - SO%): 0.1262
 Average PA Length: 3.9870 (2755/691)
 Batting Avg: 0.253

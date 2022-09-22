@@ -9,5 +9,6 @@ VISION REPORT: cedric_mullins (2021-04-01 thru 2021-10-04)
      cedric_mullins saw 1295 strikes and 1293 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3679
+VISION SCORE METRIC B (VSA - SO%): 0.1827
 Average PA Length: 3.8237 (2581/675)
 Batting Avg: 0.291

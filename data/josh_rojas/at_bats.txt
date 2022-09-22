@@ -9,5 +9,6 @@ VISION REPORT: josh_rojas (2021-04-01 thru 2021-10-04)
      josh_rojas saw 1172 strikes and 1144 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4067
+VISION SCORE METRIC B (VSA - SO%): 0.1576
 Average PA Length: 4.1709 (2294/550)
 Batting Avg: 0.265

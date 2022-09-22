@@ -9,5 +9,6 @@ VISION REPORT: miguel_sano (2021-04-01 thru 2021-10-04)
      miguel_sano saw 1003 strikes and 1192 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4032
+VISION SCORE METRIC B (VSA - SO%): 0.0592
 Average PA Length: 4.1109 (2187/532)
 Batting Avg: 0.223

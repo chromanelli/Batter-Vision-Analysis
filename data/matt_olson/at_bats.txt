@@ -9,5 +9,6 @@ VISION REPORT: matt_olson (2021-04-01 thru 2021-10-04)
      matt_olson saw 1337 strikes and 1437 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4787
+VISION SCORE METRIC B (VSA - SO%): 0.3108
 Average PA Length: 4.0862 (2750/673)
 Batting Avg: 0.271

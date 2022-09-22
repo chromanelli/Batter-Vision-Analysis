@@ -9,5 +9,6 @@ VISION REPORT: jonathan_schoop (2021-04-01 thru 2021-10-04)
      jonathan_schoop saw 1249 strikes and 1339 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3671
+VISION SCORE METRIC B (VSA - SO%): 0.1697
 Average PA Length: 3.8086 (2567/674)
 Batting Avg: 0.278

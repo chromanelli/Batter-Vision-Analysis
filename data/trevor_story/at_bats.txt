@@ -9,5 +9,6 @@ VISION REPORT: trevor_story (2021-04-01 thru 2021-10-04)
      trevor_story saw 1136 strikes and 1266 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4330
+VISION SCORE METRIC B (VSA - SO%): 0.1994
 Average PA Length: 4.0067 (2384/595)
 Batting Avg: 0.251

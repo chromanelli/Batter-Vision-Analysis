@@ -57,8 +57,8 @@
 55,2021-09-29,518692,605400,,foul,4,Freddie Freeman singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 2nd.,2,0,0,3,1,-0.42,2.93
 56,2021-09-29,518692,621237,strikeout,swinging_strike,8,Freddie Freeman strikes out swinging.,1,2,0,4,7,0.13,1.7
 57,2021-09-29,518692,605400,,ball,14,Freddie Freeman singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 2nd.,1,0,0,2,1,1.17,0.87
-58,2021-09-29,518692,621237,,foul,9,Freddie Freeman strikes out swinging.,1,1,0,3,7,0.43,1.72
-59,2021-09-29,518692,605400,,ball,14,Freddie Freeman singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 2nd.,0,0,0,1,1,1.42,1.53
+58,2021-09-29,518692,605400,,ball,14,Freddie Freeman singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 2nd.,0,0,0,1,1,1.42,1.53
+59,2021-09-29,518692,621237,,foul,9,Freddie Freeman strikes out swinging.,1,1,0,3,7,0.43,1.72
 60,2021-09-29,518692,621237,,called_strike,3,Freddie Freeman strikes out swinging.,1,0,0,2,7,0.51,3.5
 61,2021-09-29,518692,641401,field_out,hit_into_play,8,Freddie Freeman pops out to catcher J.  T. Realmuto in foul territory.,0,1,0,2,8,0.08,1.71
 62,2021-09-29,518692,621237,,ball,13,Freddie Freeman strikes out swinging.,0,0,0,1,7,-1.8,2.53
@@ -75,8 +75,8 @@
 73,2021-09-28,518692,593576,,swinging_strike,7,Freddie Freeman walks.   Jorge Soler to 2nd.,2,1,1,4,8,-0.35,1.74
 74,2021-09-28,518692,593576,,ball,11,Freddie Freeman walks.   Jorge Soler to 2nd.,1,1,1,3,8,-0.26,3.69
 75,2021-09-28,518692,593576,,called_strike,7,Freddie Freeman walks.   Jorge Soler to 2nd.,1,0,1,2,8,-0.55,1.79
-76,2021-09-28,518692,554430,field_out,hit_into_play,6,Freddie Freeman lines out to left fielder Andrew McCutchen.,0,2,1,3,1,0.43,2.5
-77,2021-09-28,518692,593576,,ball,13,Freddie Freeman walks.   Jorge Soler to 2nd.,0,0,1,1,8,-0.96,1.76
+76,2021-09-28,518692,593576,,ball,13,Freddie Freeman walks.   Jorge Soler to 2nd.,0,0,1,1,8,-0.96,1.76
+77,2021-09-28,518692,554430,field_out,hit_into_play,6,Freddie Freeman lines out to left fielder Andrew McCutchen.,0,2,1,3,1,0.43,2.5
 78,2021-09-28,518692,554430,,called_strike,5,Freddie Freeman lines out to left fielder Andrew McCutchen.,0,1,1,2,1,-0.22,2.49
 79,2021-09-28,518692,554430,,swinging_strike,4,Freddie Freeman lines out to left fielder Andrew McCutchen.,0,0,1,1,1,-0.45,2.98
 80,2021-09-26,518692,605397,single,hit_into_play,7,Freddie Freeman singles on a sharp ground ball to center fielder Trent Grisham.,2,2,0,7,5,-0.77,2.09
@@ -112,8 +112,8 @@
 110,2021-09-25,518692,622503,single,hit_into_play,13,Freddie Freeman singles on a ground ball to second baseman Adam Frazier.,0,2,1,4,6,-0.31,1.14
 111,2021-09-25,518692,622503,,foul,14,Freddie Freeman singles on a ground ball to second baseman Adam Frazier.,0,2,1,3,6,1.26,1.25
 112,2021-09-25,518692,622503,,called_strike,7,Freddie Freeman singles on a ground ball to second baseman Adam Frazier.,0,1,1,2,6,-0.63,2.22
-113,2021-09-25,518692,622503,,called_strike,1,Freddie Freeman singles on a ground ball to second baseman Adam Frazier.,0,0,1,1,6,-0.59,3.25
-114,2021-09-25,518692,677960,strikeout,foul_tip,3,Freddie Freeman strikes out on a foul tip.,3,2,1,6,5,0.33,3.68
+113,2021-09-25,518692,677960,strikeout,foul_tip,3,Freddie Freeman strikes out on a foul tip.,3,2,1,6,5,0.33,3.68
+114,2021-09-25,518692,622503,,called_strike,1,Freddie Freeman singles on a ground ball to second baseman Adam Frazier.,0,0,1,1,6,-0.59,3.25
 115,2021-09-25,518692,677960,,foul_tip,12,Freddie Freeman strikes out on a foul tip.,3,1,1,5,5,0.04,3.8
 116,2021-09-25,518692,677960,,ball,2,Freddie Freeman strikes out on a foul tip.,2,1,1,4,5,0.11,3.54
 117,2021-09-25,518692,677960,,foul,5,Freddie Freeman strikes out on a foul tip.,2,0,1,3,5,0.25,2.33
@@ -172,12 +172,12 @@
 170,2021-09-22,518692,461325,,foul,9,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,2,2,2,6,9,0.49,1.58
 171,2021-09-22,518692,461325,,foul,11,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,2,2,2,5,9,-0.23,4.13
 172,2021-09-22,518692,592761,field_out,hit_into_play,8,Freddie Freeman flies out to left fielder David Peralta.,1,2,1,4,7,0.11,1.89
-173,2021-09-22,518692,461325,,ball,11,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,1,2,2,4,9,-1.66,3.55
-174,2021-09-22,518692,592761,,ball,11,Freddie Freeman flies out to left fielder David Peralta.,0,2,1,3,7,-0.96,3.08
-175,2021-09-22,518692,592761,,foul,5,Freddie Freeman flies out to left fielder David Peralta.,0,1,1,2,7,-0.14,2.86
-176,2021-09-22,518692,461325,,ball,11,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,0,2,2,3,9,-0.74,4.45
-177,2021-09-22,518692,592761,,swinging_strike,13,Freddie Freeman flies out to left fielder David Peralta.,0,0,1,1,7,-0.13,1.09
-178,2021-09-22,518692,461325,,foul,7,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,0,1,2,2,9,-0.82,1.67
+173,2021-09-22,518692,592761,,ball,11,Freddie Freeman flies out to left fielder David Peralta.,0,2,1,3,7,-0.96,3.08
+174,2021-09-22,518692,461325,,ball,11,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,1,2,2,4,9,-1.66,3.55
+175,2021-09-22,518692,461325,,ball,11,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,0,2,2,3,9,-0.74,4.45
+176,2021-09-22,518692,592761,,foul,5,Freddie Freeman flies out to left fielder David Peralta.,0,1,1,2,7,-0.14,2.86
+177,2021-09-22,518692,461325,,foul,7,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,0,1,2,2,9,-0.82,1.67
+178,2021-09-22,518692,592761,,swinging_strike,13,Freddie Freeman flies out to left fielder David Peralta.,0,0,1,1,7,-0.13,1.09
 179,2021-09-22,518692,461325,,called_strike,1,Freddie Freeman homers (31) on a fly ball to right center field.    Joc Pederson scores.,0,0,2,1,9,-0.51,3.17
 180,2021-09-22,518692,518876,double,hit_into_play,8,Freddie Freeman doubles (24) on a sharp fly ball to center fielder Jake McCarthy.   Jorge Soler to 3rd.,0,1,0,2,1,0.05,1.95
 181,2021-09-22,518692,518876,,foul,5,Freddie Freeman doubles (24) on a sharp fly ball to center fielder Jake McCarthy.   Jorge Soler to 3rd.,0,0,0,1,1,0.19,2.37
@@ -193,8 +193,8 @@
 191,2021-09-21,518692,596133,,called_strike,13,"Freddie Freeman grounds into a force out, second baseman Ketel Marte to shortstop Ildemaro Vargas.   Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,1,0,3,1,-0.75,1.5
 192,2021-09-21,518692,596133,,ball,12,"Freddie Freeman grounds into a force out, second baseman Ketel Marte to shortstop Ildemaro Vargas.   Jorge Soler out at 2nd.    Freddie Freeman to 1st.",0,1,0,2,1,1.71,2.99
 193,2021-09-21,518692,573009,strikeout,called_strike,7,Freddie Freeman called out on strikes.,1,2,2,6,7,-0.41,1.78
-194,2021-09-21,518692,596133,,foul,1,"Freddie Freeman grounds into a force out, second baseman Ketel Marte to shortstop Ildemaro Vargas.   Jorge Soler out at 2nd.    Freddie Freeman to 1st.",0,0,0,1,1,-0.42,3.23
-195,2021-09-21,518692,573009,,foul,14,Freddie Freeman called out on strikes.,1,2,2,5,7,1.37,1.95
+194,2021-09-21,518692,573009,,foul,14,Freddie Freeman called out on strikes.,1,2,2,5,7,1.37,1.95
+195,2021-09-21,518692,596133,,foul,1,"Freddie Freeman grounds into a force out, second baseman Ketel Marte to shortstop Ildemaro Vargas.   Jorge Soler out at 2nd.    Freddie Freeman to 1st.",0,0,0,1,1,-0.42,3.23
 196,2021-09-21,518692,573009,,blocked_ball,13,Freddie Freeman called out on strikes.,0,2,2,4,7,-2.35,-0.07
 197,2021-09-21,518692,573009,,foul,7,Freddie Freeman called out on strikes.,0,2,2,3,7,-0.79,1.65
 198,2021-09-21,518692,573009,,swinging_strike,13,Freddie Freeman called out on strikes.,0,1,2,2,7,-0.91,1.19
@@ -229,8 +229,8 @@
 227,2021-09-18,518692,643511,,ball,11,Freddie Freeman flies out to left fielder LaMonte Wade in foul territory.,0,2,2,4,8,-1.52,2.93
 228,2021-09-18,518692,641793,single,hit_into_play,5,Freddie Freeman singles on a line drive to left fielder LaMonte Wade.   Jorge Soler to 3rd.,1,2,0,5,4,-0.02,2.59
 229,2021-09-18,518692,643511,,foul,9,Freddie Freeman flies out to left fielder LaMonte Wade in foul territory.,0,2,2,3,8,0.32,1.79
-230,2021-09-18,518692,643511,,foul,4,Freddie Freeman flies out to left fielder LaMonte Wade in foul territory.,0,1,2,2,8,-0.57,2.53
-231,2021-09-18,518692,641793,,foul,6,Freddie Freeman singles on a line drive to left fielder LaMonte Wade.   Jorge Soler to 3rd.,1,2,0,4,4,0.39,2.95
+230,2021-09-18,518692,641793,,foul,6,Freddie Freeman singles on a line drive to left fielder LaMonte Wade.   Jorge Soler to 3rd.,1,2,0,4,4,0.39,2.95
+231,2021-09-18,518692,643511,,foul,4,Freddie Freeman flies out to left fielder LaMonte Wade in foul territory.,0,1,2,2,8,-0.57,2.53
 232,2021-09-18,518692,643511,,foul,3,Freddie Freeman flies out to left fielder LaMonte Wade in foul territory.,0,0,2,1,8,0.79,3.08
 233,2021-09-18,518692,641793,,ball,13,Freddie Freeman singles on a line drive to left fielder LaMonte Wade.   Jorge Soler to 3rd.,0,2,0,3,4,-0.32,1.06
 234,2021-09-18,518692,641793,,foul,9,Freddie Freeman singles on a line drive to left fielder LaMonte Wade.   Jorge Soler to 3rd.,0,1,0,2,4,0.28,1.9
@@ -300,14 +300,14 @@
 298,2021-09-12,518692,665795,field_out,hit_into_play,8,Freddie Freeman flies out to center fielder Bryan De La Cruz.,3,2,2,6,1,0.03,1.71
 299,2021-09-12,518692,592865,field_out,hit_into_play,11,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",2,2,0,6,5,-1.38,2.85
 300,2021-09-12,518692,665795,,ball,14,Freddie Freeman flies out to center fielder Bryan De La Cruz.,2,2,2,5,1,1.54,1.98
-301,2021-09-12,518692,665795,,ball,14,Freddie Freeman flies out to center fielder Bryan De La Cruz.,1,2,2,4,1,0.35,-0.15
-302,2021-09-12,518692,592865,,foul,2,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",2,2,0,5,5,-0.05,3.13
+301,2021-09-12,518692,592865,,foul,2,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",2,2,0,5,5,-0.05,3.13
+302,2021-09-12,518692,665795,,ball,14,Freddie Freeman flies out to center fielder Bryan De La Cruz.,1,2,2,4,1,0.35,-0.15
 303,2021-09-12,518692,665795,,swinging_strike,9,Freddie Freeman flies out to center fielder Bryan De La Cruz.,1,1,2,3,1,0.47,1.74
 304,2021-09-12,518692,592865,,foul,6,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",2,1,0,4,5,0.55,2.86
-305,2021-09-12,518692,665795,,ball,14,Freddie Freeman flies out to center fielder Bryan De La Cruz.,0,1,2,2,1,0.44,1.25
-306,2021-09-12,518692,592865,,called_strike,4,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",2,0,0,3,5,-0.43,2.94
-307,2021-09-12,518692,592865,,ball,1,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",1,0,0,2,5,-0.6,3.49
-308,2021-09-12,518692,665795,,swinging_strike,14,Freddie Freeman flies out to center fielder Bryan De La Cruz.,0,0,2,1,1,0.45,1.4
+305,2021-09-12,518692,592865,,called_strike,4,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",2,0,0,3,5,-0.43,2.94
+306,2021-09-12,518692,665795,,ball,14,Freddie Freeman flies out to center fielder Bryan De La Cruz.,0,1,2,2,1,0.44,1.25
+307,2021-09-12,518692,665795,,swinging_strike,14,Freddie Freeman flies out to center fielder Bryan De La Cruz.,0,0,2,1,1,0.45,1.4
+308,2021-09-12,518692,592865,,ball,1,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",1,0,0,2,5,-0.6,3.49
 309,2021-09-12,518692,592865,,ball,13,"Freddie Freeman grounds out, third baseman Eddy Alvarez to first baseman Joe Panik.",0,0,0,1,5,-0.96,2.01
 310,2021-09-11,518692,622694,single,hit_into_play,7,Freddie Freeman singles on a ground ball to right fielder Jesus Sanchez.   Jorge Soler scores.    Freddie Freeman to 2nd.,2,2,2,5,5,-0.4,1.69
 311,2021-09-11,518692,622694,,ball,11,Freddie Freeman singles on a ground ball to right fielder Jesus Sanchez.   Jorge Soler scores.    Freddie Freeman to 2nd.,1,2,2,4,5,-0.83,4.48
@@ -324,16 +324,16 @@
 322,2021-09-11,518692,622694,,called_strike,7,"Freddie Freeman grounds out, first baseman Lewin Diaz to pitcher Elieser Hernandez.",0,0,2,1,3,-0.37,1.74
 323,2021-09-11,518692,571670,single,hit_into_play,12,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,1,2,2,7,9,0.91,3.07
 324,2021-09-11,518692,571670,,ball,11,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,2,2,6,9,-1.53,3.34
-325,2021-09-11,518692,542914,force_out,hit_into_play,7,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",2,2,2,5,7,-0.61,2.08
-326,2021-09-11,518692,571670,,foul,3,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,2,2,5,9,0.44,3.3
-327,2021-09-11,518692,542914,,blocked_ball,14,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",1,2,2,4,7,0.11,0.82
-328,2021-09-11,518692,571670,,foul,13,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,2,2,4,9,-1.02,1.84
+325,2021-09-11,518692,571670,,foul,3,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,2,2,5,9,0.44,3.3
+326,2021-09-11,518692,542914,force_out,hit_into_play,7,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",2,2,2,5,7,-0.61,2.08
+327,2021-09-11,518692,571670,,foul,13,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,2,2,4,9,-1.02,1.84
+328,2021-09-11,518692,542914,,blocked_ball,14,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",1,2,2,4,7,0.11,0.82
 329,2021-09-11,518692,542914,,ball,12,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",0,2,2,3,7,0.31,4.22
 330,2021-09-11,518692,571670,,foul,2,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,2,2,3,9,0.25,3.59
-331,2021-09-11,518692,542914,,foul,14,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",0,1,2,2,7,0.91,1.73
-332,2021-09-11,518692,571670,,foul,2,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,1,2,2,9,-0.08,3.41
-333,2021-09-11,518692,542914,,foul,8,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",0,0,2,1,7,-0.08,1.64
-334,2021-09-11,518692,571670,,swinging_strike,5,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,0,2,1,9,0.02,2.92
+331,2021-09-11,518692,571670,,foul,2,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,1,2,2,9,-0.08,3.41
+332,2021-09-11,518692,542914,,foul,14,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",0,1,2,2,7,0.91,1.73
+333,2021-09-11,518692,571670,,swinging_strike,5,Freddie Freeman singles on a fly ball to right fielder Jesus Sanchez.   Ehire Adrianza scores.,0,0,2,1,9,0.02,2.92
+334,2021-09-11,518692,542914,,foul,8,"Freddie Freeman grounds into a force out, fielded by shortstop Miguel Rojas.   Jorge Soler out at 2nd.",0,0,2,1,7,-0.08,1.64
 335,2021-09-11,518692,622694,force_out,hit_into_play,8,"Freddie Freeman grounds into a force out, third baseman Eddy Alvarez to shortstop Miguel Rojas.   Ozzie Albies out at 2nd.    Freddie Freeman to 1st.",1,2,1,4,1,-0.18,1.73
 336,2021-09-11,518692,622694,,foul,1,"Freddie Freeman grounds into a force out, third baseman Eddy Alvarez to shortstop Miguel Rojas.   Ozzie Albies out at 2nd.    Freddie Freeman to 1st.",1,1,1,3,1,-0.42,3.39
 337,2021-09-11,518692,622694,,foul,6,"Freddie Freeman grounds into a force out, third baseman Eddy Alvarez to shortstop Miguel Rojas.   Ozzie Albies out at 2nd.    Freddie Freeman to 1st.",1,0,1,2,1,0.44,2.7
@@ -373,12 +373,12 @@
 371,2021-09-09,518692,607200,,ball,13,Freddie Freeman doubles (21) on a sharp fly ball to left fielder Yadiel Hernandez.,0,0,1,1,4,-1.12,1.23
 372,2021-09-09,518692,593833,field_out,hit_into_play,3,Freddie Freeman flies out to right fielder Juan Soto.   Ozzie Albies to 3rd.,2,2,0,5,10,0.69,3.35
 373,2021-09-09,518692,593833,,ball,11,Freddie Freeman flies out to right fielder Juan Soto.   Ozzie Albies to 3rd.,1,2,0,4,10,-0.52,5.47
-374,2021-09-09,518692,607200,strikeout,swinging_strike,9,Freddie Freeman strikes out swinging.,3,2,2,7,1,0.58,2.02
-375,2021-09-09,518692,593833,,foul,9,Freddie Freeman flies out to right fielder Juan Soto.   Ozzie Albies to 3rd.,1,1,0,3,10,0.66,1.94
+374,2021-09-09,518692,593833,,foul,9,Freddie Freeman flies out to right fielder Juan Soto.   Ozzie Albies to 3rd.,1,1,0,3,10,0.66,1.94
+375,2021-09-09,518692,607200,strikeout,swinging_strike,9,Freddie Freeman strikes out swinging.,3,2,2,7,1,0.58,2.02
 376,2021-09-09,518692,593833,,swinging_strike,1,Freddie Freeman flies out to right fielder Juan Soto.   Ozzie Albies to 3rd.,1,0,0,2,10,-0.35,3.44
 377,2021-09-09,518692,607200,,foul,7,Freddie Freeman strikes out swinging.,3,2,2,6,1,-0.46,1.75
-378,2021-09-09,518692,607200,,ball,11,Freddie Freeman strikes out swinging.,2,2,2,5,1,-0.27,3.9
-379,2021-09-09,518692,593833,,ball,12,Freddie Freeman flies out to right fielder Juan Soto.   Ozzie Albies to 3rd.,0,0,0,1,10,0.57,4.47
+378,2021-09-09,518692,593833,,ball,12,Freddie Freeman flies out to right fielder Juan Soto.   Ozzie Albies to 3rd.,0,0,0,1,10,0.57,4.47
+379,2021-09-09,518692,607200,,ball,11,Freddie Freeman strikes out swinging.,2,2,2,5,1,-0.27,3.9
 380,2021-09-09,518692,607200,,foul,9,Freddie Freeman strikes out swinging.,2,1,2,4,1,0.54,1.98
 381,2021-09-09,518692,607200,,ball,11,Freddie Freeman strikes out swinging.,1,1,2,3,1,-0.06,4.09
 382,2021-09-09,518692,607200,,ball,13,Freddie Freeman strikes out swinging.,0,1,2,2,1,-1.35,0.68
@@ -562,10 +562,10 @@
 560,2021-08-28,518692,657277,strikeout,swinging_strike,5,Freddie Freeman strikes out swinging.,2,2,1,5,1,-0.21,2.53
 561,2021-08-28,518692,657277,,ball,11,Freddie Freeman strikes out swinging.,1,2,1,4,1,-2.01,4.7
 562,2021-08-28,518692,657277,,foul,5,Freddie Freeman strikes out swinging.,1,1,1,3,1,-0.16,2.44
-563,2021-08-28,518692,657277,,ball,3,Freddie Freeman strikes out swinging.,0,1,1,2,1,0.76,3.05
-564,2021-08-28,518692,643511,strikeout,swinging_strike,13,Freddie Freeman strikes out swinging.,0,2,0,3,8,-1.11,1.71
-565,2021-08-28,518692,643511,,foul,8,Freddie Freeman strikes out swinging.,0,1,0,2,8,0.08,2.02
-566,2021-08-28,518692,657277,,called_strike,4,Freddie Freeman strikes out swinging.,0,0,1,1,1,-0.41,2.58
+563,2021-08-28,518692,643511,strikeout,swinging_strike,13,Freddie Freeman strikes out swinging.,0,2,0,3,8,-1.11,1.71
+564,2021-08-28,518692,657277,,ball,3,Freddie Freeman strikes out swinging.,0,1,1,2,1,0.76,3.05
+565,2021-08-28,518692,657277,,called_strike,4,Freddie Freeman strikes out swinging.,0,0,1,1,1,-0.41,2.58
+566,2021-08-28,518692,643511,,foul,8,Freddie Freeman strikes out swinging.,0,1,0,2,8,0.08,2.02
 567,2021-08-28,518692,643511,,called_strike,13,Freddie Freeman strikes out swinging.,0,0,0,1,8,-1.0,1.86
 568,2021-08-27,518692,592332,field_out,hit_into_play,5,Freddie Freeman flies out to right fielder Mike Yastrzemski.,0,0,2,1,5,-0.16,2.37
 569,2021-08-27,518692,592332,field_out,hit_into_play,13,"Freddie Freeman grounds out, second baseman Tommy La Stella to first baseman Darin Ruf.   Jorge Soler to 3rd.",2,1,0,4,3,-0.61,1.48
@@ -573,8 +573,8 @@
 571,2021-08-27,518692,592332,,ball,14,"Freddie Freeman grounds out, second baseman Tommy La Stella to first baseman Darin Ruf.   Jorge Soler to 3rd.",0,1,0,2,3,1.09,1.19
 572,2021-08-27,518692,592332,,foul,14,"Freddie Freeman grounds out, second baseman Tommy La Stella to first baseman Darin Ruf.   Jorge Soler to 3rd.",0,0,0,1,3,0.15,1.22
 573,2021-08-27,518692,641793,field_out,hit_into_play,9,"Freddie Freeman grounds out, third baseman Wilmer Flores to first baseman Darin Ruf.",3,2,1,6,7,0.81,1.68
-574,2021-08-27,518692,641793,,swinging_strike,5,"Freddie Freeman grounds out, third baseman Wilmer Flores to first baseman Darin Ruf.",3,1,1,5,7,-0.26,2.47
-575,2021-08-27,518692,592332,field_out,hit_into_play,7,Freddie Freeman flies out to left fielder Darin Ruf.,0,0,1,1,1,-0.44,1.93
+574,2021-08-27,518692,592332,field_out,hit_into_play,7,Freddie Freeman flies out to left fielder Darin Ruf.,0,0,1,1,1,-0.44,1.93
+575,2021-08-27,518692,641793,,swinging_strike,5,"Freddie Freeman grounds out, third baseman Wilmer Flores to first baseman Darin Ruf.",3,1,1,5,7,-0.26,2.47
 576,2021-08-27,518692,641793,,ball,11,"Freddie Freeman grounds out, third baseman Wilmer Flores to first baseman Darin Ruf.",2,1,1,4,7,-1.7,3.12
 577,2021-08-27,518692,641793,,ball,11,"Freddie Freeman grounds out, third baseman Wilmer Flores to first baseman Darin Ruf.",1,1,1,3,7,-1.17,2.82
 578,2021-08-27,518692,641793,,called_strike,4,"Freddie Freeman grounds out, third baseman Wilmer Flores to first baseman Darin Ruf.",1,0,1,2,7,-0.77,2.38
@@ -593,18 +593,18 @@
 591,2021-08-24,518692,593974,,foul,14,Freddie Freeman flies out to left fielder Joey Gallo.,3,2,2,7,9,0.94,2.32
 592,2021-08-24,518692,571760,,ball,13,Freddie Freeman walks.,1,1,2,3,1,-1.12,0.92
 593,2021-08-24,518692,593974,,foul,8,Freddie Freeman flies out to left fielder Joey Gallo.,3,2,2,6,9,-0.1,2.24
-594,2021-08-24,518692,570257,force_out,hit_into_play,13,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,2,1,5,5,-0.06,1.5
+594,2021-08-24,518692,593974,,foul,5,Freddie Freeman flies out to left fielder Joey Gallo.,3,1,2,5,9,0.27,2.51
 595,2021-08-24,518692,571760,,ball,12,Freddie Freeman walks.,0,1,2,2,1,1.61,4.08
-596,2021-08-24,518692,593974,,foul,5,Freddie Freeman flies out to left fielder Joey Gallo.,3,1,2,5,9,0.27,2.51
-597,2021-08-24,518692,593974,,ball,13,Freddie Freeman flies out to left fielder Joey Gallo.,2,1,2,4,9,-0.35,0.83
-598,2021-08-24,518692,570257,,foul,5,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,2,1,4,5,0.16,2.52
-599,2021-08-24,518692,571760,,called_strike,6,Freddie Freeman walks.,0,0,2,1,1,0.53,2.43
-600,2021-08-24,518692,570257,,foul,5,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,1,1,3,5,0.2,2.82
-601,2021-08-24,518692,593974,,ball,13,Freddie Freeman flies out to left fielder Joey Gallo.,1,1,2,3,9,-0.45,1.52
+596,2021-08-24,518692,570257,force_out,hit_into_play,13,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,2,1,5,5,-0.06,1.5
+597,2021-08-24,518692,570257,,foul,5,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,2,1,4,5,0.16,2.52
+598,2021-08-24,518692,571760,,called_strike,6,Freddie Freeman walks.,0,0,2,1,1,0.53,2.43
+599,2021-08-24,518692,593974,,ball,13,Freddie Freeman flies out to left fielder Joey Gallo.,2,1,2,4,9,-0.35,0.83
+600,2021-08-24,518692,593974,,ball,13,Freddie Freeman flies out to left fielder Joey Gallo.,1,1,2,3,9,-0.45,1.52
+601,2021-08-24,518692,570257,,foul,5,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,1,1,3,5,0.2,2.82
 602,2021-08-24,518692,570257,,swinging_strike,4,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",1,0,1,2,5,-0.3,2.4
 603,2021-08-24,518692,593974,,foul,5,Freddie Freeman flies out to left fielder Joey Gallo.,1,0,2,2,9,0.08,2.65
-604,2021-08-24,518692,570257,,blocked_ball,14,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",0,0,1,1,5,0.16,0.16
-605,2021-08-24,518692,593974,,ball,14,Freddie Freeman flies out to left fielder Joey Gallo.,0,0,2,1,9,0.11,1.48
+604,2021-08-24,518692,593974,,ball,14,Freddie Freeman flies out to left fielder Joey Gallo.,0,0,2,1,9,0.11,1.48
+605,2021-08-24,518692,570257,,blocked_ball,14,"Freddie Freeman grounds into a force out, third baseman Rougned Odor to shortstop Andrew Velazquez.   Ozzie Albies to 3rd.    Jorge Soler out at 2nd.    Freddie Freeman to 1st.",0,0,1,1,5,0.16,0.16
 606,2021-08-23,518692,656756,field_out,hit_into_play,9,Freddie Freeman lines out to center fielder Aaron Judge.,0,0,2,1,5,0.46,2.27
 607,2021-08-23,518692,656756,field_out,hit_into_play,13,"Freddie Freeman grounds out, third baseman Rougned Odor to first baseman Anthony Rizzo.",1,2,2,4,3,-0.59,1.32
 608,2021-08-23,518692,656756,,foul,14,"Freddie Freeman grounds out, third baseman Rougned Odor to first baseman Anthony Rizzo.",1,1,2,3,3,0.94,2.15
@@ -645,10 +645,10 @@
 643,2021-08-21,518692,518774,,foul,6,Freddie Freeman singles on a sharp line drive to left fielder Austin Hays.   Jorge Soler to 2nd.,1,2,1,5,1,0.7,2.35
 644,2021-08-21,518692,518774,,foul,3,Freddie Freeman singles on a sharp line drive to left fielder Austin Hays.   Jorge Soler to 2nd.,1,2,1,4,1,0.56,3.12
 645,2021-08-21,518692,669330,strikeout,swinging_strike,6,Freddie Freeman strikes out swinging.,1,2,2,4,9,0.35,2.68
-646,2021-08-21,518692,518774,,foul,7,Freddie Freeman singles on a sharp line drive to left fielder Austin Hays.   Jorge Soler to 2nd.,1,1,1,3,1,-0.33,1.7
-647,2021-08-21,518692,669330,,foul,6,Freddie Freeman strikes out swinging.,1,1,2,3,9,0.78,2.42
-648,2021-08-21,518692,518774,,ball,13,Freddie Freeman singles on a sharp line drive to left fielder Austin Hays.   Jorge Soler to 2nd.,0,1,1,2,1,-0.25,1.24
-649,2021-08-21,518692,669330,,foul,2,Freddie Freeman strikes out swinging.,1,0,2,2,9,0.12,3.35
+646,2021-08-21,518692,669330,,foul,6,Freddie Freeman strikes out swinging.,1,1,2,3,9,0.78,2.42
+647,2021-08-21,518692,518774,,foul,7,Freddie Freeman singles on a sharp line drive to left fielder Austin Hays.   Jorge Soler to 2nd.,1,1,1,3,1,-0.33,1.7
+648,2021-08-21,518692,669330,,foul,2,Freddie Freeman strikes out swinging.,1,0,2,2,9,0.12,3.35
+649,2021-08-21,518692,518774,,ball,13,Freddie Freeman singles on a sharp line drive to left fielder Austin Hays.   Jorge Soler to 2nd.,0,1,1,2,1,-0.25,1.24
 650,2021-08-21,518692,669330,,ball,3,Freddie Freeman strikes out swinging.,0,0,2,1,9,0.49,3.8
 651,2021-08-21,518692,518774,,swinging_strike,14,Freddie Freeman singles on a sharp line drive to left fielder Austin Hays.   Jorge Soler to 2nd.,0,0,1,1,1,0.87,1.54
 652,2021-08-20,518692,669211,field_out,hit_into_play,7,"Freddie Freeman grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",0,1,1,2,5,-0.39,2.12
@@ -677,8 +677,8 @@
 675,2021-08-18,518692,650347,,called_strike,2,Freddie Freeman homers (27) on a fly ball to center field.   Jorge Soler scores.,0,0,2,1,6,0.26,3.46
 676,2021-08-18,518692,666200,double,hit_into_play,6,"Freddie Freeman doubles (15) on a line drive to right fielder Jesus Sanchez.  Jorge Soler out at home on the throw, right fielder Jesus Sanchez to second baseman Jazz Chisholm to catcher Alex Jackson.   Freddie Freeman to 3rd.",1,0,1,2,1,0.31,2.43
 677,2021-08-18,518692,666200,,ball,12,"Freddie Freeman doubles (15) on a line drive to right fielder Jesus Sanchez.  Jorge Soler out at home on the throw, right fielder Jesus Sanchez to second baseman Jazz Chisholm to catcher Alex Jackson.   Freddie Freeman to 3rd.",0,0,1,1,1,1.29,4.22
-678,2021-08-18,518692,506702,field_out,hit_into_play,5,Freddie Freeman flies out sharply to left fielder Lewis Brinson.,0,1,1,2,9,0.12,2.93
-679,2021-08-18,518692,674944,single,hit_into_play,9,"Freddie Freeman singles on a ground ball to right fielder Jesus Sanchez, deflected by first baseman Jesus Aguilar.",1,1,0,3,5,0.83,2.22
+678,2021-08-18,518692,674944,single,hit_into_play,9,"Freddie Freeman singles on a ground ball to right fielder Jesus Sanchez, deflected by first baseman Jesus Aguilar.",1,1,0,3,5,0.83,2.22
+679,2021-08-18,518692,506702,field_out,hit_into_play,5,Freddie Freeman flies out sharply to left fielder Lewis Brinson.,0,1,1,2,9,0.12,2.93
 680,2021-08-18,518692,506702,,called_strike,4,Freddie Freeman flies out sharply to left fielder Lewis Brinson.,0,0,1,1,9,-0.67,2.59
 681,2021-08-18,518692,674944,,ball,14,"Freddie Freeman singles on a ground ball to right fielder Jesus Sanchez, deflected by first baseman Jesus Aguilar.",0,1,0,2,5,0.84,0.96
 682,2021-08-18,518692,674944,,called_strike,2,"Freddie Freeman singles on a ground ball to right fielder Jesus Sanchez, deflected by first baseman Jesus Aguilar.",0,0,0,1,5,0.27,3.52
@@ -697,13 +697,13 @@
 695,2021-08-16,518692,666129,,ball,7,Freddie Freeman walks.   Ozzie Albies to 3rd.    Jorge Soler to 2nd.,2,1,0,4,1,-0.57,1.78
 696,2021-08-16,518692,666129,,ball,13,Freddie Freeman walks.   Ozzie Albies to 3rd.    Jorge Soler to 2nd.,1,1,0,3,1,-0.6,0.97
 697,2021-08-16,518692,666129,,ball,13,Freddie Freeman walks.   Ozzie Albies to 3rd.    Jorge Soler to 2nd.,0,1,0,2,1,-1.71,0.87
-698,2021-08-16,518692,669294,home_run,hit_into_play,2,Freddie Freeman homers (26) on a fly ball to right center field.    Touki Toussaint scores.    Ozzie Albies scores.,3,1,1,5,4,-0.24,3.09
-699,2021-08-16,518692,666129,,swinging_strike,14,Freddie Freeman walks.   Ozzie Albies to 3rd.    Jorge Soler to 2nd.,0,0,0,1,1,0.88,2.18
+698,2021-08-16,518692,666129,,swinging_strike,14,Freddie Freeman walks.   Ozzie Albies to 3rd.    Jorge Soler to 2nd.,0,0,0,1,1,0.88,2.18
+699,2021-08-16,518692,669294,home_run,hit_into_play,2,Freddie Freeman homers (26) on a fly ball to right center field.    Touki Toussaint scores.    Ozzie Albies scores.,3,1,1,5,4,-0.24,3.09
 700,2021-08-16,518692,669294,,ball,14,Freddie Freeman homers (26) on a fly ball to right center field.    Touki Toussaint scores.    Ozzie Albies scores.,2,1,1,4,4,1.57,2.09
 701,2021-08-16,518692,669294,,swinging_strike,13,Freddie Freeman homers (26) on a fly ball to right center field.    Touki Toussaint scores.    Ozzie Albies scores.,2,0,1,3,4,-0.61,1.45
 702,2021-08-16,518692,669294,,ball,14,Freddie Freeman homers (26) on a fly ball to right center field.    Touki Toussaint scores.    Ozzie Albies scores.,1,0,1,2,4,1.38,1.8
-703,2021-08-16,518692,669294,,blocked_ball,14,Freddie Freeman homers (26) on a fly ball to right center field.    Touki Toussaint scores.    Ozzie Albies scores.,0,0,1,1,4,1.37,0.12
-704,2021-08-16,518692,674944,single,hit_into_play,6,Freddie Freeman singles on a line drive to left fielder Bryan De La Cruz.   Jorge Soler to 3rd.,0,0,2,1,5,0.71,2.61
+703,2021-08-16,518692,674944,single,hit_into_play,6,Freddie Freeman singles on a line drive to left fielder Bryan De La Cruz.   Jorge Soler to 3rd.,0,0,2,1,5,0.71,2.61
+704,2021-08-16,518692,669294,,blocked_ball,14,Freddie Freeman homers (26) on a fly ball to right center field.    Touki Toussaint scores.    Ozzie Albies scores.,0,0,1,1,4,1.37,0.12
 705,2021-08-16,518692,660422,strikeout,swinging_strike,12,Freddie Freeman strikes out swinging.,2,2,0,6,7,0.11,4.27
 706,2021-08-16,518692,660422,,foul,11,Freddie Freeman strikes out swinging.,2,2,0,5,7,-0.18,3.86
 707,2021-08-16,518692,660422,,ball,14,Freddie Freeman strikes out swinging.,1,2,0,4,7,0.91,-0.54
@@ -716,8 +716,8 @@
 714,2021-08-15,518692,502179,field_out,hit_into_play,12,"Freddie Freeman grounds out softly, pitcher Paolo Espino to first baseman Josh Bell.",0,1,0,2,3,1.3,2.81
 715,2021-08-15,518692,502179,,foul,14,"Freddie Freeman grounds out softly, pitcher Paolo Espino to first baseman Josh Bell.",0,0,0,1,3,0.26,1.36
 716,2021-08-15,518692,600921,strikeout,swinging_strike,11,Freddie Freeman strikes out swinging.,0,2,1,3,6,-0.15,3.97
-717,2021-08-15,518692,502179,single,hit_into_play,4,Freddie Freeman singles on a line drive to center fielder Victor Robles.,0,0,2,1,1,-0.52,2.07
-718,2021-08-15,518692,600921,,foul,3,Freddie Freeman strikes out swinging.,0,1,1,2,6,0.79,3.22
+717,2021-08-15,518692,600921,,foul,3,Freddie Freeman strikes out swinging.,0,1,1,2,6,0.79,3.22
+718,2021-08-15,518692,502179,single,hit_into_play,4,Freddie Freeman singles on a line drive to center fielder Victor Robles.,0,0,2,1,1,-0.52,2.07
 719,2021-08-15,518692,600921,,foul,9,Freddie Freeman strikes out swinging.,0,0,1,1,6,0.46,1.95
 720,2021-08-15,518692,640448,field_out,hit_into_play,11,Freddie Freeman flies out to left fielder Lane Thomas.,0,1,0,2,9,-0.45,3.8
 721,2021-08-15,518692,640448,,swinging_strike,7,Freddie Freeman flies out to left fielder Lane Thomas.,0,0,0,1,9,-0.48,1.66
@@ -751,8 +751,8 @@
 749,2021-08-13,518692,680686,,ball,14,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Josiah Gray.",1,0,1,2,4,0.31,1.02
 750,2021-08-13,518692,680686,,ball,13,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Josiah Gray.",0,0,1,1,4,-0.96,2.48
 751,2021-08-13,518692,680686,strikeout,swinging_strike,12,Freddie Freeman strikes out swinging.,2,2,2,5,1,0.23,3.9
-752,2021-08-13,518692,600921,field_out,hit_into_play,6,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Andres Machado.",0,0,2,1,8,0.66,2.71
-753,2021-08-13,518692,680686,,foul,3,Freddie Freeman strikes out swinging.,2,1,2,4,1,0.58,3.23
+752,2021-08-13,518692,680686,,foul,3,Freddie Freeman strikes out swinging.,2,1,2,4,1,0.58,3.23
+753,2021-08-13,518692,600921,field_out,hit_into_play,6,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Andres Machado.",0,0,2,1,8,0.66,2.71
 754,2021-08-13,518692,680686,,ball,14,Freddie Freeman strikes out swinging.,1,1,2,3,1,1.92,-0.07
 755,2021-08-13,518692,680686,,ball,11,Freddie Freeman strikes out swinging.,0,1,2,2,1,-1.77,4.12
 756,2021-08-13,518692,680686,,called_strike,6,Freddie Freeman strikes out swinging.,0,0,2,1,1,0.43,3.01
@@ -872,8 +872,8 @@
 870,2021-08-01,518692,642207,,foul,5,Freddie Freeman strikes out on a foul tip.,0,2,0,3,8,0.26,2.9
 871,2021-08-01,518692,642207,,foul_tip,14,Freddie Freeman strikes out on a foul tip.,0,1,0,2,8,0.04,1.09
 872,2021-08-01,518692,474463,field_out,hit_into_play,9,Freddie Freeman lines out sharply to second baseman Luis Urias.,1,1,2,3,1,0.76,1.81
-873,2021-08-01,518692,642207,,swinging_strike,9,Freddie Freeman strikes out on a foul tip.,0,0,0,1,8,0.3,1.87
-874,2021-08-01,518692,474463,,ball,13,Freddie Freeman lines out sharply to second baseman Luis Urias.,0,1,2,2,1,-1.34,0.73
+873,2021-08-01,518692,474463,,ball,13,Freddie Freeman lines out sharply to second baseman Luis Urias.,0,1,2,2,1,-1.34,0.73
+874,2021-08-01,518692,642207,,swinging_strike,9,Freddie Freeman strikes out on a foul tip.,0,0,0,1,8,0.3,1.87
 875,2021-08-01,518692,474463,,swinging_strike,1,Freddie Freeman lines out sharply to second baseman Luis Urias.,0,0,2,1,1,-0.53,3.04
 876,2021-07-31,518692,605540,field_out,hit_into_play,6,"Freddie Freeman grounds out softly, catcher Manny Pina to first baseman Eduardo Escobar.",0,1,1,2,5,0.65,2.52
 877,2021-07-31,518692,605540,,called_strike,6,"Freddie Freeman grounds out softly, catcher Manny Pina to first baseman Eduardo Escobar.",0,0,1,1,5,0.8,2.75
@@ -882,10 +882,10 @@
 880,2021-07-31,518692,605540,,foul,6,"Freddie Freeman grounds out, pitcher Brandon Woodruff to first baseman Eduardo Escobar.",0,1,2,2,3,0.36,2.46
 881,2021-07-31,518692,605540,,foul,4,"Freddie Freeman grounds out, pitcher Brandon Woodruff to first baseman Eduardo Escobar.",0,0,2,1,3,-0.81,2.63
 882,2021-07-31,518692,667376,field_error,hit_into_play,8,Freddie Freeman reaches on a fielding error by first baseman Rowdy Tellez.   Joc Pederson to 3rd.,2,0,2,3,8,0.15,2.07
-883,2021-07-31,518692,605540,single,hit_into_play,14,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,1,1,2,3,1,0.4,1.46
-884,2021-07-31,518692,667376,,ball,14,Freddie Freeman reaches on a fielding error by first baseman Rowdy Tellez.   Joc Pederson to 3rd.,1,0,2,2,8,0.2,0.82
-885,2021-07-31,518692,667376,,ball,11,Freddie Freeman reaches on a fielding error by first baseman Rowdy Tellez.   Joc Pederson to 3rd.,0,0,2,1,8,-0.96,3.0
-886,2021-07-31,518692,605540,,ball,13,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,0,1,2,2,1,-1.06,1.51
+883,2021-07-31,518692,667376,,ball,14,Freddie Freeman reaches on a fielding error by first baseman Rowdy Tellez.   Joc Pederson to 3rd.,1,0,2,2,8,0.2,0.82
+884,2021-07-31,518692,605540,single,hit_into_play,14,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,1,1,2,3,1,0.4,1.46
+885,2021-07-31,518692,605540,,ball,13,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,0,1,2,2,1,-1.06,1.51
+886,2021-07-31,518692,667376,,ball,11,Freddie Freeman reaches on a fielding error by first baseman Rowdy Tellez.   Joc Pederson to 3rd.,0,0,2,1,8,-0.96,3.0
 887,2021-07-31,518692,605540,,foul,6,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,0,0,2,1,1,0.3,2.28
 888,2021-07-31,518692,595928,single,hit_into_play,8,Freddie Freeman singles on a line drive to left fielder Tyrone Taylor.   Ozzie Albies to 2nd.,0,0,1,1,7,0.1,2.21
 889,2021-07-30,518692,669203,walk,ball,11,Freddie Freeman walks.,3,1,0,5,5,-0.28,4.15
@@ -900,8 +900,8 @@
 898,2021-07-30,518692,608718,,foul_bunt,11,Freddie Freeman strikes out swinging.,0,1,2,2,9,-0.3,3.92
 899,2021-07-30,518692,608718,,foul_bunt,3,Freddie Freeman strikes out swinging.,0,0,2,1,9,0.44,3.29
 900,2021-07-30,518692,664776,hit_by_pitch,hit_by_pitch,14,Freddie Freeman hit by pitch.    Ozzie Albies to 2nd.,2,2,0,5,7,3.35,-0.74
-901,2021-07-30,518692,664776,,ball,13,Freddie Freeman hit by pitch.    Ozzie Albies to 2nd.,1,2,0,4,7,-1.5,1.54
-902,2021-07-30,518692,669203,single,hit_into_play,8,Freddie Freeman singles on a line drive to left fielder Tyrone Taylor.   Joc Pederson scores.,0,1,1,2,1,0.14,1.86
+901,2021-07-30,518692,669203,single,hit_into_play,8,Freddie Freeman singles on a line drive to left fielder Tyrone Taylor.   Joc Pederson scores.,0,1,1,2,1,0.14,1.86
+902,2021-07-30,518692,664776,,ball,13,Freddie Freeman hit by pitch.    Ozzie Albies to 2nd.,1,2,0,4,7,-1.5,1.54
 903,2021-07-30,518692,664776,,swinging_strike,5,Freddie Freeman hit by pitch.    Ozzie Albies to 2nd.,1,1,0,3,7,-0.07,2.56
 904,2021-07-30,518692,669203,,called_strike,13,Freddie Freeman singles on a line drive to left fielder Tyrone Taylor.   Joc Pederson scores.,0,0,1,1,1,-1.04,1.58
 905,2021-07-30,518692,664776,,swinging_strike,7,Freddie Freeman hit by pitch.    Ozzie Albies to 2nd.,1,0,0,2,7,-0.57,1.88
@@ -944,20 +944,20 @@
 942,2021-07-27,518692,660546,,ball,13,Freddie Freeman singles on a sharp line drive to center fielder Brandon Nimmo.,0,1,0,2,6,-0.4,1.22
 943,2021-07-27,518692,660546,,called_strike,11,Freddie Freeman singles on a sharp line drive to center fielder Brandon Nimmo.,0,0,0,1,6,-0.9,2.8
 944,2021-07-27,518692,595191,walk,ball,12,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,3,1,0,5,1,1.89,2.85
-945,2021-07-27,518692,622098,field_out,hit_into_play,2,Freddie Freeman flies out to left fielder Kevin Pillar.,1,2,0,4,8,0.07,3.56
-946,2021-07-27,518692,595191,,ball,11,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,2,1,0,4,1,-1.64,3.0
-947,2021-07-27,518692,622098,,called_strike,14,Freddie Freeman flies out to left fielder Kevin Pillar.,1,1,0,3,8,0.59,1.59
-948,2021-07-27,518692,595191,,ball,12,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,1,1,0,3,1,0.93,2.66
+945,2021-07-27,518692,595191,,ball,11,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,2,1,0,4,1,-1.64,3.0
+946,2021-07-27,518692,622098,field_out,hit_into_play,2,Freddie Freeman flies out to left fielder Kevin Pillar.,1,2,0,4,8,0.07,3.56
+947,2021-07-27,518692,595191,,ball,12,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,1,1,0,3,1,0.93,2.66
+948,2021-07-27,518692,622098,,called_strike,14,Freddie Freeman flies out to left fielder Kevin Pillar.,1,1,0,3,8,0.59,1.59
 949,2021-07-27,518692,595191,,ball,12,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,0,1,0,2,1,1.23,4.19
 950,2021-07-27,518692,622098,,foul,8,Freddie Freeman flies out to left fielder Kevin Pillar.,1,0,0,2,8,-0.09,1.97
-951,2021-07-27,518692,595191,,called_strike,3,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,0,0,0,1,1,0.54,3.13
-952,2021-07-27,518692,622098,,ball,11,Freddie Freeman flies out to left fielder Kevin Pillar.,0,0,0,1,8,-1.1,3.04
+951,2021-07-27,518692,622098,,ball,11,Freddie Freeman flies out to left fielder Kevin Pillar.,0,0,0,1,8,-1.1,3.04
+952,2021-07-27,518692,595191,,called_strike,3,Freddie Freeman walks.   Ehire Adrianza to 3rd.    Ozzie Albies to 2nd.,0,0,0,1,1,0.54,3.13
 953,2021-07-26,518692,573186,single,hit_into_play,14,Freddie Freeman singles on a ground ball to second baseman Luis Guillorme.,1,0,2,2,5,0.22,1.14
 954,2021-07-26,518692,573186,,ball,14,Freddie Freeman singles on a ground ball to second baseman Luis Guillorme.,0,0,2,1,5,1.22,2.72
-955,2021-07-26,518692,607455,field_out,hit_into_play,8,Freddie Freeman flies out to left fielder Dominic Smith.,2,2,0,9,4,0.18,2.13
-956,2021-07-26,518692,612434,single,hit_into_play,8,Freddie Freeman singles on a line drive to right fielder Michael Conforto.,0,1,2,2,7,0.05,1.65
-957,2021-07-26,518692,607455,,foul,14,Freddie Freeman flies out to left fielder Dominic Smith.,2,2,0,8,4,0.86,1.68
-958,2021-07-26,518692,612434,,swinging_strike,14,Freddie Freeman singles on a line drive to right fielder Michael Conforto.,0,0,2,1,7,0.79,0.99
+955,2021-07-26,518692,612434,single,hit_into_play,8,Freddie Freeman singles on a line drive to right fielder Michael Conforto.,0,1,2,2,7,0.05,1.65
+956,2021-07-26,518692,607455,field_out,hit_into_play,8,Freddie Freeman flies out to left fielder Dominic Smith.,2,2,0,9,4,0.18,2.13
+957,2021-07-26,518692,612434,,swinging_strike,14,Freddie Freeman singles on a line drive to right fielder Michael Conforto.,0,0,2,1,7,0.79,0.99
+958,2021-07-26,518692,607455,,foul,14,Freddie Freeman flies out to left fielder Dominic Smith.,2,2,0,8,4,0.86,1.68
 959,2021-07-26,518692,607455,,ball,13,Freddie Freeman flies out to left fielder Dominic Smith.,1,2,0,7,4,-2.23,1.34
 960,2021-07-26,518692,607455,,foul,4,Freddie Freeman flies out to left fielder Dominic Smith.,1,2,0,6,4,-0.73,2.87
 961,2021-07-26,518692,607455,,foul,4,Freddie Freeman flies out to left fielder Dominic Smith.,1,2,0,5,4,-0.67,2.84
@@ -1022,8 +1022,8 @@
 1020,2021-07-22,518692,661440,,ball,11,Freddie Freeman walks.   Pablo Sandoval to 3rd.    Ozzie Albies to 2nd.,0,0,2,1,9,-1.81,3.05
 1021,2021-07-22,518692,445213,walk,ball,14,Freddie Freeman walks.,3,1,2,5,7,1.15,1.95
 1022,2021-07-22,518692,445213,,ball,13,Freddie Freeman walks.,2,1,2,4,7,-1.47,2.01
-1023,2021-07-22,518692,519043,single,hit_into_play,2,Freddie Freeman singles on a line drive to left fielder Odubel Herrera.   Ozzie Albies scores.    Freddie Freeman to 2nd.,0,0,1,1,1,-0.24,3.39
-1024,2021-07-22,518692,445213,,ball,12,Freddie Freeman walks.,1,1,2,3,7,0.86,3.48
+1023,2021-07-22,518692,445213,,ball,12,Freddie Freeman walks.,1,1,2,3,7,0.86,3.48
+1024,2021-07-22,518692,519043,single,hit_into_play,2,Freddie Freeman singles on a line drive to left fielder Odubel Herrera.   Ozzie Albies scores.    Freddie Freeman to 2nd.,0,0,1,1,1,-0.24,3.39
 1025,2021-07-22,518692,445213,,called_strike,13,Freddie Freeman walks.,1,0,2,2,7,-0.98,2.28
 1026,2021-07-22,518692,445213,,ball,14,Freddie Freeman walks.,0,0,2,1,7,2.08,1.85
 1027,2021-07-21,518692,663978,field_out,hit_into_play,11,Freddie Freeman lines out to second baseman Ha-Seong Kim.,0,2,0,3,4,-0.4,4.25
@@ -1032,33 +1032,33 @@
 1030,2021-07-21,518692,572955,walk,ball,11,Freddie Freeman walks.   Dansby Swanson to 2nd.,3,2,1,7,5,-1.12,3.04
 1031,2021-07-21,518692,572955,,ball,14,Freddie Freeman walks.   Dansby Swanson to 2nd.,2,2,1,6,5,0.65,1.15
 1032,2021-07-21,518692,547176,walk,ball,12,Freddie Freeman walks.,3,0,0,4,3,1.26,3.72
-1033,2021-07-21,518692,572955,,ball,11,Freddie Freeman walks.   Dansby Swanson to 2nd.,1,2,1,5,5,-0.73,4.6
-1034,2021-07-21,518692,453343,walk,ball,11,Freddie Freeman walks.,3,2,2,6,7,-1.52,2.75
-1035,2021-07-21,518692,663753,strikeout,called_strike,7,Freddie Freeman called out on strikes.,3,2,2,10,1,-0.32,1.93
-1036,2021-07-21,518692,547176,,ball,12,Freddie Freeman walks.,2,0,0,3,3,0.31,4.02
-1037,2021-07-21,518692,453343,,ball,14,Freddie Freeman walks.,2,2,2,5,7,1.42,2.74
-1038,2021-07-21,518692,547176,,ball,12,Freddie Freeman walks.,1,0,0,2,3,0.08,4.38
-1039,2021-07-21,518692,663753,,ball,11,Freddie Freeman called out on strikes.,2,2,2,9,1,-2.0,4.65
-1040,2021-07-21,518692,572955,,foul,14,Freddie Freeman walks.   Dansby Swanson to 2nd.,1,2,1,4,5,1.03,1.88
-1041,2021-07-21,518692,453343,,ball,12,Freddie Freeman walks.,1,2,2,4,7,0.14,4.61
-1042,2021-07-21,518692,572955,,ball,11,Freddie Freeman walks.   Dansby Swanson to 2nd.,0,2,1,3,5,-1.59,3.92
-1043,2021-07-21,518692,663753,,foul,12,Freddie Freeman called out on strikes.,2,2,2,8,1,0.23,3.72
-1044,2021-07-21,518692,547176,,ball,12,Freddie Freeman walks.,0,0,0,1,3,1.41,5.1
-1045,2021-07-21,518692,663753,,foul,5,Freddie Freeman called out on strikes.,2,2,2,7,1,-0.25,2.36
-1046,2021-07-21,518692,453343,,foul,5,Freddie Freeman walks.,1,1,2,3,7,-0.24,2.86
-1047,2021-07-21,518692,572955,,swinging_strike,2,Freddie Freeman walks.   Dansby Swanson to 2nd.,0,1,1,2,5,-0.18,3.08
-1048,2021-07-21,518692,663978,field_out,hit_into_play,5,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",2,2,2,5,1,-0.1,2.28
-1049,2021-07-21,518692,663753,,foul,8,Freddie Freeman called out on strikes.,2,2,2,6,1,-0.08,2.27
-1050,2021-07-21,518692,663978,,foul,1,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",2,1,2,4,1,-0.5,3.24
+1033,2021-07-21,518692,547176,,ball,12,Freddie Freeman walks.,2,0,0,3,3,0.31,4.02
+1034,2021-07-21,518692,572955,,ball,11,Freddie Freeman walks.   Dansby Swanson to 2nd.,1,2,1,5,5,-0.73,4.6
+1035,2021-07-21,518692,453343,walk,ball,11,Freddie Freeman walks.,3,2,2,6,7,-1.52,2.75
+1036,2021-07-21,518692,663753,strikeout,called_strike,7,Freddie Freeman called out on strikes.,3,2,2,10,1,-0.32,1.93
+1037,2021-07-21,518692,547176,,ball,12,Freddie Freeman walks.,1,0,0,2,3,0.08,4.38
+1038,2021-07-21,518692,572955,,foul,14,Freddie Freeman walks.   Dansby Swanson to 2nd.,1,2,1,4,5,1.03,1.88
+1039,2021-07-21,518692,453343,,ball,14,Freddie Freeman walks.,2,2,2,5,7,1.42,2.74
+1040,2021-07-21,518692,663753,,ball,11,Freddie Freeman called out on strikes.,2,2,2,9,1,-2.0,4.65
+1041,2021-07-21,518692,572955,,ball,11,Freddie Freeman walks.   Dansby Swanson to 2nd.,0,2,1,3,5,-1.59,3.92
+1042,2021-07-21,518692,547176,,ball,12,Freddie Freeman walks.,0,0,0,1,3,1.41,5.1
+1043,2021-07-21,518692,453343,,ball,12,Freddie Freeman walks.,1,2,2,4,7,0.14,4.61
+1044,2021-07-21,518692,663753,,foul,12,Freddie Freeman called out on strikes.,2,2,2,8,1,0.23,3.72
+1045,2021-07-21,518692,572955,,swinging_strike,2,Freddie Freeman walks.   Dansby Swanson to 2nd.,0,1,1,2,5,-0.18,3.08
+1046,2021-07-21,518692,663978,field_out,hit_into_play,5,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",2,2,2,5,1,-0.1,2.28
+1047,2021-07-21,518692,453343,,foul,5,Freddie Freeman walks.,1,1,2,3,7,-0.24,2.86
+1048,2021-07-21,518692,663753,,foul,5,Freddie Freeman called out on strikes.,2,2,2,7,1,-0.25,2.36
+1049,2021-07-21,518692,572955,,called_strike,5,Freddie Freeman walks.   Dansby Swanson to 2nd.,0,0,1,1,5,0.12,2.57
+1050,2021-07-21,518692,663753,,foul,8,Freddie Freeman called out on strikes.,2,2,2,6,1,-0.08,2.27
 1051,2021-07-21,518692,453343,,ball,12,Freddie Freeman walks.,0,1,2,2,7,1.53,3.62
-1052,2021-07-21,518692,572955,,called_strike,5,Freddie Freeman walks.   Dansby Swanson to 2nd.,0,0,1,1,5,0.12,2.57
-1053,2021-07-21,518692,663978,,ball,13,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",1,1,2,3,1,-0.15,1.62
-1054,2021-07-21,518692,663753,,foul,14,Freddie Freeman called out on strikes.,2,2,2,5,1,0.72,1.25
-1055,2021-07-21,518692,453343,,foul,8,Freddie Freeman walks.,0,0,2,1,7,-0.06,2.25
-1056,2021-07-21,518692,663753,,foul,8,Freddie Freeman called out on strikes.,2,1,2,4,1,0.06,2.06
-1057,2021-07-21,518692,663978,,foul,8,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",1,0,2,2,1,-0.2,2.16
-1058,2021-07-21,518692,663753,,ball,14,Freddie Freeman called out on strikes.,1,1,2,3,1,2.24,1.56
-1059,2021-07-21,518692,663978,,ball,12,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",0,0,2,1,1,0.89,3.5
+1052,2021-07-21,518692,663978,,foul,1,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",2,1,2,4,1,-0.5,3.24
+1053,2021-07-21,518692,453343,,foul,8,Freddie Freeman walks.,0,0,2,1,7,-0.06,2.25
+1054,2021-07-21,518692,663978,,ball,13,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",1,1,2,3,1,-0.15,1.62
+1055,2021-07-21,518692,663753,,foul,14,Freddie Freeman called out on strikes.,2,2,2,5,1,0.72,1.25
+1056,2021-07-21,518692,663978,,foul,8,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",1,0,2,2,1,-0.2,2.16
+1057,2021-07-21,518692,663753,,foul,8,Freddie Freeman called out on strikes.,2,1,2,4,1,0.06,2.06
+1058,2021-07-21,518692,663978,,ball,12,"Freddie Freeman grounds out sharply, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",0,0,2,1,1,0.89,3.5
+1059,2021-07-21,518692,663753,,ball,14,Freddie Freeman called out on strikes.,1,1,2,3,1,2.24,1.56
 1060,2021-07-21,518692,663753,,foul,4,Freddie Freeman called out on strikes.,1,0,2,2,1,-0.61,2.3
 1061,2021-07-21,518692,663753,,ball,12,Freddie Freeman called out on strikes.,0,0,2,1,1,1.39,3.24
 1062,2021-07-21,518692,519141,single,hit_into_play,12,Freddie Freeman singles on a line drive to right fielder Wil Myers.,3,2,1,10,6,1.06,2.77
@@ -1101,12 +1101,12 @@
 1099,2021-07-18,518692,448179,,called_strike,5,"Freddie Freeman grounds into a force out, second baseman Vidal Brujan to third baseman Joey Wendle.   Joc Pederson out at 2nd.    Freddie Freeman to 1st.",0,0,1,1,1,-0.25,2.88
 1100,2021-07-18,518692,552640,walk,ball,13,Freddie Freeman walks.,3,0,0,4,5,-1.18,2.18
 1101,2021-07-18,518692,552640,,ball,13,Freddie Freeman walks.,2,0,0,3,5,-1.12,2.53
-1102,2021-07-18,518692,664126,field_out,hit_into_play,4,Freddie Freeman flies out to left fielder Brandon Lowe.,0,1,0,2,9,-0.6,2.7
+1102,2021-07-18,518692,543521,field_error,hit_into_play,8,Freddie Freeman reaches on a fielding error by second baseman Brandon Lowe.,0,1,0,2,7,-0.17,1.95
 1103,2021-07-18,518692,552640,,ball,13,Freddie Freeman walks.,1,0,0,2,5,-0.96,2.03
-1104,2021-07-18,518692,543521,field_error,hit_into_play,8,Freddie Freeman reaches on a fielding error by second baseman Brandon Lowe.,0,1,0,2,7,-0.17,1.95
+1104,2021-07-18,518692,664126,field_out,hit_into_play,4,Freddie Freeman flies out to left fielder Brandon Lowe.,0,1,0,2,9,-0.6,2.7
 1105,2021-07-18,518692,552640,,ball,1,Freddie Freeman walks.,0,0,0,1,5,-0.69,3.73
-1106,2021-07-18,518692,664126,,foul,5,Freddie Freeman flies out to left fielder Brandon Lowe.,0,0,0,1,9,-0.07,2.71
-1107,2021-07-18,518692,543521,,foul,6,Freddie Freeman reaches on a fielding error by second baseman Brandon Lowe.,0,0,0,1,7,0.39,2.94
+1106,2021-07-18,518692,543521,,foul,6,Freddie Freeman reaches on a fielding error by second baseman Brandon Lowe.,0,0,0,1,7,0.39,2.94
+1107,2021-07-18,518692,664126,,foul,5,Freddie Freeman flies out to left fielder Brandon Lowe.,0,0,0,1,9,-0.07,2.71
 1108,2021-07-17,518692,676596,home_run,hit_into_play,12,Freddie Freeman homers (21) on a fly ball to center field.,2,1,0,4,5,0.86,2.89
 1109,2021-07-17,518692,676596,,foul,5,Freddie Freeman homers (21) on a fly ball to center field.,2,0,0,3,5,0.09,2.54
 1110,2021-07-17,518692,676596,,ball,12,Freddie Freeman homers (21) on a fly ball to center field.,1,0,0,2,5,1.68,2.73
@@ -1131,14 +1131,14 @@
 1129,2021-07-16,518692,656876,,called_strike,8,Freddie Freeman singles on a sharp ground ball to center fielder Kevin Kiermaier.,0,0,1,1,7,0.23,2.19
 1130,2021-07-16,518692,608379,single,hit_into_play,8,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,2,2,1,6,1,0.09,1.82
 1131,2021-07-16,518692,608379,,foul,8,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,2,2,1,5,1,-0.03,2.27
-1132,2021-07-16,518692,608379,,ball,12,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,1,2,1,4,1,0.89,4.12
-1133,2021-07-16,518692,656420,home_run,hit_into_play,9,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,3,2,0,6,5,0.49,1.99
-1134,2021-07-16,518692,656420,,ball,11,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,2,2,0,5,5,-0.93,2.77
-1135,2021-07-16,518692,608379,,foul,3,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,1,1,1,3,1,0.39,3.55
+1132,2021-07-16,518692,656420,home_run,hit_into_play,9,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,3,2,0,6,5,0.49,1.99
+1133,2021-07-16,518692,608379,,ball,12,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,1,2,1,4,1,0.89,4.12
+1134,2021-07-16,518692,608379,,foul,3,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,1,1,1,3,1,0.39,3.55
+1135,2021-07-16,518692,656420,,ball,11,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,2,2,0,5,5,-0.93,2.77
 1136,2021-07-16,518692,608379,,foul,6,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,1,0,1,2,1,0.59,2.71
 1137,2021-07-16,518692,656420,,foul,3,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,2,1,0,4,5,0.66,3.46
-1138,2021-07-16,518692,608379,,ball,3,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,0,0,1,1,1,0.38,3.75
-1139,2021-07-16,518692,656420,,ball,1,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,1,1,0,3,5,-0.65,3.33
+1138,2021-07-16,518692,656420,,ball,1,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,1,1,0,3,5,-0.65,3.33
+1139,2021-07-16,518692,608379,,ball,3,Freddie Freeman singles on a ground ball to center fielder Kevin Kiermaier.,0,0,1,1,1,0.38,3.75
 1140,2021-07-16,518692,656420,,foul_tip,5,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,1,0,0,2,5,-0.02,2.86
 1141,2021-07-16,518692,656420,,ball,12,Freddie Freeman homers (20) on a fly ball to right field.    Abraham Almonte scores.,0,0,0,1,5,1.08,4.09
 1142,2021-07-11,518692,641154,walk,blocked_ball,14,Freddie Freeman walks.,3,2,2,6,5,1.14,0.58
@@ -1152,8 +1152,8 @@
 1150,2021-07-11,518692,641154,,ball,14,Freddie Freeman doubles (14) on a sharp line drive to center fielder Starling Marte.,0,0,1,1,4,0.35,0.88
 1151,2021-07-11,518692,542914,field_out,hit_into_play,9,"Freddie Freeman grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",3,2,0,6,8,0.44,1.77
 1152,2021-07-11,518692,641154,strikeout,swinging_strike,13,Freddie Freeman strikes out swinging.,0,2,1,3,1,-0.07,1.19
-1153,2021-07-11,518692,641154,,called_strike,4,Freddie Freeman strikes out swinging.,0,1,1,2,1,-0.49,2.63
-1154,2021-07-11,518692,542914,,ball,12,"Freddie Freeman grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,2,0,5,8,0.93,3.32
+1153,2021-07-11,518692,542914,,ball,12,"Freddie Freeman grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,2,0,5,8,0.93,3.32
+1154,2021-07-11,518692,641154,,called_strike,4,Freddie Freeman strikes out swinging.,0,1,1,2,1,-0.49,2.63
 1155,2021-07-11,518692,542914,,foul,4,"Freddie Freeman grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,1,0,4,8,-0.36,2.77
 1156,2021-07-11,518692,641154,,called_strike,7,Freddie Freeman strikes out swinging.,0,0,1,1,1,-0.31,1.96
 1157,2021-07-11,518692,542914,,ball,14,"Freddie Freeman grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,1,0,3,8,1.47,1.77
@@ -1189,12 +1189,12 @@
 1187,2021-07-09,518692,595345,field_out,hit_into_play,12,Freddie Freeman pops out to first baseman Jesus Aguilar in foul territory.,2,2,2,5,8,1.18,3.47
 1188,2021-07-09,518692,596049,,ball,12,Freddie Freeman walks.,1,2,2,6,3,1.28,3.68
 1189,2021-07-09,518692,595345,,swinging_strike,12,Freddie Freeman pops out to first baseman Jesus Aguilar in foul territory.,2,1,2,4,8,0.95,3.0
-1190,2021-07-09,518692,595345,,called_strike,14,Freddie Freeman pops out to first baseman Jesus Aguilar in foul territory.,2,0,2,3,8,0.94,2.73
-1191,2021-07-09,518692,596049,,foul,2,Freddie Freeman walks.,1,2,2,5,3,-0.01,3.67
+1190,2021-07-09,518692,596049,,foul,2,Freddie Freeman walks.,1,2,2,5,3,-0.01,3.67
+1191,2021-07-09,518692,595345,,called_strike,14,Freddie Freeman pops out to first baseman Jesus Aguilar in foul territory.,2,0,2,3,8,0.94,2.73
 1192,2021-07-09,518692,595345,,ball,12,Freddie Freeman pops out to first baseman Jesus Aguilar in foul territory.,1,0,2,2,8,1.59,4.27
 1193,2021-07-09,518692,596049,,foul,1,Freddie Freeman walks.,1,2,2,4,3,-0.57,3.03
-1194,2021-07-09,518692,596049,,foul,8,Freddie Freeman walks.,1,1,2,3,3,0.22,2.25
-1195,2021-07-09,518692,595345,,ball,14,Freddie Freeman pops out to first baseman Jesus Aguilar in foul territory.,0,0,2,1,8,1.45,2.61
+1194,2021-07-09,518692,595345,,ball,14,Freddie Freeman pops out to first baseman Jesus Aguilar in foul territory.,0,0,2,1,8,1.45,2.61
+1195,2021-07-09,518692,596049,,foul,8,Freddie Freeman walks.,1,1,2,3,3,0.22,2.25
 1196,2021-07-09,518692,596049,,ball,11,Freddie Freeman walks.,0,1,2,2,3,-0.43,3.85
 1197,2021-07-09,518692,596049,,called_strike,9,Freddie Freeman walks.,0,0,2,1,3,0.52,2.18
 1198,2021-07-09,518692,669622,field_out,hit_into_play,5,Freddie Freeman grounds out to first baseman Jesus Aguilar.   Ronald Acuna to 2nd.,1,0,1,2,7,-0.2,2.77
@@ -1280,10 +1280,10 @@
 1278,2021-07-03,518692,571670,single,hit_into_play,14,Freddie Freeman singles on a line drive to right fielder Garrett Cooper.   Ehire Adrianza scores.,1,0,1,2,7,1.01,2.52
 1279,2021-07-03,518692,571670,,ball,12,Freddie Freeman singles on a line drive to right fielder Garrett Cooper.   Ehire Adrianza scores.,0,0,1,1,7,0.52,4.66
 1280,2021-07-03,518692,645261,walk,ball,11,Freddie Freeman walks.   Ronald Acuna to 2nd.,3,1,0,5,1,-0.77,4.4
-1281,2021-07-03,518692,645261,,called_strike,2,Freddie Freeman walks.   Ronald Acuna to 2nd.,3,0,0,4,1,-0.21,3.2
-1282,2021-07-03,518692,554340,single,hit_into_play,13,Freddie Freeman singles on a ground ball to shortstop Miguel Rojas.,1,0,2,2,9,-0.25,1.36
-1283,2021-07-03,518692,554340,,ball,11,Freddie Freeman singles on a ground ball to shortstop Miguel Rojas.,0,0,2,1,9,-2.43,3.83
-1284,2021-07-03,518692,645261,,blocked_ball,14,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,0,0,3,1,0.41,0.65
+1281,2021-07-03,518692,554340,single,hit_into_play,13,Freddie Freeman singles on a ground ball to shortstop Miguel Rojas.,1,0,2,2,9,-0.25,1.36
+1282,2021-07-03,518692,645261,,called_strike,2,Freddie Freeman walks.   Ronald Acuna to 2nd.,3,0,0,4,1,-0.21,3.2
+1283,2021-07-03,518692,645261,,blocked_ball,14,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,0,0,3,1,0.41,0.65
+1284,2021-07-03,518692,554340,,ball,11,Freddie Freeman singles on a ground ball to shortstop Miguel Rojas.,0,0,2,1,9,-2.43,3.83
 1285,2021-07-03,518692,645261,,ball,14,Freddie Freeman walks.   Ronald Acuna to 2nd.,1,0,0,2,1,1.1,1.64
 1286,2021-07-03,518692,645261,,ball,12,Freddie Freeman walks.   Ronald Acuna to 2nd.,0,0,0,1,1,1.6,2.94
 1287,2021-07-02,518692,446321,field_out,hit_into_play,8,"Freddie Freeman grounds out sharply, pitcher Ross Detwiler to first baseman Jesus Aguilar.",2,0,2,3,3,0.0,2.01
@@ -1435,14 +1435,14 @@
 1433,2021-06-23,518692,612434,single,hit_into_play,14,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,1,2,2,7,5,0.47,1.12
 1434,2021-06-23,518692,612434,,foul,13,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,1,2,2,6,5,-0.76,1.43
 1435,2021-06-23,518692,656731,single,hit_into_play,4,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,2,2,1,5,1,-0.45,2.28
-1436,2021-06-23,518692,612434,,foul,9,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,1,2,2,5,5,0.4,2.04
-1437,2021-06-23,518692,656731,,ball,14,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,1,2,1,4,1,1.75,0.5
-1438,2021-06-23,518692,612434,,foul,14,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,1,2,2,4,5,0.14,0.99
-1439,2021-06-23,518692,656731,,called_strike,7,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,1,1,1,3,1,-0.28,1.81
+1436,2021-06-23,518692,656731,,ball,14,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,1,2,1,4,1,1.75,0.5
+1437,2021-06-23,518692,612434,,foul,9,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,1,2,2,5,5,0.4,2.04
+1438,2021-06-23,518692,656731,,called_strike,7,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,1,1,1,3,1,-0.28,1.81
+1439,2021-06-23,518692,612434,,foul,14,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,1,2,2,4,5,0.14,0.99
 1440,2021-06-23,518692,612434,,blocked_ball,14,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,0,2,2,3,5,1.13,0.22
 1441,2021-06-23,518692,656731,,ball,14,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,0,1,1,2,1,0.39,0.72
-1442,2021-06-23,518692,612434,,swinging_strike,14,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,0,1,2,2,5,0.32,0.79
-1443,2021-06-23,518692,656731,,foul,6,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,0,0,1,1,1,0.55,2.35
+1442,2021-06-23,518692,656731,,foul,6,Freddie Freeman singles on a sharp ground ball to right fielder Michael Conforto.,0,0,1,1,1,0.55,2.35
+1443,2021-06-23,518692,612434,,swinging_strike,14,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,0,1,2,2,5,0.32,0.79
 1444,2021-06-23,518692,612434,,foul,14,Freddie Freeman singles on a ground ball to pitcher Miguel Castro.   Dansby Swanson to 3rd.,0,0,2,1,5,0.17,1.38
 1445,2021-06-22,518692,571901,field_out,hit_into_play,3,"Freddie Freeman grounds out, pitcher Aaron Loup to first baseman Dominic Smith.",2,2,2,5,7,0.36,2.99
 1446,2021-06-22,518692,571901,,ball,14,"Freddie Freeman grounds out, pitcher Aaron Loup to first baseman Dominic Smith.",1,2,2,4,7,1.49,2.21
@@ -1469,20 +1469,20 @@
 1467,2021-06-21,518692,594798,,ball,14,Freddie Freeman flies out sharply to center fielder Albert Almora.,1,0,0,2,4,1.24,1.83
 1468,2021-06-21,518692,594798,,ball,12,Freddie Freeman flies out sharply to center fielder Albert Almora.,0,0,0,1,4,0.46,4.72
 1469,2021-06-21,518692,607625,walk,ball,14,Freddie Freeman walks.,3,1,1,5,6,0.3,1.24
-1470,2021-06-21,518692,607625,,called_strike,8,Freddie Freeman walks.,3,0,1,4,6,-0.12,1.73
-1471,2021-06-21,518692,612434,field_out,hit_into_play,8,"Freddie Freeman grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",3,0,0,4,5,-0.23,2.11
-1472,2021-06-21,518692,612434,,ball,11,"Freddie Freeman grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",2,0,0,3,5,-1.24,2.9
-1473,2021-06-21,518692,607625,,ball,14,Freddie Freeman walks.,2,0,1,3,6,0.07,1.37
-1474,2021-06-21,518692,595191,field_out,hit_into_play,11,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,2,2,0,5,1,-0.1,4.7
+1470,2021-06-21,518692,612434,field_out,hit_into_play,8,"Freddie Freeman grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",3,0,0,4,5,-0.23,2.11
+1471,2021-06-21,518692,607625,,called_strike,8,Freddie Freeman walks.,3,0,1,4,6,-0.12,1.73
+1472,2021-06-21,518692,607625,,ball,14,Freddie Freeman walks.,2,0,1,3,6,0.07,1.37
+1473,2021-06-21,518692,595191,field_out,hit_into_play,11,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,2,2,0,5,1,-0.1,4.7
+1474,2021-06-21,518692,612434,,ball,11,"Freddie Freeman grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",2,0,0,3,5,-1.24,2.9
 1475,2021-06-21,518692,612434,,ball,11,"Freddie Freeman grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",1,0,0,2,5,-1.31,3.02
 1476,2021-06-21,518692,607625,,ball,13,Freddie Freeman walks.,1,0,1,2,6,-1.15,2.24
 1477,2021-06-21,518692,595191,,called_strike,6,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,2,1,0,4,1,0.77,2.54
-1478,2021-06-21,518692,595191,,foul,4,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,2,0,0,3,1,-0.3,2.65
-1479,2021-06-21,518692,612434,,ball,11,"Freddie Freeman grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,0,1,5,-2.0,2.93
-1480,2021-06-21,518692,594798,field_out,hit_into_play,12,Freddie Freeman flies out to left fielder Dominic Smith.,1,0,1,2,1,0.13,3.89
-1481,2021-06-21,518692,607625,,ball,7,Freddie Freeman walks.,0,0,1,1,6,-0.78,1.86
-1482,2021-06-21,518692,595191,,ball,13,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,1,0,0,2,1,-0.43,0.92
-1483,2021-06-21,518692,594798,,ball,12,Freddie Freeman flies out to left fielder Dominic Smith.,0,0,1,1,1,1.27,3.5
+1478,2021-06-21,518692,594798,field_out,hit_into_play,12,Freddie Freeman flies out to left fielder Dominic Smith.,1,0,1,2,1,0.13,3.89
+1479,2021-06-21,518692,607625,,ball,7,Freddie Freeman walks.,0,0,1,1,6,-0.78,1.86
+1480,2021-06-21,518692,612434,,ball,11,"Freddie Freeman grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,0,1,5,-2.0,2.93
+1481,2021-06-21,518692,595191,,foul,4,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,2,0,0,3,1,-0.3,2.65
+1482,2021-06-21,518692,594798,,ball,12,Freddie Freeman flies out to left fielder Dominic Smith.,0,0,1,1,1,1.27,3.5
+1483,2021-06-21,518692,595191,,ball,13,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,1,0,0,2,1,-0.43,0.92
 1484,2021-06-21,518692,595191,,ball,11,Freddie Freeman pops out to first baseman Pete Alonso in foul territory.,0,0,0,1,1,-1.15,3.19
 1485,2021-06-20,518692,425794,strikeout,called_strike,12,Freddie Freeman called out on strikes.,0,2,0,4,6,0.84,2.83
 1486,2021-06-20,518692,425794,,foul,11,Freddie Freeman called out on strikes.,0,2,0,3,6,-0.95,3.04
@@ -1501,12 +1501,12 @@
 1499,2021-06-20,518692,547942,,foul,9,Freddie Freeman flies out to center fielder Dylan Carlson.,1,1,0,3,1,0.32,1.97
 1500,2021-06-20,518692,547942,,ball,13,Freddie Freeman flies out to center fielder Dylan Carlson.,0,1,0,2,1,-1.15,1.37
 1501,2021-06-20,518692,425794,strikeout,swinging_strike,14,Freddie Freeman strikes out swinging.,3,2,1,6,1,0.36,1.37
-1502,2021-06-20,518692,547942,,foul,7,Freddie Freeman flies out to center fielder Dylan Carlson.,0,0,0,1,1,-0.29,2.27
-1503,2021-06-20,518692,425794,,called_strike,6,Freddie Freeman strikes out swinging.,3,1,1,5,1,0.35,2.85
+1502,2021-06-20,518692,425794,,called_strike,6,Freddie Freeman strikes out swinging.,3,1,1,5,1,0.35,2.85
+1503,2021-06-20,518692,547942,,foul,7,Freddie Freeman flies out to center fielder Dylan Carlson.,0,0,0,1,1,-0.29,2.27
 1504,2021-06-20,518692,425794,,ball,13,Freddie Freeman strikes out swinging.,2,1,1,4,1,-0.82,1.49
 1505,2021-06-20,518692,425794,,foul,6,Freddie Freeman strikes out swinging.,2,0,1,3,1,0.66,2.38
-1506,2021-06-20,518692,425794,,ball,14,Freddie Freeman strikes out swinging.,1,0,1,2,1,0.06,0.84
-1507,2021-06-20,518692,650893,strikeout,swinging_strike,12,Freddie Freeman strikes out swinging.,0,2,0,4,6,0.91,4.0
+1506,2021-06-20,518692,650893,strikeout,swinging_strike,12,Freddie Freeman strikes out swinging.,0,2,0,4,6,0.91,4.0
+1507,2021-06-20,518692,425794,,ball,14,Freddie Freeman strikes out swinging.,1,0,1,2,1,0.06,0.84
 1508,2021-06-20,518692,425794,,ball,13,Freddie Freeman strikes out swinging.,0,0,1,1,1,-1.2,2.65
 1509,2021-06-20,518692,650893,,foul,1,Freddie Freeman strikes out swinging.,0,2,0,3,6,-0.65,3.46
 1510,2021-06-20,518692,650893,,swinging_strike,8,Freddie Freeman strikes out swinging.,0,1,0,2,6,-0.08,2.18
@@ -1554,12 +1554,12 @@
 1552,2021-06-16,518692,572070,field_error,hit_into_play,2,"Freddie Freeman advances to 2nd, on a fielding error by right fielder Hunter Renfroe.",1,0,0,2,3,0.11,3.4
 1553,2021-06-16,518692,572070,,ball,11,"Freddie Freeman advances to 2nd, on a fielding error by right fielder Hunter Renfroe.",0,0,0,1,3,-1.2,3.03
 1554,2021-06-16,518692,493603,strikeout,swinging_strike,11,Freddie Freeman strikes out swinging.,1,2,2,4,9,-0.21,4.06
-1555,2021-06-16,518692,617228,home_run,hit_into_play,8,Freddie Freeman homers (16) on a fly ball to left center field.,1,2,1,4,6,0.03,2.07
-1556,2021-06-16,518692,493603,,swinging_strike,7,Freddie Freeman strikes out swinging.,1,1,2,3,9,-0.64,2.0
-1557,2021-06-16,518692,617228,,foul_tip,5,Freddie Freeman homers (16) on a fly ball to left center field.,1,1,1,3,6,0.13,2.79
-1558,2021-06-16,518692,493603,,ball,13,Freddie Freeman strikes out swinging.,0,1,2,2,9,-2.62,2.25
-1559,2021-06-16,518692,493603,,called_strike,4,Freddie Freeman strikes out swinging.,0,0,2,1,9,-0.45,2.93
-1560,2021-06-16,518692,617228,,called_strike,13,Freddie Freeman homers (16) on a fly ball to left center field.,1,0,1,2,6,-0.67,1.72
+1555,2021-06-16,518692,493603,,swinging_strike,7,Freddie Freeman strikes out swinging.,1,1,2,3,9,-0.64,2.0
+1556,2021-06-16,518692,617228,home_run,hit_into_play,8,Freddie Freeman homers (16) on a fly ball to left center field.,1,2,1,4,6,0.03,2.07
+1557,2021-06-16,518692,493603,,ball,13,Freddie Freeman strikes out swinging.,0,1,2,2,9,-2.62,2.25
+1558,2021-06-16,518692,617228,,foul_tip,5,Freddie Freeman homers (16) on a fly ball to left center field.,1,1,1,3,6,0.13,2.79
+1559,2021-06-16,518692,617228,,called_strike,13,Freddie Freeman homers (16) on a fly ball to left center field.,1,0,1,2,6,-0.67,1.72
+1560,2021-06-16,518692,493603,,called_strike,4,Freddie Freeman strikes out swinging.,0,0,2,1,9,-0.45,2.93
 1561,2021-06-16,518692,572070,walk,ball,11,Freddie Freeman walks.,3,2,0,7,1,-1.08,4.1
 1562,2021-06-16,518692,617228,,ball,13,Freddie Freeman homers (16) on a fly ball to left center field.,0,0,1,1,6,-0.31,0.36
 1563,2021-06-16,518692,572070,,ball,11,Freddie Freeman walks.,2,2,0,6,1,-0.79,4.23
@@ -1605,11 +1605,11 @@
 1603,2021-06-13,518692,641154,,foul,3,Freddie Freeman doubles (7) on a line drive to center fielder Starling Marte.   Ronald Acuna to 3rd.,2,2,0,5,1,0.5,3.46
 1604,2021-06-13,518692,641154,,ball,13,Freddie Freeman doubles (7) on a line drive to center fielder Starling Marte.   Ronald Acuna to 3rd.,1,2,0,4,1,-1.94,1.89
 1605,2021-06-13,518692,595928,field_out,hit_into_play,8,"Freddie Freeman grounds out sharply, second baseman Isan Diaz to first baseman Jesus Aguilar.",0,2,1,3,4,0.02,2.07
-1606,2021-06-13,518692,595928,,swinging_strike,14,"Freddie Freeman grounds out sharply, second baseman Isan Diaz to first baseman Jesus Aguilar.",0,1,1,2,4,0.28,1.33
-1607,2021-06-13,518692,641154,,foul,6,Freddie Freeman doubles (7) on a line drive to center fielder Starling Marte.   Ronald Acuna to 3rd.,1,1,0,3,1,0.29,2.92
-1608,2021-06-13,518692,446321,strikeout,foul_tip,3,Freddie Freeman strikes out on a foul tip.,1,2,0,4,6,0.57,3.3
-1609,2021-06-13,518692,595928,,called_strike,7,"Freddie Freeman grounds out sharply, second baseman Isan Diaz to first baseman Jesus Aguilar.",0,0,1,1,4,-0.7,1.77
-1610,2021-06-13,518692,446321,,foul,14,Freddie Freeman strikes out on a foul tip.,1,1,0,3,6,0.84,1.89
+1606,2021-06-13,518692,446321,strikeout,foul_tip,3,Freddie Freeman strikes out on a foul tip.,1,2,0,4,6,0.57,3.3
+1607,2021-06-13,518692,595928,,swinging_strike,14,"Freddie Freeman grounds out sharply, second baseman Isan Diaz to first baseman Jesus Aguilar.",0,1,1,2,4,0.28,1.33
+1608,2021-06-13,518692,641154,,foul,6,Freddie Freeman doubles (7) on a line drive to center fielder Starling Marte.   Ronald Acuna to 3rd.,1,1,0,3,1,0.29,2.92
+1609,2021-06-13,518692,446321,,foul,14,Freddie Freeman strikes out on a foul tip.,1,1,0,3,6,0.84,1.89
+1610,2021-06-13,518692,595928,,called_strike,7,"Freddie Freeman grounds out sharply, second baseman Isan Diaz to first baseman Jesus Aguilar.",0,0,1,1,4,-0.7,1.77
 1611,2021-06-13,518692,641154,,ball,12,Freddie Freeman doubles (7) on a line drive to center fielder Starling Marte.   Ronald Acuna to 3rd.,0,1,0,2,1,1.13,3.5
 1612,2021-06-13,518692,641154,,foul,2,Freddie Freeman doubles (7) on a line drive to center fielder Starling Marte.   Ronald Acuna to 3rd.,0,0,0,1,1,0.03,3.14
 1613,2021-06-13,518692,446321,,foul,14,Freddie Freeman strikes out on a foul tip.,1,0,0,2,6,1.34,2.4
@@ -1620,8 +1620,8 @@
 1618,2021-06-12,518692,605507,strikeout,swinging_strike,11,Freddie Freeman strikes out swinging.,3,2,1,6,1,-0.97,3.13
 1619,2021-06-12,518692,605507,,ball,14,Freddie Freeman strikes out swinging.,2,2,1,5,1,0.97,2.49
 1620,2021-06-12,518692,605507,,foul,2,Freddie Freeman strikes out swinging.,2,1,1,4,1,-0.14,3.11
-1621,2021-06-12,518692,605507,,ball,14,Freddie Freeman strikes out swinging.,1,1,1,3,1,0.67,1.16
-1622,2021-06-12,518692,542914,home_run,hit_into_play,14,Freddie Freeman homers (15) on a fly ball to right field.    Ronald Acuna scores.,2,1,1,4,8,1.12,2.44
+1621,2021-06-12,518692,542914,home_run,hit_into_play,14,Freddie Freeman homers (15) on a fly ball to right field.    Ronald Acuna scores.,2,1,1,4,8,1.12,2.44
+1622,2021-06-12,518692,605507,,ball,14,Freddie Freeman strikes out swinging.,1,1,1,3,1,0.67,1.16
 1623,2021-06-12,518692,542914,,called_strike,14,Freddie Freeman homers (15) on a fly ball to right field.    Ronald Acuna scores.,2,0,1,3,8,1.01,2.24
 1624,2021-06-12,518692,605507,,called_strike,11,Freddie Freeman strikes out swinging.,1,0,1,2,1,-1.01,2.71
 1625,2021-06-12,518692,605507,,ball,14,Freddie Freeman strikes out swinging.,0,0,1,1,1,1.19,2.07
@@ -1644,8 +1644,8 @@
 1642,2021-06-11,518692,554340,,ball,11,Freddie Freeman flies out to right fielder Adam Duvall.,0,0,1,1,9,-0.31,3.81
 1643,2021-06-11,518692,542947,,foul,9,Freddie Freeman grounds out to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.,2,0,1,3,7,0.33,2.27
 1644,2021-06-11,518692,645261,field_out,hit_into_play,13,"Freddie Freeman grounds out, pitcher Sandy Alcantara to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.",1,2,0,4,1,-0.7,1.45
-1645,2021-06-11,518692,645261,,called_strike,1,"Freddie Freeman grounds out, pitcher Sandy Alcantara to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.",1,1,0,3,1,-0.66,3.01
-1646,2021-06-11,518692,542947,,ball,12,Freddie Freeman grounds out to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.,1,0,1,2,7,0.99,3.53
+1645,2021-06-11,518692,542947,,ball,12,Freddie Freeman grounds out to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.,1,0,1,2,7,0.99,3.53
+1646,2021-06-11,518692,645261,,called_strike,1,"Freddie Freeman grounds out, pitcher Sandy Alcantara to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.",1,1,0,3,1,-0.66,3.01
 1647,2021-06-11,518692,645261,,ball,11,"Freddie Freeman grounds out, pitcher Sandy Alcantara to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.",0,1,0,2,1,-1.64,3.54
 1648,2021-06-11,518692,542947,,ball,12,Freddie Freeman grounds out to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.,0,0,1,1,7,2.14,3.13
 1649,2021-06-11,518692,645261,,foul,6,"Freddie Freeman grounds out, pitcher Sandy Alcantara to first baseman Jesus Aguilar.   Ronald Acuna to 3rd.",0,0,0,1,1,0.61,2.58
@@ -1671,8 +1671,8 @@
 1669,2021-06-10,518692,593576,,foul,1,Freddie Freeman homers (14) on a fly ball to center field.,1,2,1,4,9,-0.41,3.39
 1670,2021-06-10,518692,593576,,swinging_strike,5,Freddie Freeman homers (14) on a fly ball to center field.,1,1,1,3,9,0.22,2.9
 1671,2021-06-10,518692,593576,,ball,14,Freddie Freeman homers (14) on a fly ball to center field.,0,1,1,2,9,1.65,1.51
-1672,2021-06-10,518692,593576,,foul,6,Freddie Freeman homers (14) on a fly ball to center field.,0,0,1,1,9,0.51,2.33
-1673,2021-06-10,518692,554430,field_out,hit_into_play,9,"Freddie Freeman grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,2,1,4,1,0.69,1.78
+1672,2021-06-10,518692,554430,field_out,hit_into_play,9,"Freddie Freeman grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,2,1,4,1,0.69,1.78
+1673,2021-06-10,518692,593576,,foul,6,Freddie Freeman homers (14) on a fly ball to center field.,0,0,1,1,9,0.51,2.33
 1674,2021-06-10,518692,554430,,ball,11,"Freddie Freeman grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,2,1,3,1,-1.32,3.98
 1675,2021-06-10,518692,554430,,swinging_strike,3,"Freddie Freeman grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,1,1,2,1,0.46,3.65
 1676,2021-06-10,518692,554430,,foul,2,"Freddie Freeman grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,1,1,1,-0.2,3.4
@@ -1683,8 +1683,8 @@
 1681,2021-06-09,518692,624133,,ball,14,Freddie Freeman called out on strikes.,2,2,2,5,7,0.78,1.37
 1682,2021-06-09,518692,624133,,ball,14,Freddie Freeman called out on strikes.,1,2,2,4,7,2.25,2.42
 1683,2021-06-09,518692,624133,,called_strike,9,Freddie Freeman called out on strikes.,1,1,2,3,7,0.32,2.12
-1684,2021-06-09,518692,621107,strikeout,swinging_strike,8,Freddie Freeman strikes out swinging.,2,2,1,5,1,0.2,1.77
-1685,2021-06-09,518692,624133,,foul,6,Freddie Freeman called out on strikes.,1,0,2,2,7,0.72,2.96
+1684,2021-06-09,518692,624133,,foul,6,Freddie Freeman called out on strikes.,1,0,2,2,7,0.72,2.96
+1685,2021-06-09,518692,621107,strikeout,swinging_strike,8,Freddie Freeman strikes out swinging.,2,2,1,5,1,0.2,1.77
 1686,2021-06-09,518692,624133,,ball,13,Freddie Freeman called out on strikes.,0,0,2,1,7,-0.93,0.87
 1687,2021-06-09,518692,621107,,ball,3,Freddie Freeman strikes out swinging.,1,2,1,4,1,0.81,3.33
 1688,2021-06-09,518692,621107,,called_strike,13,Freddie Freeman strikes out swinging.,1,1,1,3,1,-0.96,2.44
@@ -1740,8 +1740,8 @@
 1738,2021-06-05,518692,595014,walk,blocked_ball,14,Freddie Freeman walks.,3,0,0,4,7,1.43,0.43
 1739,2021-06-05,518692,595014,,ball,14,Freddie Freeman walks.,2,0,0,3,7,2.17,2.18
 1740,2021-06-05,518692,595014,,ball,13,Freddie Freeman walks.,1,0,0,2,7,-0.92,1.7
-1741,2021-06-05,518692,595014,,ball,11,Freddie Freeman walks.,0,0,0,1,7,-1.65,3.42
-1742,2021-06-05,518692,477132,field_out,hit_into_play,6,Freddie Freeman flies out sharply to center fielder Cody Bellinger.,3,0,1,4,1,0.69,2.92
+1741,2021-06-05,518692,477132,field_out,hit_into_play,6,Freddie Freeman flies out sharply to center fielder Cody Bellinger.,3,0,1,4,1,0.69,2.92
+1742,2021-06-05,518692,595014,,ball,11,Freddie Freeman walks.,0,0,0,1,7,-1.65,3.42
 1743,2021-06-05,518692,477132,,ball,12,Freddie Freeman flies out sharply to center fielder Cody Bellinger.,2,0,1,3,1,0.46,3.89
 1744,2021-06-05,518692,477132,,ball,12,Freddie Freeman flies out sharply to center fielder Cody Bellinger.,1,0,1,2,1,0.13,3.72
 1745,2021-06-05,518692,477132,,ball,12,Freddie Freeman flies out sharply to center fielder Cody Bellinger.,0,0,1,1,1,0.02,4.42
@@ -1806,18 +1806,18 @@
 1804,2021-06-01,518692,543272,walk,ball,13,Freddie Freeman walks.   Ronald Acuna to 2nd.,3,2,0,7,9,-1.23,2.19
 1805,2021-06-01,518692,543272,,ball,13,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,2,0,6,9,-0.44,1.62
 1806,2021-06-01,518692,608723,,called_strike,13,Freddie Freeman lines out sharply to center fielder Victor Robles.,2,0,0,3,3,-0.86,2.21
-1807,2021-06-01,518692,544931,field_out,hit_into_play,2,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",3,2,0,6,1,0.21,3.07
+1807,2021-06-01,518692,543272,,foul,9,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,2,0,5,9,0.4,2.13
 1808,2021-06-01,518692,608723,,ball,13,Freddie Freeman lines out sharply to center fielder Victor Robles.,1,0,0,2,3,-0.81,1.12
-1809,2021-06-01,518692,543272,,foul,9,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,2,0,5,9,0.4,2.13
+1809,2021-06-01,518692,544931,field_out,hit_into_play,2,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",3,2,0,6,1,0.21,3.07
 1810,2021-06-01,518692,544931,,blocked_ball,14,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",2,2,0,5,1,0.11,0.65
-1811,2021-06-01,518692,608723,,ball,13,Freddie Freeman lines out sharply to center fielder Victor Robles.,0,0,0,1,3,-1.51,2.58
-1812,2021-06-01,518692,543272,,foul,6,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,1,0,4,9,0.56,2.34
+1811,2021-06-01,518692,543272,,foul,6,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,1,0,4,9,0.56,2.34
+1812,2021-06-01,518692,608723,,ball,13,Freddie Freeman lines out sharply to center fielder Victor Robles.,0,0,0,1,3,-1.51,2.58
 1813,2021-06-01,518692,544931,,swinging_strike,7,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",2,1,0,4,1,-0.28,1.91
 1814,2021-06-01,518692,543272,,ball,13,Freddie Freeman walks.   Ronald Acuna to 2nd.,1,1,0,3,9,-1.16,1.9
 1815,2021-06-01,518692,544931,,blocked_ball,14,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",1,1,0,3,1,1.04,0.25
 1816,2021-06-01,518692,543272,,ball,13,Freddie Freeman walks.   Ronald Acuna to 2nd.,0,1,0,2,9,-1.86,1.7
-1817,2021-06-01,518692,543272,,called_strike,12,Freddie Freeman walks.   Ronald Acuna to 2nd.,0,0,0,1,9,0.38,3.64
-1818,2021-06-01,518692,544931,,ball,13,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",0,1,0,2,1,-1.71,2.44
+1817,2021-06-01,518692,544931,,ball,13,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",0,1,0,2,1,-1.71,2.44
+1818,2021-06-01,518692,543272,,called_strike,12,Freddie Freeman walks.   Ronald Acuna to 2nd.,0,0,0,1,9,0.38,3.64
 1819,2021-06-01,518692,544931,,called_strike,3,"Freddie Freeman grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.   Ronald Acuna to 3rd.",0,0,0,1,1,0.71,3.41
 1820,2021-06-01,518692,543339,field_out,hit_into_play,4,"Freddie Freeman grounds out sharply, pitcher Daniel Hudson to first baseman Ryan Zimmerman.",0,1,0,2,7,-0.59,2.53
 1821,2021-06-01,518692,543339,,swinging_strike,2,"Freddie Freeman grounds out sharply, pitcher Daniel Hudson to first baseman Ryan Zimmerman.",0,0,0,1,7,-0.12,3.47
@@ -1871,20 +1871,20 @@
 1869,2021-05-26,518692,657031,,foul,3,Freddie Freeman flies out to left fielder Alex Verdugo.,3,2,0,8,7,0.59,3.44
 1870,2021-05-26,518692,657031,,ball,13,Freddie Freeman flies out to left fielder Alex Verdugo.,2,2,0,7,7,-1.54,1.64
 1871,2021-05-26,518692,657031,,foul,5,Freddie Freeman flies out to left fielder Alex Verdugo.,2,2,0,6,7,0.19,2.7
-1872,2021-05-26,518692,601713,walk,ball,13,Freddie Freeman walks.,3,1,1,5,1,-1.21,2.54
-1873,2021-05-26,518692,657031,,foul,14,Freddie Freeman flies out to left fielder Alex Verdugo.,2,2,0,5,7,0.99,1.86
-1874,2021-05-26,518692,657031,,foul_tip,5,Freddie Freeman flies out to left fielder Alex Verdugo.,2,1,0,4,7,0.1,2.42
-1875,2021-05-26,518692,601713,,ball,14,Freddie Freeman walks.,2,1,1,4,1,0.31,1.29
-1876,2021-05-26,518692,598264,grounded_into_double_play,hit_into_play,4,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",3,2,1,7,9,-0.35,2.32
-1877,2021-05-26,518692,601713,,ball,13,Freddie Freeman walks.,1,1,1,3,1,-0.01,1.0
-1878,2021-05-26,518692,598264,,foul,2,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",3,2,1,6,9,-0.25,3.38
-1879,2021-05-26,518692,657031,,ball,13,Freddie Freeman flies out to left fielder Alex Verdugo.,1,1,0,3,7,-0.14,0.74
-1880,2021-05-26,518692,601713,,called_strike,8,Freddie Freeman walks.,1,0,1,2,1,0.01,1.94
-1881,2021-05-26,518692,598264,,foul,4,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",3,1,1,5,9,-0.79,2.37
-1882,2021-05-26,518692,657031,,ball,13,Freddie Freeman flies out to left fielder Alex Verdugo.,0,1,0,2,7,-1.57,1.56
-1883,2021-05-26,518692,598264,,ball,12,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",2,1,1,4,9,0.88,4.12
+1872,2021-05-26,518692,657031,,foul,14,Freddie Freeman flies out to left fielder Alex Verdugo.,2,2,0,5,7,0.99,1.86
+1873,2021-05-26,518692,601713,walk,ball,13,Freddie Freeman walks.,3,1,1,5,1,-1.21,2.54
+1874,2021-05-26,518692,601713,,ball,14,Freddie Freeman walks.,2,1,1,4,1,0.31,1.29
+1875,2021-05-26,518692,598264,grounded_into_double_play,hit_into_play,4,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",3,2,1,7,9,-0.35,2.32
+1876,2021-05-26,518692,657031,,foul_tip,5,Freddie Freeman flies out to left fielder Alex Verdugo.,2,1,0,4,7,0.1,2.42
+1877,2021-05-26,518692,657031,,ball,13,Freddie Freeman flies out to left fielder Alex Verdugo.,1,1,0,3,7,-0.14,0.74
+1878,2021-05-26,518692,601713,,ball,13,Freddie Freeman walks.,1,1,1,3,1,-0.01,1.0
+1879,2021-05-26,518692,598264,,foul,2,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",3,2,1,6,9,-0.25,3.38
+1880,2021-05-26,518692,598264,,foul,4,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",3,1,1,5,9,-0.79,2.37
+1881,2021-05-26,518692,657031,,ball,13,Freddie Freeman flies out to left fielder Alex Verdugo.,0,1,0,2,7,-1.57,1.56
+1882,2021-05-26,518692,601713,,called_strike,8,Freddie Freeman walks.,1,0,1,2,1,0.01,1.94
+1883,2021-05-26,518692,657031,,foul,9,Freddie Freeman flies out to left fielder Alex Verdugo.,0,0,0,1,7,0.69,2.2
 1884,2021-05-26,518692,601713,,ball,13,Freddie Freeman walks.,0,0,1,1,1,-0.41,1.17
-1885,2021-05-26,518692,657031,,foul,9,Freddie Freeman flies out to left fielder Alex Verdugo.,0,0,0,1,7,0.69,2.2
+1885,2021-05-26,518692,598264,,ball,12,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",2,1,1,4,9,0.88,4.12
 1886,2021-05-26,518692,598264,,ball,12,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",1,1,1,3,9,0.17,5.12
 1887,2021-05-26,518692,598264,,ball,12,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",0,1,1,2,9,0.59,4.7
 1888,2021-05-26,518692,598264,,called_strike,6,"Freddie Freeman grounds into a double play, third baseman Rafael Devers to shortstop Xander Bogaerts to first baseman Danny Santana.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",0,0,1,1,9,0.67,2.69
@@ -1975,10 +1975,10 @@
 1973,2021-05-20,518692,640444,,foul,7,"Freddie Freeman singles on a pop up to third baseman Erik Gonzalez.  Ronald Acuna out at 3rd, third baseman Erik Gonzalez to shortstop Kevin Newman to second baseman Adam Frazier.",0,0,0,1,3,-0.57,2.2
 1974,2021-05-20,518692,593144,field_out,hit_into_play,1,Freddie Freeman flies out to right fielder Gregory Polanco.,0,0,0,1,10,-0.28,3.1
 1975,2021-05-20,518692,640444,strikeout,called_strike,13,Freddie Freeman called out on strikes.,1,2,1,4,1,-0.87,2.22
-1976,2021-05-20,518692,670280,single,hit_into_play,12,Freddie Freeman singles on a fly ball to center fielder Bryan Reynolds.,0,2,1,3,7,0.5,3.87
-1977,2021-05-20,518692,640444,,foul,2,Freddie Freeman called out on strikes.,1,1,1,3,1,-0.08,3.34
-1978,2021-05-20,518692,640444,,called_strike,13,Freddie Freeman called out on strikes.,1,0,1,2,1,-0.93,2.59
-1979,2021-05-20,518692,670280,,swinging_strike,1,Freddie Freeman singles on a fly ball to center fielder Bryan Reynolds.,0,1,1,2,7,-0.44,3.44
+1976,2021-05-20,518692,640444,,foul,2,Freddie Freeman called out on strikes.,1,1,1,3,1,-0.08,3.34
+1977,2021-05-20,518692,670280,single,hit_into_play,12,Freddie Freeman singles on a fly ball to center fielder Bryan Reynolds.,0,2,1,3,7,0.5,3.87
+1978,2021-05-20,518692,670280,,swinging_strike,1,Freddie Freeman singles on a fly ball to center fielder Bryan Reynolds.,0,1,1,2,7,-0.44,3.44
+1979,2021-05-20,518692,640444,,called_strike,13,Freddie Freeman called out on strikes.,1,0,1,2,1,-0.93,2.59
 1980,2021-05-20,518692,670280,,foul_tip,3,Freddie Freeman singles on a fly ball to center fielder Bryan Reynolds.,0,0,1,1,7,0.45,3.09
 1981,2021-05-20,518692,640444,,ball,13,Freddie Freeman called out on strikes.,0,0,1,1,1,-0.09,0.24
 1982,2021-05-19,518692,656849,single,hit_into_play,2,Freddie Freeman singles on a sharp line drive to center fielder Johneshwy Fargas.   Charlie Morton to 3rd.    Ronald Acuna to 2nd.,0,1,2,2,5,-0.19,3.14
@@ -1995,42 +1995,42 @@
 1993,2021-05-18,518692,544727,grounded_into_double_play,hit_into_play,9,"Freddie Freeman grounds into a double play, shortstop Francisco Lindor to first baseman Pete Alonso.   Ehire Adrianza to 3rd.    Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",1,1,0,3,8,0.34,1.65
 1994,2021-05-18,518692,544727,,blocked_ball,14,"Freddie Freeman grounds into a double play, shortstop Francisco Lindor to first baseman Pete Alonso.   Ehire Adrianza to 3rd.    Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",0,1,0,2,8,0.67,0.64
 1995,2021-05-18,518692,544727,,called_strike,7,"Freddie Freeman grounds into a double play, shortstop Francisco Lindor to first baseman Pete Alonso.   Ehire Adrianza to 3rd.    Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",0,0,0,1,8,-0.73,1.84
-1996,2021-05-18,518692,612434,field_out,hit_into_play,11,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,1,1,2,1,-1.02,2.7
-1997,2021-05-18,518692,607229,walk,ball,3,Freddie Freeman walks.,3,2,0,7,4,0.3,3.73
-1998,2021-05-18,518692,612434,,swinging_strike,5,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,1,1,1,0.25,2.37
+1996,2021-05-18,518692,607229,walk,ball,3,Freddie Freeman walks.,3,2,0,7,4,0.3,3.73
+1997,2021-05-18,518692,612434,field_out,hit_into_play,11,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,1,1,2,1,-1.02,2.7
+1998,2021-05-18,518692,543507,home_run,hit_into_play,8,Freddie Freeman homers (12) on a fly ball to center field.,3,2,0,6,6,0.2,2.17
 1999,2021-05-18,518692,607229,,foul,8,Freddie Freeman walks.,3,2,0,6,4,0.01,1.8
-2000,2021-05-18,518692,543507,home_run,hit_into_play,8,Freddie Freeman homers (12) on a fly ball to center field.,3,2,0,6,6,0.2,2.17
+2000,2021-05-18,518692,612434,,swinging_strike,5,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,1,1,1,0.25,2.37
 2001,2021-05-18,518692,607229,,ball,7,Freddie Freeman walks.,2,2,0,5,4,-0.72,2.2
 2002,2021-05-18,518692,543507,,ball,11,Freddie Freeman homers (12) on a fly ball to center field.,2,2,0,5,6,-0.51,4.94
 2003,2021-05-18,518692,543507,,ball,14,Freddie Freeman homers (12) on a fly ball to center field.,1,2,0,4,6,0.09,-0.51
 2004,2021-05-18,518692,607229,,ball,12,Freddie Freeman walks.,1,2,0,4,4,1.07,5.13
 2005,2021-05-18,518692,607229,,foul,13,Freddie Freeman walks.,1,1,0,3,4,-0.91,1.84
 2006,2021-05-18,518692,543507,,foul,2,Freddie Freeman homers (12) on a fly ball to center field.,1,1,0,3,6,-0.2,3.28
-2007,2021-05-18,518692,543507,,ball,13,Freddie Freeman homers (12) on a fly ball to center field.,0,1,0,2,6,-0.76,-0.41
-2008,2021-05-18,518692,607229,,ball,14,Freddie Freeman walks.,0,1,0,2,4,1.53,2.26
+2007,2021-05-18,518692,607229,,ball,14,Freddie Freeman walks.,0,1,0,2,4,1.53,2.26
+2008,2021-05-18,518692,543507,,ball,13,Freddie Freeman homers (12) on a fly ball to center field.,0,1,0,2,6,-0.76,-0.41
 2009,2021-05-18,518692,607229,,called_strike,8,Freddie Freeman walks.,0,0,0,1,4,0.28,2.19
 2010,2021-05-18,518692,543507,,called_strike,9,Freddie Freeman homers (12) on a fly ball to center field.,0,0,0,1,6,0.43,2.27
 2011,2021-05-17,518692,621242,walk,ball,13,Freddie Freeman walks.,3,0,1,4,9,-1.08,2.31
 2012,2021-05-17,518692,656887,field_out,hit_into_play,5,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",3,2,0,7,4,-0.05,2.58
-2013,2021-05-17,518692,656887,,ball,13,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",2,2,0,6,4,-0.19,1.54
-2014,2021-05-17,518692,592836,field_out,hit_into_play,6,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,3,1,1,5,1,0.4,2.45
-2015,2021-05-17,518692,621242,,ball,13,Freddie Freeman walks.,2,0,1,3,9,-1.11,2.43
-2016,2021-05-17,518692,656887,,foul,11,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",2,2,0,5,4,-0.3,4.02
-2017,2021-05-17,518692,621242,,ball,14,Freddie Freeman walks.,1,0,1,2,9,0.38,0.78
-2018,2021-05-17,518692,592836,,ball,14,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,2,1,1,4,1,0.91,0.83
-2019,2021-05-17,518692,544727,field_out,hit_into_play,5,Freddie Freeman flies out to center fielder Johneshwy Fargas.,1,2,0,5,7,0.14,2.34
-2020,2021-05-17,518692,621242,,ball,13,Freddie Freeman walks.,0,0,1,1,9,-1.75,2.78
-2021,2021-05-17,518692,544727,,foul,7,Freddie Freeman flies out to center fielder Johneshwy Fargas.,1,2,0,4,7,-0.47,1.56
-2022,2021-05-17,518692,592836,,ball,14,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,1,1,1,3,1,0.58,0.92
+2013,2021-05-17,518692,592836,field_out,hit_into_play,6,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,3,1,1,5,1,0.4,2.45
+2014,2021-05-17,518692,621242,,ball,13,Freddie Freeman walks.,2,0,1,3,9,-1.11,2.43
+2015,2021-05-17,518692,656887,,ball,13,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",2,2,0,6,4,-0.19,1.54
+2016,2021-05-17,518692,592836,,ball,14,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,2,1,1,4,1,0.91,0.83
+2017,2021-05-17,518692,544727,field_out,hit_into_play,5,Freddie Freeman flies out to center fielder Johneshwy Fargas.,1,2,0,5,7,0.14,2.34
+2018,2021-05-17,518692,656887,,foul,11,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",2,2,0,5,4,-0.3,4.02
+2019,2021-05-17,518692,621242,,ball,14,Freddie Freeman walks.,1,0,1,2,9,0.38,0.78
+2020,2021-05-17,518692,544727,,foul,7,Freddie Freeman flies out to center fielder Johneshwy Fargas.,1,2,0,4,7,-0.47,1.56
+2021,2021-05-17,518692,592836,,ball,14,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,1,1,1,3,1,0.58,0.92
+2022,2021-05-17,518692,621242,,ball,13,Freddie Freeman walks.,0,0,1,1,9,-1.75,2.78
 2023,2021-05-17,518692,656887,,foul,11,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",2,1,0,4,4,-0.32,3.8
 2024,2021-05-17,518692,592836,,ball,12,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,0,1,1,2,1,1.07,3.0
 2025,2021-05-17,518692,544727,,swinging_strike,5,Freddie Freeman flies out to center fielder Johneshwy Fargas.,1,1,0,3,7,0.25,2.9
 2026,2021-05-17,518692,656887,,ball,14,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,1,0,3,4,0.89,0.94
-2027,2021-05-17,518692,544727,,foul_tip,7,Freddie Freeman flies out to center fielder Johneshwy Fargas.,1,0,0,2,7,-0.3,1.59
-2028,2021-05-17,518692,656887,,foul,3,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,0,0,2,4,0.64,3.31
+2027,2021-05-17,518692,656887,,foul,3,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,0,0,2,4,0.64,3.31
+2028,2021-05-17,518692,544727,,foul_tip,7,Freddie Freeman flies out to center fielder Johneshwy Fargas.,1,0,0,2,7,-0.3,1.59
 2029,2021-05-17,518692,592836,,called_strike,8,Freddie Freeman flies out sharply to right fielder Kevin Pillar.,0,0,1,1,1,-0.27,2.06
-2030,2021-05-17,518692,544727,,ball,11,Freddie Freeman flies out to center fielder Johneshwy Fargas.,0,0,0,1,7,-1.3,3.32
-2031,2021-05-17,518692,656887,,ball,14,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,0,1,4,1.47,0.61
+2030,2021-05-17,518692,656887,,ball,14,"Freddie Freeman grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,0,1,4,1.47,0.61
+2031,2021-05-17,518692,544727,,ball,11,Freddie Freeman flies out to center fielder Johneshwy Fargas.,0,0,0,1,7,-1.3,3.32
 2032,2021-05-16,518692,642547,field_out,hit_into_play,11,"Freddie Freeman grounds out, shortstop Luis Urias to first baseman Daniel Vogelbach.",2,2,1,5,6,-1.08,2.72
 2033,2021-05-16,518692,642547,,swinging_strike,9,"Freddie Freeman grounds out, shortstop Luis Urias to first baseman Daniel Vogelbach.",2,1,1,4,6,0.29,1.88
 2034,2021-05-16,518692,642547,,ball,11,"Freddie Freeman grounds out, shortstop Luis Urias to first baseman Daniel Vogelbach.",1,1,1,3,6,-1.46,3.14
@@ -2039,10 +2039,10 @@
 2037,2021-05-16,518692,642547,field_out,hit_into_play,13,Freddie Freeman flies out to left fielder Jackie Bradley.,0,0,0,1,4,-0.36,1.55
 2038,2021-05-16,518692,623352,walk,ball,13,Freddie Freeman walks.,3,2,0,9,9,-0.69,1.41
 2039,2021-05-16,518692,623352,,ball,13,Freddie Freeman walks.,2,2,0,8,9,-0.25,1.34
-2040,2021-05-16,518692,642547,strikeout,swinging_strike,13,Freddie Freeman strikes out swinging.,0,2,1,3,1,-1.5,1.22
-2041,2021-05-16,518692,623352,,foul,5,Freddie Freeman walks.,2,2,0,7,9,0.0,2.76
-2042,2021-05-16,518692,642547,,swinging_strike,7,Freddie Freeman strikes out swinging.,0,1,1,2,1,-0.72,1.65
-2043,2021-05-16,518692,623352,,foul,7,Freddie Freeman walks.,2,2,0,6,9,-0.56,2.26
+2040,2021-05-16,518692,623352,,foul,5,Freddie Freeman walks.,2,2,0,7,9,0.0,2.76
+2041,2021-05-16,518692,642547,strikeout,swinging_strike,13,Freddie Freeman strikes out swinging.,0,2,1,3,1,-1.5,1.22
+2042,2021-05-16,518692,623352,,foul,7,Freddie Freeman walks.,2,2,0,6,9,-0.56,2.26
+2043,2021-05-16,518692,642547,,swinging_strike,7,Freddie Freeman strikes out swinging.,0,1,1,2,1,-0.72,1.65
 2044,2021-05-16,518692,642547,,called_strike,5,Freddie Freeman strikes out swinging.,0,0,1,1,1,0.1,2.58
 2045,2021-05-16,518692,623352,,ball,13,Freddie Freeman walks.,1,2,0,5,9,-2.7,1.48
 2046,2021-05-16,518692,608718,home_run,hit_into_play,8,Freddie Freeman hits a grand slam (11) to center field.   Ender Inciarte scores.    Pablo Sandoval scores.    Ehire Adrianza scores.,0,0,1,1,7,0.27,1.96
@@ -2070,10 +2070,10 @@
 2068,2021-05-15,518692,474463,,foul,8,Freddie Freeman walks.,2,1,1,4,1,0.22,1.97
 2069,2021-05-15,518692,502202,,called_strike,8,Freddie Freeman lines out to left fielder Tyrone Taylor.,1,1,1,3,6,-0.15,1.78
 2070,2021-05-15,518692,474463,,called_strike,8,Freddie Freeman walks.,2,0,1,3,1,-0.19,2.15
-2071,2021-05-15,518692,474463,,ball,14,Freddie Freeman walks.,1,0,1,2,1,0.64,1.39
-2072,2021-05-15,518692,502202,,foul,6,Freddie Freeman lines out to left fielder Tyrone Taylor.,1,0,1,2,6,0.72,2.88
-2073,2021-05-15,518692,502202,,ball,11,Freddie Freeman lines out to left fielder Tyrone Taylor.,0,0,1,1,6,-0.17,3.7
-2074,2021-05-15,518692,474463,,ball,14,Freddie Freeman walks.,0,0,1,1,1,1.2,2.4
+2071,2021-05-15,518692,502202,,foul,6,Freddie Freeman lines out to left fielder Tyrone Taylor.,1,0,1,2,6,0.72,2.88
+2072,2021-05-15,518692,474463,,ball,14,Freddie Freeman walks.,1,0,1,2,1,0.64,1.39
+2073,2021-05-15,518692,474463,,ball,14,Freddie Freeman walks.,0,0,1,1,1,1.2,2.4
+2074,2021-05-15,518692,502202,,ball,11,Freddie Freeman lines out to left fielder Tyrone Taylor.,0,0,1,1,6,-0.17,3.7
 2075,2021-05-14,518692,641778,single,hit_into_play,5,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,2,2,0,6,7,0.07,2.76
 2076,2021-05-14,518692,641778,,ball,13,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,1,2,0,5,7,-0.76,1.49
 2077,2021-05-14,518692,641778,,foul,1,Freddie Freeman singles on a sharp line drive to right fielder Avisail Garcia.,1,2,0,4,7,-0.6,3.6
@@ -2104,8 +2104,8 @@
 2102,2021-05-13,518692,548389,single,hit_into_play,4,Freddie Freeman singles on a ground ball to center fielder Jonathan Davis.,1,1,0,3,1,-0.76,2.4
 2103,2021-05-13,518692,548389,,ball,11,Freddie Freeman singles on a ground ball to center fielder Jonathan Davis.,0,1,0,2,1,-1.85,2.79
 2104,2021-05-13,518692,664157,,ball,12,Freddie Freeman lines out to right fielder Teoscar Hernandez.,0,2,0,3,8,1.46,4.25
-2105,2021-05-13,518692,664157,,foul,8,Freddie Freeman lines out to right fielder Teoscar Hernandez.,0,1,0,2,8,-0.23,2.03
-2106,2021-05-13,518692,548389,,called_strike,8,Freddie Freeman singles on a ground ball to center fielder Jonathan Davis.,0,0,0,1,1,-0.26,1.85
+2105,2021-05-13,518692,548389,,called_strike,8,Freddie Freeman singles on a ground ball to center fielder Jonathan Davis.,0,0,0,1,1,-0.26,1.85
+2106,2021-05-13,518692,664157,,foul,8,Freddie Freeman lines out to right fielder Teoscar Hernandez.,0,1,0,2,8,-0.23,2.03
 2107,2021-05-13,518692,664157,,foul,3,Freddie Freeman lines out to right fielder Teoscar Hernandez.,0,0,0,1,8,0.36,3.26
 2108,2021-05-12,518692,547943,strikeout,swinging_strike,4,Freddie Freeman strikes out swinging.,0,2,2,3,5,-0.54,2.88
 2109,2021-05-12,518692,547943,,foul,13,Freddie Freeman strikes out swinging.,0,1,2,2,5,-1.02,1.84
@@ -2114,8 +2114,8 @@
 2112,2021-05-12,518692,547943,,called_strike,1,Freddie Freeman strikes out swinging.,0,1,2,2,3,-0.44,3.49
 2113,2021-05-12,518692,547943,,foul,7,Freddie Freeman strikes out swinging.,0,0,2,1,3,-0.42,2.09
 2114,2021-05-12,518692,543022,strikeout,foul_tip,11,Freddie Freeman strikes out on a foul tip.,3,2,1,6,8,-0.84,3.45
-2115,2021-05-12,518692,543022,,foul_tip,4,Freddie Freeman strikes out on a foul tip.,3,1,1,5,8,-0.77,2.66
-2116,2021-05-12,518692,547943,field_out,hit_into_play,12,Freddie Freeman pops out to shortstop Bo Bichette.,0,0,1,1,1,0.95,3.19
+2115,2021-05-12,518692,547943,field_out,hit_into_play,12,Freddie Freeman pops out to shortstop Bo Bichette.,0,0,1,1,1,0.95,3.19
+2116,2021-05-12,518692,543022,,foul_tip,4,Freddie Freeman strikes out on a foul tip.,3,1,1,5,8,-0.77,2.66
 2117,2021-05-12,518692,543022,,called_strike,8,Freddie Freeman strikes out on a foul tip.,3,0,1,4,8,0.24,2.09
 2118,2021-05-12,518692,543022,,ball,14,Freddie Freeman strikes out on a foul tip.,2,0,1,3,8,0.74,0.92
 2119,2021-05-12,518692,543022,,ball,13,Freddie Freeman strikes out on a foul tip.,1,0,1,2,8,-0.65,0.99
@@ -2138,21 +2138,21 @@
 2136,2021-05-09,518692,519043,,foul,8,Freddie Freeman singles on a line drive to left fielder Andrew McCutchen.,3,0,0,4,8,-0.14,2.2
 2137,2021-05-09,518692,519043,,ball,11,Freddie Freeman singles on a line drive to left fielder Andrew McCutchen.,2,0,0,3,8,-1.1,3.2
 2138,2021-05-09,518692,519043,,ball,13,Freddie Freeman singles on a line drive to left fielder Andrew McCutchen.,1,0,0,2,8,-1.25,1.83
-2139,2021-05-09,518692,519043,,ball,13,Freddie Freeman singles on a line drive to left fielder Andrew McCutchen.,0,0,0,1,8,-1.18,2.63
-2140,2021-05-09,518692,605400,single,hit_into_play,7,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,3,2,0,7,1,-0.79,1.94
-2141,2021-05-09,518692,624133,walk,ball,13,Freddie Freeman walks.,3,2,2,7,5,-0.08,0.72
-2142,2021-05-09,518692,605400,,ball,14,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,2,2,0,6,1,1.41,2.0
-2143,2021-05-09,518692,624133,,ball,14,Freddie Freeman walks.,2,2,1,6,5,1.0,1.82
+2139,2021-05-09,518692,624133,walk,ball,13,Freddie Freeman walks.,3,2,2,7,5,-0.08,0.72
+2140,2021-05-09,518692,519043,,ball,13,Freddie Freeman singles on a line drive to left fielder Andrew McCutchen.,0,0,0,1,8,-1.18,2.63
+2141,2021-05-09,518692,605400,single,hit_into_play,7,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,3,2,0,7,1,-0.79,1.94
+2142,2021-05-09,518692,624133,,ball,14,Freddie Freeman walks.,2,2,1,6,5,1.0,1.82
+2143,2021-05-09,518692,605400,,ball,14,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,2,2,0,6,1,1.41,2.0
 2144,2021-05-09,518692,624133,,foul,6,Freddie Freeman walks.,2,2,1,5,5,0.75,2.48
 2145,2021-05-09,518692,605400,,foul,8,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,2,2,0,5,1,-0.24,1.79
-2146,2021-05-09,518692,605400,,swinging_strike,14,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,2,1,0,4,1,1.1,2.56
-2147,2021-05-09,518692,624133,,foul,6,Freddie Freeman walks.,2,1,1,4,5,0.53,2.6
+2146,2021-05-09,518692,624133,,foul,6,Freddie Freeman walks.,2,1,1,4,5,0.53,2.6
+2147,2021-05-09,518692,605400,,swinging_strike,14,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,2,1,0,4,1,1.1,2.56
 2148,2021-05-09,518692,605400,,called_strike,6,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,2,0,0,3,1,0.66,2.96
 2149,2021-05-09,518692,624133,,called_strike,14,Freddie Freeman walks.,2,0,1,3,5,0.34,1.43
 2150,2021-05-09,518692,624133,,ball,14,Freddie Freeman walks.,1,0,1,2,5,1.22,2.03
 2151,2021-05-09,518692,605400,,ball,11,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,1,0,0,2,1,-0.91,2.93
-2152,2021-05-09,518692,605400,,ball,11,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,0,0,0,1,1,-0.91,3.18
-2153,2021-05-09,518692,624133,,ball,13,Freddie Freeman walks.,0,0,1,1,5,-1.57,1.73
+2152,2021-05-09,518692,624133,,ball,13,Freddie Freeman walks.,0,0,1,1,5,-1.57,1.73
+2153,2021-05-09,518692,605400,,ball,11,Freddie Freeman singles on a line drive to center fielder Odubel Herrera.   Ronald Acuna scores.    Freddie Freeman to 2nd.,0,0,0,1,1,-0.91,3.18
 2154,2021-05-08,518692,592826,home_run,hit_into_play,4,Freddie Freeman homers (8) on a fly ball to center field.,1,0,0,2,6,-0.43,2.57
 2155,2021-05-08,518692,592826,,ball,11,Freddie Freeman homers (8) on a fly ball to center field.,0,0,0,1,6,-2.14,3.84
 2156,2021-05-08,518692,592826,field_out,hit_into_play,8,"Freddie Freeman grounds out sharply, third baseman Alec Bohm to first baseman Brad Miller.",0,1,2,2,3,-0.19,2.16
@@ -2165,8 +2165,8 @@
 2163,2021-05-08,518692,592826,field_out,hit_into_play,7,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Brad Miller.",3,0,1,4,1,-0.45,2.16
 2164,2021-05-08,518692,592826,,ball,11,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Brad Miller.",2,0,1,3,1,-1.37,3.35
 2165,2021-05-08,518692,592826,,ball,13,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Brad Miller.",1,0,1,2,1,-1.05,2.15
-2166,2021-05-08,518692,592826,,ball,1,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Brad Miller.",0,0,1,1,1,-0.7,3.49
-2167,2021-05-08,518692,621237,field_out,hit_into_play,5,Freddie Freeman grounds out to first baseman Alec Bohm.,2,2,2,6,7,0.05,2.88
+2166,2021-05-08,518692,621237,field_out,hit_into_play,5,Freddie Freeman grounds out to first baseman Alec Bohm.,2,2,2,6,7,0.05,2.88
+2167,2021-05-08,518692,592826,,ball,1,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Brad Miller.",0,0,1,1,1,-0.7,3.49
 2168,2021-05-08,518692,621237,,blocked_ball,13,Freddie Freeman grounds out to first baseman Alec Bohm.,1,2,2,5,7,-1.32,-0.91
 2169,2021-05-08,518692,621237,,foul,12,Freddie Freeman grounds out to first baseman Alec Bohm.,1,2,2,4,7,1.14,3.41
 2170,2021-05-08,518692,621237,,blocked_ball,14,Freddie Freeman grounds out to first baseman Alec Bohm.,0,2,2,3,7,0.18,0.37
@@ -2203,17 +2203,17 @@
 2201,2021-05-04,518692,605452,,ball,13,Freddie Freeman strikes out swinging.,0,1,2,2,5,-0.67,1.44
 2202,2021-05-04,518692,605452,,called_strike,1,Freddie Freeman strikes out swinging.,0,0,2,1,5,-0.7,3.1
 2203,2021-05-04,518692,608723,field_out,hit_into_play,7,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",3,2,0,7,7,-0.46,2.07
-2204,2021-05-04,518692,608723,,ball,11,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",2,2,0,6,7,-1.36,4.73
-2205,2021-05-04,518692,605452,strikeout,swinging_strike,14,Freddie Freeman strikes out swinging.,2,2,0,5,1,0.98,1.83
-2206,2021-05-04,518692,608723,,foul,9,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",2,2,0,5,7,0.44,1.79
-2207,2021-05-04,518692,605452,,ball,14,Freddie Freeman strikes out swinging.,1,2,0,4,1,0.76,1.01
-2208,2021-05-04,518692,502179,field_out,hit_into_play,1,Freddie Freeman flies out sharply to center fielder Victor Robles.,0,0,1,1,9,-0.62,3.25
+2204,2021-05-04,518692,605452,strikeout,swinging_strike,14,Freddie Freeman strikes out swinging.,2,2,0,5,1,0.98,1.83
+2205,2021-05-04,518692,608723,,ball,11,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",2,2,0,6,7,-1.36,4.73
+2206,2021-05-04,518692,502179,field_out,hit_into_play,1,Freddie Freeman flies out sharply to center fielder Victor Robles.,0,0,1,1,9,-0.62,3.25
+2207,2021-05-04,518692,608723,,foul,9,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",2,2,0,5,7,0.44,1.79
+2208,2021-05-04,518692,605452,,ball,14,Freddie Freeman strikes out swinging.,1,2,0,4,1,0.76,1.01
 2209,2021-05-04,518692,608723,,ball,14,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",1,2,0,4,7,0.44,0.73
 2210,2021-05-04,518692,605452,,ball,14,Freddie Freeman strikes out swinging.,0,2,0,3,1,1.19,2.54
 2211,2021-05-04,518692,608723,,foul,7,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",1,1,0,3,7,-0.62,2.05
 2212,2021-05-04,518692,605452,,swinging_strike,1,Freddie Freeman strikes out swinging.,0,1,0,2,1,-0.59,3.2
-2213,2021-05-04,518692,605452,,foul,8,Freddie Freeman strikes out swinging.,0,0,0,1,1,-0.01,1.74
-2214,2021-05-04,518692,608723,,foul,6,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",1,0,0,2,7,0.57,2.54
+2213,2021-05-04,518692,608723,,foul,6,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",1,0,0,2,7,0.57,2.54
+2214,2021-05-04,518692,605452,,foul,8,Freddie Freeman strikes out swinging.,0,0,0,1,1,-0.01,1.74
 2215,2021-05-04,518692,608723,,ball,11,"Freddie Freeman grounds out, first baseman Josh Bell to pitcher Austin Voth.",0,0,0,1,7,-1.24,3.01
 2216,2021-05-02,518692,548389,strikeout,swinging_strike,7,Freddie Freeman strikes out swinging.,3,2,1,6,3,-0.63,1.8
 2217,2021-05-02,518692,548389,,ball,14,Freddie Freeman strikes out swinging.,2,2,1,5,3,0.32,0.24
@@ -2231,8 +2231,8 @@
 2229,2021-05-02,518692,548389,field_out,hit_into_play,4,"Freddie Freeman grounds out, third baseman Cavan Biggio to first baseman Vladimir Guerrero Jr.",1,1,1,3,1,-0.76,2.32
 2230,2021-05-02,518692,548389,,ball,13,"Freddie Freeman grounds out, third baseman Cavan Biggio to first baseman Vladimir Guerrero Jr.",0,1,1,2,1,-1.47,2.16
 2231,2021-05-02,518692,621366,strikeout,swinging_strike,7,Freddie Freeman strikes out swinging.,0,2,1,3,5,-0.47,1.7
-2232,2021-05-02,518692,621366,,swinging_strike,13,Freddie Freeman strikes out swinging.,0,1,1,2,5,-1.22,1.98
-2233,2021-05-02,518692,548389,,called_strike,2,"Freddie Freeman grounds out, third baseman Cavan Biggio to first baseman Vladimir Guerrero Jr.",0,0,1,1,1,-0.17,3.2
+2232,2021-05-02,518692,548389,,called_strike,2,"Freddie Freeman grounds out, third baseman Cavan Biggio to first baseman Vladimir Guerrero Jr.",0,0,1,1,1,-0.17,3.2
+2233,2021-05-02,518692,621366,,swinging_strike,13,Freddie Freeman strikes out swinging.,0,1,1,2,5,-1.22,1.98
 2234,2021-05-02,518692,621366,,foul,12,Freddie Freeman strikes out swinging.,0,0,1,1,5,1.0,3.68
 2235,2021-05-01,518692,543548,field_out,hit_into_play,9,Freddie Freeman lines out to first baseman Vladimir Guerrero Jr.,0,0,2,1,2,0.66,1.96
 2236,2021-05-01,518692,663423,strikeout,swinging_strike,12,Freddie Freeman strikes out swinging.,1,2,0,4,5,0.23,4.24
@@ -2248,8 +2248,8 @@
 2246,2021-05-01,518692,503569,field_out,hit_into_play,7,Freddie Freeman flies out to center fielder Randal Grichuk.,1,2,0,6,9,-0.38,1.95
 2247,2021-05-01,518692,503569,,ball,14,Freddie Freeman flies out to center fielder Randal Grichuk.,0,2,0,5,9,0.83,-0.24
 2248,2021-05-01,518692,503569,,foul,5,Freddie Freeman flies out to center fielder Randal Grichuk.,0,2,0,4,9,-0.27,2.49
-2249,2021-05-01,518692,503569,,foul,11,Freddie Freeman flies out to center fielder Randal Grichuk.,0,2,0,3,9,-0.37,3.72
-2250,2021-05-01,518692,641835,grounded_into_double_play,hit_into_play,3,"Freddie Freeman grounds into a double play, second baseman Joe Panik to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.  Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",0,2,1,3,6,0.78,3.43
+2249,2021-05-01,518692,641835,grounded_into_double_play,hit_into_play,3,"Freddie Freeman grounds into a double play, second baseman Joe Panik to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.  Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",0,2,1,3,6,0.78,3.43
+2250,2021-05-01,518692,503569,,foul,11,Freddie Freeman flies out to center fielder Randal Grichuk.,0,2,0,3,9,-0.37,3.72
 2251,2021-05-01,518692,641835,,called_strike,7,"Freddie Freeman grounds into a double play, second baseman Joe Panik to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.  Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",0,1,1,2,6,-0.33,2.06
 2252,2021-05-01,518692,503569,,swinging_strike,5,Freddie Freeman flies out to center fielder Randal Grichuk.,0,1,0,2,9,0.13,2.9
 2253,2021-05-01,518692,503569,,swinging_strike,2,Freddie Freeman flies out to center fielder Randal Grichuk.,0,0,0,1,9,-0.17,3.13
@@ -2280,8 +2280,8 @@
 2278,2021-04-29,518692,640470,strikeout,swinging_strike_blocked,14,Freddie Freeman strikes out swinging.,3,2,1,8,1,1.18,0.28
 2279,2021-04-29,518692,640470,,foul,1,Freddie Freeman strikes out swinging.,3,2,1,7,1,-0.34,3.12
 2280,2021-04-29,518692,640470,,ball,13,Freddie Freeman strikes out swinging.,2,2,1,6,1,-1.77,2.34
-2281,2021-04-29,518692,605177,grounded_into_double_play,hit_into_play,6,"Freddie Freeman grounds into a double play, pitcher Andrew Chafin to shortstop Javier Baez to first baseman Anthony Rizzo.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",2,2,1,6,7,0.41,2.52
-2282,2021-04-29,518692,640470,,foul,5,Freddie Freeman strikes out swinging.,2,2,1,5,1,-0.04,2.56
+2281,2021-04-29,518692,640470,,foul,5,Freddie Freeman strikes out swinging.,2,2,1,5,1,-0.04,2.56
+2282,2021-04-29,518692,605177,grounded_into_double_play,hit_into_play,6,"Freddie Freeman grounds into a double play, pitcher Andrew Chafin to shortstop Javier Baez to first baseman Anthony Rizzo.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",2,2,1,6,7,0.41,2.52
 2283,2021-04-29,518692,640470,,called_strike,5,Freddie Freeman strikes out swinging.,2,1,1,4,1,-0.05,2.78
 2284,2021-04-29,518692,605177,,foul,13,"Freddie Freeman grounds into a double play, pitcher Andrew Chafin to shortstop Javier Baez to first baseman Anthony Rizzo.   Ronald Acuna out at 2nd.    Freddie Freeman out at 1st.",2,2,1,5,7,-0.42,1.5
 2285,2021-04-29,518692,640470,,ball,14,Freddie Freeman strikes out swinging.,1,1,1,3,1,1.41,2.19
@@ -2319,10 +2319,10 @@
 2317,2021-04-27,518692,519443,,ball,12,Freddie Freeman walks.   Austin Riley scores.    Pablo Sandoval to 3rd.    Ronald Acuna to 2nd.,0,0,2,1,8,0.87,3.71
 2318,2021-04-27,518692,571521,strikeout,swinging_strike,13,Freddie Freeman strikes out swinging.,1,2,1,4,7,-1.35,1.28
 2319,2021-04-27,518692,571521,,foul,8,Freddie Freeman strikes out swinging.,1,1,1,3,7,-0.01,2.1
-2320,2021-04-27,518692,592866,single,hit_into_play,8,Freddie Freeman singles on a sharp line drive to center fielder Jake Marisnick.,0,1,1,2,1,0.04,1.67
-2321,2021-04-27,518692,571521,,ball,13,Freddie Freeman strikes out swinging.,0,1,1,2,7,-1.08,0.89
-2322,2021-04-27,518692,571521,,foul,14,Freddie Freeman strikes out swinging.,0,0,1,1,7,0.36,0.69
-2323,2021-04-27,518692,592866,,called_strike,7,Freddie Freeman singles on a sharp line drive to center fielder Jake Marisnick.,0,0,1,1,1,-0.41,2.23
+2320,2021-04-27,518692,571521,,ball,13,Freddie Freeman strikes out swinging.,0,1,1,2,7,-1.08,0.89
+2321,2021-04-27,518692,592866,single,hit_into_play,8,Freddie Freeman singles on a sharp line drive to center fielder Jake Marisnick.,0,1,1,2,1,0.04,1.67
+2322,2021-04-27,518692,592866,,called_strike,7,Freddie Freeman singles on a sharp line drive to center fielder Jake Marisnick.,0,0,1,1,1,-0.41,2.23
+2323,2021-04-27,518692,571521,,foul,14,Freddie Freeman strikes out swinging.,0,0,1,1,7,0.36,0.69
 2324,2021-04-26,518692,605200,field_out,hit_into_play,7,"Cubs challenged (tag play), call on the field was upheld: Freddie Freeman flies out to center fielder Ian Happ.   Ronald Acuna to 2nd.",1,0,0,2,4,-0.61,1.92
 2325,2021-04-26,518692,605200,,ball,13,"Cubs challenged (tag play), call on the field was upheld: Freddie Freeman flies out to center fielder Ian Happ.   Ronald Acuna to 2nd.",0,0,0,1,4,-1.27,2.44
 2326,2021-04-26,518692,605200,field_out,hit_into_play,8,Freddie Freeman pops out to second baseman Eric Sogard in foul territory.,1,0,1,2,2,0.1,1.82
@@ -2331,8 +2331,8 @@
 2329,2021-04-26,518692,519443,,foul,6,Freddie Freeman homers (6) on a fly ball to right field.    Guillermo Heredia scores.    Ronald Acuna scores.,2,2,2,6,5,0.37,2.29
 2330,2021-04-26,518692,605177,field_out,hit_into_play,6,Freddie Freeman flies out to center fielder Ian Happ.,1,1,1,3,7,0.62,2.71
 2331,2021-04-26,518692,519443,,blocked_ball,13,Freddie Freeman homers (6) on a fly ball to right field.    Guillermo Heredia scores.    Ronald Acuna scores.,1,2,2,5,5,-0.14,1.1
-2332,2021-04-26,518692,519443,,foul,2,Freddie Freeman homers (6) on a fly ball to right field.    Guillermo Heredia scores.    Ronald Acuna scores.,1,2,2,4,5,-0.19,3.43
-2333,2021-04-26,518692,605177,,ball,13,Freddie Freeman flies out to center fielder Ian Happ.,0,1,1,2,7,-0.34,1.43
+2332,2021-04-26,518692,605177,,ball,13,Freddie Freeman flies out to center fielder Ian Happ.,0,1,1,2,7,-0.34,1.43
+2333,2021-04-26,518692,519443,,foul,2,Freddie Freeman homers (6) on a fly ball to right field.    Guillermo Heredia scores.    Ronald Acuna scores.,1,2,2,4,5,-0.19,3.43
 2334,2021-04-26,518692,605177,,foul,14,Freddie Freeman flies out to center fielder Ian Happ.,0,0,1,1,7,0.95,2.48
 2335,2021-04-26,518692,519443,,foul,12,Freddie Freeman homers (6) on a fly ball to right field.    Guillermo Heredia scores.    Ronald Acuna scores.,1,1,2,3,5,1.04,2.7
 2336,2021-04-26,518692,519443,,ball,11,Freddie Freeman homers (6) on a fly ball to right field.    Guillermo Heredia scores.    Ronald Acuna scores.,0,1,2,2,5,-0.23,4.44
@@ -2359,10 +2359,10 @@
 2357,2021-04-25,518692,518516,strikeout,swinging_strike,1,Freddie Freeman strikes out swinging.,1,2,1,5,1,-0.34,3.48
 2358,2021-04-25,518692,518516,,foul,1,Freddie Freeman strikes out swinging.,1,2,1,4,1,-0.38,3.02
 2359,2021-04-25,518692,518516,,foul,8,Freddie Freeman strikes out swinging.,1,1,1,3,1,0.14,1.82
-2360,2021-04-25,518692,518516,,called_strike,13,Freddie Freeman strikes out swinging.,1,0,1,2,1,-0.97,1.78
-2361,2021-04-25,518692,668678,strikeout,swinging_strike,14,Freddie Freeman strikes out swinging.,1,2,0,5,1,1.1,2.39
-2362,2021-04-25,518692,518516,,ball,13,Freddie Freeman strikes out swinging.,0,0,1,1,1,-1.2,1.46
-2363,2021-04-25,518692,668678,,foul,13,Freddie Freeman strikes out swinging.,1,2,0,4,1,-1.26,1.71
+2360,2021-04-25,518692,668678,strikeout,swinging_strike,14,Freddie Freeman strikes out swinging.,1,2,0,5,1,1.1,2.39
+2361,2021-04-25,518692,518516,,called_strike,13,Freddie Freeman strikes out swinging.,1,0,1,2,1,-0.97,1.78
+2362,2021-04-25,518692,668678,,foul,13,Freddie Freeman strikes out swinging.,1,2,0,4,1,-1.26,1.71
+2363,2021-04-25,518692,518516,,ball,13,Freddie Freeman strikes out swinging.,0,0,1,1,1,-1.2,1.46
 2364,2021-04-25,518692,668678,,foul_tip,14,Freddie Freeman strikes out swinging.,1,1,0,3,1,1.33,2.49
 2365,2021-04-25,518692,668678,,swinging_strike,13,Freddie Freeman strikes out swinging.,1,0,0,2,1,-1.23,2.27
 2366,2021-04-25,518692,668678,,ball,13,Freddie Freeman strikes out swinging.,0,0,0,1,1,-1.52,2.17
@@ -2406,10 +2406,10 @@
 2404,2021-04-20,518692,592791,,foul,6,Freddie Freeman singles on a sharp ground ball to left fielder Mike Tauchman.,1,0,1,2,1,0.43,2.35
 2405,2021-04-20,518692,592791,,ball,14,Freddie Freeman singles on a sharp ground ball to left fielder Mike Tauchman.,0,0,1,1,1,0.08,-0.17
 2406,2021-04-20,518692,476595,field_out,hit_into_play,4,Freddie Freeman pops out to catcher Gary Sanchez in foul territory.,2,0,0,3,6,-0.57,2.61
-2407,2021-04-20,518692,476595,,ball,13,Freddie Freeman pops out to catcher Gary Sanchez in foul territory.,1,0,0,2,6,-1.57,1.51
-2408,2021-04-20,518692,458677,force_out,hit_into_play,1,"Freddie Freeman grounds into a force out, second baseman DJ LeMahieu to shortstop Gleyber Torres.   Guillermo Heredia out at 2nd.",1,0,2,2,7,-0.42,3.25
-2409,2021-04-20,518692,458677,,ball,13,"Freddie Freeman grounds into a force out, second baseman DJ LeMahieu to shortstop Gleyber Torres.   Guillermo Heredia out at 2nd.",0,0,2,1,7,-1.42,2.14
-2410,2021-04-20,518692,476595,,ball,13,Freddie Freeman pops out to catcher Gary Sanchez in foul territory.,0,0,0,1,6,-0.35,1.3
+2407,2021-04-20,518692,458677,force_out,hit_into_play,1,"Freddie Freeman grounds into a force out, second baseman DJ LeMahieu to shortstop Gleyber Torres.   Guillermo Heredia out at 2nd.",1,0,2,2,7,-0.42,3.25
+2408,2021-04-20,518692,476595,,ball,13,Freddie Freeman pops out to catcher Gary Sanchez in foul territory.,1,0,0,2,6,-1.57,1.51
+2409,2021-04-20,518692,476595,,ball,13,Freddie Freeman pops out to catcher Gary Sanchez in foul territory.,0,0,0,1,6,-0.35,1.3
+2410,2021-04-20,518692,458677,,ball,13,"Freddie Freeman grounds into a force out, second baseman DJ LeMahieu to shortstop Gleyber Torres.   Guillermo Heredia out at 2nd.",0,0,2,1,7,-1.42,2.14
 2411,2021-04-18,518692,543294,walk,ball,11,Freddie Freeman walks.   Ronald Acuna to 2nd.,3,0,0,4,4,-1.21,3.18
 2412,2021-04-18,518692,543294,,blocked_ball,14,Freddie Freeman walks.   Ronald Acuna to 2nd.,2,0,0,3,4,0.73,0.49
 2413,2021-04-18,518692,543294,,ball,13,Freddie Freeman walks.   Ronald Acuna to 2nd.,1,0,0,2,4,-1.0,2.65
@@ -2430,8 +2430,8 @@
 2428,2021-04-18,518692,518886,,foul,5,Freddie Freeman walks.,1,2,1,4,9,-0.09,2.4
 2429,2021-04-18,518692,518886,,swinging_strike,4,Freddie Freeman walks.,1,1,1,3,9,-0.37,2.73
 2430,2021-04-18,518692,543294,home_run,hit_into_play,3,Freddie Freeman homers (5) on a fly ball to right field.,3,1,1,5,1,0.56,3.02
-2431,2021-04-18,518692,543294,,ball,11,Freddie Freeman homers (5) on a fly ball to right field.,2,1,1,4,1,-1.27,2.9
-2432,2021-04-18,518692,518886,,ball,14,Freddie Freeman walks.,0,1,1,2,9,1.46,1.48
+2431,2021-04-18,518692,518886,,ball,14,Freddie Freeman walks.,0,1,1,2,9,1.46,1.48
+2432,2021-04-18,518692,543294,,ball,11,Freddie Freeman homers (5) on a fly ball to right field.,2,1,1,4,1,-1.27,2.9
 2433,2021-04-18,518692,518886,,foul,12,Freddie Freeman walks.,0,0,1,1,9,0.84,2.63
 2434,2021-04-18,518692,543294,,foul,6,Freddie Freeman homers (5) on a fly ball to right field.,2,0,1,3,1,0.74,2.89
 2435,2021-04-18,518692,543294,,ball,3,Freddie Freeman homers (5) on a fly ball to right field.,1,0,1,2,1,0.79,3.34
@@ -2503,11 +2503,11 @@
 2501,2021-04-14,518692,663734,single,hit_into_play,9,Freddie Freeman singles on a sharp fly ball to right fielder Adam Duvall.   Ronald Acuna scores.,0,0,2,1,5,0.37,1.64
 2502,2021-04-14,518692,663734,single,hit_into_play,9,"Freddie Freeman singles on a sharp line drive to right fielder Adam Duvall.  Freddie Freeman out at 2nd on the throw, right fielder Adam Duvall to shortstop Miguel Rojas.",0,1,2,2,3,0.81,1.86
 2503,2021-04-14,518692,663734,,called_strike,9,"Freddie Freeman singles on a sharp line drive to right fielder Adam Duvall.  Freddie Freeman out at 2nd on the throw, right fielder Adam Duvall to shortstop Miguel Rojas.",0,0,2,1,3,0.5,2.15
-2504,2021-04-14,518692,663734,field_out,hit_into_play,5,Freddie Freeman flies out to left fielder Corey Dickerson.,2,1,1,4,1,0.11,2.84
-2505,2021-04-14,518692,542947,field_out,hit_into_play,9,"Freddie Freeman grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,1,1,7,0.66,2.01
-2506,2021-04-14,518692,554340,field_out,hit_into_play,14,Freddie Freeman flies out to center fielder Starling Marte.   Ender Inciarte to 3rd.,0,2,1,5,10,1.46,1.5
-2507,2021-04-14,518692,663734,,foul,6,Freddie Freeman flies out to left fielder Corey Dickerson.,2,0,1,3,1,0.39,2.43
-2508,2021-04-14,518692,554340,,foul,14,Freddie Freeman flies out to center fielder Starling Marte.   Ender Inciarte to 3rd.,0,2,1,4,10,1.15,1.66
+2504,2021-04-14,518692,554340,field_out,hit_into_play,14,Freddie Freeman flies out to center fielder Starling Marte.   Ender Inciarte to 3rd.,0,2,1,5,10,1.46,1.5
+2505,2021-04-14,518692,663734,field_out,hit_into_play,5,Freddie Freeman flies out to left fielder Corey Dickerson.,2,1,1,4,1,0.11,2.84
+2506,2021-04-14,518692,542947,field_out,hit_into_play,9,"Freddie Freeman grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,1,1,7,0.66,2.01
+2507,2021-04-14,518692,554340,,foul,14,Freddie Freeman flies out to center fielder Starling Marte.   Ender Inciarte to 3rd.,0,2,1,4,10,1.15,1.66
+2508,2021-04-14,518692,663734,,foul,6,Freddie Freeman flies out to left fielder Corey Dickerson.,2,0,1,3,1,0.39,2.43
 2509,2021-04-14,518692,663734,,ball,12,Freddie Freeman flies out to left fielder Corey Dickerson.,1,0,1,2,1,1.21,3.37
 2510,2021-04-14,518692,554340,,foul,14,Freddie Freeman flies out to center fielder Starling Marte.   Ender Inciarte to 3rd.,0,2,1,3,10,1.21,2.26
 2511,2021-04-14,518692,554340,,swinging_strike,14,Freddie Freeman flies out to center fielder Starling Marte.   Ender Inciarte to 3rd.,0,1,1,2,10,1.5,2.25
@@ -2541,8 +2541,8 @@
 2539,2021-04-12,518692,645261,,ball,1,"Freddie Freeman grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Garrett Cooper.",0,0,1,1,3,-0.8,3.49
 2540,2021-04-12,518692,554340,field_out,hit_into_play,1,"Freddie Freeman grounds out, shortstop Miguel Rojas to first baseman Garrett Cooper.   Ozzie Albies to 3rd.",2,1,0,4,10,-0.52,3.04
 2541,2021-04-12,518692,645261,strikeout,swinging_strike,2,Freddie Freeman strikes out swinging.,2,2,1,5,1,-0.05,3.38
-2542,2021-04-12,518692,554340,,ball,12,"Freddie Freeman grounds out, shortstop Miguel Rojas to first baseman Garrett Cooper.   Ozzie Albies to 3rd.",1,1,0,3,10,0.18,4.22
-2543,2021-04-12,518692,645261,,ball,13,Freddie Freeman strikes out swinging.,1,2,1,4,1,-1.17,2.14
+2542,2021-04-12,518692,645261,,ball,13,Freddie Freeman strikes out swinging.,1,2,1,4,1,-1.17,2.14
+2543,2021-04-12,518692,554340,,ball,12,"Freddie Freeman grounds out, shortstop Miguel Rojas to first baseman Garrett Cooper.   Ozzie Albies to 3rd.",1,1,0,3,10,0.18,4.22
 2544,2021-04-12,518692,554340,,ball,11,"Freddie Freeman grounds out, shortstop Miguel Rojas to first baseman Garrett Cooper.   Ozzie Albies to 3rd.",0,1,0,2,10,-0.26,4.36
 2545,2021-04-12,518692,645261,,called_strike,9,Freddie Freeman strikes out swinging.,1,1,1,3,1,0.66,2.21
 2546,2021-04-12,518692,554340,,called_strike,3,"Freddie Freeman grounds out, shortstop Miguel Rojas to first baseman Garrett Cooper.   Ozzie Albies to 3rd.",0,0,0,1,10,0.6,3.1
@@ -2616,17 +2616,17 @@
 2614,2021-04-07,518692,544931,field_out,hit_into_play,7,"Freddie Freeman grounds out, shortstop Trea Turner to first baseman Hernan Perez.   Ozzie Albies to 2nd.",3,2,1,6,1,-0.53,2.04
 2615,2021-04-07,518692,544931,,ball,11,"Freddie Freeman grounds out, shortstop Trea Turner to first baseman Hernan Perez.   Ozzie Albies to 2nd.",2,2,1,5,1,-1.06,4.41
 2616,2021-04-07,518692,544931,,swinging_strike,13,"Freddie Freeman grounds out, shortstop Trea Turner to first baseman Hernan Perez.   Ozzie Albies to 2nd.",2,1,1,4,1,-1.37,2.19
-2617,2021-04-07,518692,621348,strikeout,called_strike,12,Freddie Freeman called out on strikes.,3,2,1,6,4,0.88,2.7
-2618,2021-04-07,518692,544931,,ball,12,"Freddie Freeman grounds out, shortstop Trea Turner to first baseman Hernan Perez.   Ozzie Albies to 2nd.",1,1,1,3,1,0.54,3.86
+2617,2021-04-07,518692,544931,,ball,12,"Freddie Freeman grounds out, shortstop Trea Turner to first baseman Hernan Perez.   Ozzie Albies to 2nd.",1,1,1,3,1,0.54,3.86
+2618,2021-04-07,518692,621348,strikeout,called_strike,12,Freddie Freeman called out on strikes.,3,2,1,6,4,0.88,2.7
 2619,2021-04-07,518692,621348,,called_strike,7,Freddie Freeman called out on strikes.,3,1,1,5,4,-0.49,1.92
 2620,2021-04-07,518692,544931,,foul,3,"Freddie Freeman grounds out, shortstop Trea Turner to first baseman Hernan Perez.   Ozzie Albies to 2nd.",1,0,1,2,1,0.3,3.14
 2621,2021-04-07,518692,621348,,called_strike,9,Freddie Freeman called out on strikes.,3,0,1,4,4,0.57,1.6
 2622,2021-04-07,518692,544931,,ball,14,"Freddie Freeman grounds out, shortstop Trea Turner to first baseman Hernan Perez.   Ozzie Albies to 2nd.",0,0,1,1,1,1.92,1.0
 2623,2021-04-07,518692,621348,,ball,13,Freddie Freeman called out on strikes.,2,0,1,3,4,-1.15,1.61
-2624,2021-04-07,518692,621348,,ball,14,Freddie Freeman called out on strikes.,1,0,1,2,4,0.57,1.11
-2625,2021-04-07,518692,593833,single,hit_into_play,5,Freddie Freeman singles on a ground ball to right fielder Juan Soto.   Ozzie Albies to 3rd.,0,1,0,2,7,-0.02,2.37
-2626,2021-04-07,518692,593833,,swinging_strike,4,Freddie Freeman singles on a ground ball to right fielder Juan Soto.   Ozzie Albies to 3rd.,0,0,0,1,7,-0.29,2.96
-2627,2021-04-07,518692,621348,,ball,13,Freddie Freeman called out on strikes.,0,0,1,1,4,-1.14,1.03
+2624,2021-04-07,518692,593833,single,hit_into_play,5,Freddie Freeman singles on a ground ball to right fielder Juan Soto.   Ozzie Albies to 3rd.,0,1,0,2,7,-0.02,2.37
+2625,2021-04-07,518692,621348,,ball,14,Freddie Freeman called out on strikes.,1,0,1,2,4,0.57,1.11
+2626,2021-04-07,518692,621348,,ball,13,Freddie Freeman called out on strikes.,0,0,1,1,4,-1.14,1.03
+2627,2021-04-07,518692,593833,,swinging_strike,4,Freddie Freeman singles on a ground ball to right fielder Juan Soto.   Ozzie Albies to 3rd.,0,0,0,1,7,-0.29,2.96
 2628,2021-04-06,518692,453286,field_out,hit_into_play,1,"Freddie Freeman grounds out, third baseman Starlin Castro to first baseman Ryan Zimmerman.",2,2,0,5,6,-0.44,3.13
 2629,2021-04-06,518692,453286,,ball,14,"Freddie Freeman grounds out, third baseman Starlin Castro to first baseman Ryan Zimmerman.",1,2,0,4,6,2.19,-0.19
 2630,2021-04-06,518692,453286,,foul,12,"Freddie Freeman grounds out, third baseman Starlin Castro to first baseman Ryan Zimmerman.",1,1,0,3,6,0.9,3.18
@@ -2681,9 +2681,9 @@
 2679,2021-04-01,518692,605400,,called_strike,3,"Freddie Freeman grounds out, first baseman Rhys Hoskins to pitcher Aaron Nola.",0,1,2,2,1,0.49,3.46
 2680,2021-04-01,518692,605400,,foul,9,"Freddie Freeman grounds out, first baseman Rhys Hoskins to pitcher Aaron Nola.",0,0,2,1,1,0.69,2.15
 2681,2021-04-01,518692,621237,walk,blocked_ball,13,Freddie Freeman walks.,3,0,0,4,8,-1.2,0.64
-2682,2021-04-01,518692,641401,field_out,hit_into_play,7,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Rhys Hoskins.   Ozzie Albies to 3rd.",1,1,0,3,10,-0.29,2.09
-2683,2021-04-01,518692,621237,,ball,13,Freddie Freeman walks.,2,0,0,3,8,-0.05,0.88
-2684,2021-04-01,518692,621237,,ball,13,Freddie Freeman walks.,1,0,0,2,8,-0.99,1.65
-2685,2021-04-01,518692,641401,,foul,7,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Rhys Hoskins.   Ozzie Albies to 3rd.",1,0,0,2,10,-0.53,1.79
+2682,2021-04-01,518692,621237,,ball,13,Freddie Freeman walks.,2,0,0,3,8,-0.05,0.88
+2683,2021-04-01,518692,641401,field_out,hit_into_play,7,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Rhys Hoskins.   Ozzie Albies to 3rd.",1,1,0,3,10,-0.29,2.09
+2684,2021-04-01,518692,641401,,foul,7,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Rhys Hoskins.   Ozzie Albies to 3rd.",1,0,0,2,10,-0.53,1.79
+2685,2021-04-01,518692,621237,,ball,13,Freddie Freeman walks.,1,0,0,2,8,-0.99,1.65
 2686,2021-04-01,518692,621237,,ball,14,Freddie Freeman walks.,0,0,0,1,8,0.63,0.66
 2687,2021-04-01,518692,641401,,ball,12,"Freddie Freeman grounds out sharply, second baseman Jean Segura to first baseman Rhys Hoskins.   Ozzie Albies to 3rd.",0,0,0,1,10,1.56,3.04

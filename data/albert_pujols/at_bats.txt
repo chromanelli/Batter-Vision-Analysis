@@ -9,5 +9,6 @@ VISION REPORT: albert_pujols (2021-04-01 thru 2021-10-04)
      albert_pujols saw 541 strikes and 582 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3232
+VISION SCORE METRIC B (VSA - SO%): 0.1712
 Average PA Length: 3.7838 (1120/296)
 Batting Avg: 0.236

@@ -50,8 +50,8 @@
 48,2021-09-29,643393,669302,,ball,14,Tony Kemp flies out to center fielder Jarred Kelenic.,2,1,0,4,1,1.41,2.23
 49,2021-09-29,643393,623149,field_out,hit_into_play,13,"Tony Kemp grounds out, pitcher Paul Sewald to first baseman Ty France.",1,1,0,3,8,-1.21,1.83
 50,2021-09-29,643393,669302,,ball,9,Tony Kemp flies out to center fielder Jarred Kelenic.,1,1,0,3,1,0.34,1.42
-51,2021-09-29,643393,669302,,called_strike,14,Tony Kemp flies out to center fielder Jarred Kelenic.,1,0,0,2,1,0.93,2.18
-52,2021-09-29,643393,623149,,called_strike,1,"Tony Kemp grounds out, pitcher Paul Sewald to first baseman Ty France.",1,0,0,2,8,-0.52,2.74
+51,2021-09-29,643393,623149,,called_strike,1,"Tony Kemp grounds out, pitcher Paul Sewald to first baseman Ty France.",1,0,0,2,8,-0.52,2.74
+52,2021-09-29,643393,669302,,called_strike,14,Tony Kemp flies out to center fielder Jarred Kelenic.,1,0,0,2,1,0.93,2.18
 53,2021-09-29,643393,623149,,ball,11,"Tony Kemp grounds out, pitcher Paul Sewald to first baseman Ty France.",0,0,0,1,8,-2.28,2.73
 54,2021-09-29,643393,669302,,ball,13,Tony Kemp flies out to center fielder Jarred Kelenic.,0,0,0,1,1,-1.63,1.7
 55,2021-09-28,643393,542881,field_out,hit_into_play,7,Tony Kemp flies out to left fielder Jake Fraley.,0,2,1,3,3,-0.53,1.72
@@ -71,14 +71,14 @@
 69,2021-09-27,643393,623167,field_out,hit_into_play,13,"Tony Kemp grounds out, pitcher Chris Flexen to first baseman Ty France.",0,1,2,2,2,-0.96,1.98
 70,2021-09-27,643393,623167,,called_strike,11,"Tony Kemp grounds out, pitcher Chris Flexen to first baseman Ty France.",0,0,2,1,2,-0.73,3.14
 71,2021-09-27,643393,448281,field_out,hit_into_play,11,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,2,2,1,6,7,-0.09,3.65
-72,2021-09-27,643393,623167,strikeout,foul_tip,11,Tony Kemp strikes out on a foul tip.,2,2,0,7,1,-0.47,3.25
-73,2021-09-27,643393,448281,,ball,13,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,1,2,1,5,7,-1.47,1.6
-74,2021-09-27,643393,623167,,foul,5,Tony Kemp strikes out on a foul tip.,2,2,0,6,1,0.11,2.15
-75,2021-09-27,643393,448281,,foul,1,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,1,2,1,4,7,-0.76,2.71
+72,2021-09-27,643393,448281,,ball,13,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,1,2,1,5,7,-1.47,1.6
+73,2021-09-27,643393,623167,strikeout,foul_tip,11,Tony Kemp strikes out on a foul tip.,2,2,0,7,1,-0.47,3.25
+74,2021-09-27,643393,448281,,foul,1,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,1,2,1,4,7,-0.76,2.71
+75,2021-09-27,643393,623167,,foul,5,Tony Kemp strikes out on a foul tip.,2,2,0,6,1,0.11,2.15
 76,2021-09-27,643393,623167,,foul,12,Tony Kemp strikes out on a foul tip.,2,2,0,5,1,0.35,3.58
 77,2021-09-27,643393,448281,,ball,13,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,0,2,1,3,7,-1.25,1.7
-78,2021-09-27,643393,448281,,swinging_strike,5,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,0,1,1,2,7,-0.17,2.04
-79,2021-09-27,643393,623167,,ball,11,Tony Kemp strikes out on a foul tip.,1,2,0,4,1,-0.52,4.26
+78,2021-09-27,643393,623167,,ball,11,Tony Kemp strikes out on a foul tip.,1,2,0,4,1,-0.52,4.26
+79,2021-09-27,643393,448281,,swinging_strike,5,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,0,1,1,2,7,-0.17,2.04
 80,2021-09-27,643393,623167,,ball,11,Tony Kemp strikes out on a foul tip.,0,2,0,3,1,-0.18,4.65
 81,2021-09-27,643393,448281,,called_strike,7,Tony Kemp pops out to third baseman Kyle Seager in foul territory.,0,0,1,1,7,-0.41,1.65
 82,2021-09-27,643393,623167,,called_strike,2,Tony Kemp strikes out on a foul tip.,0,1,0,2,1,0.11,2.78
@@ -111,8 +111,8 @@
 109,2021-09-24,643393,661527,single,hit_into_play,7,Tony Kemp singles on a ground ball to left fielder Chas McCormick.,1,1,0,3,8,-0.59,1.84
 110,2021-09-24,643393,554340,single,hit_into_play,3,Tony Kemp singles on a line drive to center fielder Jake Meyers.,0,1,0,2,7,0.38,2.98
 111,2021-09-24,643393,661527,,foul,12,Tony Kemp singles on a ground ball to left fielder Chas McCormick.,1,0,0,2,8,0.11,3.49
-112,2021-09-24,643393,554340,,swinging_strike,9,Tony Kemp singles on a line drive to center fielder Jake Meyers.,0,0,0,1,7,0.46,1.81
-113,2021-09-24,643393,661527,,ball,14,Tony Kemp singles on a ground ball to left fielder Chas McCormick.,0,0,0,1,8,0.99,2.0
+112,2021-09-24,643393,661527,,ball,14,Tony Kemp singles on a ground ball to left fielder Chas McCormick.,0,0,0,1,8,0.99,2.0
+113,2021-09-24,643393,554340,,swinging_strike,9,Tony Kemp singles on a line drive to center fielder Jake Meyers.,0,0,0,1,7,0.46,1.81
 114,2021-09-23,643393,650895,walk,ball,14,Tony Kemp walks.,3,2,1,6,8,1.16,0.99
 115,2021-09-23,643393,650895,,called_strike,9,Tony Kemp walks.,3,1,1,5,8,0.65,1.88
 116,2021-09-23,643393,650895,,called_strike,8,Tony Kemp walks.,3,0,1,4,8,-0.05,1.49
@@ -162,8 +162,8 @@
 160,2021-09-17,643393,681806,,called_strike,2,"Tony Kemp grounds out, first baseman Jared Walsh to pitcher Andrew Wantz.",3,0,2,4,7,-0.12,2.72
 161,2021-09-17,643393,681806,,ball,11,"Tony Kemp grounds out, first baseman Jared Walsh to pitcher Andrew Wantz.",2,0,2,3,7,-0.61,3.14
 162,2021-09-17,643393,681806,,ball,11,"Tony Kemp grounds out, first baseman Jared Walsh to pitcher Andrew Wantz.",1,0,2,2,7,-1.91,3.45
-163,2021-09-17,643393,650671,walk,ball,13,Tony Kemp walks.   Matt Chapman to 3rd.    Khris Davis to 2nd.,3,2,1,6,5,-1.3,1.25
-164,2021-09-17,643393,681806,,ball,11,"Tony Kemp grounds out, first baseman Jared Walsh to pitcher Andrew Wantz.",0,0,2,1,7,-1.3,3.43
+163,2021-09-17,643393,681806,,ball,11,"Tony Kemp grounds out, first baseman Jared Walsh to pitcher Andrew Wantz.",0,0,2,1,7,-1.3,3.43
+164,2021-09-17,643393,650671,walk,ball,13,Tony Kemp walks.   Matt Chapman to 3rd.    Khris Davis to 2nd.,3,2,1,6,5,-1.3,1.25
 165,2021-09-17,643393,650671,,called_strike,13,Tony Kemp walks.   Matt Chapman to 3rd.    Khris Davis to 2nd.,3,1,1,5,5,-0.99,1.41
 166,2021-09-17,643393,650671,,ball,13,Tony Kemp walks.   Matt Chapman to 3rd.    Khris Davis to 2nd.,2,1,1,4,5,-0.74,1.2
 167,2021-09-17,643393,650671,,swinging_strike,3,Tony Kemp walks.   Matt Chapman to 3rd.    Khris Davis to 2nd.,2,0,1,3,5,0.52,3.17
@@ -174,8 +174,8 @@
 172,2021-09-16,643393,663738,,called_strike,2,Tony Kemp hit by pitch.    Elvis Andrus to 2nd.,1,0,0,2,3,-0.03,2.72
 173,2021-09-16,643393,663738,,ball,12,Tony Kemp hit by pitch.    Elvis Andrus to 2nd.,0,0,0,1,3,0.64,3.57
 174,2021-09-16,643393,606303,field_out,hit_into_play,11,"Tony Kemp bunt grounds out softly, second baseman Whit Merrifield to first baseman Ryan O'Hearn.",0,0,1,1,4,-0.91,3.04
-175,2021-09-16,643393,593619,field_out,hit_into_play,13,Tony Kemp flies out to center fielder Kyle Isbel.,0,0,2,1,6,-0.9,1.91
-176,2021-09-16,643393,641394,walk,ball,13,Tony Kemp walks.,3,0,0,4,9,-1.56,1.2
+175,2021-09-16,643393,641394,walk,ball,13,Tony Kemp walks.,3,0,0,4,9,-1.56,1.2
+176,2021-09-16,643393,593619,field_out,hit_into_play,13,Tony Kemp flies out to center fielder Kyle Isbel.,0,0,2,1,6,-0.9,1.91
 177,2021-09-16,643393,641394,,ball,13,Tony Kemp walks.,2,0,0,3,9,-1.05,0.82
 178,2021-09-16,643393,641394,,ball,13,Tony Kemp walks.,1,0,0,2,9,-0.01,0.21
 179,2021-09-16,643393,641394,,ball,13,Tony Kemp walks.,0,0,0,1,9,-3.81,0.01
@@ -186,8 +186,8 @@
 184,2021-09-15,643393,672578,,ball,13,"Tony Kemp grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Mark Canha to 3rd.    Seth Brown out at 2nd.    Tony Kemp to 1st.",0,0,1,1,2,-1.14,1.3
 185,2021-09-15,643393,622092,single,hit_into_play,9,Tony Kemp singles on a line drive to right fielder Hunter Dozier.,2,2,1,8,7,0.63,1.53
 186,2021-09-15,643393,622092,,ball,11,Tony Kemp singles on a line drive to right fielder Hunter Dozier.,1,2,1,7,7,-1.06,3.03
-187,2021-09-15,643393,656240,field_out,hit_into_play,8,"Tony Kemp grounds out, second baseman Hanser Alberto to first baseman Ryan O'Hearn.",0,0,2,1,8,-0.03,1.67
-188,2021-09-15,643393,622092,,foul,11,Tony Kemp singles on a line drive to right fielder Hunter Dozier.,1,2,1,6,7,-0.34,3.33
+187,2021-09-15,643393,622092,,foul,11,Tony Kemp singles on a line drive to right fielder Hunter Dozier.,1,2,1,6,7,-0.34,3.33
+188,2021-09-15,643393,656240,field_out,hit_into_play,8,"Tony Kemp grounds out, second baseman Hanser Alberto to first baseman Ryan O'Hearn.",0,0,2,1,8,-0.03,1.67
 189,2021-09-15,643393,622092,,foul,13,Tony Kemp singles on a line drive to right fielder Hunter Dozier.,1,2,1,5,7,-0.2,0.79
 190,2021-09-15,643393,622092,,foul,14,Tony Kemp singles on a line drive to right fielder Hunter Dozier.,1,2,1,4,7,0.37,1.32
 191,2021-09-15,643393,622092,,ball,13,Tony Kemp singles on a line drive to right fielder Hunter Dozier.,0,2,1,3,7,-0.3,0.58
@@ -199,10 +199,10 @@
 197,2021-09-14,643393,663804,,foul,11,Tony Kemp walks.,3,1,0,5,2,-1.12,2.55
 198,2021-09-14,643393,429722,single,hit_into_play,5,Tony Kemp singles on a line drive to center fielder Kyle Isbel.   Sean Murphy to 2nd.,3,1,1,5,3,-0.05,1.96
 199,2021-09-14,643393,663804,,called_strike,5,Tony Kemp walks.,3,0,0,4,2,-0.05,1.92
-200,2021-09-14,643393,663804,,blocked_ball,14,Tony Kemp walks.,2,0,0,3,2,1.34,0.44
-201,2021-09-14,643393,429722,,called_strike,4,Tony Kemp singles on a line drive to center fielder Kyle Isbel.   Sean Murphy to 2nd.,3,0,1,4,3,-0.3,2.17
-202,2021-09-14,643393,429722,,ball,11,Tony Kemp singles on a line drive to center fielder Kyle Isbel.   Sean Murphy to 2nd.,2,0,1,3,3,-1.38,4.01
-203,2021-09-14,643393,663804,,ball,14,Tony Kemp walks.,1,0,0,2,2,0.4,1.11
+200,2021-09-14,643393,429722,,called_strike,4,Tony Kemp singles on a line drive to center fielder Kyle Isbel.   Sean Murphy to 2nd.,3,0,1,4,3,-0.3,2.17
+201,2021-09-14,643393,663804,,blocked_ball,14,Tony Kemp walks.,2,0,0,3,2,1.34,0.44
+202,2021-09-14,643393,663804,,ball,14,Tony Kemp walks.,1,0,0,2,2,0.4,1.11
+203,2021-09-14,643393,429722,,ball,11,Tony Kemp singles on a line drive to center fielder Kyle Isbel.   Sean Murphy to 2nd.,2,0,1,3,3,-1.38,4.01
 204,2021-09-14,643393,429722,,ball,11,Tony Kemp singles on a line drive to center fielder Kyle Isbel.   Sean Murphy to 2nd.,1,0,1,2,3,-0.65,4.11
 205,2021-09-14,643393,663804,,ball,14,Tony Kemp walks.,0,0,0,1,2,1.2,-0.21
 206,2021-09-14,643393,429722,,blocked_ball,14,Tony Kemp singles on a line drive to center fielder Kyle Isbel.   Sean Murphy to 2nd.,0,0,1,1,3,1.06,0.59
@@ -288,12 +288,12 @@
 286,2021-09-03,643393,605447,,called_strike,5,"Tony Kemp grounds out, first baseman Vladimir Guerrero to pitcher Jordan Romano.",3,1,2,5,9,-0.05,2.05
 287,2021-09-03,643393,605447,,ball,11,"Tony Kemp grounds out, first baseman Vladimir Guerrero to pitcher Jordan Romano.",2,1,2,4,9,-1.36,3.0
 288,2021-09-03,643393,663878,,ball,11,Tony Kemp singles on a ground ball to right fielder Teoscar Hernandez.   Jed Lowrie scores.    Matt Chapman to 2nd.,2,1,1,4,7,-1.64,2.92
-289,2021-09-03,643393,605447,,called_strike,5,"Tony Kemp grounds out, first baseman Vladimir Guerrero to pitcher Jordan Romano.",2,0,2,3,9,0.09,2.31
-290,2021-09-03,643393,663878,,ball,11,Tony Kemp singles on a ground ball to right fielder Teoscar Hernandez.   Jed Lowrie scores.    Matt Chapman to 2nd.,1,1,1,3,7,-0.95,3.33
+289,2021-09-03,643393,663878,,ball,11,Tony Kemp singles on a ground ball to right fielder Teoscar Hernandez.   Jed Lowrie scores.    Matt Chapman to 2nd.,1,1,1,3,7,-0.95,3.33
+290,2021-09-03,643393,605447,,called_strike,5,"Tony Kemp grounds out, first baseman Vladimir Guerrero to pitcher Jordan Romano.",2,0,2,3,9,0.09,2.31
 291,2021-09-03,643393,663878,,foul,11,Tony Kemp singles on a ground ball to right fielder Teoscar Hernandez.   Jed Lowrie scores.    Matt Chapman to 2nd.,1,0,1,2,7,-0.92,2.52
 292,2021-09-03,643393,605447,,ball,11,"Tony Kemp grounds out, first baseman Vladimir Guerrero to pitcher Jordan Romano.",1,0,2,2,9,-2.27,4.57
-293,2021-09-03,643393,605447,,ball,11,"Tony Kemp grounds out, first baseman Vladimir Guerrero to pitcher Jordan Romano.",0,0,2,1,9,-1.3,2.86
-294,2021-09-03,643393,663878,,ball,13,Tony Kemp singles on a ground ball to right fielder Teoscar Hernandez.   Jed Lowrie scores.    Matt Chapman to 2nd.,0,0,1,1,7,-0.39,1.19
+293,2021-09-03,643393,663878,,ball,13,Tony Kemp singles on a ground ball to right fielder Teoscar Hernandez.   Jed Lowrie scores.    Matt Chapman to 2nd.,0,0,1,1,7,-0.39,1.19
+294,2021-09-03,643393,605447,,ball,11,"Tony Kemp grounds out, first baseman Vladimir Guerrero to pitcher Jordan Romano.",0,0,2,1,9,-1.3,2.86
 295,2021-09-02,643393,666159,single,hit_into_play,8,Tony Kemp singles on a ground ball to center fielder Akil Baddoo.   Mark Canha to 2nd.,0,0,2,1,3,-0.14,1.64
 296,2021-09-02,643393,656638,field_out,hit_into_play,5,Tony Kemp flies out to center fielder Akil Baddoo.,2,2,1,6,9,0.11,1.99
 297,2021-09-02,643393,656638,,ball,13,Tony Kemp flies out to center fielder Akil Baddoo.,1,2,1,5,9,-0.95,1.22
@@ -433,13 +433,13 @@
 431,2021-08-13,643393,669618,,ball,13,Tony Kemp walks.,1,2,1,5,9,-1.05,2.09
 432,2021-08-13,643393,669618,,foul,11,Tony Kemp walks.,1,2,1,4,9,-0.34,3.31
 433,2021-08-13,643393,622250,strikeout,called_strike,3,Tony Kemp called out on strikes.,3,2,0,6,7,0.35,3.05
-434,2021-08-13,643393,669618,,foul,8,Tony Kemp walks.,1,1,1,3,9,-0.24,1.88
-435,2021-08-13,643393,622250,,called_strike,6,Tony Kemp called out on strikes.,3,1,0,5,7,0.66,2.29
-436,2021-08-13,643393,622250,,ball,11,Tony Kemp called out on strikes.,2,1,0,4,7,-0.71,5.05
-437,2021-08-13,643393,669618,,called_strike,14,Tony Kemp walks.,1,0,1,2,9,0.85,1.97
-438,2021-08-13,643393,641540,field_out,hit_into_play,5,Tony Kemp lines out to center fielder DJ Peters.,1,1,0,3,1,-0.06,2.31
-439,2021-08-13,643393,622250,,ball,11,Tony Kemp called out on strikes.,1,1,0,3,7,-0.78,3.97
-440,2021-08-13,643393,669618,,ball,9,Tony Kemp walks.,0,0,1,1,9,0.69,1.7
+434,2021-08-13,643393,622250,,called_strike,6,Tony Kemp called out on strikes.,3,1,0,5,7,0.66,2.29
+435,2021-08-13,643393,669618,,foul,8,Tony Kemp walks.,1,1,1,3,9,-0.24,1.88
+436,2021-08-13,643393,669618,,called_strike,14,Tony Kemp walks.,1,0,1,2,9,0.85,1.97
+437,2021-08-13,643393,622250,,ball,11,Tony Kemp called out on strikes.,2,1,0,4,7,-0.71,5.05
+438,2021-08-13,643393,669618,,ball,9,Tony Kemp walks.,0,0,1,1,9,0.69,1.7
+439,2021-08-13,643393,641540,field_out,hit_into_play,5,Tony Kemp lines out to center fielder DJ Peters.,1,1,0,3,1,-0.06,2.31
+440,2021-08-13,643393,622250,,ball,11,Tony Kemp called out on strikes.,1,1,0,3,7,-0.78,3.97
 441,2021-08-13,643393,622250,,foul,2,Tony Kemp called out on strikes.,1,0,0,2,7,-0.19,3.19
 442,2021-08-13,643393,641540,,ball,11,Tony Kemp lines out to center fielder DJ Peters.,0,1,0,2,1,-1.4,2.6
 443,2021-08-13,643393,641540,,called_strike,7,Tony Kemp lines out to center fielder DJ Peters.,0,0,0,1,1,-0.31,1.66
@@ -468,12 +468,12 @@
 466,2021-08-10,643393,621295,,foul,5,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",3,2,2,6,10,0.1,2.31
 467,2021-08-10,643393,621295,,swinging_strike,1,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",3,1,2,5,10,-0.73,3.06
 468,2021-08-10,643393,675916,field_out,hit_into_play,1,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",1,2,2,4,8,-0.6,3.08
-469,2021-08-10,643393,675916,,foul,4,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",1,1,2,3,8,-0.33,2.51
-470,2021-08-10,643393,621295,,called_strike,7,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",3,0,2,4,10,-0.42,1.92
+469,2021-08-10,643393,621295,,called_strike,7,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",3,0,2,4,10,-0.42,1.92
+470,2021-08-10,643393,675916,,foul,4,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",1,1,2,3,8,-0.33,2.51
 471,2021-08-10,643393,621295,,ball,14,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",2,0,2,3,10,0.88,0.98
 472,2021-08-10,643393,675916,,foul,9,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",1,0,2,2,8,0.3,1.96
-473,2021-08-10,643393,621295,,ball,11,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",1,0,2,2,10,-1.26,4.74
-474,2021-08-10,643393,675916,,ball,11,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",0,0,2,1,8,-0.97,2.9
+473,2021-08-10,643393,675916,,ball,11,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",0,0,2,1,8,-0.97,2.9
+474,2021-08-10,643393,621295,,ball,11,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",1,0,2,2,10,-1.26,4.74
 475,2021-08-10,643393,621295,,ball,11,"Tony Kemp grounds out, shortstop Amed Rosario to first baseman Owen Miller.",0,0,2,1,10,-1.15,3.04
 476,2021-08-07,643393,623454,field_out,hit_into_play,13,"Tony Kemp grounds out, shortstop Isiah Kiner-Falefa to first baseman Curtis Terry.",1,2,2,6,2,-1.22,1.78
 477,2021-08-07,643393,623454,,foul,14,"Tony Kemp grounds out, shortstop Isiah Kiner-Falefa to first baseman Curtis Terry.",1,2,2,5,2,1.2,1.38
@@ -494,8 +494,8 @@
 492,2021-08-07,643393,571788,,ball,11,Tony Kemp flies out to right fielder DJ Peters.,2,0,2,3,8,-0.95,5.95
 493,2021-08-07,643393,623474,field_out,hit_into_play,14,"Tony Kemp grounds out, first baseman Curtis Terry to pitcher Jimmy Herget.   Matt Chapman to 3rd.",0,1,1,2,3,0.38,1.31
 494,2021-08-07,643393,571788,,ball,11,Tony Kemp flies out to right fielder DJ Peters.,1,0,2,2,8,-1.74,6.01
-495,2021-08-07,643393,571788,,ball,13,Tony Kemp flies out to right fielder DJ Peters.,0,0,2,1,8,-0.34,-0.7
-496,2021-08-07,643393,623474,,called_strike,1,"Tony Kemp grounds out, first baseman Curtis Terry to pitcher Jimmy Herget.   Matt Chapman to 3rd.",0,0,1,1,3,-0.47,2.98
+495,2021-08-07,643393,623474,,called_strike,1,"Tony Kemp grounds out, first baseman Curtis Terry to pitcher Jimmy Herget.   Matt Chapman to 3rd.",0,0,1,1,3,-0.47,2.98
+496,2021-08-07,643393,571788,,ball,13,Tony Kemp flies out to right fielder DJ Peters.,0,0,2,1,8,-0.34,-0.7
 497,2021-08-06,643393,607359,double_play,hit_into_play,7,"Athletics challenged (tag play), call on the field was upheld: Tony Kemp flies into a double play, center fielder DJ Peters to third baseman Yonny Hernandez.   Josh Harrison out at 3rd.",1,1,1,3,10,-0.34,1.8
 498,2021-08-06,643393,607359,,ball,11,"Athletics challenged (tag play), call on the field was upheld: Tony Kemp flies into a double play, center fielder DJ Peters to third baseman Yonny Hernandez.   Josh Harrison out at 3rd.",0,1,1,2,10,-1.38,2.32
 499,2021-08-06,643393,607359,,called_strike,13,"Athletics challenged (tag play), call on the field was upheld: Tony Kemp flies into a double play, center fielder DJ Peters to third baseman Yonny Hernandez.   Josh Harrison out at 3rd.",0,0,1,1,10,-0.89,2.04
@@ -629,8 +629,8 @@
 627,2021-07-09,643393,656685,,ball,13,Tony Kemp walks.,1,2,2,4,7,-1.52,1.68
 628,2021-07-09,643393,656685,,called_strike,7,Tony Kemp walks.,1,1,2,3,7,-0.77,1.75
 629,2021-07-09,643393,656685,,ball,13,Tony Kemp walks.,0,1,2,2,7,-1.15,-0.34
-630,2021-07-09,643393,453178,field_out,hit_into_play,1,Tony Kemp flies out to center fielder Adolis Garcia.,0,1,2,2,9,-0.73,2.66
-631,2021-07-09,643393,656685,,called_strike,12,Tony Kemp walks.,0,0,2,1,7,0.17,3.06
+630,2021-07-09,643393,656685,,called_strike,12,Tony Kemp walks.,0,0,2,1,7,0.17,3.06
+631,2021-07-09,643393,453178,field_out,hit_into_play,1,Tony Kemp flies out to center fielder Adolis Garcia.,0,1,2,2,9,-0.73,2.66
 632,2021-07-09,643393,453178,,called_strike,5,Tony Kemp flies out to center fielder Adolis Garcia.,0,0,2,1,9,-0.23,2.45
 633,2021-07-08,643393,621121,strikeout,called_strike,4,Tony Kemp called out on strikes.,3,2,1,6,6,-0.29,2.15
 634,2021-07-08,643393,621121,,ball,14,Tony Kemp called out on strikes.,2,2,1,5,6,0.61,0.56
@@ -710,18 +710,18 @@
 708,2021-07-03,643393,650382,,called_strike,4,Tony Kemp walks.,2,0,2,3,8,-0.59,2.39
 709,2021-07-03,643393,650382,,ball,13,Tony Kemp walks.,1,0,2,2,8,-1.46,1.84
 710,2021-07-03,643393,572070,,foul,1,Tony Kemp walks.,3,2,0,7,1,-0.33,3.11
-711,2021-07-03,643393,650382,,ball,11,Tony Kemp walks.,0,0,2,1,8,-1.67,2.34
-712,2021-07-03,643393,572070,,ball,12,Tony Kemp walks.,2,2,0,6,1,0.48,3.31
+711,2021-07-03,643393,572070,,ball,12,Tony Kemp walks.,2,2,0,6,1,0.48,3.31
+712,2021-07-03,643393,650382,,ball,11,Tony Kemp walks.,0,0,2,1,8,-1.67,2.34
 713,2021-07-03,643393,572070,,ball,11,Tony Kemp walks.,1,2,0,5,1,-2.0,4.51
 714,2021-07-03,643393,657031,field_out,hit_into_play,2,"Tony Kemp grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",1,2,0,4,7,0.04,3.07
 715,2021-07-03,643393,572070,,foul,1,Tony Kemp walks.,1,2,0,4,1,-0.62,2.85
-716,2021-07-03,643393,657031,,called_strike,7,"Tony Kemp grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",1,1,0,3,7,-0.45,1.61
-717,2021-07-03,643393,572070,,swinging_strike,2,Tony Kemp walks.,1,1,0,3,1,-0.05,2.6
-718,2021-07-03,643393,572070,,foul,2,Tony Kemp walks.,1,0,0,2,1,-0.09,2.99
+716,2021-07-03,643393,572070,,swinging_strike,2,Tony Kemp walks.,1,1,0,3,1,-0.05,2.6
+717,2021-07-03,643393,657031,,called_strike,7,"Tony Kemp grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",1,1,0,3,7,-0.45,1.61
+718,2021-07-03,643393,657031,,ball,9,"Tony Kemp grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,1,0,2,7,0.63,1.35
 719,2021-07-03,643393,519443,field_out,hit_into_play,11,Tony Kemp bunt pops out softly to pitcher Brandon Workman.,0,0,0,1,10,-1.09,3.02
-720,2021-07-03,643393,657031,,ball,9,"Tony Kemp grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,1,0,2,7,0.63,1.35
-721,2021-07-03,643393,572070,,ball,11,Tony Kemp walks.,0,0,0,1,1,-0.66,3.98
-722,2021-07-03,643393,657031,,called_strike,2,"Tony Kemp grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,0,0,1,7,-0.04,2.56
+720,2021-07-03,643393,572070,,foul,2,Tony Kemp walks.,1,0,0,2,1,-0.09,2.99
+721,2021-07-03,643393,657031,,called_strike,2,"Tony Kemp grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,0,0,1,7,-0.04,2.56
+722,2021-07-03,643393,572070,,ball,11,Tony Kemp walks.,0,0,0,1,1,-0.66,3.98
 723,2021-07-02,643393,593958,field_out,hit_into_play,1,"Tony Kemp grounds out, second baseman Michael Chavis to first baseman Danny Santana.",2,1,2,4,5,-0.29,2.83
 724,2021-07-02,643393,593958,,ball,12,"Tony Kemp grounds out, second baseman Michael Chavis to first baseman Danny Santana.",1,1,2,3,5,1.59,2.76
 725,2021-07-02,643393,593958,,ball,7,"Tony Kemp grounds out, second baseman Michael Chavis to first baseman Danny Santana.",0,1,2,2,5,-0.53,1.39
@@ -736,27 +736,27 @@
 734,2021-07-01,643393,667463,hit_by_pitch,hit_by_pitch,14,Tony Kemp hit by pitch.,2,2,0,6,8,2.38,2.22
 735,2021-07-01,643393,667463,,foul,6,Tony Kemp hit by pitch.,2,2,0,5,8,0.4,2.04
 736,2021-07-01,643393,667463,,ball,14,Tony Kemp hit by pitch.,1,2,0,4,8,0.06,0.6
-737,2021-07-01,643393,641540,force_out,hit_into_play,13,"Tony Kemp grounds into a force out, shortstop Isiah Kiner-Falefa to third baseman Charlie Culberson.   Mitch Moreland out at 3rd.",1,0,2,2,2,-0.83,1.55
-738,2021-07-01,643393,667463,,swinging_strike,13,Tony Kemp hit by pitch.,1,1,0,3,8,-1.16,2.03
-739,2021-07-01,643393,667463,,swinging_strike,7,Tony Kemp hit by pitch.,1,0,0,2,8,-0.37,1.95
-740,2021-07-01,643393,641540,,ball,11,"Tony Kemp grounds into a force out, shortstop Isiah Kiner-Falefa to third baseman Charlie Culberson.   Mitch Moreland out at 3rd.",0,0,2,1,2,-0.95,2.9
+737,2021-07-01,643393,667463,,swinging_strike,13,Tony Kemp hit by pitch.,1,1,0,3,8,-1.16,2.03
+738,2021-07-01,643393,641540,force_out,hit_into_play,13,"Tony Kemp grounds into a force out, shortstop Isiah Kiner-Falefa to third baseman Charlie Culberson.   Mitch Moreland out at 3rd.",1,0,2,2,2,-0.83,1.55
+739,2021-07-01,643393,641540,,ball,11,"Tony Kemp grounds into a force out, shortstop Isiah Kiner-Falefa to third baseman Charlie Culberson.   Mitch Moreland out at 3rd.",0,0,2,1,2,-0.95,2.9
+740,2021-07-01,643393,667463,,swinging_strike,7,Tony Kemp hit by pitch.,1,0,0,2,8,-0.37,1.95
 741,2021-07-01,643393,667463,,ball,12,Tony Kemp hit by pitch.,0,0,0,1,8,1.46,2.19
 742,2021-07-01,643393,607359,double,hit_into_play,1,Tony Kemp doubles (10) on a line drive to right fielder David Dahl.,1,2,2,5,9,-0.37,2.8
 743,2021-07-01,643393,607359,,ball,14,Tony Kemp doubles (10) on a line drive to right fielder David Dahl.,0,2,2,4,9,0.26,0.83
 744,2021-07-01,643393,607359,,foul,11,Tony Kemp doubles (10) on a line drive to right fielder David Dahl.,0,2,2,3,9,-0.74,3.41
-745,2021-07-01,643393,667463,strikeout,swinging_strike,8,Tony Kemp strikes out swinging.,2,2,0,7,5,-0.27,1.52
-746,2021-07-01,643393,607359,,foul,5,Tony Kemp doubles (10) on a line drive to right fielder David Dahl.,0,1,2,2,9,-0.22,2.23
-747,2021-07-01,643393,641540,strikeout,called_strike,14,Tony Kemp called out on strikes.,3,2,0,6,1,0.93,1.92
+745,2021-07-01,643393,607359,,foul,5,Tony Kemp doubles (10) on a line drive to right fielder David Dahl.,0,1,2,2,9,-0.22,2.23
+746,2021-07-01,643393,667463,strikeout,swinging_strike,8,Tony Kemp strikes out swinging.,2,2,0,7,5,-0.27,1.52
+747,2021-07-01,643393,607359,,called_strike,2,Tony Kemp doubles (10) on a line drive to right fielder David Dahl.,0,0,2,1,9,-0.1,3.03
 748,2021-07-01,643393,667463,,ball,13,Tony Kemp strikes out swinging.,1,2,0,6,5,-0.28,0.91
-749,2021-07-01,643393,607359,,called_strike,2,Tony Kemp doubles (10) on a line drive to right fielder David Dahl.,0,0,2,1,9,-0.1,3.03
+749,2021-07-01,643393,641540,strikeout,called_strike,14,Tony Kemp called out on strikes.,3,2,0,6,1,0.93,1.92
 750,2021-07-01,643393,641540,,ball,13,Tony Kemp called out on strikes.,2,2,0,5,1,-0.12,-0.11
 751,2021-07-01,643393,667463,,ball,11,Tony Kemp strikes out swinging.,0,2,0,5,5,-1.12,2.35
-752,2021-07-01,643393,641540,,called_strike,9,Tony Kemp called out on strikes.,2,1,0,4,1,0.78,1.76
-753,2021-07-01,643393,667463,,foul,9,Tony Kemp strikes out swinging.,0,2,0,4,5,0.53,1.43
-754,2021-07-01,643393,667463,,foul,8,Tony Kemp strikes out swinging.,0,2,0,3,5,0.03,1.68
-755,2021-07-01,643393,641540,,ball,13,Tony Kemp called out on strikes.,1,1,0,3,1,-0.09,1.3
-756,2021-07-01,643393,667463,,swinging_strike,6,Tony Kemp strikes out swinging.,0,1,0,2,5,0.44,2.26
-757,2021-07-01,643393,641540,,ball,13,Tony Kemp called out on strikes.,0,1,0,2,1,-1.37,1.18
+752,2021-07-01,643393,667463,,foul,9,Tony Kemp strikes out swinging.,0,2,0,4,5,0.53,1.43
+753,2021-07-01,643393,641540,,called_strike,9,Tony Kemp called out on strikes.,2,1,0,4,1,0.78,1.76
+754,2021-07-01,643393,641540,,ball,13,Tony Kemp called out on strikes.,1,1,0,3,1,-0.09,1.3
+755,2021-07-01,643393,667463,,foul,8,Tony Kemp strikes out swinging.,0,2,0,3,5,0.03,1.68
+756,2021-07-01,643393,641540,,ball,13,Tony Kemp called out on strikes.,0,1,0,2,1,-1.37,1.18
+757,2021-07-01,643393,667463,,swinging_strike,6,Tony Kemp strikes out swinging.,0,1,0,2,5,0.44,2.26
 758,2021-07-01,643393,667463,,missed_bunt,9,Tony Kemp strikes out swinging.,0,0,0,1,5,0.81,1.57
 759,2021-07-01,643393,641540,,called_strike,3,Tony Kemp called out on strikes.,0,0,0,1,1,0.42,2.53
 760,2021-06-29,643393,592314,field_out,hit_into_play,11,Tony Kemp grounds out to first baseman Nate Lowe.,2,2,2,6,5,-0.91,2.36
@@ -815,8 +815,8 @@
 813,2021-06-26,643393,643511,field_out,hit_into_play,13,"Tony Kemp grounds out softly, pitcher Tyler Rogers to first baseman Darin Ruf.",2,1,1,4,9,-0.42,1.09
 814,2021-06-26,643393,643511,,ball,13,"Tony Kemp grounds out softly, pitcher Tyler Rogers to first baseman Darin Ruf.",1,1,1,3,9,-1.51,1.61
 815,2021-06-26,643393,643511,,ball,12,"Tony Kemp grounds out softly, pitcher Tyler Rogers to first baseman Darin Ruf.",0,1,1,2,9,0.89,3.49
-816,2021-06-26,643393,606424,field_out,hit_into_play,8,Tony Kemp flies out to center fielder Steven Duggar.,3,2,0,6,7,-0.08,1.88
-817,2021-06-26,643393,643511,,foul,12,"Tony Kemp grounds out softly, pitcher Tyler Rogers to first baseman Darin Ruf.",0,0,1,1,9,0.93,2.29
+816,2021-06-26,643393,643511,,foul,12,"Tony Kemp grounds out softly, pitcher Tyler Rogers to first baseman Darin Ruf.",0,0,1,1,9,0.93,2.29
+817,2021-06-26,643393,606424,field_out,hit_into_play,8,Tony Kemp flies out to center fielder Steven Duggar.,3,2,0,6,7,-0.08,1.88
 818,2021-06-26,643393,606424,,ball,11,Tony Kemp flies out to center fielder Steven Duggar.,2,2,0,5,7,-0.98,2.79
 819,2021-06-26,643393,606424,,foul,5,Tony Kemp flies out to center fielder Steven Duggar.,2,1,0,4,7,0.11,2.18
 820,2021-06-26,643393,606424,,called_strike,8,Tony Kemp flies out to center fielder Steven Duggar.,2,0,0,3,7,0.11,1.42
@@ -839,8 +839,8 @@
 837,2021-06-25,643393,456501,,called_strike,1,Tony Kemp flies out to right fielder Mike Yastrzemski.,0,0,0,1,1,-0.81,2.84
 838,2021-06-24,643393,663465,field_out,hit_into_play,11,Tony Kemp flies out to right fielder Joey Gallo.,0,0,2,1,4,-0.14,3.28
 839,2021-06-24,643393,605138,walk,ball,12,Tony Kemp walks.,3,1,1,5,9,0.17,3.72
-840,2021-06-24,643393,622250,double,hit_into_play,2,Tony Kemp doubles (8) on a fly ball to right fielder Joey Gallo.   Aramis Garcia to 3rd.,0,1,0,2,7,0.26,2.75
-841,2021-06-24,643393,605138,,called_strike,2,Tony Kemp walks.,3,0,1,4,9,-0.2,2.6
+840,2021-06-24,643393,605138,,called_strike,2,Tony Kemp walks.,3,0,1,4,9,-0.2,2.6
+841,2021-06-24,643393,622250,double,hit_into_play,2,Tony Kemp doubles (8) on a fly ball to right fielder Joey Gallo.   Aramis Garcia to 3rd.,0,1,0,2,7,0.26,2.75
 842,2021-06-24,643393,605138,,ball,11,Tony Kemp walks.,2,0,1,3,9,-1.23,2.38
 843,2021-06-24,643393,622250,,called_strike,5,Tony Kemp doubles (8) on a fly ball to right fielder Joey Gallo.   Aramis Garcia to 3rd.,0,0,0,1,7,0.24,2.19
 844,2021-06-24,643393,605138,,ball,13,Tony Kemp walks.,1,0,1,2,9,-0.67,0.76
@@ -867,15 +867,15 @@
 865,2021-06-21,643393,656685,single,hit_into_play,7,Tony Kemp singles on a line drive to center fielder Adolis Garcia.,2,2,0,5,7,-0.72,1.83
 866,2021-06-21,643393,656685,,called_strike,8,Tony Kemp singles on a line drive to center fielder Adolis Garcia.,2,1,0,4,7,0.05,1.61
 867,2021-06-21,643393,453178,field_out,hit_into_play,12,Tony Kemp flies out to center fielder Adolis Garcia.,1,2,0,4,9,0.05,3.25
-868,2021-06-21,643393,502043,field_out,hit_into_play,13,"Tony Kemp grounds out, second baseman Andy Ibanez to first baseman Nate Lowe.",1,1,0,3,1,-0.86,1.64
-869,2021-06-21,643393,453178,,foul,8,Tony Kemp flies out to center fielder Adolis Garcia.,1,1,0,3,9,-0.13,1.84
+868,2021-06-21,643393,453178,,foul,8,Tony Kemp flies out to center fielder Adolis Garcia.,1,1,0,3,9,-0.13,1.84
+869,2021-06-21,643393,502043,field_out,hit_into_play,13,"Tony Kemp grounds out, second baseman Andy Ibanez to first baseman Nate Lowe.",1,1,0,3,1,-0.86,1.64
 870,2021-06-21,643393,656685,,ball,11,Tony Kemp singles on a line drive to center fielder Adolis Garcia.,1,1,0,3,7,-1.64,2.72
-871,2021-06-21,643393,502043,,called_strike,8,"Tony Kemp grounds out, second baseman Andy Ibanez to first baseman Nate Lowe.",1,0,0,2,1,0.09,1.7
-872,2021-06-21,643393,656685,,ball,13,Tony Kemp singles on a line drive to center fielder Adolis Garcia.,0,1,0,2,7,-0.34,0.84
-873,2021-06-21,643393,453178,,ball,11,Tony Kemp flies out to center fielder Adolis Garcia.,0,1,0,2,9,-0.37,3.93
-874,2021-06-21,643393,502043,,ball,9,"Tony Kemp grounds out, second baseman Andy Ibanez to first baseman Nate Lowe.",0,0,0,1,1,0.79,1.44
-875,2021-06-21,643393,656685,,called_strike,4,Tony Kemp singles on a line drive to center fielder Adolis Garcia.,0,0,0,1,7,-0.77,1.88
-876,2021-06-21,643393,453178,,called_strike,2,Tony Kemp flies out to center fielder Adolis Garcia.,0,0,0,1,9,0.24,2.66
+871,2021-06-21,643393,453178,,ball,11,Tony Kemp flies out to center fielder Adolis Garcia.,0,1,0,2,9,-0.37,3.93
+872,2021-06-21,643393,502043,,called_strike,8,"Tony Kemp grounds out, second baseman Andy Ibanez to first baseman Nate Lowe.",1,0,0,2,1,0.09,1.7
+873,2021-06-21,643393,656685,,ball,13,Tony Kemp singles on a line drive to center fielder Adolis Garcia.,0,1,0,2,7,-0.34,0.84
+874,2021-06-21,643393,453178,,called_strike,2,Tony Kemp flies out to center fielder Adolis Garcia.,0,0,0,1,9,0.24,2.66
+875,2021-06-21,643393,502043,,ball,9,"Tony Kemp grounds out, second baseman Andy Ibanez to first baseman Nate Lowe.",0,0,0,1,1,0.79,1.44
+876,2021-06-21,643393,656685,,called_strike,4,Tony Kemp singles on a line drive to center fielder Adolis Garcia.,0,0,0,1,7,-0.77,1.88
 877,2021-06-20,643393,642528,field_out,hit_into_play,4,Tony Kemp pops out to third baseman Gio Urshela in foul territory.,3,2,0,10,7,-0.34,2.19
 878,2021-06-20,643393,642528,,ball,11,Tony Kemp pops out to third baseman Gio Urshela in foul territory.,2,2,0,9,7,-2.27,2.4
 879,2021-06-20,643393,642528,,ball,11,Tony Kemp pops out to third baseman Gio Urshela in foul territory.,1,2,0,8,7,-1.0,3.07
@@ -926,8 +926,8 @@
 924,2021-06-16,643393,656288,,foul,7,Tony Kemp walks.,1,0,1,2,5,-0.56,1.5
 925,2021-06-16,643393,656288,,ball,14,Tony Kemp walks.,0,0,1,1,5,0.73,0.53
 926,2021-06-16,643393,656288,field_out,hit_into_play,5,Tony Kemp pops out to shortstop Jose Iglesias in foul territory.,2,2,1,7,3,-0.08,2.44
-927,2021-06-16,643393,656288,,foul,5,Tony Kemp pops out to shortstop Jose Iglesias in foul territory.,2,2,1,6,3,-0.04,2.11
-928,2021-06-16,643393,660761,field_out,hit_into_play,8,"Tony Kemp grounds out, second baseman David Fletcher to first baseman Jared Walsh.",0,1,2,2,7,0.11,1.93
+927,2021-06-16,643393,660761,field_out,hit_into_play,8,"Tony Kemp grounds out, second baseman David Fletcher to first baseman Jared Walsh.",0,1,2,2,7,0.11,1.93
+928,2021-06-16,643393,656288,,foul,5,Tony Kemp pops out to shortstop Jose Iglesias in foul territory.,2,2,1,6,3,-0.04,2.11
 929,2021-06-16,643393,656288,,foul,7,Tony Kemp pops out to shortstop Jose Iglesias in foul territory.,2,2,1,5,3,-0.53,1.59
 930,2021-06-16,643393,660761,,foul,7,"Tony Kemp grounds out, second baseman David Fletcher to first baseman Jared Walsh.",0,0,2,1,7,-0.35,1.76
 931,2021-06-16,643393,656288,,foul,1,Tony Kemp pops out to shortstop Jose Iglesias in foul territory.,2,1,1,4,3,-0.75,2.98
@@ -997,10 +997,10 @@
 995,2021-06-13,643393,622092,,called_strike,5,Tony Kemp walks.,3,1,0,5,6,0.17,2.38
 996,2021-06-13,643393,622092,,ball,13,Tony Kemp walks.,2,1,0,4,6,-0.89,1.64
 997,2021-06-13,643393,622092,,ball,14,Tony Kemp walks.,1,1,0,3,6,0.31,0.93
-998,2021-06-13,643393,429722,field_out,hit_into_play,5,Tony Kemp lines out to left fielder Andrew Benintendi.,1,1,2,3,8,0.07,2.03
-999,2021-06-13,643393,622092,,ball,11,Tony Kemp walks.,0,1,0,2,6,-0.82,4.03
-1000,2021-06-13,643393,429722,,ball,13,Tony Kemp lines out to left fielder Andrew Benintendi.,0,1,2,2,8,-1.0,1.46
-1001,2021-06-13,643393,622092,,foul,1,Tony Kemp walks.,0,0,0,1,6,-0.3,2.82
+998,2021-06-13,643393,622092,,ball,11,Tony Kemp walks.,0,1,0,2,6,-0.82,4.03
+999,2021-06-13,643393,429722,field_out,hit_into_play,5,Tony Kemp lines out to left fielder Andrew Benintendi.,1,1,2,3,8,0.07,2.03
+1000,2021-06-13,643393,622092,,foul,1,Tony Kemp walks.,0,0,0,1,6,-0.3,2.82
+1001,2021-06-13,643393,429722,,ball,13,Tony Kemp lines out to left fielder Andrew Benintendi.,0,1,2,2,8,-1.0,1.46
 1002,2021-06-13,643393,429722,,called_strike,5,Tony Kemp lines out to left fielder Andrew Benintendi.,0,0,2,1,8,-0.11,2.06
 1003,2021-06-12,643393,663804,walk,blocked_ball,13,Tony Kemp walks.   Elvis Andrus to 2nd.,3,2,1,9,2,-0.37,0.34
 1004,2021-06-12,643393,663804,,foul,11,Tony Kemp walks.   Elvis Andrus to 2nd.,3,2,1,8,2,-0.06,3.41
@@ -1025,8 +1025,8 @@
 1023,2021-06-12,643393,663804,,ball,11,Tony Kemp singles on a ground ball to right fielder Hunter Dozier.,1,2,0,6,1,-1.13,2.28
 1024,2021-06-12,643393,663804,,foul,4,Tony Kemp singles on a ground ball to right fielder Hunter Dozier.,1,2,0,5,1,-0.45,2.01
 1025,2021-06-12,643393,672578,,foul,12,Tony Kemp called out on strikes.,0,0,0,1,6,0.23,3.47
-1026,2021-06-12,643393,663804,,foul,13,Tony Kemp singles on a ground ball to right fielder Hunter Dozier.,1,2,0,4,1,-1.18,1.86
-1027,2021-06-12,643393,451584,single,hit_into_play,6,Tony Kemp singles on a fly ball to right fielder Hunter Dozier.,1,1,0,3,8,0.29,2.51
+1026,2021-06-12,643393,451584,single,hit_into_play,6,Tony Kemp singles on a fly ball to right fielder Hunter Dozier.,1,1,0,3,8,0.29,2.51
+1027,2021-06-12,643393,663804,,foul,13,Tony Kemp singles on a ground ball to right fielder Hunter Dozier.,1,2,0,4,1,-1.18,1.86
 1028,2021-06-12,643393,663804,,foul,1,Tony Kemp singles on a ground ball to right fielder Hunter Dozier.,1,1,0,3,1,-0.53,3.05
 1029,2021-06-12,643393,451584,,called_strike,8,Tony Kemp singles on a fly ball to right fielder Hunter Dozier.,1,0,0,2,8,0.12,1.32
 1030,2021-06-12,643393,663804,,called_strike,5,Tony Kemp singles on a ground ball to right fielder Hunter Dozier.,1,0,0,2,1,0.26,2.28
@@ -1143,8 +1143,8 @@
 1141,2021-06-01,643393,502327,,called_strike,1,Tony Kemp doubles (4) on a fly ball to right fielder Jake Fraley.   Elvis Andrus scores.,0,0,1,1,5,-0.64,2.91
 1142,2021-05-31,643393,669302,field_out,hit_into_play,11,Tony Kemp lines out to left fielder Jarred Kelenic.,0,0,0,1,5,-0.42,3.27
 1143,2021-05-31,643393,669302,sac_fly,hit_into_play,11,Tony Kemp out on a sacrifice fly to left fielder Jarred Kelenic.   Chad Pinder scores.,0,0,0,1,3,-0.86,2.83
-1144,2021-05-31,643393,676684,field_out,hit_into_play,2,Tony Kemp flies out to left fielder Jarred Kelenic.,1,0,2,2,7,-0.27,2.9
-1145,2021-05-31,643393,606160,single,hit_into_play,6,Tony Kemp singles on a line drive to right fielder Jake Fraley.   Chad Pinder to 3rd.,0,0,1,1,9,0.58,2.52
+1144,2021-05-31,643393,606160,single,hit_into_play,6,Tony Kemp singles on a line drive to right fielder Jake Fraley.   Chad Pinder to 3rd.,0,0,1,1,9,0.58,2.52
+1145,2021-05-31,643393,676684,field_out,hit_into_play,2,Tony Kemp flies out to left fielder Jarred Kelenic.,1,0,2,2,7,-0.27,2.9
 1146,2021-05-31,643393,676684,,ball,11,Tony Kemp flies out to left fielder Jarred Kelenic.,0,0,2,1,7,-0.93,3.34
 1147,2021-05-29,643393,502171,strikeout,called_strike,3,Tony Kemp called out on strikes.,2,2,2,6,6,0.4,2.82
 1148,2021-05-29,643393,502171,,foul,13,Tony Kemp called out on strikes.,2,2,2,5,6,-0.47,1.22
@@ -1156,8 +1156,8 @@
 1154,2021-05-29,643393,502171,,ball,6,Tony Kemp singles on a line drive to right fielder Jose Rojas.,1,1,0,3,4,0.82,2.05
 1155,2021-05-29,643393,502171,,swinging_strike,4,Tony Kemp singles on a line drive to right fielder Jose Rojas.,1,0,0,2,4,-0.73,2.49
 1156,2021-05-29,643393,502171,,ball,11,Tony Kemp singles on a line drive to right fielder Jose Rojas.,0,0,0,1,4,-1.04,3.53
-1157,2021-05-29,643393,502171,strikeout,called_strike,3,Tony Kemp called out on strikes.,1,2,1,4,1,0.36,2.84
-1158,2021-05-29,643393,628452,field_out,hit_into_play,13,"Tony Kemp grounds out, second baseman Kean Wong to first baseman Jared Walsh.",0,1,2,2,9,-1.24,1.9
+1157,2021-05-29,643393,628452,field_out,hit_into_play,13,"Tony Kemp grounds out, second baseman Kean Wong to first baseman Jared Walsh.",0,1,2,2,9,-1.24,1.9
+1158,2021-05-29,643393,502171,strikeout,called_strike,3,Tony Kemp called out on strikes.,1,2,1,4,1,0.36,2.84
 1159,2021-05-29,643393,628452,,foul_tip,11,"Tony Kemp grounds out, second baseman Kean Wong to first baseman Jared Walsh.",0,0,2,1,9,-0.89,2.73
 1160,2021-05-29,643393,502171,,foul,4,Tony Kemp called out on strikes.,1,1,1,3,1,-0.77,2.4
 1161,2021-05-29,643393,502171,,ball,13,Tony Kemp called out on strikes.,0,1,1,2,1,-1.4,1.96
@@ -1226,11 +1226,11 @@
 1224,2021-05-23,643393,594577,single,hit_into_play,8,Tony Kemp singles on a line drive to right fielder Taylor Ward.,2,2,0,6,7,-0.06,1.53
 1225,2021-05-23,643393,594577,,foul,6,Tony Kemp singles on a line drive to right fielder Taylor Ward.,2,2,0,5,7,0.51,2.35
 1226,2021-05-23,643393,594577,,foul,1,Tony Kemp singles on a line drive to right fielder Taylor Ward.,2,1,0,4,7,-0.64,2.59
-1227,2021-05-23,643393,594577,,called_strike,8,Tony Kemp singles on a line drive to right fielder Taylor Ward.,2,0,0,3,7,0.04,1.87
-1228,2021-05-23,643393,628452,field_out,hit_into_play,7,Tony Kemp flies out to center fielder Taylor Ward.,0,1,0,2,9,-0.29,1.43
+1227,2021-05-23,643393,628452,field_out,hit_into_play,7,Tony Kemp flies out to center fielder Taylor Ward.,0,1,0,2,9,-0.29,1.43
+1228,2021-05-23,643393,594577,,called_strike,8,Tony Kemp singles on a line drive to right fielder Taylor Ward.,2,0,0,3,7,0.04,1.87
 1229,2021-05-23,643393,594577,,ball,14,Tony Kemp singles on a line drive to right fielder Taylor Ward.,1,0,0,2,7,0.17,1.21
-1230,2021-05-23,643393,605164,field_out,hit_into_play,7,Tony Kemp grounds out to first baseman Jared Walsh.,1,1,0,3,1,-0.3,1.81
-1231,2021-05-23,643393,628452,,called_strike,4,Tony Kemp flies out to center fielder Taylor Ward.,0,0,0,1,9,-0.75,1.95
+1230,2021-05-23,643393,628452,,called_strike,4,Tony Kemp flies out to center fielder Taylor Ward.,0,0,0,1,9,-0.75,1.95
+1231,2021-05-23,643393,605164,field_out,hit_into_play,7,Tony Kemp grounds out to first baseman Jared Walsh.,1,1,0,3,1,-0.3,1.81
 1232,2021-05-23,643393,594577,,ball,12,Tony Kemp singles on a line drive to right fielder Taylor Ward.,0,0,0,1,7,0.83,2.51
 1233,2021-05-23,643393,605164,,called_strike,7,Tony Kemp grounds out to first baseman Jared Walsh.,1,0,0,2,1,-0.69,1.66
 1234,2021-05-23,643393,605164,,ball,14,Tony Kemp grounds out to first baseman Jared Walsh.,0,0,0,1,1,0.3,1.12
@@ -1247,8 +1247,8 @@
 1245,2021-05-20,643393,519151,field_out,hit_into_play,2,"Tony Kemp grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",2,2,2,5,8,-0.16,3.18
 1246,2021-05-20,643393,519151,,blocked_ball,14,"Tony Kemp grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,2,2,4,8,0.67,0.61
 1247,2021-05-20,643393,519151,,called_strike,5,"Tony Kemp grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,1,2,3,8,-0.02,1.85
-1248,2021-05-20,643393,519151,,blocked_ball,14,"Tony Kemp grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,1,2,2,8,0.6,0.45
-1249,2021-05-20,643393,650556,double,hit_into_play,5,Tony Kemp doubles (3) on a line drive to right fielder Kyle Tucker.,1,0,0,2,7,0.14,2.07
+1248,2021-05-20,643393,650556,double,hit_into_play,5,Tony Kemp doubles (3) on a line drive to right fielder Kyle Tucker.,1,0,0,2,7,0.14,2.07
+1249,2021-05-20,643393,519151,,blocked_ball,14,"Tony Kemp grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,1,2,2,8,0.6,0.45
 1250,2021-05-20,643393,519151,,swinging_strike,9,"Tony Kemp grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,2,1,8,0.81,1.46
 1251,2021-05-20,643393,650556,,ball,12,Tony Kemp doubles (3) on a line drive to right fielder Kyle Tucker.,0,0,0,1,7,0.89,3.16
 1252,2021-05-19,643393,592288,field_error,hit_into_play,2,Tony Kemp reaches on a fielding error by third baseman Alex Bregman.,2,2,1,5,9,-0.22,2.69
@@ -1379,10 +1379,10 @@
 1377,2021-04-29,643393,663556,,swinging_strike,13,Tony Kemp singles on a ground ball to center fielder Kevin Kiermaier.,0,1,1,2,3,-0.06,1.19
 1378,2021-04-29,643393,663556,,called_strike,1,Tony Kemp singles on a ground ball to center fielder Kevin Kiermaier.,0,0,1,1,3,-0.46,2.5
 1379,2021-04-29,643393,672715,field_out,hit_into_play,8,Tony Kemp pops out to shortstop Willy Adames.,2,2,1,8,5,0.1,1.8
-1380,2021-04-29,643393,672715,,foul,1,Tony Kemp pops out to shortstop Willy Adames.,2,2,1,7,5,-0.33,2.71
-1381,2021-04-29,643393,552640,field_out,hit_into_play,4,"Tony Kemp grounds out, second baseman Brandon Lowe to first baseman Mike Brosseau.",1,2,1,5,8,-0.4,1.96
-1382,2021-04-29,643393,552640,,ball,13,"Tony Kemp grounds out, second baseman Brandon Lowe to first baseman Mike Brosseau.",0,2,1,4,8,-1.11,1.74
-1383,2021-04-29,643393,672715,,foul,9,Tony Kemp pops out to shortstop Willy Adames.,2,2,1,6,5,0.5,1.71
+1380,2021-04-29,643393,552640,field_out,hit_into_play,4,"Tony Kemp grounds out, second baseman Brandon Lowe to first baseman Mike Brosseau.",1,2,1,5,8,-0.4,1.96
+1381,2021-04-29,643393,672715,,foul,1,Tony Kemp pops out to shortstop Willy Adames.,2,2,1,7,5,-0.33,2.71
+1382,2021-04-29,643393,672715,,foul,9,Tony Kemp pops out to shortstop Willy Adames.,2,2,1,6,5,0.5,1.71
+1383,2021-04-29,643393,552640,,ball,13,"Tony Kemp grounds out, second baseman Brandon Lowe to first baseman Mike Brosseau.",0,2,1,4,8,-1.11,1.74
 1384,2021-04-29,643393,672715,,foul,14,Tony Kemp pops out to shortstop Willy Adames.,2,2,1,5,5,0.91,1.8
 1385,2021-04-29,643393,552640,,foul,14,"Tony Kemp grounds out, second baseman Brandon Lowe to first baseman Mike Brosseau.",0,2,1,3,8,0.0,1.31
 1386,2021-04-29,643393,672715,,called_strike,9,Tony Kemp pops out to shortstop Willy Adames.,2,1,1,4,5,0.52,1.46

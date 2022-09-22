@@ -9,5 +9,6 @@ VISION REPORT: christian_yelich (2021-04-01 thru 2021-10-04)
      christian_yelich saw 957 strikes and 1055 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4950
+VISION SCORE METRIC B (VSA - SO%): 0.2571
 Average PA Length: 4.2316 (2010/475)
 Batting Avg: 0.248

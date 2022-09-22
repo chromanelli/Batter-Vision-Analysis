@@ -9,5 +9,6 @@ VISION REPORT: riley_adams (2021-04-01 thru 2021-10-04)
      riley_adams saw 244 strikes and 295 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4026
+VISION SCORE METRIC B (VSA - SO%): 0.0693
 Average PA Length: 4.4500 (534/120)
 Batting Avg: 0.222

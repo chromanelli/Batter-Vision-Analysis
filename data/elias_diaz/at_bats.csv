@@ -23,8 +23,8 @@
 21,2021-09-27,553869,680686,field_out,hit_into_play,7,Elias Diaz pops out to third baseman Carter Kieboom in foul territory.,0,0,1,1,2,-0.49,1.88
 22,2021-09-27,553869,640448,single,hit_into_play,9,Elias Diaz singles on a line drive to center fielder Lane Thomas.,0,1,1,2,8,0.42,1.67
 23,2021-09-27,553869,608723,single,hit_into_play,5,Elias Diaz singles on a line drive to right fielder Juan Soto.   Ryan McMahon to 3rd.,2,2,1,6,6,0.25,2.48
-24,2021-09-27,553869,640448,,swinging_strike,14,Elias Diaz singles on a line drive to center fielder Lane Thomas.,0,0,1,1,8,0.62,0.99
-25,2021-09-27,553869,608723,,ball,14,Elias Diaz singles on a line drive to right fielder Juan Soto.   Ryan McMahon to 3rd.,1,2,1,5,6,0.37,1.29
+24,2021-09-27,553869,608723,,ball,14,Elias Diaz singles on a line drive to right fielder Juan Soto.   Ryan McMahon to 3rd.,1,2,1,5,6,0.37,1.29
+25,2021-09-27,553869,640448,,swinging_strike,14,Elias Diaz singles on a line drive to center fielder Lane Thomas.,0,0,1,1,8,0.62,0.99
 26,2021-09-27,553869,608723,,foul,9,Elias Diaz singles on a line drive to right fielder Juan Soto.   Ryan McMahon to 3rd.,1,2,1,4,6,0.51,1.99
 27,2021-09-27,553869,608723,,foul,3,Elias Diaz singles on a line drive to right fielder Juan Soto.   Ryan McMahon to 3rd.,1,1,1,3,6,0.45,2.92
 28,2021-09-27,553869,608723,,blocked_ball,14,Elias Diaz singles on a line drive to right fielder Juan Soto.   Ryan McMahon to 3rd.,0,1,1,2,6,1.13,1.04
@@ -53,8 +53,8 @@
 51,2021-09-25,553869,453265,,foul,2,Elias Diaz strikes out swinging.,1,2,1,4,8,0.07,2.94
 52,2021-09-25,553869,453265,,ball,11,Elias Diaz strikes out swinging.,0,2,1,3,8,-1.25,3.47
 53,2021-09-25,553869,453265,,foul,6,Elias Diaz strikes out swinging.,0,1,1,2,8,0.63,2.46
-54,2021-09-25,553869,606424,single,hit_into_play,6,Elias Diaz singles on a pop up to right fielder LaMonte Wade.,0,0,1,1,6,0.74,2.27
-55,2021-09-25,553869,453265,,foul,4,Elias Diaz strikes out swinging.,0,0,1,1,8,-0.66,2.76
+54,2021-09-25,553869,453265,,foul,4,Elias Diaz strikes out swinging.,0,0,1,1,8,-0.66,2.76
+55,2021-09-25,553869,606424,single,hit_into_play,6,Elias Diaz singles on a pop up to right fielder LaMonte Wade.,0,0,1,1,6,0.74,2.27
 56,2021-09-24,553869,622072,field_out,hit_into_play,9,"Elias Diaz grounds out, pitcher Alex Wood to first baseman Brandon Belt.",2,0,2,3,3,0.49,1.84
 57,2021-09-24,553869,622072,,ball,11,"Elias Diaz grounds out, pitcher Alex Wood to first baseman Brandon Belt.",1,0,2,2,3,-1.2,3.69
 58,2021-09-24,553869,622072,,ball,9,"Elias Diaz grounds out, pitcher Alex Wood to first baseman Brandon Belt.",0,0,2,1,3,0.63,1.39
@@ -163,8 +163,8 @@
 161,2021-09-12,553869,605400,field_out,hit_into_play,9,"Elias Diaz grounds out softly, first baseman Brad Miller to pitcher Aaron Nola.",0,0,1,1,2,0.29,1.59
 162,2021-09-12,553869,453178,field_out,hit_into_play,8,"Elias Diaz grounds out, shortstop Didi Gregorius to first baseman Brad Miller.",2,1,0,4,9,-0.27,1.83
 163,2021-09-12,553869,453178,,foul,7,"Elias Diaz grounds out, shortstop Didi Gregorius to first baseman Brad Miller.",2,0,0,3,9,-0.5,1.88
-164,2021-09-12,553869,453178,,ball,12,"Elias Diaz grounds out, shortstop Didi Gregorius to first baseman Brad Miller.",1,0,0,2,9,0.95,3.1
-165,2021-09-12,553869,593576,single,hit_into_play,7,Elias Diaz singles on a ground ball to third baseman Freddy Galvis.,0,0,1,1,7,-0.56,2.12
+164,2021-09-12,553869,593576,single,hit_into_play,7,Elias Diaz singles on a ground ball to third baseman Freddy Galvis.,0,0,1,1,7,-0.56,2.12
+165,2021-09-12,553869,453178,,ball,12,"Elias Diaz grounds out, shortstop Didi Gregorius to first baseman Brad Miller.",1,0,0,2,9,0.95,3.1
 166,2021-09-12,553869,453178,,ball,12,"Elias Diaz grounds out, shortstop Didi Gregorius to first baseman Brad Miller.",0,0,0,1,9,0.24,3.9
 167,2021-09-10,553869,519043,field_out,hit_into_play,5,Elias Diaz lines out to center fielder Odubel Herrera.,1,2,2,4,5,0.12,2.21
 168,2021-09-10,553869,519043,,ball,13,Elias Diaz lines out to center fielder Odubel Herrera.,0,2,2,3,5,-0.84,0.4
@@ -350,20 +350,20 @@
 348,2021-08-21,553869,668678,,called_strike,9,Elias Diaz flies out to center fielder Ketel Marte.,0,0,0,1,5,0.47,1.87
 349,2021-08-21,553869,605525,home_run,hit_into_play,8,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,2,2,2,10,9,-0.04,1.91
 350,2021-08-21,553869,605525,,foul,8,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,2,2,2,9,9,0.03,1.71
-351,2021-08-21,553869,668678,strikeout,swinging_strike,8,Elias Diaz strikes out swinging.,3,2,0,7,2,-0.06,1.85
-352,2021-08-21,553869,605525,,foul,3,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,2,2,2,8,9,0.3,3.07
-353,2021-08-21,553869,668678,,foul,1,Elias Diaz strikes out swinging.,3,2,0,6,2,-0.32,3.31
-354,2021-08-21,553869,605525,,foul,14,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,2,2,2,7,9,0.92,1.86
+351,2021-08-21,553869,605525,,foul,3,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,2,2,2,8,9,0.3,3.07
+352,2021-08-21,553869,668678,strikeout,swinging_strike,8,Elias Diaz strikes out swinging.,3,2,0,7,2,-0.06,1.85
+353,2021-08-21,553869,605525,,foul,14,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,2,2,2,7,9,0.92,1.86
+354,2021-08-21,553869,668678,,foul,1,Elias Diaz strikes out swinging.,3,2,0,6,2,-0.32,3.31
 355,2021-08-21,553869,605525,,ball,13,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,1,2,2,6,9,-1.68,2.17
 356,2021-08-21,553869,668678,,ball,11,Elias Diaz strikes out swinging.,2,2,0,5,2,-0.19,4.71
 357,2021-08-21,553869,605525,,blocked_ball,14,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,0,2,2,5,9,0.13,0.19
 358,2021-08-21,553869,668678,,foul,6,Elias Diaz strikes out swinging.,2,1,0,4,2,0.81,2.57
-359,2021-08-21,553869,668678,,ball,14,Elias Diaz strikes out swinging.,1,1,0,3,2,1.14,1.39
-360,2021-08-21,553869,605525,,foul,8,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,0,2,2,4,9,0.07,2.08
+359,2021-08-21,553869,605525,,foul,8,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,0,2,2,4,9,0.07,2.08
+360,2021-08-21,553869,668678,,ball,14,Elias Diaz strikes out swinging.,1,1,0,3,2,1.14,1.39
 361,2021-08-21,553869,668678,,ball,14,Elias Diaz strikes out swinging.,0,1,0,2,2,2.01,1.36
 362,2021-08-21,553869,605525,,foul,13,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,0,2,2,3,9,-0.99,1.92
-363,2021-08-21,553869,668678,,called_strike,7,Elias Diaz strikes out swinging.,0,0,0,1,2,-0.81,1.76
-364,2021-08-21,553869,605525,,foul,8,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,0,1,2,2,9,0.03,1.49
+363,2021-08-21,553869,605525,,foul,8,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,0,1,2,2,9,0.03,1.49
+364,2021-08-21,553869,668678,,called_strike,7,Elias Diaz strikes out swinging.,0,0,0,1,2,-0.81,1.76
 365,2021-08-21,553869,605525,,swinging_strike,14,Elias Diaz homers (14) on a line drive to left field.   Charlie Blackmon scores.    Ryan McMahon scores.,0,0,2,1,9,0.93,0.95
 366,2021-08-21,553869,598287,walk,ball,11,Elias Diaz walks.,3,2,0,6,8,-1.22,2.84
 367,2021-08-21,553869,598287,,ball,14,Elias Diaz walks.,2,2,0,5,8,2.56,0.72
@@ -530,8 +530,8 @@
 528,2021-08-03,553869,605200,home_run,hit_into_play,8,Elias Diaz hits a grand slam (12) to left center field.   Trevor Story scores.    C.J. Cron scores.    Ryan McMahon scores.,2,2,0,5,2,0.12,1.75
 529,2021-08-03,553869,605200,,ball,13,Elias Diaz hits a grand slam (12) to left center field.   Trevor Story scores.    C.J. Cron scores.    Ryan McMahon scores.,1,2,0,4,2,-0.03,1.1
 530,2021-08-03,553869,605200,,blocked_ball,14,Elias Diaz hits a grand slam (12) to left center field.   Trevor Story scores.    C.J. Cron scores.    Ryan McMahon scores.,0,2,0,3,2,1.26,-0.04
-531,2021-08-03,553869,621074,double,hit_into_play,3,Elias Diaz doubles (8) on a sharp fly ball to center fielder Rafael Ortega.,0,0,0,1,6,0.3,2.95
-532,2021-08-03,553869,605200,,foul,14,Elias Diaz hits a grand slam (12) to left center field.   Trevor Story scores.    C.J. Cron scores.    Ryan McMahon scores.,0,1,0,2,2,0.39,1.29
+531,2021-08-03,553869,605200,,foul,14,Elias Diaz hits a grand slam (12) to left center field.   Trevor Story scores.    C.J. Cron scores.    Ryan McMahon scores.,0,1,0,2,2,0.39,1.29
+532,2021-08-03,553869,621074,double,hit_into_play,3,Elias Diaz doubles (8) on a sharp fly ball to center fielder Rafael Ortega.,0,0,0,1,6,0.3,2.95
 533,2021-08-03,553869,605200,,swinging_strike,8,Elias Diaz hits a grand slam (12) to left center field.   Trevor Story scores.    C.J. Cron scores.    Ryan McMahon scores.,0,0,0,1,2,0.08,1.79
 534,2021-08-03,553869,656730,field_out,hit_into_play,5,"Elias Diaz grounds out sharply, second baseman David Bote to first baseman Frank Schwindel.",3,1,0,5,7,0.11,2.18
 535,2021-08-03,553869,656730,,ball,7,"Elias Diaz grounds out sharply, second baseman David Bote to first baseman Frank Schwindel.",2,1,0,4,7,-0.39,1.6
@@ -619,8 +619,8 @@
 617,2021-07-25,553869,660813,field_out,hit_into_play,14,"Elias Diaz grounds out, pitcher Brusdar Graterol to first baseman Matt Beaty.",2,2,1,5,6,0.86,2.12
 618,2021-07-25,553869,660813,,foul,7,"Elias Diaz grounds out, pitcher Brusdar Graterol to first baseman Matt Beaty.",2,1,1,4,6,-0.48,1.96
 619,2021-07-25,553869,660813,,ball,12,"Elias Diaz grounds out, pitcher Brusdar Graterol to first baseman Matt Beaty.",1,1,1,3,6,2.15,2.59
-620,2021-07-25,553869,660813,,called_strike,3,"Elias Diaz grounds out, pitcher Brusdar Graterol to first baseman Matt Beaty.",1,0,1,2,6,0.51,2.65
-621,2021-07-25,553869,523260,field_out,hit_into_play,7,"Elias Diaz grounds out sharply, shortstop Chris Taylor to first baseman Matt Beaty.   C.J. Cron to 2nd.",0,0,0,1,9,-0.3,2.11
+620,2021-07-25,553869,523260,field_out,hit_into_play,7,"Elias Diaz grounds out sharply, shortstop Chris Taylor to first baseman Matt Beaty.   C.J. Cron to 2nd.",0,0,0,1,9,-0.3,2.11
+621,2021-07-25,553869,660813,,called_strike,3,"Elias Diaz grounds out, pitcher Brusdar Graterol to first baseman Matt Beaty.",1,0,1,2,6,0.51,2.65
 622,2021-07-25,553869,660813,,ball,14,"Elias Diaz grounds out, pitcher Brusdar Graterol to first baseman Matt Beaty.",0,0,1,1,6,2.36,0.6
 623,2021-07-24,553869,523260,strikeout,swinging_strike,14,Elias Diaz strikes out swinging.,1,2,2,4,7,0.97,1.13
 624,2021-07-24,553869,523260,,called_strike,6,Elias Diaz strikes out swinging.,1,1,2,3,7,0.32,2.47
@@ -632,8 +632,8 @@
 630,2021-07-23,553869,642073,field_out,hit_into_play,4,"Elias Diaz grounds out, shortstop Chris Taylor to first baseman Matt Beaty.",1,1,2,3,10,-0.31,2.45
 631,2021-07-23,553869,456034,,foul,4,Elias Diaz homers (8) on a fly ball to left center field.,1,1,0,3,3,-0.42,2.34
 632,2021-07-23,553869,642073,,ball,12,"Elias Diaz grounds out, shortstop Chris Taylor to first baseman Matt Beaty.",0,1,2,2,10,1.74,2.74
-633,2021-07-23,553869,456034,,called_strike,9,Elias Diaz homers (8) on a fly ball to left center field.,1,0,0,2,3,0.81,1.48
-634,2021-07-23,553869,642073,,called_strike,9,"Elias Diaz grounds out, shortstop Chris Taylor to first baseman Matt Beaty.",0,0,2,1,10,0.69,1.8
+633,2021-07-23,553869,642073,,called_strike,9,"Elias Diaz grounds out, shortstop Chris Taylor to first baseman Matt Beaty.",0,0,2,1,10,0.69,1.8
+634,2021-07-23,553869,456034,,called_strike,9,Elias Diaz homers (8) on a fly ball to left center field.,1,0,0,2,3,0.81,1.48
 635,2021-07-23,553869,456034,,ball,12,Elias Diaz homers (8) on a fly ball to left center field.,0,0,0,1,3,1.27,2.93
 636,2021-07-23,553869,641360,strikeout,swinging_strike,8,Elias Diaz strikes out swinging.,0,2,2,3,6,0.12,1.55
 637,2021-07-23,553869,641360,,swinging_strike,11,Elias Diaz strikes out swinging.,0,1,2,2,6,0.0,3.76
@@ -655,8 +655,8 @@
 653,2021-07-20,553869,608638,,ball,14,"Rockies challenged (tag play), call on the field was upheld: Elias Diaz singles on a line drive to left fielder Shed Long Jr. Ryan McMahon out at 3rd on the throw, left fielder Shed Long Jr.  to third baseman Kyle Seager.   Elias Diaz to 2nd.",2,1,1,4,6,1.05,1.86
 654,2021-07-20,553869,608638,,called_strike,5,"Rockies challenged (tag play), call on the field was upheld: Elias Diaz singles on a line drive to left fielder Shed Long Jr. Ryan McMahon out at 3rd on the throw, left fielder Shed Long Jr.  to third baseman Kyle Seager.   Elias Diaz to 2nd.",2,0,1,3,6,0.2,2.27
 655,2021-07-20,553869,623149,field_out,hit_into_play,9,Elias Diaz pops out to first baseman Ty France.,1,1,1,3,8,0.69,1.55
-656,2021-07-20,553869,623149,,ball,14,Elias Diaz pops out to first baseman Ty France.,0,1,1,2,8,1.49,1.59
-657,2021-07-20,553869,608638,,blocked_ball,14,"Rockies challenged (tag play), call on the field was upheld: Elias Diaz singles on a line drive to left fielder Shed Long Jr. Ryan McMahon out at 3rd on the throw, left fielder Shed Long Jr.  to third baseman Kyle Seager.   Elias Diaz to 2nd.",1,0,1,2,6,0.49,0.59
+656,2021-07-20,553869,608638,,blocked_ball,14,"Rockies challenged (tag play), call on the field was upheld: Elias Diaz singles on a line drive to left fielder Shed Long Jr. Ryan McMahon out at 3rd on the throw, left fielder Shed Long Jr.  to third baseman Kyle Seager.   Elias Diaz to 2nd.",1,0,1,2,6,0.49,0.59
+657,2021-07-20,553869,623149,,ball,14,Elias Diaz pops out to first baseman Ty France.,0,1,1,2,8,1.49,1.59
 658,2021-07-20,553869,623149,,swinging_strike,14,Elias Diaz pops out to first baseman Ty France.,0,0,1,1,8,1.05,1.03
 659,2021-07-20,553869,608638,,ball,5,"Rockies challenged (tag play), call on the field was upheld: Elias Diaz singles on a line drive to left fielder Shed Long Jr. Ryan McMahon out at 3rd on the throw, left fielder Shed Long Jr.  to third baseman Kyle Seager.   Elias Diaz to 2nd.",0,0,1,1,6,0.18,2.01
 660,2021-07-18,553869,456034,field_out,hit_into_play,6,"Elias Diaz grounds out, shortstop Gavin Lux to first baseman Max Muncy.",1,0,0,2,2,0.58,2.76
@@ -665,8 +665,8 @@
 663,2021-07-18,553869,523260,field_out,hit_into_play,1,"Elias Diaz grounds out softly, first baseman Max Muncy to pitcher Joe Kelly.   Ryan McMahon to 2nd.",2,0,0,3,7,-0.79,2.87
 664,2021-07-18,553869,445276,,ball,12,"Elias Diaz grounds out, first baseman Albert Pujols to pitcher Kenley Jansen.   Ryan McMahon to 3rd.",0,1,0,2,9,1.04,3.48
 665,2021-07-18,553869,523260,,ball,11,"Elias Diaz grounds out softly, first baseman Max Muncy to pitcher Joe Kelly.   Ryan McMahon to 2nd.",1,0,0,2,7,-1.73,3.18
-666,2021-07-18,553869,523260,,ball,13,"Elias Diaz grounds out softly, first baseman Max Muncy to pitcher Joe Kelly.   Ryan McMahon to 2nd.",0,0,0,1,7,-1.52,1.82
-667,2021-07-18,553869,445276,,foul,2,"Elias Diaz grounds out, first baseman Albert Pujols to pitcher Kenley Jansen.   Ryan McMahon to 3rd.",0,0,0,1,9,-0.06,3.14
+666,2021-07-18,553869,445276,,foul,2,"Elias Diaz grounds out, first baseman Albert Pujols to pitcher Kenley Jansen.   Ryan McMahon to 3rd.",0,0,0,1,9,-0.06,3.14
+667,2021-07-18,553869,523260,,ball,13,"Elias Diaz grounds out softly, first baseman Max Muncy to pitcher Joe Kelly.   Ryan McMahon to 2nd.",0,0,0,1,7,-1.52,1.82
 668,2021-07-18,553869,596082,field_out,hit_into_play,4,Elias Diaz flies out to shortstop Gavin Lux in foul territory.,2,2,0,5,5,-0.45,2.25
 669,2021-07-18,553869,596082,,called_strike,7,Elias Diaz flies out to shortstop Gavin Lux in foul territory.,2,1,0,4,5,-0.72,1.74
 670,2021-07-18,553869,596082,,called_strike,5,Elias Diaz flies out to shortstop Gavin Lux in foul territory.,2,0,0,3,5,0.08,2.61
@@ -691,8 +691,8 @@
 689,2021-07-11,553869,677960,,called_strike,12,Elias Diaz singles on a sharp line drive to center fielder Trent Grisham.,2,1,1,4,1,1.08,2.5
 690,2021-07-11,553869,657612,field_out,hit_into_play,9,"Elias Diaz grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",1,2,2,4,7,0.66,2.01
 691,2021-07-11,553869,677960,,ball,14,Elias Diaz singles on a sharp line drive to center fielder Trent Grisham.,1,1,1,3,1,1.21,1.94
-692,2021-07-11,553869,677960,,ball,13,Elias Diaz singles on a sharp line drive to center fielder Trent Grisham.,0,1,1,2,1,-1.07,1.62
-693,2021-07-11,553869,657612,,ball,11,"Elias Diaz grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",0,2,2,3,7,-1.2,3.26
+692,2021-07-11,553869,657612,,ball,11,"Elias Diaz grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",0,2,2,3,7,-1.2,3.26
+693,2021-07-11,553869,677960,,ball,13,Elias Diaz singles on a sharp line drive to center fielder Trent Grisham.,0,1,1,2,1,-1.07,1.62
 694,2021-07-11,553869,657612,,swinging_strike,5,"Elias Diaz grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",0,1,2,2,7,-0.11,2.62
 695,2021-07-11,553869,572955,field_out,hit_into_play,8,Elias Diaz flies out to left fielder Tommy Pham.,0,1,2,2,3,0.19,1.71
 696,2021-07-11,553869,677960,,called_strike,4,Elias Diaz singles on a sharp line drive to center fielder Trent Grisham.,0,0,1,1,1,-0.38,2.35
@@ -847,12 +847,12 @@
 845,2021-06-25,553869,669203,,ball,13,Elias Diaz walks.,1,1,0,3,3,-1.25,1.41
 846,2021-06-25,553869,669203,,foul,13,Elias Diaz walks.,1,0,0,2,3,-0.92,1.94
 847,2021-06-25,553869,669203,,ball,14,Elias Diaz walks.,0,0,0,1,3,0.12,0.91
-848,2021-06-25,553869,670950,single,hit_into_play,3,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,3,1,1,5,7,0.66,2.84
-849,2021-06-25,553869,664776,field_out,hit_into_play,2,"Elias Diaz grounds out sharply, shortstop Willy Adames to first baseman Keston Hiura.",0,2,1,3,9,-0.12,3.13
-850,2021-06-25,553869,664776,,called_strike,8,"Elias Diaz grounds out sharply, shortstop Willy Adames to first baseman Keston Hiura.",0,1,1,2,9,0.19,1.95
-851,2021-06-25,553869,670950,,ball,12,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,2,1,1,4,7,1.13,4.33
-852,2021-06-25,553869,664776,,called_strike,11,"Elias Diaz grounds out sharply, shortstop Willy Adames to first baseman Keston Hiura.",0,0,1,1,9,-0.96,2.5
-853,2021-06-25,553869,670950,,blocked_ball,13,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,1,1,1,3,7,-0.05,0.32
+848,2021-06-25,553869,664776,field_out,hit_into_play,2,"Elias Diaz grounds out sharply, shortstop Willy Adames to first baseman Keston Hiura.",0,2,1,3,9,-0.12,3.13
+849,2021-06-25,553869,670950,single,hit_into_play,3,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,3,1,1,5,7,0.66,2.84
+850,2021-06-25,553869,670950,,ball,12,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,2,1,1,4,7,1.13,4.33
+851,2021-06-25,553869,664776,,called_strike,8,"Elias Diaz grounds out sharply, shortstop Willy Adames to first baseman Keston Hiura.",0,1,1,2,9,0.19,1.95
+852,2021-06-25,553869,670950,,blocked_ball,13,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,1,1,1,3,7,-0.05,0.32
+853,2021-06-25,553869,664776,,called_strike,11,"Elias Diaz grounds out sharply, shortstop Willy Adames to first baseman Keston Hiura.",0,0,1,1,9,-0.96,2.5
 854,2021-06-25,553869,670950,,foul_tip,1,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,1,0,1,2,7,-0.69,3.15
 855,2021-06-25,553869,670950,,ball,14,Elias Diaz singles on a line drive to left fielder Christian Yelich.   Brendan Rodgers scores.,0,0,1,1,7,0.03,0.21
 856,2021-06-23,553869,656954,field_out,hit_into_play,4,Elias Diaz pops out to first baseman Jake Bauers.,0,0,0,1,5,-0.4,2.47
@@ -861,8 +861,8 @@
 859,2021-06-23,553869,656954,,foul,9,Elias Diaz strikes out swinging.,0,1,0,2,3,0.38,1.48
 860,2021-06-23,553869,656954,,called_strike,3,Elias Diaz strikes out swinging.,0,0,0,1,3,0.66,3.04
 861,2021-06-23,553869,502327,field_out,hit_into_play,12,Elias Diaz flies out to right fielder Mitch Haniger.,0,2,1,3,9,1.28,2.87
-862,2021-06-23,553869,664948,field_out,hit_into_play,4,Elias Diaz flies out sharply to left fielder Shed Long Jr.,0,0,1,1,7,-0.65,2.56
-863,2021-06-23,553869,502327,,swinging_strike,3,Elias Diaz flies out to right fielder Mitch Haniger.,0,1,1,2,9,0.43,3.34
+862,2021-06-23,553869,502327,,swinging_strike,3,Elias Diaz flies out to right fielder Mitch Haniger.,0,1,1,2,9,0.43,3.34
+863,2021-06-23,553869,664948,field_out,hit_into_play,4,Elias Diaz flies out sharply to left fielder Shed Long Jr.,0,0,1,1,7,-0.65,2.56
 864,2021-06-23,553869,502327,,called_strike,7,Elias Diaz flies out to right fielder Mitch Haniger.,0,0,1,1,9,-0.51,1.94
 865,2021-06-19,553869,605288,field_out,hit_into_play,4,"Elias Diaz grounds out, third baseman Daniel Robertson to first baseman Jace Peterson.",1,2,1,4,6,-0.65,2.38
 866,2021-06-19,553869,605288,,swinging_strike,14,"Elias Diaz grounds out, third baseman Daniel Robertson to first baseman Jace Peterson.",1,1,1,3,6,0.45,0.67
@@ -916,12 +916,12 @@
 914,2021-06-14,553869,677960,,ball,12,Elias Diaz pops out to shortstop Fernando Tatis Jr.,2,2,0,5,7,0.86,2.74
 915,2021-06-14,553869,677960,,ball,13,Elias Diaz pops out to shortstop Fernando Tatis Jr.,1,2,0,4,7,-1.9,0.71
 916,2021-06-14,553869,659275,force_out,hit_into_play,4,"Elias Diaz grounds into a force out, third baseman Manny Machado to second baseman Jake Cronenworth.   C.J. Cron out at 2nd.",1,2,2,4,2,-0.6,2.61
-917,2021-06-14,553869,659275,,swinging_strike,14,"Elias Diaz grounds into a force out, third baseman Manny Machado to second baseman Jake Cronenworth.   C.J. Cron out at 2nd.",1,1,2,3,2,1.02,1.9
-918,2021-06-14,553869,677960,,foul,13,Elias Diaz pops out to shortstop Fernando Tatis Jr.,1,1,0,3,7,-1.48,2.36
+917,2021-06-14,553869,677960,,foul,13,Elias Diaz pops out to shortstop Fernando Tatis Jr.,1,1,0,3,7,-1.48,2.36
+918,2021-06-14,553869,659275,,swinging_strike,14,"Elias Diaz grounds into a force out, third baseman Manny Machado to second baseman Jake Cronenworth.   C.J. Cron out at 2nd.",1,1,2,3,2,1.02,1.9
 919,2021-06-14,553869,677960,,ball,13,Elias Diaz pops out to shortstop Fernando Tatis Jr.,0,1,0,2,7,-1.71,1.9
 920,2021-06-14,553869,659275,,called_strike,2,"Elias Diaz grounds into a force out, third baseman Manny Machado to second baseman Jake Cronenworth.   C.J. Cron out at 2nd.",1,0,2,2,2,-0.14,3.02
-921,2021-06-14,553869,677960,,foul,5,Elias Diaz pops out to shortstop Fernando Tatis Jr.,0,0,0,1,7,-0.02,2.5
-922,2021-06-14,553869,659275,,ball,14,"Elias Diaz grounds into a force out, third baseman Manny Machado to second baseman Jake Cronenworth.   C.J. Cron out at 2nd.",0,0,2,1,2,0.55,1.47
+921,2021-06-14,553869,659275,,ball,14,"Elias Diaz grounds into a force out, third baseman Manny Machado to second baseman Jake Cronenworth.   C.J. Cron out at 2nd.",0,0,2,1,2,0.55,1.47
+922,2021-06-14,553869,677960,,foul,5,Elias Diaz pops out to shortstop Fernando Tatis Jr.,0,0,0,1,7,-0.02,2.5
 923,2021-06-12,553869,489119,field_out,hit_into_play,7,Elias Diaz flies out to center fielder Tyler Naquin.,1,0,1,2,7,-0.29,2.05
 924,2021-06-12,553869,489119,,ball,13,Elias Diaz flies out to center fielder Tyler Naquin.,0,0,1,1,7,-0.53,0.75
 925,2021-06-12,553869,489119,field_out,hit_into_play,2,Elias Diaz lines out to right fielder Nick Castellanos.,0,2,2,3,4,0.25,3.09
@@ -969,16 +969,16 @@
 967,2021-06-05,553869,642152,strikeout,swinging_strike,8,Elias Diaz strikes out swinging.,1,2,1,4,9,-0.26,1.48
 968,2021-06-05,553869,642152,,ball,14,Elias Diaz strikes out swinging.,0,2,1,3,9,0.8,0.46
 969,2021-06-05,553869,642152,,swinging_strike,14,Elias Diaz strikes out swinging.,0,1,1,2,9,1.02,1.17
-970,2021-06-05,553869,666200,single,hit_into_play,8,Elias Diaz singles on a sharp line drive to left fielder Chad Pinder.,2,0,1,3,7,-0.11,2.09
-971,2021-06-05,553869,642152,,foul,7,Elias Diaz strikes out swinging.,0,0,1,1,9,-0.64,1.62
+970,2021-06-05,553869,642152,,foul,7,Elias Diaz strikes out swinging.,0,0,1,1,9,-0.64,1.62
+971,2021-06-05,553869,666200,single,hit_into_play,8,Elias Diaz singles on a sharp line drive to left fielder Chad Pinder.,2,0,1,3,7,-0.11,2.09
 972,2021-06-05,553869,666200,,ball,11,Elias Diaz singles on a sharp line drive to left fielder Chad Pinder.,1,0,1,2,7,-1.17,2.81
 973,2021-06-05,553869,666200,,ball,12,Elias Diaz singles on a sharp line drive to left fielder Chad Pinder.,0,0,1,1,7,1.46,2.84
 974,2021-06-04,553869,593423,force_out,hit_into_play,4,"Elias Diaz grounds into a force out, second baseman Jed Lowrie to shortstop Elvis Andrus.   Garrett Hampson scores.    Brendan Rodgers out at 2nd.    Elias Diaz to 1st.",1,1,0,3,4,-0.43,2.3
 975,2021-06-04,553869,593423,,foul,8,"Elias Diaz grounds into a force out, second baseman Jed Lowrie to shortstop Elvis Andrus.   Garrett Hampson scores.    Brendan Rodgers out at 2nd.    Elias Diaz to 1st.",1,0,0,2,4,0.27,1.87
 976,2021-06-04,553869,593423,,ball,14,"Elias Diaz grounds into a force out, second baseman Jed Lowrie to shortstop Elvis Andrus.   Garrett Hampson scores.    Brendan Rodgers out at 2nd.    Elias Diaz to 1st.",0,0,0,1,4,1.33,1.56
 977,2021-06-04,553869,593423,field_out,hit_into_play,8,Elias Diaz lines out to center fielder Mark Canha.,0,1,2,2,2,0.02,1.75
-978,2021-06-04,553869,593423,,called_strike,5,Elias Diaz lines out to center fielder Mark Canha.,0,0,2,1,2,0.18,2.49
-979,2021-06-04,553869,433589,single,hit_into_play,6,Elias Diaz singles on a line drive to left fielder Tony Kemp.,1,0,2,2,8,0.4,2.75
+978,2021-06-04,553869,433589,single,hit_into_play,6,Elias Diaz singles on a line drive to left fielder Tony Kemp.,1,0,2,2,8,0.4,2.75
+979,2021-06-04,553869,593423,,called_strike,5,Elias Diaz lines out to center fielder Mark Canha.,0,0,2,1,2,0.18,2.49
 980,2021-06-04,553869,433589,,ball,14,Elias Diaz singles on a line drive to left fielder Tony Kemp.,0,0,2,1,8,1.08,1.18
 981,2021-06-04,553869,572143,field_out,hit_into_play,4,Elias Diaz flies out to right fielder Seth Brown.,1,1,2,3,6,-0.76,2.83
 982,2021-06-04,553869,572143,,called_strike,3,Elias Diaz flies out to right fielder Seth Brown.,1,0,2,2,6,0.3,2.83
@@ -1069,10 +1069,10 @@
 1067,2021-05-15,553869,641816,,foul,4,"Elias Diaz grounds out, pitcher Tyler Mahle to first baseman Alex Blandino.",0,0,1,1,4,-0.45,2.67
 1068,2021-05-15,553869,641816,single,hit_into_play,6,Elias Diaz singles on a line drive to center fielder Tyler Naquin.   Yonathan Daza to 2nd.,0,2,1,3,2,0.76,2.48
 1069,2021-05-15,553869,608371,strikeout,swinging_strike,12,Elias Diaz strikes out swinging.,2,2,2,5,11,0.93,2.67
-1070,2021-05-15,553869,608371,,ball,14,Elias Diaz strikes out swinging.,1,2,2,4,11,2.71,2.0
-1071,2021-05-15,553869,641816,,foul,14,Elias Diaz singles on a line drive to center fielder Tyler Naquin.   Yonathan Daza to 2nd.,0,1,1,2,2,1.01,2.09
-1072,2021-05-15,553869,641816,,called_strike,6,Elias Diaz singles on a line drive to center fielder Tyler Naquin.   Yonathan Daza to 2nd.,0,0,1,1,2,0.62,2.15
-1073,2021-05-15,553869,608371,,swinging_strike,14,Elias Diaz strikes out swinging.,1,1,2,3,11,0.7,0.81
+1070,2021-05-15,553869,641816,,foul,14,Elias Diaz singles on a line drive to center fielder Tyler Naquin.   Yonathan Daza to 2nd.,0,1,1,2,2,1.01,2.09
+1071,2021-05-15,553869,608371,,ball,14,Elias Diaz strikes out swinging.,1,2,2,4,11,2.71,2.0
+1072,2021-05-15,553869,608371,,swinging_strike,14,Elias Diaz strikes out swinging.,1,1,2,3,11,0.7,0.81
+1073,2021-05-15,553869,641816,,called_strike,6,Elias Diaz singles on a line drive to center fielder Tyler Naquin.   Yonathan Daza to 2nd.,0,0,1,1,2,0.62,2.15
 1074,2021-05-15,553869,608371,,foul,6,Elias Diaz strikes out swinging.,1,0,2,2,11,0.41,2.51
 1075,2021-05-15,553869,608371,,ball,14,Elias Diaz strikes out swinging.,0,0,2,1,11,1.29,1.08
 1076,2021-05-15,553869,608371,field_out,hit_into_play,14,"Elias Diaz grounds out, second baseman Jonathan India to first baseman Alex Blandino.   Garrett Hampson to 3rd.",1,2,0,5,10,1.5,1.91
@@ -1099,14 +1099,14 @@
 1097,2021-05-12,553869,605483,force_out,hit_into_play,5,"Elias Diaz grounds into a force out, shortstop Ha-Seong Kim to second baseman Tucupita Marcano.   Yonathan Daza out at 2nd.",0,0,2,1,3,0.06,2.15
 1098,2021-05-12,553869,605483,strikeout,swinging_strike_blocked,13,Elias Diaz strikes out swinging.,2,2,0,6,2,-0.93,0.14
 1099,2021-05-12,553869,605483,,ball,14,Elias Diaz strikes out swinging.,1,2,0,5,2,1.13,1.39
-1100,2021-05-12,553869,605483,,foul,13,Elias Diaz strikes out swinging.,1,2,0,4,2,-1.16,1.3
-1101,2021-05-12,553869,453343,field_out,hit_into_play,1,Elias Diaz pops out to second baseman Austin Nola.,3,2,2,10,7,-0.4,2.92
-1102,2021-05-12,553869,605483,,ball,13,Elias Diaz strikes out swinging.,0,2,0,3,2,-0.84,0.93
-1103,2021-05-12,553869,453343,,foul,11,Elias Diaz pops out to second baseman Austin Nola.,3,2,2,9,7,-0.02,3.6
+1100,2021-05-12,553869,453343,field_out,hit_into_play,1,Elias Diaz pops out to second baseman Austin Nola.,3,2,2,10,7,-0.4,2.92
+1101,2021-05-12,553869,605483,,foul,13,Elias Diaz strikes out swinging.,1,2,0,4,2,-1.16,1.3
+1102,2021-05-12,553869,453343,,foul,11,Elias Diaz pops out to second baseman Austin Nola.,3,2,2,9,7,-0.02,3.6
+1103,2021-05-12,553869,605483,,ball,13,Elias Diaz strikes out swinging.,0,2,0,3,2,-0.84,0.93
 1104,2021-05-12,553869,605483,,swinging_strike,13,Elias Diaz strikes out swinging.,0,1,0,2,2,-0.88,1.46
 1105,2021-05-12,553869,453343,,foul,5,Elias Diaz pops out to second baseman Austin Nola.,3,2,2,8,7,-0.13,2.78
-1106,2021-05-12,553869,453343,,foul,5,Elias Diaz pops out to second baseman Austin Nola.,3,2,2,7,7,0.11,2.5
-1107,2021-05-12,553869,605483,,foul,5,Elias Diaz strikes out swinging.,0,0,0,1,2,0.27,2.68
+1106,2021-05-12,553869,605483,,foul,5,Elias Diaz strikes out swinging.,0,0,0,1,2,0.27,2.68
+1107,2021-05-12,553869,453343,,foul,5,Elias Diaz pops out to second baseman Austin Nola.,3,2,2,7,7,0.11,2.5
 1108,2021-05-12,553869,453343,,ball,14,Elias Diaz pops out to second baseman Austin Nola.,2,2,2,6,7,0.87,2.5
 1109,2021-05-12,553869,453343,,ball,11,Elias Diaz pops out to second baseman Austin Nola.,1,2,2,5,7,-0.6,4.29
 1110,2021-05-12,553869,453343,,ball,12,Elias Diaz pops out to second baseman Austin Nola.,0,2,2,4,7,1.15,3.33
@@ -1266,10 +1266,10 @@
 1264,2021-04-06,553869,606965,field_out,hit_into_play,9,"Elias Diaz grounds out, second baseman Eduardo Escobar to first baseman Christian Walker.",1,0,2,2,9,0.68,1.93
 1265,2021-04-06,553869,606965,,ball,14,"Elias Diaz grounds out, second baseman Eduardo Escobar to first baseman Christian Walker.",0,0,2,1,9,1.89,2.2
 1266,2021-04-06,553869,592233,double_play,hit_into_play,9,"Elias Diaz pops into a double play in foul territory, first baseman Christian Walker to pitcher Stefan Crichton.   Sam Hilliard out at 1st.",1,2,1,5,7,0.65,2.01
-1267,2021-04-06,553869,592233,,pitchout,12,"Elias Diaz pops into a double play in foul territory, first baseman Christian Walker to pitcher Stefan Crichton.   Sam Hilliard out at 1st.",0,2,1,4,7,1.72,4.43
-1268,2021-04-06,553869,676840,fielders_choice_out,hit_into_play,4,"Elias Diaz reaches on a fielder's choice out, pitcher Matt Peacock to catcher Stephen Vogt to third baseman Asdrubal Cabrera.   Charlie Blackmon out at home.    Sam Hilliard to 3rd.",2,0,1,3,11,-0.66,2.21
-1269,2021-04-06,553869,592233,,foul,12,"Elias Diaz pops into a double play in foul territory, first baseman Christian Walker to pitcher Stefan Crichton.   Sam Hilliard out at 1st.",0,2,1,3,7,0.89,2.68
-1270,2021-04-06,553869,676840,,ball,14,"Elias Diaz reaches on a fielder's choice out, pitcher Matt Peacock to catcher Stephen Vogt to third baseman Asdrubal Cabrera.   Charlie Blackmon out at home.    Sam Hilliard to 3rd.",1,0,1,2,11,0.28,1.12
+1267,2021-04-06,553869,676840,fielders_choice_out,hit_into_play,4,"Elias Diaz reaches on a fielder's choice out, pitcher Matt Peacock to catcher Stephen Vogt to third baseman Asdrubal Cabrera.   Charlie Blackmon out at home.    Sam Hilliard to 3rd.",2,0,1,3,11,-0.66,2.21
+1268,2021-04-06,553869,592233,,pitchout,12,"Elias Diaz pops into a double play in foul territory, first baseman Christian Walker to pitcher Stefan Crichton.   Sam Hilliard out at 1st.",0,2,1,4,7,1.72,4.43
+1269,2021-04-06,553869,676840,,ball,14,"Elias Diaz reaches on a fielder's choice out, pitcher Matt Peacock to catcher Stephen Vogt to third baseman Asdrubal Cabrera.   Charlie Blackmon out at home.    Sam Hilliard to 3rd.",1,0,1,2,11,0.28,1.12
+1270,2021-04-06,553869,592233,,foul,12,"Elias Diaz pops into a double play in foul territory, first baseman Christian Walker to pitcher Stefan Crichton.   Sam Hilliard out at 1st.",0,2,1,3,7,0.89,2.68
 1271,2021-04-06,553869,592233,,foul,13,"Elias Diaz pops into a double play in foul territory, first baseman Christian Walker to pitcher Stefan Crichton.   Sam Hilliard out at 1st.",0,1,1,2,7,-1.13,1.98
 1272,2021-04-06,553869,676840,,ball,11,"Elias Diaz reaches on a fielder's choice out, pitcher Matt Peacock to catcher Stephen Vogt to third baseman Asdrubal Cabrera.   Charlie Blackmon out at home.    Sam Hilliard to 3rd.",0,0,1,1,11,-0.67,3.61
 1273,2021-04-06,553869,592233,,called_strike,4,"Elias Diaz pops into a double play in foul territory, first baseman Christian Walker to pitcher Stefan Crichton.   Sam Hilliard out at 1st.",0,0,1,1,7,-0.36,2.83
@@ -1299,10 +1299,10 @@
 1297,2021-04-01,553869,519076,,foul,5,Elias Diaz strikes out swinging.,1,2,1,6,7,-0.03,2.47
 1298,2021-04-01,553869,519076,,foul,5,Elias Diaz strikes out swinging.,1,2,1,5,7,-0.08,2.38
 1299,2021-04-01,553869,477132,strikeout,swinging_strike,13,Elias Diaz strikes out swinging.,1,2,2,4,2,-0.6,0.54
-1300,2021-04-01,553869,519076,,ball,14,Elias Diaz strikes out swinging.,0,2,1,4,7,1.49,1.25
-1301,2021-04-01,553869,477132,,called_strike,5,Elias Diaz strikes out swinging.,1,1,2,3,2,-0.1,2.34
-1302,2021-04-01,553869,477132,,foul,7,Elias Diaz strikes out swinging.,1,0,2,2,2,-0.65,2.11
-1303,2021-04-01,553869,519076,,foul,4,Elias Diaz strikes out swinging.,0,2,1,3,7,-0.38,2.65
+1300,2021-04-01,553869,477132,,called_strike,5,Elias Diaz strikes out swinging.,1,1,2,3,2,-0.1,2.34
+1301,2021-04-01,553869,519076,,ball,14,Elias Diaz strikes out swinging.,0,2,1,4,7,1.49,1.25
+1302,2021-04-01,553869,519076,,foul,4,Elias Diaz strikes out swinging.,0,2,1,3,7,-0.38,2.65
+1303,2021-04-01,553869,477132,,foul,7,Elias Diaz strikes out swinging.,1,0,2,2,2,-0.65,2.11
 1304,2021-04-01,553869,477132,,ball,13,Elias Diaz strikes out swinging.,0,0,2,1,2,-0.41,0.84
 1305,2021-04-01,553869,519076,,swinging_strike,14,Elias Diaz strikes out swinging.,0,1,1,2,7,0.86,2.18
 1306,2021-04-01,553869,519076,,swinging_strike,9,Elias Diaz strikes out swinging.,0,0,1,1,7,0.39,1.8

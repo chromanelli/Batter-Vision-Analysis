@@ -9,5 +9,6 @@ VISION REPORT: adam_duvall (2021-04-01 thru 2021-10-04)
      adam_duvall saw 1050 strikes and 1108 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3475
+VISION SCORE METRIC B (VSA - SO%): 0.0340
 Average PA Length: 3.8739 (2150/555)
 Batting Avg: 0.228

@@ -9,5 +9,6 @@ VISION REPORT: elias_diaz (2021-04-01 thru 2021-10-04)
      elias_diaz saw 649 strikes and 658 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4920
+VISION SCORE METRIC B (VSA - SO%): 0.3302
 Average PA Length: 3.5067 (1301/371)
 Batting Avg: 0.246

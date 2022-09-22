@@ -68,12 +68,12 @@
 66,2021-09-28,644374,429722,field_out,hit_into_play,14,Yu Chang lines out to center fielder Michael A.   Taylor.,2,2,0,5,2,1.05,2.18
 67,2021-09-28,644374,429722,,ball,14,Yu Chang lines out to center fielder Michael A.   Taylor.,1,2,0,4,2,1.04,-0.3
 68,2021-09-28,644374,642100,field_out,hit_into_play,5,Yu Chang flies out to right fielder Kyle Isbel.,1,1,1,3,6,-0.05,2.68
-69,2021-09-28,644374,642100,,ball,13,Yu Chang flies out to right fielder Kyle Isbel.,0,1,1,2,6,-0.71,1.41
-70,2021-09-28,644374,429722,,ball,11,Yu Chang lines out to center fielder Michael A.   Taylor.,0,2,0,3,2,-0.59,6.51
-71,2021-09-28,644374,642100,,called_strike,2,Yu Chang flies out to right fielder Kyle Isbel.,0,0,1,1,6,-0.04,3.08
-72,2021-09-28,644374,429722,,foul,12,Yu Chang lines out to center fielder Michael A.   Taylor.,0,1,0,2,2,0.98,3.14
-73,2021-09-28,644374,429722,,called_strike,6,Yu Chang lines out to center fielder Michael A.   Taylor.,0,0,0,1,2,0.34,2.48
-74,2021-09-28,644374,641394,double,hit_into_play,6,Yu Chang doubles (13) on a sharp line drive to center fielder Michael A.   Taylor.   Oscar Mercado scores.,0,1,1,2,8,0.73,2.43
+69,2021-09-28,644374,429722,,ball,11,Yu Chang lines out to center fielder Michael A.   Taylor.,0,2,0,3,2,-0.59,6.51
+70,2021-09-28,644374,642100,,ball,13,Yu Chang flies out to right fielder Kyle Isbel.,0,1,1,2,6,-0.71,1.41
+71,2021-09-28,644374,429722,,foul,12,Yu Chang lines out to center fielder Michael A.   Taylor.,0,1,0,2,2,0.98,3.14
+72,2021-09-28,644374,642100,,called_strike,2,Yu Chang flies out to right fielder Kyle Isbel.,0,0,1,1,6,-0.04,3.08
+73,2021-09-28,644374,641394,double,hit_into_play,6,Yu Chang doubles (13) on a sharp line drive to center fielder Michael A.   Taylor.   Oscar Mercado scores.,0,1,1,2,8,0.73,2.43
+74,2021-09-28,644374,429722,,called_strike,6,Yu Chang lines out to center fielder Michael A.   Taylor.,0,0,0,1,2,0.34,2.48
 75,2021-09-28,644374,641394,,swinging_strike,3,Yu Chang doubles (13) on a sharp line drive to center fielder Michael A.   Taylor.   Oscar Mercado scores.,0,0,1,1,8,0.43,3.37
 76,2021-09-26,644374,608337,walk,ball,11,Yu Chang walks.   Jose Ramirez to 2nd.,3,1,2,5,6,-0.72,3.5
 77,2021-09-26,644374,608337,,ball,14,Yu Chang walks.   Jose Ramirez to 2nd.,2,1,2,4,6,1.03,1.15
@@ -104,19 +104,19 @@
 102,2021-09-23,644374,656629,,ball,12,Yu Chang called out on strikes.,1,2,2,4,2,0.22,3.99
 103,2021-09-23,644374,518886,,foul,5,"Yu Chang grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",2,2,2,6,6,0.25,2.67
 104,2021-09-23,644374,656629,,swinging_strike,12,Yu Chang called out on strikes.,1,1,2,3,2,0.6,3.72
-105,2021-09-23,644374,518886,,ball,11,"Yu Chang grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",1,2,2,5,6,-0.65,3.9
-106,2021-09-23,644374,625643,field_out,hit_into_play,5,"Yu Chang grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",0,1,1,2,2,0.04,2.67
-107,2021-09-23,644374,656629,,swinging_strike,12,Yu Chang called out on strikes.,1,0,2,2,2,0.23,3.6
+105,2021-09-23,644374,625643,field_out,hit_into_play,5,"Yu Chang grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",0,1,1,2,2,0.04,2.67
+106,2021-09-23,644374,518886,,ball,11,"Yu Chang grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",1,2,2,5,6,-0.65,3.9
+107,2021-09-23,644374,625643,,swinging_strike,9,"Yu Chang grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",0,0,1,1,2,0.46,2.05
 108,2021-09-23,644374,518886,,foul,3,"Yu Chang grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",1,2,2,4,6,0.63,2.97
-109,2021-09-23,644374,625643,,swinging_strike,9,"Yu Chang grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",0,0,1,1,2,0.46,2.05
+109,2021-09-23,644374,656629,,swinging_strike,12,Yu Chang called out on strikes.,1,0,2,2,2,0.23,3.6
 110,2021-09-23,644374,656629,,ball,12,Yu Chang called out on strikes.,0,0,2,1,2,1.15,3.07
 111,2021-09-23,644374,518886,,foul,6,"Yu Chang grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",1,1,2,3,6,0.68,2.47
 112,2021-09-23,644374,518886,,ball,14,"Yu Chang grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",0,1,2,2,6,0.98,1.3
 113,2021-09-23,644374,518886,,called_strike,7,"Yu Chang grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",0,0,2,1,6,-0.73,1.95
 114,2021-09-23,644374,676979,single,hit_into_play,6,Yu Chang singles on a sharp ground ball to left fielder Eloy Jimenez.,2,1,1,4,4,0.49,2.65
 115,2021-09-23,644374,676979,,ball,13,Yu Chang singles on a sharp ground ball to left fielder Eloy Jimenez.,1,1,1,3,4,-0.89,0.89
-116,2021-09-23,644374,614179,single,hit_into_play,5,Yu Chang singles on a line drive to left fielder Adam Engel.   Bradley Zimmer to 3rd.    Bobby Bradley to 2nd.,1,0,1,2,6,0.02,2.53
-117,2021-09-23,644374,676979,,ball,13,Yu Chang singles on a sharp ground ball to left fielder Eloy Jimenez.,0,1,1,2,4,-0.73,1.06
+116,2021-09-23,644374,676979,,ball,13,Yu Chang singles on a sharp ground ball to left fielder Eloy Jimenez.,0,1,1,2,4,-0.73,1.06
+117,2021-09-23,644374,614179,single,hit_into_play,5,Yu Chang singles on a line drive to left fielder Adam Engel.   Bradley Zimmer to 3rd.    Bobby Bradley to 2nd.,1,0,1,2,6,0.02,2.53
 118,2021-09-23,644374,614179,,ball,14,Yu Chang singles on a line drive to left fielder Adam Engel.   Bradley Zimmer to 3rd.    Bobby Bradley to 2nd.,0,0,1,1,6,1.02,0.98
 119,2021-09-23,644374,676979,,called_strike,7,Yu Chang singles on a sharp ground ball to left fielder Eloy Jimenez.,0,0,1,1,4,-0.57,1.78
 120,2021-09-21,644374,663738,hit_by_pitch,hit_by_pitch,13,Yu Chang hit by pitch.,0,0,2,1,6,-2.73,1.97
@@ -129,10 +129,10 @@
 127,2021-09-21,644374,663738,triple,hit_into_play,9,Yu Chang triples (3) on a sharp line drive to left fielder Andrew Benintendi.   Myles Straw scores.    Oscar Mercado scores.    Jose Ramirez scores.,0,0,1,1,1,0.51,2.02
 128,2021-09-21,644374,518813,field_out,hit_into_play,6,Yu Chang grounds out to first baseman Carlos Santana.,0,0,2,1,8,0.82,2.43
 129,2021-09-20,644374,606303,strikeout,swinging_strike,14,Yu Chang strikes out swinging.,1,2,1,4,2,0.99,1.24
-130,2021-09-20,644374,606303,,ball,14,Yu Chang strikes out swinging.,0,2,1,3,2,1.46,1.15
-131,2021-09-20,644374,605130,strikeout,swinging_strike,5,Yu Chang strikes out swinging.,3,2,2,7,7,0.23,2.71
-132,2021-09-20,644374,606303,,foul,2,Yu Chang strikes out swinging.,0,1,1,2,2,-0.12,2.92
-133,2021-09-20,644374,605130,,foul,1,Yu Chang strikes out swinging.,3,2,2,6,7,-0.28,3.46
+130,2021-09-20,644374,605130,strikeout,swinging_strike,5,Yu Chang strikes out swinging.,3,2,2,7,7,0.23,2.71
+131,2021-09-20,644374,606303,,ball,14,Yu Chang strikes out swinging.,0,2,1,3,2,1.46,1.15
+132,2021-09-20,644374,605130,,foul,1,Yu Chang strikes out swinging.,3,2,2,6,7,-0.28,3.46
+133,2021-09-20,644374,606303,,foul,2,Yu Chang strikes out swinging.,0,1,1,2,2,-0.12,2.92
 134,2021-09-20,644374,606303,,swinging_strike,14,Yu Chang strikes out swinging.,0,0,1,1,2,1.0,1.84
 135,2021-09-20,644374,605130,,ball,14,Yu Chang strikes out swinging.,2,2,2,5,7,2.75,1.24
 136,2021-09-20,644374,605130,,ball,14,Yu Chang strikes out swinging.,1,2,2,4,7,0.34,0.27
@@ -301,12 +301,12 @@
 299,2021-09-02,644374,606303,,foul,4,"Yu Chang grounds out softly, pitcher Joel Payamps to first baseman Hunter Dozier.   Harold Ramirez to 2nd.",0,0,1,1,6,-0.58,2.52
 300,2021-09-01,644374,429722,double,hit_into_play,8,"Yu Chang doubles (11) on a line drive to left fielder Andrew Benintendi.   Bobby Bradley scores.  Austin Hedges out at home on the throw, left fielder Andrew Benintendi to shortstop Nicky Lopez to catcher Salvador Perez.",1,2,2,5,11,-0.09,2.03
 301,2021-09-01,644374,429722,,foul,3,"Yu Chang doubles (11) on a line drive to left fielder Andrew Benintendi.   Bobby Bradley scores.  Austin Hedges out at home on the throw, left fielder Andrew Benintendi to shortstop Nicky Lopez to catcher Salvador Perez.",1,2,2,4,11,0.41,3.08
-302,2021-09-01,644374,641394,home_run,hit_into_play,8,Yu Chang homers (7) on a fly ball to left field.,1,2,2,5,7,0.05,2.09
-303,2021-09-01,644374,429722,,foul,5,"Yu Chang doubles (11) on a line drive to left fielder Andrew Benintendi.   Bobby Bradley scores.  Austin Hedges out at home on the throw, left fielder Andrew Benintendi to shortstop Nicky Lopez to catcher Salvador Perez.",1,1,2,3,11,-0.21,2.17
+302,2021-09-01,644374,429722,,foul,5,"Yu Chang doubles (11) on a line drive to left fielder Andrew Benintendi.   Bobby Bradley scores.  Austin Hedges out at home on the throw, left fielder Andrew Benintendi to shortstop Nicky Lopez to catcher Salvador Perez.",1,1,2,3,11,-0.21,2.17
+303,2021-09-01,644374,641394,home_run,hit_into_play,8,Yu Chang homers (7) on a fly ball to left field.,1,2,2,5,7,0.05,2.09
 304,2021-09-01,644374,429722,,ball,11,"Yu Chang doubles (11) on a line drive to left fielder Andrew Benintendi.   Bobby Bradley scores.  Austin Hedges out at home on the throw, left fielder Andrew Benintendi to shortstop Nicky Lopez to catcher Salvador Perez.",0,1,2,2,11,-0.81,3.76
 305,2021-09-01,644374,641394,,foul,8,Yu Chang homers (7) on a fly ball to left field.,1,2,2,4,7,-0.15,1.47
-306,2021-09-01,644374,641394,,swinging_strike,13,Yu Chang homers (7) on a fly ball to left field.,1,1,2,3,7,-1.23,1.52
-307,2021-09-01,644374,429722,,called_strike,11,"Yu Chang doubles (11) on a line drive to left fielder Andrew Benintendi.   Bobby Bradley scores.  Austin Hedges out at home on the throw, left fielder Andrew Benintendi to shortstop Nicky Lopez to catcher Salvador Perez.",0,0,2,1,11,-0.15,3.67
+306,2021-09-01,644374,429722,,called_strike,11,"Yu Chang doubles (11) on a line drive to left fielder Andrew Benintendi.   Bobby Bradley scores.  Austin Hedges out at home on the throw, left fielder Andrew Benintendi to shortstop Nicky Lopez to catcher Salvador Perez.",0,0,2,1,11,-0.15,3.67
+307,2021-09-01,644374,641394,,swinging_strike,13,Yu Chang homers (7) on a fly ball to left field.,1,1,2,3,7,-1.23,1.52
 308,2021-09-01,644374,641394,,called_strike,7,Yu Chang homers (7) on a fly ball to left field.,1,0,2,2,7,-0.77,1.75
 309,2021-09-01,644374,641394,,ball,13,Yu Chang homers (7) on a fly ball to left field.,0,0,2,1,7,-1.26,2.08
 310,2021-09-01,644374,593619,field_out,hit_into_play,11,Yu Chang pops out to second baseman Whit Merrifield.,0,0,0,1,10,-0.87,3.02
@@ -364,12 +364,12 @@
 362,2021-08-20,644374,448855,,foul,5,Yu Chang called out on strikes.,2,0,0,3,6,-0.03,2.8
 363,2021-08-20,644374,448855,,ball,14,Yu Chang called out on strikes.,1,0,0,2,6,1.84,-0.1
 364,2021-08-20,644374,448855,,ball,12,Yu Chang called out on strikes.,0,0,0,1,6,0.17,3.55
-365,2021-08-18,644374,573668,field_out,hit_into_play,9,"Yu Chang grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.   Oscar Mercado to 3rd.",2,0,1,3,5,0.53,1.47
-366,2021-08-18,644374,658305,field_out,hit_into_play,14,"Yu Chang grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",2,1,2,4,3,0.81,1.27
-367,2021-08-18,644374,658305,,blocked_ball,14,"Yu Chang grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",1,1,2,3,3,0.6,0.37
-368,2021-08-18,644374,573668,,ball,13,"Yu Chang grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.   Oscar Mercado to 3rd.",1,0,1,2,5,-1.8,2.34
-369,2021-08-18,644374,658305,,ball,11,"Yu Chang grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,1,2,2,3,-0.92,2.68
-370,2021-08-18,644374,573668,,ball,14,"Yu Chang grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.   Oscar Mercado to 3rd.",0,0,1,1,5,0.11,1.01
+365,2021-08-18,644374,658305,field_out,hit_into_play,14,"Yu Chang grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",2,1,2,4,3,0.81,1.27
+366,2021-08-18,644374,573668,field_out,hit_into_play,9,"Yu Chang grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.   Oscar Mercado to 3rd.",2,0,1,3,5,0.53,1.47
+367,2021-08-18,644374,573668,,ball,13,"Yu Chang grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.   Oscar Mercado to 3rd.",1,0,1,2,5,-1.8,2.34
+368,2021-08-18,644374,658305,,blocked_ball,14,"Yu Chang grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",1,1,2,3,3,0.6,0.37
+369,2021-08-18,644374,573668,,ball,14,"Yu Chang grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.   Oscar Mercado to 3rd.",0,0,1,1,5,0.11,1.01
+370,2021-08-18,644374,658305,,ball,11,"Yu Chang grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,1,2,2,3,-0.92,2.68
 371,2021-08-18,644374,658305,,called_strike,13,"Yu Chang grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,2,1,3,-0.54,1.21
 372,2021-08-18,644374,626929,walk,ball,12,Yu Chang walks.,3,2,1,6,2,1.46,4.31
 373,2021-08-18,644374,626929,,ball,12,Yu Chang walks.,2,2,1,5,2,1.69,2.8
@@ -500,8 +500,8 @@
 498,2021-07-21,644374,592773,strikeout,swinging_strike,11,Yu Chang strikes out swinging.,1,2,1,4,8,-0.07,4.08
 499,2021-07-21,644374,592773,,swinging_strike,12,Yu Chang strikes out swinging.,1,1,1,3,8,0.33,3.76
 500,2021-07-21,644374,592773,,swinging_strike,2,Yu Chang strikes out swinging.,1,0,1,2,8,0.08,3.46
-501,2021-07-21,644374,592773,,ball,11,Yu Chang strikes out swinging.,0,0,1,1,8,-0.91,4.28
-502,2021-07-21,644374,650556,strikeout,swinging_strike,14,Yu Chang strikes out swinging.,1,2,1,6,6,1.45,1.76
+501,2021-07-21,644374,650556,strikeout,swinging_strike,14,Yu Chang strikes out swinging.,1,2,1,6,6,1.45,1.76
+502,2021-07-21,644374,592773,,ball,11,Yu Chang strikes out swinging.,0,0,1,1,8,-0.91,4.28
 503,2021-07-21,644374,650556,,ball,14,Yu Chang strikes out swinging.,0,2,1,5,6,1.29,1.37
 504,2021-07-21,644374,650556,,foul,14,Yu Chang strikes out swinging.,0,2,1,4,6,0.84,1.35
 505,2021-07-21,644374,650556,,foul,8,Yu Chang strikes out swinging.,0,2,1,3,6,0.2,1.91
@@ -625,8 +625,8 @@
 623,2021-06-05,644374,592644,strikeout,swinging_strike,12,Yu Chang strikes out swinging.,2,2,0,5,2,0.56,3.73
 624,2021-06-05,644374,592644,,ball,14,Yu Chang strikes out swinging.,1,2,0,4,2,1.47,1.24
 625,2021-06-05,644374,592644,,foul,12,Yu Chang strikes out swinging.,1,1,0,3,2,0.63,3.78
-626,2021-06-05,644374,491624,field_out,hit_into_play,14,Yu Chang pops out to second baseman Stevie Wilkerson.,2,2,2,5,5,0.2,1.14
-627,2021-06-05,644374,592644,,foul,6,Yu Chang strikes out swinging.,1,0,0,2,2,0.31,2.16
+626,2021-06-05,644374,592644,,foul,6,Yu Chang strikes out swinging.,1,0,0,2,2,0.31,2.16
+627,2021-06-05,644374,491624,field_out,hit_into_play,14,Yu Chang pops out to second baseman Stevie Wilkerson.,2,2,2,5,5,0.2,1.14
 628,2021-06-05,644374,491624,,foul,14,Yu Chang pops out to second baseman Stevie Wilkerson.,2,1,2,4,5,1.13,1.97
 629,2021-06-05,644374,592644,,ball,12,Yu Chang strikes out swinging.,0,0,0,1,2,0.47,4.0
 630,2021-06-05,644374,491624,,called_strike,11,Yu Chang pops out to second baseman Stevie Wilkerson.,2,0,2,3,5,-0.91,2.5
@@ -826,10 +826,10 @@
 824,2021-04-23,644374,656756,,called_strike,1,Yu Chang strikes out swinging.,0,1,0,2,2,-0.81,3.15
 825,2021-04-23,644374,656756,,called_strike,4,Yu Chang strikes out swinging.,0,0,0,1,2,-0.69,2.67
 826,2021-04-23,644374,476595,field_out,hit_into_play,5,"Yu Chang grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",1,1,2,3,6,0.05,2.57
-827,2021-04-23,644374,547973,field_out,hit_into_play,11,Yu Chang pops out to catcher Gary Sanchez.,3,2,2,8,9,-1.0,2.61
-828,2021-04-23,644374,476595,,ball,11,"Yu Chang grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",0,1,2,2,6,-1.54,2.69
-829,2021-04-23,644374,476595,,called_strike,13,"Yu Chang grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",0,0,2,1,6,-1.05,1.98
-830,2021-04-23,644374,547973,,foul,1,Yu Chang pops out to catcher Gary Sanchez.,3,2,2,7,9,-0.47,3.14
+827,2021-04-23,644374,476595,,ball,11,"Yu Chang grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",0,1,2,2,6,-1.54,2.69
+828,2021-04-23,644374,547973,field_out,hit_into_play,11,Yu Chang pops out to catcher Gary Sanchez.,3,2,2,8,9,-1.0,2.61
+829,2021-04-23,644374,547973,,foul,1,Yu Chang pops out to catcher Gary Sanchez.,3,2,2,7,9,-0.47,3.14
+830,2021-04-23,644374,476595,,called_strike,13,"Yu Chang grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",0,0,2,1,6,-1.05,1.98
 831,2021-04-23,644374,547973,,foul,1,Yu Chang pops out to catcher Gary Sanchez.,3,2,2,6,9,-0.39,2.84
 832,2021-04-23,644374,547973,,called_strike,7,Yu Chang pops out to catcher Gary Sanchez.,3,1,2,5,9,-0.68,1.93
 833,2021-04-23,644374,547973,,called_strike,8,Yu Chang pops out to catcher Gary Sanchez.,3,0,2,4,9,0.18,1.97
@@ -863,12 +863,12 @@
 861,2021-04-16,644374,672335,strikeout,swinging_strike,12,Yu Chang strikes out swinging.,3,2,0,6,7,0.02,3.57
 862,2021-04-16,644374,592135,field_out,hit_into_play,3,"Yu Chang grounds out, pitcher Cam Bedrosian to first baseman Kyle Farmer.",1,2,0,4,9,0.43,3.15
 863,2021-04-16,644374,672335,,foul,7,Yu Chang strikes out swinging.,3,1,0,5,7,-0.57,1.48
-864,2021-04-16,644374,592135,,foul,8,"Yu Chang grounds out, pitcher Cam Bedrosian to first baseman Kyle Farmer.",1,1,0,3,9,0.25,1.7
-865,2021-04-16,644374,672335,,ball,14,Yu Chang strikes out swinging.,2,1,0,4,7,0.14,0.83
-866,2021-04-16,644374,592135,,ball,14,"Yu Chang grounds out, pitcher Cam Bedrosian to first baseman Kyle Farmer.",0,1,0,2,9,1.07,1.69
-867,2021-04-16,644374,672335,,ball,13,Yu Chang strikes out swinging.,1,1,0,3,7,-1.52,1.31
-868,2021-04-16,644374,592135,,called_strike,9,"Yu Chang grounds out, pitcher Cam Bedrosian to first baseman Kyle Farmer.",0,0,0,1,9,0.3,1.96
-869,2021-04-16,644374,672335,,ball,12,Yu Chang strikes out swinging.,0,1,0,2,7,0.85,4.04
+864,2021-04-16,644374,672335,,ball,14,Yu Chang strikes out swinging.,2,1,0,4,7,0.14,0.83
+865,2021-04-16,644374,592135,,foul,8,"Yu Chang grounds out, pitcher Cam Bedrosian to first baseman Kyle Farmer.",1,1,0,3,9,0.25,1.7
+866,2021-04-16,644374,672335,,ball,13,Yu Chang strikes out swinging.,1,1,0,3,7,-1.52,1.31
+867,2021-04-16,644374,592135,,ball,14,"Yu Chang grounds out, pitcher Cam Bedrosian to first baseman Kyle Farmer.",0,1,0,2,9,1.07,1.69
+868,2021-04-16,644374,672335,,ball,12,Yu Chang strikes out swinging.,0,1,0,2,7,0.85,4.04
+869,2021-04-16,644374,592135,,called_strike,9,"Yu Chang grounds out, pitcher Cam Bedrosian to first baseman Kyle Farmer.",0,0,0,1,9,0.3,1.96
 870,2021-04-16,644374,672335,,called_strike,8,Yu Chang strikes out swinging.,0,0,0,1,7,-0.15,1.62
 871,2021-04-14,644374,607074,strikeout,called_strike,13,Yu Chang called out on strikes.,1,2,1,4,9,-1.09,2.21
 872,2021-04-14,644374,607074,,foul,2,Yu Chang called out on strikes.,1,1,1,3,9,0.26,3.17

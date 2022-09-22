@@ -9,5 +9,6 @@ VISION REPORT: freddie_freeman (2021-04-01 thru 2021-10-04)
      freddie_freeman saw 1322 strikes and 1366 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5134
+VISION SCORE METRIC B (VSA - SO%): 0.3594
 Average PA Length: 3.8633 (2685/695)
 Batting Avg: 0.300

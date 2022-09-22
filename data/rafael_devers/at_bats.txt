@@ -9,5 +9,6 @@ VISION REPORT: rafael_devers (2021-04-01 thru 2021-10-04)
      rafael_devers saw 1174 strikes and 1328 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4524
+VISION SCORE METRIC B (VSA - SO%): 0.2371
 Average PA Length: 3.7636 (2499/664)
 Batting Avg: 0.279

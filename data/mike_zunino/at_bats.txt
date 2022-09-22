@@ -9,5 +9,6 @@ VISION REPORT: mike_zunino (2021-04-01 thru 2021-10-04)
      mike_zunino saw 731 strikes and 771 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3915
+VISION SCORE METRIC B (VSA - SO%): 0.0395
 Average PA Length: 4.0053 (1502/375)
 Batting Avg: 0.216

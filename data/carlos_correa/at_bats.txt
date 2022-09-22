@@ -9,5 +9,6 @@ VISION REPORT: carlos_correa (2021-04-01 thru 2021-10-04)
      carlos_correa saw 1239 strikes and 1371 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3946
+VISION SCORE METRIC B (VSA - SO%): 0.2134
 Average PA Length: 4.0547 (2595/640)
 Batting Avg: 0.279

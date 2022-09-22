@@ -28,8 +28,8 @@
 26,2021-10-01,645277,656731,strikeout,swinging_strike,2,Ozzie Albies strikes out swinging.,0,2,2,3,1,-0.19,3.14
 27,2021-10-01,645277,656731,,foul,6,Ozzie Albies strikes out swinging.,0,1,2,2,1,0.82,2.67
 28,2021-10-01,645277,543507,,foul,14,Ozzie Albies flies out to center fielder Brandon Nimmo.,2,2,1,5,8,0.16,1.03
-29,2021-10-01,645277,656731,,called_strike,3,Ozzie Albies strikes out swinging.,0,0,2,1,1,0.5,3.24
-30,2021-10-01,645277,543507,,ball,11,Ozzie Albies flies out to center fielder Brandon Nimmo.,1,2,1,4,8,-0.94,3.96
+29,2021-10-01,645277,543507,,ball,11,Ozzie Albies flies out to center fielder Brandon Nimmo.,1,2,1,4,8,-0.94,3.96
+30,2021-10-01,645277,656731,,called_strike,3,Ozzie Albies strikes out swinging.,0,0,2,1,1,0.5,3.24
 31,2021-10-01,645277,543507,,ball,11,Ozzie Albies flies out to center fielder Brandon Nimmo.,0,2,1,3,8,-1.02,2.71
 32,2021-10-01,645277,543507,,swinging_strike,4,Ozzie Albies flies out to center fielder Brandon Nimmo.,0,1,1,2,8,-0.33,2.64
 33,2021-10-01,645277,543507,,swinging_strike,3,Ozzie Albies flies out to center fielder Brandon Nimmo.,0,0,1,1,8,0.41,2.84
@@ -55,8 +55,8 @@
 53,2021-09-29,645277,605400,field_out,hit_into_play,9,Ozzie Albies lines out to center fielder Odubel Herrera.,1,2,0,4,1,0.4,1.59
 54,2021-09-29,645277,605400,,ball,11,Ozzie Albies lines out to center fielder Odubel Herrera.,0,2,0,3,1,-1.67,3.84
 55,2021-09-29,645277,605400,,foul,12,Ozzie Albies lines out to center fielder Odubel Herrera.,0,1,0,2,1,0.21,3.43
-56,2021-09-29,645277,605400,,called_strike,8,Ozzie Albies lines out to center fielder Odubel Herrera.,0,0,0,1,1,0.27,1.75
-57,2021-09-29,645277,621237,single,hit_into_play,12,"Ozzie Albies singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 3rd.    Ozzie Albies to 2nd.  Jorge Soler advances to 3rd, on a fielding error by center fielder Odubel Herrera.",0,2,1,4,7,0.18,3.42
+56,2021-09-29,645277,621237,single,hit_into_play,12,"Ozzie Albies singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 3rd.    Ozzie Albies to 2nd.  Jorge Soler advances to 3rd, on a fielding error by center fielder Odubel Herrera.",0,2,1,4,7,0.18,3.42
+57,2021-09-29,645277,605400,,called_strike,8,Ozzie Albies lines out to center fielder Odubel Herrera.,0,0,0,1,1,0.27,1.75
 58,2021-09-29,645277,621237,,foul,11,"Ozzie Albies singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 3rd.    Ozzie Albies to 2nd.  Jorge Soler advances to 3rd, on a fielding error by center fielder Odubel Herrera.",0,2,1,3,7,-0.74,3.81
 59,2021-09-29,645277,621237,,foul,5,"Ozzie Albies singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 3rd.    Ozzie Albies to 2nd.  Jorge Soler advances to 3rd, on a fielding error by center fielder Odubel Herrera.",0,1,1,2,7,0.21,2.22
 60,2021-09-29,645277,621237,,swinging_strike,12,"Ozzie Albies singles on a ground ball to center fielder Odubel Herrera.   Jorge Soler to 3rd.    Ozzie Albies to 2nd.  Jorge Soler advances to 3rd, on a fielding error by center fielder Odubel Herrera.",0,0,1,1,7,0.15,3.73
@@ -101,8 +101,8 @@
 99,2021-09-25,645277,677960,,called_strike,8,Ozzie Albies reaches on a throwing error by shortstop Fernando Tatis.,1,0,2,2,5,-0.11,2.04
 100,2021-09-25,645277,677960,,ball,12,Ozzie Albies reaches on a throwing error by shortstop Fernando Tatis.,0,0,2,1,5,1.28,4.28
 101,2021-09-25,645277,543339,sac_fly,hit_into_play,4,Ozzie Albies out on a sacrifice fly to center fielder Trent Grisham.   Orlando Arcia scores.    Jorge Soler to 3rd.    Freddie Freeman to 2nd.,1,0,1,2,10,-0.66,2.58
-102,2021-09-25,645277,543339,,ball,14,Ozzie Albies out on a sacrifice fly to center fielder Trent Grisham.   Orlando Arcia scores.    Jorge Soler to 3rd.    Freddie Freeman to 2nd.,0,0,1,1,10,1.71,1.64
-103,2021-09-25,645277,592826,strikeout,swinging_strike,3,Ozzie Albies strikes out swinging.,2,2,1,6,1,0.39,3.01
+102,2021-09-25,645277,592826,strikeout,swinging_strike,3,Ozzie Albies strikes out swinging.,2,2,1,6,1,0.39,3.01
+103,2021-09-25,645277,543339,,ball,14,Ozzie Albies out on a sacrifice fly to center fielder Trent Grisham.   Orlando Arcia scores.    Jorge Soler to 3rd.    Freddie Freeman to 2nd.,0,0,1,1,10,1.71,1.64
 104,2021-09-25,645277,592826,,ball,13,Ozzie Albies strikes out swinging.,1,2,1,5,1,-0.66,0.88
 105,2021-09-25,645277,592826,,foul,6,Ozzie Albies strikes out swinging.,1,2,1,4,1,0.57,2.55
 106,2021-09-25,645277,592826,,foul,7,Ozzie Albies strikes out swinging.,1,1,1,3,1,-0.48,1.52
@@ -113,15 +113,15 @@
 111,2021-09-25,645277,659275,,foul,14,Ozzie Albies singles on a line drive to center fielder Trent Grisham.   Freddie Freeman to 2nd.,1,2,1,4,6,0.43,1.05
 112,2021-09-25,645277,659275,,foul,4,Ozzie Albies singles on a line drive to center fielder Trent Grisham.   Freddie Freeman to 2nd.,1,1,1,3,6,-0.56,2.48
 113,2021-09-25,645277,453343,,ball,14,Ozzie Albies strikes out swinging.,0,2,0,3,9,0.86,0.77
-114,2021-09-25,645277,453343,,swinging_strike,3,Ozzie Albies strikes out swinging.,0,1,0,2,9,0.39,2.83
-115,2021-09-25,645277,659275,,foul,14,Ozzie Albies singles on a line drive to center fielder Trent Grisham.   Freddie Freeman to 2nd.,1,0,1,2,6,0.1,1.14
+114,2021-09-25,645277,659275,,foul,14,Ozzie Albies singles on a line drive to center fielder Trent Grisham.   Freddie Freeman to 2nd.,1,0,1,2,6,0.1,1.14
+115,2021-09-25,645277,453343,,swinging_strike,3,Ozzie Albies strikes out swinging.,0,1,0,2,9,0.39,2.83
 116,2021-09-25,645277,453343,,called_strike,4,Ozzie Albies strikes out swinging.,0,0,0,1,9,-0.7,2.27
 117,2021-09-25,645277,659275,,blocked_ball,14,Ozzie Albies singles on a line drive to center fielder Trent Grisham.   Freddie Freeman to 2nd.,0,0,1,1,6,1.01,-0.6
 118,2021-09-24,645277,663753,field_out,hit_into_play,7,Ozzie Albies flies out to center fielder Trent Grisham.,0,0,1,1,3,-0.51,1.85
 119,2021-09-24,645277,489334,strikeout,swinging_strike,13,Ozzie Albies strikes out swinging.   Ozzie Albies to 1st.  Wild pitch by pitcher Craig Stammen.,0,2,0,3,6,-0.44,0.78
 120,2021-09-24,645277,663753,double,hit_into_play,13,Ozzie Albies doubles (37) on a ground ball to left fielder Tommy Pham.,2,2,2,6,1,-1.26,2.16
-121,2021-09-24,645277,663753,,ball,14,Ozzie Albies doubles (37) on a ground ball to left fielder Tommy Pham.,1,2,2,5,1,0.18,0.09
-122,2021-09-24,645277,489334,,foul,8,Ozzie Albies strikes out swinging.   Ozzie Albies to 1st.  Wild pitch by pitcher Craig Stammen.,0,1,0,2,6,-0.16,1.4
+121,2021-09-24,645277,489334,,foul,8,Ozzie Albies strikes out swinging.   Ozzie Albies to 1st.  Wild pitch by pitcher Craig Stammen.,0,1,0,2,6,-0.16,1.4
+122,2021-09-24,645277,663753,,ball,14,Ozzie Albies doubles (37) on a ground ball to left fielder Tommy Pham.,1,2,2,5,1,0.18,0.09
 123,2021-09-24,645277,663753,,foul,14,Ozzie Albies doubles (37) on a ground ball to left fielder Tommy Pham.,1,2,2,4,1,0.1,0.99
 124,2021-09-24,645277,489334,,called_strike,11,Ozzie Albies strikes out swinging.   Ozzie Albies to 1st.  Wild pitch by pitcher Craig Stammen.,0,0,0,1,6,-0.88,2.47
 125,2021-09-24,645277,663753,,ball,13,Ozzie Albies doubles (37) on a ground ball to left fielder Tommy Pham.,0,2,2,3,1,-0.7,0.57
@@ -194,8 +194,8 @@
 192,2021-09-20,645277,642203,,ball,3,Ozzie Albies called out on strikes.,0,1,2,2,5,0.75,3.41
 193,2021-09-20,645277,642203,,foul,7,Ozzie Albies called out on strikes.,0,0,2,1,5,-0.62,1.99
 194,2021-09-20,645277,650668,strikeout,swinging_strike,2,Ozzie Albies strikes out swinging.,0,2,2,3,1,-0.06,3.28
-195,2021-09-20,645277,676969,field_out,hit_into_play,8,Ozzie Albies flies out to center fielder Daulton Varsho.,1,0,1,2,8,0.14,2.0
-196,2021-09-20,645277,650668,,foul,4,Ozzie Albies strikes out swinging.,0,1,2,2,1,-0.49,2.13
+195,2021-09-20,645277,650668,,foul,4,Ozzie Albies strikes out swinging.,0,1,2,2,1,-0.49,2.13
+196,2021-09-20,645277,676969,field_out,hit_into_play,8,Ozzie Albies flies out to center fielder Daulton Varsho.,1,0,1,2,8,0.14,2.0
 197,2021-09-20,645277,650668,,called_strike,4,Ozzie Albies strikes out swinging.,0,0,2,1,1,-0.55,2.46
 198,2021-09-20,645277,676969,,ball,14,Ozzie Albies flies out to center fielder Daulton Varsho.,0,0,1,1,8,1.0,1.39
 199,2021-09-19,645277,543101,strikeout,swinging_strike_blocked,14,Ozzie Albies strikes out swinging.,3,2,1,6,6,0.69,0.77
@@ -213,8 +213,8 @@
 211,2021-09-19,645277,501625,,ball,12,Ozzie Albies singles on a ground ball to right fielder Kris Bryant.,1,2,1,4,8,1.35,5.6
 212,2021-09-19,645277,501625,,swinging_strike,12,Ozzie Albies singles on a ground ball to right fielder Kris Bryant.,1,1,1,3,8,0.17,3.86
 213,2021-09-19,645277,501625,,ball,12,Ozzie Albies singles on a ground ball to right fielder Kris Bryant.,0,1,1,2,8,1.76,3.29
-214,2021-09-19,645277,501625,,called_strike,12,Ozzie Albies singles on a ground ball to right fielder Kris Bryant.,0,0,1,1,8,0.46,3.47
-215,2021-09-19,645277,543101,field_out,hit_into_play,2,Ozzie Albies flies out to right fielder Kris Bryant.,0,0,0,1,1,0.22,2.75
+214,2021-09-19,645277,543101,field_out,hit_into_play,2,Ozzie Albies flies out to right fielder Kris Bryant.,0,0,0,1,1,0.22,2.75
+215,2021-09-19,645277,501625,,called_strike,12,Ozzie Albies singles on a ground ball to right fielder Kris Bryant.,0,0,1,1,8,0.46,3.47
 216,2021-09-18,645277,622072,field_out,hit_into_play,13,Ozzie Albies lines out sharply to left fielder LaMonte Wade.,3,2,2,6,3,-0.9,1.64
 217,2021-09-18,645277,622072,,ball,13,Ozzie Albies lines out sharply to left fielder LaMonte Wade.,2,2,2,5,3,-1.04,1.48
 218,2021-09-18,645277,622072,,swinging_strike,3,Ozzie Albies lines out sharply to left fielder LaMonte Wade.,2,1,2,4,3,0.54,2.77
@@ -243,9 +243,9 @@
 241,2021-09-17,645277,657277,strikeout,swinging_strike,14,"Ozzie Albies strikes out swinging, catcher Buster Posey to first baseman Brandon Belt.",0,2,0,3,1,0.09,0.12
 242,2021-09-17,645277,657277,,foul,8,"Ozzie Albies strikes out swinging, catcher Buster Posey to first baseman Brandon Belt.",0,1,0,2,1,-0.2,1.67
 243,2021-09-17,645277,608678,field_out,hit_into_play,4,Ozzie Albies lines out to right fielder LaMonte Wade.,1,0,0,2,8,-0.65,2.37
-244,2021-09-17,645277,608678,,ball,13,Ozzie Albies lines out to right fielder LaMonte Wade.,0,0,0,1,8,-1.0,1.32
-245,2021-09-17,645277,453265,field_out,hit_into_play,9,Ozzie Albies lines out to right fielder Austin Slater.,0,0,0,1,10,0.65,1.98
-246,2021-09-17,645277,657277,,called_strike,6,"Ozzie Albies strikes out swinging, catcher Buster Posey to first baseman Brandon Belt.",0,0,0,1,1,0.6,2.18
+244,2021-09-17,645277,657277,,called_strike,6,"Ozzie Albies strikes out swinging, catcher Buster Posey to first baseman Brandon Belt.",0,0,0,1,1,0.6,2.18
+245,2021-09-17,645277,608678,,ball,13,Ozzie Albies lines out to right fielder LaMonte Wade.,0,0,0,1,8,-1.0,1.32
+246,2021-09-17,645277,453265,field_out,hit_into_play,9,Ozzie Albies lines out to right fielder Austin Slater.,0,0,0,1,10,0.65,1.98
 247,2021-09-15,645277,622608,field_out,hit_into_play,2,"Ozzie Albies grounds out, first baseman C.  J. Cron to pitcher Antonio Senzatela.",0,2,1,3,5,-0.12,2.9
 248,2021-09-15,645277,622608,,foul,13,"Ozzie Albies grounds out, first baseman C.  J. Cron to pitcher Antonio Senzatela.",0,1,1,2,5,-0.97,1.48
 249,2021-09-15,645277,622608,,swinging_strike_blocked,14,"Ozzie Albies grounds out, first baseman C.  J. Cron to pitcher Antonio Senzatela.",0,0,1,1,5,0.54,0.87
@@ -254,8 +254,8 @@
 252,2021-09-15,645277,622608,,foul,12,Ozzie Albies flies out to left fielder Sam Hilliard.,1,0,0,2,3,0.91,2.78
 253,2021-09-15,645277,622608,,ball,12,Ozzie Albies flies out to left fielder Sam Hilliard.,0,0,0,1,3,0.85,4.36
 254,2021-09-15,645277,608032,single,hit_into_play,7,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,1,0,2,2,9,-0.48,1.36
-255,2021-09-15,645277,608032,,ball,11,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,0,0,2,1,9,-0.5,3.77
-256,2021-09-15,645277,656458,walk,ball,13,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,3,2,2,8,7,-1.56,2.35
+255,2021-09-15,645277,656458,walk,ball,13,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,3,2,2,8,7,-1.56,2.35
+256,2021-09-15,645277,608032,,ball,11,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,0,0,2,1,9,-0.5,3.77
 257,2021-09-15,645277,656458,,blocked_ball,13,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,2,2,2,7,7,-1.48,0.88
 258,2021-09-15,645277,656458,,foul,1,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,2,2,2,6,7,-0.39,3.01
 259,2021-09-15,645277,656458,,foul,13,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,2,2,2,5,7,-0.75,1.02
@@ -263,10 +263,10 @@
 261,2021-09-15,645277,656458,,ball,12,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,1,2,2,4,7,0.27,5.12
 262,2021-09-15,645277,622608,,foul,14,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,2,2,0,5,1,0.9,2.19
 263,2021-09-15,645277,656458,,swinging_strike,5,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,1,1,2,3,7,-0.12,2.53
-264,2021-09-15,645277,622608,,ball,11,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,1,2,0,4,1,-0.25,3.98
-265,2021-09-15,645277,656458,,ball,11,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,0,1,2,2,7,-0.41,4.16
-266,2021-09-15,645277,656458,,foul,1,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,0,0,2,1,7,-0.46,2.85
-267,2021-09-15,645277,622608,,foul,3,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,1,1,0,3,1,0.29,2.94
+264,2021-09-15,645277,656458,,ball,11,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,0,1,2,2,7,-0.41,4.16
+265,2021-09-15,645277,622608,,ball,11,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,1,2,0,4,1,-0.25,3.98
+266,2021-09-15,645277,622608,,foul,3,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,1,1,0,3,1,0.29,2.94
+267,2021-09-15,645277,656458,,foul,1,Ozzie Albies walks.   Dansby Swanson to 3rd.    Eddie Rosario to 2nd.,0,0,2,1,7,-0.46,2.85
 268,2021-09-15,645277,622608,,foul,9,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,1,0,0,2,1,0.35,1.74
 269,2021-09-15,645277,622608,,ball,11,Ozzie Albies singles on a line drive to center fielder Garrett Hampson.,0,0,0,1,1,-0.03,3.74
 270,2021-09-14,645277,592351,walk,ball,11,Ozzie Albies walks.,3,2,0,7,5,-0.85,3.83
@@ -311,8 +311,8 @@
 309,2021-09-11,645277,622694,,called_strike,11,Ozzie Albies flies out to right fielder Jesus Sanchez.   Charlie Morton to 3rd.,0,0,1,1,5,-0.89,3.02
 310,2021-09-11,645277,622694,field_out,hit_into_play,11,Ozzie Albies flies out to left fielder Lewis Brinson.,0,1,0,2,3,-1.18,2.41
 311,2021-09-11,645277,622694,,called_strike,4,Ozzie Albies flies out to left fielder Lewis Brinson.,0,0,0,1,3,-0.59,2.73
-312,2021-09-11,645277,542914,field_out,hit_into_play,4,Ozzie Albies flies out to left fielder Lewis Brinson.,0,1,1,2,7,-0.29,2.08
-313,2021-09-11,645277,571670,field_out,hit_into_play,4,Ozzie Albies flies out sharply to left fielder Lewis Brinson.,0,0,0,1,9,-0.66,2.39
+312,2021-09-11,645277,571670,field_out,hit_into_play,4,Ozzie Albies flies out sharply to left fielder Lewis Brinson.,0,0,0,1,9,-0.66,2.39
+313,2021-09-11,645277,542914,field_out,hit_into_play,4,Ozzie Albies flies out to left fielder Lewis Brinson.,0,1,1,2,7,-0.29,2.08
 314,2021-09-11,645277,542914,,foul,2,Ozzie Albies flies out to left fielder Lewis Brinson.,0,0,1,1,7,0.13,3.14
 315,2021-09-11,645277,622694,single,hit_into_play,8,Ozzie Albies singles on a sharp line drive to right fielder Jesus Sanchez.,0,0,0,1,1,0.1,1.96
 316,2021-09-10,645277,669432,field_out,hit_into_play,1,Ozzie Albies lines out sharply to center fielder Bryan De La Cruz.,3,2,2,6,3,-0.56,2.79
@@ -325,17 +325,17 @@
 323,2021-09-10,645277,595345,,ball,12,Ozzie Albies flies out to center fielder Bryan De La Cruz.,1,0,2,2,8,0.84,3.55
 324,2021-09-10,645277,595345,,ball,12,Ozzie Albies flies out to center fielder Bryan De La Cruz.,0,0,2,1,8,0.94,3.58
 325,2021-09-10,645277,605507,strikeout,swinging_strike,11,Ozzie Albies strikes out swinging.,2,2,1,5,5,-0.71,3.41
-326,2021-09-10,645277,592865,strikeout,swinging_strike,6,Ozzie Albies strikes out swinging.,1,2,0,4,7,0.64,2.06
-327,2021-09-10,645277,605507,,foul,14,Ozzie Albies strikes out swinging.,2,1,1,4,5,0.71,1.02
+326,2021-09-10,645277,605507,,foul,14,Ozzie Albies strikes out swinging.,2,1,1,4,5,0.71,1.02
+327,2021-09-10,645277,592865,strikeout,swinging_strike,6,Ozzie Albies strikes out swinging.,1,2,0,4,7,0.64,2.06
 328,2021-09-10,645277,592865,,swinging_strike,13,Ozzie Albies strikes out swinging.,1,1,0,3,7,-1.31,1.72
 329,2021-09-10,645277,669432,strikeout,swinging_strike,2,Ozzie Albies strikes out swinging.,0,2,0,3,1,0.11,3.36
 330,2021-09-10,645277,605507,,ball,14,Ozzie Albies strikes out swinging.,1,1,1,3,5,1.42,1.61
-331,2021-09-10,645277,669432,,foul,13,Ozzie Albies strikes out swinging.,0,1,0,2,1,-1.01,1.96
-332,2021-09-10,645277,605507,,foul_tip,6,Ozzie Albies strikes out swinging.,1,0,1,2,5,0.74,2.37
-333,2021-09-10,645277,592865,,ball,3,Ozzie Albies strikes out swinging.,0,1,0,2,7,0.8,3.02
+331,2021-09-10,645277,605507,,foul_tip,6,Ozzie Albies strikes out swinging.,1,0,1,2,5,0.74,2.37
+332,2021-09-10,645277,592865,,ball,3,Ozzie Albies strikes out swinging.,0,1,0,2,7,0.8,3.02
+333,2021-09-10,645277,669432,,foul,13,Ozzie Albies strikes out swinging.,0,1,0,2,1,-1.01,1.96
 334,2021-09-10,645277,605507,,ball,14,Ozzie Albies strikes out swinging.,0,0,1,1,5,1.52,2.16
-335,2021-09-10,645277,592865,,called_strike,11,Ozzie Albies strikes out swinging.,0,0,0,1,7,-0.85,3.18
-336,2021-09-10,645277,669432,,foul,13,Ozzie Albies strikes out swinging.,0,0,0,1,1,-1.05,2.33
+335,2021-09-10,645277,669432,,foul,13,Ozzie Albies strikes out swinging.,0,0,0,1,1,-1.05,2.33
+336,2021-09-10,645277,592865,,called_strike,11,Ozzie Albies strikes out swinging.,0,0,0,1,7,-0.85,3.18
 337,2021-09-09,645277,607200,field_out,hit_into_play,7,"Ozzie Albies grounds out softly, pitcher Erick Fedde to first baseman Josh Bell.",0,0,2,1,5,-0.63,1.86
 338,2021-09-09,645277,607200,field_out,hit_into_play,4,"Ozzie Albies grounds out, third baseman Carter Kieboom to first baseman Josh Bell.",3,1,2,5,3,-0.42,2.35
 339,2021-09-09,645277,607200,,ball,11,"Ozzie Albies grounds out, third baseman Carter Kieboom to first baseman Josh Bell.",2,1,2,4,3,-0.9,3.03
@@ -358,8 +358,8 @@
 356,2021-09-08,645277,641907,,swinging_strike,13,Ozzie Albies called out on strikes.,1,1,0,3,3,-0.03,0.51
 357,2021-09-08,645277,641907,,called_strike,11,Ozzie Albies called out on strikes.,1,0,0,2,3,-0.07,3.59
 358,2021-09-08,645277,641907,,ball,11,Ozzie Albies called out on strikes.,0,0,0,1,3,-1.59,2.81
-359,2021-09-08,645277,600921,field_out,hit_into_play,5,Ozzie Albies flies out to left fielder Yadiel Hernandez.,0,0,2,1,4,-0.2,2.37
-360,2021-09-08,645277,608723,field_out,hit_into_play,13,Ozzie Albies grounds out softly to first baseman Josh Bell.,1,1,2,3,6,-0.37,1.24
+359,2021-09-08,645277,608723,field_out,hit_into_play,13,Ozzie Albies grounds out softly to first baseman Josh Bell.,1,1,2,3,6,-0.37,1.24
+360,2021-09-08,645277,600921,field_out,hit_into_play,5,Ozzie Albies flies out to left fielder Yadiel Hernandez.,0,0,2,1,4,-0.2,2.37
 361,2021-09-08,645277,608723,,swinging_strike,3,Ozzie Albies grounds out softly to first baseman Josh Bell.,1,0,2,2,6,0.3,3.04
 362,2021-09-08,645277,608723,,blocked_ball,13,Ozzie Albies grounds out softly to first baseman Josh Bell.,0,0,2,1,6,-1.15,1.04
 363,2021-09-08,645277,640448,strikeout,foul_tip,3,Ozzie Albies strikes out on a foul tip.,2,2,1,5,9,0.28,3.19
@@ -381,14 +381,14 @@
 379,2021-09-07,645277,502179,,foul,8,Ozzie Albies strikes out swinging.,0,1,2,2,2,-0.2,1.91
 380,2021-09-07,645277,502179,,foul,8,Ozzie Albies strikes out swinging.,0,0,2,1,2,-0.08,1.48
 381,2021-09-07,645277,621348,single,hit_into_play,1,Ozzie Albies singles on a sharp line drive to left fielder Yadiel Hernandez.   Dansby Swanson scores.,2,1,2,4,8,-0.31,3.22
-382,2021-09-07,645277,607560,home_run,hit_into_play,6,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,3,1,0,5,7,0.53,2.24
-383,2021-09-07,645277,621348,,blocked_ball,13,Ozzie Albies singles on a sharp line drive to left fielder Yadiel Hernandez.   Dansby Swanson scores.,1,1,2,3,8,-0.63,0.71
-384,2021-09-07,645277,621348,,foul,14,Ozzie Albies singles on a sharp line drive to left fielder Yadiel Hernandez.   Dansby Swanson scores.,1,0,2,2,8,0.23,0.71
-385,2021-09-07,645277,607560,,called_strike,2,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,3,0,0,4,7,0.11,2.88
-386,2021-09-07,645277,621348,,blocked_ball,14,Ozzie Albies singles on a sharp line drive to left fielder Yadiel Hernandez.   Dansby Swanson scores.,0,0,2,1,8,0.13,0.24
-387,2021-09-07,645277,607560,,ball,14,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,2,0,0,3,7,1.03,1.02
-388,2021-09-07,645277,607560,,ball,11,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,1,0,0,2,7,-0.48,3.6
-389,2021-09-07,645277,502179,walk,ball,11,Ozzie Albies walks.,3,2,0,6,1,-0.79,3.82
+382,2021-09-07,645277,621348,,blocked_ball,13,Ozzie Albies singles on a sharp line drive to left fielder Yadiel Hernandez.   Dansby Swanson scores.,1,1,2,3,8,-0.63,0.71
+383,2021-09-07,645277,607560,home_run,hit_into_play,6,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,3,1,0,5,7,0.53,2.24
+384,2021-09-07,645277,607560,,called_strike,2,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,3,0,0,4,7,0.11,2.88
+385,2021-09-07,645277,621348,,foul,14,Ozzie Albies singles on a sharp line drive to left fielder Yadiel Hernandez.   Dansby Swanson scores.,1,0,2,2,8,0.23,0.71
+386,2021-09-07,645277,607560,,ball,14,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,2,0,0,3,7,1.03,1.02
+387,2021-09-07,645277,621348,,blocked_ball,14,Ozzie Albies singles on a sharp line drive to left fielder Yadiel Hernandez.   Dansby Swanson scores.,0,0,2,1,8,0.13,0.24
+388,2021-09-07,645277,502179,walk,ball,11,Ozzie Albies walks.,3,2,0,6,1,-0.79,3.82
+389,2021-09-07,645277,607560,,ball,11,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,1,0,0,2,7,-0.48,3.6
 390,2021-09-07,645277,607560,,ball,14,Ozzie Albies homers (27) on a fly ball to left center field.   Eddie Rosario scores.,0,0,0,1,7,0.23,1.56
 391,2021-09-07,645277,502179,,ball,11,Ozzie Albies walks.,2,2,0,5,1,-1.45,3.66
 392,2021-09-07,645277,502179,,ball,11,Ozzie Albies walks.,1,2,0,4,1,-0.41,5.48
@@ -405,8 +405,8 @@
 403,2021-09-05,645277,642759,,foul,14,Ozzie Albies flies out to center fielder Garrett Hampson.,2,1,1,4,7,0.97,1.53
 404,2021-09-05,645277,623485,field_out,hit_into_play,8,Ozzie Albies flies out to left fielder Raimel Tapia.,3,2,1,6,4,-0.05,1.71
 405,2021-09-05,645277,642759,,ball,11,Ozzie Albies flies out to center fielder Garrett Hampson.,1,1,1,3,7,-0.57,3.33
-406,2021-09-05,645277,623485,,ball,11,Ozzie Albies flies out to left fielder Raimel Tapia.,2,2,1,5,4,-1.18,2.99
-407,2021-09-05,645277,642759,,ball,11,Ozzie Albies flies out to center fielder Garrett Hampson.,0,1,1,2,7,-1.41,3.23
+406,2021-09-05,645277,642759,,ball,11,Ozzie Albies flies out to center fielder Garrett Hampson.,0,1,1,2,7,-1.41,3.23
+407,2021-09-05,645277,623485,,ball,11,Ozzie Albies flies out to left fielder Raimel Tapia.,2,2,1,5,4,-1.18,2.99
 408,2021-09-05,645277,623485,,foul,8,Ozzie Albies flies out to left fielder Raimel Tapia.,2,1,1,4,4,-0.07,1.47
 409,2021-09-05,645277,642759,,called_strike,6,Ozzie Albies flies out to center fielder Garrett Hampson.,0,0,1,1,7,0.46,2.04
 410,2021-09-05,645277,623485,,blocked_ball,13,Ozzie Albies flies out to left fielder Raimel Tapia.,1,1,1,3,4,-1.01,0.73
@@ -415,8 +415,8 @@
 413,2021-09-05,645277,642068,field_out,hit_into_play,8,Ozzie Albies pops out to third baseman Joshua Fuentes.,2,1,0,4,9,0.18,1.37
 414,2021-09-05,645277,642068,,called_strike,11,Ozzie Albies pops out to third baseman Joshua Fuentes.,2,0,0,3,9,-0.95,3.3
 415,2021-09-05,645277,642068,,ball,11,Ozzie Albies pops out to third baseman Joshua Fuentes.,1,0,0,2,9,-1.39,4.53
-416,2021-09-05,645277,663372,home_run,hit_into_play,5,Ozzie Albies homers (26) on a fly ball to right field.,0,0,0,1,1,0.27,2.21
-417,2021-09-05,645277,642068,,ball,11,Ozzie Albies pops out to third baseman Joshua Fuentes.,0,0,0,1,9,-0.84,3.36
+416,2021-09-05,645277,642068,,ball,11,Ozzie Albies pops out to third baseman Joshua Fuentes.,0,0,0,1,9,-0.84,3.36
+417,2021-09-05,645277,663372,home_run,hit_into_play,5,Ozzie Albies homers (26) on a fly ball to right field.,0,0,0,1,1,0.27,2.21
 418,2021-09-04,645277,608566,strikeout,swinging_strike,14,Ozzie Albies strikes out swinging.   Ehire Adrianza to 2nd.  Wild pitch by pitcher German Marquez.,2,2,1,6,5,1.04,-0.74
 419,2021-09-04,645277,608566,,foul,7,Ozzie Albies strikes out swinging.   Ehire Adrianza to 2nd.  Wild pitch by pitcher German Marquez.,2,2,1,5,5,-0.7,1.47
 420,2021-09-04,645277,608566,,foul,6,Ozzie Albies strikes out swinging.   Ehire Adrianza to 2nd.  Wild pitch by pitcher German Marquez.,2,1,1,4,5,0.29,2.31
@@ -559,8 +559,8 @@
 557,2021-08-22,645277,607644,,ball,13,"Ozzie Albies grounds out, pitcher John Means to third baseman Ramon Urias to first baseman Ryan Mountcastle.",0,1,0,2,4,-0.68,1.22
 558,2021-08-22,645277,607644,,foul,1,"Ozzie Albies grounds out, pitcher John Means to third baseman Ramon Urias to first baseman Ryan Mountcastle.",0,0,0,1,4,-0.8,2.73
 559,2021-08-22,645277,607644,field_out,hit_into_play,1,Ozzie Albies flies out to center fielder Cedric Mullins.,2,2,0,5,1,-0.72,2.9
-560,2021-08-22,645277,607644,,foul,4,Ozzie Albies flies out to center fielder Cedric Mullins.,2,1,0,4,1,-0.3,2.18
-561,2021-08-22,645277,656945,field_out,hit_into_play,7,"Ozzie Albies grounds out, second baseman Jorge Mateo to first baseman Ryan Mountcastle.",0,1,1,2,8,-0.29,2.02
+560,2021-08-22,645277,656945,field_out,hit_into_play,7,"Ozzie Albies grounds out, second baseman Jorge Mateo to first baseman Ryan Mountcastle.",0,1,1,2,8,-0.29,2.02
+561,2021-08-22,645277,607644,,foul,4,Ozzie Albies flies out to center fielder Cedric Mullins.,2,1,0,4,1,-0.3,2.18
 562,2021-08-22,645277,607644,,ball,14,Ozzie Albies flies out to center fielder Cedric Mullins.,1,1,0,3,1,1.28,1.29
 563,2021-08-22,645277,656945,,swinging_strike,13,"Ozzie Albies grounds out, second baseman Jorge Mateo to first baseman Ryan Mountcastle.",0,0,1,1,8,-1.44,2.13
 564,2021-08-22,645277,607644,,ball,11,Ozzie Albies flies out to center fielder Cedric Mullins.,0,1,0,2,1,-1.55,3.15
@@ -617,21 +617,21 @@
 615,2021-08-18,645277,595345,,foul,2,Ozzie Albies out on a sacrifice fly to right fielder Jesus Sanchez.   Travis d'Arnaud scores.    Adam Duvall to 3rd.    Guillermo Heredia to 2nd.,2,1,1,4,4,-0.21,3.27
 616,2021-08-18,645277,669294,field_out,hit_into_play,5,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Paul Campbell.",2,1,2,4,8,0.01,2.3
 617,2021-08-18,645277,595345,,ball,3,Ozzie Albies out on a sacrifice fly to right fielder Jesus Sanchez.   Travis d'Arnaud scores.    Adam Duvall to 3rd.    Guillermo Heredia to 2nd.,1,1,1,3,4,0.74,3.33
-618,2021-08-18,645277,669294,,ball,14,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Paul Campbell.",1,1,2,3,8,1.67,1.56
-619,2021-08-18,645277,595345,,blocked_ball,13,Ozzie Albies out on a sacrifice fly to right fielder Jesus Sanchez.   Travis d'Arnaud scores.    Adam Duvall to 3rd.    Guillermo Heredia to 2nd.,0,1,1,2,4,-1.6,0.5
+618,2021-08-18,645277,595345,,blocked_ball,13,Ozzie Albies out on a sacrifice fly to right fielder Jesus Sanchez.   Travis d'Arnaud scores.    Adam Duvall to 3rd.    Guillermo Heredia to 2nd.,0,1,1,2,4,-1.6,0.5
+619,2021-08-18,645277,669294,,ball,14,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Paul Campbell.",1,1,2,3,8,1.67,1.56
 620,2021-08-18,645277,669294,,blocked_ball,14,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Paul Campbell.",0,1,2,2,8,1.51,1.01
 621,2021-08-18,645277,595345,,called_strike,4,Ozzie Albies out on a sacrifice fly to right fielder Jesus Sanchez.   Travis d'Arnaud scores.    Adam Duvall to 3rd.    Guillermo Heredia to 2nd.,0,0,1,1,4,-0.38,2.42
-622,2021-08-18,645277,669294,,swinging_strike,1,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Paul Campbell.",0,0,2,1,8,-0.29,2.88
-623,2021-08-18,645277,650347,field_out,hit_into_play,13,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Luis Madero.",2,0,1,3,6,-0.84,2.32
+622,2021-08-18,645277,650347,field_out,hit_into_play,13,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Luis Madero.",2,0,1,3,6,-0.84,2.32
+623,2021-08-18,645277,669294,,swinging_strike,1,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Paul Campbell.",0,0,2,1,8,-0.29,2.88
 624,2021-08-18,645277,650347,,ball,11,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Luis Madero.",1,0,1,2,6,-0.87,2.33
-625,2021-08-18,645277,650347,,ball,11,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Luis Madero.",0,0,1,1,6,-0.75,3.81
-626,2021-08-18,645277,660422,walk,ball,11,Ozzie Albies walks.,3,0,0,4,8,-1.85,3.47
+625,2021-08-18,645277,660422,walk,ball,11,Ozzie Albies walks.,3,0,0,4,8,-1.85,3.47
+626,2021-08-18,645277,650347,,ball,11,"Ozzie Albies grounds out, first baseman Jesus Aguilar to pitcher Luis Madero.",0,0,1,1,6,-0.75,3.81
 627,2021-08-18,645277,666200,strikeout,swinging_strike_blocked,13,Ozzie Albies strikes out swinging.,0,2,0,3,1,-1.51,1.55
 628,2021-08-18,645277,660422,,ball,11,Ozzie Albies walks.,2,0,0,3,8,-1.23,3.21
 629,2021-08-18,645277,666200,,swinging_strike,11,Ozzie Albies strikes out swinging.,0,1,0,2,1,-0.09,3.77
 630,2021-08-18,645277,660422,,ball,11,Ozzie Albies walks.,1,0,0,2,8,-1.15,3.3
-631,2021-08-18,645277,666200,,swinging_strike,9,Ozzie Albies strikes out swinging.,0,0,0,1,1,0.33,1.9
-632,2021-08-18,645277,660422,,ball,12,Ozzie Albies walks.,0,0,0,1,8,1.39,2.9
+631,2021-08-18,645277,660422,,ball,12,Ozzie Albies walks.,0,0,0,1,8,1.39,2.9
+632,2021-08-18,645277,666200,,swinging_strike,9,Ozzie Albies strikes out swinging.,0,0,0,1,1,0.33,1.9
 633,2021-08-17,645277,645261,strikeout,swinging_strike,9,Ozzie Albies strikes out swinging.  Abraham Almonte steals (1) 2nd base.,3,2,1,7,8,0.5,1.51
 634,2021-08-17,645277,645261,,foul,2,Ozzie Albies strikes out swinging.  Abraham Almonte steals (1) 2nd base.,3,2,1,6,8,-0.09,2.76
 635,2021-08-17,645277,645261,,ball,14,Ozzie Albies strikes out swinging.  Abraham Almonte steals (1) 2nd base.,2,2,1,5,8,0.21,1.25
@@ -661,17 +661,17 @@
 659,2021-08-16,645277,666129,walk,ball,13,Ozzie Albies walks.,3,2,0,7,1,-0.9,1.16
 660,2021-08-16,645277,666129,,ball,13,Ozzie Albies walks.,2,2,0,6,1,-0.39,1.12
 661,2021-08-16,645277,674944,field_out,hit_into_play,11,Ozzie Albies pops out to shortstop Jazz Chisholm.,0,1,1,2,5,-0.7,3.41
-662,2021-08-16,645277,666129,,foul,6,Ozzie Albies walks.,2,2,0,5,1,0.48,2.62
-663,2021-08-16,645277,674944,,foul,4,Ozzie Albies pops out to shortstop Jazz Chisholm.,0,0,1,1,5,-0.41,2.69
+662,2021-08-16,645277,674944,,foul,4,Ozzie Albies pops out to shortstop Jazz Chisholm.,0,0,1,1,5,-0.41,2.69
+663,2021-08-16,645277,666129,,foul,6,Ozzie Albies walks.,2,2,0,5,1,0.48,2.62
 664,2021-08-16,645277,666129,,swinging_strike,14,Ozzie Albies walks.,2,1,0,4,1,0.11,0.77
 665,2021-08-16,645277,595345,strikeout,swinging_strike_blocked,13,"Ozzie Albies strikes out swinging, catcher Alex Jackson to first baseman Jesus Aguilar.",0,2,0,3,8,-0.44,0.01
 666,2021-08-16,645277,666129,,ball,12,Ozzie Albies walks.,1,1,0,3,1,1.13,4.06
-667,2021-08-16,645277,669294,single,hit_into_play,6,Ozzie Albies singles on a line drive to center fielder Lewis Brinson.   Guillermo Heredia scores.    Touki Toussaint to 2nd.,0,1,0,2,4,0.62,2.44
-668,2021-08-16,645277,666129,,foul,11,Ozzie Albies walks.,1,0,0,2,1,-0.48,3.47
+667,2021-08-16,645277,666129,,foul,11,Ozzie Albies walks.,1,0,0,2,1,-0.48,3.47
+668,2021-08-16,645277,669294,single,hit_into_play,6,Ozzie Albies singles on a line drive to center fielder Lewis Brinson.   Guillermo Heredia scores.    Touki Toussaint to 2nd.,0,1,0,2,4,0.62,2.44
 669,2021-08-16,645277,595345,,foul,13,"Ozzie Albies strikes out swinging, catcher Alex Jackson to first baseman Jesus Aguilar.",0,1,0,2,8,-1.03,2.17
-670,2021-08-16,645277,666129,,ball,12,Ozzie Albies walks.,0,0,0,1,1,0.62,4.09
+670,2021-08-16,645277,669294,,foul,2,Ozzie Albies singles on a line drive to center fielder Lewis Brinson.   Guillermo Heredia scores.    Touki Toussaint to 2nd.,0,0,0,1,4,0.06,2.72
 671,2021-08-16,645277,595345,,foul,7,"Ozzie Albies strikes out swinging, catcher Alex Jackson to first baseman Jesus Aguilar.",0,0,0,1,8,-0.43,1.93
-672,2021-08-16,645277,669294,,foul,2,Ozzie Albies singles on a line drive to center fielder Lewis Brinson.   Guillermo Heredia scores.    Touki Toussaint to 2nd.,0,0,0,1,4,0.06,2.72
+672,2021-08-16,645277,666129,,ball,12,Ozzie Albies walks.,0,0,0,1,1,0.62,4.09
 673,2021-08-15,645277,502179,single,hit_into_play,13,Ozzie Albies singles on a line drive to right fielder Juan Soto.,2,2,2,5,4,-0.97,1.32
 674,2021-08-15,645277,502179,,ball,11,Ozzie Albies singles on a line drive to right fielder Juan Soto.,1,2,2,4,4,-0.71,4.86
 675,2021-08-15,645277,502179,,called_strike,4,Ozzie Albies singles on a line drive to right fielder Juan Soto.,1,1,2,3,4,-0.56,2.04
@@ -682,12 +682,12 @@
 680,2021-08-15,645277,656620,,ball,11,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,2,2,2,6,5,-3.3,5.77
 681,2021-08-15,645277,502179,walk,ball,11,Ozzie Albies walks.,3,1,2,5,2,-0.7,4.3
 682,2021-08-15,645277,656620,,foul,11,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,2,2,2,5,5,-1.38,2.92
-683,2021-08-15,645277,656620,,foul,2,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,2,1,2,4,5,-0.17,2.9
-684,2021-08-15,645277,502179,,foul,4,Ozzie Albies walks.,3,0,2,4,2,-0.6,2.08
+683,2021-08-15,645277,502179,,foul,4,Ozzie Albies walks.,3,0,2,4,2,-0.6,2.08
+684,2021-08-15,645277,656620,,foul,2,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,2,1,2,4,5,-0.17,2.9
 685,2021-08-15,645277,502179,,ball,11,Ozzie Albies walks.,2,0,2,3,2,-1.5,2.54
 686,2021-08-15,645277,656620,,called_strike,1,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,2,0,2,3,5,-0.63,2.69
-687,2021-08-15,645277,502179,,ball,13,Ozzie Albies walks.,1,0,2,2,2,-1.02,2.18
-688,2021-08-15,645277,656620,,ball,11,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,1,0,2,2,5,-1.13,2.82
+687,2021-08-15,645277,656620,,ball,11,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,1,0,2,2,5,-1.13,2.82
+688,2021-08-15,645277,502179,,ball,13,Ozzie Albies walks.,1,0,2,2,2,-1.02,2.18
 689,2021-08-15,645277,656620,,ball,11,Ozzie Albies pops out to first baseman Josh Bell in foul territory.,0,0,2,1,5,-2.06,2.91
 690,2021-08-15,645277,502179,,ball,12,Ozzie Albies walks.,0,0,2,1,2,0.64,3.62
 691,2021-08-15,645277,607560,field_out,hit_into_play,14,"Ozzie Albies grounds out, shortstop Luis Garcia to first baseman Josh Bell.",0,2,1,3,8,0.33,0.65
@@ -730,10 +730,10 @@
 728,2021-08-13,645277,680686,strikeout,swinging_strike,14,Ozzie Albies strikes out swinging.,1,2,0,4,1,0.98,0.73
 729,2021-08-13,645277,680686,,foul,5,Ozzie Albies strikes out swinging.,1,1,0,3,1,0.25,2.44
 730,2021-08-13,645277,600921,field_out,hit_into_play,5,Ozzie Albies flies out to left fielder Yadiel Hernandez.,2,0,0,3,8,0.12,2.46
-731,2021-08-13,645277,680686,,swinging_strike,5,Ozzie Albies strikes out swinging.,1,0,0,2,1,-0.21,2.64
-732,2021-08-13,645277,600921,,ball,1,Ozzie Albies flies out to left fielder Yadiel Hernandez.,1,0,0,2,8,-0.76,3.4
-733,2021-08-13,645277,680686,,ball,13,Ozzie Albies strikes out swinging.,0,0,0,1,1,-2.11,1.71
-734,2021-08-13,645277,600921,,ball,13,Ozzie Albies flies out to left fielder Yadiel Hernandez.,0,0,0,1,8,-1.51,2.25
+731,2021-08-13,645277,600921,,ball,1,Ozzie Albies flies out to left fielder Yadiel Hernandez.,1,0,0,2,8,-0.76,3.4
+732,2021-08-13,645277,680686,,swinging_strike,5,Ozzie Albies strikes out swinging.,1,0,0,2,1,-0.21,2.64
+733,2021-08-13,645277,600921,,ball,13,Ozzie Albies flies out to left fielder Yadiel Hernandez.,0,0,0,1,8,-1.51,2.25
+734,2021-08-13,645277,680686,,ball,13,Ozzie Albies strikes out swinging.,0,0,0,1,1,-2.11,1.71
 735,2021-08-12,645277,661269,fielders_choice,hit_into_play,7,"Ozzie Albies reaches on a fielder's choice, fielded by first baseman Joey Votto.   Josh Tomlin to 2nd.  Josh Tomlin advances to 2nd, on a fielding error by first baseman Joey Votto.",2,1,1,4,5,-0.71,1.53
 736,2021-08-12,645277,661269,,blocked_ball,14,"Ozzie Albies reaches on a fielder's choice, fielded by first baseman Joey Votto.   Josh Tomlin to 2nd.  Josh Tomlin advances to 2nd, on a fielding error by first baseman Joey Votto.",1,1,1,3,5,1.2,0.55
 737,2021-08-12,645277,661269,,foul,5,"Ozzie Albies reaches on a fielder's choice, fielded by first baseman Joey Votto.   Josh Tomlin to 2nd.  Josh Tomlin advances to 2nd, on a fielding error by first baseman Joey Votto.",1,0,1,2,5,0.11,2.41
@@ -745,10 +745,10 @@
 743,2021-08-12,645277,607237,strikeout,swinging_strike,14,Ozzie Albies strikes out swinging.,1,2,1,5,9,1.05,2.02
 744,2021-08-12,645277,607237,,foul,12,Ozzie Albies strikes out swinging.,1,2,1,4,9,1.42,2.57
 745,2021-08-12,645277,607237,,foul,14,Ozzie Albies strikes out swinging.,1,1,1,3,9,0.92,1.15
-746,2021-08-12,645277,656546,home_run,hit_into_play,5,Ozzie Albies homers (20) on a fly ball to center field.,1,1,2,3,7,-0.02,2.37
-747,2021-08-12,645277,607237,,blocked_ball,14,Ozzie Albies strikes out swinging.,0,1,1,2,9,0.87,0.12
-748,2021-08-12,645277,607237,,called_strike,6,Ozzie Albies strikes out swinging.,0,0,1,1,9,0.73,2.25
-749,2021-08-12,645277,656546,,ball,13,Ozzie Albies homers (20) on a fly ball to center field.,0,1,2,2,7,-0.4,1.01
+746,2021-08-12,645277,607237,,blocked_ball,14,Ozzie Albies strikes out swinging.,0,1,1,2,9,0.87,0.12
+747,2021-08-12,645277,656546,home_run,hit_into_play,5,Ozzie Albies homers (20) on a fly ball to center field.,1,1,2,3,7,-0.02,2.37
+748,2021-08-12,645277,656546,,ball,13,Ozzie Albies homers (20) on a fly ball to center field.,0,1,2,2,7,-0.4,1.01
+749,2021-08-12,645277,607237,,called_strike,6,Ozzie Albies strikes out swinging.,0,0,1,1,9,0.73,2.25
 750,2021-08-12,645277,656546,,called_strike,4,Ozzie Albies homers (20) on a fly ball to center field.,0,0,2,1,7,-0.38,2.34
 751,2021-08-12,645277,661269,strikeout,foul_tip,13,Ozzie Albies strikes out on a foul tip.,0,2,0,3,1,-0.48,1.18
 752,2021-08-12,645277,661269,,foul,14,Ozzie Albies strikes out on a foul tip.,0,1,0,2,1,0.45,0.92
@@ -763,10 +763,10 @@
 761,2021-08-11,645277,547179,,foul,2,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,2,2,1,6,9,-0.12,3.02
 762,2021-08-11,645277,608371,home_run,hit_into_play,2,Ozzie Albies homers (19) on a fly ball to right field.    Adam Duvall scores.    Joc Pederson scores.,2,1,2,4,11,-0.12,2.96
 763,2021-08-11,645277,547179,,foul,2,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,2,2,1,5,9,-0.21,3.35
-764,2021-08-11,645277,547179,,swinging_strike,13,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,2,1,1,4,9,-1.04,1.64
-765,2021-08-11,645277,608371,,swinging_strike,14,Ozzie Albies homers (19) on a fly ball to right field.    Adam Duvall scores.    Joc Pederson scores.,2,0,2,3,11,0.11,1.28
-766,2021-08-11,645277,608371,,ball,11,Ozzie Albies homers (19) on a fly ball to right field.    Adam Duvall scores.    Joc Pederson scores.,1,0,2,2,11,-1.03,3.38
-767,2021-08-11,645277,547179,,ball,11,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,1,1,1,3,9,-0.24,3.69
+764,2021-08-11,645277,608371,,swinging_strike,14,Ozzie Albies homers (19) on a fly ball to right field.    Adam Duvall scores.    Joc Pederson scores.,2,0,2,3,11,0.11,1.28
+765,2021-08-11,645277,547179,,swinging_strike,13,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,2,1,1,4,9,-1.04,1.64
+766,2021-08-11,645277,547179,,ball,11,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,1,1,1,3,9,-0.24,3.69
+767,2021-08-11,645277,608371,,ball,11,Ozzie Albies homers (19) on a fly ball to right field.    Adam Duvall scores.    Joc Pederson scores.,1,0,2,2,11,-1.03,3.38
 768,2021-08-11,645277,608371,,ball,11,Ozzie Albies homers (19) on a fly ball to right field.    Adam Duvall scores.    Joc Pederson scores.,0,0,2,1,11,-1.51,3.64
 769,2021-08-11,645277,547179,,ball,11,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,0,1,1,2,9,-0.88,2.99
 770,2021-08-11,645277,547179,,foul,5,Ozzie Albies flies out to right fielder Nick Castellanos.   Travis d'Arnaud to 3rd.,0,0,1,1,9,0.23,2.59
@@ -842,8 +842,8 @@
 840,2021-08-06,645277,656620,strikeout,swinging_strike,1,Ozzie Albies strikes out swinging.,1,2,0,4,6,-0.28,3.18
 841,2021-08-06,645277,656620,,swinging_strike,1,Ozzie Albies strikes out swinging.,1,1,0,3,6,-0.36,2.71
 842,2021-08-06,645277,656620,,foul,5,Ozzie Albies strikes out swinging.,1,0,0,2,6,0.19,2.52
-843,2021-08-06,645277,607200,field_out,hit_into_play,13,"Ozzie Albies bunt grounds out, pitcher Erick Fedde to first baseman Josh Bell.",1,1,0,3,1,-0.88,2.05
-844,2021-08-06,645277,656620,,ball,11,Ozzie Albies strikes out swinging.,0,0,0,1,6,-0.8,3.48
+843,2021-08-06,645277,656620,,ball,11,Ozzie Albies strikes out swinging.,0,0,0,1,6,-0.8,3.48
+844,2021-08-06,645277,607200,field_out,hit_into_play,13,"Ozzie Albies bunt grounds out, pitcher Erick Fedde to first baseman Josh Bell.",1,1,0,3,1,-0.88,2.05
 845,2021-08-06,645277,607200,,foul,8,"Ozzie Albies bunt grounds out, pitcher Erick Fedde to first baseman Josh Bell.",1,0,0,2,1,-0.12,1.44
 846,2021-08-06,645277,607200,,ball,13,"Ozzie Albies bunt grounds out, pitcher Erick Fedde to first baseman Josh Bell.",0,0,0,1,1,-1.14,1.91
 847,2021-08-05,645277,453281,field_out,hit_into_play,3,Ozzie Albies flies out to right fielder Dylan Carlson.,1,2,0,4,5,0.47,2.78
@@ -860,10 +860,10 @@
 858,2021-08-05,645277,621052,,ball,13,Ozzie Albies walks.   Joc Pederson scores.    Ehire Adrianza to 3rd.    Stephen Vogt to 2nd.,2,0,2,3,8,-0.38,1.05
 859,2021-08-05,645277,621052,,ball,13,Ozzie Albies walks.   Joc Pederson scores.    Ehire Adrianza to 3rd.    Stephen Vogt to 2nd.,1,0,2,2,8,-0.03,1.07
 860,2021-08-05,645277,621052,,blocked_ball,13,Ozzie Albies walks.   Joc Pederson scores.    Ehire Adrianza to 3rd.    Stephen Vogt to 2nd.,0,0,2,1,8,-0.17,0.24
-861,2021-08-05,645277,606149,field_out,hit_into_play,5,"Ozzie Albies grounds out, first baseman Paul Goldschmidt to pitcher Giovanny Gallegos.",0,1,0,2,8,-0.13,2.09
-862,2021-08-05,645277,453281,field_out,hit_into_play,9,Ozzie Albies lines out to left fielder Tyler O'Neill.,1,0,0,2,1,0.37,1.68
-863,2021-08-05,645277,453281,,ball,12,Ozzie Albies lines out to left fielder Tyler O'Neill.,0,0,0,1,1,0.77,3.6
-864,2021-08-05,645277,606149,,swinging_strike,14,"Ozzie Albies grounds out, first baseman Paul Goldschmidt to pitcher Giovanny Gallegos.",0,0,0,1,8,0.52,0.95
+861,2021-08-05,645277,453281,field_out,hit_into_play,9,Ozzie Albies lines out to left fielder Tyler O'Neill.,1,0,0,2,1,0.37,1.68
+862,2021-08-05,645277,606149,field_out,hit_into_play,5,"Ozzie Albies grounds out, first baseman Paul Goldschmidt to pitcher Giovanny Gallegos.",0,1,0,2,8,-0.13,2.09
+863,2021-08-05,645277,606149,,swinging_strike,14,"Ozzie Albies grounds out, first baseman Paul Goldschmidt to pitcher Giovanny Gallegos.",0,0,0,1,8,0.52,0.95
+864,2021-08-05,645277,453281,,ball,12,Ozzie Albies lines out to left fielder Tyler O'Neill.,0,0,0,1,1,0.77,3.6
 865,2021-08-04,645277,457918,field_out,hit_into_play,14,Ozzie Albies lines out to left fielder Tyler O'Neill.,1,1,1,3,5,0.99,2.27
 866,2021-08-04,645277,457918,,ball,14,Ozzie Albies lines out to left fielder Tyler O'Neill.,0,1,1,2,5,1.02,0.74
 867,2021-08-04,645277,457918,,swinging_strike,3,Ozzie Albies lines out to left fielder Tyler O'Neill.,0,0,1,1,5,0.39,3.11
@@ -874,12 +874,12 @@
 872,2021-08-04,645277,457918,,ball,14,"Ozzie Albies grounds out sharply, shortstop Paul DeJong to first baseman Paul Goldschmidt.",1,0,0,2,3,1.52,0.69
 873,2021-08-04,645277,457918,,ball,14,"Ozzie Albies grounds out sharply, shortstop Paul DeJong to first baseman Paul Goldschmidt.",0,0,0,1,3,0.87,0.82
 874,2021-08-04,645277,472610,field_out,hit_into_play,5,Ozzie Albies flies out to left fielder Tyler O'Neill.,1,1,2,3,8,-0.05,2.11
-875,2021-08-04,645277,472610,,ball,13,Ozzie Albies flies out to left fielder Tyler O'Neill.,0,1,2,2,8,-1.26,1.56
+875,2021-08-04,645277,457918,single,hit_into_play,9,Ozzie Albies singles on a sharp line drive to right fielder Dylan Carlson.,0,1,0,2,1,0.71,1.58
 876,2021-08-04,645277,650893,field_out,hit_into_play,6,Ozzie Albies pops out to second baseman Tommy Edman.,1,0,0,2,7,0.43,2.59
-877,2021-08-04,645277,457918,single,hit_into_play,9,Ozzie Albies singles on a sharp line drive to right fielder Dylan Carlson.,0,1,0,2,1,0.71,1.58
-878,2021-08-04,645277,650893,,ball,12,Ozzie Albies pops out to second baseman Tommy Edman.,0,0,0,1,7,0.93,3.83
-879,2021-08-04,645277,472610,,called_strike,4,Ozzie Albies flies out to left fielder Tyler O'Neill.,0,0,2,1,8,-0.72,2.2
-880,2021-08-04,645277,457918,,foul,2,Ozzie Albies singles on a sharp line drive to right fielder Dylan Carlson.,0,0,0,1,1,0.18,3.11
+877,2021-08-04,645277,472610,,ball,13,Ozzie Albies flies out to left fielder Tyler O'Neill.,0,1,2,2,8,-1.26,1.56
+878,2021-08-04,645277,457918,,foul,2,Ozzie Albies singles on a sharp line drive to right fielder Dylan Carlson.,0,0,0,1,1,0.18,3.11
+879,2021-08-04,645277,650893,,ball,12,Ozzie Albies pops out to second baseman Tommy Edman.,0,0,0,1,7,0.93,3.83
+880,2021-08-04,645277,472610,,called_strike,4,Ozzie Albies flies out to left fielder Tyler O'Neill.,0,0,2,1,8,-0.72,2.2
 881,2021-08-03,645277,452657,grounded_into_double_play,hit_into_play,9,"Ozzie Albies grounds into a double play, shortstop Edmundo Sosa to second baseman Tommy Edman to first baseman Paul Goldschmidt.   Max Fried out at 2nd.    Ozzie Albies out at 1st.",1,0,0,2,4,0.73,1.63
 882,2021-08-03,645277,452657,,ball,11,"Ozzie Albies grounds into a double play, shortstop Edmundo Sosa to second baseman Tommy Edman to first baseman Paul Goldschmidt.   Max Fried out at 2nd.    Ozzie Albies out at 1st.",0,0,0,1,4,-0.3,3.9
 883,2021-08-03,645277,452657,field_out,hit_into_play,14,Ozzie Albies flies out to right fielder Dylan Carlson.,0,1,0,2,2,1.09,1.52
@@ -916,8 +916,8 @@
 914,2021-07-31,645277,605540,,foul,5,"Ozzie Albies grounds out, shortstop Willy Adames to first baseman Eduardo Escobar.",0,1,1,2,3,0.25,2.43
 915,2021-07-31,645277,605540,,foul,9,"Ozzie Albies grounds out, shortstop Willy Adames to first baseman Eduardo Escobar.",0,0,1,1,3,0.4,1.89
 916,2021-07-31,645277,667376,field_out,hit_into_play,8,Ozzie Albies lines out sharply to shortstop Willy Adames.,0,1,1,2,8,-0.11,1.93
-917,2021-07-31,645277,605540,strikeout,swinging_strike,11,Ozzie Albies strikes out swinging.,3,2,1,6,1,-0.31,3.55
-918,2021-07-31,645277,667376,,swinging_strike,14,Ozzie Albies lines out sharply to shortstop Willy Adames.,0,0,1,1,8,1.02,1.38
+917,2021-07-31,645277,667376,,swinging_strike,14,Ozzie Albies lines out sharply to shortstop Willy Adames.,0,0,1,1,8,1.02,1.38
+918,2021-07-31,645277,605540,strikeout,swinging_strike,11,Ozzie Albies strikes out swinging.,3,2,1,6,1,-0.31,3.55
 919,2021-07-31,645277,605540,,ball,13,Ozzie Albies strikes out swinging.,2,2,1,5,1,-1.21,2.41
 920,2021-07-31,645277,605540,,ball,14,Ozzie Albies strikes out swinging.,1,2,1,4,1,1.42,1.37
 921,2021-07-31,645277,605540,,ball,11,Ozzie Albies strikes out swinging.,0,2,1,3,1,-0.12,3.72
@@ -942,8 +942,8 @@
 940,2021-07-30,645277,669203,,foul,13,"Ozzie Albies grounds out softly, pitcher Corbin Burnes to first baseman Rowdy Tellez.   Joc Pederson to 2nd.",1,1,0,3,1,-0.89,1.38
 941,2021-07-30,645277,669203,,ball,11,"Ozzie Albies grounds out softly, pitcher Corbin Burnes to first baseman Rowdy Tellez.   Joc Pederson to 2nd.",0,1,0,2,1,-0.98,2.74
 942,2021-07-30,645277,664776,single,hit_into_play,7,Ozzie Albies singles on a line drive to left fielder Tyrone Taylor.,0,2,0,3,7,-0.49,1.71
-943,2021-07-30,645277,669203,,called_strike,6,"Ozzie Albies grounds out softly, pitcher Corbin Burnes to first baseman Rowdy Tellez.   Joc Pederson to 2nd.",0,0,0,1,1,0.34,2.39
-944,2021-07-30,645277,664776,,swinging_strike,14,Ozzie Albies singles on a line drive to left fielder Tyrone Taylor.,0,1,0,2,7,0.09,0.65
+943,2021-07-30,645277,664776,,swinging_strike,14,Ozzie Albies singles on a line drive to left fielder Tyrone Taylor.,0,1,0,2,7,0.09,0.65
+944,2021-07-30,645277,669203,,called_strike,6,"Ozzie Albies grounds out softly, pitcher Corbin Burnes to first baseman Rowdy Tellez.   Joc Pederson to 2nd.",0,0,0,1,1,0.34,2.39
 945,2021-07-30,645277,664776,,swinging_strike,5,Ozzie Albies singles on a line drive to left fielder Tyrone Taylor.,0,0,0,1,7,0.13,2.16
 946,2021-07-29,645277,592836,single,hit_into_play,8,Ozzie Albies singles on a fly ball to shortstop Jonathan Villar.   Guillermo Heredia scores.    Joc Pederson to 2nd.,1,0,1,2,5,-0.23,1.4
 947,2021-07-29,645277,592836,,ball,11,Ozzie Albies singles on a fly ball to shortstop Jonathan Villar.   Guillermo Heredia scores.    Joc Pederson to 2nd.,0,0,1,1,5,-1.26,3.12
@@ -960,8 +960,8 @@
 958,2021-07-29,645277,592836,,ball,11,Ozzie Albies strikes out swinging.,1,2,1,4,1,-0.69,5.11
 959,2021-07-29,645277,592836,,foul,9,Ozzie Albies strikes out swinging.,1,1,1,3,1,0.44,1.99
 960,2021-07-29,645277,592836,,ball,14,Ozzie Albies strikes out swinging.,0,1,1,2,1,1.87,1.34
-961,2021-07-29,645277,592836,,foul,4,Ozzie Albies strikes out swinging.,0,0,1,1,1,-0.43,2.15
-962,2021-07-29,645277,571901,field_out,hit_into_play,7,Ozzie Albies flies out to right fielder Michael Conforto.,1,2,1,4,7,-0.43,1.87
+961,2021-07-29,645277,571901,field_out,hit_into_play,7,Ozzie Albies flies out to right fielder Michael Conforto.,1,2,1,4,7,-0.43,1.87
+962,2021-07-29,645277,592836,,foul,4,Ozzie Albies strikes out swinging.,0,0,1,1,1,-0.43,2.15
 963,2021-07-29,645277,571901,,foul,12,Ozzie Albies flies out to right fielder Michael Conforto.,1,1,1,3,7,1.51,2.44
 964,2021-07-29,645277,571901,,called_strike,12,Ozzie Albies flies out to right fielder Michael Conforto.,1,0,1,2,7,0.92,2.73
 965,2021-07-29,645277,571901,,ball,12,Ozzie Albies flies out to right fielder Michael Conforto.,0,0,1,1,7,1.73,3.54
@@ -990,8 +990,8 @@
 988,2021-07-27,645277,660546,,ball,14,"Ozzie Albies grounds out, shortstop Luis Guillorme to first baseman Pete Alonso.",0,0,2,1,5,0.02,0.95
 989,2021-07-27,645277,622098,field_out,hit_into_play,12,Ozzie Albies pops out to first baseman Pete Alonso.,0,1,2,2,7,0.22,3.69
 990,2021-07-27,645277,595191,walk,ball,14,Ozzie Albies walks.   Ehire Adrianza to 2nd.,3,2,0,7,1,1.46,1.84
-991,2021-07-27,645277,595191,,foul,1,Ozzie Albies walks.   Ehire Adrianza to 2nd.,3,2,0,6,1,-0.59,2.74
-992,2021-07-27,645277,622098,,swinging_strike,2,Ozzie Albies pops out to first baseman Pete Alonso.,0,0,2,1,7,-0.1,2.94
+991,2021-07-27,645277,622098,,swinging_strike,2,Ozzie Albies pops out to first baseman Pete Alonso.,0,0,2,1,7,-0.1,2.94
+992,2021-07-27,645277,595191,,foul,1,Ozzie Albies walks.   Ehire Adrianza to 2nd.,3,2,0,6,1,-0.59,2.74
 993,2021-07-27,645277,595191,,foul,9,Ozzie Albies walks.   Ehire Adrianza to 2nd.,3,1,0,5,1,0.67,1.93
 994,2021-07-27,645277,595191,,ball,11,Ozzie Albies walks.   Ehire Adrianza to 2nd.,2,1,0,4,1,0.0,4.4
 995,2021-07-27,645277,595191,,called_strike,11,Ozzie Albies walks.   Ehire Adrianza to 2nd.,2,0,0,3,1,-0.58,3.55
@@ -1016,8 +1016,8 @@
 1014,2021-07-26,645277,571901,field_out,hit_into_play,5,Ozzie Albies flies out to right fielder Michael Conforto.,2,2,1,5,1,-0.02,2.36
 1015,2021-07-26,645277,571901,,foul,8,Ozzie Albies flies out to right fielder Michael Conforto.,2,1,1,4,1,0.04,1.97
 1016,2021-07-26,645277,571901,,foul,8,Ozzie Albies flies out to right fielder Michael Conforto.,2,0,1,3,1,-0.25,1.53
-1017,2021-07-26,645277,571901,,ball,14,Ozzie Albies flies out to right fielder Michael Conforto.,1,0,1,2,1,1.64,1.5
-1018,2021-07-26,645277,607625,walk,ball,14,Ozzie Albies walks.   Joc Pederson to 2nd.,3,0,0,4,6,0.21,1.12
+1017,2021-07-26,645277,607625,walk,ball,14,Ozzie Albies walks.   Joc Pederson to 2nd.,3,0,0,4,6,0.21,1.12
+1018,2021-07-26,645277,571901,,ball,14,Ozzie Albies flies out to right fielder Michael Conforto.,1,0,1,2,1,1.64,1.5
 1019,2021-07-26,645277,607625,,ball,13,Ozzie Albies walks.   Joc Pederson to 2nd.,2,0,0,3,6,-1.14,2.25
 1020,2021-07-26,645277,571901,,ball,14,Ozzie Albies flies out to right fielder Michael Conforto.,0,0,1,1,1,1.97,2.21
 1021,2021-07-26,645277,607625,,ball,11,Ozzie Albies walks.   Joc Pederson to 2nd.,1,0,0,2,6,-1.38,3.69
@@ -1043,8 +1043,8 @@
 1041,2021-07-24,645277,660853,,ball,12,Ozzie Albies homers (16) on a fly ball to right field.    Guillermo Heredia scores.    Joc Pederson scores.,0,1,1,2,8,0.19,3.75
 1042,2021-07-24,645277,660853,,foul,6,Ozzie Albies homers (16) on a fly ball to right field.    Guillermo Heredia scores.    Joc Pederson scores.,0,0,1,1,8,0.5,2.43
 1043,2021-07-24,645277,445213,field_out,hit_into_play,7,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,1,2,3,4,-0.46,1.55
-1044,2021-07-24,645277,445213,,ball,11,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,1,2,2,4,-1.4,2.76
-1045,2021-07-24,645277,650911,field_out,hit_into_play,6,"Ozzie Albies grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",1,0,1,2,6,0.52,2.4
+1044,2021-07-24,645277,650911,field_out,hit_into_play,6,"Ozzie Albies grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",1,0,1,2,6,0.52,2.4
+1045,2021-07-24,645277,445213,,ball,11,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,1,2,2,4,-1.4,2.76
 1046,2021-07-24,645277,650911,,ball,14,"Ozzie Albies grounds out, third baseman Alec Bohm to first baseman Rhys Hoskins.",0,0,1,1,6,1.63,2.08
 1047,2021-07-24,645277,445213,,foul,7,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,2,1,4,-0.64,1.98
 1048,2021-07-24,645277,591720,field_out,hit_into_play,11,Ozzie Albies flies out to left fielder Andrew McCutchen.,0,1,0,2,9,-1.1,3.17
@@ -1091,8 +1091,8 @@
 1089,2021-07-22,645277,445213,field_out,hit_into_play,13,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,1,1,3,7,-0.21,0.84
 1090,2021-07-22,645277,519043,,swinging_strike,2,Ozzie Albies doubles (29) on a sharp line drive to left fielder Odubel Herrera.,0,1,1,2,1,0.13,2.9
 1091,2021-07-22,645277,445213,,foul,6,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,0,1,2,7,0.68,2.62
-1092,2021-07-22,645277,445213,,ball,14,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,1,1,7,1.27,1.62
-1093,2021-07-22,645277,519043,,foul,5,Ozzie Albies doubles (29) on a sharp line drive to left fielder Odubel Herrera.,0,0,1,1,1,-0.24,2.57
+1092,2021-07-22,645277,519043,,foul,5,Ozzie Albies doubles (29) on a sharp line drive to left fielder Odubel Herrera.,0,0,1,1,1,-0.24,2.57
+1093,2021-07-22,645277,445213,,ball,14,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,1,1,7,1.27,1.62
 1094,2021-07-21,645277,663978,field_out,hit_into_play,8,Ozzie Albies flies out to center fielder Jurickson Profar.,1,1,1,3,4,0.05,1.85
 1095,2021-07-21,645277,663978,,called_strike,1,Ozzie Albies flies out to center fielder Jurickson Profar.,1,0,1,2,4,-0.42,3.12
 1096,2021-07-21,645277,663978,,ball,11,Ozzie Albies flies out to center fielder Jurickson Profar.,0,0,1,1,4,-0.01,3.56
@@ -1100,17 +1100,17 @@
 1098,2021-07-21,645277,663753,,foul,5,Ozzie Albies walks.,3,2,0,7,2,-0.26,2.12
 1099,2021-07-21,645277,663753,,ball,11,Ozzie Albies walks.,2,2,0,6,2,-1.78,2.71
 1100,2021-07-21,645277,572955,field_out,hit_into_play,9,Ozzie Albies flies out to left fielder Tommy Pham.,1,2,1,4,5,0.44,1.59
-1101,2021-07-21,645277,663753,,foul,11,Ozzie Albies walks.,2,2,0,5,2,-0.62,3.64
-1102,2021-07-21,645277,572955,,foul,2,Ozzie Albies flies out to left fielder Tommy Pham.,1,1,1,3,5,-0.27,3.1
-1103,2021-07-21,645277,572955,,ball,11,Ozzie Albies flies out to left fielder Tommy Pham.,0,1,1,2,5,-1.46,3.97
-1104,2021-07-21,645277,663753,,ball,13,Ozzie Albies walks.,1,2,0,4,2,-0.23,0.24
+1101,2021-07-21,645277,572955,,foul,2,Ozzie Albies flies out to left fielder Tommy Pham.,1,1,1,3,5,-0.27,3.1
+1102,2021-07-21,645277,663753,,foul,11,Ozzie Albies walks.,2,2,0,5,2,-0.62,3.64
+1103,2021-07-21,645277,663753,,ball,13,Ozzie Albies walks.,1,2,0,4,2,-0.23,0.24
+1104,2021-07-21,645277,572955,,ball,11,Ozzie Albies flies out to left fielder Tommy Pham.,0,1,1,2,5,-1.46,3.97
 1105,2021-07-21,645277,663753,,foul,5,Ozzie Albies walks.,1,1,0,3,2,-0.01,2.37
 1106,2021-07-21,645277,572955,,called_strike,8,Ozzie Albies flies out to left fielder Tommy Pham.,0,0,1,1,5,0.19,2.14
 1107,2021-07-21,645277,663753,,swinging_strike,1,Ozzie Albies walks.,1,0,0,2,2,-0.4,2.85
 1108,2021-07-21,645277,663978,field_out,hit_into_play,14,Ozzie Albies pops out to shortstop Fernando Tatis Jr.,1,2,0,5,2,0.97,2.37
 1109,2021-07-21,645277,453343,field_out,hit_into_play,4,Ozzie Albies flies out to left fielder Jake Marisnick.,0,0,2,1,7,-0.74,2.4
-1110,2021-07-21,645277,663978,,foul,8,Ozzie Albies pops out to shortstop Fernando Tatis Jr.,1,2,0,4,2,0.08,1.79
-1111,2021-07-21,645277,663753,,ball,11,Ozzie Albies walks.,0,0,0,1,2,-1.42,3.05
+1110,2021-07-21,645277,663753,,ball,11,Ozzie Albies walks.,0,0,0,1,2,-1.42,3.05
+1111,2021-07-21,645277,663978,,foul,8,Ozzie Albies pops out to shortstop Fernando Tatis Jr.,1,2,0,4,2,0.08,1.79
 1112,2021-07-21,645277,663978,,ball,11,Ozzie Albies pops out to shortstop Fernando Tatis Jr.,0,2,0,3,2,-0.8,4.12
 1113,2021-07-21,645277,663978,,foul_tip,4,Ozzie Albies pops out to shortstop Fernando Tatis Jr.,0,1,0,2,2,-0.49,2.47
 1114,2021-07-21,645277,663978,,swinging_strike,12,Ozzie Albies pops out to shortstop Fernando Tatis Jr.,0,0,0,1,2,0.08,3.54
@@ -1155,13 +1155,13 @@
 1153,2021-07-18,645277,448179,,swinging_strike,3,Ozzie Albies doubles (27) on a fly ball to center fielder Kevin Kiermaier.   Freddie Freeman scores.,0,1,2,2,1,0.46,2.93
 1154,2021-07-18,645277,448179,,foul,8,Ozzie Albies doubles (27) on a fly ball to center fielder Kevin Kiermaier.   Freddie Freeman scores.,0,0,2,1,1,0.03,1.85
 1155,2021-07-18,645277,552640,field_out,hit_into_play,5,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,2,0,4,5,-0.03,2.59
-1156,2021-07-18,645277,664126,single,hit_into_play,14,Ozzie Albies singles on a ground ball to left fielder Brandon Lowe.,0,2,1,5,9,0.02,1.32
-1157,2021-07-18,645277,552640,,foul,14,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,2,0,3,5,0.29,1.1
+1156,2021-07-18,645277,552640,,foul,14,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,2,0,3,5,0.29,1.1
+1157,2021-07-18,645277,664126,single,hit_into_play,14,Ozzie Albies singles on a ground ball to left fielder Brandon Lowe.,0,2,1,5,9,0.02,1.32
 1158,2021-07-18,645277,664126,,foul,2,Ozzie Albies singles on a ground ball to left fielder Brandon Lowe.,0,2,1,4,9,-0.18,3.0
 1159,2021-07-18,645277,552640,,foul,2,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,1,0,2,5,0.11,2.87
-1160,2021-07-18,645277,543521,field_out,hit_into_play,3,Ozzie Albies flies out to center fielder Kevin Kiermaier.,1,1,0,3,7,0.5,2.79
-1161,2021-07-18,645277,664126,,foul,2,Ozzie Albies singles on a ground ball to left fielder Brandon Lowe.,0,2,1,3,9,0.03,2.98
-1162,2021-07-18,645277,552640,,called_strike,1,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,0,0,1,5,-0.55,2.96
+1160,2021-07-18,645277,664126,,foul,2,Ozzie Albies singles on a ground ball to left fielder Brandon Lowe.,0,2,1,3,9,0.03,2.98
+1161,2021-07-18,645277,552640,,called_strike,1,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,0,0,1,5,-0.55,2.96
+1162,2021-07-18,645277,543521,field_out,hit_into_play,3,Ozzie Albies flies out to center fielder Kevin Kiermaier.,1,1,0,3,7,0.5,2.79
 1163,2021-07-18,645277,543521,,ball,11,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,1,0,2,7,-0.22,4.38
 1164,2021-07-18,645277,664126,,swinging_strike,9,Ozzie Albies singles on a ground ball to left fielder Brandon Lowe.,0,1,1,2,9,0.39,1.52
 1165,2021-07-18,645277,543521,,called_strike,2,Ozzie Albies flies out to center fielder Kevin Kiermaier.,0,0,0,1,7,-0.01,3.22
@@ -1214,12 +1214,12 @@
 1212,2021-07-11,645277,641154,single,hit_into_play,4,Ozzie Albies singles on a ground ball to right fielder Garrett Cooper.   Freddie Freeman scores.    Ozzie Albies to 2nd.,1,0,1,2,4,-0.4,2.33
 1213,2021-07-11,645277,641154,,ball,11,Ozzie Albies singles on a ground ball to right fielder Garrett Cooper.   Freddie Freeman scores.    Ozzie Albies to 2nd.,0,0,1,1,4,-1.49,3.16
 1214,2021-07-11,645277,641154,strikeout,swinging_strike,7,Ozzie Albies strikes out swinging.,1,2,2,7,1,-0.71,1.43
-1215,2021-07-11,645277,542914,strikeout,swinging_strike,11,Ozzie Albies strikes out swinging.,3,2,1,6,8,-0.16,3.44
-1216,2021-07-11,645277,641154,,ball,11,Ozzie Albies strikes out swinging.,0,2,2,6,1,-1.82,2.7
-1217,2021-07-11,645277,542914,,ball,11,Ozzie Albies strikes out swinging.,2,2,1,5,8,-0.79,4.06
-1218,2021-07-11,645277,641154,,foul,13,Ozzie Albies strikes out swinging.,0,2,2,5,1,-1.15,1.83
-1219,2021-07-11,645277,542914,,called_strike,6,Ozzie Albies strikes out swinging.,2,1,1,4,8,0.6,2.22
-1220,2021-07-11,645277,641154,,foul,11,Ozzie Albies strikes out swinging.,0,2,2,4,1,-0.86,3.2
+1215,2021-07-11,645277,641154,,ball,11,Ozzie Albies strikes out swinging.,0,2,2,6,1,-1.82,2.7
+1216,2021-07-11,645277,542914,strikeout,swinging_strike,11,Ozzie Albies strikes out swinging.,3,2,1,6,8,-0.16,3.44
+1217,2021-07-11,645277,641154,,foul,13,Ozzie Albies strikes out swinging.,0,2,2,5,1,-1.15,1.83
+1218,2021-07-11,645277,542914,,ball,11,Ozzie Albies strikes out swinging.,2,2,1,5,8,-0.79,4.06
+1219,2021-07-11,645277,641154,,foul,11,Ozzie Albies strikes out swinging.,0,2,2,4,1,-0.86,3.2
+1220,2021-07-11,645277,542914,,called_strike,6,Ozzie Albies strikes out swinging.,2,1,1,4,8,0.6,2.22
 1221,2021-07-11,645277,641154,,foul,5,Ozzie Albies strikes out swinging.,0,2,2,3,1,-0.23,2.47
 1222,2021-07-11,645277,542914,,ball,12,Ozzie Albies strikes out swinging.,1,1,1,3,8,0.28,3.74
 1223,2021-07-11,645277,641154,,swinging_strike,13,Ozzie Albies strikes out swinging.,0,1,2,2,1,-1.08,1.2
@@ -1313,13 +1313,13 @@
 1311,2021-07-03,645277,645261,,foul,2,Ozzie Albies singles on a sharp ground ball to right fielder Garrett Cooper.   Freddie Freeman to 3rd.,0,0,2,1,3,-0.18,2.81
 1312,2021-07-03,645277,571670,field_out,hit_into_play,5,Ozzie Albies flies out to left fielder Jesus Sanchez.,0,0,1,1,7,-0.04,2.36
 1313,2021-07-03,645277,645261,field_out,hit_into_play,2,Ozzie Albies pops out to third baseman Jon Berti in foul territory.,0,1,0,2,1,0.09,2.9
-1314,2021-07-03,645277,645261,,swinging_strike,2,Ozzie Albies pops out to third baseman Jon Berti in foul territory.,0,0,0,1,1,0.11,3.04
-1315,2021-07-03,645277,554340,field_out,hit_into_play,5,Ozzie Albies lines out sharply to right fielder Adam Duvall.,1,0,2,2,9,0.1,2.35
+1314,2021-07-03,645277,554340,field_out,hit_into_play,5,Ozzie Albies lines out sharply to right fielder Adam Duvall.,1,0,2,2,9,0.1,2.35
+1315,2021-07-03,645277,645261,,swinging_strike,2,Ozzie Albies pops out to third baseman Jon Berti in foul territory.,0,0,0,1,1,0.11,3.04
 1316,2021-07-03,645277,554340,,ball,11,Ozzie Albies lines out sharply to right fielder Adam Duvall.,0,0,2,1,9,-0.23,3.48
 1317,2021-07-02,645277,446321,sac_fly,hit_into_play,1,Ozzie Albies out on a sacrifice fly to right fielder Garrett Cooper.   Ronald Acuna scores.,1,1,0,3,1,-0.65,2.86
 1318,2021-07-02,645277,669622,strikeout,swinging_strike,4,Ozzie Albies strikes out swinging.,1,2,0,5,4,-0.75,2.21
-1319,2021-07-02,645277,446321,,called_strike,2,Ozzie Albies out on a sacrifice fly to right fielder Garrett Cooper.   Ronald Acuna scores.,1,0,0,2,1,-0.15,3.24
-1320,2021-07-02,645277,669622,,foul,2,Ozzie Albies strikes out swinging.,1,2,0,4,4,0.07,3.05
+1319,2021-07-02,645277,669622,,foul,2,Ozzie Albies strikes out swinging.,1,2,0,4,4,0.07,3.05
+1320,2021-07-02,645277,446321,,called_strike,2,Ozzie Albies out on a sacrifice fly to right fielder Garrett Cooper.   Ronald Acuna scores.,1,0,0,2,1,-0.15,3.24
 1321,2021-07-02,645277,669622,,foul,5,Ozzie Albies strikes out swinging.,1,1,0,3,4,-0.19,2.27
 1322,2021-07-02,645277,446321,,ball,11,Ozzie Albies out on a sacrifice fly to right fielder Garrett Cooper.   Ronald Acuna scores.,0,0,0,1,1,-0.24,3.62
 1323,2021-07-02,645277,542914,single,hit_into_play,13,Ozzie Albies singles on a soft ground ball to shortstop Miguel Rojas.,0,1,0,2,7,-1.13,1.47
@@ -1351,8 +1351,8 @@
 1349,2021-06-30,645277,663378,home_run,hit_into_play,7,Ozzie Albies homers (14) on a fly ball to left field.   Freddie Freeman scores.,1,0,2,2,5,-0.8,1.71
 1350,2021-06-30,645277,663378,,ball,12,Ozzie Albies homers (14) on a fly ball to left field.   Freddie Freeman scores.,0,0,2,1,5,2.49,3.49
 1351,2021-06-30,645277,656887,single,hit_into_play,3,Ozzie Albies singles on a fly ball to right fielder Michael Conforto.   Max Fried scores.    Freddie Freeman to 2nd.,0,1,1,2,4,0.79,2.92
-1352,2021-06-30,645277,656887,,swinging_strike,2,Ozzie Albies singles on a fly ball to right fielder Michael Conforto.   Max Fried scores.    Freddie Freeman to 2nd.,0,0,1,1,4,0.14,2.82
-1353,2021-06-30,645277,546991,home_run,hit_into_play,3,Ozzie Albies homers (15) on a fly ball to right center field.    Ender Inciarte scores.    Pablo Sandoval scores.,0,0,1,1,8,0.3,2.9
+1352,2021-06-30,645277,546991,home_run,hit_into_play,3,Ozzie Albies homers (15) on a fly ball to right center field.    Ender Inciarte scores.    Pablo Sandoval scores.,0,0,1,1,8,0.3,2.9
+1353,2021-06-30,645277,656887,,swinging_strike,2,Ozzie Albies singles on a fly ball to right fielder Michael Conforto.   Max Fried scores.    Freddie Freeman to 2nd.,0,0,1,1,4,0.14,2.82
 1354,2021-06-30,645277,656849,single,hit_into_play,5,Ozzie Albies singles on a line drive to right fielder Michael Conforto.   Freddie Freeman scores.,1,1,0,3,1,-0.19,2.2
 1355,2021-06-30,645277,656849,,swinging_strike,13,Ozzie Albies singles on a line drive to right fielder Michael Conforto.   Freddie Freeman scores.,1,0,0,2,1,-1.02,0.69
 1356,2021-06-30,645277,656849,,ball,12,Ozzie Albies singles on a line drive to right fielder Michael Conforto.   Freddie Freeman scores.,0,0,0,1,1,1.2,2.45
@@ -1363,8 +1363,8 @@
 1361,2021-06-29,645277,543507,,swinging_strike,3,Ozzie Albies flies out to third baseman Luis Guillorme.,1,1,2,3,7,0.36,3.15
 1362,2021-06-29,645277,543507,,called_strike,1,Ozzie Albies flies out to third baseman Luis Guillorme.,1,0,2,2,7,-0.42,3.2
 1363,2021-06-29,645277,656731,strikeout,swinging_strike,14,Ozzie Albies strikes out swinging.,1,2,2,5,1,1.42,1.2
-1364,2021-06-29,645277,543507,,ball,12,Ozzie Albies flies out to third baseman Luis Guillorme.,0,0,2,1,7,1.18,3.73
-1365,2021-06-29,645277,656731,,foul,3,Ozzie Albies strikes out swinging.,1,2,2,4,1,0.64,3.33
+1364,2021-06-29,645277,656731,,foul,3,Ozzie Albies strikes out swinging.,1,2,2,4,1,0.64,3.33
+1365,2021-06-29,645277,543507,,ball,12,Ozzie Albies flies out to third baseman Luis Guillorme.,0,0,2,1,7,1.18,3.73
 1366,2021-06-29,645277,656731,,ball,12,Ozzie Albies strikes out swinging.,0,2,2,3,1,0.62,3.74
 1367,2021-06-29,645277,656731,,foul,3,Ozzie Albies strikes out swinging.,0,1,2,2,1,0.67,2.83
 1368,2021-06-29,645277,656731,,called_strike,4,Ozzie Albies strikes out swinging.,0,0,2,1,1,-0.79,2.5
@@ -1447,8 +1447,8 @@
 1445,2021-06-23,645277,612434,walk,blocked_ball,14,Ozzie Albies walks.   Freddie Freeman to 2nd.,3,1,2,5,5,1.44,0.68
 1446,2021-06-23,645277,612434,,blocked_ball,14,Ozzie Albies walks.   Freddie Freeman to 2nd.,2,1,2,4,5,0.61,0.51
 1447,2021-06-23,645277,612434,,blocked_ball,14,Ozzie Albies walks.   Freddie Freeman to 2nd.,1,1,2,3,5,0.45,0.81
-1448,2021-06-23,645277,656731,field_out,hit_into_play,9,Ozzie Albies lines out to center fielder Kevin Pillar.,2,0,1,3,1,0.3,1.81
-1449,2021-06-23,645277,612434,,swinging_strike,8,Ozzie Albies walks.   Freddie Freeman to 2nd.,1,0,2,2,5,0.08,1.78
+1448,2021-06-23,645277,612434,,swinging_strike,8,Ozzie Albies walks.   Freddie Freeman to 2nd.,1,0,2,2,5,0.08,1.78
+1449,2021-06-23,645277,656731,field_out,hit_into_play,9,Ozzie Albies lines out to center fielder Kevin Pillar.,2,0,1,3,1,0.3,1.81
 1450,2021-06-23,645277,656731,,ball,11,Ozzie Albies lines out to center fielder Kevin Pillar.,1,0,1,2,1,-1.63,2.39
 1451,2021-06-23,645277,612434,,blocked_ball,14,Ozzie Albies walks.   Freddie Freeman to 2nd.,0,0,2,1,5,0.02,0.37
 1452,2021-06-23,645277,656731,,ball,13,Ozzie Albies lines out to center fielder Kevin Pillar.,0,0,1,1,1,-1.06,2.22
@@ -1471,18 +1471,18 @@
 1469,2021-06-21,645277,594798,,swinging_strike,2,Ozzie Albies strikes out swinging.,1,0,1,2,4,-0.22,3.13
 1470,2021-06-21,645277,594798,,ball,14,Ozzie Albies strikes out swinging.,0,0,1,1,4,0.65,1.53
 1471,2021-06-21,645277,607625,home_run,hit_into_play,4,Ozzie Albies homers (11) on a fly ball to right center field.    Freddie Freeman scores.,2,1,1,4,6,-0.47,2.63
-1472,2021-06-21,645277,595191,walk,ball,12,Ozzie Albies walks.,3,1,1,5,1,0.09,4.48
-1473,2021-06-21,645277,607625,,ball,11,Ozzie Albies homers (11) on a fly ball to right center field.    Freddie Freeman scores.,1,1,1,3,6,-1.46,3.15
+1472,2021-06-21,645277,607625,,ball,11,Ozzie Albies homers (11) on a fly ball to right center field.    Freddie Freeman scores.,1,1,1,3,6,-1.46,3.15
+1473,2021-06-21,645277,595191,walk,ball,12,Ozzie Albies walks.,3,1,1,5,1,0.09,4.48
 1474,2021-06-21,645277,612434,field_out,hit_into_play,4,Ozzie Albies grounds out to first baseman Pete Alonso.,0,2,1,3,5,-0.44,2.41
 1475,2021-06-21,645277,607625,,ball,11,Ozzie Albies homers (11) on a fly ball to right center field.    Freddie Freeman scores.,0,1,1,2,6,-2.09,3.76
 1476,2021-06-21,645277,595191,,called_strike,13,Ozzie Albies walks.,3,0,1,4,1,-0.98,1.96
-1477,2021-06-21,645277,607625,,foul,5,Ozzie Albies homers (11) on a fly ball to right center field.    Freddie Freeman scores.,0,0,1,1,6,-0.27,2.15
-1478,2021-06-21,645277,595191,,ball,11,Ozzie Albies walks.,2,0,1,3,1,-1.3,2.93
-1479,2021-06-21,645277,612434,,swinging_strike,14,Ozzie Albies grounds out to first baseman Pete Alonso.,0,1,1,2,5,0.25,0.89
+1477,2021-06-21,645277,612434,,swinging_strike,14,Ozzie Albies grounds out to first baseman Pete Alonso.,0,1,1,2,5,0.25,0.89
+1478,2021-06-21,645277,607625,,foul,5,Ozzie Albies homers (11) on a fly ball to right center field.    Freddie Freeman scores.,0,0,1,1,6,-0.27,2.15
+1479,2021-06-21,645277,595191,,ball,11,Ozzie Albies walks.,2,0,1,3,1,-1.3,2.93
 1480,2021-06-21,645277,595191,,ball,11,Ozzie Albies walks.,1,0,1,2,1,-0.5,3.88
 1481,2021-06-21,645277,612434,,called_strike,4,Ozzie Albies grounds out to first baseman Pete Alonso.,0,0,1,1,5,-0.78,2.29
-1482,2021-06-21,645277,595191,,ball,11,Ozzie Albies walks.,0,0,1,1,1,-1.2,3.77
-1483,2021-06-21,645277,594798,strikeout,swinging_strike_blocked,14,Ozzie Albies strikes out swinging.,0,2,2,3,1,1.36,0.75
+1482,2021-06-21,645277,594798,strikeout,swinging_strike_blocked,14,Ozzie Albies strikes out swinging.,0,2,2,3,1,1.36,0.75
+1483,2021-06-21,645277,595191,,ball,11,Ozzie Albies walks.,0,0,1,1,1,-1.2,3.77
 1484,2021-06-21,645277,594798,,swinging_strike,14,Ozzie Albies strikes out swinging.,0,1,2,2,1,1.77,0.88
 1485,2021-06-21,645277,594798,,foul,14,Ozzie Albies strikes out swinging.,0,0,2,1,1,1.07,2.05
 1486,2021-06-20,645277,425794,strikeout,swinging_strike,13,Ozzie Albies strikes out swinging.,2,2,1,5,6,-1.18,1.7
@@ -1557,8 +1557,8 @@
 1555,2021-06-15,645277,593958,,foul,14,Ozzie Albies singles on a line drive to left fielder J.  D. Martinez.,0,0,2,1,1,0.19,1.25
 1556,2021-06-15,645277,598264,field_out,hit_into_play,2,Ozzie Albies flies out to shortstop Xander Bogaerts.,2,1,1,4,9,-0.19,2.76
 1557,2021-06-15,645277,598264,,swinging_strike,2,Ozzie Albies flies out to shortstop Xander Bogaerts.,2,0,1,3,9,0.23,3.27
-1558,2021-06-15,645277,598264,,ball,14,Ozzie Albies flies out to shortstop Xander Bogaerts.,1,0,1,2,9,0.87,2.31
-1559,2021-06-15,645277,650382,field_out,hit_into_play,3,Ozzie Albies lines out to center fielder Alex Verdugo.,0,2,2,3,6,0.47,3.02
+1558,2021-06-15,645277,650382,field_out,hit_into_play,3,Ozzie Albies lines out to center fielder Alex Verdugo.,0,2,2,3,6,0.47,3.02
+1559,2021-06-15,645277,598264,,ball,14,Ozzie Albies flies out to shortstop Xander Bogaerts.,1,0,1,2,9,0.87,2.31
 1560,2021-06-15,645277,650382,,foul,6,Ozzie Albies lines out to center fielder Alex Verdugo.,0,1,2,2,6,0.53,2.59
 1561,2021-06-15,645277,598264,,ball,13,Ozzie Albies flies out to shortstop Xander Bogaerts.,0,0,1,1,9,-0.29,1.63
 1562,2021-06-15,645277,650382,,called_strike,9,Ozzie Albies lines out to center fielder Alex Verdugo.,0,0,2,1,6,0.75,2.05
@@ -1575,22 +1575,22 @@
 1573,2021-06-13,645277,595928,field_out,hit_into_play,8,Ozzie Albies lines out to right fielder Adam Duvall.,2,1,2,4,4,0.18,1.96
 1574,2021-06-13,645277,595928,,swinging_strike,2,Ozzie Albies lines out to right fielder Adam Duvall.,2,0,2,3,4,0.22,3.23
 1575,2021-06-13,645277,595928,,ball,11,Ozzie Albies lines out to right fielder Adam Duvall.,1,0,2,2,4,-1.13,2.5
-1576,2021-06-13,645277,446321,field_out,hit_into_play,7,Ozzie Albies pops out to second baseman Jon Berti.,1,0,1,2,6,-0.38,1.45
-1577,2021-06-13,645277,595928,,ball,11,Ozzie Albies lines out to right fielder Adam Duvall.,0,0,2,1,4,-0.06,3.54
+1576,2021-06-13,645277,595928,,ball,11,Ozzie Albies lines out to right fielder Adam Duvall.,0,0,2,1,4,-0.06,3.54
+1577,2021-06-13,645277,446321,field_out,hit_into_play,7,Ozzie Albies pops out to second baseman Jon Berti.,1,0,1,2,6,-0.38,1.45
 1578,2021-06-13,645277,446321,,ball,13,Ozzie Albies pops out to second baseman Jon Berti.,0,0,1,1,6,-0.91,1.69
 1579,2021-06-12,645277,605507,double_play,hit_into_play,5,"Ozzie Albies flies into a double play, center fielder Starling Marte to catcher Sandy Leon.   Max Fried out at home.",0,2,1,3,3,0.22,2.29
 1580,2021-06-12,645277,605507,,foul,9,"Ozzie Albies flies into a double play, center fielder Starling Marte to catcher Sandy Leon.   Max Fried out at home.",0,1,1,2,3,0.76,1.59
 1581,2021-06-12,645277,605507,,called_strike,11,"Ozzie Albies flies into a double play, center fielder Starling Marte to catcher Sandy Leon.   Max Fried out at home.",0,0,1,1,3,-0.77,3.21
 1582,2021-06-12,645277,542914,field_out,hit_into_play,8,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,9,8,0.04,2.03
 1583,2021-06-12,645277,542914,,foul,14,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,8,8,0.12,0.54
-1584,2021-06-12,645277,605507,field_out,hit_into_play,7,"Ozzie Albies grounds out, shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,1,2,4,1,-0.32,1.45
-1585,2021-06-12,645277,542914,,foul,2,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,7,8,-0.16,3.11
-1586,2021-06-12,645277,542914,,foul,7,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,6,8,-0.67,1.8
-1587,2021-06-12,645277,605507,,ball,12,"Ozzie Albies grounds out, shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,1,2,3,1,0.96,2.41
+1584,2021-06-12,645277,542914,,foul,2,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,7,8,-0.16,3.11
+1585,2021-06-12,645277,605507,field_out,hit_into_play,7,"Ozzie Albies grounds out, shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,1,2,4,1,-0.32,1.45
+1586,2021-06-12,645277,605507,,ball,12,"Ozzie Albies grounds out, shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,1,2,3,1,0.96,2.41
+1587,2021-06-12,645277,542914,,foul,7,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,6,8,-0.67,1.8
 1588,2021-06-12,645277,542914,,foul,9,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,5,8,0.54,1.57
 1589,2021-06-12,645277,605507,,ball,14,"Ozzie Albies grounds out, shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,1,2,2,1,0.99,1.64
-1590,2021-06-12,645277,542914,,foul,14,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,4,8,0.67,1.35
-1591,2021-06-12,645277,605507,,called_strike,4,"Ozzie Albies grounds out, shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,2,1,1,-0.46,2.36
+1590,2021-06-12,645277,605507,,called_strike,4,"Ozzie Albies grounds out, shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,2,1,1,-0.46,2.36
+1591,2021-06-12,645277,542914,,foul,14,Ozzie Albies flies out to center fielder Starling Marte.,1,2,1,4,8,0.67,1.35
 1592,2021-06-12,645277,542914,,called_strike,6,Ozzie Albies flies out to center fielder Starling Marte.,1,1,1,3,8,0.51,2.14
 1593,2021-06-12,645277,542914,,ball,11,Ozzie Albies flies out to center fielder Starling Marte.,0,1,1,2,8,-1.28,3.07
 1594,2021-06-12,645277,542914,,swinging_strike,14,Ozzie Albies flies out to center fielder Starling Marte.,0,0,1,1,8,0.83,1.22
@@ -1642,8 +1642,8 @@
 1640,2021-06-09,645277,624133,field_out,hit_into_play,4,"Ozzie Albies grounds out sharply, third baseman Luke Williams to first baseman Rhys Hoskins.",1,2,0,4,8,-0.29,2.66
 1641,2021-06-09,645277,624133,,foul,4,"Ozzie Albies grounds out sharply, third baseman Luke Williams to first baseman Rhys Hoskins.",1,1,0,3,8,-0.35,2.66
 1642,2021-06-09,645277,624133,,ball,14,"Ozzie Albies grounds out sharply, third baseman Luke Williams to first baseman Rhys Hoskins.",0,1,0,2,8,0.99,2.42
-1643,2021-06-09,645277,621107,triple,hit_into_play,3,Ozzie Albies triples (4) on a ground ball to right fielder Bryce Harper.,2,2,2,5,1,0.56,3.29
-1644,2021-06-09,645277,624133,,foul,1,"Ozzie Albies grounds out sharply, third baseman Luke Williams to first baseman Rhys Hoskins.",0,0,0,1,8,-0.35,3.0
+1643,2021-06-09,645277,624133,,foul,1,"Ozzie Albies grounds out sharply, third baseman Luke Williams to first baseman Rhys Hoskins.",0,0,0,1,8,-0.35,3.0
+1644,2021-06-09,645277,621107,triple,hit_into_play,3,Ozzie Albies triples (4) on a ground ball to right fielder Bryce Harper.,2,2,2,5,1,0.56,3.29
 1645,2021-06-09,645277,621107,,swinging_strike,1,Ozzie Albies triples (4) on a ground ball to right fielder Bryce Harper.,2,1,2,4,1,-0.36,3.28
 1646,2021-06-09,645277,621107,,foul,4,Ozzie Albies triples (4) on a ground ball to right fielder Bryce Harper.,2,0,2,3,1,-0.37,2.31
 1647,2021-06-09,645277,621107,,ball,12,Ozzie Albies triples (4) on a ground ball to right fielder Bryce Harper.,1,0,2,2,1,0.86,2.8
@@ -1663,10 +1663,10 @@
 1661,2021-06-08,645277,641401,field_out,hit_into_play,13,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,2,0,4,8,-0.85,1.1
 1662,2021-06-08,645277,571735,field_out,hit_into_play,9,Ozzie Albies pops out to third baseman Alec Bohm.,2,0,0,3,9,0.36,1.99
 1663,2021-06-08,645277,641401,,swinging_strike,6,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,1,0,3,8,0.52,2.64
-1664,2021-06-08,645277,641401,,foul,6,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,0,0,2,8,0.51,2.38
-1665,2021-06-08,645277,571735,,ball,12,Ozzie Albies pops out to third baseman Alec Bohm.,1,0,0,2,9,0.47,4.14
-1666,2021-06-08,645277,641401,,ball,12,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,0,1,8,0.51,3.62
-1667,2021-06-08,645277,571735,,ball,11,Ozzie Albies pops out to third baseman Alec Bohm.,0,0,0,1,9,-1.08,4.17
+1664,2021-06-08,645277,571735,,ball,12,Ozzie Albies pops out to third baseman Alec Bohm.,1,0,0,2,9,0.47,4.14
+1665,2021-06-08,645277,641401,,foul,6,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,0,0,2,8,0.51,2.38
+1666,2021-06-08,645277,571735,,ball,11,Ozzie Albies pops out to third baseman Alec Bohm.,0,0,0,1,9,-1.08,4.17
+1667,2021-06-08,645277,641401,,ball,12,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,0,1,8,0.51,3.62
 1668,2021-06-06,645277,545333,strikeout,swinging_strike_blocked,14,Ozzie Albies strikes out swinging.,0,2,1,4,5,0.32,0.48
 1669,2021-06-06,645277,545333,,foul,9,Ozzie Albies strikes out swinging.,0,2,1,3,5,0.61,1.96
 1670,2021-06-06,645277,545333,,swinging_strike,6,Ozzie Albies strikes out swinging.,0,1,1,2,5,0.31,2.19
@@ -1677,8 +1677,8 @@
 1675,2021-06-06,645277,545333,,foul,5,Ozzie Albies doubles (19) on a fly ball to center fielder Cody Bellinger.   Freddie Freeman scores.,0,0,2,1,3,-0.18,2.37
 1676,2021-06-06,645277,624647,strikeout,swinging_strike_blocked,14,Ozzie Albies strikes out swinging.,1,2,1,4,7,0.29,0.77
 1677,2021-06-06,645277,624647,,swinging_strike,14,Ozzie Albies strikes out swinging.,1,1,1,3,7,0.94,1.86
-1678,2021-06-06,645277,545333,field_out,hit_into_play,8,Ozzie Albies flies out to left fielder AJ Pollock.,2,0,2,3,1,0.18,2.01
-1679,2021-06-06,645277,624647,,ball,12,Ozzie Albies strikes out swinging.,0,1,1,2,7,1.58,2.53
+1678,2021-06-06,645277,624647,,ball,12,Ozzie Albies strikes out swinging.,0,1,1,2,7,1.58,2.53
+1679,2021-06-06,645277,545333,field_out,hit_into_play,8,Ozzie Albies flies out to left fielder AJ Pollock.,2,0,2,3,1,0.18,2.01
 1680,2021-06-06,645277,545333,,ball,14,Ozzie Albies flies out to left fielder AJ Pollock.,1,0,2,2,1,1.36,1.31
 1681,2021-06-06,645277,624647,,foul,6,Ozzie Albies strikes out swinging.,0,0,1,1,7,0.6,2.13
 1682,2021-06-06,645277,545333,,ball,4,Ozzie Albies flies out to left fielder AJ Pollock.,0,0,2,1,1,-0.71,2.19
@@ -1737,24 +1737,24 @@
 1735,2021-06-02,645277,452657,single,hit_into_play,14,Ozzie Albies singles on a sharp line drive to center fielder Victor Robles.,0,0,2,1,1,0.55,1.25
 1736,2021-06-02,645277,543339,double,hit_into_play,4,Ozzie Albies doubles (15) on a sharp fly ball to center fielder Victor Robles.   Abraham Almonte scores.    Freddie Freeman scores.,0,1,2,2,7,-0.38,2.54
 1737,2021-06-02,645277,543339,,called_strike,2,Ozzie Albies doubles (15) on a sharp fly ball to center fielder Victor Robles.   Abraham Almonte scores.    Freddie Freeman scores.,0,0,2,1,7,0.01,2.72
-1738,2021-06-01,645277,543272,force_out,hit_into_play,9,"Ozzie Albies grounds into a force out, third baseman Starlin Castro to second baseman Josh Harrison.   Ronald Acuna to 3rd.    Freddie Freeman out at 2nd.    Ozzie Albies to 1st.",1,2,0,4,9,0.45,2.01
-1739,2021-06-01,645277,608723,strikeout,swinging_strike,8,Ozzie Albies strikes out swinging.,1,2,1,4,3,-0.05,1.85
+1738,2021-06-01,645277,608723,strikeout,swinging_strike,8,Ozzie Albies strikes out swinging.,1,2,1,4,3,-0.05,1.85
+1739,2021-06-01,645277,543272,force_out,hit_into_play,9,"Ozzie Albies grounds into a force out, third baseman Starlin Castro to second baseman Josh Harrison.   Ronald Acuna to 3rd.    Freddie Freeman out at 2nd.    Ozzie Albies to 1st.",1,2,0,4,9,0.45,2.01
 1740,2021-06-01,645277,608723,,ball,14,Ozzie Albies strikes out swinging.,0,2,1,3,3,0.56,0.12
 1741,2021-06-01,645277,543272,,foul_tip,6,"Ozzie Albies grounds into a force out, third baseman Starlin Castro to second baseman Josh Harrison.   Ronald Acuna to 3rd.    Freddie Freeman out at 2nd.    Ozzie Albies to 1st.",1,1,0,3,9,0.36,2.34
 1742,2021-06-01,645277,544931,double,hit_into_play,11,Ozzie Albies doubles (14) on a line drive to left fielder Kyle Schwarber.   Ronald Acuna scores.,2,1,1,4,1,-0.92,2.46
-1743,2021-06-01,645277,608723,,called_strike,7,Ozzie Albies strikes out swinging.,0,1,1,2,3,-0.53,2.0
-1744,2021-06-01,645277,543272,,called_strike,3,"Ozzie Albies grounds into a force out, third baseman Starlin Castro to second baseman Josh Harrison.   Ronald Acuna to 3rd.    Freddie Freeman out at 2nd.    Ozzie Albies to 1st.",1,0,0,2,9,0.38,3.16
+1743,2021-06-01,645277,543272,,called_strike,3,"Ozzie Albies grounds into a force out, third baseman Starlin Castro to second baseman Josh Harrison.   Ronald Acuna to 3rd.    Freddie Freeman out at 2nd.    Ozzie Albies to 1st.",1,0,0,2,9,0.38,3.16
+1744,2021-06-01,645277,608723,,called_strike,7,Ozzie Albies strikes out swinging.,0,1,1,2,3,-0.53,2.0
 1745,2021-06-01,645277,543272,,ball,13,"Ozzie Albies grounds into a force out, third baseman Starlin Castro to second baseman Josh Harrison.   Ronald Acuna to 3rd.    Freddie Freeman out at 2nd.    Ozzie Albies to 1st.",0,0,0,1,9,-1.51,2.14
-1746,2021-06-01,645277,544931,,foul,7,Ozzie Albies doubles (14) on a line drive to left fielder Kyle Schwarber.   Ronald Acuna scores.,2,0,1,3,1,-0.31,1.4
-1747,2021-06-01,645277,608723,,called_strike,6,Ozzie Albies strikes out swinging.,0,0,1,1,3,0.54,2.2
+1746,2021-06-01,645277,608723,,called_strike,6,Ozzie Albies strikes out swinging.,0,0,1,1,3,0.54,2.2
+1747,2021-06-01,645277,544931,,foul,7,Ozzie Albies doubles (14) on a line drive to left fielder Kyle Schwarber.   Ronald Acuna scores.,2,0,1,3,1,-0.31,1.4
 1748,2021-06-01,645277,544931,,ball,11,Ozzie Albies doubles (14) on a line drive to left fielder Kyle Schwarber.   Ronald Acuna scores.,1,0,1,2,1,-0.34,4.31
 1749,2021-06-01,645277,544931,,ball,11,Ozzie Albies doubles (14) on a line drive to left fielder Kyle Schwarber.   Ronald Acuna scores.,0,0,1,1,1,-2.17,3.23
 1750,2021-06-01,645277,543339,strikeout,swinging_strike,14,Ozzie Albies strikes out swinging.,2,2,1,5,7,0.6,1.02
 1751,2021-06-01,645277,543339,,swinging_strike,5,Ozzie Albies strikes out swinging.,2,1,1,4,7,-0.15,2.23
 1752,2021-06-01,645277,543339,,ball,11,Ozzie Albies strikes out swinging.,1,1,1,3,7,-2.34,2.52
 1753,2021-06-01,645277,543339,,ball,11,Ozzie Albies strikes out swinging.,0,1,1,2,7,-0.43,3.47
-1754,2021-06-01,645277,621348,single,hit_into_play,6,Ozzie Albies singles on a line drive to left fielder Kyle Schwarber.,2,1,2,4,5,0.56,2.07
-1755,2021-06-01,645277,543339,,swinging_strike,1,Ozzie Albies strikes out swinging.,0,0,1,1,7,-0.4,2.99
+1754,2021-06-01,645277,543339,,swinging_strike,1,Ozzie Albies strikes out swinging.,0,0,1,1,7,-0.4,2.99
+1755,2021-06-01,645277,621348,single,hit_into_play,6,Ozzie Albies singles on a line drive to left fielder Kyle Schwarber.,2,1,2,4,5,0.56,2.07
 1756,2021-06-01,645277,621348,,ball,12,Ozzie Albies singles on a line drive to left fielder Kyle Schwarber.,1,1,2,3,5,1.72,2.75
 1757,2021-06-01,645277,621348,,foul,7,Ozzie Albies singles on a line drive to left fielder Kyle Schwarber.,1,0,2,2,5,-0.34,1.9
 1758,2021-06-01,645277,621348,,ball,13,Ozzie Albies singles on a line drive to left fielder Kyle Schwarber.,0,0,2,1,5,-0.65,0.4
@@ -1828,14 +1828,14 @@
 1826,2021-05-25,645277,617228,field_out,hit_into_play,7,Ozzie Albies grounds out to first baseman Bobby Dalbec.,3,2,0,7,7,-0.7,2.03
 1827,2021-05-25,645277,617228,,foul,6,Ozzie Albies grounds out to first baseman Bobby Dalbec.,3,2,0,6,7,0.36,2.15
 1828,2021-05-25,645277,617228,,ball,11,Ozzie Albies grounds out to first baseman Bobby Dalbec.,2,2,0,5,7,-1.17,3.32
-1829,2021-05-25,645277,572070,field_out,hit_into_play,13,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",2,2,2,5,1,-0.65,0.9
-1830,2021-05-25,645277,617228,,swinging_strike,13,Ozzie Albies grounds out to first baseman Bobby Dalbec.,2,1,0,4,7,-1.08,1.17
-1831,2021-05-25,645277,617228,,ball,13,Ozzie Albies grounds out to first baseman Bobby Dalbec.,1,1,0,3,7,-0.1,0.9
-1832,2021-05-25,645277,572070,,swinging_strike,7,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",2,1,2,4,1,-0.66,1.46
+1829,2021-05-25,645277,617228,,swinging_strike,13,Ozzie Albies grounds out to first baseman Bobby Dalbec.,2,1,0,4,7,-1.08,1.17
+1830,2021-05-25,645277,572070,field_out,hit_into_play,13,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",2,2,2,5,1,-0.65,0.9
+1831,2021-05-25,645277,572070,,swinging_strike,7,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",2,1,2,4,1,-0.66,1.46
+1832,2021-05-25,645277,617228,,ball,13,Ozzie Albies grounds out to first baseman Bobby Dalbec.,1,1,0,3,7,-0.1,0.9
 1833,2021-05-25,645277,617228,,ball,11,Ozzie Albies grounds out to first baseman Bobby Dalbec.,0,1,0,2,7,-1.35,2.37
 1834,2021-05-25,645277,572070,,ball,11,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",1,1,2,3,1,-1.18,3.26
-1835,2021-05-25,645277,572070,,foul,9,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",1,0,2,2,1,0.8,1.55
-1836,2021-05-25,645277,617228,,foul,13,Ozzie Albies grounds out to first baseman Bobby Dalbec.,0,0,0,1,7,-0.99,2.1
+1835,2021-05-25,645277,617228,,foul,13,Ozzie Albies grounds out to first baseman Bobby Dalbec.,0,0,0,1,7,-0.99,2.1
+1836,2021-05-25,645277,572070,,foul,9,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",1,0,2,2,1,0.8,1.55
 1837,2021-05-25,645277,572070,,blocked_ball,14,"Ozzie Albies grounds out softly, pitcher Garrett Richards to first baseman Bobby Dalbec.",0,0,2,1,1,0.32,0.58
 1838,2021-05-23,645277,664141,single,hit_into_play,8,"Ozzie Albies singles on a sharp line drive to right fielder Gregory Polanco, deflected by second baseman Adam Frazier.",0,1,0,2,6,-0.17,1.8
 1839,2021-05-23,645277,664141,,foul,7,"Ozzie Albies singles on a sharp line drive to right fielder Gregory Polanco, deflected by second baseman Adam Frazier.",0,0,0,1,6,-0.51,1.96
@@ -1849,8 +1849,8 @@
 1847,2021-05-23,645277,664141,,ball,3,Ozzie Albies singles on a ground ball to first baseman Will Craig.   Marcell Ozuna to 2nd.,1,2,2,4,1,0.68,3.31
 1848,2021-05-23,645277,664141,,ball,11,Ozzie Albies singles on a ground ball to first baseman Will Craig.   Marcell Ozuna to 2nd.,0,2,2,3,1,-0.73,4.33
 1849,2021-05-23,645277,664141,,foul,1,Ozzie Albies singles on a ground ball to first baseman Will Craig.   Marcell Ozuna to 2nd.,0,1,2,2,1,-0.48,3.05
-1850,2021-05-23,645277,605195,field_out,hit_into_play,3,Ozzie Albies flies out to right fielder Gregory Polanco.,3,2,1,6,8,0.55,3.15
-1851,2021-05-23,645277,664141,,called_strike,13,Ozzie Albies singles on a ground ball to first baseman Will Craig.   Marcell Ozuna to 2nd.,0,0,2,1,1,-0.87,2.26
+1850,2021-05-23,645277,664141,,called_strike,13,Ozzie Albies singles on a ground ball to first baseman Will Craig.   Marcell Ozuna to 2nd.,0,0,2,1,1,-0.87,2.26
+1851,2021-05-23,645277,605195,field_out,hit_into_play,3,Ozzie Albies flies out to right fielder Gregory Polanco.,3,2,1,6,8,0.55,3.15
 1852,2021-05-23,645277,605195,,swinging_strike,3,Ozzie Albies flies out to right fielder Gregory Polanco.,3,1,1,5,8,0.31,3.36
 1853,2021-05-23,645277,605195,,ball,12,Ozzie Albies flies out to right fielder Gregory Polanco.,2,1,1,4,8,0.18,4.27
 1854,2021-05-23,645277,605195,,foul,6,Ozzie Albies flies out to right fielder Gregory Polanco.,2,0,1,3,8,0.37,2.43
@@ -1863,8 +1863,8 @@
 1861,2021-05-22,645277,607572,home_run,hit_into_play,4,Ozzie Albies homers (9) on a fly ball to left center field.,2,2,2,5,7,-0.51,2.33
 1862,2021-05-22,645277,607572,,ball,12,Ozzie Albies homers (9) on a fly ball to left center field.,1,2,2,4,7,1.17,3.7
 1863,2021-05-22,645277,607572,,called_strike,12,Ozzie Albies homers (9) on a fly ball to left center field.,1,1,2,3,7,0.02,3.49
-1864,2021-05-22,645277,656605,field_out,hit_into_play,4,Ozzie Albies flies out to left fielder Ben Gamel.,2,1,1,4,1,-0.41,2.38
-1865,2021-05-22,645277,607572,,ball,11,Ozzie Albies homers (9) on a fly ball to left center field.,0,1,2,2,7,-0.34,3.47
+1864,2021-05-22,645277,607572,,ball,11,Ozzie Albies homers (9) on a fly ball to left center field.,0,1,2,2,7,-0.34,3.47
+1865,2021-05-22,645277,656605,field_out,hit_into_play,4,Ozzie Albies flies out to left fielder Ben Gamel.,2,1,1,4,1,-0.41,2.38
 1866,2021-05-22,645277,607572,,foul,5,Ozzie Albies homers (9) on a fly ball to left center field.,0,0,2,1,7,0.08,2.35
 1867,2021-05-22,645277,656605,,called_strike,11,Ozzie Albies flies out to left fielder Ben Gamel.,2,0,1,3,1,-0.66,3.41
 1868,2021-05-22,645277,656605,,ball,12,Ozzie Albies flies out to left fielder Ben Gamel.,1,0,1,2,1,1.02,3.82
@@ -1885,12 +1885,12 @@
 1883,2021-05-21,645277,594694,walk,ball,14,Ozzie Albies walks.,3,1,0,5,8,1.42,2.1
 1884,2021-05-21,645277,542881,double,hit_into_play,6,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,3,2,2,6,1,0.58,2.47
 1885,2021-05-21,645277,594694,,called_strike,3,Ozzie Albies walks.,3,0,0,4,8,0.54,2.96
-1886,2021-05-21,645277,594694,,ball,11,Ozzie Albies walks.,2,0,0,3,8,-0.64,3.87
-1887,2021-05-21,645277,542881,,swinging_strike,3,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,3,1,2,5,1,0.62,3.02
+1886,2021-05-21,645277,542881,,swinging_strike,3,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,3,1,2,5,1,0.62,3.02
+1887,2021-05-21,645277,594694,,ball,11,Ozzie Albies walks.,2,0,0,3,8,-0.64,3.87
 1888,2021-05-21,645277,542881,,swinging_strike,3,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,3,0,2,4,1,0.43,2.75
 1889,2021-05-21,645277,594694,,ball,14,Ozzie Albies walks.,1,0,0,2,8,1.22,2.24
-1890,2021-05-21,645277,542881,,ball,12,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,2,0,2,3,1,0.76,3.91
-1891,2021-05-21,645277,594694,,ball,11,Ozzie Albies walks.,0,0,0,1,8,-0.16,4.19
+1890,2021-05-21,645277,594694,,ball,11,Ozzie Albies walks.,0,0,0,1,8,-0.16,4.19
+1891,2021-05-21,645277,542881,,ball,12,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,2,0,2,3,1,0.76,3.91
 1892,2021-05-21,645277,542881,,ball,12,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,1,0,2,2,1,1.0,3.37
 1893,2021-05-21,645277,542881,,ball,14,Ozzie Albies doubles (13) on a line drive to center fielder Bryan Reynolds.   Ronald Acuna scores.,0,0,2,1,1,0.81,1.41
 1894,2021-05-20,645277,640444,field_out,hit_into_play,5,Ozzie Albies flies out to right fielder Gregory Polanco.,0,0,1,1,5,0.05,2.39
@@ -1912,8 +1912,8 @@
 1910,2021-05-20,645277,593144,,ball,11,Ozzie Albies pops out to catcher Jacob Stallings in foul territory.,0,0,2,1,10,-1.23,3.32
 1911,2021-05-20,645277,670280,field_out,hit_into_play,8,Ozzie Albies pops out to third baseman Erik Gonzalez.,2,0,2,3,7,0.16,1.66
 1912,2021-05-20,645277,670280,,ball,11,Ozzie Albies pops out to third baseman Erik Gonzalez.,1,0,2,2,7,-1.08,3.3
-1913,2021-05-20,645277,640444,field_out,hit_into_play,5,Ozzie Albies grounds out to first baseman Will Craig.,0,0,0,1,2,-0.1,2.14
-1914,2021-05-20,645277,670280,,ball,11,Ozzie Albies pops out to third baseman Erik Gonzalez.,0,0,2,1,7,-1.59,2.91
+1913,2021-05-20,645277,670280,,ball,11,Ozzie Albies pops out to third baseman Erik Gonzalez.,0,0,2,1,7,-1.59,2.91
+1914,2021-05-20,645277,640444,field_out,hit_into_play,5,Ozzie Albies grounds out to first baseman Will Craig.,0,0,0,1,2,-0.1,2.14
 1915,2021-05-19,645277,656849,field_out,hit_into_play,6,Ozzie Albies grounds out softly to pitcher David Peterson.,0,1,0,2,5,0.45,2.13
 1916,2021-05-19,645277,656849,,swinging_strike,3,Ozzie Albies grounds out softly to pitcher David Peterson.,0,0,0,1,5,0.37,2.74
 1917,2021-05-19,645277,656849,field_out,hit_into_play,8,"Ozzie Albies grounds out, shortstop Francisco Lindor to first baseman Dominic Smith.",0,1,0,2,2,-0.2,1.72
@@ -1928,8 +1928,8 @@
 1926,2021-05-19,645277,622098,,called_strike,1,Ozzie Albies strikes out swinging.,0,0,0,1,6,-0.69,2.97
 1927,2021-05-18,645277,544727,strikeout,swinging_strike_blocked,14,Ozzie Albies strikes out swinging.,0,2,2,3,8,0.53,0.32
 1928,2021-05-18,645277,544727,,swinging_strike,4,Ozzie Albies strikes out swinging.,0,1,2,2,8,-0.53,2.16
-1929,2021-05-18,645277,607229,field_out,hit_into_play,11,Ozzie Albies flies out to left fielder Dominic Smith.,1,2,1,4,4,-0.21,3.63
-1930,2021-05-18,645277,544727,,swinging_strike,14,Ozzie Albies strikes out swinging.,0,0,2,1,8,0.73,1.01
+1929,2021-05-18,645277,544727,,swinging_strike,14,Ozzie Albies strikes out swinging.,0,0,2,1,8,0.73,1.01
+1930,2021-05-18,645277,607229,field_out,hit_into_play,11,Ozzie Albies flies out to left fielder Dominic Smith.,1,2,1,4,4,-0.21,3.63
 1931,2021-05-18,645277,607229,,foul,8,Ozzie Albies flies out to left fielder Dominic Smith.,1,1,1,3,4,-0.2,1.73
 1932,2021-05-18,645277,543507,field_out,hit_into_play,14,Ozzie Albies lines out to right fielder Khalil Lee.,0,2,1,3,6,0.15,1.2
 1933,2021-05-18,645277,543507,,foul,4,Ozzie Albies lines out to right fielder Khalil Lee.,0,1,1,2,6,-0.8,2.55
@@ -1960,8 +1960,8 @@
 1958,2021-05-16,645277,642547,,ball,14,Ozzie Albies flies out to left fielder Jackie Bradley.,1,2,0,5,2,1.03,1.08
 1959,2021-05-16,645277,642547,,foul,13,Ozzie Albies flies out to left fielder Jackie Bradley.,1,2,0,4,2,-1.24,1.73
 1960,2021-05-16,645277,642547,,foul_bunt,3,Ozzie Albies flies out to left fielder Jackie Bradley.,1,1,0,3,2,0.74,2.97
-1961,2021-05-16,645277,642547,,swinging_strike,8,Ozzie Albies flies out to left fielder Jackie Bradley.,1,0,0,2,2,-0.14,1.82
-1962,2021-05-16,645277,623352,single,hit_into_play,9,Ozzie Albies singles on a fly ball to right fielder Avisail Garcia.   Freddie Freeman to 3rd.,0,0,1,1,9,0.74,1.51
+1961,2021-05-16,645277,623352,single,hit_into_play,9,Ozzie Albies singles on a fly ball to right fielder Avisail Garcia.   Freddie Freeman to 3rd.,0,0,1,1,9,0.74,1.51
+1962,2021-05-16,645277,642547,,swinging_strike,8,Ozzie Albies flies out to left fielder Jackie Bradley.,1,0,0,2,2,-0.14,1.82
 1963,2021-05-16,645277,642547,,ball,11,Ozzie Albies flies out to left fielder Jackie Bradley.,0,0,0,1,2,-1.68,3.1
 1964,2021-05-16,645277,608718,strikeout,swinging_strike,6,Ozzie Albies strikes out swinging.,1,2,2,4,7,0.53,2.54
 1965,2021-05-16,645277,608718,,foul,13,Ozzie Albies strikes out swinging.,1,1,2,3,7,-0.95,0.73
@@ -1982,8 +1982,8 @@
 1980,2021-05-15,645277,571948,single,hit_into_play,5,Ozzie Albies singles on a line drive to center fielder Jackie Bradley.   Marcell Ozuna to 2nd.,2,1,1,4,9,0.1,2.24
 1981,2021-05-15,645277,571948,,foul,1,Ozzie Albies singles on a line drive to center fielder Jackie Bradley.   Marcell Ozuna to 2nd.,2,0,1,3,9,-0.29,2.88
 1982,2021-05-15,645277,571948,,ball,12,Ozzie Albies singles on a line drive to center fielder Jackie Bradley.   Marcell Ozuna to 2nd.,1,0,1,2,9,1.92,2.98
-1983,2021-05-15,645277,571948,,ball,12,Ozzie Albies singles on a line drive to center fielder Jackie Bradley.   Marcell Ozuna to 2nd.,0,0,1,1,9,1.48,2.67
-1984,2021-05-15,645277,474463,double,hit_into_play,1,Ozzie Albies doubles (11) on a sharp fly ball to left fielder Tyrone Taylor.   Freddie Freeman scores.    Marcell Ozuna to 3rd.,2,0,1,3,1,-0.46,3.17
+1983,2021-05-15,645277,474463,double,hit_into_play,1,Ozzie Albies doubles (11) on a sharp fly ball to left fielder Tyrone Taylor.   Freddie Freeman scores.    Marcell Ozuna to 3rd.,2,0,1,3,1,-0.46,3.17
+1984,2021-05-15,645277,571948,,ball,12,Ozzie Albies singles on a line drive to center fielder Jackie Bradley.   Marcell Ozuna to 2nd.,0,0,1,1,9,1.48,2.67
 1985,2021-05-15,645277,474463,,ball,12,Ozzie Albies doubles (11) on a sharp fly ball to left fielder Tyrone Taylor.   Freddie Freeman scores.    Marcell Ozuna to 3rd.,1,0,1,2,1,1.33,3.46
 1986,2021-05-15,645277,474463,,ball,12,Ozzie Albies doubles (11) on a sharp fly ball to left fielder Tyrone Taylor.   Freddie Freeman scores.    Marcell Ozuna to 3rd.,0,0,1,1,1,1.26,3.5
 1987,2021-05-15,645277,622780,field_out,hit_into_play,6,Ozzie Albies flies out sharply to center fielder Jackie Bradley.,3,1,0,5,7,0.32,2.51
@@ -2067,10 +2067,10 @@
 2065,2021-05-09,645277,605400,triple,hit_into_play,13,Ozzie Albies triples (2) on a line drive to center fielder Odubel Herrera.   Freddie Freeman scores.,2,2,1,5,1,-0.48,1.25
 2066,2021-05-09,645277,624133,,ball,13,Ozzie Albies called out on strikes.,1,1,0,3,6,-0.86,0.63
 2067,2021-05-09,645277,605400,,blocked_ball,13,Ozzie Albies triples (2) on a line drive to center fielder Odubel Herrera.   Freddie Freeman scores.,1,2,1,4,1,-0.02,0.59
-2068,2021-05-09,645277,624133,,foul,9,Ozzie Albies called out on strikes.,1,0,0,2,6,0.49,1.86
-2069,2021-05-09,645277,605400,,ball,11,Ozzie Albies triples (2) on a line drive to center fielder Odubel Herrera.   Freddie Freeman scores.,0,2,1,3,1,-0.85,4.57
-2070,2021-05-09,645277,605400,,foul,9,Ozzie Albies triples (2) on a line drive to center fielder Odubel Herrera.   Freddie Freeman scores.,0,1,1,2,1,0.75,1.9
-2071,2021-05-09,645277,624133,,ball,12,Ozzie Albies called out on strikes.,0,0,0,1,6,2.88,4.21
+2068,2021-05-09,645277,605400,,ball,11,Ozzie Albies triples (2) on a line drive to center fielder Odubel Herrera.   Freddie Freeman scores.,0,2,1,3,1,-0.85,4.57
+2069,2021-05-09,645277,624133,,foul,9,Ozzie Albies called out on strikes.,1,0,0,2,6,0.49,1.86
+2070,2021-05-09,645277,624133,,ball,12,Ozzie Albies called out on strikes.,0,0,0,1,6,2.88,4.21
+2071,2021-05-09,645277,605400,,foul,9,Ozzie Albies triples (2) on a line drive to center fielder Odubel Herrera.   Freddie Freeman scores.,0,1,1,2,1,0.75,1.9
 2072,2021-05-09,645277,605400,,foul,5,Ozzie Albies triples (2) on a line drive to center fielder Odubel Herrera.   Freddie Freeman scores.,0,0,1,1,1,-0.02,2.48
 2073,2021-05-08,645277,592826,triple,hit_into_play,4,Ozzie Albies triples (1) on a fly ball to left fielder Andrew McCutchen.,3,2,1,6,4,-0.74,2.1
 2074,2021-05-08,645277,592826,,ball,11,Ozzie Albies triples (1) on a fly ball to left fielder Andrew McCutchen.,2,2,1,5,4,-0.88,3.53
@@ -2085,18 +2085,18 @@
 2083,2021-05-08,645277,592826,,ball,13,Ozzie Albies walks.,0,0,0,1,2,-1.32,1.94
 2084,2021-05-08,645277,641401,field_out,hit_into_play,13,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.",3,1,2,5,11,-1.18,2.18
 2085,2021-05-08,645277,641401,,ball,11,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.",2,1,2,4,11,-2.36,4.06
-2086,2021-05-08,645277,621237,field_out,hit_into_play,3,"Ozzie Albies grounds out, shortstop Didi Gregorius to first baseman Alec Bohm.",1,0,0,2,8,0.59,3.02
-2087,2021-05-08,645277,641401,,ball,12,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.",1,1,2,3,11,1.23,3.02
-2088,2021-05-08,645277,641401,,ball,11,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.",0,1,2,2,11,-0.83,4.3
-2089,2021-05-08,645277,621237,,ball,13,"Ozzie Albies grounds out, shortstop Didi Gregorius to first baseman Alec Bohm.",0,0,0,1,8,-1.68,-0.86
+2086,2021-05-08,645277,641401,,ball,12,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.",1,1,2,3,11,1.23,3.02
+2087,2021-05-08,645277,621237,field_out,hit_into_play,3,"Ozzie Albies grounds out, shortstop Didi Gregorius to first baseman Alec Bohm.",1,0,0,2,8,0.59,3.02
+2088,2021-05-08,645277,621237,,ball,13,"Ozzie Albies grounds out, shortstop Didi Gregorius to first baseman Alec Bohm.",0,0,0,1,8,-1.68,-0.86
+2089,2021-05-08,645277,641401,,ball,11,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.",0,1,2,2,11,-0.83,4.3
 2090,2021-05-08,645277,641401,,swinging_strike,2,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.",0,0,2,1,11,-0.25,2.76
 2091,2021-05-08,645277,656322,strikeout,swinging_strike,1,Ozzie Albies strikes out swinging.,1,2,1,4,6,-0.48,3.3
-2092,2021-05-08,645277,445213,field_out,hit_into_play,7,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.   Marcell Ozuna to 3rd.",0,2,0,3,10,-0.59,1.94
-2093,2021-05-08,645277,656322,,swinging_strike,1,Ozzie Albies strikes out swinging.,1,1,1,3,6,-0.77,3.21
-2094,2021-05-08,645277,445213,,foul,8,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.   Marcell Ozuna to 3rd.",0,1,0,2,10,0.09,1.81
-2095,2021-05-08,645277,656322,,ball,13,Ozzie Albies strikes out swinging.,0,1,1,2,6,-1.13,2.34
-2096,2021-05-08,645277,445213,,foul,13,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.   Marcell Ozuna to 3rd.",0,0,0,1,10,-1.13,1.77
-2097,2021-05-08,645277,656322,,foul,14,Ozzie Albies strikes out swinging.,0,0,1,1,6,0.44,1.34
+2092,2021-05-08,645277,656322,,swinging_strike,1,Ozzie Albies strikes out swinging.,1,1,1,3,6,-0.77,3.21
+2093,2021-05-08,645277,445213,field_out,hit_into_play,7,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.   Marcell Ozuna to 3rd.",0,2,0,3,10,-0.59,1.94
+2094,2021-05-08,645277,656322,,ball,13,Ozzie Albies strikes out swinging.,0,1,1,2,6,-1.13,2.34
+2095,2021-05-08,645277,445213,,foul,8,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.   Marcell Ozuna to 3rd.",0,1,0,2,10,0.09,1.81
+2096,2021-05-08,645277,656322,,foul,14,Ozzie Albies strikes out swinging.,0,0,1,1,6,0.44,1.34
+2097,2021-05-08,645277,445213,,foul,13,"Ozzie Albies grounds out, second baseman Nick Maton to first baseman Alec Bohm.   Marcell Ozuna to 3rd.",0,0,0,1,10,-1.13,1.77
 2098,2021-05-07,645277,621107,field_out,hit_into_play,2,Ozzie Albies flies out to right fielder Bryce Harper.,1,1,0,3,6,0.22,3.03
 2099,2021-05-07,645277,621107,,foul,4,Ozzie Albies flies out to right fielder Bryce Harper.,1,0,0,2,6,-0.74,2.25
 2100,2021-05-07,645277,621107,,ball,14,Ozzie Albies flies out to right fielder Bryce Harper.,0,0,0,1,6,0.34,0.85
@@ -2162,8 +2162,8 @@
 2160,2021-05-04,645277,605452,,ball,12,Ozzie Albies flies out to center fielder Victor Robles.,2,2,0,5,2,0.94,2.9
 2161,2021-05-04,645277,605452,,swinging_strike,4,Ozzie Albies flies out to center fielder Victor Robles.,2,1,0,4,2,-0.42,2.52
 2162,2021-05-04,645277,608723,field_out,hit_into_play,13,"Ozzie Albies grounds out, first baseman Josh Bell to pitcher Austin Voth.",0,1,2,2,7,-0.59,1.32
-2163,2021-05-04,645277,605452,,ball,13,Ozzie Albies flies out to center fielder Victor Robles.,1,1,0,3,2,-1.67,1.5
-2164,2021-05-04,645277,608723,,foul,8,"Ozzie Albies grounds out, first baseman Josh Bell to pitcher Austin Voth.",0,0,2,1,7,0.11,1.94
+2163,2021-05-04,645277,608723,,foul,8,"Ozzie Albies grounds out, first baseman Josh Bell to pitcher Austin Voth.",0,0,2,1,7,0.11,1.94
+2164,2021-05-04,645277,605452,,ball,13,Ozzie Albies flies out to center fielder Victor Robles.,1,1,0,3,2,-1.67,1.5
 2165,2021-05-04,645277,605452,,ball,11,Ozzie Albies flies out to center fielder Victor Robles.,0,1,0,2,2,-1.13,3.25
 2166,2021-05-04,645277,605452,,called_strike,1,Ozzie Albies flies out to center fielder Victor Robles.,0,0,0,1,2,-0.73,2.98
 2167,2021-05-02,645277,548389,strikeout,swinging_strike,2,Ozzie Albies strikes out swinging.,2,2,0,5,4,0.2,2.95
@@ -2178,10 +2178,10 @@
 2176,2021-05-02,645277,475479,,ball,11,Ozzie Albies strikes out swinging.,1,1,2,3,8,-0.91,3.12
 2177,2021-05-02,645277,475479,,ball,14,Ozzie Albies strikes out swinging.,0,1,2,2,8,1.44,1.54
 2178,2021-05-02,645277,475479,,swinging_strike,1,Ozzie Albies strikes out swinging.,0,0,2,1,8,-0.44,3.23
-2179,2021-05-02,645277,621366,field_error,hit_into_play,6,"Ozzie Albies reaches on a throwing error by shortstop Bo Bichette.  Ozzie Albies out at 2nd, catcher Danny Jansen to second baseman Marcus Semien to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,2,0,4,6,0.43,2.17
-2180,2021-05-02,645277,548389,double,hit_into_play,7,Ozzie Albies doubles (10) on a fly ball to left fielder Lourdes Gurriel Jr.,2,1,0,4,2,-0.51,1.88
-2181,2021-05-02,645277,548389,,ball,1,Ozzie Albies doubles (10) on a fly ball to left fielder Lourdes Gurriel Jr.,1,1,0,3,2,-0.63,3.58
-2182,2021-05-02,645277,621366,,swinging_strike,13,"Ozzie Albies reaches on a throwing error by shortstop Bo Bichette.  Ozzie Albies out at 2nd, catcher Danny Jansen to second baseman Marcus Semien to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,1,0,3,6,-0.65,0.78
+2179,2021-05-02,645277,548389,double,hit_into_play,7,Ozzie Albies doubles (10) on a fly ball to left fielder Lourdes Gurriel Jr.,2,1,0,4,2,-0.51,1.88
+2180,2021-05-02,645277,621366,field_error,hit_into_play,6,"Ozzie Albies reaches on a throwing error by shortstop Bo Bichette.  Ozzie Albies out at 2nd, catcher Danny Jansen to second baseman Marcus Semien to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,2,0,4,6,0.43,2.17
+2181,2021-05-02,645277,621366,,swinging_strike,13,"Ozzie Albies reaches on a throwing error by shortstop Bo Bichette.  Ozzie Albies out at 2nd, catcher Danny Jansen to second baseman Marcus Semien to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,1,0,3,6,-0.65,0.78
+2182,2021-05-02,645277,548389,,ball,1,Ozzie Albies doubles (10) on a fly ball to left fielder Lourdes Gurriel Jr.,1,1,0,3,2,-0.63,3.58
 2183,2021-05-02,645277,621366,,swinging_strike,13,"Ozzie Albies reaches on a throwing error by shortstop Bo Bichette.  Ozzie Albies out at 2nd, catcher Danny Jansen to second baseman Marcus Semien to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,0,0,2,6,-0.88,0.98
 2184,2021-05-02,645277,548389,,ball,11,Ozzie Albies doubles (10) on a fly ball to left fielder Lourdes Gurriel Jr.,0,1,0,2,2,-1.47,3.91
 2185,2021-05-02,645277,621366,,ball,4,"Ozzie Albies reaches on a throwing error by shortstop Bo Bichette.  Ozzie Albies out at 2nd, catcher Danny Jansen to second baseman Marcus Semien to shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",0,0,0,1,6,-0.82,2.42
@@ -2292,8 +2292,8 @@
 2290,2021-04-26,645277,656730,strikeout,swinging_strike,11,Ozzie Albies strikes out swinging.,0,2,0,4,6,-0.98,3.07
 2291,2021-04-26,645277,595465,field_out,hit_into_play,14,Ozzie Albies lines out to first baseman Anthony Rizzo.,2,0,0,3,8,1.04,2.09
 2292,2021-04-26,645277,656730,,foul,14,Ozzie Albies strikes out swinging.,0,2,0,3,6,1.16,1.09
-2293,2021-04-26,645277,656730,,called_strike,4,Ozzie Albies strikes out swinging.,0,1,0,2,6,-0.68,2.07
-2294,2021-04-26,645277,595465,,ball,12,Ozzie Albies lines out to first baseman Anthony Rizzo.,1,0,0,2,8,0.39,3.63
+2293,2021-04-26,645277,595465,,ball,12,Ozzie Albies lines out to first baseman Anthony Rizzo.,1,0,0,2,8,0.39,3.63
+2294,2021-04-26,645277,656730,,called_strike,4,Ozzie Albies strikes out swinging.,0,1,0,2,6,-0.68,2.07
 2295,2021-04-26,645277,595465,,ball,12,Ozzie Albies lines out to first baseman Anthony Rizzo.,0,0,0,1,8,1.02,2.82
 2296,2021-04-26,645277,656730,,called_strike,11,Ozzie Albies strikes out swinging.,0,0,0,1,6,-0.35,3.4
 2297,2021-04-25,645277,668678,field_out,hit_into_play,9,Ozzie Albies flies out to right fielder Kole Calhoun.,1,0,0,2,7,0.8,1.43
@@ -2308,8 +2308,8 @@
 2306,2021-04-25,645277,518516,field_error,hit_into_play,9,Ozzie Albies reaches on a throwing error by shortstop Nick Ahmed.,1,2,0,4,2,0.36,2.01
 2307,2021-04-25,645277,518516,,foul,8,Ozzie Albies reaches on a throwing error by shortstop Nick Ahmed.,1,1,0,3,2,-0.08,1.78
 2308,2021-04-25,645277,668678,field_out,hit_into_play,4,"Ozzie Albies grounds out, second baseman Josh VanMeter to first baseman Pavin Smith.",1,1,2,3,1,-0.42,2.12
-2309,2021-04-25,645277,518516,,ball,13,Ozzie Albies reaches on a throwing error by shortstop Nick Ahmed.,0,1,0,2,2,0.0,0.52
-2310,2021-04-25,645277,668678,,swinging_strike,2,"Ozzie Albies grounds out, second baseman Josh VanMeter to first baseman Pavin Smith.",1,0,2,2,1,-0.01,2.88
+2309,2021-04-25,645277,668678,,swinging_strike,2,"Ozzie Albies grounds out, second baseman Josh VanMeter to first baseman Pavin Smith.",1,0,2,2,1,-0.01,2.88
+2310,2021-04-25,645277,518516,,ball,13,Ozzie Albies reaches on a throwing error by shortstop Nick Ahmed.,0,1,0,2,2,0.0,0.52
 2311,2021-04-25,645277,518516,,foul,6,Ozzie Albies reaches on a throwing error by shortstop Nick Ahmed.,0,0,0,1,2,0.34,2.51
 2312,2021-04-25,645277,668678,,blocked_ball,13,"Ozzie Albies grounds out, second baseman Josh VanMeter to first baseman Pavin Smith.",0,0,2,1,1,-0.12,0.37
 2313,2021-04-23,645277,596133,field_out,hit_into_play,13,"Ozzie Albies grounds out, second baseman Eduardo Escobar to first baseman Wyatt Mathisen.   Marcell Ozuna to 2nd.",1,0,1,2,5,-0.86,1.87
@@ -2380,17 +2380,17 @@
 2378,2021-04-16,645277,605200,,ball,12,"Ozzie Albies grounds out, pitcher Zach Davies to first baseman Anthony Rizzo.",0,0,0,1,2,0.84,3.73
 2379,2021-04-16,645277,592094,strikeout,swinging_strike,14,Ozzie Albies strikes out swinging.,3,2,0,6,5,0.94,0.91
 2380,2021-04-16,645277,592094,,foul,5,Ozzie Albies strikes out swinging.,3,1,0,5,5,0.04,2.39
-2381,2021-04-16,645277,592094,,ball,11,Ozzie Albies strikes out swinging.,2,1,0,4,5,-1.77,3.63
-2382,2021-04-16,645277,657006,hit_by_pitch,hit_by_pitch,13,Ozzie Albies hit by pitch.,1,2,0,4,9,-2.81,1.8
-2383,2021-04-16,645277,592094,,foul,1,Ozzie Albies strikes out swinging.,2,0,0,3,5,-0.29,2.91
+2381,2021-04-16,645277,657006,hit_by_pitch,hit_by_pitch,13,Ozzie Albies hit by pitch.,1,2,0,4,9,-2.81,1.8
+2382,2021-04-16,645277,592094,,ball,11,Ozzie Albies strikes out swinging.,2,1,0,4,5,-1.77,3.63
+2383,2021-04-16,645277,657006,,ball,12,Ozzie Albies hit by pitch.,0,2,0,3,9,0.98,3.72
 2384,2021-04-16,645277,596027,double,hit_into_play,8,Ozzie Albies doubles (4) on a line drive to left fielder Joc Pederson.,1,1,0,3,7,0.08,1.36
-2385,2021-04-16,645277,657006,,ball,12,Ozzie Albies hit by pitch.,0,2,0,3,9,0.98,3.72
+2385,2021-04-16,645277,592094,,foul,1,Ozzie Albies strikes out swinging.,2,0,0,3,5,-0.29,2.91
 2386,2021-04-16,645277,657006,,swinging_strike,5,Ozzie Albies hit by pitch.,0,1,0,2,9,0.27,2.5
-2387,2021-04-16,645277,592094,,ball,11,Ozzie Albies strikes out swinging.,1,0,0,2,5,-0.05,4.22
-2388,2021-04-16,645277,596027,,foul,7,Ozzie Albies doubles (4) on a line drive to left fielder Joc Pederson.,1,0,0,2,7,-0.37,1.69
-2389,2021-04-16,645277,596027,,ball,11,Ozzie Albies doubles (4) on a line drive to left fielder Joc Pederson.,0,0,0,1,7,-1.4,3.31
+2387,2021-04-16,645277,596027,,foul,7,Ozzie Albies doubles (4) on a line drive to left fielder Joc Pederson.,1,0,0,2,7,-0.37,1.69
+2388,2021-04-16,645277,592094,,ball,11,Ozzie Albies strikes out swinging.,1,0,0,2,5,-0.05,4.22
+2389,2021-04-16,645277,592094,,ball,11,Ozzie Albies strikes out swinging.,0,0,0,1,5,-0.12,3.78
 2390,2021-04-16,645277,657006,,swinging_strike,2,Ozzie Albies hit by pitch.,0,0,0,1,9,-0.23,3.13
-2391,2021-04-16,645277,592094,,ball,11,Ozzie Albies strikes out swinging.,0,0,0,1,5,-0.12,3.78
+2391,2021-04-16,645277,596027,,ball,11,Ozzie Albies doubles (4) on a line drive to left fielder Joc Pederson.,0,0,0,1,7,-1.4,3.31
 2392,2021-04-15,645277,669432,strikeout,swinging_strike,14,Ozzie Albies strikes out swinging.,1,2,2,6,5,1.06,1.75
 2393,2021-04-15,645277,669432,,foul,5,Ozzie Albies strikes out swinging.,1,2,2,5,5,0.05,2.12
 2394,2021-04-15,645277,669432,,foul,4,Ozzie Albies strikes out swinging.,1,2,2,4,5,-0.51,2.31
@@ -2432,12 +2432,12 @@
 2430,2021-04-14,645277,663734,,foul,5,Ozzie Albies walks.,0,0,1,1,2,-0.25,2.17
 2431,2021-04-14,645277,643256,walk,ball,11,Ozzie Albies walks.,3,2,1,7,6,-2.26,3.34
 2432,2021-04-14,645277,643256,,foul,5,Ozzie Albies walks.,3,2,1,6,6,-0.25,2.34
-2433,2021-04-14,645277,571670,field_out,hit_into_play,13,"Ozzie Albies grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,1,1,4,8,-1.04,2.0
-2434,2021-04-14,645277,643256,,called_strike,4,Ozzie Albies walks.,3,1,1,5,6,-0.74,2.87
-2435,2021-04-14,645277,571670,,ball,11,"Ozzie Albies grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,1,1,3,8,-1.7,3.07
-2436,2021-04-14,645277,643256,,ball,14,Ozzie Albies walks.,2,1,1,4,6,1.19,1.99
-2437,2021-04-14,645277,571670,,ball,11,"Ozzie Albies grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,1,1,2,8,-0.78,3.82
-2438,2021-04-14,645277,643256,,ball,14,Ozzie Albies walks.,1,1,1,3,6,1.14,1.75
+2433,2021-04-14,645277,643256,,called_strike,4,Ozzie Albies walks.,3,1,1,5,6,-0.74,2.87
+2434,2021-04-14,645277,571670,field_out,hit_into_play,13,"Ozzie Albies grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,1,1,4,8,-1.04,2.0
+2435,2021-04-14,645277,643256,,ball,14,Ozzie Albies walks.,2,1,1,4,6,1.19,1.99
+2436,2021-04-14,645277,571670,,ball,11,"Ozzie Albies grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,1,1,3,8,-1.7,3.07
+2437,2021-04-14,645277,643256,,ball,14,Ozzie Albies walks.,1,1,1,3,6,1.14,1.75
+2438,2021-04-14,645277,571670,,ball,11,"Ozzie Albies grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,1,1,2,8,-0.78,3.82
 2439,2021-04-14,645277,571670,,foul,7,"Ozzie Albies grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,1,1,8,-0.42,1.88
 2440,2021-04-14,645277,643256,,ball,11,Ozzie Albies walks.,0,1,1,2,6,-1.44,2.61
 2441,2021-04-14,645277,643256,,called_strike,13,Ozzie Albies walks.,0,0,1,1,6,-1.09,2.18
@@ -2450,8 +2450,8 @@
 2448,2021-04-13,645277,669294,,foul,4,Ozzie Albies walks.   Freddie Freeman to 3rd.    Marcell Ozuna to 2nd.,2,1,1,4,9,-0.31,2.59
 2449,2021-04-13,645277,669294,,ball,14,Ozzie Albies walks.   Freddie Freeman to 3rd.    Marcell Ozuna to 2nd.,1,1,1,3,9,0.5,1.36
 2450,2021-04-13,645277,669294,,foul,1,Ozzie Albies walks.   Freddie Freeman to 3rd.    Marcell Ozuna to 2nd.,1,0,1,2,9,-0.58,3.07
-2451,2021-04-13,645277,641154,home_run,hit_into_play,6,Ozzie Albies homers (2) on a fly ball to right field.,2,2,2,6,1,0.52,2.59
-2452,2021-04-13,645277,669294,,ball,11,Ozzie Albies walks.   Freddie Freeman to 3rd.    Marcell Ozuna to 2nd.,0,0,1,1,9,-0.09,3.59
+2451,2021-04-13,645277,669294,,ball,11,Ozzie Albies walks.   Freddie Freeman to 3rd.    Marcell Ozuna to 2nd.,0,0,1,1,9,-0.09,3.59
+2452,2021-04-13,645277,641154,home_run,hit_into_play,6,Ozzie Albies homers (2) on a fly ball to right field.,2,2,2,6,1,0.52,2.59
 2453,2021-04-13,645277,641154,,foul,13,Ozzie Albies homers (2) on a fly ball to right field.,2,2,2,5,1,-0.97,1.99
 2454,2021-04-13,645277,641154,,foul,13,Ozzie Albies homers (2) on a fly ball to right field.,2,1,2,4,1,-1.68,1.93
 2455,2021-04-13,645277,641154,,ball,11,Ozzie Albies homers (2) on a fly ball to right field.,1,1,2,3,1,-3.73,2.94
@@ -2466,16 +2466,16 @@
 2464,2021-04-12,645277,645261,sac_fly,hit_into_play,5,Ozzie Albies out on a sacrifice fly to second baseman Jazz Chisholm Jr.  Ronald Acuna scores.,1,0,0,2,3,0.18,2.06
 2465,2021-04-12,645277,645261,,blocked_ball,14,Ozzie Albies out on a sacrifice fly to second baseman Jazz Chisholm Jr.  Ronald Acuna scores.,0,0,0,1,3,1.46,-0.4
 2466,2021-04-12,645277,554340,field_out,hit_into_play,1,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",2,2,2,7,9,-0.48,2.85
-2467,2021-04-12,645277,554340,,foul,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",2,2,2,6,9,-0.31,3.48
-2468,2021-04-12,645277,645261,field_out,hit_into_play,6,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,2,0,9,1,0.68,2.31
-2469,2021-04-12,645277,645261,,foul,14,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,2,0,8,1,0.11,0.23
-2470,2021-04-12,645277,554340,,foul,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",2,2,2,5,9,-0.95,2.95
+2467,2021-04-12,645277,645261,field_out,hit_into_play,6,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,2,0,9,1,0.68,2.31
+2468,2021-04-12,645277,554340,,foul,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",2,2,2,6,9,-0.31,3.48
+2469,2021-04-12,645277,554340,,foul,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",2,2,2,5,9,-0.95,2.95
+2470,2021-04-12,645277,645261,,foul,14,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,2,0,8,1,0.11,0.23
 2471,2021-04-12,645277,554340,,ball,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",1,2,2,4,9,-1.5,4.16
 2472,2021-04-12,645277,645261,,foul,4,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,2,0,7,1,-0.53,2.42
 2473,2021-04-12,645277,645261,,foul,13,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,2,0,6,1,-0.86,2.19
 2474,2021-04-12,645277,554340,,ball,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",0,2,2,3,9,-0.56,3.57
-2475,2021-04-12,645277,554340,,swinging_strike,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",0,1,2,2,9,-0.97,2.82
-2476,2021-04-12,645277,645261,,foul,4,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,1,0,5,1,-0.34,2.68
+2475,2021-04-12,645277,645261,,foul,4,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,1,0,5,1,-0.34,2.68
+2476,2021-04-12,645277,554340,,swinging_strike,11,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",0,1,2,2,9,-0.97,2.82
 2477,2021-04-12,645277,554340,,foul,13,"Ozzie Albies grounds out, first baseman Garrett Cooper to pitcher Yimi Garcia.",0,0,2,1,9,-0.87,2.0
 2478,2021-04-12,645277,645261,,called_strike,7,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",3,0,0,4,1,-0.7,1.87
 2479,2021-04-12,645277,645261,,ball,11,"Ozzie Albies grounds out softly, shortstop Miguel Rojas to first baseman Garrett Cooper.",2,0,0,3,1,-1.26,3.15
@@ -2509,8 +2509,8 @@
 2507,2021-04-10,645277,621107,double,hit_into_play,8,Ozzie Albies doubles (2) on a line drive to right fielder Bryce Harper.   Ronald Acuna scores.,1,2,0,5,1,0.12,1.72
 2508,2021-04-10,645277,605151,,ball,11,Ozzie Albies pops out to third baseman Alec Bohm in foul territory.,0,1,0,2,7,-1.1,3.29
 2509,2021-04-10,645277,621107,,foul,6,Ozzie Albies doubles (2) on a line drive to right fielder Bryce Harper.   Ronald Acuna scores.,1,2,0,4,1,0.3,2.58
-2510,2021-04-10,645277,621107,,ball,11,Ozzie Albies doubles (2) on a line drive to right fielder Bryce Harper.   Ronald Acuna scores.,0,2,0,3,1,-1.27,4.17
-2511,2021-04-10,645277,605151,,swinging_strike,1,Ozzie Albies pops out to third baseman Alec Bohm in foul territory.,0,0,0,1,7,-0.6,2.73
+2510,2021-04-10,645277,605151,,swinging_strike,1,Ozzie Albies pops out to third baseman Alec Bohm in foul territory.,0,0,0,1,7,-0.6,2.73
+2511,2021-04-10,645277,621107,,ball,11,Ozzie Albies doubles (2) on a line drive to right fielder Bryce Harper.   Ronald Acuna scores.,0,2,0,3,1,-1.27,4.17
 2512,2021-04-10,645277,621107,,foul,14,Ozzie Albies doubles (2) on a line drive to right fielder Bryce Harper.   Ronald Acuna scores.,0,1,0,2,1,0.89,1.76
 2513,2021-04-10,645277,621107,,called_strike,2,Ozzie Albies doubles (2) on a line drive to right fielder Bryce Harper.   Ronald Acuna scores.,0,0,0,1,1,-0.2,3.04
 2514,2021-04-09,645277,554430,double,hit_into_play,8,Ozzie Albies doubles (1) on a sharp ground ball to right fielder Bryce Harper.,1,0,0,2,5,0.09,1.9
@@ -2536,8 +2536,8 @@
 2534,2021-04-07,645277,607200,field_out,hit_into_play,13,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",2,2,0,8,2,-0.58,0.91
 2535,2021-04-07,645277,607200,,foul,14,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",2,2,0,7,2,0.83,1.33
 2536,2021-04-07,645277,544931,,blocked_ball,14,Ozzie Albies walks.,2,0,2,3,3,0.32,0.45
-2537,2021-04-07,645277,607200,,foul,8,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",2,2,0,6,2,-0.21,1.85
-2538,2021-04-07,645277,544931,,ball,13,Ozzie Albies walks.,1,0,2,2,3,-0.95,2.03
+2537,2021-04-07,645277,544931,,ball,13,Ozzie Albies walks.,1,0,2,2,3,-0.95,2.03
+2538,2021-04-07,645277,607200,,foul,8,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",2,2,0,6,2,-0.21,1.85
 2539,2021-04-07,645277,607200,,foul,11,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",2,2,0,5,2,-1.54,2.69
 2540,2021-04-07,645277,544931,,ball,1,Ozzie Albies walks.,0,0,2,1,3,-0.52,3.32
 2541,2021-04-07,645277,607200,,ball,11,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",1,2,0,4,2,-0.05,4.32
@@ -2545,9 +2545,9 @@
 2543,2021-04-07,645277,607200,,ball,2,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",0,1,0,2,2,-0.22,3.2
 2544,2021-04-07,645277,607200,,foul,4,"Ozzie Albies grounds out, shortstop Trea Turner to first baseman Ryan Zimmerman.   Max Fried scores.    Ronald Acuna to 3rd.",0,0,0,1,2,-0.36,2.34
 2545,2021-04-07,645277,544931,single,hit_into_play,4,Ozzie Albies singles on a line drive to right fielder Juan Soto.,0,0,1,1,1,-0.32,2.07
-2546,2021-04-07,645277,621348,field_out,hit_into_play,9,"Ozzie Albies grounds out sharply, pitcher Sam Clay to first baseman Ryan Zimmerman.   Ronald Acuna to 2nd.",1,0,0,2,4,0.54,1.75
+2546,2021-04-07,645277,607200,field_out,hit_into_play,14,Ozzie Albies flies out to center fielder Victor Robles.   Ronald Acuna to 3rd.,0,0,0,1,1,0.27,1.15
 2547,2021-04-07,645277,593833,single,hit_into_play,7,Ozzie Albies singles on a sharp line drive to right fielder Juan Soto.,1,1,0,3,7,-0.65,1.94
-2548,2021-04-07,645277,607200,field_out,hit_into_play,14,Ozzie Albies flies out to center fielder Victor Robles.   Ronald Acuna to 3rd.,0,0,0,1,1,0.27,1.15
+2548,2021-04-07,645277,621348,field_out,hit_into_play,9,"Ozzie Albies grounds out sharply, pitcher Sam Clay to first baseman Ryan Zimmerman.   Ronald Acuna to 2nd.",1,0,0,2,4,0.54,1.75
 2549,2021-04-07,645277,593833,,called_strike,1,Ozzie Albies singles on a sharp line drive to right fielder Juan Soto.,1,0,0,2,7,-0.73,3.3
 2550,2021-04-07,645277,621348,,ball,14,"Ozzie Albies grounds out sharply, pitcher Sam Clay to first baseman Ryan Zimmerman.   Ronald Acuna to 2nd.",0,0,0,1,4,0.45,1.31
 2551,2021-04-07,645277,593833,,ball,11,Ozzie Albies singles on a sharp line drive to right fielder Juan Soto.,0,0,0,1,7,-1.02,3.83
@@ -2564,12 +2564,12 @@
 2562,2021-04-06,645277,453286,strikeout,swinging_strike_blocked,14,Ozzie Albies strikes out swinging.,2,2,0,5,1,1.15,0.61
 2563,2021-04-06,645277,453286,,called_strike,1,Ozzie Albies strikes out swinging.,2,1,0,4,1,-0.54,3.08
 2564,2021-04-06,645277,593833,,ball,11,"Ozzie Albies grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",2,2,2,5,7,-1.56,3.75
-2565,2021-04-06,645277,593833,,foul,2,"Ozzie Albies grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",2,1,2,4,7,0.22,2.97
-2566,2021-04-06,645277,453286,,ball,12,Ozzie Albies strikes out swinging.,1,1,0,3,1,0.02,4.08
+2565,2021-04-06,645277,453286,,ball,12,Ozzie Albies strikes out swinging.,1,1,0,3,1,0.02,4.08
+2566,2021-04-06,645277,593833,,foul,2,"Ozzie Albies grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",2,1,2,4,7,0.22,2.97
 2567,2021-04-06,645277,453286,,swinging_strike,12,Ozzie Albies strikes out swinging.,1,0,0,2,1,1.19,2.57
 2568,2021-04-06,645277,593833,,ball,11,"Ozzie Albies grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",1,1,2,3,7,-2.08,4.76
-2569,2021-04-06,645277,593833,,ball,11,"Ozzie Albies grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",0,1,2,2,7,-1.3,4.69
-2570,2021-04-06,645277,453286,,ball,14,Ozzie Albies strikes out swinging.,0,0,0,1,1,2.07,1.84
+2569,2021-04-06,645277,453286,,ball,14,Ozzie Albies strikes out swinging.,0,0,0,1,1,2.07,1.84
+2570,2021-04-06,645277,593833,,ball,11,"Ozzie Albies grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",0,1,2,2,7,-1.3,4.69
 2571,2021-04-06,645277,593833,,foul,3,"Ozzie Albies grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",0,0,2,1,7,0.29,2.8
 2572,2021-04-04,645277,621107,field_out,hit_into_play,13,Ozzie Albies lines out to shortstop Didi Gregorius.,0,1,2,2,6,-0.93,0.91
 2573,2021-04-04,645277,621107,,foul,11,Ozzie Albies lines out to shortstop Didi Gregorius.,0,0,2,1,6,-1.1,2.49
@@ -2582,8 +2582,8 @@
 2580,2021-04-04,645277,621107,,ball,11,Ozzie Albies flies out to third baseman Alec Bohm.,1,2,1,4,1,-2.06,3.49
 2581,2021-04-04,645277,621107,,foul_tip,13,Ozzie Albies flies out to third baseman Alec Bohm.,1,1,1,3,1,-0.97,2.19
 2582,2021-04-04,645277,621107,,swinging_strike,14,Ozzie Albies flies out to third baseman Alec Bohm.,1,0,1,2,1,0.06,1.34
-2583,2021-04-04,645277,621107,,ball,13,Ozzie Albies flies out to third baseman Alec Bohm.,0,0,1,1,1,-1.38,2.41
-2584,2021-04-04,645277,593576,field_out,hit_into_play,9,Ozzie Albies flies out sharply to right fielder Bryce Harper.,0,0,1,1,9,0.3,1.85
+2583,2021-04-04,645277,593576,field_out,hit_into_play,9,Ozzie Albies flies out sharply to right fielder Bryce Harper.,0,0,1,1,9,0.3,1.85
+2584,2021-04-04,645277,621107,,ball,13,Ozzie Albies flies out to third baseman Alec Bohm.,0,0,1,1,1,-1.38,2.41
 2585,2021-04-03,645277,554430,field_out,hit_into_play,7,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,1,0,2,7,-0.34,1.74
 2586,2021-04-03,645277,554430,,called_strike,7,"Ozzie Albies grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,0,1,7,-0.46,1.61
 2587,2021-04-03,645277,554430,field_out,hit_into_play,9,Ozzie Albies lines out to second baseman Jean Segura.,0,0,0,1,4,0.54,1.5

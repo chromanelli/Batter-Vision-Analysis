@@ -9,5 +9,6 @@ VISION REPORT: mike_trout (2021-04-01 thru 2021-10-04)
      mike_trout saw 303 strikes and 307 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4590
+VISION SCORE METRIC B (VSA - SO%): 0.1782
 Average PA Length: 4.1507 (606/146)
 Batting Avg: 0.333

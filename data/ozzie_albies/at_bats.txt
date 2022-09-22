@@ -9,5 +9,6 @@ VISION REPORT: ozzie_albies (2021-04-01 thru 2021-10-04)
      ozzie_albies saw 1230 strikes and 1378 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4831
+VISION SCORE METRIC B (VSA - SO%): 0.2965
 Average PA Length: 3.7886 (2599/686)
 Batting Avg: 0.259

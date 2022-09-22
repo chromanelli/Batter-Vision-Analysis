@@ -9,5 +9,6 @@ VISION REPORT: pablo_sandoval (2021-04-01 thru 2021-10-04)
      pablo_sandoval saw 164 strikes and 215 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4090
+VISION SCORE METRIC B (VSA - SO%): 0.1183
 Average PA Length: 4.4070 (379/86)
 Batting Avg: 0.178

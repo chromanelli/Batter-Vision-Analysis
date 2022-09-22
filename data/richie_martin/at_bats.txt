@@ -9,5 +9,6 @@ VISION REPORT: richie_martin (2021-04-01 thru 2021-10-04)
      richie_martin saw 228 strikes and 173 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4663
+VISION SCORE METRIC B (VSA - SO%): 0.1997
 Average PA Length: 3.7143 (390/105)
 Batting Avg: 0.235

@@ -9,5 +9,6 @@ VISION REPORT: paul_goldschmidt (2021-04-01 thru 2021-10-04)
      paul_goldschmidt saw 1332 strikes and 1419 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3973
+VISION SCORE METRIC B (VSA - SO%): 0.1970
 Average PA Length: 4.0353 (2740/679)
 Batting Avg: 0.294

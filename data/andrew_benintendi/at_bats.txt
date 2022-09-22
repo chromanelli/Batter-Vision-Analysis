@@ -9,5 +9,6 @@ VISION REPORT: andrew_benintendi (2021-04-01 thru 2021-10-04)
      andrew_benintendi saw 1045 strikes and 1000 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4337
+VISION SCORE METRIC B (VSA - SO%): 0.2534
 Average PA Length: 3.7584 (2022/538)
 Batting Avg: 0.276

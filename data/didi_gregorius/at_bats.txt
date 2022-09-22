@@ -9,5 +9,6 @@ VISION REPORT: didi_gregorius (2021-04-01 thru 2021-10-04)
      didi_gregorius saw 774 strikes and 806 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4570
+VISION SCORE METRIC B (VSA - SO%): 0.2927
 Average PA Length: 3.8676 (1578/408)
 Batting Avg: 0.209

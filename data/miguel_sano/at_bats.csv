@@ -26,8 +26,8 @@
 24,2021-10-02,593934,663460,strikeout,foul_tip,5,Miguel Sano strikes out on a foul tip.,0,2,2,3,1,0.0,2.66
 25,2021-10-02,593934,663460,,foul,8,Miguel Sano strikes out on a foul tip.,0,1,2,2,1,-0.22,2.15
 26,2021-10-02,593934,593619,single,hit_into_play,5,Miguel Sano singles on a line drive to left fielder Andrew Benintendi.   Josh Donaldson to 2nd.,2,1,1,4,8,-0.27,2.48
-27,2021-10-02,593934,593619,,ball,13,Miguel Sano singles on a line drive to left fielder Andrew Benintendi.   Josh Donaldson to 2nd.,1,1,1,3,8,-1.14,2.67
-28,2021-10-02,593934,663460,,foul,5,Miguel Sano strikes out on a foul tip.,0,0,2,1,1,-0.01,2.67
+27,2021-10-02,593934,663460,,foul,5,Miguel Sano strikes out on a foul tip.,0,0,2,1,1,-0.01,2.67
+28,2021-10-02,593934,593619,,ball,13,Miguel Sano singles on a line drive to left fielder Andrew Benintendi.   Josh Donaldson to 2nd.,1,1,1,3,8,-1.14,2.67
 29,2021-10-02,593934,593619,,swinging_strike,14,Miguel Sano singles on a line drive to left fielder Andrew Benintendi.   Josh Donaldson to 2nd.,1,0,1,2,8,0.17,1.47
 30,2021-10-02,593934,593619,,ball,13,Miguel Sano singles on a line drive to left fielder Andrew Benintendi.   Josh Donaldson to 2nd.,0,0,1,1,8,-1.81,2.33
 31,2021-10-01,593934,669169,single,hit_into_play,6,Miguel Sano singles on a sharp ground ball to left fielder Andrew Benintendi.,0,0,0,1,5,0.4,2.65
@@ -79,8 +79,8 @@
 77,2021-09-28,593934,641302,,called_strike,9,Miguel Sano strikes out swinging.,0,0,0,1,4,0.75,1.75
 78,2021-09-28,593934,570632,strikeout,swinging_strike,2,Miguel Sano strikes out swinging.,3,2,2,6,8,-0.04,3.39
 79,2021-09-28,593934,570632,,blocked_ball,14,Miguel Sano strikes out swinging.,2,2,2,5,8,0.96,0.63
-80,2021-09-28,593934,641302,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,2,6,1,1.34,1.09
-81,2021-09-28,593934,570632,,blocked_ball,14,Miguel Sano strikes out swinging.,1,2,2,4,8,1.48,0.96
+80,2021-09-28,593934,570632,,blocked_ball,14,Miguel Sano strikes out swinging.,1,2,2,4,8,1.48,0.96
+81,2021-09-28,593934,641302,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,2,6,1,1.34,1.09
 82,2021-09-28,593934,641302,,ball,12,Miguel Sano strikes out swinging.,1,2,2,5,1,0.77,3.89
 83,2021-09-28,593934,570632,,blocked_ball,13,Miguel Sano strikes out swinging.,0,2,2,3,8,-0.07,0.59
 84,2021-09-28,593934,641302,,foul,14,Miguel Sano strikes out swinging.,1,2,2,4,1,0.13,1.35
@@ -132,12 +132,12 @@
 130,2021-09-24,593934,621244,,ball,11,"Miguel Sano grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",0,0,2,1,3,-1.58,4.35
 131,2021-09-24,593934,663878,walk,ball,14,Miguel Sano walks.,3,2,2,8,8,1.52,1.02
 132,2021-09-24,593934,663878,,ball,11,Miguel Sano walks.,2,2,2,7,8,-1.25,2.81
-133,2021-09-24,593934,621244,strikeout,swinging_strike,2,Miguel Sano strikes out swinging.,1,2,2,4,1,-0.02,3.6
-134,2021-09-24,593934,663878,,foul,2,Miguel Sano walks.,2,2,2,6,8,0.01,3.18
+133,2021-09-24,593934,663878,,foul,2,Miguel Sano walks.,2,2,2,6,8,0.01,3.18
+134,2021-09-24,593934,621244,strikeout,swinging_strike,2,Miguel Sano strikes out swinging.,1,2,2,4,1,-0.02,3.6
 135,2021-09-24,593934,621244,,blocked_ball,14,Miguel Sano strikes out swinging.,0,2,2,3,1,0.98,0.16
 136,2021-09-24,593934,663878,,foul,5,Miguel Sano walks.,2,2,2,5,8,0.1,2.52
-137,2021-09-24,593934,663878,,called_strike,12,Miguel Sano walks.,2,1,2,4,8,0.86,3.11
-138,2021-09-24,593934,621244,,foul,4,Miguel Sano strikes out swinging.,0,1,2,2,1,-0.81,2.58
+137,2021-09-24,593934,621244,,foul,4,Miguel Sano strikes out swinging.,0,1,2,2,1,-0.81,2.58
+138,2021-09-24,593934,663878,,called_strike,12,Miguel Sano walks.,2,1,2,4,8,0.86,3.11
 139,2021-09-24,593934,663878,,ball,13,Miguel Sano walks.,1,1,2,3,8,-1.61,1.53
 140,2021-09-24,593934,621244,,foul,13,Miguel Sano strikes out swinging.,0,0,2,1,1,-0.12,1.16
 141,2021-09-24,593934,663878,,ball,11,Miguel Sano walks.,0,1,2,2,8,-0.25,3.85
@@ -150,14 +150,14 @@
 148,2021-09-23,593934,571927,,swinging_strike,9,Miguel Sano singles on a sharp line drive to left fielder Lourdes Gurriel.   Josh Donaldson to 3rd.    Mitch Garver to 2nd.,0,0,1,1,3,0.36,1.96
 149,2021-09-23,593934,571927,walk,ball,11,Miguel Sano walks.,3,2,0,6,2,-0.91,3.37
 150,2021-09-23,593934,571927,,ball,12,Miguel Sano walks.,2,2,0,5,2,0.64,4.61
-151,2021-09-23,593934,571927,,foul,8,Miguel Sano walks.,2,1,0,4,2,0.24,1.89
-152,2021-09-23,593934,641672,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,1,5,5,0.67,1.14
-153,2021-09-23,593934,571927,,ball,11,Miguel Sano walks.,1,1,0,3,2,-0.96,2.96
-154,2021-09-23,593934,641672,,ball,11,Miguel Sano strikes out swinging.,1,2,1,4,5,-1.55,2.95
+151,2021-09-23,593934,641672,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,1,5,5,0.67,1.14
+152,2021-09-23,593934,571927,,foul,8,Miguel Sano walks.,2,1,0,4,2,0.24,1.89
+153,2021-09-23,593934,641672,,ball,11,Miguel Sano strikes out swinging.,1,2,1,4,5,-1.55,2.95
+154,2021-09-23,593934,571927,,ball,11,Miguel Sano walks.,1,1,0,3,2,-0.96,2.96
 155,2021-09-23,593934,641672,,swinging_strike,13,Miguel Sano strikes out swinging.,1,1,1,3,5,-0.56,1.31
 156,2021-09-23,593934,571927,,called_strike,3,Miguel Sano walks.,1,0,0,2,2,0.45,3.06
-157,2021-09-23,593934,571927,,ball,13,Miguel Sano walks.,0,0,0,1,2,-0.69,0.63
-158,2021-09-23,593934,641672,,ball,13,Miguel Sano strikes out swinging.,0,1,1,2,5,-1.64,1.88
+157,2021-09-23,593934,641672,,ball,13,Miguel Sano strikes out swinging.,0,1,1,2,5,-1.64,1.88
+158,2021-09-23,593934,571927,,ball,13,Miguel Sano walks.,0,0,0,1,2,-0.69,0.63
 159,2021-09-23,593934,641672,,swinging_strike,14,Miguel Sano strikes out swinging.,0,0,1,1,5,1.06,1.5
 160,2021-09-23,593934,621366,grounded_into_double_play,hit_into_play,5,"Miguel Sano grounds into a double play, shortstop Bo Bichette to second baseman Marcus Semien to first baseman Vladimir Guerrero.   Jake Cave out at 2nd.    Miguel Sano out at 1st.",3,1,0,5,7,-0.21,2.52
 161,2021-09-23,593934,621366,,ball,12,"Miguel Sano grounds into a double play, shortstop Bo Bichette to second baseman Marcus Semien to first baseman Vladimir Guerrero.   Jake Cave out at 2nd.    Miguel Sano out at 1st.",2,1,0,4,7,1.87,2.97
@@ -190,13 +190,13 @@
 188,2021-09-21,593934,621219,,ball,14,Miguel Sano flies out to left fielder Ian Happ.,1,0,0,2,2,0.63,1.35
 189,2021-09-21,593934,621219,,ball,14,Miguel Sano flies out to left fielder Ian Happ.,0,0,0,1,2,1.48,1.3
 190,2021-09-21,593934,664123,strikeout,swinging_strike,11,Miguel Sano strikes out swinging.,1,2,1,4,5,-0.83,3.05
-191,2021-09-21,593934,664123,,called_strike,6,Miguel Sano strikes out swinging.,1,1,1,3,5,0.71,2.6
-192,2021-09-21,593934,621074,field_out,hit_into_play,12,Miguel Sano flies out to right fielder Trayce Thompson.,0,2,2,3,8,0.96,3.24
-193,2021-09-21,593934,664123,,foul_tip,14,Miguel Sano strikes out swinging.,1,0,1,2,5,0.95,1.76
-194,2021-09-21,593934,621074,,foul,9,Miguel Sano flies out to right fielder Trayce Thompson.,0,1,2,2,8,0.68,1.76
+191,2021-09-21,593934,621074,field_out,hit_into_play,12,Miguel Sano flies out to right fielder Trayce Thompson.,0,2,2,3,8,0.96,3.24
+192,2021-09-21,593934,664123,,called_strike,6,Miguel Sano strikes out swinging.,1,1,1,3,5,0.71,2.6
+193,2021-09-21,593934,621074,,foul,9,Miguel Sano flies out to right fielder Trayce Thompson.,0,1,2,2,8,0.68,1.76
+194,2021-09-21,593934,664123,,foul_tip,14,Miguel Sano strikes out swinging.,1,0,1,2,5,0.95,1.76
 195,2021-09-21,593934,664123,,ball,14,Miguel Sano strikes out swinging.,0,0,1,1,5,1.99,2.52
-196,2021-09-21,593934,656730,double,hit_into_play,7,Miguel Sano doubles (22) on a sharp line drive to left fielder Ian Happ.   Josh Donaldson scores.,0,1,1,2,7,-0.78,1.67
-197,2021-09-21,593934,621074,,swinging_strike,5,Miguel Sano flies out to right fielder Trayce Thompson.,0,0,2,1,8,-0.22,2.66
+196,2021-09-21,593934,621074,,swinging_strike,5,Miguel Sano flies out to right fielder Trayce Thompson.,0,0,2,1,8,-0.22,2.66
+197,2021-09-21,593934,656730,double,hit_into_play,7,Miguel Sano doubles (22) on a sharp line drive to left fielder Ian Happ.   Josh Donaldson scores.,0,1,1,2,7,-0.78,1.67
 198,2021-09-21,593934,656730,,foul_tip,13,Miguel Sano doubles (22) on a sharp line drive to left fielder Ian Happ.   Josh Donaldson scores.,0,0,1,1,7,-0.86,2.47
 199,2021-09-19,593934,621244,strikeout,swinging_strike,9,Miguel Sano strikes out swinging.,1,2,2,5,6,0.39,1.96
 200,2021-09-19,593934,621244,,foul,5,Miguel Sano strikes out swinging.,1,2,2,4,6,0.23,2.92
@@ -276,20 +276,20 @@
 274,2021-09-14,593934,663531,,ball,13,Miguel Sano singles on a line drive to left fielder Oscar Mercado.   Jorge Polanco to 3rd.    Miguel Sano to 2nd.,1,0,1,2,4,-0.9,1.41
 275,2021-09-14,593934,663531,,ball,11,Miguel Sano singles on a line drive to left fielder Oscar Mercado.   Jorge Polanco to 3rd.    Miguel Sano to 2nd.,0,0,1,1,4,-0.99,4.26
 276,2021-09-14,593934,663474,strikeout,foul_tip,3,Miguel Sano strikes out on a foul tip.,1,2,0,6,2,0.29,3.33
-277,2021-09-14,593934,663474,,foul,14,Miguel Sano strikes out on a foul tip.,1,2,0,5,2,0.85,1.59
-278,2021-09-14,593934,663986,strikeout,swinging_strike,4,Miguel Sano strikes out swinging.,2,2,0,5,6,-0.3,2.71
+277,2021-09-14,593934,663986,strikeout,swinging_strike,4,Miguel Sano strikes out swinging.,2,2,0,5,6,-0.3,2.71
+278,2021-09-14,593934,663474,,foul,14,Miguel Sano strikes out on a foul tip.,1,2,0,5,2,0.85,1.59
 279,2021-09-14,593934,663531,walk,ball,14,Miguel Sano walks.,3,0,0,4,2,0.33,1.15
-280,2021-09-14,593934,663474,,ball,14,Miguel Sano strikes out on a foul tip.,0,2,0,4,2,0.61,1.2
-281,2021-09-14,593934,663986,,ball,11,Miguel Sano strikes out swinging.,1,2,0,4,6,-0.67,4.36
-282,2021-09-14,593934,663474,,foul,4,Miguel Sano strikes out on a foul tip.,0,2,0,3,2,-0.61,2.4
-283,2021-09-14,593934,663986,,called_strike,9,Miguel Sano strikes out swinging.,1,1,0,3,6,0.81,1.69
+280,2021-09-14,593934,663986,,ball,11,Miguel Sano strikes out swinging.,1,2,0,4,6,-0.67,4.36
+281,2021-09-14,593934,663474,,ball,14,Miguel Sano strikes out on a foul tip.,0,2,0,4,2,0.61,1.2
+282,2021-09-14,593934,663986,,called_strike,9,Miguel Sano strikes out swinging.,1,1,0,3,6,0.81,1.69
+283,2021-09-14,593934,663474,,foul,4,Miguel Sano strikes out on a foul tip.,0,2,0,3,2,-0.61,2.4
 284,2021-09-14,593934,663531,,ball,14,Miguel Sano walks.,2,0,0,3,2,0.33,1.33
-285,2021-09-14,593934,663531,,ball,12,Miguel Sano walks.,1,0,0,2,2,1.0,4.01
+285,2021-09-14,593934,663474,,called_strike,13,Miguel Sano strikes out on a foul tip.,0,1,0,2,2,-0.78,1.63
 286,2021-09-14,593934,663986,,ball,14,Miguel Sano strikes out swinging.,0,1,0,2,6,1.09,1.67
-287,2021-09-14,593934,663474,,called_strike,13,Miguel Sano strikes out on a foul tip.,0,1,0,2,2,-0.78,1.63
-288,2021-09-14,593934,663531,,ball,11,Miguel Sano walks.,0,0,0,1,2,-0.56,4.21
-289,2021-09-14,593934,663474,,foul,8,Miguel Sano strikes out on a foul tip.,0,0,0,1,2,0.25,2.12
-290,2021-09-14,593934,663986,,swinging_strike,14,Miguel Sano strikes out swinging.,0,0,0,1,6,1.11,2.44
+287,2021-09-14,593934,663531,,ball,12,Miguel Sano walks.,1,0,0,2,2,1.0,4.01
+288,2021-09-14,593934,663474,,foul,8,Miguel Sano strikes out on a foul tip.,0,0,0,1,2,0.25,2.12
+289,2021-09-14,593934,663986,,swinging_strike,14,Miguel Sano strikes out swinging.,0,0,0,1,6,1.11,2.44
+290,2021-09-14,593934,663531,,ball,11,Miguel Sano walks.,0,0,0,1,2,-0.56,4.21
 291,2021-09-14,593934,661403,strikeout,swinging_strike,6,Miguel Sano strikes out swinging.,3,2,1,6,7,0.45,2.59
 292,2021-09-14,593934,661403,,ball,14,Miguel Sano strikes out swinging.,2,2,1,5,7,0.67,1.48
 293,2021-09-14,593934,661403,,foul,8,Miguel Sano strikes out swinging.,2,1,1,4,7,-0.1,2.09
@@ -330,8 +330,8 @@
 328,2021-09-12,593934,663460,,ball,11,Miguel Sano strikes out swinging.,1,2,0,4,2,-0.7,3.86
 329,2021-09-12,593934,663460,,ball,11,Miguel Sano strikes out swinging.,0,2,0,3,2,-1.14,3.81
 330,2021-09-12,593934,663460,,swinging_strike,1,Miguel Sano strikes out swinging.,0,1,0,2,2,-0.75,3.05
-331,2021-09-12,593934,663460,,foul,5,Miguel Sano strikes out swinging.,0,0,0,1,2,-0.05,2.37
-332,2021-09-12,593934,622251,grounded_into_double_play,hit_into_play,13,"Miguel Sano grounds into a double play, shortstop Nicky Lopez to second baseman Whit Merrifield to first baseman Hunter Dozier.   Josh Donaldson out at 2nd.    Miguel Sano out at 1st.",2,2,1,5,8,-0.25,1.17
+331,2021-09-12,593934,622251,grounded_into_double_play,hit_into_play,13,"Miguel Sano grounds into a double play, shortstop Nicky Lopez to second baseman Whit Merrifield to first baseman Hunter Dozier.   Josh Donaldson out at 2nd.    Miguel Sano out at 1st.",2,2,1,5,8,-0.25,1.17
+332,2021-09-12,593934,663460,,foul,5,Miguel Sano strikes out swinging.,0,0,0,1,2,-0.05,2.37
 333,2021-09-12,593934,622251,,foul,1,"Miguel Sano grounds into a double play, shortstop Nicky Lopez to second baseman Whit Merrifield to first baseman Hunter Dozier.   Josh Donaldson out at 2nd.    Miguel Sano out at 1st.",2,1,1,4,8,-0.56,3.36
 334,2021-09-12,593934,622251,,ball,13,"Miguel Sano grounds into a double play, shortstop Nicky Lopez to second baseman Whit Merrifield to first baseman Hunter Dozier.   Josh Donaldson out at 2nd.    Miguel Sano out at 1st.",1,1,1,3,8,-1.06,2.61
 335,2021-09-12,593934,622251,,called_strike,6,"Miguel Sano grounds into a double play, shortstop Nicky Lopez to second baseman Whit Merrifield to first baseman Hunter Dozier.   Josh Donaldson out at 2nd.    Miguel Sano out at 1st.",1,0,1,2,8,0.42,2.55
@@ -371,10 +371,10 @@
 369,2021-09-10,593934,663738,,ball,13,Miguel Sano flies out to right fielder Hunter Dozier.,0,1,2,2,3,-0.98,1.44
 370,2021-09-10,593934,663738,,swinging_strike,8,Miguel Sano flies out to right fielder Hunter Dozier.,0,0,2,1,3,-0.01,2.17
 371,2021-09-10,593934,663738,field_out,hit_into_play,5,Miguel Sano flies out sharply to right fielder Hunter Dozier.,1,1,0,3,1,0.22,2.39
-372,2021-09-10,593934,663738,,ball,11,Miguel Sano flies out sharply to right fielder Hunter Dozier.,0,1,0,2,1,-1.28,3.75
-373,2021-09-10,593934,622251,strikeout,swinging_strike,2,Miguel Sano strikes out swinging.,1,2,2,4,8,-0.08,3.27
-374,2021-09-10,593934,663738,,called_strike,1,Miguel Sano flies out sharply to right fielder Hunter Dozier.,0,0,0,1,1,-0.71,3.23
-375,2021-09-10,593934,622251,,swinging_strike,14,Miguel Sano strikes out swinging.,1,1,2,3,8,0.01,1.04
+372,2021-09-10,593934,622251,strikeout,swinging_strike,2,Miguel Sano strikes out swinging.,1,2,2,4,8,-0.08,3.27
+373,2021-09-10,593934,663738,,ball,11,Miguel Sano flies out sharply to right fielder Hunter Dozier.,0,1,0,2,1,-1.28,3.75
+374,2021-09-10,593934,622251,,swinging_strike,14,Miguel Sano strikes out swinging.,1,1,2,3,8,0.01,1.04
+375,2021-09-10,593934,663738,,called_strike,1,Miguel Sano flies out sharply to right fielder Hunter Dozier.,0,0,0,1,1,-0.71,3.23
 376,2021-09-10,593934,622251,,blocked_ball,14,Miguel Sano strikes out swinging.,0,1,2,2,8,1.31,0.77
 377,2021-09-10,593934,622251,,swinging_strike_blocked,14,Miguel Sano strikes out swinging.,0,0,2,1,8,0.52,0.72
 378,2021-09-10,593934,518813,field_out,hit_into_play,8,Miguel Sano flies out to second baseman Whit Merrifield in foul territory.,3,0,1,4,11,0.24,2.07
@@ -404,8 +404,8 @@
 402,2021-09-08,593934,663474,,swinging_strike,9,"Miguel Sano reaches on a fielder's choice out, pitcher Triston McKenzie unassisted.   Josh Donaldson out at home.",1,0,1,2,2,0.68,1.79
 403,2021-09-08,593934,663474,,ball,2,"Miguel Sano reaches on a fielder's choice out, pitcher Triston McKenzie unassisted.   Josh Donaldson out at home.",0,0,1,1,2,0.24,3.63
 404,2021-09-08,593934,621295,home_run,hit_into_play,8,Miguel Sano homers (25) on a fly ball to center field.,2,1,2,4,7,-0.23,2.18
-405,2021-09-08,593934,621295,,foul,8,Miguel Sano homers (25) on a fly ball to center field.,2,0,2,3,7,0.05,1.78
-406,2021-09-08,593934,621057,grounded_into_double_play,hit_into_play,8,"Miguel Sano grounds into a double play, shortstop Amed Rosario to second baseman Andres Gimenez to first baseman Bobby Bradley.   Max Kepler out at 2nd.    Miguel Sano out at 1st.",0,0,1,1,9,0.18,1.94
+405,2021-09-08,593934,621057,grounded_into_double_play,hit_into_play,8,"Miguel Sano grounds into a double play, shortstop Amed Rosario to second baseman Andres Gimenez to first baseman Bobby Bradley.   Max Kepler out at 2nd.    Miguel Sano out at 1st.",0,0,1,1,9,0.18,1.94
+406,2021-09-08,593934,621295,,foul,8,Miguel Sano homers (25) on a fly ball to center field.,2,0,2,3,7,0.05,1.78
 407,2021-09-08,593934,621295,,ball,14,Miguel Sano homers (25) on a fly ball to center field.,1,0,2,2,7,1.25,0.44
 408,2021-09-08,593934,621295,,ball,9,Miguel Sano homers (25) on a fly ball to center field.,0,0,2,1,7,0.76,1.95
 409,2021-09-07,593934,650644,strikeout,foul_tip,13,Miguel Sano strikes out on a foul tip.,2,2,2,5,4,-1.37,2.4
@@ -583,15 +583,15 @@
 581,2021-08-25,593934,656354,,ball,13,Miguel Sano strikes out swinging.,2,2,1,5,5,-1.41,2.4
 582,2021-08-25,593934,656354,,ball,13,Miguel Sano strikes out swinging.,1,2,1,4,5,-1.61,2.36
 583,2021-08-25,593934,656354,,ball,13,Miguel Sano strikes out swinging.,0,2,1,3,5,-1.24,2.48
-584,2021-08-25,593934,570663,field_out,hit_into_play,7,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",1,2,1,5,10,-0.33,1.86
-585,2021-08-25,593934,656354,,called_strike,9,Miguel Sano strikes out swinging.,0,1,1,2,5,0.37,1.97
-586,2021-08-25,593934,656354,,called_strike,13,Miguel Sano strikes out swinging.,0,0,1,1,5,-0.49,1.54
-587,2021-08-25,593934,570663,,ball,12,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,2,1,4,10,0.05,4.64
+584,2021-08-25,593934,656354,,called_strike,9,Miguel Sano strikes out swinging.,0,1,1,2,5,0.37,1.97
+585,2021-08-25,593934,570663,field_out,hit_into_play,7,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",1,2,1,5,10,-0.33,1.86
+586,2021-08-25,593934,570663,,ball,12,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,2,1,4,10,0.05,4.64
+587,2021-08-25,593934,656354,,called_strike,13,Miguel Sano strikes out swinging.,0,0,1,1,5,-0.49,1.54
 588,2021-08-25,593934,570663,,foul,4,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,2,1,3,10,-0.36,2.66
 589,2021-08-25,593934,617228,force_out,hit_into_play,4,"Miguel Sano grounds into a force out, shortstop Xander Bogaerts to third baseman Rafael Devers.   Josh Donaldson out at 3rd.",2,1,2,4,7,-0.78,2.54
 590,2021-08-25,593934,570663,,foul,2,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,1,1,2,10,0.01,3.6
-591,2021-08-25,593934,617228,,ball,13,"Miguel Sano grounds into a force out, shortstop Xander Bogaerts to third baseman Rafael Devers.   Josh Donaldson out at 3rd.",1,1,2,3,7,-0.27,1.06
-592,2021-08-25,593934,570663,,called_strike,9,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,0,1,1,10,0.49,2.48
+591,2021-08-25,593934,570663,,called_strike,9,"Miguel Sano grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,0,1,1,10,0.49,2.48
+592,2021-08-25,593934,617228,,ball,13,"Miguel Sano grounds into a force out, shortstop Xander Bogaerts to third baseman Rafael Devers.   Josh Donaldson out at 3rd.",1,1,2,3,7,-0.27,1.06
 593,2021-08-25,593934,617228,,blocked_ball,13,"Miguel Sano grounds into a force out, shortstop Xander Bogaerts to third baseman Rafael Devers.   Josh Donaldson out at 3rd.",0,1,2,2,7,-0.77,0.41
 594,2021-08-25,593934,617228,,foul,14,"Miguel Sano grounds into a force out, shortstop Xander Bogaerts to third baseman Rafael Devers.   Josh Donaldson out at 3rd.",0,0,2,1,7,0.4,1.26
 595,2021-08-24,593934,656557,single,hit_into_play,6,Miguel Sano singles on a ground ball to center fielder Alex Verdugo.   Luis Arraez scores.    Nick Gordon scores.,0,0,1,1,4,0.47,2.49
@@ -710,8 +710,8 @@
 708,2021-08-13,593934,663556,,blocked_ball,13,Miguel Sano lines out sharply to right fielder Manuel Margot.,1,2,1,4,2,-0.7,0.32
 709,2021-08-13,593934,663556,,called_strike,1,Miguel Sano lines out sharply to right fielder Manuel Margot.,1,1,1,3,2,-0.67,3.04
 710,2021-08-13,593934,623465,field_out,hit_into_play,4,"Miguel Sano grounds out, third baseman Joey Wendle to first baseman Jordan Luplow.",0,1,0,2,8,-0.54,2.55
-711,2021-08-13,593934,623465,,called_strike,2,"Miguel Sano grounds out, third baseman Joey Wendle to first baseman Jordan Luplow.",0,0,0,1,8,0.13,3.02
-712,2021-08-13,593934,663556,,ball,11,Miguel Sano lines out sharply to right fielder Manuel Margot.,0,1,1,2,2,-1.08,2.82
+711,2021-08-13,593934,663556,,ball,11,Miguel Sano lines out sharply to right fielder Manuel Margot.,0,1,1,2,2,-1.08,2.82
+712,2021-08-13,593934,623465,,called_strike,2,"Miguel Sano grounds out, third baseman Joey Wendle to first baseman Jordan Luplow.",0,0,0,1,8,0.13,3.02
 713,2021-08-13,593934,663556,,called_strike,8,Miguel Sano lines out sharply to right fielder Manuel Margot.,0,0,1,1,2,-0.26,2.19
 714,2021-08-11,593934,625643,field_out,hit_into_play,12,"Miguel Sano grounds out, second baseman Cesar Hernandez to first baseman Andrew Vaughn.   Luis Arraez to 3rd.",1,2,0,4,2,1.09,2.91
 715,2021-08-11,593934,625643,,swinging_strike,2,"Miguel Sano grounds out, second baseman Cesar Hernandez to first baseman Andrew Vaughn.   Luis Arraez to 3rd.",1,1,0,3,2,0.04,2.96
@@ -724,8 +724,8 @@
 722,2021-08-11,593934,676979,,ball,11,Miguel Sano strikes out swinging.,0,2,2,3,4,-0.02,3.91
 723,2021-08-11,593934,676979,,swinging_strike,3,Miguel Sano strikes out swinging.,0,1,2,2,4,0.46,3.15
 724,2021-08-11,593934,614179,,foul,9,Miguel Sano walks.,3,2,2,7,6,0.33,2.04
-725,2021-08-11,593934,676979,,foul,13,Miguel Sano strikes out swinging.,0,0,2,1,4,-1.07,2.16
-726,2021-08-11,593934,614179,,ball,14,Miguel Sano walks.,2,2,2,6,6,0.31,1.26
+725,2021-08-11,593934,614179,,ball,14,Miguel Sano walks.,2,2,2,6,6,0.31,1.26
+726,2021-08-11,593934,676979,,foul,13,Miguel Sano strikes out swinging.,0,0,2,1,4,-1.07,2.16
 727,2021-08-11,593934,614179,,foul,5,Miguel Sano walks.,2,2,2,5,6,0.17,2.46
 728,2021-08-11,593934,614179,,ball,12,Miguel Sano walks.,1,2,2,4,6,0.45,4.2
 729,2021-08-11,593934,614179,,ball,14,Miguel Sano walks.,0,2,2,3,6,0.8,-0.08
@@ -788,8 +788,8 @@
 786,2021-08-07,593934,677651,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,1,2,0,4,2,1.29,1.67
 787,2021-08-07,593934,677651,,foul,5,Miguel Sano strikes out swinging.,1,1,0,3,2,-0.07,2.63
 788,2021-08-07,593934,519151,field_out,hit_into_play,5,"Miguel Sano grounds out sharply, shortstop Carlos Correa to first baseman Taylor Jones.",0,2,2,3,9,0.27,2.88
-789,2021-08-07,593934,677651,,ball,14,Miguel Sano strikes out swinging.,0,1,0,2,2,1.22,0.56
-790,2021-08-07,593934,519151,,swinging_strike,14,"Miguel Sano grounds out sharply, shortstop Carlos Correa to first baseman Taylor Jones.",0,1,2,2,9,0.55,1.13
+789,2021-08-07,593934,519151,,swinging_strike,14,"Miguel Sano grounds out sharply, shortstop Carlos Correa to first baseman Taylor Jones.",0,1,2,2,9,0.55,1.13
+790,2021-08-07,593934,677651,,ball,14,Miguel Sano strikes out swinging.,0,1,0,2,2,1.22,0.56
 791,2021-08-07,593934,677651,,swinging_strike,14,Miguel Sano strikes out swinging.,0,0,0,1,2,1.21,0.82
 792,2021-08-07,593934,519151,,called_strike,9,"Miguel Sano grounds out sharply, shortstop Carlos Correa to first baseman Taylor Jones.",0,0,2,1,9,0.28,2.21
 793,2021-08-07,593934,592773,field_out,hit_into_play,9,"Miguel Sano grounds out, shortstop Carlos Correa to first baseman Taylor Jones.",2,1,1,4,7,0.59,2.21
@@ -851,8 +851,8 @@
 849,2021-08-04,593934,622491,field_out,hit_into_play,6,"Miguel Sano grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",1,1,2,3,1,0.78,2.57
 850,2021-08-04,593934,542960,double,hit_into_play,6,Miguel Sano doubles (16) on a line drive to right fielder Aristides Aquino.   Jorge Polanco scores.    Luis Arraez to 3rd.,2,2,0,5,8,0.8,2.32
 851,2021-08-04,593934,622491,,ball,13,"Miguel Sano grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",0,1,2,2,1,-0.65,1.29
-852,2021-08-04,593934,622491,,called_strike,13,"Miguel Sano grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",0,0,2,1,1,-0.28,1.59
-853,2021-08-04,593934,542960,,foul,4,Miguel Sano doubles (16) on a line drive to right fielder Aristides Aquino.   Jorge Polanco scores.    Luis Arraez to 3rd.,2,1,0,4,8,-0.36,2.54
+852,2021-08-04,593934,542960,,foul,4,Miguel Sano doubles (16) on a line drive to right fielder Aristides Aquino.   Jorge Polanco scores.    Luis Arraez to 3rd.,2,1,0,4,8,-0.36,2.54
+853,2021-08-04,593934,622491,,called_strike,13,"Miguel Sano grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",0,0,2,1,1,-0.28,1.59
 854,2021-08-04,593934,542960,,ball,11,Miguel Sano doubles (16) on a line drive to right fielder Aristides Aquino.   Jorge Polanco scores.    Luis Arraez to 3rd.,1,1,0,3,8,-1.78,2.87
 855,2021-08-04,593934,542960,,called_strike,14,Miguel Sano doubles (16) on a line drive to right fielder Aristides Aquino.   Jorge Polanco scores.    Luis Arraez to 3rd.,1,0,0,2,8,1.11,2.13
 856,2021-08-04,593934,542960,,ball,14,Miguel Sano doubles (16) on a line drive to right fielder Aristides Aquino.   Jorge Polanco scores.    Luis Arraez to 3rd.,0,0,0,1,8,0.45,1.29
@@ -925,14 +925,14 @@
 923,2021-07-28,593934,503449,,ball,14,Miguel Sano homers (16) on a fly ball to center field.,0,2,0,3,4,1.58,0.62
 924,2021-07-28,593934,503449,,foul,7,Miguel Sano homers (16) on a fly ball to center field.,0,1,0,2,4,-0.76,2.04
 925,2021-07-28,593934,503449,,called_strike,8,Miguel Sano homers (16) on a fly ball to center field.,0,0,0,1,4,0.03,2.05
-926,2021-07-28,593934,642397,strikeout,called_strike,1,Miguel Sano called out on strikes.,2,2,0,6,9,-0.52,3.16
-927,2021-07-28,593934,503449,walk,ball,14,Miguel Sano walks.,3,1,0,5,2,1.49,0.77
+926,2021-07-28,593934,503449,walk,ball,14,Miguel Sano walks.,3,1,0,5,2,1.49,0.77
+927,2021-07-28,593934,642397,strikeout,called_strike,1,Miguel Sano called out on strikes.,2,2,0,6,9,-0.52,3.16
 928,2021-07-28,593934,642397,,foul,5,Miguel Sano called out on strikes.,2,2,0,5,9,0.12,2.31
 929,2021-07-28,593934,503449,,ball,11,Miguel Sano walks.,2,1,0,4,2,-0.54,4.07
 930,2021-07-28,593934,642397,,swinging_strike,12,Miguel Sano called out on strikes.,2,1,0,4,9,1.11,2.71
 931,2021-07-28,593934,503449,,foul,5,Miguel Sano walks.,2,0,0,3,2,-0.09,2.79
-932,2021-07-28,593934,642397,,ball,12,Miguel Sano called out on strikes.,1,1,0,3,9,2.51,3.65
-933,2021-07-28,593934,503449,,ball,12,Miguel Sano walks.,1,0,0,2,2,1.23,2.78
+932,2021-07-28,593934,503449,,ball,12,Miguel Sano walks.,1,0,0,2,2,1.23,2.78
+933,2021-07-28,593934,642397,,ball,12,Miguel Sano called out on strikes.,1,1,0,3,9,2.51,3.65
 934,2021-07-28,593934,503449,,ball,14,Miguel Sano walks.,0,0,0,1,2,1.15,1.58
 935,2021-07-28,593934,642397,,foul,5,Miguel Sano called out on strikes.,1,0,0,2,9,-0.04,2.36
 936,2021-07-28,593934,642397,,ball,12,Miguel Sano called out on strikes.,0,0,0,1,9,0.95,4.55
@@ -956,10 +956,10 @@
 954,2021-07-27,593934,641302,,called_strike,9,Miguel Sano singles on a sharp line drive to left fielder Robbie Grossman.,0,0,1,1,1,0.8,2.32
 955,2021-07-27,593934,541640,walk,ball,14,Miguel Sano walks.,3,0,2,4,6,0.89,0.93
 956,2021-07-27,593934,541640,,ball,13,Miguel Sano walks.,2,0,2,3,6,-0.83,2.29
-957,2021-07-27,593934,542585,strikeout,swinging_strike,2,Miguel Sano strikes out swinging.,0,2,2,3,10,-0.21,3.6
-958,2021-07-27,593934,541640,,ball,14,Miguel Sano walks.,1,0,2,2,6,1.34,2.09
-959,2021-07-27,593934,542585,,swinging_strike,6,Miguel Sano strikes out swinging.,0,1,2,2,10,0.29,2.59
-960,2021-07-27,593934,541640,,ball,11,Miguel Sano walks.,0,0,2,1,6,-0.4,3.69
+957,2021-07-27,593934,541640,,ball,14,Miguel Sano walks.,1,0,2,2,6,1.34,2.09
+958,2021-07-27,593934,542585,strikeout,swinging_strike,2,Miguel Sano strikes out swinging.,0,2,2,3,10,-0.21,3.6
+959,2021-07-27,593934,541640,,ball,11,Miguel Sano walks.,0,0,2,1,6,-0.4,3.69
+960,2021-07-27,593934,542585,,swinging_strike,6,Miguel Sano strikes out swinging.,0,1,2,2,10,0.29,2.59
 961,2021-07-27,593934,542585,,foul,4,Miguel Sano strikes out swinging.,0,0,2,1,10,-0.54,2.85
 962,2021-07-27,593934,608335,field_out,hit_into_play,4,Miguel Sano flies out to left fielder Robbie Grossman.,1,0,0,2,9,-0.67,2.42
 963,2021-07-27,593934,608335,,ball,14,Miguel Sano flies out to left fielder Robbie Grossman.,0,0,0,1,9,1.19,1.32
@@ -981,8 +981,8 @@
 979,2021-07-26,593934,641729,,swinging_strike,13,Miguel Sano doubles (13) on a sharp line drive to center fielder Derek Hill.,1,1,2,3,8,-0.55,1.44
 980,2021-07-26,593934,542585,walk,blocked_ball,14,Miguel Sano walks.,3,2,2,6,6,1.61,0.3
 981,2021-07-26,593934,641729,,ball,14,Miguel Sano doubles (13) on a sharp line drive to center fielder Derek Hill.,0,1,1,2,8,0.82,1.52
-982,2021-07-26,593934,641729,,swinging_strike,6,Miguel Sano doubles (13) on a sharp line drive to center fielder Derek Hill.,0,0,1,1,8,0.35,2.92
-983,2021-07-26,593934,542585,,ball,14,Miguel Sano walks.,2,2,2,5,6,1.38,0.81
+982,2021-07-26,593934,542585,,ball,14,Miguel Sano walks.,2,2,2,5,6,1.38,0.81
+983,2021-07-26,593934,641729,,swinging_strike,6,Miguel Sano doubles (13) on a sharp line drive to center fielder Derek Hill.,0,0,1,1,8,0.35,2.92
 984,2021-07-26,593934,542585,,ball,14,Miguel Sano walks.,1,2,2,4,6,0.96,1.3
 985,2021-07-26,593934,542585,,foul,13,Miguel Sano walks.,1,1,2,3,6,-0.9,1.82
 986,2021-07-26,593934,542585,,ball,14,Miguel Sano walks.,0,1,2,2,6,0.25,0.77
@@ -1092,16 +1092,16 @@
 1090,2021-07-10,593934,608335,,ball,14,"Miguel Sano grounds out sharply, shortstop Zack Short to first baseman Jonathan Schoop.",0,0,0,1,2,0.23,1.41
 1091,2021-07-10,593934,542585,walk,ball,14,Miguel Sano walks.,3,2,0,7,8,1.93,1.57
 1092,2021-07-10,593934,542585,,foul,5,Miguel Sano walks.,3,2,0,6,8,0.23,2.75
-1093,2021-07-10,593934,541640,field_out,hit_into_play,7,"Miguel Sano grounds out, third baseman Harold Castro to first baseman Jonathan Schoop.",1,2,0,5,4,-0.65,2.03
-1094,2021-07-10,593934,542585,,foul,13,Miguel Sano walks.,3,1,0,5,8,-1.14,1.97
+1093,2021-07-10,593934,542585,,foul,13,Miguel Sano walks.,3,1,0,5,8,-1.14,1.97
+1094,2021-07-10,593934,541640,field_out,hit_into_play,7,"Miguel Sano grounds out, third baseman Harold Castro to first baseman Jonathan Schoop.",1,2,0,5,4,-0.65,2.03
 1095,2021-07-10,593934,541640,,ball,14,"Miguel Sano grounds out, third baseman Harold Castro to first baseman Jonathan Schoop.",0,2,0,4,4,0.08,1.58
 1096,2021-07-10,593934,542585,,ball,13,Miguel Sano walks.,2,1,0,4,8,-1.8,1.38
 1097,2021-07-10,593934,541640,,foul,12,"Miguel Sano grounds out, third baseman Harold Castro to first baseman Jonathan Schoop.",0,2,0,3,4,0.88,3.33
 1098,2021-07-10,593934,542585,,ball,14,Miguel Sano walks.,1,1,0,3,8,1.1,1.54
 1099,2021-07-10,593934,541640,,foul,2,"Miguel Sano grounds out, third baseman Harold Castro to first baseman Jonathan Schoop.",0,1,0,2,4,0.0,3.07
 1100,2021-07-10,593934,542585,,ball,14,Miguel Sano walks.,0,1,0,2,8,0.27,1.41
-1101,2021-07-10,593934,541640,,called_strike,6,"Miguel Sano grounds out, third baseman Harold Castro to first baseman Jonathan Schoop.",0,0,0,1,4,0.31,2.69
-1102,2021-07-10,593934,542585,,foul_tip,2,Miguel Sano walks.,0,0,0,1,8,-0.22,3.06
+1101,2021-07-10,593934,542585,,foul_tip,2,Miguel Sano walks.,0,0,0,1,8,-0.22,3.06
+1102,2021-07-10,593934,541640,,called_strike,6,"Miguel Sano grounds out, third baseman Harold Castro to first baseman Jonathan Schoop.",0,0,0,1,4,0.31,2.69
 1103,2021-07-09,593934,666159,strikeout,swinging_strike_blocked,14,Miguel Sano strikes out swinging.,1,2,1,4,5,0.89,0.79
 1104,2021-07-09,593934,666159,,blocked_ball,14,Miguel Sano strikes out swinging.,0,2,1,3,5,0.8,0.62
 1105,2021-07-09,593934,666159,,foul,1,Miguel Sano strikes out swinging.,0,1,1,2,5,-0.51,3.11
@@ -1140,8 +1140,8 @@
 1138,2021-07-06,593934,607074,,blocked_ball,13,Miguel Sano grounds out to pitcher Carlos Rodon.,2,2,1,5,2,-1.49,0.23
 1139,2021-07-06,593934,607074,,blocked_ball,13,Miguel Sano grounds out to pitcher Carlos Rodon.,1,2,1,4,2,-0.51,0.77
 1140,2021-07-06,593934,607074,,foul,3,Miguel Sano grounds out to pitcher Carlos Rodon.,1,1,1,3,2,0.36,3.52
-1141,2021-07-06,593934,607074,,ball,13,Miguel Sano grounds out to pitcher Carlos Rodon.,0,1,1,2,2,-0.13,1.6
-1142,2021-07-06,593934,521230,field_out,hit_into_play,5,Miguel Sano flies out to left fielder Brian Goodwin.,2,2,2,6,9,-0.21,2.71
+1141,2021-07-06,593934,521230,field_out,hit_into_play,5,Miguel Sano flies out to left fielder Brian Goodwin.,2,2,2,6,9,-0.21,2.71
+1142,2021-07-06,593934,607074,,ball,13,Miguel Sano grounds out to pitcher Carlos Rodon.,0,1,1,2,2,-0.13,1.6
 1143,2021-07-06,593934,607074,,swinging_strike,7,Miguel Sano grounds out to pitcher Carlos Rodon.,0,0,1,1,2,-0.42,1.67
 1144,2021-07-06,593934,521230,,foul,6,Miguel Sano flies out to left fielder Brian Goodwin.,2,2,2,5,9,0.48,2.53
 1145,2021-07-06,593934,521230,,foul,5,Miguel Sano flies out to left fielder Brian Goodwin.,2,1,2,4,9,0.23,2.93
@@ -1258,10 +1258,10 @@
 1256,2021-06-21,593934,448281,,foul,8,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,2,2,0,7,10,0.19,2.22
 1257,2021-06-21,593934,448281,,foul,2,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,2,2,0,6,10,0.05,3.38
 1258,2021-06-21,593934,448281,,foul,14,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,2,2,0,5,10,0.86,1.82
-1259,2021-06-21,593934,592390,home_run,hit_into_play,9,Miguel Sano homers (14) on a fly ball to left center field.   Andrelton Simmons scores.,3,1,1,5,12,0.7,1.95
-1260,2021-06-21,593934,448281,,swinging_strike,5,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,2,1,0,4,10,0.21,2.55
-1261,2021-06-21,593934,592390,,ball,14,Miguel Sano homers (14) on a fly ball to left center field.   Andrelton Simmons scores.,2,1,1,4,12,1.37,1.55
-1262,2021-06-21,593934,448281,,ball,12,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,1,1,0,3,10,1.19,3.77
+1259,2021-06-21,593934,448281,,swinging_strike,5,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,2,1,0,4,10,0.21,2.55
+1260,2021-06-21,593934,592390,home_run,hit_into_play,9,Miguel Sano homers (14) on a fly ball to left center field.   Andrelton Simmons scores.,3,1,1,5,12,0.7,1.95
+1261,2021-06-21,593934,448281,,ball,12,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,1,1,0,3,10,1.19,3.77
+1262,2021-06-21,593934,592390,,ball,14,Miguel Sano homers (14) on a fly ball to left center field.   Andrelton Simmons scores.,2,1,1,4,12,1.37,1.55
 1263,2021-06-21,593934,592390,,ball,12,Miguel Sano homers (14) on a fly ball to left center field.   Andrelton Simmons scores.,1,1,1,3,12,1.95,3.24
 1264,2021-06-21,593934,448281,,swinging_strike,3,Miguel Sano singles on a ground ball to left fielder Tyler Naquin.   Luis Arraez to 3rd.,1,0,0,2,10,0.61,3.35
 1265,2021-06-21,593934,592390,,foul,12,Miguel Sano homers (14) on a fly ball to left center field.   Andrelton Simmons scores.,1,0,1,2,12,1.06,2.93
@@ -1354,8 +1354,8 @@
 1352,2021-06-13,593934,621248,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,0,5,9,1.08,2.0
 1353,2021-06-13,593934,664285,strikeout,swinging_strike,13,Miguel Sano strikes out swinging.,2,2,0,5,2,-1.05,1.8
 1354,2021-06-13,593934,621248,,ball,3,Miguel Sano strikes out swinging.,1,2,0,4,9,0.62,3.54
-1355,2021-06-13,593934,621248,,foul,13,Miguel Sano strikes out swinging.,1,1,0,3,9,-0.3,1.51
-1356,2021-06-13,593934,664285,,ball,13,Miguel Sano strikes out swinging.,1,2,0,4,2,-1.24,1.0
+1355,2021-06-13,593934,664285,,ball,13,Miguel Sano strikes out swinging.,1,2,0,4,2,-1.24,1.0
+1356,2021-06-13,593934,621248,,foul,13,Miguel Sano strikes out swinging.,1,1,0,3,9,-0.3,1.51
 1357,2021-06-13,593934,664285,,foul_tip,14,Miguel Sano strikes out swinging.,1,1,0,3,2,0.34,1.2
 1358,2021-06-13,593934,621248,,swinging_strike,14,Miguel Sano strikes out swinging.,1,0,0,2,9,1.11,1.37
 1359,2021-06-13,593934,621248,,ball,14,Miguel Sano strikes out swinging.,0,0,0,1,9,2.0,1.15
@@ -1372,8 +1372,8 @@
 1370,2021-06-12,593934,642130,,called_strike,1,"Miguel Sano grounds out, third baseman Alex Bregman to first baseman Yuli Gurriel.",2,1,0,4,6,-0.55,3.73
 1371,2021-06-12,593934,670550,field_out,hit_into_play,6,Miguel Sano lines out to left fielder Michael Brantley.,2,2,2,5,7,0.58,2.35
 1372,2021-06-12,593934,642130,,ball,11,"Miguel Sano grounds out, third baseman Alex Bregman to first baseman Yuli Gurriel.",1,1,0,3,6,-0.09,4.75
-1373,2021-06-12,593934,642130,,ball,11,"Miguel Sano grounds out, third baseman Alex Bregman to first baseman Yuli Gurriel.",0,1,0,2,6,-0.68,4.2
-1374,2021-06-12,593934,670550,,ball,11,Miguel Sano lines out to left fielder Michael Brantley.,1,2,2,4,7,-2.16,3.21
+1373,2021-06-12,593934,670550,,ball,11,Miguel Sano lines out to left fielder Michael Brantley.,1,2,2,4,7,-2.16,3.21
+1374,2021-06-12,593934,642130,,ball,11,"Miguel Sano grounds out, third baseman Alex Bregman to first baseman Yuli Gurriel.",0,1,0,2,6,-0.68,4.2
 1375,2021-06-12,593934,670550,,foul,7,Miguel Sano lines out to left fielder Michael Brantley.,1,1,2,3,7,-0.6,2.13
 1376,2021-06-12,593934,642130,,foul,1,"Miguel Sano grounds out, third baseman Alex Bregman to first baseman Yuli Gurriel.",0,0,0,1,6,-0.4,3.4
 1377,2021-06-12,593934,670550,,called_strike,7,Miguel Sano lines out to left fielder Michael Brantley.,1,0,2,2,7,-0.34,1.61
@@ -1398,12 +1398,12 @@
 1396,2021-06-10,593934,643338,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,3,2,2,6,7,1.44,1.31
 1397,2021-06-10,593934,643338,,ball,14,Miguel Sano strikes out swinging.,2,2,2,5,7,1.22,1.09
 1398,2021-06-10,593934,643338,,ball,14,Miguel Sano strikes out swinging.,1,2,2,4,7,1.21,1.68
-1399,2021-06-10,593934,643338,,ball,14,Miguel Sano strikes out swinging.,0,2,2,3,7,0.77,1.09
-1400,2021-06-10,593934,642528,field_out,hit_into_play,4,Miguel Sano flies out to left fielder Miguel Andujar.,1,1,1,3,5,-0.61,2.73
+1399,2021-06-10,593934,642528,field_out,hit_into_play,4,Miguel Sano flies out to left fielder Miguel Andujar.,1,1,1,3,5,-0.61,2.73
+1400,2021-06-10,593934,643338,,ball,14,Miguel Sano strikes out swinging.,0,2,2,3,7,0.77,1.09
 1401,2021-06-10,593934,643338,,swinging_strike_blocked,14,Miguel Sano strikes out swinging.,0,1,2,2,7,0.42,-0.08
 1402,2021-06-10,593934,642528,,foul,6,Miguel Sano flies out to left fielder Miguel Andujar.,1,0,1,2,5,0.42,2.49
-1403,2021-06-10,593934,642528,,ball,12,Miguel Sano flies out to left fielder Miguel Andujar.,0,0,1,1,5,0.95,3.34
-1404,2021-06-10,593934,643338,,swinging_strike,4,Miguel Sano strikes out swinging.,0,0,2,1,7,-0.37,2.67
+1403,2021-06-10,593934,643338,,swinging_strike,4,Miguel Sano strikes out swinging.,0,0,2,1,7,-0.37,2.67
+1404,2021-06-10,593934,642528,,ball,12,Miguel Sano flies out to left fielder Miguel Andujar.,0,0,1,1,5,0.95,3.34
 1405,2021-06-09,593934,543037,home_run,hit_into_play,3,Miguel Sano homers (12) on a fly ball to right field.,1,2,0,5,5,0.67,3.13
 1406,2021-06-09,593934,543037,,foul,6,Miguel Sano homers (12) on a fly ball to right field.,1,2,0,4,5,0.59,2.27
 1407,2021-06-09,593934,543037,,ball,14,Miguel Sano homers (12) on a fly ball to right field.,0,2,0,3,5,0.1,0.38
@@ -1453,10 +1453,10 @@
 1451,2021-06-06,593934,663903,strikeout,foul_tip,6,Miguel Sano strikes out on a foul tip.,3,2,1,6,1,0.31,2.61
 1452,2021-06-06,593934,663903,,swinging_strike,14,Miguel Sano strikes out on a foul tip.,3,1,1,5,1,1.06,1.27
 1453,2021-06-06,593934,605130,,foul,12,Miguel Sano strikes out swinging.,1,1,2,3,9,0.98,3.34
-1454,2021-06-06,593934,663903,,foul,7,Miguel Sano strikes out on a foul tip.,3,0,1,4,1,-0.53,2.17
-1455,2021-06-06,593934,605130,,swinging_strike,14,Miguel Sano strikes out swinging.,1,0,2,2,9,0.96,1.54
-1456,2021-06-06,593934,663903,,ball,14,Miguel Sano strikes out on a foul tip.,2,0,1,3,1,0.7,0.71
-1457,2021-06-06,593934,605130,,blocked_ball,14,Miguel Sano strikes out swinging.,0,0,2,1,9,2.37,0.04
+1454,2021-06-06,593934,605130,,swinging_strike,14,Miguel Sano strikes out swinging.,1,0,2,2,9,0.96,1.54
+1455,2021-06-06,593934,663903,,foul,7,Miguel Sano strikes out on a foul tip.,3,0,1,4,1,-0.53,2.17
+1456,2021-06-06,593934,605130,,blocked_ball,14,Miguel Sano strikes out swinging.,0,0,2,1,9,2.37,0.04
+1457,2021-06-06,593934,663903,,ball,14,Miguel Sano strikes out on a foul tip.,2,0,1,3,1,0.7,0.71
 1458,2021-06-06,593934,663903,,blocked_ball,14,Miguel Sano strikes out on a foul tip.,1,0,1,2,1,1.44,0.52
 1459,2021-06-06,593934,663903,,blocked_ball,14,Miguel Sano strikes out on a foul tip.,0,0,1,1,1,1.74,0.72
 1460,2021-06-06,593934,641394,field_out,hit_into_play,6,Miguel Sano flies out to center fielder Jarrod Dyson.,0,1,1,2,7,0.73,2.44
@@ -1484,16 +1484,16 @@
 1482,2021-06-04,593934,671790,force_out,hit_into_play,13,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",3,2,0,9,6,-0.95,2.14
 1483,2021-06-04,593934,671790,,foul,4,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",3,2,0,8,6,-0.4,2.64
 1484,2021-06-04,593934,671790,,ball,14,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",2,2,0,7,6,1.33,0.92
-1485,2021-06-04,593934,671790,,foul,6,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",2,2,0,6,6,0.81,2.38
-1486,2021-06-04,593934,451584,home_run,hit_into_play,8,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,3,1,0,5,8,0.21,1.88
+1485,2021-06-04,593934,451584,home_run,hit_into_play,8,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,3,1,0,5,8,0.21,1.88
+1486,2021-06-04,593934,671790,,foul,6,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",2,2,0,6,6,0.81,2.38
 1487,2021-06-04,593934,671790,,foul,5,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",2,2,0,5,6,-0.11,2.5
 1488,2021-06-04,593934,451584,,ball,13,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,2,1,0,4,8,-1.38,2.04
 1489,2021-06-04,593934,671790,,foul,7,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",2,1,0,4,6,-0.57,1.93
 1490,2021-06-04,593934,451584,,ball,11,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,1,1,0,3,8,-1.28,3.61
-1491,2021-06-04,593934,671790,,foul,1,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",2,0,0,3,6,-0.62,3.03
-1492,2021-06-04,593934,451584,,ball,11,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,0,1,0,2,8,-0.24,3.82
-1493,2021-06-04,593934,451584,,foul,9,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,0,0,0,1,8,0.62,1.75
-1494,2021-06-04,593934,671790,,ball,11,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",1,0,0,2,6,-1.27,4.5
+1491,2021-06-04,593934,451584,,ball,11,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,0,1,0,2,8,-0.24,3.82
+1492,2021-06-04,593934,671790,,foul,1,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",2,0,0,3,6,-0.62,3.03
+1493,2021-06-04,593934,671790,,ball,11,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",1,0,0,2,6,-1.27,4.5
+1494,2021-06-04,593934,451584,,foul,9,Miguel Sano homers (10) on a line drive to center field.   Trevor Larnach scores.,0,0,0,1,8,0.62,1.75
 1495,2021-06-04,593934,671790,,ball,13,"Miguel Sano grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Trevor Larnach out at 2nd.    Miguel Sano to 1st.",0,0,0,1,6,-1.1,2.53
 1496,2021-06-03,593934,663460,walk,ball,12,Miguel Sano walks.,3,2,1,6,4,0.74,4.26
 1497,2021-06-03,593934,663460,,ball,13,Miguel Sano walks.,2,2,1,5,4,-0.81,0.28
@@ -1512,10 +1512,10 @@
 1510,2021-06-03,593934,622092,,foul,8,Miguel Sano out on a sacrifice fly to center fielder Michael A.   Taylor.   Jorge Polanco scores.,1,2,1,4,5,-0.15,1.92
 1511,2021-06-03,593934,605130,,called_strike,8,Miguel Sano strikes out swinging.,1,1,0,3,8,-0.06,2.2
 1512,2021-06-03,593934,622092,,swinging_strike,14,Miguel Sano out on a sacrifice fly to center fielder Michael A.   Taylor.   Jorge Polanco scores.,1,1,1,3,5,1.11,1.53
-1513,2021-06-03,593934,622092,,called_strike,3,Miguel Sano out on a sacrifice fly to center fielder Michael A.   Taylor.   Jorge Polanco scores.,1,0,1,2,5,0.7,3.41
-1514,2021-06-03,593934,605130,,ball,12,Miguel Sano strikes out swinging.,0,1,0,2,8,0.81,4.0
-1515,2021-06-03,593934,605130,,called_strike,5,Miguel Sano strikes out swinging.,0,0,0,1,8,-0.11,2.43
-1516,2021-06-03,593934,622092,,ball,12,Miguel Sano out on a sacrifice fly to center fielder Michael A.   Taylor.   Jorge Polanco scores.,0,0,1,1,5,0.69,4.26
+1513,2021-06-03,593934,605130,,ball,12,Miguel Sano strikes out swinging.,0,1,0,2,8,0.81,4.0
+1514,2021-06-03,593934,622092,,called_strike,3,Miguel Sano out on a sacrifice fly to center fielder Michael A.   Taylor.   Jorge Polanco scores.,1,0,1,2,5,0.7,3.41
+1515,2021-06-03,593934,622092,,ball,12,Miguel Sano out on a sacrifice fly to center fielder Michael A.   Taylor.   Jorge Polanco scores.,0,0,1,1,5,0.69,4.26
+1516,2021-06-03,593934,605130,,called_strike,5,Miguel Sano strikes out swinging.,0,0,0,1,8,-0.11,2.43
 1517,2021-06-02,593934,542888,strikeout,swinging_strike,5,Miguel Sano strikes out swinging.,2,2,0,5,8,0.09,2.77
 1518,2021-06-02,593934,542888,,ball,14,Miguel Sano strikes out swinging.,1,2,0,4,8,1.47,1.95
 1519,2021-06-02,593934,542888,,foul,7,Miguel Sano strikes out swinging.,1,1,0,3,8,-0.51,2.14
@@ -1634,10 +1634,10 @@
 1632,2021-05-25,593934,669211,,blocked_ball,14,Miguel Sano strikes out swinging.,0,2,2,4,6,0.09,0.99
 1633,2021-05-25,593934,665152,strikeout,swinging_strike,1,Miguel Sano strikes out swinging.,1,2,2,4,1,-0.65,3.32
 1634,2021-05-25,593934,669211,,foul,12,Miguel Sano strikes out swinging.,0,2,2,3,6,1.3,3.38
-1635,2021-05-25,593934,665152,,ball,2,Miguel Sano strikes out swinging.,0,2,2,3,1,-0.01,3.66
-1636,2021-05-25,593934,669211,,swinging_strike,14,Miguel Sano strikes out swinging.,0,1,2,2,6,1.55,1.8
-1637,2021-05-25,593934,665152,,foul,8,Miguel Sano strikes out swinging.,0,1,2,2,1,-0.08,1.68
-1638,2021-05-25,593934,669211,,foul_tip,3,Miguel Sano strikes out swinging.,0,0,2,1,6,0.4,3.51
+1635,2021-05-25,593934,669211,,swinging_strike,14,Miguel Sano strikes out swinging.,0,1,2,2,6,1.55,1.8
+1636,2021-05-25,593934,665152,,ball,2,Miguel Sano strikes out swinging.,0,2,2,3,1,-0.01,3.66
+1637,2021-05-25,593934,669211,,foul_tip,3,Miguel Sano strikes out swinging.,0,0,2,1,6,0.4,3.51
+1638,2021-05-25,593934,665152,,foul,8,Miguel Sano strikes out swinging.,0,1,2,2,1,-0.08,1.68
 1639,2021-05-25,593934,665152,,called_strike,9,Miguel Sano strikes out swinging.,0,0,2,1,1,0.37,2.28
 1640,2021-05-25,593934,592644,strikeout,foul_tip,9,Miguel Sano strikes out on a foul tip.,3,2,0,8,5,0.4,2.07
 1641,2021-05-25,593934,592644,,foul,6,Miguel Sano strikes out on a foul tip.,3,2,0,7,5,0.71,2.67
@@ -1669,19 +1669,19 @@
 1667,2021-05-23,593934,675916,walk,ball,14,Miguel Sano walks.,3,0,0,4,10,1.54,2.27
 1668,2021-05-23,593934,669459,force_out,hit_into_play,5,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",3,2,1,7,5,-0.01,2.54
 1669,2021-05-23,593934,675916,,ball,11,Miguel Sano walks.,2,0,0,3,10,-0.43,4.8
-1670,2021-05-23,593934,675916,,ball,14,Miguel Sano walks.,1,0,0,2,10,1.24,0.45
-1671,2021-05-23,593934,669459,,ball,12,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",2,2,1,6,5,0.97,3.01
-1672,2021-05-23,593934,668676,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,0,5,2,1.01,1.39
-1673,2021-05-23,593934,669459,,foul,13,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",2,2,1,5,5,-0.35,1.41
+1670,2021-05-23,593934,669459,,ball,12,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",2,2,1,6,5,0.97,3.01
+1671,2021-05-23,593934,675916,,ball,14,Miguel Sano walks.,1,0,0,2,10,1.24,0.45
+1672,2021-05-23,593934,669459,,foul,13,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",2,2,1,5,5,-0.35,1.41
+1673,2021-05-23,593934,668676,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,0,5,2,1.01,1.39
 1674,2021-05-23,593934,675916,,ball,14,Miguel Sano walks.,0,0,0,1,10,0.51,0.81
-1675,2021-05-23,593934,668676,,ball,11,Miguel Sano strikes out swinging.,1,2,0,4,2,-1.46,3.77
-1676,2021-05-23,593934,669459,,blocked_ball,14,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",1,2,1,4,5,0.02,0.54
+1675,2021-05-23,593934,669459,,blocked_ball,14,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",1,2,1,4,5,0.02,0.54
+1676,2021-05-23,593934,668676,,ball,11,Miguel Sano strikes out swinging.,1,2,0,4,2,-1.46,3.77
 1677,2021-05-23,593934,669459,,foul,7,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",1,1,1,3,5,-0.67,2.07
 1678,2021-05-23,593934,668676,,swinging_strike,9,Miguel Sano strikes out swinging.,1,1,0,3,2,0.81,1.91
 1679,2021-05-23,593934,669459,,called_strike,2,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",1,0,1,2,5,0.02,3.51
 1680,2021-05-23,593934,668676,,ball,14,Miguel Sano strikes out swinging.,0,1,0,2,2,1.04,0.56
-1681,2021-05-23,593934,668676,,called_strike,12,Miguel Sano strikes out swinging.,0,0,0,1,2,0.89,2.83
-1682,2021-05-23,593934,669459,,ball,3,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",0,0,1,1,5,0.79,3.39
+1681,2021-05-23,593934,669459,,ball,3,"Miguel Sano grounds into a force out, fielded by second baseman Cesar Hernandez.   Max Kepler out at 2nd.    Miguel Sano to 1st.",0,0,1,1,5,0.79,3.39
+1682,2021-05-23,593934,668676,,called_strike,12,Miguel Sano strikes out swinging.,0,0,0,1,2,0.89,2.83
 1683,2021-05-23,593934,543766,field_out,hit_into_play,5,Miguel Sano pops out to catcher Austin Hedges in foul territory.,2,1,0,4,8,-0.16,2.75
 1684,2021-05-23,593934,543766,,ball,12,Miguel Sano pops out to catcher Austin Hedges in foul territory.,1,1,0,3,8,0.07,4.3
 1685,2021-05-23,593934,543766,,ball,1,Miguel Sano pops out to catcher Austin Hedges in foul territory.,0,1,0,2,8,-0.41,3.66
@@ -1700,16 +1700,16 @@
 1698,2021-05-22,593934,543766,,foul,9,Miguel Sano strikes out swinging.,2,2,2,5,7,0.29,1.72
 1699,2021-05-22,593934,543766,,swinging_strike,14,Miguel Sano strikes out swinging.,2,1,2,4,7,1.53,1.51
 1700,2021-05-22,593934,669456,strikeout,foul_tip,6,Miguel Sano strikes out on a foul tip.,2,2,2,7,1,0.35,2.91
-1701,2021-05-22,593934,675916,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,1,2,2,4,10,0.84,1.14
-1702,2021-05-22,593934,543766,,ball,12,Miguel Sano strikes out swinging.,1,1,2,3,7,1.86,2.66
-1703,2021-05-22,593934,669456,,ball,12,Miguel Sano strikes out on a foul tip.,1,2,2,6,1,0.44,4.96
-1704,2021-05-22,593934,543766,,foul,5,Miguel Sano strikes out swinging.,1,0,2,2,7,0.15,2.47
+1701,2021-05-22,593934,543766,,ball,12,Miguel Sano strikes out swinging.,1,1,2,3,7,1.86,2.66
+1702,2021-05-22,593934,675916,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,1,2,2,4,10,0.84,1.14
+1703,2021-05-22,593934,543766,,foul,5,Miguel Sano strikes out swinging.,1,0,2,2,7,0.15,2.47
+1704,2021-05-22,593934,669456,,ball,12,Miguel Sano strikes out on a foul tip.,1,2,2,6,1,0.44,4.96
 1705,2021-05-22,593934,675916,,ball,14,Miguel Sano strikes out swinging.,0,2,2,3,10,1.26,-0.51
-1706,2021-05-22,593934,675916,,called_strike,9,Miguel Sano strikes out swinging.,0,1,2,2,10,0.8,1.51
-1707,2021-05-22,593934,669456,,foul,8,Miguel Sano strikes out on a foul tip.,1,2,2,5,1,0.25,1.67
-1708,2021-05-22,593934,543766,,ball,14,Miguel Sano strikes out swinging.,0,0,2,1,7,2.0,1.08
-1709,2021-05-22,593934,669456,,foul,6,Miguel Sano strikes out on a foul tip.,1,2,2,4,1,0.54,2.4
-1710,2021-05-22,593934,675916,,called_strike,1,Miguel Sano strikes out swinging.,0,0,2,1,10,-0.31,2.97
+1706,2021-05-22,593934,669456,,foul,8,Miguel Sano strikes out on a foul tip.,1,2,2,5,1,0.25,1.67
+1707,2021-05-22,593934,543766,,ball,14,Miguel Sano strikes out swinging.,0,0,2,1,7,2.0,1.08
+1708,2021-05-22,593934,675916,,called_strike,9,Miguel Sano strikes out swinging.,0,1,2,2,10,0.8,1.51
+1709,2021-05-22,593934,675916,,called_strike,1,Miguel Sano strikes out swinging.,0,0,2,1,10,-0.31,2.97
+1710,2021-05-22,593934,669456,,foul,6,Miguel Sano strikes out on a foul tip.,1,2,2,4,1,0.54,2.4
 1711,2021-05-22,593934,669456,,ball,14,Miguel Sano strikes out on a foul tip.,0,2,2,3,1,1.61,1.52
 1712,2021-05-22,593934,669456,,swinging_strike,14,Miguel Sano strikes out on a foul tip.,0,1,2,2,1,0.99,2.45
 1713,2021-05-22,593934,669456,,swinging_strike,5,Miguel Sano strikes out on a foul tip.,0,0,2,1,1,0.12,2.52
@@ -1879,8 +1879,8 @@
 1877,2021-05-07,593934,669373,,ball,11,Miguel Sano strikes out swinging.,2,2,0,5,2,-0.1,4.55
 1878,2021-05-07,593934,669373,,called_strike,5,Miguel Sano strikes out swinging.,2,1,0,4,2,-0.07,2.35
 1879,2021-05-07,593934,669373,,ball,11,Miguel Sano strikes out swinging.,1,1,0,3,2,-0.88,3.28
-1880,2021-05-07,593934,669373,,ball,12,Miguel Sano strikes out swinging.,0,1,0,2,2,0.98,4.29
-1881,2021-05-07,593934,542585,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,2,6,7,0.03,1.32
+1880,2021-05-07,593934,542585,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,2,2,2,6,7,0.03,1.32
+1881,2021-05-07,593934,669373,,ball,12,Miguel Sano strikes out swinging.,0,1,0,2,2,0.98,4.29
 1882,2021-05-07,593934,669373,,called_strike,3,Miguel Sano strikes out swinging.,0,0,0,1,2,0.51,3.49
 1883,2021-05-07,593934,542585,,ball,14,Miguel Sano strikes out swinging.,1,2,2,5,7,1.61,0.9
 1884,2021-05-07,593934,542585,,foul,2,Miguel Sano strikes out swinging.,1,2,2,4,7,-0.27,3.61
@@ -1923,8 +1923,8 @@
 1921,2021-05-05,593934,453178,,called_strike,7,Miguel Sano walks.,0,1,2,2,9,-0.62,1.84
 1922,2021-05-05,593934,453178,,called_strike,9,Miguel Sano walks.,0,0,2,1,9,0.4,1.89
 1923,2021-05-05,593934,667463,force_out,hit_into_play,9,"Miguel Sano grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Max Kepler out at 2nd.",2,1,2,4,4,0.56,2.08
-1924,2021-05-05,593934,667463,,ball,7,"Miguel Sano grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Max Kepler out at 2nd.",1,1,2,3,4,-0.67,1.72
-1925,2021-05-05,593934,656685,single,hit_into_play,8,Miguel Sano singles on a sharp ground ball to left fielder Adolis Garcia.,3,1,0,5,7,0.09,1.71
+1924,2021-05-05,593934,656685,single,hit_into_play,8,Miguel Sano singles on a sharp ground ball to left fielder Adolis Garcia.,3,1,0,5,7,0.09,1.71
+1925,2021-05-05,593934,667463,,ball,7,"Miguel Sano grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Max Kepler out at 2nd.",1,1,2,3,4,-0.67,1.72
 1926,2021-05-05,593934,667463,,foul,9,"Miguel Sano grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Max Kepler out at 2nd.",1,0,2,2,4,0.5,2.04
 1927,2021-05-05,593934,656685,,called_strike,8,Miguel Sano singles on a sharp ground ball to left fielder Adolis Garcia.,3,0,0,4,7,-0.19,2.07
 1928,2021-05-05,593934,656685,,ball,12,Miguel Sano singles on a sharp ground ball to left fielder Adolis Garcia.,2,0,0,3,7,1.06,3.84
@@ -1953,10 +1953,10 @@
 1951,2021-04-16,593934,571760,,called_strike,6,Miguel Sano strikes out swinging.,0,0,2,1,2,0.7,2.92
 1952,2021-04-16,593934,592222,walk,ball,14,Miguel Sano walks.,3,2,1,6,9,0.36,1.52
 1953,2021-04-16,593934,594577,single,hit_into_play,2,Miguel Sano singles on a fly ball to center fielder Mike Trout.,2,2,1,5,7,0.26,3.21
-1954,2021-04-16,593934,592222,,ball,13,Miguel Sano walks.,2,2,1,5,9,-1.82,1.36
-1955,2021-04-16,593934,594577,,ball,13,Miguel Sano singles on a fly ball to center fielder Mike Trout.,1,2,1,4,7,-1.19,2.64
-1956,2021-04-16,593934,592222,,swinging_strike,8,Miguel Sano walks.,2,1,1,4,9,0.25,1.83
-1957,2021-04-16,593934,594577,,ball,14,Miguel Sano singles on a fly ball to center fielder Mike Trout.,0,2,1,3,7,1.36,0.74
+1954,2021-04-16,593934,594577,,ball,13,Miguel Sano singles on a fly ball to center fielder Mike Trout.,1,2,1,4,7,-1.19,2.64
+1955,2021-04-16,593934,592222,,ball,13,Miguel Sano walks.,2,2,1,5,9,-1.82,1.36
+1956,2021-04-16,593934,594577,,ball,14,Miguel Sano singles on a fly ball to center fielder Mike Trout.,0,2,1,3,7,1.36,0.74
+1957,2021-04-16,593934,592222,,swinging_strike,8,Miguel Sano walks.,2,1,1,4,9,0.25,1.83
 1958,2021-04-16,593934,592222,,ball,13,Miguel Sano walks.,1,1,1,3,9,-0.54,0.53
 1959,2021-04-16,593934,594577,,called_strike,1,Miguel Sano singles on a fly ball to center fielder Mike Trout.,0,1,1,2,7,-0.42,3.46
 1960,2021-04-16,593934,594577,,called_strike,4,Miguel Sano singles on a fly ball to center fielder Mike Trout.,0,0,1,1,7,-0.67,2.63
@@ -1972,8 +1972,8 @@
 1970,2021-04-15,593934,542882,walk,blocked_ball,14,Miguel Sano walks.,3,0,0,4,8,1.78,0.65
 1971,2021-04-15,593934,542882,,ball,14,Miguel Sano walks.,2,0,0,3,8,1.18,2.18
 1972,2021-04-15,593934,542882,,blocked_ball,14,Miguel Sano walks.,1,0,0,2,8,1.17,0.71
-1973,2021-04-15,593934,542882,,ball,14,Miguel Sano walks.,0,0,0,1,8,0.79,1.33
-1974,2021-04-15,593934,617228,home_run,hit_into_play,7,Miguel Sano homers (2) on a fly ball to left field.,1,1,0,3,6,-0.79,2.11
+1973,2021-04-15,593934,617228,home_run,hit_into_play,7,Miguel Sano homers (2) on a fly ball to left field.,1,1,0,3,6,-0.79,2.11
+1974,2021-04-15,593934,542882,,ball,14,Miguel Sano walks.,0,0,0,1,8,0.79,1.33
 1975,2021-04-15,593934,617228,,ball,14,Miguel Sano homers (2) on a fly ball to left field.,0,1,0,2,6,0.27,0.85
 1976,2021-04-15,593934,617228,,swinging_strike,14,Miguel Sano homers (2) on a fly ball to left field.,0,0,0,1,6,0.03,0.44
 1977,2021-04-14,593934,593958,strikeout,swinging_strike,1,Miguel Sano strikes out swinging.,0,2,1,3,4,-0.43,3.43
@@ -2073,10 +2073,10 @@
 2071,2021-04-07,593934,571510,,called_strike,6,Miguel Sano strikes out swinging.,1,0,0,2,7,0.75,2.64
 2072,2021-04-07,593934,571510,,ball,13,Miguel Sano strikes out swinging.,0,0,0,1,7,-0.51,0.28
 2073,2021-04-07,593934,571510,field_out,hit_into_play,14,Miguel Sano grounds out softly to pitcher Matthew Boyd.   Byron Buxton to 3rd.,0,0,0,1,5,0.95,2.58
-2074,2021-04-07,593934,542585,field_out,hit_into_play,3,Miguel Sano pops out to first baseman Miguel Cabrera in foul territory.,0,1,2,2,9,0.37,2.95
-2075,2021-04-07,593934,571510,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,0,2,1,3,2,0.27,1.42
-2076,2021-04-07,593934,571510,,swinging_strike,14,Miguel Sano strikes out swinging.,0,1,1,2,2,0.36,1.05
-2077,2021-04-07,593934,542585,,called_strike,3,Miguel Sano pops out to first baseman Miguel Cabrera in foul territory.,0,0,2,1,9,0.3,3.47
+2074,2021-04-07,593934,571510,strikeout,swinging_strike,14,Miguel Sano strikes out swinging.,0,2,1,3,2,0.27,1.42
+2075,2021-04-07,593934,542585,field_out,hit_into_play,3,Miguel Sano pops out to first baseman Miguel Cabrera in foul territory.,0,1,2,2,9,0.37,2.95
+2076,2021-04-07,593934,542585,,called_strike,3,Miguel Sano pops out to first baseman Miguel Cabrera in foul territory.,0,0,2,1,9,0.3,3.47
+2077,2021-04-07,593934,571510,,swinging_strike,14,Miguel Sano strikes out swinging.,0,1,1,2,2,0.36,1.05
 2078,2021-04-07,593934,571510,,called_strike,9,Miguel Sano strikes out swinging.,0,0,1,1,2,0.69,2.08
 2079,2021-04-06,593934,663554,force_out,hit_into_play,14,"Miguel Sano grounds into a force out, fielded by second baseman Jonathan Schoop.   Max Kepler to 3rd.    Jake Cave out at 2nd.    Miguel Sano to 1st.",3,2,1,6,4,0.95,2.14
 2080,2021-04-06,593934,663554,,foul,1,"Miguel Sano grounds into a force out, fielded by second baseman Jonathan Schoop.   Max Kepler to 3rd.    Jake Cave out at 2nd.    Miguel Sano to 1st.",3,1,1,5,4,-0.42,3.41
@@ -2102,20 +2102,20 @@
 2100,2021-04-05,593934,570632,,ball,11,Miguel Sano strikes out swinging.,0,1,2,2,3,-1.33,2.89
 2101,2021-04-05,593934,570632,,called_strike,6,Miguel Sano strikes out swinging.,0,0,2,1,3,0.77,2.37
 2102,2021-04-05,593934,571656,walk,ball,14,Miguel Sano walks.   Max Kepler to 2nd.,3,2,2,7,5,1.22,0.94
-2103,2021-04-05,593934,571656,,ball,11,Miguel Sano walks.   Max Kepler to 2nd.,2,2,2,6,5,-1.09,2.72
-2104,2021-04-05,593934,570632,walk,ball,11,Miguel Sano walks.,3,2,1,6,2,-0.44,3.71
-2105,2021-04-05,593934,570632,,swinging_strike,9,Miguel Sano walks.,3,1,1,5,2,0.5,1.84
-2106,2021-04-05,593934,571656,,foul,5,Miguel Sano walks.   Max Kepler to 2nd.,2,2,2,5,5,0.09,2.72
+2103,2021-04-05,593934,570632,walk,ball,11,Miguel Sano walks.,3,2,1,6,2,-0.44,3.71
+2104,2021-04-05,593934,571656,,ball,11,Miguel Sano walks.   Max Kepler to 2nd.,2,2,2,6,5,-1.09,2.72
+2105,2021-04-05,593934,571656,,foul,5,Miguel Sano walks.   Max Kepler to 2nd.,2,2,2,5,5,0.09,2.72
+2106,2021-04-05,593934,570632,,swinging_strike,9,Miguel Sano walks.,3,1,1,5,2,0.5,1.84
 2107,2021-04-05,593934,570632,,ball,14,Miguel Sano walks.,2,1,1,4,2,1.89,0.76
 2108,2021-04-05,593934,571656,,blocked_ball,14,Miguel Sano walks.   Max Kepler to 2nd.,1,2,2,4,5,0.98,0.37
 2109,2021-04-05,593934,571656,,swinging_strike,14,Miguel Sano walks.   Max Kepler to 2nd.,1,1,2,3,5,0.57,1.32
-2110,2021-04-05,593934,570632,,ball,14,Miguel Sano walks.,1,1,1,3,2,1.56,1.6
-2111,2021-04-05,593934,502706,walk,ball,11,Miguel Sano walks.,3,2,2,7,6,-0.25,4.07
+2110,2021-04-05,593934,502706,walk,ball,11,Miguel Sano walks.,3,2,2,7,6,-0.25,4.07
+2111,2021-04-05,593934,570632,,ball,14,Miguel Sano walks.,1,1,1,3,2,1.56,1.6
 2112,2021-04-05,593934,502706,,foul,13,Miguel Sano walks.,3,2,2,6,6,-0.84,2.2
-2113,2021-04-05,593934,570632,,swinging_strike,13,Miguel Sano walks.,1,0,1,2,2,-1.19,1.57
-2114,2021-04-05,593934,571656,,swinging_strike,9,Miguel Sano walks.   Max Kepler to 2nd.,1,0,2,2,5,0.68,1.51
-2115,2021-04-05,593934,570632,,ball,14,Miguel Sano walks.,0,0,1,1,2,1.84,1.9
-2116,2021-04-05,593934,571656,,ball,11,Miguel Sano walks.   Max Kepler to 2nd.,0,0,2,1,5,-0.87,2.88
+2113,2021-04-05,593934,571656,,swinging_strike,9,Miguel Sano walks.   Max Kepler to 2nd.,1,0,2,2,5,0.68,1.51
+2114,2021-04-05,593934,570632,,swinging_strike,13,Miguel Sano walks.,1,0,1,2,2,-1.19,1.57
+2115,2021-04-05,593934,571656,,ball,11,Miguel Sano walks.   Max Kepler to 2nd.,0,0,2,1,5,-0.87,2.88
+2116,2021-04-05,593934,570632,,ball,14,Miguel Sano walks.,0,0,1,1,2,1.84,1.9
 2117,2021-04-05,593934,502706,,ball,12,Miguel Sano walks.,2,2,2,5,6,1.62,2.82
 2118,2021-04-05,593934,502706,,blocked_ball,13,Miguel Sano walks.,1,2,2,4,6,-1.95,0.76
 2119,2021-04-05,593934,502706,,called_strike,1,Miguel Sano walks.,1,1,2,3,6,-0.32,3.49
@@ -2171,10 +2171,10 @@
 2169,2021-04-01,593934,642547,,foul,11,Miguel Sano strikes out swinging.,2,2,2,5,6,-0.92,2.88
 2170,2021-04-01,593934,642547,,blocked_ball,14,Miguel Sano strikes out swinging.,1,2,2,4,6,1.89,0.73
 2171,2021-04-01,593934,642547,,swinging_strike,9,Miguel Sano strikes out swinging.,1,1,2,3,6,0.57,1.76
-2172,2021-04-01,593934,605540,single,hit_into_play,5,Miguel Sano singles on a line drive to right fielder Avisail Garcia.   Jake Cave to 3rd.,2,1,2,4,3,-0.05,2.28
-2173,2021-04-01,593934,642547,,called_strike,5,Miguel Sano strikes out swinging.,1,0,2,2,6,-0.06,2.86
-2174,2021-04-01,593934,605540,,ball,11,Miguel Sano singles on a line drive to right fielder Avisail Garcia.   Jake Cave to 3rd.,1,1,2,3,3,-0.98,3.82
-2175,2021-04-01,593934,642547,,ball,11,Miguel Sano strikes out swinging.,0,0,2,1,6,-0.87,3.96
+2172,2021-04-01,593934,642547,,called_strike,5,Miguel Sano strikes out swinging.,1,0,2,2,6,-0.06,2.86
+2173,2021-04-01,593934,605540,single,hit_into_play,5,Miguel Sano singles on a line drive to right fielder Avisail Garcia.   Jake Cave to 3rd.,2,1,2,4,3,-0.05,2.28
+2174,2021-04-01,593934,642547,,ball,11,Miguel Sano strikes out swinging.,0,0,2,1,6,-0.87,3.96
+2175,2021-04-01,593934,605540,,ball,11,Miguel Sano singles on a line drive to right fielder Avisail Garcia.   Jake Cave to 3rd.,1,1,2,3,3,-0.98,3.82
 2176,2021-04-01,593934,605540,,ball,13,Miguel Sano singles on a line drive to right fielder Avisail Garcia.   Jake Cave to 3rd.,0,1,2,2,3,-1.32,1.68
 2177,2021-04-01,593934,605540,,foul,5,Miguel Sano singles on a line drive to right fielder Avisail Garcia.   Jake Cave to 3rd.,0,0,2,1,3,-0.03,2.5
 2178,2021-04-01,593934,605540,walk,ball,13,Miguel Sano walks.,3,2,2,7,1,-0.32,0.89
@@ -2184,8 +2184,8 @@
 2182,2021-04-01,593934,605540,,foul,14,Miguel Sano walks.,1,2,2,4,1,0.98,1.91
 2183,2021-04-01,593934,605540,,swinging_strike,9,Miguel Sano walks.,1,1,2,3,1,0.35,1.6
 2184,2021-04-01,593934,656420,,swinging_strike,8,Miguel Sano strikes out swinging.,1,1,2,3,8,-0.08,1.69
-2185,2021-04-01,593934,605540,,ball,1,Miguel Sano walks.,0,1,2,2,1,-0.8,3.19
-2186,2021-04-01,593934,656420,,ball,11,Miguel Sano strikes out swinging.,0,1,2,2,8,-0.78,6.23
+2185,2021-04-01,593934,656420,,ball,11,Miguel Sano strikes out swinging.,0,1,2,2,8,-0.78,6.23
+2186,2021-04-01,593934,605540,,ball,1,Miguel Sano walks.,0,1,2,2,1,-0.8,3.19
 2187,2021-04-01,593934,656420,,called_strike,12,Miguel Sano strikes out swinging.,0,0,2,1,8,1.1,2.9
 2188,2021-04-01,593934,605540,,called_strike,8,Miguel Sano walks.,0,0,2,1,1,0.18,2.09
 2189,2021-04-01,593934,642547,strikeout,swinging_strike,6,Miguel Sano strikes out swinging.,3,2,1,6,5,0.7,2.68

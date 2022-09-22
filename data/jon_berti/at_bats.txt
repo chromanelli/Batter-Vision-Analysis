@@ -9,5 +9,6 @@ VISION REPORT: jon_berti (2021-04-01 thru 2021-10-04)
      jon_berti saw 571 strikes and 567 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4025
+VISION SCORE METRIC B (VSA - SO%): 0.1774
 Average PA Length: 4.1956 (1137/271)
 Batting Avg: 0.210

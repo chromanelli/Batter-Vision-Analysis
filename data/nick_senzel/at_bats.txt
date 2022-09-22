@@ -9,5 +9,6 @@ VISION REPORT: nick_senzel (2021-04-01 thru 2021-10-04)
      nick_senzel saw 197 strikes and 220 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5060
+VISION SCORE METRIC B (VSA - SO%): 0.3770
 Average PA Length: 3.3629 (417/124)
 Batting Avg: 0.252

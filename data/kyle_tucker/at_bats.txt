@@ -9,5 +9,6 @@ VISION REPORT: kyle_tucker (2021-04-01 thru 2021-10-04)
      kyle_tucker saw 1047 strikes and 1133 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5514
+VISION SCORE METRIC B (VSA - SO%): 0.3926
 Average PA Length: 3.8289 (2171/567)
 Batting Avg: 0.295

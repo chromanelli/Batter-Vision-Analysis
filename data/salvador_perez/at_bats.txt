@@ -9,5 +9,6 @@ VISION REPORT: salvador_perez (2021-04-01 thru 2021-10-04)
      salvador_perez saw 1003 strikes and 1389 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3420
+VISION SCORE METRIC B (VSA - SO%): 0.0863
 Average PA Length: 3.5729 (2376/665)
 Batting Avg: 0.273

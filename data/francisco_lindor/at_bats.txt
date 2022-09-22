@@ -9,5 +9,6 @@ VISION REPORT: francisco_lindor (2021-04-01 thru 2021-10-04)
      francisco_lindor saw 997 strikes and 1099 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4561
+VISION SCORE METRIC B (VSA - SO%): 0.2729
 Average PA Length: 3.9523 (2071/524)
 Batting Avg: 0.230

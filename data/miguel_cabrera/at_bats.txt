@@ -9,5 +9,6 @@ VISION REPORT: miguel_cabrera (2021-04-01 thru 2021-10-04)
      miguel_cabrera saw 1002 strikes and 1033 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3916
+VISION SCORE METRIC B (VSA - SO%): 0.1673
 Average PA Length: 3.8479 (2024/526)
 Batting Avg: 0.256

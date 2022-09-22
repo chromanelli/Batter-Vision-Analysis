@@ -9,5 +9,6 @@ VISION REPORT: justin_turner (2021-04-01 thru 2021-10-04)
      justin_turner saw 1215 strikes and 1250 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4426
+VISION SCORE METRIC B (VSA - SO%): 0.2825
 Average PA Length: 3.9902 (2442/612)
 Batting Avg: 0.278

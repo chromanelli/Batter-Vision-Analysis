@@ -32,8 +32,8 @@
 30,2021-10-01,571970,594311,field_out,hit_into_play,8,Max Muncy grounds out to first baseman Eduardo Escobar.,1,1,0,3,6,-0.24,1.71
 31,2021-10-01,571970,608718,single,hit_into_play,4,Max Muncy singles on a ground ball to third baseman Luis Urias.   Corey Seager scores.    Trea Turner to 3rd.,1,0,2,2,7,-0.3,2.57
 32,2021-10-01,571970,594311,,ball,13,Max Muncy grounds out to first baseman Eduardo Escobar.,0,1,0,2,6,-0.93,2.16
-33,2021-10-01,571970,594311,,called_strike,4,Max Muncy grounds out to first baseman Eduardo Escobar.,0,0,0,1,6,-0.42,2.31
-34,2021-10-01,571970,608718,,ball,11,Max Muncy singles on a ground ball to third baseman Luis Urias.   Corey Seager scores.    Trea Turner to 3rd.,0,0,2,1,7,-0.15,3.86
+33,2021-10-01,571970,608718,,ball,11,Max Muncy singles on a ground ball to third baseman Luis Urias.   Corey Seager scores.    Trea Turner to 3rd.,0,0,2,1,7,-0.15,3.86
+34,2021-10-01,571970,594311,,called_strike,4,Max Muncy grounds out to first baseman Eduardo Escobar.,0,0,0,1,6,-0.42,2.31
 35,2021-09-30,571970,592826,walk,ball,13,Max Muncy walks.,3,1,0,5,4,-0.01,1.03
 36,2021-09-30,571970,592826,,ball,9,Max Muncy walks.,2,1,0,4,4,0.82,1.66
 37,2021-09-30,571970,592826,,ball,11,Max Muncy walks.,1,1,0,3,4,-1.1,2.39
@@ -206,8 +206,8 @@
 204,2021-09-18,571970,543243,,ball,11,Max Muncy called out on strikes.,0,1,2,2,4,-0.17,3.62
 205,2021-09-18,571970,543243,,called_strike,9,Max Muncy called out on strikes.,0,0,2,1,4,0.58,1.88
 206,2021-09-18,571970,543243,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,1,2,0,4,2,-0.12,0.98
-207,2021-09-18,571970,605521,strikeout,swinging_strike,6,Max Muncy strikes out swinging.,1,2,1,4,8,0.41,2.74
-208,2021-09-18,571970,543243,,swinging_strike,6,Max Muncy strikes out swinging.,1,1,0,3,2,0.65,2.15
+207,2021-09-18,571970,543243,,swinging_strike,6,Max Muncy strikes out swinging.,1,1,0,3,2,0.65,2.15
+208,2021-09-18,571970,605521,strikeout,swinging_strike,6,Max Muncy strikes out swinging.,1,2,1,4,8,0.41,2.74
 209,2021-09-18,571970,543243,,ball,13,Max Muncy strikes out swinging.,0,1,0,2,2,-0.63,0.93
 210,2021-09-18,571970,605521,,foul,2,Max Muncy strikes out swinging.,1,1,1,3,8,-0.14,3.45
 211,2021-09-18,571970,605521,,ball,13,Max Muncy strikes out swinging.,0,1,1,2,8,-0.1,0.87
@@ -221,10 +221,10 @@
 219,2021-09-17,571970,622491,field_out,hit_into_play,2,"Max Muncy grounds out sharply, shortstop Kyle Farmer to first baseman Joey Votto.",0,0,2,1,3,-0.08,2.92
 220,2021-09-17,571970,622491,strikeout,swinging_strike,11,Max Muncy strikes out swinging.,3,2,0,7,1,-1.33,2.77
 221,2021-09-17,571970,622491,,foul,8,Max Muncy strikes out swinging.,3,2,0,6,1,0.26,2.08
-222,2021-09-17,571970,622491,,ball,14,Max Muncy strikes out swinging.,2,2,0,5,1,0.6,0.97
-223,2021-09-17,571970,570666,strikeout,swinging_strike,5,Max Muncy strikes out swinging.,0,2,0,3,8,-0.08,2.13
-224,2021-09-17,571970,622491,,ball,11,Max Muncy strikes out swinging.,1,2,0,4,1,-1.19,3.52
-225,2021-09-17,571970,570666,,swinging_strike,13,Max Muncy strikes out swinging.,0,1,0,2,8,-0.74,1.31
+222,2021-09-17,571970,570666,strikeout,swinging_strike,5,Max Muncy strikes out swinging.,0,2,0,3,8,-0.08,2.13
+223,2021-09-17,571970,622491,,ball,14,Max Muncy strikes out swinging.,2,2,0,5,1,0.6,0.97
+224,2021-09-17,571970,570666,,swinging_strike,13,Max Muncy strikes out swinging.,0,1,0,2,8,-0.74,1.31
+225,2021-09-17,571970,622491,,ball,11,Max Muncy strikes out swinging.,1,2,0,4,1,-1.19,3.52
 226,2021-09-17,571970,622491,,swinging_strike,12,Max Muncy strikes out swinging.,1,1,0,3,1,0.03,3.66
 227,2021-09-17,571970,570666,,called_strike,7,Max Muncy strikes out swinging.,0,0,0,1,8,-0.33,1.66
 228,2021-09-17,571970,622491,,ball,11,Max Muncy strikes out swinging.,0,1,0,2,1,-1.46,2.71
@@ -258,8 +258,8 @@
 256,2021-09-14,571970,596133,,ball,11,Max Muncy homers (33) on a fly ball to right center field.    Mookie Betts scores.,1,0,0,2,3,-0.92,3.03
 257,2021-09-14,571970,596133,,ball,14,Max Muncy homers (33) on a fly ball to right center field.    Mookie Betts scores.,0,0,0,1,3,1.2,1.51
 258,2021-09-14,571970,676969,walk,ball,12,Max Muncy walks.,3,2,0,6,7,0.66,3.46
-259,2021-09-14,571970,596133,double,hit_into_play,4,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,3,2,1,6,1,-0.55,2.57
-260,2021-09-14,571970,676969,,ball,14,Max Muncy walks.,2,2,0,5,7,0.24,0.87
+259,2021-09-14,571970,676969,,ball,14,Max Muncy walks.,2,2,0,5,7,0.24,0.87
+260,2021-09-14,571970,596133,double,hit_into_play,4,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,3,2,1,6,1,-0.55,2.57
 261,2021-09-14,571970,676969,,swinging_strike,4,Max Muncy walks.,2,1,0,4,7,-0.67,2.22
 262,2021-09-14,571970,596133,,ball,14,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,2,2,1,5,1,0.54,1.38
 263,2021-09-14,571970,676969,,called_strike,11,Max Muncy walks.,2,0,0,3,7,-0.32,3.2
@@ -268,10 +268,10 @@
 266,2021-09-14,571970,676969,,ball,14,Max Muncy walks.,1,0,0,2,7,0.68,1.25
 267,2021-09-14,571970,596133,,ball,11,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,0,2,1,3,1,-0.35,3.86
 268,2021-09-14,571970,676969,,ball,12,Max Muncy walks.,0,0,0,1,7,1.25,2.44
-269,2021-09-14,571970,607188,,foul,7,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Jake Faria.",2,1,0,4,5,-0.69,2.07
-270,2021-09-14,571970,596133,,called_strike,1,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,0,1,1,2,1,-0.69,2.68
-271,2021-09-14,571970,596133,,foul,5,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,0,0,1,1,1,0.08,2.58
-272,2021-09-14,571970,607188,,ball,13,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Jake Faria.",1,1,0,3,5,-1.33,2.25
+269,2021-09-14,571970,596133,,called_strike,1,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,0,1,1,2,1,-0.69,2.68
+270,2021-09-14,571970,607188,,foul,7,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Jake Faria.",2,1,0,4,5,-0.69,2.07
+271,2021-09-14,571970,607188,,ball,13,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Jake Faria.",1,1,0,3,5,-1.33,2.25
+272,2021-09-14,571970,596133,,foul,5,Max Muncy doubles (24) on a line drive to right fielder Pavin Smith.,0,0,1,1,1,0.08,2.58
 273,2021-09-14,571970,607188,,ball,14,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Jake Faria.",0,1,0,2,5,1.08,-1.01
 274,2021-09-14,571970,607188,,foul,5,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Jake Faria.",0,0,0,1,5,-0.27,2.41
 275,2021-09-13,571970,668678,field_out,hit_into_play,7,"Max Muncy grounds out, third baseman Josh Rojas to first baseman Christian Walker.",0,0,0,1,5,-0.62,1.91
@@ -284,8 +284,8 @@
 282,2021-09-13,571970,607188,field_out,hit_into_play,4,Max Muncy lines out sharply to left fielder Henry Ramos.,3,2,1,6,8,-0.53,2.6
 283,2021-09-13,571970,607188,,foul,6,Max Muncy lines out sharply to left fielder Henry Ramos.,3,1,1,5,8,0.55,2.38
 284,2021-09-13,571970,607188,,foul,1,Max Muncy lines out sharply to left fielder Henry Ramos.,3,0,1,4,8,-0.55,3.09
-285,2021-09-13,571970,670087,field_out,hit_into_play,5,Max Muncy pops out to shortstop Nick Ahmed.,2,2,2,6,6,0.19,2.25
-286,2021-09-13,571970,607188,,ball,13,Max Muncy lines out sharply to left fielder Henry Ramos.,2,0,1,3,8,-1.35,2.23
+285,2021-09-13,571970,607188,,ball,13,Max Muncy lines out sharply to left fielder Henry Ramos.,2,0,1,3,8,-1.35,2.23
+286,2021-09-13,571970,670087,field_out,hit_into_play,5,Max Muncy pops out to shortstop Nick Ahmed.,2,2,2,6,6,0.19,2.25
 287,2021-09-13,571970,607188,,ball,11,Max Muncy lines out sharply to left fielder Henry Ramos.,1,0,1,2,8,-1.26,2.69
 288,2021-09-13,571970,670087,,blocked_ball,14,Max Muncy pops out to shortstop Nick Ahmed.,1,2,2,5,6,0.32,0.37
 289,2021-09-13,571970,607188,,ball,13,Max Muncy lines out sharply to left fielder Henry Ramos.,0,0,1,1,8,-0.49,1.37
@@ -299,8 +299,8 @@
 297,2021-09-12,571970,613534,sac_fly,hit_into_play,5,Max Muncy out on a sacrifice fly to left fielder Tommy Pham.   Cody Bellinger scores.,0,0,1,1,8,-0.13,2.41
 298,2021-09-12,571970,572955,strikeout,foul_tip,2,Max Muncy strikes out on a foul tip.,2,2,0,5,5,0.26,3.15
 299,2021-09-12,571970,572955,,called_strike,11,Max Muncy strikes out on a foul tip.,2,1,0,4,5,-0.86,2.29
-300,2021-09-12,571970,641941,double,hit_into_play,8,Max Muncy doubles (23) on a fly ball to right fielder Wil Myers.   Gavin Lux scores.    Mookie Betts to 3rd.,2,1,1,4,7,-0.02,1.65
-301,2021-09-12,571970,605483,field_out,hit_into_play,2,Max Muncy flies out to left fielder Tommy Pham.,0,0,1,1,1,-0.23,2.85
+300,2021-09-12,571970,605483,field_out,hit_into_play,2,Max Muncy flies out to left fielder Tommy Pham.,0,0,1,1,1,-0.23,2.85
+301,2021-09-12,571970,641941,double,hit_into_play,8,Max Muncy doubles (23) on a fly ball to right fielder Wil Myers.   Gavin Lux scores.    Mookie Betts to 3rd.,2,1,1,4,7,-0.02,1.65
 302,2021-09-12,571970,572955,,ball,11,Max Muncy strikes out on a foul tip.,1,1,0,3,5,-0.54,3.58
 303,2021-09-12,571970,641941,,ball,14,Max Muncy doubles (23) on a fly ball to right fielder Wil Myers.   Gavin Lux scores.    Mookie Betts to 3rd.,1,1,1,3,7,0.91,0.81
 304,2021-09-12,571970,572955,,swinging_strike,2,Max Muncy strikes out on a foul tip.,1,0,0,2,5,-0.07,2.91
@@ -319,8 +319,8 @@
 317,2021-09-11,571970,543339,,ball,13,Max Muncy called out on strikes.,1,2,2,4,8,-0.42,1.24
 318,2021-09-11,571970,543339,,ball,14,Max Muncy called out on strikes.,0,2,2,3,8,0.88,0.74
 319,2021-09-11,571970,543339,,foul,5,Max Muncy called out on strikes.,0,1,2,2,8,0.12,2.14
-320,2021-09-11,571970,663978,strikeout_double_play,swinging_strike,13,"Max Muncy strikes out swinging and Mookie Betts caught stealing 2nd, catcher Victor Caratini to shortstop Fernando Tatis to catcher Victor Caratini.",3,2,0,6,1,-0.25,1.09
-321,2021-09-11,571970,543339,,swinging_strike,13,Max Muncy called out on strikes.,0,0,2,1,8,-1.13,2.38
+320,2021-09-11,571970,543339,,swinging_strike,13,Max Muncy called out on strikes.,0,0,2,1,8,-1.13,2.38
+321,2021-09-11,571970,663978,strikeout_double_play,swinging_strike,13,"Max Muncy strikes out swinging and Mookie Betts caught stealing 2nd, catcher Victor Caratini to shortstop Fernando Tatis to catcher Victor Caratini.",3,2,0,6,1,-0.25,1.09
 322,2021-09-11,571970,663978,,blocked_ball,14,"Max Muncy strikes out swinging and Mookie Betts caught stealing 2nd, catcher Victor Caratini to shortstop Fernando Tatis to catcher Victor Caratini.",2,2,0,5,1,1.99,0.67
 323,2021-09-11,571970,663978,,foul,13,"Max Muncy strikes out swinging and Mookie Betts caught stealing 2nd, catcher Victor Caratini to shortstop Fernando Tatis to catcher Victor Caratini.",2,1,0,4,1,-0.84,2.06
 324,2021-09-11,571970,663978,,ball,14,"Max Muncy strikes out swinging and Mookie Betts caught stealing 2nd, catcher Victor Caratini to shortstop Fernando Tatis to catcher Victor Caratini.",1,1,0,3,1,0.33,0.89
@@ -340,8 +340,8 @@
 338,2021-09-10,571970,572955,,swinging_strike,14,Max Muncy lines out to third baseman Manny Machado.,1,1,1,3,7,0.2,0.9
 339,2021-09-10,571970,605397,field_out,hit_into_play,5,Max Muncy flies out to right fielder Fernando Tatis.,0,1,1,2,1,0.03,2.21
 340,2021-09-10,571970,572955,,called_strike,9,Max Muncy lines out to third baseman Manny Machado.,1,0,1,2,7,0.71,1.52
-341,2021-09-10,571970,572955,,ball,11,Max Muncy lines out to third baseman Manny Machado.,0,0,1,1,7,-2.16,2.85
-342,2021-09-10,571970,605397,,called_strike,6,Max Muncy flies out to right fielder Fernando Tatis.,0,0,1,1,1,0.74,2.6
+341,2021-09-10,571970,605397,,called_strike,6,Max Muncy flies out to right fielder Fernando Tatis.,0,0,1,1,1,0.74,2.6
+342,2021-09-10,571970,572955,,ball,11,Max Muncy lines out to third baseman Manny Machado.,0,0,1,1,7,-2.16,2.85
 343,2021-09-09,571970,663765,double,hit_into_play,5,Max Muncy doubles (22) on a sharp line drive to left fielder Tyler O'Neill.   Mookie Betts to 3rd.,1,1,2,3,3,0.04,2.38
 344,2021-09-09,571970,663765,,called_strike,12,Max Muncy doubles (22) on a sharp line drive to left fielder Tyler O'Neill.   Mookie Betts to 3rd.,1,0,2,2,3,0.86,2.97
 345,2021-09-09,571970,663765,,blocked_ball,14,Max Muncy doubles (22) on a sharp line drive to left fielder Tyler O'Neill.   Mookie Betts to 3rd.,0,0,2,1,3,1.67,-0.43
@@ -352,10 +352,10 @@
 350,2021-09-09,571970,519008,,called_strike,7,Max Muncy flies out to center fielder Harrison Bader.,1,0,0,2,8,-0.6,1.46
 351,2021-09-09,571970,519008,,ball,14,Max Muncy flies out to center fielder Harrison Bader.,0,0,0,1,8,0.11,0.92
 352,2021-09-09,571970,621052,field_out,hit_into_play,6,Max Muncy lines out to center fielder Dylan Carlson.,2,1,1,4,5,0.3,2.45
-353,2021-09-09,571970,621052,,ball,14,Max Muncy lines out to center fielder Dylan Carlson.,1,1,1,3,5,0.94,1.09
-354,2021-09-09,571970,663765,field_out,hit_into_play,5,Max Muncy lines out to right fielder Lars Nootbaar.,1,1,1,3,1,-0.12,2.27
-355,2021-09-09,571970,663765,,ball,13,Max Muncy lines out to right fielder Lars Nootbaar.,0,1,1,2,1,-1.37,1.74
-356,2021-09-09,571970,621052,,blocked_ball,14,Max Muncy lines out to center fielder Dylan Carlson.,0,1,1,2,5,0.22,0.61
+353,2021-09-09,571970,663765,field_out,hit_into_play,5,Max Muncy lines out to right fielder Lars Nootbaar.,1,1,1,3,1,-0.12,2.27
+354,2021-09-09,571970,621052,,ball,14,Max Muncy lines out to center fielder Dylan Carlson.,1,1,1,3,5,0.94,1.09
+355,2021-09-09,571970,621052,,blocked_ball,14,Max Muncy lines out to center fielder Dylan Carlson.,0,1,1,2,5,0.22,0.61
+356,2021-09-09,571970,663765,,ball,13,Max Muncy lines out to right fielder Lars Nootbaar.,0,1,1,2,1,-1.37,1.74
 357,2021-09-09,571970,663765,,called_strike,4,Max Muncy lines out to right fielder Lars Nootbaar.,0,0,1,1,1,-0.63,2.51
 358,2021-09-09,571970,621052,,called_strike,2,Max Muncy lines out to center fielder Dylan Carlson.,0,0,1,1,5,0.27,2.81
 359,2021-09-08,571970,425794,field_out,hit_into_play,2,Max Muncy lines out to right fielder Lars Nootbaar.,3,1,0,5,9,0.22,2.96
@@ -416,8 +416,8 @@
 414,2021-09-05,571970,543351,,ball,11,Max Muncy lines out to right fielder Mike Yastrzemski.,1,1,0,3,3,-0.78,3.39
 415,2021-09-05,571970,543351,,ball,11,Max Muncy lines out to right fielder Mike Yastrzemski.,0,1,0,2,3,-1.32,3.64
 416,2021-09-05,571970,608678,field_out,hit_into_play,5,Max Muncy pops out to first baseman Brandon Belt.,2,1,1,4,1,0.01,2.11
-417,2021-09-05,571970,543351,,called_strike,7,Max Muncy lines out to right fielder Mike Yastrzemski.,0,0,0,1,3,-0.3,1.83
-418,2021-09-05,571970,608678,,ball,8,Max Muncy pops out to first baseman Brandon Belt.,1,1,1,3,1,-0.04,1.5
+417,2021-09-05,571970,608678,,ball,8,Max Muncy pops out to first baseman Brandon Belt.,1,1,1,3,1,-0.04,1.5
+418,2021-09-05,571970,543351,,called_strike,7,Max Muncy lines out to right fielder Mike Yastrzemski.,0,0,0,1,3,-0.3,1.83
 419,2021-09-05,571970,608678,,called_strike,5,Max Muncy pops out to first baseman Brandon Belt.,1,0,1,2,1,0.18,2.49
 420,2021-09-05,571970,608678,,ball,14,Max Muncy pops out to first baseman Brandon Belt.,0,0,1,1,1,1.61,1.85
 421,2021-09-05,571970,453265,field_out,hit_into_play,5,Max Muncy flies out sharply to left fielder LaMonte Wade.,1,1,0,3,7,-0.04,2.24
@@ -429,14 +429,14 @@
 427,2021-09-04,571970,669674,,foul,4,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,3,2,2,7,9,-0.72,2.27
 428,2021-09-04,571970,669674,,foul,7,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,3,2,2,6,9,-0.46,2.02
 429,2021-09-04,571970,669674,,ball,12,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,2,2,2,5,9,0.34,4.93
-430,2021-09-04,571970,606424,strikeout,swinging_strike,5,Max Muncy strikes out swinging.,2,2,0,6,3,0.21,2.73
-431,2021-09-04,571970,669674,,swinging_strike,13,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,2,1,2,4,9,-0.98,1.88
+430,2021-09-04,571970,669674,,swinging_strike,13,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,2,1,2,4,9,-0.98,1.88
+431,2021-09-04,571970,606424,strikeout,swinging_strike,5,Max Muncy strikes out swinging.,2,2,0,6,3,0.21,2.73
 432,2021-09-04,571970,669674,,ball,13,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,1,1,2,3,9,-0.44,1.09
 433,2021-09-04,571970,606424,,ball,13,Max Muncy strikes out swinging.,1,2,0,5,3,-0.27,1.13
-434,2021-09-04,571970,606424,,foul,1,Max Muncy strikes out swinging.,1,2,0,4,3,-0.3,2.93
-435,2021-09-04,571970,669674,,ball,11,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,0,1,2,2,9,-1.51,2.48
-436,2021-09-04,571970,669674,,swinging_strike,8,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,0,0,2,1,9,0.25,1.86
-437,2021-09-04,571970,606424,,swinging_strike,9,Max Muncy strikes out swinging.,1,1,0,3,3,0.55,1.71
+434,2021-09-04,571970,669674,,ball,11,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,0,1,2,2,9,-1.51,2.48
+435,2021-09-04,571970,606424,,foul,1,Max Muncy strikes out swinging.,1,2,0,4,3,-0.3,2.93
+436,2021-09-04,571970,606424,,swinging_strike,9,Max Muncy strikes out swinging.,1,1,0,3,3,0.55,1.71
+437,2021-09-04,571970,669674,,swinging_strike,8,Max Muncy walks.   Will Smith to 3rd.    Trea Turner to 2nd.,0,0,2,1,9,0.25,1.86
 438,2021-09-04,571970,606424,,foul,8,Max Muncy strikes out swinging.,1,0,0,2,3,0.09,2.06
 439,2021-09-04,571970,606424,,ball,12,Max Muncy strikes out swinging.,0,0,0,1,3,0.7,3.78
 440,2021-09-04,571970,641793,strikeout,swinging_strike,8,Max Muncy strikes out swinging.,1,2,2,4,5,0.18,1.78
@@ -469,8 +469,8 @@
 467,2021-09-01,571970,608331,,ball,13,Max Muncy triples (2) on a sharp fly ball to left fielder Eddie Rosario.,0,1,2,2,3,-1.37,1.98
 468,2021-09-01,571970,608331,,called_strike,1,Max Muncy triples (2) on a sharp fly ball to left fielder Eddie Rosario.,0,0,2,1,3,-0.35,3.32
 469,2021-09-01,571970,608331,home_run,hit_into_play,4,Max Muncy homers (30) on a fly ball to left center field.,2,1,1,4,1,-0.29,2.32
-470,2021-09-01,571970,608331,,foul,4,Max Muncy homers (30) on a fly ball to left center field.,2,0,1,3,1,-0.55,2.51
-471,2021-09-01,571970,554431,field_out,hit_into_play,8,"Max Muncy grounds out, first baseman Freddie Freeman to pitcher Tyler Matzek.   Trea Turner to 3rd.",0,0,0,1,8,-0.12,1.83
+470,2021-09-01,571970,554431,field_out,hit_into_play,8,"Max Muncy grounds out, first baseman Freddie Freeman to pitcher Tyler Matzek.   Trea Turner to 3rd.",0,0,0,1,8,-0.12,1.83
+471,2021-09-01,571970,608331,,foul,4,Max Muncy homers (30) on a fly ball to left center field.,2,0,1,3,1,-0.55,2.51
 472,2021-09-01,571970,608331,,ball,13,Max Muncy homers (30) on a fly ball to left center field.,1,0,1,2,1,-1.05,0.77
 473,2021-09-01,571970,608331,,ball,13,Max Muncy homers (30) on a fly ball to left center field.,0,0,1,1,1,-1.16,1.04
 474,2021-08-31,571970,450203,strikeout,swinging_strike,14,Max Muncy strikes out swinging.,1,2,0,5,6,0.14,1.2
@@ -533,10 +533,10 @@
 531,2021-08-28,571970,622075,,called_strike,7,"Max Muncy lines into an unassisted double play, first baseman C.  J. Cron.   Trea Turner out at 1st.",0,1,0,2,5,-0.72,1.56
 532,2021-08-28,571970,622075,,called_strike,7,"Max Muncy lines into an unassisted double play, first baseman C.  J. Cron.   Trea Turner out at 1st.",0,0,0,1,5,-0.76,1.96
 533,2021-08-28,571970,592351,,called_strike,6,Max Muncy walks.   Trea Turner to 2nd.,1,1,0,3,1,0.46,2.04
-534,2021-08-28,571970,453268,single,hit_into_play,11,Max Muncy singles on a fly ball to left fielder Connor Joe.,1,2,0,4,8,-1.13,2.61
-535,2021-08-28,571970,592351,,called_strike,8,Max Muncy walks.   Trea Turner to 2nd.,1,0,0,2,1,0.13,1.47
-536,2021-08-28,571970,592351,,ball,11,Max Muncy walks.   Trea Turner to 2nd.,0,0,0,1,1,-1.02,2.92
-537,2021-08-28,571970,453268,,foul,13,Max Muncy singles on a fly ball to left fielder Connor Joe.,1,1,0,3,8,-0.91,2.33
+534,2021-08-28,571970,592351,,called_strike,8,Max Muncy walks.   Trea Turner to 2nd.,1,0,0,2,1,0.13,1.47
+535,2021-08-28,571970,453268,single,hit_into_play,11,Max Muncy singles on a fly ball to left fielder Connor Joe.,1,2,0,4,8,-1.13,2.61
+536,2021-08-28,571970,453268,,foul,13,Max Muncy singles on a fly ball to left fielder Connor Joe.,1,1,0,3,8,-0.91,2.33
+537,2021-08-28,571970,592351,,ball,11,Max Muncy walks.   Trea Turner to 2nd.,0,0,0,1,1,-1.02,2.92
 538,2021-08-28,571970,453268,,foul,5,Max Muncy singles on a fly ball to left fielder Connor Joe.,1,0,0,2,8,0.07,2.5
 539,2021-08-28,571970,453268,,ball,11,Max Muncy singles on a fly ball to left fielder Connor Joe.,0,0,0,1,8,-0.51,3.26
 540,2021-08-27,571970,608032,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,3,2,0,6,9,-1.09,2.24
@@ -556,12 +556,12 @@
 554,2021-08-25,571970,605483,,ball,13,Max Muncy flies out sharply to center fielder Trent Grisham.,0,0,1,1,4,-1.1,2.28
 555,2021-08-25,571970,547176,strikeout,swinging_strike,8,Max Muncy strikes out swinging.,2,2,1,5,15,-0.26,1.98
 556,2021-08-25,571970,547176,,foul,2,Max Muncy strikes out swinging.,2,1,1,4,15,-0.18,2.86
-557,2021-08-25,571970,547176,,ball,13,Max Muncy strikes out swinging.,1,1,1,3,15,-1.06,0.99
-558,2021-08-25,571970,622503,strikeout,swinging_strike,11,Max Muncy strikes out swinging.,0,2,2,3,13,-1.39,2.53
-559,2021-08-25,571970,622503,,foul,4,Max Muncy strikes out swinging.,0,1,2,2,13,-0.43,2.23
-560,2021-08-25,571970,547176,,called_strike,4,Max Muncy strikes out swinging.,1,0,1,2,15,-0.7,2.51
-561,2021-08-25,571970,547176,,ball,3,Max Muncy strikes out swinging.,0,0,1,1,15,0.74,2.97
-562,2021-08-25,571970,622503,,called_strike,8,Max Muncy strikes out swinging.,0,0,2,1,13,-0.01,1.38
+557,2021-08-25,571970,622503,strikeout,swinging_strike,11,Max Muncy strikes out swinging.,0,2,2,3,13,-1.39,2.53
+558,2021-08-25,571970,547176,,ball,13,Max Muncy strikes out swinging.,1,1,1,3,15,-1.06,0.99
+559,2021-08-25,571970,547176,,called_strike,4,Max Muncy strikes out swinging.,1,0,1,2,15,-0.7,2.51
+560,2021-08-25,571970,622503,,foul,4,Max Muncy strikes out swinging.,0,1,2,2,13,-0.43,2.23
+561,2021-08-25,571970,622503,,called_strike,8,Max Muncy strikes out swinging.,0,0,2,1,13,-0.01,1.38
+562,2021-08-25,571970,547176,,ball,3,Max Muncy strikes out swinging.,0,0,1,1,15,0.74,2.97
 563,2021-08-25,571970,657612,field_out,hit_into_play,9,Max Muncy lines out to center fielder Trent Grisham.,1,1,2,3,11,0.8,1.85
 564,2021-08-25,571970,657612,,ball,13,Max Muncy lines out to center fielder Trent Grisham.,0,1,2,2,11,-1.34,1.51
 565,2021-08-25,571970,657612,,called_strike,4,Max Muncy lines out to center fielder Trent Grisham.,0,0,2,1,11,-0.66,2.58
@@ -571,18 +571,18 @@
 569,2021-08-25,571970,605483,,foul,3,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",1,2,1,4,1,0.56,3.25
 570,2021-08-25,571970,605483,,foul,9,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",1,1,1,3,1,0.28,2.05
 571,2021-08-25,571970,605483,,called_strike,2,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",1,0,1,2,1,-0.27,2.82
-572,2021-08-25,571970,605483,,ball,13,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",0,0,1,1,1,-0.14,0.98
-573,2021-08-25,571970,453343,field_out,hit_into_play,5,"Max Muncy grounds out sharply, second baseman Adam Frazier to first baseman Eric Hosmer.",0,1,1,2,9,-0.16,2.37
+572,2021-08-25,571970,453343,field_out,hit_into_play,5,"Max Muncy grounds out sharply, second baseman Adam Frazier to first baseman Eric Hosmer.",0,1,1,2,9,-0.16,2.37
+573,2021-08-25,571970,605483,,ball,13,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",0,0,1,1,1,-0.14,0.98
 574,2021-08-25,571970,453343,,swinging_strike,13,"Max Muncy grounds out sharply, second baseman Adam Frazier to first baseman Eric Hosmer.",0,0,1,1,9,-0.01,1.19
 575,2021-08-24,571970,641941,field_out,hit_into_play,5,Max Muncy flies out to left fielder Tommy Pham.,1,2,2,4,3,-0.09,2.42
 576,2021-08-24,571970,572955,field_out,hit_into_play,9,"Max Muncy grounds out, second baseman Ha-Seong Kim to first baseman Eric Hosmer.",1,0,1,2,1,0.62,2.06
 577,2021-08-24,571970,641941,,swinging_strike,8,Max Muncy flies out to left fielder Tommy Pham.,1,1,2,3,3,0.11,1.55
 578,2021-08-24,571970,572955,,ball,14,"Max Muncy grounds out, second baseman Ha-Seong Kim to first baseman Eric Hosmer.",0,0,1,1,1,0.7,1.33
 579,2021-08-24,571970,641941,,ball,14,Max Muncy flies out to left fielder Tommy Pham.,0,1,2,2,3,0.9,1.34
-580,2021-08-24,571970,663753,walk,ball,13,Max Muncy walks.   Trea Turner to 3rd.  Trea Turner steals (25) 3rd base.   Trea Turner to 3rd.,3,0,0,4,8,-0.88,2.2
-581,2021-08-24,571970,641941,,called_strike,6,Max Muncy flies out to left fielder Tommy Pham.,0,0,2,1,3,0.58,2.2
-582,2021-08-24,571970,663753,,ball,11,Max Muncy walks.   Trea Turner to 3rd.  Trea Turner steals (25) 3rd base.   Trea Turner to 3rd.,2,0,0,3,8,-0.11,3.5
-583,2021-08-24,571970,547176,field_out,hit_into_play,6,Max Muncy flies out to left fielder Tommy Pham.,0,1,2,2,6,0.55,2.35
+580,2021-08-24,571970,641941,,called_strike,6,Max Muncy flies out to left fielder Tommy Pham.,0,0,2,1,3,0.58,2.2
+581,2021-08-24,571970,663753,walk,ball,13,Max Muncy walks.   Trea Turner to 3rd.  Trea Turner steals (25) 3rd base.   Trea Turner to 3rd.,3,0,0,4,8,-0.88,2.2
+582,2021-08-24,571970,547176,field_out,hit_into_play,6,Max Muncy flies out to left fielder Tommy Pham.,0,1,2,2,6,0.55,2.35
+583,2021-08-24,571970,663753,,ball,11,Max Muncy walks.   Trea Turner to 3rd.  Trea Turner steals (25) 3rd base.   Trea Turner to 3rd.,2,0,0,3,8,-0.11,3.5
 584,2021-08-24,571970,547176,,called_strike,4,Max Muncy flies out to left fielder Tommy Pham.,0,0,2,1,6,-0.55,2.26
 585,2021-08-24,571970,663753,,ball,11,Max Muncy walks.   Trea Turner to 3rd.  Trea Turner steals (25) 3rd base.   Trea Turner to 3rd.,1,0,0,2,8,-2.2,2.68
 586,2021-08-24,571970,663753,,ball,12,Max Muncy walks.   Trea Turner to 3rd.  Trea Turner steals (25) 3rd base.   Trea Turner to 3rd.,0,0,0,1,8,0.53,3.51
@@ -595,10 +595,10 @@
 593,2021-08-22,571970,573186,,called_strike,2,Max Muncy strikes out swinging.,1,0,2,2,3,-0.06,3.02
 594,2021-08-22,571970,573186,,ball,11,Max Muncy strikes out swinging.,0,0,2,1,3,-0.95,2.63
 595,2021-08-22,571970,543507,field_out,hit_into_play,6,Max Muncy pops out to third baseman J.  D. Davis in foul territory.,1,1,1,3,8,0.35,2.79
-596,2021-08-22,571970,543507,,ball,13,Max Muncy pops out to third baseman J.  D. Davis in foul territory.,0,1,1,2,8,-1.06,1.22
-597,2021-08-22,571970,573186,field_out,hit_into_play,8,Max Muncy lines out to right fielder Kevin Pillar.,2,2,1,5,1,-0.07,1.43
-598,2021-08-22,571970,543507,,called_strike,3,Max Muncy pops out to third baseman J.  D. Davis in foul territory.,0,0,1,1,8,0.31,2.97
-599,2021-08-22,571970,573186,,ball,12,Max Muncy lines out to right fielder Kevin Pillar.,1,2,1,4,1,0.07,4.4
+596,2021-08-22,571970,573186,field_out,hit_into_play,8,Max Muncy lines out to right fielder Kevin Pillar.,2,2,1,5,1,-0.07,1.43
+597,2021-08-22,571970,543507,,ball,13,Max Muncy pops out to third baseman J.  D. Davis in foul territory.,0,1,1,2,8,-1.06,1.22
+598,2021-08-22,571970,573186,,ball,12,Max Muncy lines out to right fielder Kevin Pillar.,1,2,1,4,1,0.07,4.4
+599,2021-08-22,571970,543507,,called_strike,3,Max Muncy pops out to third baseman J.  D. Davis in foul territory.,0,0,1,1,8,0.31,2.97
 600,2021-08-22,571970,573186,,called_strike,4,Max Muncy lines out to right fielder Kevin Pillar.,1,1,1,3,1,-0.37,2.11
 601,2021-08-22,571970,573186,,called_strike,3,Max Muncy lines out to right fielder Kevin Pillar.,1,0,1,2,1,0.38,3.09
 602,2021-08-22,571970,573186,,ball,11,Max Muncy lines out to right fielder Kevin Pillar.,0,0,1,1,1,-1.65,3.25
@@ -613,8 +613,8 @@
 611,2021-08-21,571970,448179,,called_strike,4,Max Muncy strikes out swinging.,0,0,1,1,3,-0.65,2.38
 612,2021-08-21,571970,448179,field_out,hit_into_play,1,Max Muncy flies out to center fielder Brandon Nimmo.,2,2,0,6,1,-0.78,2.94
 613,2021-08-21,571970,448179,,foul,4,Max Muncy flies out to center fielder Brandon Nimmo.,2,2,0,5,1,-0.71,2.49
-614,2021-08-21,571970,571901,force_out,hit_into_play,14,"Max Muncy grounds into a force out, pitcher Aaron Loup to shortstop Jonathan Villar.   Trea Turner out at 2nd.    Max Muncy to 1st.",3,2,0,6,7,1.1,2.24
-615,2021-08-21,571970,448179,,ball,12,Max Muncy flies out to center fielder Brandon Nimmo.,1,2,0,4,1,0.14,3.96
+614,2021-08-21,571970,448179,,ball,12,Max Muncy flies out to center fielder Brandon Nimmo.,1,2,0,4,1,0.14,3.96
+615,2021-08-21,571970,571901,force_out,hit_into_play,14,"Max Muncy grounds into a force out, pitcher Aaron Loup to shortstop Jonathan Villar.   Trea Turner out at 2nd.    Max Muncy to 1st.",3,2,0,6,7,1.1,2.24
 616,2021-08-21,571970,448179,,swinging_strike,13,Max Muncy flies out to center fielder Brandon Nimmo.,1,1,0,3,1,-0.84,2.05
 617,2021-08-21,571970,571901,,called_strike,6,"Max Muncy grounds into a force out, pitcher Aaron Loup to shortstop Jonathan Villar.   Trea Turner out at 2nd.    Max Muncy to 1st.",3,1,0,5,7,0.77,2.2
 618,2021-08-21,571970,448179,,ball,13,Max Muncy flies out to center fielder Brandon Nimmo.,0,1,0,2,1,-1.54,1.42
@@ -673,12 +673,12 @@
 671,2021-08-18,571970,664141,,ball,12,Max Muncy called out on strikes.,0,0,2,1,2,1.05,3.4
 672,2021-08-18,571970,664918,walk,blocked_ball,14,Max Muncy walks.,3,2,1,7,6,1.4,0.41
 673,2021-08-18,571970,664918,,ball,14,Max Muncy walks.,2,2,1,6,6,0.99,1.18
-674,2021-08-18,571970,664918,,foul,8,Max Muncy walks.,2,2,1,5,6,-0.05,1.91
-675,2021-08-18,571970,664141,home_run,hit_into_play,13,Max Muncy homers (27) on a fly ball to left center field.   AJ Pollock scores.,2,1,0,4,1,-0.92,2.23
+674,2021-08-18,571970,664141,home_run,hit_into_play,13,Max Muncy homers (27) on a fly ball to left center field.   AJ Pollock scores.,2,1,0,4,1,-0.92,2.23
+675,2021-08-18,571970,664918,,foul,8,Max Muncy walks.,2,2,1,5,6,-0.05,1.91
 676,2021-08-18,571970,664918,,called_strike,9,Max Muncy walks.,2,1,1,4,6,0.28,1.85
 677,2021-08-18,571970,664141,,ball,14,Max Muncy homers (27) on a fly ball to left center field.   AJ Pollock scores.,1,1,0,3,1,1.43,1.05
-678,2021-08-18,571970,664141,,ball,14,Max Muncy homers (27) on a fly ball to left center field.   AJ Pollock scores.,0,1,0,2,1,0.55,1.25
-679,2021-08-18,571970,664918,,ball,12,Max Muncy walks.,1,1,1,3,6,0.27,3.25
+678,2021-08-18,571970,664918,,ball,12,Max Muncy walks.,1,1,1,3,6,0.27,3.25
+679,2021-08-18,571970,664141,,ball,14,Max Muncy homers (27) on a fly ball to left center field.   AJ Pollock scores.,0,1,0,2,1,0.55,1.25
 680,2021-08-18,571970,664918,,called_strike,7,Max Muncy walks.,1,0,1,2,6,-0.42,1.48
 681,2021-08-18,571970,664141,,called_strike,1,Max Muncy homers (27) on a fly ball to left center field.   AJ Pollock scores.,0,0,0,1,1,-0.68,2.72
 682,2021-08-18,571970,664918,,ball,11,Max Muncy walks.,0,0,1,1,6,-2.17,4.17
@@ -695,8 +695,8 @@
 693,2021-08-16,571970,643230,,ball,13,Max Muncy walks.,1,1,1,3,4,-0.84,0.24
 694,2021-08-16,571970,643230,,ball,12,Max Muncy walks.,0,1,1,2,4,1.58,2.77
 695,2021-08-16,571970,643230,,called_strike,6,Max Muncy walks.,0,0,1,1,4,0.51,2.76
-696,2021-08-16,571970,592741,home_run,hit_into_play,6,Max Muncy homers (26) on a fly ball to right center field.,1,1,1,3,8,0.64,2.61
-697,2021-08-16,571970,643230,field_out,hit_into_play,12,Max Muncy pops out to shortstop Hoy Park.,1,0,0,2,1,0.97,2.85
+696,2021-08-16,571970,643230,field_out,hit_into_play,12,Max Muncy pops out to shortstop Hoy Park.,1,0,0,2,1,0.97,2.85
+697,2021-08-16,571970,592741,home_run,hit_into_play,6,Max Muncy homers (26) on a fly ball to right center field.,1,1,1,3,8,0.64,2.61
 698,2021-08-16,571970,592741,,ball,13,Max Muncy homers (26) on a fly ball to right center field.,0,1,1,2,8,-1.05,1.74
 699,2021-08-16,571970,643230,,ball,14,Max Muncy pops out to shortstop Hoy Park.,0,0,0,1,1,0.87,1.11
 700,2021-08-16,571970,592741,,called_strike,7,Max Muncy homers (26) on a fly ball to right center field.,0,0,1,1,8,-0.52,1.49
@@ -747,10 +747,10 @@
 745,2021-08-13,571970,621242,,called_strike,4,Max Muncy strikes out swinging.,0,0,2,1,9,-0.66,2.53
 746,2021-08-13,571970,656731,,called_strike,7,Max Muncy doubles (20) on a sharp line drive to right fielder Albert Almora.,3,0,1,4,1,-0.39,1.63
 747,2021-08-13,571970,656731,,ball,11,Max Muncy doubles (20) on a sharp line drive to right fielder Albert Almora.,2,0,1,3,1,-0.52,3.47
-748,2021-08-13,571970,656731,,ball,12,Max Muncy doubles (20) on a sharp line drive to right fielder Albert Almora.,1,0,1,2,1,1.22,2.38
-749,2021-08-13,571970,660546,strikeout,swinging_strike,2,Max Muncy strikes out swinging.,3,2,1,7,7,-0.25,2.88
-750,2021-08-13,571970,656731,,ball,11,Max Muncy doubles (20) on a sharp line drive to right fielder Albert Almora.,0,0,1,1,1,-0.37,3.6
-751,2021-08-13,571970,660546,,ball,11,Max Muncy strikes out swinging.,2,2,1,6,7,-1.48,4.25
+748,2021-08-13,571970,660546,strikeout,swinging_strike,2,Max Muncy strikes out swinging.,3,2,1,7,7,-0.25,2.88
+749,2021-08-13,571970,656731,,ball,12,Max Muncy doubles (20) on a sharp line drive to right fielder Albert Almora.,1,0,1,2,1,1.22,2.38
+750,2021-08-13,571970,660546,,ball,11,Max Muncy strikes out swinging.,2,2,1,6,7,-1.48,4.25
+751,2021-08-13,571970,656731,,ball,11,Max Muncy doubles (20) on a sharp line drive to right fielder Albert Almora.,0,0,1,1,1,-0.37,3.6
 752,2021-08-13,571970,660546,,ball,11,Max Muncy strikes out swinging.,1,2,1,5,7,-1.32,3.84
 753,2021-08-13,571970,660546,,foul,6,Max Muncy strikes out swinging.,1,2,1,4,7,0.5,2.37
 754,2021-08-13,571970,660546,,called_strike,7,Max Muncy strikes out swinging.,1,1,1,3,7,-0.31,1.41
@@ -819,8 +819,8 @@
 817,2021-08-10,571970,605400,,ball,11,Max Muncy strikes out swinging.,2,2,1,5,1,-0.56,3.54
 818,2021-08-10,571970,605400,,ball,12,Max Muncy strikes out swinging.,1,2,1,4,1,1.57,2.97
 819,2021-08-10,571970,605400,,foul,9,Max Muncy strikes out swinging.,1,1,1,3,1,0.56,2.03
-820,2021-08-10,571970,519043,field_out,hit_into_play,8,Max Muncy lines out to center fielder Travis Jankowski.,2,2,0,5,6,-0.13,2.06
-821,2021-08-10,571970,605400,,ball,12,Max Muncy strikes out swinging.,0,1,1,2,1,1.51,2.99
+820,2021-08-10,571970,605400,,ball,12,Max Muncy strikes out swinging.,0,1,1,2,1,1.51,2.99
+821,2021-08-10,571970,519043,field_out,hit_into_play,8,Max Muncy lines out to center fielder Travis Jankowski.,2,2,0,5,6,-0.13,2.06
 822,2021-08-10,571970,519043,,called_strike,2,Max Muncy lines out to center fielder Travis Jankowski.,2,1,0,4,6,-0.16,3.03
 823,2021-08-10,571970,605400,,called_strike,6,Max Muncy strikes out swinging.,0,0,1,1,1,0.48,2.24
 824,2021-08-10,571970,519043,,ball,13,Max Muncy lines out to center fielder Travis Jankowski.,1,1,0,3,6,-1.25,1.7
@@ -837,8 +837,8 @@
 835,2021-08-08,571970,672282,single,hit_into_play,3,Max Muncy singles on a ground ball to center fielder Brandon Marsh.   Trea Turner scores.,1,2,0,4,1,0.28,2.85
 836,2021-08-08,571970,672282,,swinging_strike,8,Max Muncy singles on a ground ball to center fielder Brandon Marsh.   Trea Turner scores.,1,1,0,3,1,0.15,1.97
 837,2021-08-08,571970,672282,,called_strike,7,Max Muncy singles on a ground ball to center fielder Brandon Marsh.   Trea Turner scores.,1,0,0,2,1,-0.28,2.0
-838,2021-08-08,571970,672282,,ball,12,Max Muncy singles on a ground ball to center fielder Brandon Marsh.   Trea Turner scores.,0,0,0,1,1,0.85,4.4
-839,2021-08-08,571970,676050,field_out,hit_into_play,4,"Max Muncy grounds out softly, pitcher Packy Naughton to first baseman Phil Gosselin.   Billy McKinney to 2nd.",0,1,1,2,6,-0.28,2.53
+838,2021-08-08,571970,676050,field_out,hit_into_play,4,"Max Muncy grounds out softly, pitcher Packy Naughton to first baseman Phil Gosselin.   Billy McKinney to 2nd.",0,1,1,2,6,-0.28,2.53
+839,2021-08-08,571970,672282,,ball,12,Max Muncy singles on a ground ball to center fielder Brandon Marsh.   Trea Turner scores.,0,0,0,1,1,0.85,4.4
 840,2021-08-08,571970,676050,,swinging_strike,14,"Max Muncy grounds out softly, pitcher Packy Naughton to first baseman Phil Gosselin.   Billy McKinney to 2nd.",0,0,1,1,6,0.83,1.45
 841,2021-08-08,571970,572125,field_out,hit_into_play,5,Max Muncy flies out to left fielder Jo Adell.,3,1,0,5,8,0.09,2.56
 842,2021-08-08,571970,572125,,foul,7,Max Muncy flies out to left fielder Jo Adell.,3,0,0,4,8,-0.33,2.0
@@ -863,8 +863,8 @@
 861,2021-08-06,571970,663776,field_out,hit_into_play,8,Max Muncy flies out to left fielder Justin Upton.,0,0,1,1,3,0.11,2.01
 862,2021-08-06,571970,663776,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,1,2,0,4,1,-0.66,1.31
 863,2021-08-06,571970,663776,,foul,5,Max Muncy strikes out swinging.,1,1,0,3,1,0.1,2.23
-864,2021-08-06,571970,572125,strikeout,called_strike,7,Max Muncy called out on strikes.,2,2,1,6,7,-0.77,1.77
-865,2021-08-06,571970,663776,,called_strike,6,Max Muncy strikes out swinging.,1,0,0,2,1,0.74,2.12
+864,2021-08-06,571970,663776,,called_strike,6,Max Muncy strikes out swinging.,1,0,0,2,1,0.74,2.12
+865,2021-08-06,571970,572125,strikeout,called_strike,7,Max Muncy called out on strikes.,2,2,1,6,7,-0.77,1.77
 866,2021-08-06,571970,572125,,foul,4,Max Muncy called out on strikes.,2,2,1,5,7,-0.37,2.26
 867,2021-08-06,571970,663776,,blocked_ball,13,Max Muncy strikes out swinging.,0,0,0,1,1,-1.24,-0.02
 868,2021-08-06,571970,572125,,foul,13,Max Muncy called out on strikes.,2,1,1,4,7,-1.11,1.52
@@ -877,17 +877,17 @@
 875,2021-08-06,571970,628452,,called_strike,14,Max Muncy singles on a line drive to right fielder Jo Adell.   Justin Turner to 3rd.,0,0,0,1,10,0.98,1.98
 876,2021-08-04,571970,543606,field_out,hit_into_play,3,Max Muncy flies out to center fielder Kyle Tucker.,0,1,1,2,2,0.31,2.83
 877,2021-08-04,571970,543606,,called_strike,5,Max Muncy flies out to center fielder Kyle Tucker.,0,0,1,1,2,0.14,2.27
-878,2021-08-04,571970,543606,walk,ball,11,Max Muncy walks.,3,2,0,6,1,-1.25,3.39
-879,2021-08-04,571970,554340,strikeout,swinging_strike,14,Max Muncy strikes out swinging.,0,2,1,3,4,0.74,0.99
-880,2021-08-04,571970,554340,,swinging_strike,8,Max Muncy strikes out swinging.,0,1,1,2,4,-0.06,1.66
-881,2021-08-04,571970,543606,,ball,11,Max Muncy walks.,2,2,0,5,1,-0.33,4.15
-882,2021-08-04,571970,543606,,ball,11,Max Muncy walks.,1,2,0,4,1,-1.84,2.42
-883,2021-08-04,571970,554340,,foul,13,Max Muncy strikes out swinging.,0,0,1,1,4,-1.02,1.75
+878,2021-08-04,571970,554340,strikeout,swinging_strike,14,Max Muncy strikes out swinging.,0,2,1,3,4,0.74,0.99
+879,2021-08-04,571970,543606,walk,ball,11,Max Muncy walks.,3,2,0,6,1,-1.25,3.39
+880,2021-08-04,571970,543606,,ball,11,Max Muncy walks.,2,2,0,5,1,-0.33,4.15
+881,2021-08-04,571970,554340,,swinging_strike,8,Max Muncy strikes out swinging.,0,1,1,2,4,-0.06,1.66
+882,2021-08-04,571970,554340,,foul,13,Max Muncy strikes out swinging.,0,0,1,1,4,-1.02,1.75
+883,2021-08-04,571970,543606,,ball,11,Max Muncy walks.,1,2,0,4,1,-1.84,2.42
 884,2021-08-04,571970,543606,,ball,13,Max Muncy walks.,0,2,0,3,1,-1.27,1.44
 885,2021-08-04,571970,548384,strikeout,called_strike,3,Max Muncy called out on strikes.,2,2,0,5,7,0.34,2.58
 886,2021-08-04,571970,543606,,foul,7,Max Muncy walks.,0,1,0,2,1,-0.51,2.06
-887,2021-08-04,571970,543606,,foul,1,Max Muncy walks.,0,0,0,1,1,-0.44,2.96
-888,2021-08-04,571970,548384,,called_strike,5,Max Muncy called out on strikes.,2,1,0,4,7,-0.07,2.37
+887,2021-08-04,571970,548384,,called_strike,5,Max Muncy called out on strikes.,2,1,0,4,7,-0.07,2.37
+888,2021-08-04,571970,543606,,foul,1,Max Muncy walks.,0,0,0,1,1,-0.44,2.96
 889,2021-08-04,571970,548384,,ball,13,Max Muncy called out on strikes.,1,1,0,3,7,-1.62,1.1
 890,2021-08-04,571970,548384,,ball,13,Max Muncy called out on strikes.,0,1,0,2,7,-1.74,2.15
 891,2021-08-04,571970,548384,,called_strike,3,Max Muncy called out on strikes.,0,0,0,1,7,0.58,2.67
@@ -901,12 +901,12 @@
 899,2021-08-03,571970,621121,,ball,11,Max Muncy called out on strikes.,0,2,1,3,3,-0.41,3.73
 900,2021-08-03,571970,621121,,foul,6,Max Muncy called out on strikes.,0,1,1,2,3,0.62,2.23
 901,2021-08-03,571970,621121,,called_strike,2,Max Muncy called out on strikes.,0,0,1,1,3,0.01,2.75
-902,2021-08-03,571970,642130,strikeout,swinging_strike_blocked,13,Max Muncy strikes out swinging.,3,2,2,9,7,-1.55,0.72
-903,2021-08-03,571970,621121,strikeout,swinging_strike,1,Max Muncy strikes out swinging.,2,2,0,5,1,-0.39,3.0
-904,2021-08-03,571970,642130,,foul,2,Max Muncy strikes out swinging.,3,2,2,8,7,-0.2,3.04
-905,2021-08-03,571970,621121,,called_strike,5,Max Muncy strikes out swinging.,2,1,0,4,1,0.27,2.49
-906,2021-08-03,571970,621121,,called_strike,2,Max Muncy strikes out swinging.,2,0,0,3,1,0.04,2.87
-907,2021-08-03,571970,642130,,foul,13,Max Muncy strikes out swinging.,3,2,2,7,7,-1.03,1.53
+902,2021-08-03,571970,621121,strikeout,swinging_strike,1,Max Muncy strikes out swinging.,2,2,0,5,1,-0.39,3.0
+903,2021-08-03,571970,642130,strikeout,swinging_strike_blocked,13,Max Muncy strikes out swinging.,3,2,2,9,7,-1.55,0.72
+904,2021-08-03,571970,621121,,called_strike,5,Max Muncy strikes out swinging.,2,1,0,4,1,0.27,2.49
+905,2021-08-03,571970,642130,,foul,2,Max Muncy strikes out swinging.,3,2,2,8,7,-0.2,3.04
+906,2021-08-03,571970,642130,,foul,13,Max Muncy strikes out swinging.,3,2,2,7,7,-1.03,1.53
+907,2021-08-03,571970,621121,,called_strike,2,Max Muncy strikes out swinging.,2,0,0,3,1,0.04,2.87
 908,2021-08-03,571970,642130,,foul,11,Max Muncy strikes out swinging.,3,2,2,6,7,-1.17,2.7
 909,2021-08-03,571970,621121,,ball,14,Max Muncy strikes out swinging.,1,0,0,2,1,0.56,1.44
 910,2021-08-03,571970,642130,,foul,13,Max Muncy strikes out swinging.,3,1,2,5,7,-0.83,2.12
@@ -930,8 +930,8 @@
 928,2021-07-31,571970,656266,double,hit_into_play,1,Max Muncy doubles (17) on a line drive to left fielder David Peralta.,1,1,1,3,8,-0.58,2.83
 929,2021-07-31,571970,656266,,ball,14,Max Muncy doubles (17) on a line drive to left fielder David Peralta.,0,1,1,2,8,1.02,1.74
 930,2021-07-31,571970,518876,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,1,2,1,5,1,-0.51,1.17
-931,2021-07-31,571970,656266,,called_strike,7,Max Muncy doubles (17) on a line drive to left fielder David Peralta.,0,0,1,1,8,-0.65,1.91
-932,2021-07-31,571970,518876,,foul,5,Max Muncy strikes out swinging.,1,2,1,4,1,-0.07,2.5
+931,2021-07-31,571970,518876,,foul,5,Max Muncy strikes out swinging.,1,2,1,4,1,-0.07,2.5
+932,2021-07-31,571970,656266,,called_strike,7,Max Muncy doubles (17) on a line drive to left fielder David Peralta.,0,0,1,1,8,-0.65,1.91
 933,2021-07-31,571970,518876,,foul,2,Max Muncy strikes out swinging.,1,1,1,3,1,0.18,2.97
 934,2021-07-31,571970,518876,,ball,11,Max Muncy strikes out swinging.,0,1,1,2,1,-1.1,2.96
 935,2021-07-31,571970,518876,,called_strike,6,Max Muncy strikes out swinging.,0,0,1,1,1,0.34,2.35
@@ -957,10 +957,10 @@
 955,2021-07-30,571970,620396,strikeout,swinging_strike,11,Max Muncy strikes out swinging.,2,2,0,5,7,-1.26,2.56
 956,2021-07-30,571970,668678,,called_strike,8,Max Muncy walks.,0,0,1,1,1,-0.24,1.68
 957,2021-07-30,571970,620396,,ball,11,Max Muncy strikes out swinging.,1,2,0,4,7,-0.43,4.54
-958,2021-07-30,571970,620396,,called_strike,7,Max Muncy strikes out swinging.,1,1,0,3,7,-0.81,1.88
-959,2021-07-30,571970,461325,field_out,hit_into_play,4,Max Muncy flies out to left fielder David Peralta.,1,1,0,3,9,-0.66,2.58
-960,2021-07-30,571970,620396,,ball,11,Max Muncy strikes out swinging.,0,1,0,2,7,-1.18,3.92
-961,2021-07-30,571970,461325,,foul,4,Max Muncy flies out to left fielder David Peralta.,1,0,0,2,9,-0.34,2.41
+958,2021-07-30,571970,461325,field_out,hit_into_play,4,Max Muncy flies out to left fielder David Peralta.,1,1,0,3,9,-0.66,2.58
+959,2021-07-30,571970,620396,,called_strike,7,Max Muncy strikes out swinging.,1,1,0,3,7,-0.81,1.88
+960,2021-07-30,571970,461325,,foul,4,Max Muncy flies out to left fielder David Peralta.,1,0,0,2,9,-0.34,2.41
+961,2021-07-30,571970,620396,,ball,11,Max Muncy strikes out swinging.,0,1,0,2,7,-1.18,3.92
 962,2021-07-30,571970,461325,,ball,8,Max Muncy flies out to left fielder David Peralta.,0,0,0,1,9,0.24,1.42
 963,2021-07-30,571970,620396,,swinging_strike,1,Max Muncy strikes out swinging.,0,0,0,1,7,-0.33,2.8
 964,2021-07-29,571970,456501,single,hit_into_play,4,Max Muncy singles on a line drive to left fielder LaMonte Wade.   Chris Taylor to 2nd.,0,1,2,2,6,-0.77,2.28
@@ -1116,8 +1116,8 @@
 1114,2021-07-16,571970,664875,,ball,13,Max Muncy walks.,0,0,2,1,5,-1.17,1.73
 1115,2021-07-16,571970,656458,,ball,13,Max Muncy singles on a line drive to center fielder Garrett Hampson.   Albert Pujols to 2nd.,0,2,2,3,9,-1.79,1.91
 1116,2021-07-16,571970,656458,,swinging_strike,4,Max Muncy singles on a line drive to center fielder Garrett Hampson.   Albert Pujols to 2nd.,0,1,2,2,9,-0.8,2.48
-1117,2021-07-16,571970,656458,,called_strike,3,Max Muncy singles on a line drive to center fielder Garrett Hampson.   Albert Pujols to 2nd.,0,0,2,1,9,0.49,2.91
-1118,2021-07-16,571970,592346,field_out,hit_into_play,12,Max Muncy pops out to shortstop Trevor Story.,1,2,0,4,1,0.18,3.85
+1117,2021-07-16,571970,592346,field_out,hit_into_play,12,Max Muncy pops out to shortstop Trevor Story.,1,2,0,4,1,0.18,3.85
+1118,2021-07-16,571970,656458,,called_strike,3,Max Muncy singles on a line drive to center fielder Garrett Hampson.   Albert Pujols to 2nd.,0,0,2,1,9,0.49,2.91
 1119,2021-07-16,571970,592346,,foul,5,Max Muncy pops out to shortstop Trevor Story.,1,1,0,3,1,-0.19,2.57
 1120,2021-07-16,571970,592346,,foul,4,Max Muncy pops out to shortstop Trevor Story.,1,0,0,2,1,-0.59,2.55
 1121,2021-07-16,571970,592346,,ball,14,Max Muncy pops out to shortstop Trevor Story.,0,0,0,1,1,0.91,1.77
@@ -1157,8 +1157,8 @@
 1155,2021-07-09,571970,642203,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,2,2,1,5,1,-0.87,1.65
 1156,2021-07-09,571970,642203,,ball,13,Max Muncy strikes out swinging.,1,2,1,4,1,-0.44,0.44
 1157,2021-07-09,571970,642203,,called_strike,5,Max Muncy strikes out swinging.,1,1,1,3,1,-0.07,2.21
-1158,2021-07-09,571970,642203,,ball,11,Max Muncy strikes out swinging.,0,1,1,2,1,-2.59,3.03
-1159,2021-07-09,571970,676969,field_out,hit_into_play,9,Max Muncy lines out sharply to first baseman Christian Walker.,0,0,2,1,5,0.42,1.85
+1158,2021-07-09,571970,676969,field_out,hit_into_play,9,Max Muncy lines out sharply to first baseman Christian Walker.,0,0,2,1,5,0.42,1.85
+1159,2021-07-09,571970,642203,,ball,11,Max Muncy strikes out swinging.,0,1,1,2,1,-2.59,3.03
 1160,2021-07-09,571970,642203,,called_strike,1,Max Muncy strikes out swinging.,0,0,1,1,1,-0.71,2.75
 1161,2021-07-08,571970,645261,single,hit_into_play,6,Max Muncy singles on a sharp line drive to right fielder Garrett Cooper.   Julio Urias to 3rd.    Mookie Betts to 2nd.,2,0,0,3,5,0.58,2.22
 1162,2021-07-08,571970,645261,,ball,14,Max Muncy singles on a sharp line drive to right fielder Garrett Cooper.   Julio Urias to 3rd.    Mookie Betts to 2nd.,1,0,0,2,5,0.76,1.32
@@ -1168,16 +1168,16 @@
 1166,2021-07-08,571970,645261,,ball,14,"Max Muncy grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,2,2,4,3,0.85,0.53
 1167,2021-07-08,571970,645261,,ball,11,"Max Muncy grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,2,2,3,3,-1.58,3.28
 1168,2021-07-08,571970,645261,,foul,12,"Max Muncy grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,1,2,2,3,0.9,2.68
-1169,2021-07-08,571970,663734,single,hit_into_play,5,Max Muncy singles on a line drive to center fielder Starling Marte.,2,2,2,5,8,0.24,2.46
-1170,2021-07-08,571970,645261,,foul,7,"Max Muncy grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,2,1,3,-0.36,1.98
+1169,2021-07-08,571970,645261,,foul,7,"Max Muncy grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,2,1,3,-0.36,1.98
+1170,2021-07-08,571970,663734,single,hit_into_play,5,Max Muncy singles on a line drive to center fielder Starling Marte.,2,2,2,5,8,0.24,2.46
 1171,2021-07-08,571970,663734,,foul_tip,1,Max Muncy singles on a line drive to center fielder Starling Marte.,2,1,2,4,8,-0.37,3.24
 1172,2021-07-08,571970,663734,,ball,14,Max Muncy singles on a line drive to center fielder Starling Marte.,1,1,2,3,8,0.67,0.8
 1173,2021-07-08,571970,663734,,ball,14,Max Muncy singles on a line drive to center fielder Starling Marte.,0,1,2,2,8,0.91,1.67
 1174,2021-07-08,571970,663734,,foul,5,Max Muncy singles on a line drive to center fielder Starling Marte.,0,0,2,1,8,0.04,2.31
-1175,2021-07-08,571970,645261,field_out,hit_into_play,11,Max Muncy flies out to center fielder Starling Marte.,2,2,1,5,1,-0.21,3.67
-1176,2021-07-08,571970,663734,force_out,hit_into_play,1,"Max Muncy grounds into a force out, third baseman Jon Berti to shortstop Miguel Rojas.   Mookie Betts out at 2nd.    Max Muncy to 1st.",1,1,0,3,6,-0.65,3.34
-1177,2021-07-08,571970,663734,,ball,14,"Max Muncy grounds into a force out, third baseman Jon Berti to shortstop Miguel Rojas.   Mookie Betts out at 2nd.    Max Muncy to 1st.",0,1,0,2,6,1.28,2.17
-1178,2021-07-08,571970,645261,,ball,13,Max Muncy flies out to center fielder Starling Marte.,1,2,1,4,1,-0.96,0.44
+1175,2021-07-08,571970,663734,force_out,hit_into_play,1,"Max Muncy grounds into a force out, third baseman Jon Berti to shortstop Miguel Rojas.   Mookie Betts out at 2nd.    Max Muncy to 1st.",1,1,0,3,6,-0.65,3.34
+1176,2021-07-08,571970,645261,field_out,hit_into_play,11,Max Muncy flies out to center fielder Starling Marte.,2,2,1,5,1,-0.21,3.67
+1177,2021-07-08,571970,645261,,ball,13,Max Muncy flies out to center fielder Starling Marte.,1,2,1,4,1,-0.96,0.44
+1178,2021-07-08,571970,663734,,ball,14,"Max Muncy grounds into a force out, third baseman Jon Berti to shortstop Miguel Rojas.   Mookie Betts out at 2nd.    Max Muncy to 1st.",0,1,0,2,6,1.28,2.17
 1179,2021-07-08,571970,663734,,called_strike,7,"Max Muncy grounds into a force out, third baseman Jon Berti to shortstop Miguel Rojas.   Mookie Betts out at 2nd.    Max Muncy to 1st.",0,0,0,1,6,-0.4,1.91
 1180,2021-07-08,571970,645261,,foul,13,Max Muncy flies out to center fielder Starling Marte.,1,1,1,3,1,-1.06,1.92
 1181,2021-07-08,571970,645261,,ball,13,Max Muncy flies out to center fielder Starling Marte.,0,1,1,2,1,-1.35,1.34
@@ -1216,8 +1216,8 @@
 1214,2021-07-06,571970,641154,field_out,hit_into_play,7,Max Muncy lines out to right fielder Garrett Cooper.,2,1,1,4,1,-0.43,1.93
 1215,2021-07-06,571970,554340,grounded_into_double_play,hit_into_play,5,"Max Muncy grounds into a double play, first baseman Jesus Aguilar to shortstop Miguel Rojas to first baseman Jesus Aguilar.   Mookie Betts out at 2nd.    Max Muncy out at 1st.",2,2,0,6,9,-0.07,2.2
 1216,2021-07-06,571970,641154,,ball,13,Max Muncy lines out to right fielder Garrett Cooper.,1,1,1,3,1,-0.09,0.65
-1217,2021-07-06,571970,554340,,foul,6,"Max Muncy grounds into a double play, first baseman Jesus Aguilar to shortstop Miguel Rojas to first baseman Jesus Aguilar.   Mookie Betts out at 2nd.    Max Muncy out at 1st.",2,2,0,5,9,0.67,2.57
-1218,2021-07-06,571970,641154,,foul,6,Max Muncy lines out to right fielder Garrett Cooper.,1,0,1,2,1,0.39,2.79
+1217,2021-07-06,571970,641154,,foul,6,Max Muncy lines out to right fielder Garrett Cooper.,1,0,1,2,1,0.39,2.79
+1218,2021-07-06,571970,554340,,foul,6,"Max Muncy grounds into a double play, first baseman Jesus Aguilar to shortstop Miguel Rojas to first baseman Jesus Aguilar.   Mookie Betts out at 2nd.    Max Muncy out at 1st.",2,2,0,5,9,0.67,2.57
 1219,2021-07-06,571970,554340,,swinging_strike,7,"Max Muncy grounds into a double play, first baseman Jesus Aguilar to shortstop Miguel Rojas to first baseman Jesus Aguilar.   Mookie Betts out at 2nd.    Max Muncy out at 1st.",2,1,0,4,9,-0.32,1.82
 1220,2021-07-06,571970,641154,,ball,11,Max Muncy lines out to right fielder Garrett Cooper.,0,0,1,1,1,-1.48,2.72
 1221,2021-07-06,571970,554340,,swinging_strike,13,"Max Muncy grounds into a double play, first baseman Jesus Aguilar to shortstop Miguel Rojas to first baseman Jesus Aguilar.   Mookie Betts out at 2nd.    Max Muncy out at 1st.",2,0,0,3,9,-1.35,2.19
@@ -1246,8 +1246,8 @@
 1244,2021-07-04,571970,605452,,called_strike,13,Max Muncy strikes out swinging.,2,1,1,4,1,-0.09,1.3
 1245,2021-07-04,571970,605452,,ball,12,Max Muncy strikes out swinging.,1,1,1,3,1,0.62,3.34
 1246,2021-07-04,571970,605452,,ball,12,Max Muncy strikes out swinging.,0,1,1,2,1,0.99,2.68
-1247,2021-07-04,571970,543272,double,hit_into_play,5,Max Muncy doubles (11) on a line drive to center fielder Gerardo Parra.   Tony Gonsolin scores.,1,2,2,4,7,0.2,2.61
-1248,2021-07-04,571970,605452,,swinging_strike,4,Max Muncy strikes out swinging.,0,0,1,1,1,-0.34,2.6
+1247,2021-07-04,571970,605452,,swinging_strike,4,Max Muncy strikes out swinging.,0,0,1,1,1,-0.34,2.6
+1248,2021-07-04,571970,543272,double,hit_into_play,5,Max Muncy doubles (11) on a line drive to center fielder Gerardo Parra.   Tony Gonsolin scores.,1,2,2,4,7,0.2,2.61
 1249,2021-07-04,571970,543272,,blocked_ball,13,Max Muncy doubles (11) on a line drive to center fielder Gerardo Parra.   Tony Gonsolin scores.,0,2,2,3,7,-2.2,0.42
 1250,2021-07-04,571970,543272,,called_strike,4,Max Muncy doubles (11) on a line drive to center fielder Gerardo Parra.   Tony Gonsolin scores.,0,1,2,2,7,-0.41,2.39
 1251,2021-07-04,571970,543272,,called_strike,7,Max Muncy doubles (11) on a line drive to center fielder Gerardo Parra.   Tony Gonsolin scores.,0,0,2,1,7,-0.43,1.66
@@ -1261,20 +1261,20 @@
 1259,2021-07-03,571970,502179,,ball,11,Max Muncy flies out to left fielder Gerardo Parra.,1,0,0,2,1,-1.23,2.36
 1260,2021-07-03,571970,502179,,ball,13,Max Muncy flies out to left fielder Gerardo Parra.,0,0,0,1,1,-0.62,0.96
 1261,2021-07-03,571970,621348,field_out,hit_into_play,6,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",2,2,1,5,7,0.3,2.16
-1262,2021-07-03,571970,607560,field_out,hit_into_play,13,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",2,2,1,5,5,-0.84,1.94
-1263,2021-07-03,571970,543456,field_out,hit_into_play,5,Max Muncy grounds out to first baseman Ryan Zimmerman.,2,2,2,5,9,0.07,2.14
-1264,2021-07-03,571970,621348,,swinging_strike,3,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",2,1,1,4,7,0.68,3.4
-1265,2021-07-03,571970,607560,,swinging_strike,8,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",2,1,1,4,5,-0.01,1.52
-1266,2021-07-03,571970,543456,,foul,5,Max Muncy grounds out to first baseman Ryan Zimmerman.,2,1,2,4,9,-0.09,2.71
-1267,2021-07-03,571970,621348,,ball,14,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",1,1,1,3,7,1.48,2.05
-1268,2021-07-03,571970,543456,,ball,13,Max Muncy grounds out to first baseman Ryan Zimmerman.,1,1,2,3,9,-1.78,1.28
+1262,2021-07-03,571970,543456,field_out,hit_into_play,5,Max Muncy grounds out to first baseman Ryan Zimmerman.,2,2,2,5,9,0.07,2.14
+1263,2021-07-03,571970,607560,field_out,hit_into_play,13,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",2,2,1,5,5,-0.84,1.94
+1264,2021-07-03,571970,543456,,foul,5,Max Muncy grounds out to first baseman Ryan Zimmerman.,2,1,2,4,9,-0.09,2.71
+1265,2021-07-03,571970,621348,,swinging_strike,3,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",2,1,1,4,7,0.68,3.4
+1266,2021-07-03,571970,607560,,swinging_strike,8,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",2,1,1,4,5,-0.01,1.52
+1267,2021-07-03,571970,543456,,ball,13,Max Muncy grounds out to first baseman Ryan Zimmerman.,1,1,2,3,9,-1.78,1.28
+1268,2021-07-03,571970,621348,,ball,14,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",1,1,1,3,7,1.48,2.05
 1269,2021-07-03,571970,607560,,ball,11,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",1,1,1,3,5,-1.7,2.85
-1270,2021-07-03,571970,607560,,ball,7,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",0,1,1,2,5,-0.77,1.6
-1271,2021-07-03,571970,543456,,ball,13,Max Muncy grounds out to first baseman Ryan Zimmerman.,0,1,2,2,9,-1.41,1.16
-1272,2021-07-03,571970,621348,,called_strike,7,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",1,0,1,2,7,-0.48,1.54
-1273,2021-07-03,571970,543456,,called_strike,2,Max Muncy grounds out to first baseman Ryan Zimmerman.,0,0,2,1,9,-0.02,2.68
-1274,2021-07-03,571970,607560,,called_strike,4,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",0,0,1,1,5,-0.76,2.66
-1275,2021-07-03,571970,621348,,ball,13,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",0,0,1,1,7,-0.2,0.88
+1270,2021-07-03,571970,621348,,called_strike,7,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",1,0,1,2,7,-0.48,1.54
+1271,2021-07-03,571970,607560,,ball,7,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",0,1,1,2,5,-0.77,1.6
+1272,2021-07-03,571970,543456,,ball,13,Max Muncy grounds out to first baseman Ryan Zimmerman.,0,1,2,2,9,-1.41,1.16
+1273,2021-07-03,571970,607560,,called_strike,4,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",0,0,1,1,5,-0.76,2.66
+1274,2021-07-03,571970,621348,,ball,13,"Max Muncy grounds out, second baseman Josh Harrison to first baseman Ryan Zimmerman.",0,0,1,1,7,-0.2,0.88
+1275,2021-07-03,571970,543456,,called_strike,2,Max Muncy grounds out to first baseman Ryan Zimmerman.,0,0,2,1,9,-0.02,2.68
 1276,2021-07-02,571970,453286,walk,ball,11,Max Muncy walks.,3,0,1,4,6,-1.1,2.55
 1277,2021-07-02,571970,453286,,ball,13,Max Muncy walks.,2,0,1,3,6,-1.75,1.84
 1278,2021-07-02,571970,453286,,ball,12,Max Muncy walks.,1,0,1,2,6,0.96,3.36
@@ -1288,8 +1288,8 @@
 1286,2021-07-02,571970,622446,walk,ball,11,Max Muncy walks.,3,0,0,4,9,-0.71,3.52
 1287,2021-07-02,571970,622446,,ball,14,Max Muncy walks.,2,0,0,3,9,0.85,0.79
 1288,2021-07-02,571970,622446,,ball,11,Max Muncy walks.,1,0,0,2,9,-0.58,3.89
-1289,2021-07-02,571970,622446,,ball,11,Max Muncy walks.,0,0,0,1,9,-0.4,3.66
-1290,2021-07-02,571970,608723,single,hit_into_play,3,Max Muncy singles on a ground ball to left fielder Gerardo Parra.   Zach McKinstry scores.    Mookie Betts scores.,1,2,1,4,7,0.59,3.09
+1289,2021-07-02,571970,608723,single,hit_into_play,3,Max Muncy singles on a ground ball to left fielder Gerardo Parra.   Zach McKinstry scores.    Mookie Betts scores.,1,2,1,4,7,0.59,3.09
+1290,2021-07-02,571970,622446,,ball,11,Max Muncy walks.,0,0,0,1,9,-0.4,3.66
 1291,2021-07-02,571970,608723,,ball,12,Max Muncy singles on a ground ball to left fielder Gerardo Parra.   Zach McKinstry scores.    Mookie Betts scores.,0,2,1,3,7,0.49,4.21
 1292,2021-07-02,571970,608723,,swinging_strike,8,Max Muncy singles on a ground ball to left fielder Gerardo Parra.   Zach McKinstry scores.    Mookie Betts scores.,0,1,1,2,7,0.07,1.54
 1293,2021-07-02,571970,608723,,foul,4,Max Muncy singles on a ground ball to left fielder Gerardo Parra.   Zach McKinstry scores.    Mookie Betts scores.,0,0,1,1,7,-0.34,2.25
@@ -1336,10 +1336,10 @@
 1334,2021-06-28,571970,543101,,swinging_strike,8,Max Muncy strikes out swinging.,0,1,1,2,3,0.17,1.53
 1335,2021-06-28,571970,543101,,called_strike,4,Max Muncy strikes out swinging.,0,0,1,1,3,-0.77,2.31
 1336,2021-06-28,571970,608678,field_out,hit_into_play,13,"Max Muncy grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.",1,1,1,3,8,-0.96,1.52
-1337,2021-06-28,571970,608678,,called_strike,5,"Max Muncy grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.",1,0,1,2,8,-0.24,2.04
-1338,2021-06-28,571970,543101,home_run,hit_into_play,5,Max Muncy homers (16) on a fly ball to right field.,1,2,0,4,1,0.19,2.68
-1339,2021-06-28,571970,543101,,foul,5,Max Muncy homers (16) on a fly ball to right field.,1,1,0,3,1,-0.08,2.44
-1340,2021-06-28,571970,608678,,ball,13,"Max Muncy grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.",0,0,1,1,8,-0.48,0.07
+1337,2021-06-28,571970,543101,home_run,hit_into_play,5,Max Muncy homers (16) on a fly ball to right field.,1,2,0,4,1,0.19,2.68
+1338,2021-06-28,571970,608678,,called_strike,5,"Max Muncy grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.",1,0,1,2,8,-0.24,2.04
+1339,2021-06-28,571970,608678,,ball,13,"Max Muncy grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.",0,0,1,1,8,-0.48,0.07
+1340,2021-06-28,571970,543101,,foul,5,Max Muncy homers (16) on a fly ball to right field.,1,1,0,3,1,-0.08,2.44
 1341,2021-06-28,571970,543101,,called_strike,2,Max Muncy homers (16) on a fly ball to right field.,1,0,0,2,1,0.0,2.94
 1342,2021-06-28,571970,543101,,ball,11,Max Muncy homers (16) on a fly ball to right field.,0,0,0,1,1,-1.22,4.2
 1343,2021-06-26,571970,621219,walk,ball,9,Max Muncy walks.,3,2,2,6,3,0.81,1.77
@@ -1368,10 +1368,10 @@
 1366,2021-06-25,571970,624522,,ball,14,Max Muncy flies out to left fielder Joc Pederson.,1,1,2,3,6,0.85,1.12
 1367,2021-06-25,571970,624522,,foul,9,Max Muncy flies out to left fielder Joc Pederson.,1,0,2,2,6,0.32,1.96
 1368,2021-06-25,571970,624522,,ball,11,Max Muncy flies out to left fielder Joc Pederson.,0,0,2,1,6,-1.35,3.37
-1369,2021-06-25,571970,453562,field_out,hit_into_play,8,"Max Muncy grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",2,1,1,4,1,0.05,2.01
-1370,2021-06-25,571970,667297,home_run,hit_into_play,5,Max Muncy homers (15) on a fly ball to right center field.    Mookie Betts scores.,2,0,2,3,8,0.27,2.2
-1371,2021-06-25,571970,667297,,ball,12,Max Muncy homers (15) on a fly ball to right center field.    Mookie Betts scores.,1,0,2,2,8,0.11,4.4
-1372,2021-06-25,571970,453562,,ball,13,"Max Muncy grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",1,1,1,3,1,-0.18,1.37
+1369,2021-06-25,571970,667297,home_run,hit_into_play,5,Max Muncy homers (15) on a fly ball to right center field.    Mookie Betts scores.,2,0,2,3,8,0.27,2.2
+1370,2021-06-25,571970,453562,field_out,hit_into_play,8,"Max Muncy grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",2,1,1,4,1,0.05,2.01
+1371,2021-06-25,571970,453562,,ball,13,"Max Muncy grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",1,1,1,3,1,-0.18,1.37
+1372,2021-06-25,571970,667297,,ball,12,Max Muncy homers (15) on a fly ball to right center field.    Mookie Betts scores.,1,0,2,2,8,0.11,4.4
 1373,2021-06-25,571970,453562,,called_strike,8,"Max Muncy grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",1,0,1,2,1,-0.07,1.5
 1374,2021-06-25,571970,667297,,ball,11,Max Muncy homers (15) on a fly ball to right center field.    Mookie Betts scores.,0,0,2,1,8,-1.43,3.43
 1375,2021-06-25,571970,453562,,ball,9,"Max Muncy grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",0,0,1,1,1,0.42,1.43
@@ -1420,8 +1420,8 @@
 1418,2021-06-22,571970,605483,,called_strike,1,Max Muncy lines out sharply to left fielder Tommy Pham.,0,0,0,1,2,-0.3,2.77
 1419,2021-06-22,571970,622503,field_out,hit_into_play,8,"Max Muncy grounds out sharply, third baseman Manny Machado to first baseman Eric Hosmer.",1,1,1,3,6,0.02,1.89
 1420,2021-06-22,571970,622503,,called_strike,13,"Max Muncy grounds out sharply, third baseman Manny Machado to first baseman Eric Hosmer.",1,0,1,2,6,-0.51,1.35
-1421,2021-06-22,571970,666168,walk,ball,14,Max Muncy walks.,3,1,2,5,8,1.07,1.6
-1422,2021-06-22,571970,622503,,ball,11,"Max Muncy grounds out sharply, third baseman Manny Machado to first baseman Eric Hosmer.",0,0,1,1,6,-1.43,2.69
+1421,2021-06-22,571970,622503,,ball,11,"Max Muncy grounds out sharply, third baseman Manny Machado to first baseman Eric Hosmer.",0,0,1,1,6,-1.43,2.69
+1422,2021-06-22,571970,666168,walk,ball,14,Max Muncy walks.,3,1,2,5,8,1.07,1.6
 1423,2021-06-22,571970,666168,,ball,14,Max Muncy walks.,2,1,2,4,8,0.29,1.32
 1424,2021-06-22,571970,666168,,ball,14,Max Muncy walks.,1,1,2,3,8,1.37,0.86
 1425,2021-06-22,571970,666168,,ball,14,Max Muncy walks.,0,1,2,2,8,0.48,1.09
@@ -1439,21 +1439,21 @@
 1437,2021-06-10,571970,656605,,called_strike,3,Max Muncy flies out to left fielder Ka'ai Tom.,0,0,2,1,2,0.79,2.79
 1438,2021-06-10,571970,621249,field_out,hit_into_play,7,"Max Muncy grounds out, shortstop Kevin Newman to first baseman Erik Gonzalez.",0,1,2,2,6,-0.79,1.88
 1439,2021-06-10,571970,621249,,called_strike,6,"Max Muncy grounds out, shortstop Kevin Newman to first baseman Erik Gonzalez.",0,0,2,1,6,0.54,2.56
-1440,2021-06-10,571970,605195,walk,ball,11,Max Muncy walks.   Mookie Betts to 2nd.,3,2,0,7,8,-1.03,3.51
-1441,2021-06-10,571970,608717,field_out,hit_into_play,7,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Erik Gonzalez.",1,2,0,4,4,-0.69,2.06
-1442,2021-06-10,571970,608717,,swinging_strike,7,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Erik Gonzalez.",1,1,0,3,4,-0.35,1.79
-1443,2021-06-10,571970,605195,,foul,12,Max Muncy walks.   Mookie Betts to 2nd.,3,2,0,6,8,0.95,3.2
-1444,2021-06-10,571970,656605,strikeout,swinging_strike,12,Max Muncy strikes out swinging.,1,2,0,5,1,0.61,3.64
+1440,2021-06-10,571970,608717,field_out,hit_into_play,7,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Erik Gonzalez.",1,2,0,4,4,-0.69,2.06
+1441,2021-06-10,571970,605195,walk,ball,11,Max Muncy walks.   Mookie Betts to 2nd.,3,2,0,7,8,-1.03,3.51
+1442,2021-06-10,571970,605195,,foul,12,Max Muncy walks.   Mookie Betts to 2nd.,3,2,0,6,8,0.95,3.2
+1443,2021-06-10,571970,656605,strikeout,swinging_strike,12,Max Muncy strikes out swinging.,1,2,0,5,1,0.61,3.64
+1444,2021-06-10,571970,608717,,swinging_strike,7,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Erik Gonzalez.",1,1,0,3,4,-0.35,1.79
 1445,2021-06-10,571970,656605,,foul,8,Max Muncy strikes out swinging.,1,2,0,4,1,0.06,1.84
-1446,2021-06-10,571970,605195,,ball,12,Max Muncy walks.   Mookie Betts to 2nd.,2,2,0,5,8,1.18,2.73
-1447,2021-06-10,571970,608717,,called_strike,8,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Erik Gonzalez.",1,0,0,2,4,0.18,1.98
-1448,2021-06-10,571970,656605,,ball,14,Max Muncy strikes out swinging.,0,2,0,3,1,1.01,2.19
-1449,2021-06-10,571970,605195,,ball,11,Max Muncy walks.   Mookie Betts to 2nd.,1,2,0,4,8,-0.82,3.48
+1446,2021-06-10,571970,608717,,called_strike,8,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Erik Gonzalez.",1,0,0,2,4,0.18,1.98
+1447,2021-06-10,571970,605195,,ball,12,Max Muncy walks.   Mookie Betts to 2nd.,2,2,0,5,8,1.18,2.73
+1448,2021-06-10,571970,605195,,ball,11,Max Muncy walks.   Mookie Betts to 2nd.,1,2,0,4,8,-0.82,3.48
+1449,2021-06-10,571970,656605,,ball,14,Max Muncy strikes out swinging.,0,2,0,3,1,1.01,2.19
 1450,2021-06-10,571970,608717,,ball,14,"Max Muncy grounds out, second baseman Adam Frazier to first baseman Erik Gonzalez.",0,0,0,1,4,1.2,1.41
-1451,2021-06-10,571970,605195,,foul,1,Max Muncy walks.   Mookie Betts to 2nd.,1,1,0,3,8,-0.55,3.41
-1452,2021-06-10,571970,656605,,swinging_strike,5,Max Muncy strikes out swinging.,0,1,0,2,1,-0.1,2.7
-1453,2021-06-10,571970,656605,,called_strike,3,Max Muncy strikes out swinging.,0,0,0,1,1,0.69,3.27
-1454,2021-06-10,571970,605195,,foul,5,Max Muncy walks.   Mookie Betts to 2nd.,1,0,0,2,8,-0.13,2.63
+1451,2021-06-10,571970,656605,,swinging_strike,5,Max Muncy strikes out swinging.,0,1,0,2,1,-0.1,2.7
+1452,2021-06-10,571970,605195,,foul,1,Max Muncy walks.   Mookie Betts to 2nd.,1,1,0,3,8,-0.55,3.41
+1453,2021-06-10,571970,605195,,foul,5,Max Muncy walks.   Mookie Betts to 2nd.,1,0,0,2,8,-0.13,2.63
+1454,2021-06-10,571970,656605,,called_strike,3,Max Muncy strikes out swinging.,0,0,0,1,1,0.69,3.27
 1455,2021-06-10,571970,605195,,ball,11,Max Muncy walks.   Mookie Betts to 2nd.,0,0,0,1,8,-1.11,3.72
 1456,2021-06-09,571970,607572,field_out,hit_into_play,3,Max Muncy flies out to center fielder Bryan Reynolds.,0,0,0,1,9,0.36,2.88
 1457,2021-06-08,571970,664141,strikeout,called_strike,12,Max Muncy called out on strikes.,2,2,2,5,3,1.0,2.32
@@ -1497,13 +1497,13 @@
 1495,2021-06-02,571970,643778,field_out,hit_into_play,5,"Max Muncy grounds out, second baseman Tommy Edman to first baseman Matt Carpenter.",0,1,2,2,4,0.04,2.19
 1496,2021-06-02,571970,643778,,called_strike,3,"Max Muncy grounds out, second baseman Tommy Edman to first baseman Matt Carpenter.",0,0,2,1,4,0.75,2.78
 1497,2021-06-02,571970,663765,force_out,hit_into_play,4,"Max Muncy grounds into a force out, second baseman Tommy Edman to third baseman Jose Rondon.   Mookie Betts out at 2nd.    Max Muncy to 1st.",1,2,1,5,3,-0.7,2.12
-1498,2021-06-02,571970,593372,field_out,hit_into_play,3,Max Muncy flies out to right fielder Justin Williams.,0,0,1,1,1,0.5,3.01
-1499,2021-06-02,571970,663765,,foul,4,"Max Muncy grounds into a force out, second baseman Tommy Edman to third baseman Jose Rondon.   Mookie Betts out at 2nd.    Max Muncy to 1st.",1,2,1,4,3,-0.48,2.61
+1498,2021-06-02,571970,663765,,foul,4,"Max Muncy grounds into a force out, second baseman Tommy Edman to third baseman Jose Rondon.   Mookie Betts out at 2nd.    Max Muncy to 1st.",1,2,1,4,3,-0.48,2.61
+1499,2021-06-02,571970,593372,field_out,hit_into_play,3,Max Muncy flies out to right fielder Justin Williams.,0,0,1,1,1,0.5,3.01
 1500,2021-06-02,571970,663765,,foul,14,"Max Muncy grounds into a force out, second baseman Tommy Edman to third baseman Jose Rondon.   Mookie Betts out at 2nd.    Max Muncy to 1st.",1,1,1,3,3,0.27,1.27
 1501,2021-06-02,571970,663765,,called_strike,7,"Max Muncy grounds into a force out, second baseman Tommy Edman to third baseman Jose Rondon.   Mookie Betts out at 2nd.    Max Muncy to 1st.",1,0,1,2,3,-0.59,1.63
 1502,2021-06-02,571970,663765,,ball,13,"Max Muncy grounds into a force out, second baseman Tommy Edman to third baseman Jose Rondon.   Mookie Betts out at 2nd.    Max Muncy to 1st.",0,0,1,1,3,-0.98,1.6
-1503,2021-06-02,571970,593372,walk,ball,8,Max Muncy walks.,3,1,0,5,1,0.22,1.51
-1504,2021-06-02,571970,658551,field_out,hit_into_play,2,Max Muncy pops out to third baseman Jose Rondon.,0,0,1,1,7,-0.06,3.04
+1503,2021-06-02,571970,658551,field_out,hit_into_play,2,Max Muncy pops out to third baseman Jose Rondon.,0,0,1,1,7,-0.06,3.04
+1504,2021-06-02,571970,593372,walk,ball,8,Max Muncy walks.,3,1,0,5,1,0.22,1.51
 1505,2021-06-02,571970,593372,,ball,7,Max Muncy walks.,2,1,0,4,1,-0.73,1.71
 1506,2021-06-02,571970,593372,,called_strike,4,Max Muncy walks.,2,0,0,3,1,-0.7,2.25
 1507,2021-06-02,571970,593372,,ball,11,Max Muncy walks.,1,0,0,2,1,-1.4,2.5
@@ -1535,11 +1535,11 @@
 1533,2021-05-31,571970,656427,,called_strike,7,Max Muncy strikes out swinging.,1,0,0,2,3,-0.5,1.88
 1534,2021-05-31,571970,656427,,ball,13,Max Muncy strikes out swinging.,0,0,0,1,3,-0.19,1.36
 1535,2021-05-31,571970,664854,double,hit_into_play,8,Max Muncy doubles (7) on a sharp line drive to right fielder Justin Williams.,1,1,1,3,6,-0.13,1.5
-1536,2021-05-31,571970,594965,field_out,hit_into_play,2,Max Muncy pops out to third baseman Nolan Arenado in foul territory.,3,1,0,5,7,0.19,2.92
-1537,2021-05-31,571970,664854,,ball,13,Max Muncy doubles (7) on a sharp line drive to right fielder Justin Williams.,0,1,1,2,6,-1.27,1.61
+1536,2021-05-31,571970,664854,,ball,13,Max Muncy doubles (7) on a sharp line drive to right fielder Justin Williams.,0,1,1,2,6,-1.27,1.61
+1537,2021-05-31,571970,594965,field_out,hit_into_play,2,Max Muncy pops out to third baseman Nolan Arenado in foul territory.,3,1,0,5,7,0.19,2.92
 1538,2021-05-31,571970,664854,,called_strike,4,Max Muncy doubles (7) on a sharp line drive to right fielder Justin Williams.,0,0,1,1,6,-0.65,2.0
-1539,2021-05-31,571970,656427,field_out,hit_into_play,11,Max Muncy lines out sharply to center fielder Dylan Carlson.,0,0,0,1,1,-0.92,2.58
-1540,2021-05-31,571970,594965,,foul_tip,6,Max Muncy pops out to third baseman Nolan Arenado in foul territory.,3,0,0,4,7,0.68,2.55
+1539,2021-05-31,571970,594965,,foul_tip,6,Max Muncy pops out to third baseman Nolan Arenado in foul territory.,3,0,0,4,7,0.68,2.55
+1540,2021-05-31,571970,656427,field_out,hit_into_play,11,Max Muncy lines out sharply to center fielder Dylan Carlson.,0,0,0,1,1,-0.92,2.58
 1541,2021-05-31,571970,594965,,ball,12,Max Muncy pops out to third baseman Nolan Arenado in foul territory.,2,0,0,3,7,0.58,3.99
 1542,2021-05-31,571970,594965,,ball,12,Max Muncy pops out to third baseman Nolan Arenado in foul territory.,1,0,0,2,7,0.56,4.29
 1543,2021-05-31,571970,676220,field_out,hit_into_play,7,"Max Muncy grounds out, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",0,1,2,2,8,-0.41,1.97
@@ -1568,8 +1568,8 @@
 1566,2021-05-29,571970,501625,,called_strike,7,Max Muncy doubles (6) on a sharp line drive to right fielder Mike Yastrzemski.,1,1,2,3,7,-0.72,1.41
 1567,2021-05-29,571970,501625,,called_strike,2,Max Muncy doubles (6) on a sharp line drive to right fielder Mike Yastrzemski.,1,0,2,2,7,-0.26,2.69
 1568,2021-05-29,571970,657277,strikeout,swinging_strike,8,Max Muncy strikes out swinging.,0,2,0,3,1,-0.02,1.83
-1569,2021-05-29,571970,657277,,foul,4,Max Muncy strikes out swinging.,0,1,0,2,1,-0.72,2.64
-1570,2021-05-29,571970,501625,,ball,13,Max Muncy doubles (6) on a sharp line drive to right fielder Mike Yastrzemski.,0,0,2,1,7,-0.98,1.55
+1569,2021-05-29,571970,501625,,ball,13,Max Muncy doubles (6) on a sharp line drive to right fielder Mike Yastrzemski.,0,0,2,1,7,-0.98,1.55
+1570,2021-05-29,571970,657277,,foul,4,Max Muncy strikes out swinging.,0,1,0,2,1,-0.72,2.64
 1571,2021-05-29,571970,657277,,foul,4,Max Muncy strikes out swinging.,0,0,0,1,1,-0.55,2.73
 1572,2021-05-29,571970,431148,home_run,hit_into_play,5,Max Muncy homers (12) on a fly ball to right center field.,0,1,0,2,6,-0.14,2.64
 1573,2021-05-29,571970,431148,,foul,4,Max Muncy homers (12) on a fly ball to right center field.,0,0,0,1,6,-0.8,2.57
@@ -1655,14 +1655,14 @@
 1653,2021-05-23,571970,572125,,ball,12,Max Muncy homers (10) on a fly ball to center field.,2,2,0,7,4,0.18,3.9
 1654,2021-05-23,571970,670056,,foul,7,Max Muncy walks.,3,2,2,6,6,-0.47,1.86
 1655,2021-05-23,571970,572125,,foul,14,Max Muncy homers (10) on a fly ball to center field.,2,2,0,6,4,0.83,2.37
-1656,2021-05-23,571970,572125,,ball,13,Max Muncy homers (10) on a fly ball to center field.,1,2,0,5,4,-0.25,0.91
-1657,2021-05-23,571970,670056,,foul,4,Max Muncy walks.,3,1,2,5,6,-0.34,2.32
-1658,2021-05-23,571970,670056,,ball,14,Max Muncy walks.,2,1,2,4,6,1.39,2.01
-1659,2021-05-23,571970,572125,,foul,7,Max Muncy homers (10) on a fly ball to center field.,1,2,0,4,4,-0.8,2.02
+1656,2021-05-23,571970,670056,,foul,4,Max Muncy walks.,3,1,2,5,6,-0.34,2.32
+1657,2021-05-23,571970,572125,,ball,13,Max Muncy homers (10) on a fly ball to center field.,1,2,0,5,4,-0.25,0.91
+1658,2021-05-23,571970,572125,,foul,7,Max Muncy homers (10) on a fly ball to center field.,1,2,0,4,4,-0.8,2.02
+1659,2021-05-23,571970,670056,,ball,14,Max Muncy walks.,2,1,2,4,6,1.39,2.01
 1660,2021-05-23,571970,572125,,foul,5,Max Muncy homers (10) on a fly ball to center field.,1,1,0,3,4,0.21,2.66
 1661,2021-05-23,571970,670056,,ball,11,Max Muncy walks.,1,1,2,3,6,-1.09,2.57
-1662,2021-05-23,571970,572125,,called_strike,4,Max Muncy homers (10) on a fly ball to center field.,1,0,0,2,4,-0.65,2.3
-1663,2021-05-23,571970,670056,,ball,11,Max Muncy walks.,0,1,2,2,6,-0.14,3.6
+1662,2021-05-23,571970,670056,,ball,11,Max Muncy walks.,0,1,2,2,6,-0.14,3.6
+1663,2021-05-23,571970,572125,,called_strike,4,Max Muncy homers (10) on a fly ball to center field.,1,0,0,2,4,-0.65,2.3
 1664,2021-05-23,571970,572125,,ball,12,Max Muncy homers (10) on a fly ball to center field.,0,0,0,1,4,0.95,2.7
 1665,2021-05-23,571970,670056,,called_strike,1,Max Muncy walks.,0,0,2,1,6,-0.54,2.95
 1666,2021-05-23,571970,543101,field_out,hit_into_play,6,Max Muncy flies out to left fielder Mike Tauchman.,0,0,2,1,1,0.28,2.43
@@ -1672,8 +1672,8 @@
 1670,2021-05-22,571970,431148,,ball,11,Max Muncy singles on a sharp line drive to right fielder Mike Yastrzemski.,0,0,1,1,4,-1.36,2.37
 1671,2021-05-22,571970,607374,force_out,hit_into_play,4,"Max Muncy grounds into a force out, second baseman Mauricio Dubon to shortstop Brandon Crawford.   Justin Turner out at 2nd.    Max Muncy to 1st.",1,1,1,3,6,-0.69,2.55
 1672,2021-05-22,571970,607374,,blocked_ball,14,"Max Muncy grounds into a force out, second baseman Mauricio Dubon to shortstop Brandon Crawford.   Justin Turner out at 2nd.    Max Muncy to 1st.",0,1,1,2,6,1.02,0.5
-1673,2021-05-22,571970,431148,home_run,hit_into_play,6,Max Muncy homers (9) on a fly ball to right field.,1,1,2,3,1,0.35,2.2
-1674,2021-05-22,571970,607374,,swinging_strike,14,"Max Muncy grounds into a force out, second baseman Mauricio Dubon to shortstop Brandon Crawford.   Justin Turner out at 2nd.    Max Muncy to 1st.",0,0,1,1,6,0.37,1.34
+1673,2021-05-22,571970,607374,,swinging_strike,14,"Max Muncy grounds into a force out, second baseman Mauricio Dubon to shortstop Brandon Crawford.   Justin Turner out at 2nd.    Max Muncy to 1st.",0,0,1,1,6,0.37,1.34
+1674,2021-05-22,571970,431148,home_run,hit_into_play,6,Max Muncy homers (9) on a fly ball to right field.,1,1,2,3,1,0.35,2.2
 1675,2021-05-22,571970,431148,,foul,6,Max Muncy homers (9) on a fly ball to right field.,1,0,2,2,1,0.46,2.76
 1676,2021-05-22,571970,431148,,ball,13,Max Muncy homers (9) on a fly ball to right field.,0,0,2,1,1,-1.37,2.09
 1677,2021-05-22,571970,501625,single,hit_into_play,1,Max Muncy singles on a sharp line drive to left fielder Alex Dickerson.   Justin Turner to 3rd.,1,2,0,4,8,-0.43,2.85
@@ -1722,12 +1722,12 @@
 1720,2021-05-18,571970,622065,,called_strike,7,Max Muncy walks.,0,0,0,1,7,-0.32,1.75
 1721,2021-05-18,571970,661255,field_out,hit_into_play,13,"Max Muncy grounds out, second baseman Andrew Young to first baseman Pavin Smith.   Mookie Betts to 2nd.",2,1,0,4,8,-0.87,1.92
 1722,2021-05-18,571970,656686,strikeout,foul_tip,9,Max Muncy strikes out on a foul tip.,2,2,0,5,1,0.66,1.81
-1723,2021-05-18,571970,656686,,called_strike,1,Max Muncy strikes out on a foul tip.,2,1,0,4,1,-0.77,2.96
-1724,2021-05-18,571970,661255,,ball,11,"Max Muncy grounds out, second baseman Andrew Young to first baseman Pavin Smith.   Mookie Betts to 2nd.",1,1,0,3,8,-0.92,2.73
+1723,2021-05-18,571970,661255,,ball,11,"Max Muncy grounds out, second baseman Andrew Young to first baseman Pavin Smith.   Mookie Betts to 2nd.",1,1,0,3,8,-0.92,2.73
+1724,2021-05-18,571970,656686,,called_strike,1,Max Muncy strikes out on a foul tip.,2,1,0,4,1,-0.77,2.96
 1725,2021-05-18,571970,656686,,called_strike,4,Max Muncy strikes out on a foul tip.,2,0,0,3,1,-0.69,2.09
 1726,2021-05-18,571970,661255,,blocked_ball,14,"Max Muncy grounds out, second baseman Andrew Young to first baseman Pavin Smith.   Mookie Betts to 2nd.",0,1,0,2,8,0.14,0.16
-1727,2021-05-18,571970,656686,,ball,13,Max Muncy strikes out on a foul tip.,1,0,0,2,1,-1.48,1.77
-1728,2021-05-18,571970,661255,,called_strike,8,"Max Muncy grounds out, second baseman Andrew Young to first baseman Pavin Smith.   Mookie Betts to 2nd.",0,0,0,1,8,0.18,1.78
+1727,2021-05-18,571970,661255,,called_strike,8,"Max Muncy grounds out, second baseman Andrew Young to first baseman Pavin Smith.   Mookie Betts to 2nd.",0,0,0,1,8,0.18,1.78
+1728,2021-05-18,571970,656686,,ball,13,Max Muncy strikes out on a foul tip.,1,0,0,2,1,-1.48,1.77
 1729,2021-05-18,571970,656686,,ball,13,Max Muncy strikes out on a foul tip.,0,0,0,1,1,-0.65,0.87
 1730,2021-05-17,571970,518516,force_out,hit_into_play,11,"Max Muncy grounds into a force out, third baseman Eduardo Escobar to shortstop Nick Ahmed.   Mookie Betts to 3rd.    Justin Turner out at 2nd.    Max Muncy to 1st.",0,1,1,2,3,-0.83,2.46
 1731,2021-05-17,571970,518516,,called_strike,3,"Max Muncy grounds into a force out, third baseman Eduardo Escobar to shortstop Nick Ahmed.   Mookie Betts to 3rd.    Justin Turner out at 2nd.    Max Muncy to 1st.",0,0,1,1,3,0.7,3.13
@@ -1736,13 +1736,13 @@
 1734,2021-05-17,571970,573009,,ball,13,Max Muncy strikes out swinging.,0,2,2,3,7,-3.28,1.23
 1735,2021-05-17,571970,573009,,swinging_strike,13,Max Muncy strikes out swinging.,0,1,2,2,7,-0.65,1.21
 1736,2021-05-17,571970,518516,walk,ball,13,Max Muncy walks.,3,1,2,5,1,-1.49,1.2
-1737,2021-05-17,571970,573009,,called_strike,4,Max Muncy strikes out swinging.,0,0,2,1,7,-0.36,2.62
-1738,2021-05-17,571970,518516,,ball,11,Max Muncy walks.,2,1,2,4,1,-1.31,2.69
+1737,2021-05-17,571970,518516,,ball,11,Max Muncy walks.,2,1,2,4,1,-1.31,2.69
+1738,2021-05-17,571970,573009,,called_strike,4,Max Muncy strikes out swinging.,0,0,2,1,7,-0.36,2.62
 1739,2021-05-17,571970,518516,,called_strike,13,Max Muncy walks.,2,0,2,3,1,-1.02,2.07
 1740,2021-05-17,571970,592761,field_out,hit_into_play,4,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Caleb Smith.",1,2,2,4,5,-0.33,2.71
 1741,2021-05-17,571970,518516,,ball,13,Max Muncy walks.,1,0,2,2,1,-1.42,1.54
-1742,2021-05-17,571970,518516,,ball,11,Max Muncy walks.,0,0,2,1,1,-1.32,3.28
-1743,2021-05-17,571970,592761,,ball,14,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Caleb Smith.",0,2,2,3,5,1.18,1.6
+1742,2021-05-17,571970,592761,,ball,14,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Caleb Smith.",0,2,2,3,5,1.18,1.6
+1743,2021-05-17,571970,518516,,ball,11,Max Muncy walks.,0,0,2,1,1,-1.32,3.28
 1744,2021-05-17,571970,592761,,swinging_strike,13,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Caleb Smith.",0,1,2,2,5,-0.92,0.23
 1745,2021-05-17,571970,592761,,called_strike,6,"Max Muncy grounds out, first baseman Pavin Smith to pitcher Caleb Smith.",0,0,2,1,5,0.76,2.36
 1746,2021-05-16,571970,641154,field_out,hit_into_play,2,Max Muncy pops out to third baseman Brian Anderson.,2,2,0,5,5,0.12,3.29
@@ -1765,20 +1765,20 @@
 1763,2021-05-15,571970,656548,,blocked_ball,13,Max Muncy singles on a sharp line drive to center fielder Magneuris Sierra.   Justin Turner to 2nd.,0,1,0,2,4,-0.09,0.63
 1764,2021-05-15,571970,656548,,called_strike,5,Max Muncy singles on a sharp line drive to center fielder Magneuris Sierra.   Justin Turner to 2nd.,0,0,0,1,4,-0.27,2.27
 1765,2021-05-15,571970,666129,single,hit_into_play,8,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",3,2,2,10,7,-0.1,1.7
-1766,2021-05-15,571970,666129,,foul,7,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",3,2,2,9,7,-0.42,1.97
-1767,2021-05-15,571970,446321,single,hit_into_play,6,Max Muncy singles on a line drive to left fielder Corey Dickerson.   Mookie Betts scores.    Sheldon Neuse to 2nd.,0,0,1,1,5,0.65,2.14
+1766,2021-05-15,571970,446321,single,hit_into_play,6,Max Muncy singles on a line drive to left fielder Corey Dickerson.   Mookie Betts scores.    Sheldon Neuse to 2nd.,0,0,1,1,5,0.65,2.14
+1767,2021-05-15,571970,666129,,foul,7,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",3,2,2,9,7,-0.42,1.97
 1768,2021-05-15,571970,666129,,foul,1,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",3,2,2,8,7,-0.61,2.97
 1769,2021-05-15,571970,666129,,foul,5,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",3,2,2,7,7,-0.15,2.41
 1770,2021-05-15,571970,666129,,ball,13,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",2,2,2,6,7,-0.83,0.24
 1771,2021-05-15,571970,666129,,ball,12,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",1,2,2,5,7,0.38,4.03
-1772,2021-05-15,571970,656548,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,2,2,1,6,1,-0.04,0.98
-1773,2021-05-15,571970,666129,,foul,3,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",1,2,2,4,7,0.4,3.36
+1772,2021-05-15,571970,666129,,foul,3,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",1,2,2,4,7,0.4,3.36
+1773,2021-05-15,571970,656548,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,2,2,1,6,1,-0.04,0.98
 1774,2021-05-15,571970,656548,,foul,3,Max Muncy strikes out swinging.,2,2,1,5,1,0.73,3.21
 1775,2021-05-15,571970,666129,,ball,13,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",0,2,2,3,7,-1.37,0.28
-1776,2021-05-15,571970,666129,,swinging_strike,14,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",0,1,2,2,7,0.38,1.35
-1777,2021-05-15,571970,656548,,foul,6,Max Muncy strikes out swinging.,2,1,1,4,1,0.29,2.19
-1778,2021-05-15,571970,666129,,called_strike,1,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",0,0,2,1,7,-0.58,3.11
-1779,2021-05-15,571970,656548,,blocked_ball,14,Max Muncy strikes out swinging.,1,1,1,3,1,1.01,0.9
+1776,2021-05-15,571970,656548,,foul,6,Max Muncy strikes out swinging.,2,1,1,4,1,0.29,2.19
+1777,2021-05-15,571970,666129,,swinging_strike,14,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",0,1,2,2,7,0.38,1.35
+1778,2021-05-15,571970,656548,,blocked_ball,14,Max Muncy strikes out swinging.,1,1,1,3,1,1.01,0.9
+1779,2021-05-15,571970,666129,,called_strike,1,"Max Muncy singles on a sharp ground ball to center fielder Magneuris Sierra, deflected by second baseman Jon Berti.",0,0,2,1,7,-0.58,3.11
 1780,2021-05-15,571970,656548,,ball,14,Max Muncy strikes out swinging.,0,1,1,2,1,1.79,1.28
 1781,2021-05-15,571970,656548,,called_strike,7,Max Muncy strikes out swinging.,0,0,1,1,1,-0.29,1.97
 1782,2021-05-14,571970,645261,home_run,hit_into_play,1,Max Muncy homers (8) on a fly ball to center field.   Mookie Betts scores.    Corey Seager scores.,2,1,1,4,2,-0.32,3.02
@@ -1791,10 +1791,10 @@
 1789,2021-05-14,571970,643256,single,hit_into_play,4,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,3,2,0,6,7,-0.55,2.24
 1790,2021-05-14,571970,643256,,foul,1,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,3,1,0,5,7,-0.28,3.0
 1791,2021-05-14,571970,645261,strikeout,swinging_strike,2,Max Muncy strikes out swinging.,1,2,2,4,1,0.02,3.3
-1792,2021-05-14,571970,645261,,called_strike,1,Max Muncy strikes out swinging.,1,1,2,3,1,-0.7,3.06
-1793,2021-05-14,571970,643256,,ball,13,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,2,1,0,4,7,-1.52,1.84
-1794,2021-05-14,571970,643256,,called_strike,7,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,2,0,0,3,7,-0.66,2.03
-1795,2021-05-14,571970,645261,,ball,11,Max Muncy strikes out swinging.,0,1,2,2,1,-1.05,3.98
+1792,2021-05-14,571970,643256,,ball,13,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,2,1,0,4,7,-1.52,1.84
+1793,2021-05-14,571970,645261,,called_strike,1,Max Muncy strikes out swinging.,1,1,2,3,1,-0.7,3.06
+1794,2021-05-14,571970,645261,,ball,11,Max Muncy strikes out swinging.,0,1,2,2,1,-1.05,3.98
+1795,2021-05-14,571970,643256,,called_strike,7,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,2,0,0,3,7,-0.66,2.03
 1796,2021-05-14,571970,645261,,called_strike,4,Max Muncy strikes out swinging.,0,0,2,1,1,-0.82,2.34
 1797,2021-05-14,571970,643256,,ball,13,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,1,0,0,2,7,-1.18,2.3
 1798,2021-05-14,571970,643256,,ball,13,Max Muncy singles on a ground ball to right fielder Garrett Cooper.   Justin Turner to 2nd.,0,0,0,1,7,-1.16,1.86
@@ -1868,8 +1868,8 @@
 1866,2021-05-08,571970,518553,,ball,13,Max Muncy walks.   Mookie Betts to 3rd.    Corey Seager to 2nd.,0,0,2,1,4,-1.12,1.91
 1867,2021-05-08,571970,605164,strikeout,swinging_strike,7,Max Muncy strikes out swinging.,1,2,0,4,2,-0.39,1.53
 1868,2021-05-08,571970,605164,,ball,11,Max Muncy strikes out swinging.,0,2,0,3,2,-0.74,3.36
-1869,2021-05-08,571970,594577,single,hit_into_play,6,Max Muncy singles on a sharp line drive to center fielder Juan Lagares.   DJ Peters scores.,3,1,2,5,7,0.3,2.26
-1870,2021-05-08,571970,605164,,swinging_strike,4,Max Muncy strikes out swinging.,0,1,0,2,2,-0.78,2.15
+1869,2021-05-08,571970,605164,,swinging_strike,4,Max Muncy strikes out swinging.,0,1,0,2,2,-0.78,2.15
+1870,2021-05-08,571970,594577,single,hit_into_play,6,Max Muncy singles on a sharp line drive to center fielder Juan Lagares.   DJ Peters scores.,3,1,2,5,7,0.3,2.26
 1871,2021-05-08,571970,594577,,called_strike,2,Max Muncy singles on a sharp line drive to center fielder Juan Lagares.   DJ Peters scores.,3,0,2,4,7,0.2,2.86
 1872,2021-05-08,571970,605164,,called_strike,1,Max Muncy strikes out swinging.,0,0,0,1,2,-0.67,3.2
 1873,2021-05-08,571970,594577,,ball,12,Max Muncy singles on a sharp line drive to center fielder Juan Lagares.   DJ Peters scores.,2,0,2,3,7,1.32,3.34
@@ -1898,15 +1898,15 @@
 1896,2021-05-05,571970,640470,,called_strike,14,Max Muncy homers (5) on a fly ball to left center field.,1,0,2,2,4,1.05,2.33
 1897,2021-05-05,571970,640470,,ball,14,Max Muncy homers (5) on a fly ball to left center field.,0,0,2,1,4,1.53,0.74
 1898,2021-05-05,571970,640470,strikeout,swinging_strike,5,Max Muncy strikes out swinging.,2,2,2,5,1,-0.14,2.14
-1899,2021-05-05,571970,640470,,ball,14,Max Muncy strikes out swinging.,1,2,2,4,1,1.25,1.11
-1900,2021-05-05,571970,594986,walk,ball,12,Max Muncy walks.   Corey Seager to 3rd.    Justin Turner to 2nd.,3,0,0,4,6,1.59,2.81
+1899,2021-05-05,571970,594986,walk,ball,12,Max Muncy walks.   Corey Seager to 3rd.    Justin Turner to 2nd.,3,0,0,4,6,1.59,2.81
+1900,2021-05-05,571970,640470,,ball,14,Max Muncy strikes out swinging.,1,2,2,4,1,1.25,1.11
 1901,2021-05-05,571970,594986,,ball,12,Max Muncy walks.   Corey Seager to 3rd.    Justin Turner to 2nd.,2,0,0,3,6,1.12,2.45
 1902,2021-05-05,571970,640470,,swinging_strike,5,Max Muncy strikes out swinging.,1,1,2,3,1,-0.07,2.22
-1903,2021-05-05,571970,594986,,blocked_ball,13,Max Muncy walks.   Corey Seager to 3rd.    Justin Turner to 2nd.,1,0,0,2,6,-0.95,0.31
-1904,2021-05-05,571970,640470,,foul,5,Max Muncy strikes out swinging.,1,0,2,2,1,0.2,2.26
+1903,2021-05-05,571970,640470,,foul,5,Max Muncy strikes out swinging.,1,0,2,2,1,0.2,2.26
+1904,2021-05-05,571970,594986,,blocked_ball,13,Max Muncy walks.   Corey Seager to 3rd.    Justin Turner to 2nd.,1,0,0,2,6,-0.95,0.31
 1905,2021-05-05,571970,640470,,ball,11,Max Muncy strikes out swinging.,0,0,2,1,1,-1.74,2.99
-1906,2021-05-05,571970,594986,,ball,13,Max Muncy walks.   Corey Seager to 3rd.    Justin Turner to 2nd.,0,0,0,1,6,-0.97,1.17
-1907,2021-05-05,571970,571521,field_out,hit_into_play,12,Max Muncy flies out sharply to right fielder Jason Heyward.,2,0,1,3,8,0.86,2.85
+1906,2021-05-05,571970,571521,field_out,hit_into_play,12,Max Muncy flies out sharply to right fielder Jason Heyward.,2,0,1,3,8,0.86,2.85
+1907,2021-05-05,571970,594986,,ball,13,Max Muncy walks.   Corey Seager to 3rd.    Justin Turner to 2nd.,0,0,0,1,6,-0.97,1.17
 1908,2021-05-05,571970,571521,,ball,13,Max Muncy flies out sharply to right fielder Jason Heyward.,1,0,1,2,8,-1.3,1.94
 1909,2021-05-05,571970,571521,,blocked_ball,13,Max Muncy flies out sharply to right fielder Jason Heyward.,0,0,1,1,8,-0.84,0.13
 1910,2021-05-05,571970,621219,double,hit_into_play,7,"Dodgers challenged (home-plate collision), call on the field was upheld: Dodgers challenged (tag play), call on the field was upheld: Max Muncy doubles (3) on a sharp line drive to center fielder Kris Bryant.   Gavin Lux scores.  Justin Turner out at home on the throw, center fielder Kris Bryant to shortstop Javier Baez to catcher Willson Contreras.",1,1,2,3,10,-0.38,1.97
@@ -1928,8 +1928,8 @@
 1926,2021-05-04,571970,543294,,foul,8,Max Muncy hit by pitch.,2,1,0,4,2,-0.06,2.02
 1927,2021-05-04,571970,543294,,ball,13,Max Muncy hit by pitch.,1,1,0,3,2,-0.3,1.04
 1928,2021-05-04,571970,543294,,ball,13,Max Muncy hit by pitch.,0,1,0,2,2,-1.0,1.46
-1929,2021-05-04,571970,543294,,called_strike,5,Max Muncy hit by pitch.,0,0,0,1,2,0.1,2.67
-1930,2021-05-04,571970,657006,field_out,hit_into_play,7,Max Muncy flies out to left fielder Kris Bryant.,1,2,1,4,9,-0.52,2.05
+1929,2021-05-04,571970,657006,field_out,hit_into_play,7,Max Muncy flies out to left fielder Kris Bryant.,1,2,1,4,9,-0.52,2.05
+1930,2021-05-04,571970,543294,,called_strike,5,Max Muncy hit by pitch.,0,0,0,1,2,0.1,2.67
 1931,2021-05-04,571970,657006,,foul,4,Max Muncy flies out to left fielder Kris Bryant.,1,1,1,3,9,-0.31,2.59
 1932,2021-05-04,571970,657006,,swinging_strike,2,Max Muncy flies out to left fielder Kris Bryant.,1,0,1,2,9,-0.2,3.27
 1933,2021-05-04,571970,657006,,blocked_ball,13,Max Muncy flies out to left fielder Kris Bryant.,0,0,1,1,9,-0.73,-0.61
@@ -1956,12 +1956,12 @@
 1954,2021-05-01,571970,642207,strikeout,swinging_strike,13,Max Muncy strikes out swinging.,2,2,1,5,8,-0.2,1.3
 1955,2021-05-01,571970,642207,,ball,12,Max Muncy strikes out swinging.,1,2,1,4,8,0.47,4.21
 1956,2021-05-01,571970,605540,field_out,hit_into_play,7,"Max Muncy grounds out softly, pitcher Brandon Woodruff to first baseman Daniel Vogelbach.",1,2,2,4,1,-0.5,1.49
-1957,2021-05-01,571970,642207,,foul,4,Max Muncy strikes out swinging.,1,1,1,3,8,-0.77,2.54
-1958,2021-05-01,571970,605540,,foul,5,"Max Muncy grounds out softly, pitcher Brandon Woodruff to first baseman Daniel Vogelbach.",1,1,2,3,1,0.26,2.7
-1959,2021-05-01,571970,642207,,foul,2,Max Muncy strikes out swinging.,1,0,1,2,8,-0.21,3.07
-1960,2021-05-01,571970,605540,,ball,7,"Max Muncy grounds out softly, pitcher Brandon Woodruff to first baseman Daniel Vogelbach.",0,1,2,2,1,-0.4,1.46
-1961,2021-05-01,571970,605540,,called_strike,5,"Max Muncy grounds out softly, pitcher Brandon Woodruff to first baseman Daniel Vogelbach.",0,0,2,1,1,0.16,2.32
-1962,2021-05-01,571970,642207,,ball,13,Max Muncy strikes out swinging.,0,0,1,1,8,-0.18,0.94
+1957,2021-05-01,571970,605540,,foul,5,"Max Muncy grounds out softly, pitcher Brandon Woodruff to first baseman Daniel Vogelbach.",1,1,2,3,1,0.26,2.7
+1958,2021-05-01,571970,642207,,foul,4,Max Muncy strikes out swinging.,1,1,1,3,8,-0.77,2.54
+1959,2021-05-01,571970,605540,,ball,7,"Max Muncy grounds out softly, pitcher Brandon Woodruff to first baseman Daniel Vogelbach.",0,1,2,2,1,-0.4,1.46
+1960,2021-05-01,571970,642207,,foul,2,Max Muncy strikes out swinging.,1,0,1,2,8,-0.21,3.07
+1961,2021-05-01,571970,642207,,ball,13,Max Muncy strikes out swinging.,0,0,1,1,8,-0.18,0.94
+1962,2021-05-01,571970,605540,,called_strike,5,"Max Muncy grounds out softly, pitcher Brandon Woodruff to first baseman Daniel Vogelbach.",0,0,2,1,1,0.16,2.32
 1963,2021-04-30,571970,642547,field_out,hit_into_play,8,"Max Muncy grounds out, first baseman Daniel Vogelbach to pitcher Freddy Peralta.",0,1,1,2,4,-0.2,1.9
 1964,2021-04-30,571970,642547,,foul,1,"Max Muncy grounds out, first baseman Daniel Vogelbach to pitcher Freddy Peralta.",0,0,1,1,4,-0.31,3.03
 1965,2021-04-30,571970,642547,walk,ball,11,Max Muncy walks.,3,1,2,5,1,-1.6,3.62
@@ -1983,15 +1983,15 @@
 1981,2021-04-29,571970,641778,,foul,3,"Max Muncy grounds out, shortstop Luis Urias to first baseman Daniel Vogelbach.",0,0,1,1,4,0.55,3.44
 1982,2021-04-29,571970,641778,walk,ball,7,Max Muncy walks.,3,1,0,5,2,-0.55,1.52
 1983,2021-04-29,571970,642207,field_out,hit_into_play,7,"Max Muncy grounds out, third baseman Travis Shaw to first baseman Daniel Vogelbach.",0,1,2,2,8,-0.65,1.76
-1984,2021-04-29,571970,502202,single,hit_into_play,13,Max Muncy singles on a sharp line drive to center fielder Jackie Bradley Jr.,1,2,2,4,6,-0.01,1.31
-1985,2021-04-29,571970,642207,,called_strike,4,"Max Muncy grounds out, third baseman Travis Shaw to first baseman Daniel Vogelbach.",0,0,2,1,8,-0.6,2.36
-1986,2021-04-29,571970,641778,,called_strike,1,Max Muncy walks.,3,0,0,4,2,-0.72,2.59
+1984,2021-04-29,571970,641778,,called_strike,1,Max Muncy walks.,3,0,0,4,2,-0.72,2.59
+1985,2021-04-29,571970,502202,single,hit_into_play,13,Max Muncy singles on a sharp line drive to center fielder Jackie Bradley Jr.,1,2,2,4,6,-0.01,1.31
+1986,2021-04-29,571970,642207,,called_strike,4,"Max Muncy grounds out, third baseman Travis Shaw to first baseman Daniel Vogelbach.",0,0,2,1,8,-0.6,2.36
 1987,2021-04-29,571970,641778,,ball,3,Max Muncy walks.,2,0,0,3,2,0.61,3.18
 1988,2021-04-29,571970,502202,,ball,11,Max Muncy singles on a sharp line drive to center fielder Jackie Bradley Jr.,0,2,2,3,6,-1.0,3.38
-1989,2021-04-29,571970,502202,,called_strike,6,Max Muncy singles on a sharp line drive to center fielder Jackie Bradley Jr.,0,1,2,2,6,0.78,2.72
-1990,2021-04-29,571970,641778,,ball,13,Max Muncy walks.,1,0,0,2,2,-1.7,1.75
-1991,2021-04-29,571970,502202,,swinging_strike,2,Max Muncy singles on a sharp line drive to center fielder Jackie Bradley Jr.,0,0,2,1,6,-0.04,3.16
-1992,2021-04-29,571970,641778,,ball,13,Max Muncy walks.,0,0,0,1,2,-0.44,1.3
+1989,2021-04-29,571970,641778,,ball,13,Max Muncy walks.,1,0,0,2,2,-1.7,1.75
+1990,2021-04-29,571970,502202,,called_strike,6,Max Muncy singles on a sharp line drive to center fielder Jackie Bradley Jr.,0,1,2,2,6,0.78,2.72
+1991,2021-04-29,571970,641778,,ball,13,Max Muncy walks.,0,0,0,1,2,-0.44,1.3
+1992,2021-04-29,571970,502202,,swinging_strike,2,Max Muncy singles on a sharp line drive to center fielder Jackie Bradley Jr.,0,0,2,1,6,-0.04,3.16
 1993,2021-04-28,571970,543243,field_out,hit_into_play,6,"Max Muncy grounds out, second baseman Kyle Farmer to first baseman Joey Votto.",0,1,1,2,6,0.69,2.33
 1994,2021-04-28,571970,543243,,called_strike,5,"Max Muncy grounds out, second baseman Kyle Farmer to first baseman Joey Votto.",0,0,1,1,6,0.0,2.3
 1995,2021-04-28,571970,543243,strikeout,called_strike,3,Max Muncy called out on strikes.,0,2,2,3,3,0.67,2.92
@@ -2003,8 +2003,8 @@
 2001,2021-04-28,571970,607219,,foul,2,Max Muncy flies out to center fielder Tyler Naquin.,1,1,1,3,8,-0.05,2.85
 2002,2021-04-28,571970,607219,,ball,13,Max Muncy flies out to center fielder Tyler Naquin.,0,1,1,2,8,-0.85,1.62
 2003,2021-04-28,571970,543243,,called_strike,5,"Max Muncy strikes out swinging, catcher Tyler Stephenson to first baseman Joey Votto.",1,1,2,3,1,0.1,2.35
-2004,2021-04-28,571970,543243,,blocked_ball,14,"Max Muncy strikes out swinging, catcher Tyler Stephenson to first baseman Joey Votto.",0,1,2,2,1,1.28,0.23
-2005,2021-04-28,571970,607219,,called_strike,2,Max Muncy flies out to center fielder Tyler Naquin.,0,0,1,1,8,0.1,3.05
+2004,2021-04-28,571970,607219,,called_strike,2,Max Muncy flies out to center fielder Tyler Naquin.,0,0,1,1,8,0.1,3.05
+2005,2021-04-28,571970,543243,,blocked_ball,14,"Max Muncy strikes out swinging, catcher Tyler Stephenson to first baseman Joey Votto.",0,1,2,2,1,1.28,0.23
 2006,2021-04-28,571970,543243,,called_strike,1,"Max Muncy strikes out swinging, catcher Tyler Stephenson to first baseman Joey Votto.",0,0,2,1,1,-0.64,2.98
 2007,2021-04-27,571970,656546,walk,ball,14,Max Muncy walks.   Justin Turner to 2nd.,3,1,0,5,4,1.56,1.55
 2008,2021-04-27,571970,656546,,ball,11,Max Muncy walks.   Justin Turner to 2nd.,2,1,0,4,4,-1.34,3.13
@@ -2064,13 +2064,13 @@
 2062,2021-04-25,571970,605397,walk,ball,14,Max Muncy walks.,3,2,0,6,2,1.89,1.09
 2063,2021-04-25,571970,605397,,swinging_strike,8,Max Muncy walks.,3,1,0,5,2,0.11,2.0
 2064,2021-04-25,571970,489334,,ball,11,Max Muncy walks.,2,1,1,4,5,-0.01,3.3
-2065,2021-04-25,571970,605397,,called_strike,7,Max Muncy walks.,3,0,0,4,2,-0.36,1.99
-2066,2021-04-25,571970,489334,,called_strike,5,Max Muncy walks.,2,0,1,3,5,-0.04,2.53
+2065,2021-04-25,571970,489334,,called_strike,5,Max Muncy walks.,2,0,1,3,5,-0.04,2.53
+2066,2021-04-25,571970,605397,,called_strike,7,Max Muncy walks.,3,0,0,4,2,-0.36,1.99
 2067,2021-04-25,571970,605397,,ball,14,Max Muncy walks.,2,0,0,3,2,1.48,1.54
 2068,2021-04-25,571970,489334,,ball,14,Max Muncy walks.,1,0,1,2,5,0.44,1.08
-2069,2021-04-25,571970,605397,,ball,14,Max Muncy walks.,1,0,0,2,2,1.02,1.73
-2070,2021-04-25,571970,489334,,ball,11,Max Muncy walks.,0,0,1,1,5,-1.09,2.84
-2071,2021-04-25,571970,598286,walk,ball,11,Max Muncy walks.   Corey Seager to 2nd.,3,1,1,5,6,-1.27,2.59
+2069,2021-04-25,571970,598286,walk,ball,11,Max Muncy walks.   Corey Seager to 2nd.,3,1,1,5,6,-1.27,2.59
+2070,2021-04-25,571970,605397,,ball,14,Max Muncy walks.,1,0,0,2,2,1.02,1.73
+2071,2021-04-25,571970,489334,,ball,11,Max Muncy walks.,0,0,1,1,5,-1.09,2.84
 2072,2021-04-25,571970,605397,,ball,14,Max Muncy walks.,0,0,0,1,2,1.7,1.87
 2073,2021-04-25,571970,598286,,called_strike,6,Max Muncy walks.   Corey Seager to 2nd.,3,0,1,4,6,0.72,2.12
 2074,2021-04-25,571970,598286,,ball,13,Max Muncy walks.   Corey Seager to 2nd.,2,0,1,3,6,-0.55,1.36
@@ -2175,8 +2175,8 @@
 2173,2021-04-17,571970,506433,field_out,hit_into_play,9,Max Muncy grounds out to first baseman Jurickson Profar.,0,0,0,1,5,0.57,2.08
 2174,2021-04-17,571970,506433,field_out,hit_into_play,13,"Max Muncy grounds out, third baseman Manny Machado to first baseman Jurickson Profar.",0,2,0,3,2,-1.11,2.3
 2175,2021-04-17,571970,506433,,foul,8,"Max Muncy grounds out, third baseman Manny Machado to first baseman Jurickson Profar.",0,1,0,2,2,0.19,1.82
-2176,2021-04-17,571970,506433,,called_strike,7,"Max Muncy grounds out, third baseman Manny Machado to first baseman Jurickson Profar.",0,0,0,1,2,-0.34,1.51
-2177,2021-04-17,571970,641941,strikeout,swinging_strike,2,Max Muncy strikes out swinging.,3,2,0,6,9,-0.07,2.96
+2176,2021-04-17,571970,641941,strikeout,swinging_strike,2,Max Muncy strikes out swinging.,3,2,0,6,9,-0.07,2.96
+2177,2021-04-17,571970,506433,,called_strike,7,"Max Muncy grounds out, third baseman Manny Machado to first baseman Jurickson Profar.",0,0,0,1,2,-0.34,1.51
 2178,2021-04-17,571970,641941,,swinging_strike,5,Max Muncy strikes out swinging.,3,1,0,5,9,0.25,2.12
 2179,2021-04-17,571970,641941,,called_strike,9,Max Muncy strikes out swinging.,3,0,0,4,9,0.53,1.88
 2180,2021-04-17,571970,641941,,ball,11,Max Muncy strikes out swinging.,2,0,0,3,9,-1.11,2.76
@@ -2193,11 +2193,11 @@
 2191,2021-04-16,571970,677960,,blocked_ball,13,Max Muncy flies out to left fielder Jurickson Profar.,1,1,0,3,2,-1.13,0.93
 2192,2021-04-16,571970,677960,,blocked_ball,13,Max Muncy flies out to left fielder Jurickson Profar.,0,1,0,2,2,-1.18,0.9
 2193,2021-04-16,571970,677960,,called_strike,9,Max Muncy flies out to left fielder Jurickson Profar.,0,0,0,1,2,0.7,1.99
-2194,2021-04-16,571970,605309,force_out,hit_into_play,8,"Max Muncy grounds into a force out, first baseman Eric Hosmer to shortstop Fernando Tatis Jr.  Justin Turner to 3rd.    Will Smith out at 2nd.    Max Muncy to 1st.",0,2,1,3,6,-0.2,1.43
-2195,2021-04-16,571970,453343,field_out,hit_into_play,13,"Max Muncy grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.   Will Smith to 3rd.",0,1,0,2,10,-0.85,1.42
-2196,2021-04-16,571970,657612,single,hit_into_play,4,Max Muncy singles on a line drive to center fielder Trent Grisham.   Justin Turner to 2nd.,0,0,1,1,12,-0.37,2.13
-2197,2021-04-16,571970,453343,,called_strike,13,"Max Muncy grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.   Will Smith to 3rd.",0,0,0,1,10,-0.92,2.35
-2198,2021-04-16,571970,605309,,called_strike,7,"Max Muncy grounds into a force out, first baseman Eric Hosmer to shortstop Fernando Tatis Jr.  Justin Turner to 3rd.    Will Smith out at 2nd.    Max Muncy to 1st.",0,1,1,2,6,-0.79,1.97
+2194,2021-04-16,571970,657612,single,hit_into_play,4,Max Muncy singles on a line drive to center fielder Trent Grisham.   Justin Turner to 2nd.,0,0,1,1,12,-0.37,2.13
+2195,2021-04-16,571970,605309,force_out,hit_into_play,8,"Max Muncy grounds into a force out, first baseman Eric Hosmer to shortstop Fernando Tatis Jr.  Justin Turner to 3rd.    Will Smith out at 2nd.    Max Muncy to 1st.",0,2,1,3,6,-0.2,1.43
+2196,2021-04-16,571970,453343,field_out,hit_into_play,13,"Max Muncy grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.   Will Smith to 3rd.",0,1,0,2,10,-0.85,1.42
+2197,2021-04-16,571970,605309,,called_strike,7,"Max Muncy grounds into a force out, first baseman Eric Hosmer to shortstop Fernando Tatis Jr.  Justin Turner to 3rd.    Will Smith out at 2nd.    Max Muncy to 1st.",0,1,1,2,6,-0.79,1.97
+2198,2021-04-16,571970,453343,,called_strike,13,"Max Muncy grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.   Will Smith to 3rd.",0,0,0,1,10,-0.92,2.35
 2199,2021-04-16,571970,605309,,called_strike,1,"Max Muncy grounds into a force out, first baseman Eric Hosmer to shortstop Fernando Tatis Jr.  Justin Turner to 3rd.    Will Smith out at 2nd.    Max Muncy to 1st.",0,0,1,1,6,-0.46,3.22
 2200,2021-04-16,571970,613534,walk,ball,11,Max Muncy walks.   Will Smith to 2nd.,3,2,0,7,8,-1.64,3.23
 2201,2021-04-16,571970,613534,,ball,14,Max Muncy walks.   Will Smith to 2nd.,2,2,0,6,8,1.01,1.17
@@ -2229,16 +2229,16 @@
 2227,2021-04-14,571970,592351,,foul,4,Max Muncy grounds out softly to pitcher Jon Gray.,0,0,0,1,3,-0.47,2.77
 2228,2021-04-14,571970,592351,field_out,hit_into_play,5,Max Muncy grounds out to first baseman C.  J. Cron.   Corey Seager to 3rd.    Justin Turner to 2nd.,2,1,0,4,1,0.22,2.15
 2229,2021-04-14,571970,592351,,ball,11,Max Muncy grounds out to first baseman C.  J. Cron.   Corey Seager to 3rd.    Justin Turner to 2nd.,1,1,0,3,1,-1.22,2.93
-2230,2021-04-14,571970,592351,,ball,14,Max Muncy grounds out to first baseman C.  J. Cron.   Corey Seager to 3rd.    Justin Turner to 2nd.,0,1,0,2,1,0.4,1.39
+2230,2021-04-14,571970,571710,strikeout,swinging_strike,6,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,3,2,0,6,7,0.67,2.16
 2231,2021-04-14,571970,622075,walk,ball,11,Max Muncy walks.,3,1,2,5,5,-1.89,3.7
-2232,2021-04-14,571970,571710,strikeout,swinging_strike,6,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,3,2,0,6,7,0.67,2.16
-2233,2021-04-14,571970,622075,,ball,14,Max Muncy walks.,2,1,2,4,5,0.74,-0.4
-2234,2021-04-14,571970,592351,,called_strike,2,Max Muncy grounds out to first baseman C.  J. Cron.   Corey Seager to 3rd.    Justin Turner to 2nd.,0,0,0,1,1,0.21,2.77
+2232,2021-04-14,571970,592351,,ball,14,Max Muncy grounds out to first baseman C.  J. Cron.   Corey Seager to 3rd.    Justin Turner to 2nd.,0,1,0,2,1,0.4,1.39
+2233,2021-04-14,571970,592351,,called_strike,2,Max Muncy grounds out to first baseman C.  J. Cron.   Corey Seager to 3rd.    Justin Turner to 2nd.,0,0,0,1,1,0.21,2.77
+2234,2021-04-14,571970,622075,,ball,14,Max Muncy walks.,2,1,2,4,5,0.74,-0.4
 2235,2021-04-14,571970,571710,,foul,9,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,3,1,0,5,7,0.31,1.93
 2236,2021-04-14,571970,622075,,swinging_strike,7,Max Muncy walks.,2,0,2,3,5,-0.62,1.46
 2237,2021-04-14,571970,571710,,ball,1,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,2,1,0,4,7,-0.78,3.3
-2238,2021-04-14,571970,622075,,ball,14,Max Muncy walks.,1,0,2,2,5,1.61,1.39
-2239,2021-04-14,571970,571710,,ball,13,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,1,1,0,3,7,-1.87,2.22
+2238,2021-04-14,571970,571710,,ball,13,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,1,1,0,3,7,-1.87,2.22
+2239,2021-04-14,571970,622075,,ball,14,Max Muncy walks.,1,0,2,2,5,1.61,1.39
 2240,2021-04-14,571970,571710,,ball,13,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,0,1,0,2,7,-1.08,2.23
 2241,2021-04-14,571970,622075,,ball,14,Max Muncy walks.,0,0,2,1,5,0.56,0.69
 2242,2021-04-14,571970,571710,,called_strike,7,Max Muncy strikes out swinging.   Corey Seager to 3rd.    Justin Turner to 2nd.  Passed ball by catcher Dom Nunez.,0,0,0,1,7,-0.72,1.99
@@ -2256,8 +2256,8 @@
 2254,2021-04-13,571970,622608,,ball,11,Max Muncy walks.,2,1,1,4,1,-1.18,2.91
 2255,2021-04-13,571970,622608,,ball,14,Max Muncy walks.,1,1,1,3,1,0.73,0.93
 2256,2021-04-13,571970,622608,,swinging_strike,4,Max Muncy walks.,1,0,1,2,1,-0.56,2.44
-2257,2021-04-13,571970,622608,,ball,11,Max Muncy walks.,0,0,1,1,1,-1.55,2.96
-2258,2021-04-13,571970,596112,home_run,hit_into_play,5,Max Muncy homers (2) on a fly ball to center field.,0,1,1,2,6,0.2,2.51
+2257,2021-04-13,571970,596112,home_run,hit_into_play,5,Max Muncy homers (2) on a fly ball to center field.,0,1,1,2,6,0.2,2.51
+2258,2021-04-13,571970,622608,,ball,11,Max Muncy walks.,0,0,1,1,1,-1.55,2.96
 2259,2021-04-13,571970,596112,,called_strike,8,Max Muncy homers (2) on a fly ball to center field.,0,0,1,1,6,-0.05,1.93
 2260,2021-04-11,571970,453286,strikeout,swinging_strike,14,Max Muncy strikes out swinging.,2,2,1,5,4,1.37,1.77
 2261,2021-04-11,571970,453286,,foul,6,Max Muncy strikes out swinging.,2,1,1,4,4,0.3,2.63
@@ -2380,14 +2380,14 @@
 2378,2021-04-03,571970,592351,,called_strike,4,"Max Muncy grounds out sharply, third baseman Josh Fuentes to first baseman C.  J. Cron.",1,0,2,2,4,-0.48,2.41
 2379,2021-04-03,571970,592351,,ball,11,"Max Muncy grounds out sharply, third baseman Josh Fuentes to first baseman C.  J. Cron.",0,0,2,1,4,-1.25,3.17
 2380,2021-04-03,571970,592351,field_out,hit_into_play,5,Max Muncy grounds out to first baseman C.  J. Cron.,3,2,2,6,1,-0.18,2.23
-2381,2021-04-03,571970,641755,field_error,hit_into_play,5,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,2,1,2,4,7,0.13,2.49
-2382,2021-04-03,571970,592351,,blocked_ball,14,Max Muncy grounds out to first baseman C.  J. Cron.,2,2,2,5,1,2.26,-0.03
-2383,2021-04-03,571970,592351,,ball,12,Max Muncy grounds out to first baseman C.  J. Cron.,1,2,2,4,1,1.11,2.78
-2384,2021-04-03,571970,641755,,blocked_ball,14,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,1,1,2,3,7,1.04,0.05
-2385,2021-04-03,571970,592351,,swinging_strike,8,Max Muncy grounds out to first baseman C.  J. Cron.,1,1,2,3,1,0.23,1.72
-2386,2021-04-03,571970,641755,,ball,11,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,0,1,2,2,7,-0.32,3.44
-2387,2021-04-03,571970,592351,,blocked_ball,14,Max Muncy grounds out to first baseman C.  J. Cron.,0,1,2,2,1,0.33,-0.22
-2388,2021-04-03,571970,641755,,swinging_strike,5,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,0,0,2,1,7,-0.02,2.49
+2381,2021-04-03,571970,592351,,blocked_ball,14,Max Muncy grounds out to first baseman C.  J. Cron.,2,2,2,5,1,2.26,-0.03
+2382,2021-04-03,571970,641755,field_error,hit_into_play,5,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,2,1,2,4,7,0.13,2.49
+2383,2021-04-03,571970,641755,,blocked_ball,14,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,1,1,2,3,7,1.04,0.05
+2384,2021-04-03,571970,592351,,ball,12,Max Muncy grounds out to first baseman C.  J. Cron.,1,2,2,4,1,1.11,2.78
+2385,2021-04-03,571970,641755,,ball,11,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,0,1,2,2,7,-0.32,3.44
+2386,2021-04-03,571970,592351,,swinging_strike,8,Max Muncy grounds out to first baseman C.  J. Cron.,1,1,2,3,1,0.23,1.72
+2387,2021-04-03,571970,641755,,swinging_strike,5,Max Muncy reaches on a fielding error by first baseman C.  J. Cron.   Corey Seager to 2nd.,0,0,2,1,7,-0.02,2.49
+2388,2021-04-03,571970,592351,,blocked_ball,14,Max Muncy grounds out to first baseman C.  J. Cron.,0,1,2,2,1,0.33,-0.22
 2389,2021-04-03,571970,592351,,called_strike,14,Max Muncy grounds out to first baseman C.  J. Cron.,0,0,2,1,1,0.84,1.54
 2390,2021-04-03,571970,622075,single,hit_into_play,3,Max Muncy singles on a ground ball to third baseman Josh Fuentes.   Corey Seager scores.,1,2,2,4,6,0.76,2.92
 2391,2021-04-03,571970,622075,,swinging_strike,13,Max Muncy singles on a ground ball to third baseman Josh Fuentes.   Corey Seager scores.,1,1,2,3,6,-0.88,1.31
@@ -2399,16 +2399,16 @@
 2397,2021-04-02,571970,622608,,called_strike,13,"Max Muncy grounds out sharply, third baseman Josh Fuentes to first baseman C.  J. Cron.",1,0,0,2,3,-0.15,1.33
 2398,2021-04-02,571970,622608,,ball,14,"Max Muncy grounds out sharply, third baseman Josh Fuentes to first baseman C.  J. Cron.",0,0,0,1,3,1.06,0.44
 2399,2021-04-02,571970,641386,field_out,hit_into_play,7,Max Muncy flies out to center fielder Sam Hilliard.,1,1,2,3,6,-0.53,2.1
-2400,2021-04-02,571970,641386,,called_strike,3,Max Muncy flies out to center fielder Sam Hilliard.,1,0,2,2,6,0.36,2.95
-2401,2021-04-02,571970,622608,single,hit_into_play,6,Max Muncy singles on a line drive to center fielder Chris Owings.   Corey Seager scores.    Justin Turner to 3rd.,0,0,2,1,1,0.33,2.48
+2400,2021-04-02,571970,622608,single,hit_into_play,6,Max Muncy singles on a line drive to center fielder Chris Owings.   Corey Seager scores.    Justin Turner to 3rd.,0,0,2,1,1,0.33,2.48
+2401,2021-04-02,571970,641386,,called_strike,3,Max Muncy flies out to center fielder Sam Hilliard.,1,0,2,2,6,0.36,2.95
 2402,2021-04-02,571970,641386,,ball,12,Max Muncy flies out to center fielder Sam Hilliard.,0,0,2,1,6,0.09,3.83
 2403,2021-04-02,571970,608032,walk,ball,11,Max Muncy walks.,3,1,0,5,8,-1.15,3.29
 2404,2021-04-02,571970,608032,,ball,14,Max Muncy walks.,2,1,0,4,8,0.98,1.83
 2405,2021-04-02,571970,608032,,swinging_strike,9,Max Muncy walks.,2,0,0,3,8,0.29,1.64
-2406,2021-04-02,571970,468504,field_out,hit_into_play,6,Max Muncy flies out to left fielder Raimel Tapia.,2,2,2,5,4,0.28,2.79
-2407,2021-04-02,571970,608032,,ball,14,Max Muncy walks.,1,0,0,2,8,1.87,1.41
-2408,2021-04-02,571970,468504,,foul,9,Max Muncy flies out to left fielder Raimel Tapia.,2,1,2,4,4,0.32,1.92
-2409,2021-04-02,571970,608032,,ball,12,Max Muncy walks.,0,0,0,1,8,1.05,3.15
+2406,2021-04-02,571970,608032,,ball,14,Max Muncy walks.,1,0,0,2,8,1.87,1.41
+2407,2021-04-02,571970,468504,field_out,hit_into_play,6,Max Muncy flies out to left fielder Raimel Tapia.,2,2,2,5,4,0.28,2.79
+2408,2021-04-02,571970,608032,,ball,12,Max Muncy walks.,0,0,0,1,8,1.05,3.15
+2409,2021-04-02,571970,468504,,foul,9,Max Muncy flies out to left fielder Raimel Tapia.,2,1,2,4,4,0.32,1.92
 2410,2021-04-02,571970,468504,,ball,14,Max Muncy flies out to left fielder Raimel Tapia.,1,1,2,3,4,1.14,1.12
 2411,2021-04-02,571970,468504,,called_strike,2,Max Muncy flies out to left fielder Raimel Tapia.,1,0,2,2,4,-0.2,3.27
 2412,2021-04-02,571970,468504,,ball,13,Max Muncy flies out to left fielder Raimel Tapia.,0,0,2,1,4,-1.36,2.39

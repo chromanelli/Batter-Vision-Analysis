@@ -188,14 +188,14 @@
 186,2021-09-11,621006,548389,,foul,2,Richie Martin strikes out swinging.,0,2,2,3,3,-0.24,2.87
 187,2021-09-11,621006,548389,,foul,6,Richie Martin strikes out swinging.,0,1,2,2,3,0.42,2.3
 188,2021-09-11,621006,548389,,swinging_strike,7,Richie Martin strikes out swinging.,0,0,2,1,3,-0.41,2.05
-189,2021-09-11,621006,621593,double,hit_into_play,1,Richie Martin doubles (2) on a sharp line drive to center fielder Jarrod Dyson.,2,1,0,4,7,-0.67,3.15
-190,2021-09-11,621006,663878,field_out,hit_into_play,5,Richie Martin lines out to right fielder Teoscar Hernandez.,1,2,0,4,5,0.23,2.6
+189,2021-09-11,621006,663878,field_out,hit_into_play,5,Richie Martin lines out to right fielder Teoscar Hernandez.,1,2,0,4,5,0.23,2.6
+190,2021-09-11,621006,621593,double,hit_into_play,1,Richie Martin doubles (2) on a sharp line drive to center fielder Jarrod Dyson.,2,1,0,4,7,-0.67,3.15
 191,2021-09-11,621006,621593,,ball,11,Richie Martin doubles (2) on a sharp line drive to center fielder Jarrod Dyson.,1,1,0,3,7,-2.58,2.65
 192,2021-09-11,621006,663878,,called_strike,5,Richie Martin lines out to right fielder Teoscar Hernandez.,1,1,0,3,5,-0.05,2.71
-193,2021-09-11,621006,663878,,foul,2,Richie Martin lines out to right fielder Teoscar Hernandez.,1,0,0,2,5,-0.17,3.12
-194,2021-09-11,621006,621593,,called_strike,13,Richie Martin doubles (2) on a sharp line drive to center fielder Jarrod Dyson.,1,0,0,2,7,-0.97,2.22
-195,2021-09-11,621006,663878,,ball,11,Richie Martin lines out to right fielder Teoscar Hernandez.,0,0,0,1,5,-1.41,3.52
-196,2021-09-11,621006,621593,,ball,12,Richie Martin doubles (2) on a sharp line drive to center fielder Jarrod Dyson.,0,0,0,1,7,1.18,2.71
+193,2021-09-11,621006,621593,,called_strike,13,Richie Martin doubles (2) on a sharp line drive to center fielder Jarrod Dyson.,1,0,0,2,7,-0.97,2.22
+194,2021-09-11,621006,663878,,foul,2,Richie Martin lines out to right fielder Teoscar Hernandez.,1,0,0,2,5,-0.17,3.12
+195,2021-09-11,621006,621593,,ball,12,Richie Martin doubles (2) on a sharp line drive to center fielder Jarrod Dyson.,0,0,0,1,7,1.18,2.71
+196,2021-09-11,621006,663878,,ball,11,Richie Martin lines out to right fielder Teoscar Hernandez.,0,0,0,1,5,-1.41,3.52
 197,2021-09-10,621006,592662,single,hit_into_play,9,Richie Martin singles on a line drive to right fielder Teoscar Hernandez.,1,2,1,6,4,0.8,2.06
 198,2021-09-10,621006,592662,,foul,9,Richie Martin singles on a line drive to right fielder Teoscar Hernandez.,1,2,1,5,4,0.68,1.98
 199,2021-09-10,621006,592662,,ball,13,Richie Martin singles on a line drive to right fielder Teoscar Hernandez.,0,2,1,4,4,-1.43,-0.54
@@ -208,8 +208,8 @@
 206,2021-09-10,621006,592662,,ball,12,Richie Martin strikes out swinging.,0,1,0,2,2,0.33,4.27
 207,2021-09-10,621006,592662,,swinging_strike,2,Richie Martin strikes out swinging.,0,0,0,1,2,0.03,3.36
 208,2021-09-10,621006,643256,field_out,hit_into_play,7,"Richie Martin grounds out, third baseman Jake Lamb to first baseman Vladimir Guerrero.",0,1,2,2,6,-0.5,1.64
-209,2021-09-10,621006,643256,,swinging_strike,13,"Richie Martin grounds out, third baseman Jake Lamb to first baseman Vladimir Guerrero.",0,0,2,1,6,-1.17,1.97
-210,2021-09-10,621006,642048,field_out,hit_into_play,6,"Richie Martin grounds out, third baseman Jake Lamb to first baseman Vladimir Guerrero.",0,0,0,1,8,0.55,2.47
+209,2021-09-10,621006,642048,field_out,hit_into_play,6,"Richie Martin grounds out, third baseman Jake Lamb to first baseman Vladimir Guerrero.",0,0,0,1,8,0.55,2.47
+210,2021-09-10,621006,643256,,swinging_strike,13,"Richie Martin grounds out, third baseman Jake Lamb to first baseman Vladimir Guerrero.",0,0,2,1,6,-1.17,1.97
 211,2021-08-22,621006,657053,single,hit_into_play,5,Richie Martin singles on a sharp ground ball to left fielder Adam Duvall.,0,1,0,2,5,-0.13,2.12
 212,2021-08-22,621006,657053,,called_strike,6,Richie Martin singles on a sharp ground ball to left fielder Adam Duvall.,0,0,0,1,5,0.66,2.65
 213,2021-08-22,621006,657053,strikeout,swinging_strike,7,Richie Martin strikes out swinging.,1,2,1,4,3,-0.3,2.09

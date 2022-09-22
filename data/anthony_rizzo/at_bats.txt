@@ -9,5 +9,6 @@ VISION REPORT: anthony_rizzo (2021-04-01 thru 2021-10-04)
      anthony_rizzo saw 1092 strikes and 1138 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3668
+VISION SCORE METRIC B (VSA - SO%): 0.2158
 Average PA Length: 3.8351 (2209/576)
 Batting Avg: 0.248

@@ -9,5 +9,6 @@ VISION REPORT: aaron_judge (2021-04-01 thru 2021-10-04)
      aaron_judge saw 1172 strikes and 1482 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4288
+VISION SCORE METRIC B (VSA - SO%): 0.1792
 Average PA Length: 4.1896 (2652/633)
 Batting Avg: 0.287

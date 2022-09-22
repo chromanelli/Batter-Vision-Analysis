@@ -9,5 +9,6 @@ VISION REPORT: ian_happ (2021-04-01 thru 2021-10-04)
      ian_happ saw 1099 strikes and 1151 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4329
+VISION SCORE METRIC B (VSA - SO%): 0.1413
 Average PA Length: 4.1757 (2234/535)
 Batting Avg: 0.226

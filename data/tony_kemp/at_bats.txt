@@ -9,5 +9,6 @@ VISION REPORT: tony_kemp (2021-04-01 thru 2021-10-04)
      tony_kemp saw 757 strikes and 754 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4110
+VISION SCORE METRIC B (VSA - SO%): 0.2825
 Average PA Length: 3.7834 (1502/397)
 Batting Avg: 0.279

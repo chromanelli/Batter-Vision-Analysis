@@ -12,15 +12,15 @@
 10,2021-10-03,664702,456713,,called_strike,1.0,Myles Straw flies out to right fielder Adolis Garcia.,0,0,1,1,6,-0.47,3.06
 11,2021-10-03,664702,592314,,foul,12.0,"Indians challenged (play at 1st), call on the field was upheld: Myles Straw grounds out, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",2,2,1,5,4,0.88,2.55
 12,2021-10-03,664702,592314,,ball,14.0,"Indians challenged (play at 1st), call on the field was upheld: Myles Straw grounds out, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,2,1,4,4,3.56,-0.16
-13,2021-10-03,664702,623454,field_out,hit_into_play,2.0,"Myles Straw grounds out, pitcher Drew Anderson to first baseman Nathaniel Lowe.",1,2,0,4,9,0.2,2.74
-14,2021-10-03,664702,592314,,called_strike,1.0,"Indians challenged (play at 1st), call on the field was upheld: Myles Straw grounds out, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,1,1,3,4,-0.59,3.04
+13,2021-10-03,664702,592314,,called_strike,1.0,"Indians challenged (play at 1st), call on the field was upheld: Myles Straw grounds out, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,1,1,3,4,-0.59,3.04
+14,2021-10-03,664702,623454,field_out,hit_into_play,2.0,"Myles Straw grounds out, pitcher Drew Anderson to first baseman Nathaniel Lowe.",1,2,0,4,9,0.2,2.74
 15,2021-10-03,664702,623454,,ball,14.0,"Myles Straw grounds out, pitcher Drew Anderson to first baseman Nathaniel Lowe.",0,2,0,3,9,0.86,-0.65
 16,2021-10-03,664702,592314,,called_strike,7.0,"Indians challenged (play at 1st), call on the field was upheld: Myles Straw grounds out, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,0,1,2,4,-0.51,1.89
 17,2021-10-03,664702,641540,single,hit_into_play,4.0,Myles Straw singles on a line drive to right fielder Adolis Garcia.,1,0,0,2,1,-0.32,2.35
-18,2021-10-03,664702,623454,,called_strike,9.0,"Myles Straw grounds out, pitcher Drew Anderson to first baseman Nathaniel Lowe.",0,1,0,2,9,0.36,1.89
-19,2021-10-03,664702,592314,,ball,3.0,"Indians challenged (play at 1st), call on the field was upheld: Myles Straw grounds out, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",0,0,1,1,4,0.65,3.58
-20,2021-10-03,664702,641540,,ball,14.0,Myles Straw singles on a line drive to right fielder Adolis Garcia.,0,0,0,1,1,0.75,1.09
-21,2021-10-03,664702,623454,,called_strike,14.0,"Myles Straw grounds out, pitcher Drew Anderson to first baseman Nathaniel Lowe.",0,0,0,1,9,0.89,2.24
+18,2021-10-03,664702,592314,,ball,3.0,"Indians challenged (play at 1st), call on the field was upheld: Myles Straw grounds out, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",0,0,1,1,4,0.65,3.58
+19,2021-10-03,664702,623454,,called_strike,9.0,"Myles Straw grounds out, pitcher Drew Anderson to first baseman Nathaniel Lowe.",0,1,0,2,9,0.36,1.89
+20,2021-10-03,664702,623454,,called_strike,14.0,"Myles Straw grounds out, pitcher Drew Anderson to first baseman Nathaniel Lowe.",0,0,0,1,9,0.89,2.24
+21,2021-10-03,664702,641540,,ball,14.0,Myles Straw singles on a line drive to right fielder Adolis Garcia.,0,0,0,1,1,0.75,1.09
 22,2021-10-02,664702,543475,field_out,hit_into_play,14.0,"Myles Straw grounds out, second baseman Yonny Hernandez to first baseman Andy Ibanez.",1,2,1,4,6,1.26,1.72
 23,2021-10-02,664702,543475,,ball,14.0,"Myles Straw grounds out, second baseman Yonny Hernandez to first baseman Andy Ibanez.",0,2,1,3,6,1.39,0.57
 24,2021-10-02,664702,543475,,called_strike,8.0,"Myles Straw grounds out, second baseman Yonny Hernandez to first baseman Andy Ibanez.",0,1,1,2,6,-0.06,1.95
@@ -66,8 +66,8 @@
 64,2021-09-30,664702,676604,single,hit_into_play,5.0,Myles Straw singles on a ground ball to left fielder Andrew Benintendi.,1,2,1,4,7,-0.17,2.42
 65,2021-09-30,664702,676604,,foul,4.0,Myles Straw singles on a ground ball to left fielder Andrew Benintendi.,1,1,1,3,7,-0.56,2.07
 66,2021-09-30,664702,676604,,called_strike,12.0,Myles Straw singles on a ground ball to left fielder Andrew Benintendi.,1,0,1,2,7,1.01,3.01
-67,2021-09-30,664702,676604,,ball,14.0,Myles Straw singles on a ground ball to left fielder Andrew Benintendi.,0,0,1,1,7,1.16,2.42
-68,2021-09-30,664702,672582,field_out,hit_into_play,5.0,"Myles Straw grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",2,2,0,5,1,0.08,2.21
+67,2021-09-30,664702,672582,field_out,hit_into_play,5.0,"Myles Straw grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",2,2,0,5,1,0.08,2.21
+68,2021-09-30,664702,676604,,ball,14.0,Myles Straw singles on a ground ball to left fielder Andrew Benintendi.,0,0,1,1,7,1.16,2.42
 69,2021-09-30,664702,672582,,ball,14.0,"Myles Straw grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",1,2,0,4,1,0.39,0.94
 70,2021-09-30,664702,672582,,called_strike,1.0,"Myles Straw grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",1,1,0,3,1,-0.46,3.16
 71,2021-09-30,664702,672582,,called_strike,7.0,"Myles Straw grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",1,0,0,2,1,-0.32,2.07
@@ -78,8 +78,8 @@
 76,2021-09-29,664702,663738,,called_strike,8.0,Myles Straw lines out to second baseman Whit Merrifield.,1,0,0,2,3,-0.19,1.83
 77,2021-09-29,664702,663738,,ball,13.0,Myles Straw lines out to second baseman Whit Merrifield.,0,0,0,1,3,-0.29,1.09
 78,2021-09-29,664702,518813,field_out,hit_into_play,3.0,Myles Straw flies out to right fielder Kyle Isbel.,1,1,1,3,6,0.32,3.24
-79,2021-09-29,664702,518813,,ball,14.0,Myles Straw flies out to right fielder Kyle Isbel.,0,1,1,2,6,0.81,-0.22
-80,2021-09-29,664702,606303,force_out,hit_into_play,5.0,"Myles Straw grounds into a force out, third baseman Hanser Alberto to second baseman Whit Merrifield.   Owen Miller scores.    Austin Hedges out at 2nd.    Myles Straw to 1st.",0,0,1,1,4,0.17,2.07
+79,2021-09-29,664702,606303,force_out,hit_into_play,5.0,"Myles Straw grounds into a force out, third baseman Hanser Alberto to second baseman Whit Merrifield.   Owen Miller scores.    Austin Hedges out at 2nd.    Myles Straw to 1st.",0,0,1,1,4,0.17,2.07
+80,2021-09-29,664702,518813,,ball,14.0,Myles Straw flies out to right fielder Kyle Isbel.,0,1,1,2,6,0.81,-0.22
 81,2021-09-29,664702,518813,,called_strike,7.0,Myles Straw flies out to right fielder Kyle Isbel.,0,0,1,1,6,-0.66,1.87
 82,2021-09-29,664702,663738,single,hit_into_play,2.0,Myles Straw singles on a line drive to right fielder Kyle Isbel.,2,1,0,4,1,0.27,2.77
 83,2021-09-29,664702,605130,field_out,hit_into_play,2.0,Myles Straw flies out to right fielder Kyle Isbel.,0,0,0,1,9,-0.21,2.82
@@ -98,8 +98,8 @@
 96,2021-09-28,664702,622251,,ball,14.0,"Myles Straw grounds out, pitcher Josh Staumont to first baseman Carlos Santana.",2,2,0,5,9,0.97,0.73
 97,2021-09-28,664702,622251,,called_strike,14.0,"Myles Straw grounds out, pitcher Josh Staumont to first baseman Carlos Santana.",2,1,0,4,9,0.84,2.42
 98,2021-09-28,664702,622251,,ball,8.0,"Myles Straw grounds out, pitcher Josh Staumont to first baseman Carlos Santana.",1,1,0,3,9,-0.07,1.4
-99,2021-09-28,664702,622251,,foul,4.0,"Myles Straw grounds out, pitcher Josh Staumont to first baseman Carlos Santana.",1,0,0,2,9,-0.51,2.64
-100,2021-09-28,664702,663903,double,hit_into_play,6.0,Myles Straw doubles (28) on a line drive to right fielder Kyle Isbel.,2,2,0,5,1,0.62,2.7
+99,2021-09-28,664702,663903,double,hit_into_play,6.0,Myles Straw doubles (28) on a line drive to right fielder Kyle Isbel.,2,2,0,5,1,0.62,2.7
+100,2021-09-28,664702,622251,,foul,4.0,"Myles Straw grounds out, pitcher Josh Staumont to first baseman Carlos Santana.",1,0,0,2,9,-0.51,2.64
 101,2021-09-28,664702,663903,,swinging_strike,14.0,Myles Straw doubles (28) on a line drive to right fielder Kyle Isbel.,2,1,0,4,1,0.99,1.03
 102,2021-09-28,664702,622251,,ball,12.0,"Myles Straw grounds out, pitcher Josh Staumont to first baseman Carlos Santana.",0,0,0,1,9,0.81,3.74
 103,2021-09-28,664702,663903,,ball,14.0,Myles Straw doubles (28) on a line drive to right fielder Kyle Isbel.,1,1,0,3,1,1.04,1.71
@@ -117,8 +117,8 @@
 115,2021-09-27,664702,622092,,ball,14.0,"Myles Straw grounds out, third baseman Adalberto Mondesi to first baseman Carlos Santana.",0,0,1,1,8,0.44,0.75
 116,2021-09-27,664702,606303,fielders_choice,hit_into_play,6.0,"Myles Straw reaches on a fielder's choice.   Bradley Zimmer to 2nd.  Bradley Zimmer advances to 2nd, on a fielding error by second baseman Whit Merrifield.",0,1,2,2,6,0.63,2.22
 117,2021-09-27,664702,663804,double,hit_into_play,5.0,Myles Straw doubles (27) on a line drive to right fielder Hunter Dozier.,1,0,0,2,1,0.26,2.28
-118,2021-09-27,664702,606303,,called_strike,9.0,"Myles Straw reaches on a fielder's choice.   Bradley Zimmer to 2nd.  Bradley Zimmer advances to 2nd, on a fielding error by second baseman Whit Merrifield.",0,0,2,1,6,0.66,2.06
-119,2021-09-27,664702,663804,,ball,14.0,Myles Straw doubles (27) on a line drive to right fielder Hunter Dozier.,0,0,0,1,1,1.17,0.73
+118,2021-09-27,664702,663804,,ball,14.0,Myles Straw doubles (27) on a line drive to right fielder Hunter Dozier.,0,0,0,1,1,1.17,0.73
+119,2021-09-27,664702,606303,,called_strike,9.0,"Myles Straw reaches on a fielder's choice.   Bradley Zimmer to 2nd.  Bradley Zimmer advances to 2nd, on a fielding error by second baseman Whit Merrifield.",0,0,2,1,6,0.66,2.06
 120,2021-09-26,664702,608337,field_error,hit_into_play,2.0,Myles Straw reaches on a fielding error by second baseman Leury Garcia.,2,1,2,4,5,0.19,3.0
 121,2021-09-26,664702,608337,,called_strike,1.0,Myles Straw reaches on a fielding error by second baseman Leury Garcia.,2,0,2,3,5,-0.5,2.8
 122,2021-09-26,664702,608337,,ball,11.0,Myles Straw reaches on a fielding error by second baseman Leury Garcia.,1,0,2,2,5,-0.95,3.33
@@ -133,10 +133,10 @@
 131,2021-09-26,664702,521230,,foul,4.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.,2,2,2,5,9,-0.32,2.64
 132,2021-09-26,664702,521230,,ball,14.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.,1,2,2,4,9,1.41,0.5
 133,2021-09-26,664702,521230,,ball,14.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.,0,2,2,3,9,1.14,0.84
-134,2021-09-26,664702,521230,,called_strike,6.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.,0,1,2,2,9,0.44,2.27
-135,2021-09-26,664702,656629,single,hit_into_play,5.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.   Roberto Perez scores.    Oscar Mercado to 3rd.,3,2,0,6,7,-0.14,2.7
-136,2021-09-26,664702,521230,,foul,2.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.,0,0,2,1,9,-0.2,2.89
-137,2021-09-26,664702,656629,,ball,11.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.   Roberto Perez scores.    Oscar Mercado to 3rd.,2,2,0,5,7,-1.07,3.77
+134,2021-09-26,664702,656629,single,hit_into_play,5.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.   Roberto Perez scores.    Oscar Mercado to 3rd.,3,2,0,6,7,-0.14,2.7
+135,2021-09-26,664702,521230,,called_strike,6.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.,0,1,2,2,9,0.44,2.27
+136,2021-09-26,664702,656629,,ball,11.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.   Roberto Perez scores.    Oscar Mercado to 3rd.,2,2,0,5,7,-1.07,3.77
+137,2021-09-26,664702,521230,,foul,2.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.,0,0,2,1,9,-0.2,2.89
 138,2021-09-26,664702,656629,,called_strike,3.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.   Roberto Perez scores.    Oscar Mercado to 3rd.,2,1,0,4,7,0.73,2.87
 139,2021-09-26,664702,656629,,ball,14.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.   Roberto Perez scores.    Oscar Mercado to 3rd.,1,1,0,3,7,0.73,1.42
 140,2021-09-26,664702,656629,,ball,14.0,Myles Straw singles on a line drive to right fielder Andrew Vaughn.   Roberto Perez scores.    Oscar Mercado to 3rd.,0,1,0,2,7,0.7,0.9
@@ -169,30 +169,30 @@
 167,2021-09-23,664702,625643,,foul,1.0,Myles Straw lines out to right fielder Leury Garcia.,0,0,1,1,3,-0.32,2.77
 168,2021-09-23,664702,521230,strikeout,foul_tip,2.0,Myles Straw strikes out on a foul tip.,1,2,2,4,7,-0.21,3.15
 169,2021-09-23,664702,521230,,ball,11.0,Myles Straw strikes out on a foul tip.,0,2,2,3,7,-0.12,4.45
-170,2021-09-23,664702,521230,,foul,4.0,Myles Straw strikes out on a foul tip.,0,1,2,2,7,-0.32,2.43
-171,2021-09-23,664702,605541,strikeout,called_strike,9.0,Myles Straw called out on strikes.,1,2,1,4,3,0.4,1.64
-172,2021-09-23,664702,521230,,called_strike,7.0,Myles Straw strikes out on a foul tip.,0,0,2,1,7,-0.68,1.47
-173,2021-09-23,664702,605541,,ball,14.0,Myles Straw called out on strikes.,0,2,1,3,3,1.57,1.66
+170,2021-09-23,664702,605541,strikeout,called_strike,9.0,Myles Straw called out on strikes.,1,2,1,4,3,0.4,1.64
+171,2021-09-23,664702,521230,,foul,4.0,Myles Straw strikes out on a foul tip.,0,1,2,2,7,-0.32,2.43
+172,2021-09-23,664702,605541,,ball,14.0,Myles Straw called out on strikes.,0,2,1,3,3,1.57,1.66
+173,2021-09-23,664702,521230,,called_strike,7.0,Myles Straw strikes out on a foul tip.,0,0,2,1,7,-0.68,1.47
 174,2021-09-23,664702,605541,,foul,13.0,Myles Straw called out on strikes.,0,1,1,2,3,-0.84,1.85
 175,2021-09-23,664702,605541,,called_strike,9.0,Myles Straw called out on strikes.,0,0,1,1,3,0.39,2.03
 176,2021-09-23,664702,614179,single,hit_into_play,5.0,Myles Straw singles on a line drive to center fielder Billy Hamilton.,1,1,0,3,7,-0.2,2.5
 177,2021-09-23,664702,614179,,ball,11.0,Myles Straw singles on a line drive to center fielder Billy Hamilton.,0,1,0,2,7,-1.08,3.34
-178,2021-09-23,664702,614179,,foul,2.0,Myles Straw singles on a line drive to center fielder Billy Hamilton.,0,0,0,1,7,0.04,3.36
-179,2021-09-23,664702,607481,field_out,hit_into_play,8.0,"Myles Straw grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",2,2,2,5,5,0.02,1.77
+178,2021-09-23,664702,607481,field_out,hit_into_play,8.0,"Myles Straw grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",2,2,2,5,5,0.02,1.77
+179,2021-09-23,664702,614179,,foul,2.0,Myles Straw singles on a line drive to center fielder Billy Hamilton.,0,0,0,1,7,0.04,3.36
 180,2021-09-23,664702,607481,,ball,14.0,"Myles Straw grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",1,2,2,4,5,1.41,0.72
 181,2021-09-23,664702,607481,,ball,14.0,"Myles Straw grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",0,2,2,3,5,0.63,0.54
 182,2021-09-23,664702,607481,,called_strike,5.0,"Myles Straw grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",0,1,2,2,5,-0.13,2.27
 183,2021-09-23,664702,607481,,called_strike,8.0,"Myles Straw grounds out, shortstop Tim Anderson to first baseman Jose Abreu.",0,0,2,1,5,0.03,1.49
 184,2021-09-23,664702,625643,strikeout,swinging_strike,14.0,Myles Straw strikes out swinging.,2,2,0,6,1,1.57,2.04
 185,2021-09-23,664702,641582,double_play,hit_into_play,8.0,"Myles Straw lines into an unassisted double play, first baseman Gavin Sheets.   Ernie Clement out at 1st.",0,0,0,1,5,-0.11,1.89
-186,2021-09-23,664702,656629,strikeout,swinging_strike,9.0,Myles Straw strikes out swinging.,2,2,0,5,1,0.45,1.93
-187,2021-09-23,664702,625643,,foul,1.0,Myles Straw strikes out swinging.,2,2,0,5,1,-0.43,2.83
-188,2021-09-23,664702,656629,,ball,14.0,Myles Straw strikes out swinging.,1,2,0,4,1,0.5,0.52
-189,2021-09-23,664702,625643,,ball,14.0,Myles Straw strikes out swinging.,1,2,0,4,1,0.98,1.56
-190,2021-09-23,664702,625643,,ball,14.0,Myles Straw strikes out swinging.,0,2,0,3,1,2.27,-0.29
-191,2021-09-23,664702,656629,,foul,1.0,Myles Straw strikes out swinging.,1,1,0,3,1,-0.28,2.83
-192,2021-09-23,664702,656629,,ball,14.0,Myles Straw strikes out swinging.,0,1,0,2,1,0.4,1.26
-193,2021-09-23,664702,625643,,called_strike,9.0,Myles Straw strikes out swinging.,0,1,0,2,1,0.82,2.05
+186,2021-09-23,664702,625643,,foul,1.0,Myles Straw strikes out swinging.,2,2,0,5,1,-0.43,2.83
+187,2021-09-23,664702,656629,strikeout,swinging_strike,9.0,Myles Straw strikes out swinging.,2,2,0,5,1,0.45,1.93
+188,2021-09-23,664702,625643,,ball,14.0,Myles Straw strikes out swinging.,1,2,0,4,1,0.98,1.56
+189,2021-09-23,664702,656629,,ball,14.0,Myles Straw strikes out swinging.,1,2,0,4,1,0.5,0.52
+190,2021-09-23,664702,656629,,foul,1.0,Myles Straw strikes out swinging.,1,1,0,3,1,-0.28,2.83
+191,2021-09-23,664702,625643,,ball,14.0,Myles Straw strikes out swinging.,0,2,0,3,1,2.27,-0.29
+192,2021-09-23,664702,625643,,called_strike,9.0,Myles Straw strikes out swinging.,0,1,0,2,1,0.82,2.05
+193,2021-09-23,664702,656629,,ball,14.0,Myles Straw strikes out swinging.,0,1,0,2,1,0.4,1.26
 194,2021-09-23,664702,656629,,foul,1.0,Myles Straw strikes out swinging.,0,0,0,1,1,-0.47,2.87
 195,2021-09-23,664702,625643,,called_strike,8.0,Myles Straw strikes out swinging.,0,0,0,1,1,-0.17,1.87
 196,2021-09-21,664702,663738,field_out,hit_into_play,1.0,Myles Straw flies out to right fielder Kyle Isbel.,0,1,1,2,5,-0.63,3.23
@@ -226,15 +226,15 @@
 224,2021-09-20,664702,593619,,swinging_strike,8.0,Myles Straw called out on strikes.,1,1,2,3,3,-0.19,1.91
 225,2021-09-20,664702,593619,,swinging_strike,13.0,Myles Straw called out on strikes.,1,0,2,2,3,-1.15,2.1
 226,2021-09-20,664702,593619,,ball,14.0,Myles Straw called out on strikes.,0,0,2,1,3,0.92,0.74
-227,2021-09-20,664702,622251,field_out,hit_into_play,5.0,Myles Straw flies out to center fielder Kyle Isbel.,0,1,1,2,6,0.11,2.38
-228,2021-09-20,664702,606303,field_out,hit_into_play,5.0,Myles Straw lines out to right fielder Hunter Dozier.,2,1,0,4,1,0.27,2.36
+227,2021-09-20,664702,606303,field_out,hit_into_play,5.0,Myles Straw lines out to right fielder Hunter Dozier.,2,1,0,4,1,0.27,2.36
+228,2021-09-20,664702,622251,field_out,hit_into_play,5.0,Myles Straw flies out to center fielder Kyle Isbel.,0,1,1,2,6,0.11,2.38
 229,2021-09-20,664702,663903,single,hit_into_play,8.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,1,1,0,3,1,0.17,2.05
-230,2021-09-20,664702,606303,,ball,14.0,Myles Straw lines out to right fielder Hunter Dozier.,1,1,0,3,1,2.84,1.33
-231,2021-09-20,664702,622251,,called_strike,6.0,Myles Straw flies out to center fielder Kyle Isbel.,0,0,1,1,6,0.44,2.7
+230,2021-09-20,664702,622251,,called_strike,6.0,Myles Straw flies out to center fielder Kyle Isbel.,0,0,1,1,6,0.44,2.7
+231,2021-09-20,664702,606303,,ball,14.0,Myles Straw lines out to right fielder Hunter Dozier.,1,1,0,3,1,2.84,1.33
 232,2021-09-20,664702,606303,,ball,14.0,Myles Straw lines out to right fielder Hunter Dozier.,0,1,0,2,1,1.57,1.03
 233,2021-09-20,664702,663903,,called_strike,14.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,1,0,0,2,1,0.02,1.52
-234,2021-09-20,664702,663903,,ball,14.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,0,0,0,1,1,0.95,1.81
-235,2021-09-20,664702,606303,,called_strike,5.0,Myles Straw lines out to right fielder Hunter Dozier.,0,0,0,1,1,0.09,2.77
+234,2021-09-20,664702,606303,,called_strike,5.0,Myles Straw lines out to right fielder Hunter Dozier.,0,0,0,1,1,0.09,2.77
+235,2021-09-20,664702,663903,,ball,14.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,0,0,0,1,1,0.95,1.81
 236,2021-09-19,664702,543037,single,hit_into_play,14.0,Myles Straw singles on a line drive to center fielder Aaron Judge.,1,2,1,4,5,0.94,2.21
 237,2021-09-19,664702,543037,,foul,11.0,Myles Straw singles on a line drive to center fielder Aaron Judge.,1,1,1,3,5,-0.36,3.59
 238,2021-09-19,664702,543037,,ball,14.0,Myles Straw singles on a line drive to center fielder Aaron Judge.,0,1,1,2,5,1.63,1.27
@@ -256,8 +256,8 @@
 254,2021-09-18,664702,571760,single,hit_into_play,6.0,Myles Straw singles on a line drive to right fielder Aaron Judge.   Andres Gimenez to 3rd.,0,2,2,3,7,0.35,2.13
 255,2021-09-18,664702,571760,,called_strike,9.0,Myles Straw singles on a line drive to right fielder Aaron Judge.   Andres Gimenez to 3rd.,0,1,2,2,7,0.72,2.08
 256,2021-09-18,664702,571760,,swinging_strike,9.0,Myles Straw singles on a line drive to right fielder Aaron Judge.   Andres Gimenez to 3rd.,0,0,2,1,7,0.36,2.01
-257,2021-09-18,664702,656061,field_out,hit_into_play,2.0,"Myles Straw grounds out, second baseman Gleyber Torres to first baseman Luke Voit.",0,0,2,1,5,-0.21,2.78
-258,2021-09-18,664702,570257,strikeout,swinging_strike,3.0,Myles Straw strikes out swinging.,0,2,2,3,9,0.77,3.2
+257,2021-09-18,664702,570257,strikeout,swinging_strike,3.0,Myles Straw strikes out swinging.,0,2,2,3,9,0.77,3.2
+258,2021-09-18,664702,656061,field_out,hit_into_play,2.0,"Myles Straw grounds out, second baseman Gleyber Torres to first baseman Luke Voit.",0,0,2,1,5,-0.21,2.78
 259,2021-09-18,664702,570257,,foul,5.0,Myles Straw strikes out swinging.,0,1,2,2,9,0.26,2.24
 260,2021-09-18,664702,570257,,called_strike,5.0,Myles Straw strikes out swinging.,0,0,2,1,9,0.05,2.7
 261,2021-09-18,664702,661563,strikeout,called_strike,8.0,Myles Straw called out on strikes.,3,2,0,6,1,0.03,2.11
@@ -336,8 +336,8 @@
 334,2021-09-14,664702,656212,,ball,13.0,Myles Straw walks.,2,1,0,4,1,-2.16,2.45
 335,2021-09-14,664702,656212,,foul,6.0,Myles Straw walks.,2,0,0,3,1,0.4,2.11
 336,2021-09-14,664702,656212,,ball,12.0,Myles Straw walks.,1,0,0,2,1,1.31,3.02
-337,2021-09-14,664702,657746,field_out,hit_into_play,5.0,Myles Straw lines out to left fielder Rob Refsnyder.,0,0,0,1,1,-0.05,2.28
-338,2021-09-14,664702,656212,,ball,7.0,Myles Straw walks.,0,0,0,1,1,-0.56,1.69
+337,2021-09-14,664702,656212,,ball,7.0,Myles Straw walks.,0,0,0,1,1,-0.56,1.69
+338,2021-09-14,664702,657746,field_out,hit_into_play,5.0,Myles Straw lines out to left fielder Rob Refsnyder.,0,0,0,1,1,-0.05,2.28
 339,2021-09-12,664702,641778,single,hit_into_play,7.0,Myles Straw singles on a sharp ground ball to center fielder Jackie Bradley.   Ryan Lavarnway scores.    Oscar Mercado to 2nd.,1,1,1,3,6,-0.53,2.06
 340,2021-09-12,664702,641778,,ball,12.0,Myles Straw singles on a sharp ground ball to center fielder Jackie Bradley.   Ryan Lavarnway scores.    Oscar Mercado to 2nd.,0,1,1,2,6,0.93,3.16
 341,2021-09-12,664702,641778,,called_strike,3.0,Myles Straw singles on a sharp ground ball to center fielder Jackie Bradley.   Ryan Lavarnway scores.    Oscar Mercado to 2nd.,0,0,1,1,6,0.41,3.26
@@ -392,17 +392,17 @@
 390,2021-09-10,664702,664776,walk,ball,3.0,Myles Straw walks.,3,2,1,8,7,0.31,3.41
 391,2021-09-10,664702,664776,,foul,11.0,Myles Straw walks.,3,2,1,7,7,-0.97,3.48
 392,2021-09-10,664702,664776,,foul,4.0,Myles Straw walks.,3,2,1,6,7,-0.35,2.47
-393,2021-09-10,664702,664776,,ball,14.0,Myles Straw walks.,2,2,1,5,7,1.24,1.9
-394,2021-09-10,664702,519326,strikeout,swinging_strike,5.0,Myles Straw strikes out swinging.,3,2,1,6,9,0.04,2.29
-395,2021-09-10,664702,519326,,called_strike,5.0,Myles Straw strikes out swinging.,3,1,1,5,9,0.0,2.5
-396,2021-09-10,664702,664776,,ball,14.0,Myles Straw walks.,1,2,1,4,7,2.67,0.88
+393,2021-09-10,664702,519326,strikeout,swinging_strike,5.0,Myles Straw strikes out swinging.,3,2,1,6,9,0.04,2.29
+394,2021-09-10,664702,664776,,ball,14.0,Myles Straw walks.,2,2,1,5,7,1.24,1.9
+395,2021-09-10,664702,664776,,ball,14.0,Myles Straw walks.,1,2,1,4,7,2.67,0.88
+396,2021-09-10,664702,519326,,called_strike,5.0,Myles Straw strikes out swinging.,3,1,1,5,9,0.0,2.5
 397,2021-09-10,664702,664776,,called_strike,1.0,Myles Straw walks.,1,1,1,3,7,-0.68,3.16
 398,2021-09-10,664702,519326,,ball,13.0,Myles Straw strikes out swinging.,2,1,1,4,9,-0.72,1.23
-399,2021-09-10,664702,519326,,ball,12.0,Myles Straw strikes out swinging.,1,1,1,3,9,1.36,2.73
-400,2021-09-10,664702,664776,,called_strike,1.0,Myles Straw walks.,1,0,1,2,7,-0.46,3.32
-401,2021-09-10,664702,664776,,ball,9.0,Myles Straw walks.,0,0,1,1,7,0.73,1.54
-402,2021-09-10,664702,519326,,called_strike,5.0,Myles Straw strikes out swinging.,1,0,1,2,9,-0.14,2.5
-403,2021-09-10,664702,605288,field_error,hit_into_play,8.0,Myles Straw reaches on a throwing error by shortstop Luis Urias.,2,1,0,4,1,0.01,1.57
+399,2021-09-10,664702,664776,,called_strike,1.0,Myles Straw walks.,1,0,1,2,7,-0.46,3.32
+400,2021-09-10,664702,519326,,ball,12.0,Myles Straw strikes out swinging.,1,1,1,3,9,1.36,2.73
+401,2021-09-10,664702,605288,field_error,hit_into_play,8.0,Myles Straw reaches on a throwing error by shortstop Luis Urias.,2,1,0,4,1,0.01,1.57
+402,2021-09-10,664702,664776,,ball,9.0,Myles Straw walks.,0,0,1,1,7,0.73,1.54
+403,2021-09-10,664702,519326,,called_strike,5.0,Myles Straw strikes out swinging.,1,0,1,2,9,-0.14,2.5
 404,2021-09-10,664702,519326,,ball,1.0,Myles Straw strikes out swinging.,0,0,1,1,9,-0.72,3.47
 405,2021-09-10,664702,605288,,called_strike,9.0,Myles Straw reaches on a throwing error by shortstop Luis Urias.,2,0,0,3,1,0.73,2.06
 406,2021-09-10,664702,605288,,ball,14.0,Myles Straw reaches on a throwing error by shortstop Luis Urias.,1,0,0,2,1,0.73,0.67
@@ -464,10 +464,10 @@
 462,2021-09-07,664702,607231,,ball,14.0,Myles Straw called out on strikes.,0,0,0,1,1,0.15,0.8
 463,2021-09-06,664702,501381,field_out,hit_into_play,2.0,Myles Straw flies out to center fielder Byron Buxton.,2,1,2,4,7,-0.05,3.27
 464,2021-09-06,664702,501381,,ball,14.0,Myles Straw flies out to center fielder Byron Buxton.,1,1,2,3,7,0.32,0.99
-465,2021-09-06,664702,501381,,ball,12.0,Myles Straw flies out to center fielder Byron Buxton.,0,1,2,2,7,1.3,2.89
-466,2021-09-06,664702,641927,single,hit_into_play,8.0,Myles Straw singles on a ground ball to left fielder Brent Rooker.,1,2,2,4,3,0.0,2.04
-467,2021-09-06,664702,501381,,foul,5.0,Myles Straw flies out to center fielder Byron Buxton.,0,0,2,1,7,0.16,2.62
-468,2021-09-06,664702,641927,,called_strike,9.0,Myles Straw singles on a ground ball to left fielder Brent Rooker.,1,1,2,3,3,0.45,1.67
+465,2021-09-06,664702,641927,single,hit_into_play,8.0,Myles Straw singles on a ground ball to left fielder Brent Rooker.,1,2,2,4,3,0.0,2.04
+466,2021-09-06,664702,501381,,ball,12.0,Myles Straw flies out to center fielder Byron Buxton.,0,1,2,2,7,1.3,2.89
+467,2021-09-06,664702,641927,,called_strike,9.0,Myles Straw singles on a ground ball to left fielder Brent Rooker.,1,1,2,3,3,0.45,1.67
+468,2021-09-06,664702,501381,,foul,5.0,Myles Straw flies out to center fielder Byron Buxton.,0,0,2,1,7,0.16,2.62
 469,2021-09-06,664702,641927,,ball,14.0,Myles Straw singles on a ground ball to left fielder Brent Rooker.,0,1,2,2,3,1.29,1.69
 470,2021-09-06,664702,641927,,called_strike,14.0,Myles Straw singles on a ground ball to left fielder Brent Rooker.,0,0,2,1,3,0.91,1.68
 471,2021-09-06,664702,501381,single,hit_into_play,2.0,Myles Straw singles on a sharp line drive to center fielder Byron Buxton.,2,1,2,4,5,0.07,3.19
@@ -490,17 +490,17 @@
 488,2021-09-05,664702,624427,,blocked_ball,13.0,"Myles Straw grounds out, second baseman Taylor Motter to first baseman Travis Shaw.   Austin Hedges to 3rd.",1,2,1,4,6,-0.44,0.59
 489,2021-09-05,664702,676710,,foul,3.0,Myles Straw walks.,3,2,0,8,1,0.66,2.78
 490,2021-09-05,664702,570488,walk,ball,13.0,Myles Straw walks.,3,2,0,6,9,-1.88,2.26
-491,2021-09-05,664702,624427,,foul,4.0,"Myles Straw grounds out, second baseman Taylor Motter to first baseman Travis Shaw.   Austin Hedges to 3rd.",1,1,1,3,6,-0.65,2.41
-492,2021-09-05,664702,570488,,foul,13.0,Myles Straw walks.,3,1,0,5,9,-1.37,1.98
-493,2021-09-05,664702,676710,,ball,14.0,Myles Straw walks.,2,2,0,7,1,1.55,1.32
-494,2021-09-05,664702,624427,,called_strike,2.0,"Myles Straw grounds out, second baseman Taylor Motter to first baseman Travis Shaw.   Austin Hedges to 3rd.",1,0,1,2,6,0.17,2.93
+491,2021-09-05,664702,570488,,foul,13.0,Myles Straw walks.,3,1,0,5,9,-1.37,1.98
+492,2021-09-05,664702,676710,,ball,14.0,Myles Straw walks.,2,2,0,7,1,1.55,1.32
+493,2021-09-05,664702,624427,,foul,4.0,"Myles Straw grounds out, second baseman Taylor Motter to first baseman Travis Shaw.   Austin Hedges to 3rd.",1,1,1,3,6,-0.65,2.41
+494,2021-09-05,664702,676710,,foul,2.0,Myles Straw walks.,2,2,0,6,1,0.09,2.95
 495,2021-09-05,664702,570488,,ball,13.0,Myles Straw walks.,2,1,0,4,9,-0.7,0.98
-496,2021-09-05,664702,676710,,foul,2.0,Myles Straw walks.,2,2,0,6,1,0.09,2.95
-497,2021-09-05,664702,624427,,ball,12.0,"Myles Straw grounds out, second baseman Taylor Motter to first baseman Travis Shaw.   Austin Hedges to 3rd.",0,0,1,1,6,0.51,3.99
-498,2021-09-05,664702,676710,,foul,11.0,Myles Straw walks.,2,2,0,5,1,-0.53,3.66
-499,2021-09-05,664702,570488,,ball,12.0,Myles Straw walks.,1,1,0,3,9,1.57,3.06
-500,2021-09-05,664702,570488,,called_strike,4.0,Myles Straw walks.,1,0,0,2,9,-0.37,2.11
-501,2021-09-05,664702,676710,,swinging_strike,5.0,Myles Straw walks.,2,1,0,4,1,-0.13,2.55
+496,2021-09-05,664702,624427,,called_strike,2.0,"Myles Straw grounds out, second baseman Taylor Motter to first baseman Travis Shaw.   Austin Hedges to 3rd.",1,0,1,2,6,0.17,2.93
+497,2021-09-05,664702,676710,,foul,11.0,Myles Straw walks.,2,2,0,5,1,-0.53,3.66
+498,2021-09-05,664702,570488,,ball,12.0,Myles Straw walks.,1,1,0,3,9,1.57,3.06
+499,2021-09-05,664702,624427,,ball,12.0,"Myles Straw grounds out, second baseman Taylor Motter to first baseman Travis Shaw.   Austin Hedges to 3rd.",0,0,1,1,6,0.51,3.99
+500,2021-09-05,664702,676710,,swinging_strike,5.0,Myles Straw walks.,2,1,0,4,1,-0.13,2.55
+501,2021-09-05,664702,570488,,called_strike,4.0,Myles Straw walks.,1,0,0,2,9,-0.37,2.11
 502,2021-09-05,664702,676710,,ball,12.0,Myles Straw walks.,1,1,0,3,1,0.5,3.55
 503,2021-09-05,664702,570488,,ball,11.0,Myles Straw walks.,0,0,0,1,9,-0.31,3.78
 504,2021-09-05,664702,676710,,ball,11.0,Myles Straw walks.,0,1,0,2,1,-0.96,3.77
@@ -519,12 +519,12 @@
 517,2021-09-03,664702,543135,,foul,11.0,Myles Straw strikes out swinging.,3,2,0,7,1,-0.09,3.61
 518,2021-09-03,664702,493603,strikeout,called_strike,6.0,Myles Straw called out on strikes.,3,2,1,6,7,0.54,2.14
 519,2021-09-03,664702,543135,,ball,11.0,Myles Straw strikes out swinging.,2,2,0,6,1,-1.16,3.3
-520,2021-09-03,664702,493603,,ball,14.0,Myles Straw called out on strikes.,2,2,1,5,7,2.18,1.53
-521,2021-09-03,664702,543135,,foul,5.0,Myles Straw strikes out swinging.,2,2,0,5,1,-0.27,2.53
+520,2021-09-03,664702,543135,,foul,5.0,Myles Straw strikes out swinging.,2,2,0,5,1,-0.27,2.53
+521,2021-09-03,664702,493603,,ball,14.0,Myles Straw called out on strikes.,2,2,1,5,7,2.18,1.53
 522,2021-09-03,664702,543135,,foul,5.0,Myles Straw strikes out swinging.,2,1,0,4,1,-0.23,2.41
 523,2021-09-03,664702,493603,,foul,5.0,Myles Straw called out on strikes.,2,1,1,4,7,0.26,2.62
-524,2021-09-03,664702,493603,,called_strike,2.0,Myles Straw called out on strikes.,2,0,1,3,7,-0.05,3.34
-525,2021-09-03,664702,543135,,ball,13.0,Myles Straw strikes out swinging.,1,1,0,3,1,-1.03,1.94
+524,2021-09-03,664702,543135,,ball,13.0,Myles Straw strikes out swinging.,1,1,0,3,1,-1.03,1.94
+525,2021-09-03,664702,493603,,called_strike,2.0,Myles Straw called out on strikes.,2,0,1,3,7,-0.05,3.34
 526,2021-09-03,664702,543135,,called_strike,5.0,Myles Straw strikes out swinging.,1,0,0,2,1,0.19,2.27
 527,2021-09-03,664702,493603,,ball,14.0,Myles Straw called out on strikes.,1,0,1,2,7,2.33,0.2
 528,2021-09-03,664702,543135,,ball,14.0,Myles Straw strikes out swinging.,0,0,0,1,1,1.48,1.65
@@ -550,8 +550,8 @@
 548,2021-09-02,664702,663460,,ball,13.0,Myles Straw walks.,1,0,2,2,7,-0.63,0.8
 549,2021-09-02,664702,663460,,ball,14.0,Myles Straw walks.,0,0,2,1,7,0.48,0.86
 550,2021-09-02,664702,676604,grounded_into_double_play,hit_into_play,8.0,"Myles Straw grounds into a double play, second baseman Whit Merrifield to first baseman Hunter Dozier.   Ryan Lavarnway out at 2nd.    Myles Straw out at 1st.",0,1,1,2,9,0.19,1.61
-551,2021-09-02,664702,501985,single,hit_into_play,7.0,Myles Straw singles on a line drive to right fielder Edward Olivares.,2,2,0,5,1,-0.75,2.02
-552,2021-09-02,664702,676604,,called_strike,3.0,"Myles Straw grounds into a double play, second baseman Whit Merrifield to first baseman Hunter Dozier.   Ryan Lavarnway out at 2nd.    Myles Straw out at 1st.",0,0,1,1,9,0.54,3.11
+551,2021-09-02,664702,676604,,called_strike,3.0,"Myles Straw grounds into a double play, second baseman Whit Merrifield to first baseman Hunter Dozier.   Ryan Lavarnway out at 2nd.    Myles Straw out at 1st.",0,0,1,1,9,0.54,3.11
+552,2021-09-02,664702,501985,single,hit_into_play,7.0,Myles Straw singles on a line drive to right fielder Edward Olivares.,2,2,0,5,1,-0.75,2.02
 553,2021-09-02,664702,501985,,foul,5.0,Myles Straw singles on a line drive to right fielder Edward Olivares.,2,1,0,4,1,0.05,2.18
 554,2021-09-02,664702,501985,,ball,13.0,Myles Straw singles on a line drive to right fielder Edward Olivares.,1,1,0,3,1,-0.46,1.03
 555,2021-09-02,664702,501985,,foul,4.0,Myles Straw singles on a line drive to right fielder Edward Olivares.,1,0,0,2,1,-0.32,2.39
@@ -567,12 +567,12 @@
 565,2021-09-01,664702,593619,walk,ball,11.0,Myles Straw walks.,3,2,1,6,10,-1.1,3.99
 566,2021-09-01,664702,593619,,foul,5.0,Myles Straw walks.,3,1,1,5,10,-0.23,2.55
 567,2021-09-01,664702,593619,,ball,13.0,Myles Straw walks.,2,1,1,4,10,-1.57,1.94
-568,2021-09-01,664702,663804,single,hit_into_play,4.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,1,2,0,4,1,-0.4,2.33
-569,2021-09-01,664702,593619,,called_strike,7.0,Myles Straw walks.,2,0,1,3,10,-0.33,1.81
+568,2021-09-01,664702,593619,,called_strike,7.0,Myles Straw walks.,2,0,1,3,10,-0.33,1.81
+569,2021-09-01,664702,663804,single,hit_into_play,4.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,1,2,0,4,1,-0.4,2.33
 570,2021-09-01,664702,593619,,ball,14.0,Myles Straw walks.,1,0,1,2,10,0.41,1.24
 571,2021-09-01,664702,663804,,ball,12.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,0,2,0,3,1,0.65,4.23
-572,2021-09-01,664702,663804,,foul,1.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,0,1,0,2,1,-0.58,2.95
-573,2021-09-01,664702,593619,,ball,14.0,Myles Straw walks.,0,0,1,1,10,0.88,2.53
+572,2021-09-01,664702,593619,,ball,14.0,Myles Straw walks.,0,0,1,1,10,0.88,2.53
+573,2021-09-01,664702,663804,,foul,1.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,0,1,0,2,1,-0.58,2.95
 574,2021-09-01,664702,663804,,foul,5.0,Myles Straw singles on a line drive to left fielder Andrew Benintendi.,0,0,0,1,1,-0.18,2.5
 575,2021-08-31,664702,596001,single,hit_into_play,14.0,Myles Straw singles on a soft fly ball to second baseman Whit Merrifield.   Daniel Johnson to 3rd.,1,1,2,3,5,0.5,1.3
 576,2021-08-31,664702,596001,,ball,14.0,Myles Straw singles on a soft fly ball to second baseman Whit Merrifield.   Daniel Johnson to 3rd.,0,1,2,2,5,1.42,1.55
@@ -584,18 +584,18 @@
 582,2021-08-31,664702,596001,,foul,12.0,"Myles Straw grounds out, pitcher Jakob Junis to first baseman Carlos Santana.",0,2,1,3,3,1.31,2.55
 583,2021-08-31,664702,596001,,called_strike,9.0,"Myles Straw grounds out, pitcher Jakob Junis to first baseman Carlos Santana.",0,1,1,2,3,0.7,1.89
 584,2021-08-31,664702,596001,,foul,5.0,"Myles Straw grounds out, pitcher Jakob Junis to first baseman Carlos Santana.",0,0,1,1,3,0.05,2.66
-585,2021-08-31,664702,622092,single,hit_into_play,5.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",3,2,2,6,7,-0.16,2.47
-586,2021-08-31,664702,451584,field_out,hit_into_play,6.0,Myles Straw lines out to second baseman Whit Merrifield.,3,2,1,7,9,0.82,2.36
+585,2021-08-31,664702,451584,field_out,hit_into_play,6.0,Myles Straw lines out to second baseman Whit Merrifield.,3,2,1,7,9,0.82,2.36
+586,2021-08-31,664702,622092,single,hit_into_play,5.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",3,2,2,6,7,-0.16,2.47
 587,2021-08-31,664702,622092,,ball,13.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",2,2,2,5,7,-0.5,0.49
 588,2021-08-31,664702,451584,,foul,5.0,Myles Straw lines out to second baseman Whit Merrifield.,3,2,1,6,9,0.23,2.53
 589,2021-08-31,664702,451584,,ball,14.0,Myles Straw lines out to second baseman Whit Merrifield.,2,2,1,5,9,0.6,-0.23
 590,2021-08-31,664702,622092,,ball,14.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",1,2,2,4,7,1.13,2.38
-591,2021-08-31,664702,451584,,ball,14.0,Myles Straw lines out to second baseman Whit Merrifield.,1,2,1,4,9,0.52,-0.47
-592,2021-08-31,664702,622092,,ball,14.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",0,2,2,3,7,0.35,-0.11
-593,2021-08-31,664702,622092,,called_strike,5.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",0,1,2,2,7,0.14,2.56
-594,2021-08-31,664702,451584,,foul,4.0,Myles Straw lines out to second baseman Whit Merrifield.,1,1,1,3,9,-0.49,2.65
-595,2021-08-31,664702,622092,,foul,1.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",0,0,2,1,7,-0.52,2.92
-596,2021-08-31,664702,451584,,called_strike,3.0,Myles Straw lines out to second baseman Whit Merrifield.,1,0,1,2,9,0.81,3.2
+591,2021-08-31,664702,622092,,ball,14.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",0,2,2,3,7,0.35,-0.11
+592,2021-08-31,664702,451584,,ball,14.0,Myles Straw lines out to second baseman Whit Merrifield.,1,2,1,4,9,0.52,-0.47
+593,2021-08-31,664702,451584,,foul,4.0,Myles Straw lines out to second baseman Whit Merrifield.,1,1,1,3,9,-0.49,2.65
+594,2021-08-31,664702,622092,,called_strike,5.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",0,1,2,2,7,0.14,2.56
+595,2021-08-31,664702,451584,,called_strike,3.0,Myles Straw lines out to second baseman Whit Merrifield.,1,0,1,2,9,0.81,3.2
+596,2021-08-31,664702,622092,,foul,1.0,"Myles Straw singles on a ground ball to left fielder Andrew Benintendi, deflected by shortstop Nicky Lopez.",0,0,2,1,7,-0.52,2.92
 597,2021-08-31,664702,451584,,ball,12.0,Myles Straw lines out to second baseman Whit Merrifield.,0,0,1,1,9,0.49,4.31
 598,2021-08-31,664702,596001,field_out,hit_into_play,2.0,Myles Straw lines out to center fielder Michael A.   Taylor.,3,2,0,8,1,-0.24,3.31
 599,2021-08-31,664702,596001,,ball,11.0,Myles Straw lines out to center fielder Michael A.   Taylor.,2,2,0,7,1,-1.14,2.89
@@ -616,19 +616,19 @@
 614,2021-08-29,664702,656557,,foul,9.0,"Myles Straw grounds into a double play, second baseman Jonathan Arauz to shortstop Xander Bogaerts to first baseman Bobby Dalbec.   Daniel Johnson to 3rd.    Andres Gimenez out at 2nd.    Myles Straw out at 1st.",1,0,0,2,3,0.69,1.82
 615,2021-08-29,664702,656557,,blocked_ball,14.0,"Myles Straw grounds into a double play, second baseman Jonathan Arauz to shortstop Xander Bogaerts to first baseman Bobby Dalbec.   Daniel Johnson to 3rd.    Andres Gimenez out at 2nd.    Myles Straw out at 1st.",0,0,0,1,3,0.96,0.6
 616,2021-08-29,664702,570663,field_out,hit_into_play,6.0,"Myles Straw grounds out, first baseman Bobby Dalbec to pitcher Hansel Robles.",2,1,1,4,7,0.31,2.14
-617,2021-08-29,664702,656557,walk,ball,13.0,Myles Straw walks.,3,2,0,6,1,-1.26,2.16
-618,2021-08-29,664702,570663,,ball,11.0,"Myles Straw grounds out, first baseman Bobby Dalbec to pitcher Hansel Robles.",1,1,1,3,7,-0.54,3.47
+617,2021-08-29,664702,570663,,ball,11.0,"Myles Straw grounds out, first baseman Bobby Dalbec to pitcher Hansel Robles.",1,1,1,3,7,-0.54,3.47
+618,2021-08-29,664702,656557,walk,ball,13.0,Myles Straw walks.,3,2,0,6,1,-1.26,2.16
 619,2021-08-29,664702,656557,,called_strike,1.0,Myles Straw walks.,3,1,0,5,1,-0.49,3.0
 620,2021-08-29,664702,570663,,called_strike,6.0,"Myles Straw grounds out, first baseman Bobby Dalbec to pitcher Hansel Robles.",1,0,1,2,7,0.47,2.23
-621,2021-08-29,664702,656557,,ball,13.0,Myles Straw walks.,2,1,0,4,1,-0.02,1.2
+621,2021-08-29,664702,570663,,ball,12.0,"Myles Straw grounds out, first baseman Bobby Dalbec to pitcher Hansel Robles.",0,0,1,1,7,0.85,3.11
 622,2021-08-29,664702,598264,single,hit_into_play,2.0,Myles Straw singles on a line drive to shortstop Xander Bogaerts.   Yu Chang scores.,2,1,2,4,8,-0.03,2.83
-623,2021-08-29,664702,570663,,ball,12.0,"Myles Straw grounds out, first baseman Bobby Dalbec to pitcher Hansel Robles.",0,0,1,1,7,0.85,3.11
+623,2021-08-29,664702,656557,,ball,13.0,Myles Straw walks.,2,1,0,4,1,-0.02,1.2
 624,2021-08-29,664702,598264,,ball,12.0,Myles Straw singles on a line drive to shortstop Xander Bogaerts.   Yu Chang scores.,1,1,2,3,8,0.44,3.84
 625,2021-08-29,664702,656557,,called_strike,4.0,Myles Straw walks.,2,0,0,3,1,-0.58,2.7
 626,2021-08-29,664702,598264,,blocked_ball,14.0,Myles Straw singles on a line drive to shortstop Xander Bogaerts.   Yu Chang scores.,0,1,2,2,8,1.83,-0.26
 627,2021-08-29,664702,656557,,ball,2.0,Myles Straw walks.,1,0,0,2,1,0.1,3.38
-628,2021-08-29,664702,656557,,ball,11.0,Myles Straw walks.,0,0,0,1,1,-1.37,3.03
-629,2021-08-29,664702,598264,,called_strike,9.0,Myles Straw singles on a line drive to shortstop Xander Bogaerts.   Yu Chang scores.,0,0,2,1,8,0.32,1.67
+628,2021-08-29,664702,598264,,called_strike,9.0,Myles Straw singles on a line drive to shortstop Xander Bogaerts.   Yu Chang scores.,0,0,2,1,8,0.32,1.67
+629,2021-08-29,664702,656557,,ball,11.0,Myles Straw walks.,0,0,0,1,1,-1.37,3.03
 630,2021-08-28,664702,543135,field_out,hit_into_play,5.0,Myles Straw pops out to second baseman Jonathan Arauz.,3,2,1,6,5,-0.26,2.72
 631,2021-08-28,664702,543135,,called_strike,4.0,Myles Straw pops out to second baseman Jonathan Arauz.,3,1,1,5,5,-0.76,2.82
 632,2021-08-28,664702,543135,,ball,14.0,Myles Straw pops out to second baseman Jonathan Arauz.,2,1,1,4,5,1.35,2.04
@@ -691,8 +691,8 @@
 689,2021-08-25,664702,605138,,foul,8.0,Myles Straw lines out to center fielder Leody Taveras.,0,0,2,1,8,0.06,1.99
 690,2021-08-25,664702,656641,field_out,hit_into_play,1.0,Myles Straw flies out to right fielder DJ Peters.,0,2,0,3,1,-0.69,3.34
 691,2021-08-25,664702,656641,,foul,1.0,Myles Straw flies out to right fielder DJ Peters.,0,1,0,2,1,-0.28,3.01
-692,2021-08-25,664702,656641,,foul,5.0,Myles Straw flies out to right fielder DJ Peters.,0,0,0,1,1,-0.1,2.52
-693,2021-08-25,664702,605138,field_out,hit_into_play,6.0,Myles Straw lines out to center fielder Leody Taveras.,0,0,2,1,6,0.49,2.33
+692,2021-08-25,664702,605138,field_out,hit_into_play,6.0,Myles Straw lines out to center fielder Leody Taveras.,0,0,2,1,6,0.49,2.33
+693,2021-08-25,664702,656641,,foul,5.0,Myles Straw flies out to right fielder DJ Peters.,0,0,0,1,1,-0.1,2.52
 694,2021-08-24,664702,621368,strikeout,swinging_strike_blocked,13.0,"Myles Straw strikes out swinging, catcher Jose Trevino to first baseman Nathaniel Lowe.",1,2,2,4,5,-1.18,0.65
 695,2021-08-24,664702,621368,,foul,2.0,"Myles Straw strikes out swinging, catcher Jose Trevino to first baseman Nathaniel Lowe.",1,1,2,3,5,-0.16,2.77
 696,2021-08-24,664702,621368,,ball,13.0,"Myles Straw strikes out swinging, catcher Jose Trevino to first baseman Nathaniel Lowe.",0,1,2,2,5,-1.77,2.38
@@ -723,8 +723,8 @@
 721,2021-08-22,664702,518553,,foul,14.0,Myles Straw lines out to center fielder Brandon Marsh.,2,1,0,4,7,0.0,0.0
 722,2021-08-22,664702,518553,,ball,14.0,Myles Straw lines out to center fielder Brandon Marsh.,1,1,0,3,7,0.0,0.0
 723,2021-08-22,664702,518553,,called_strike,14.0,Myles Straw lines out to center fielder Brandon Marsh.,1,0,0,2,7,0.0,0.0
-724,2021-08-22,664702,518553,,ball,14.0,Myles Straw lines out to center fielder Brandon Marsh.,0,0,0,1,7,0.0,0.0
-725,2021-08-22,664702,660761,double,hit_into_play,,Myles Straw doubles (22) on a fly ball to center fielder Brandon Marsh.,0,0,0,1,1,,
+724,2021-08-22,664702,660761,double,hit_into_play,,Myles Straw doubles (22) on a fly ball to center fielder Brandon Marsh.,0,0,0,1,1,,
+725,2021-08-22,664702,518553,,ball,14.0,Myles Straw lines out to center fielder Brandon Marsh.,0,0,0,1,7,0.0,0.0
 726,2021-08-21,664702,672282,strikeout,swinging_strike,7.0,Myles Straw strikes out swinging.,1,2,1,4,4,-0.57,1.66
 727,2021-08-21,664702,672282,,called_strike,4.0,Myles Straw strikes out swinging.,1,1,1,3,4,-0.33,2.75
 728,2021-08-21,664702,672282,,swinging_strike,12.0,Myles Straw strikes out swinging.,1,0,1,2,4,0.07,3.43
@@ -762,49 +762,49 @@
 760,2021-08-20,664702,448855,,ball,14.0,Myles Straw doubles (21) on a line drive to right fielder Juan Lagares.,2,0,2,3,6,0.4,1.4
 761,2021-08-20,664702,448855,,ball,12.0,Myles Straw doubles (21) on a line drive to right fielder Juan Lagares.,1,0,2,2,6,1.16,3.27
 762,2021-08-20,664702,448855,,ball,14.0,Myles Straw doubles (21) on a line drive to right fielder Juan Lagares.,0,0,2,1,6,0.97,1.65
-763,2021-08-20,664702,665896,strikeout,called_strike,13.0,Myles Straw called out on strikes.,2,2,0,5,4,-0.86,2.09
-764,2021-08-20,664702,642545,single,hit_into_play,11.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,2,2,0,5,1,-0.84,2.95
+763,2021-08-20,664702,642545,single,hit_into_play,11.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,2,2,0,5,1,-0.84,2.95
+764,2021-08-20,664702,665896,strikeout,called_strike,13.0,Myles Straw called out on strikes.,2,2,0,5,4,-0.86,2.09
 765,2021-08-20,664702,642545,,called_strike,6.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,2,1,0,4,1,0.82,2.53
 766,2021-08-20,664702,665896,,foul,7.0,Myles Straw called out on strikes.,2,1,0,4,4,-0.42,1.95
-767,2021-08-20,664702,642545,,ball,11.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,1,1,0,3,1,-0.92,4.33
-768,2021-08-20,664702,665896,,ball,14.0,Myles Straw called out on strikes.,1,1,0,3,4,1.29,0.16
-769,2021-08-20,664702,642545,,called_strike,1.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,1,0,0,2,1,-0.78,2.97
-770,2021-08-20,664702,665896,,called_strike,9.0,Myles Straw called out on strikes.,1,0,0,2,4,0.6,2.03
-771,2021-08-20,664702,665896,,ball,13.0,Myles Straw called out on strikes.,0,0,0,1,4,-0.44,1.16
-772,2021-08-20,664702,642545,,ball,11.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,0,0,0,1,1,-0.9,3.48
+767,2021-08-20,664702,665896,,ball,14.0,Myles Straw called out on strikes.,1,1,0,3,4,1.29,0.16
+768,2021-08-20,664702,642545,,ball,11.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,1,1,0,3,1,-0.92,4.33
+769,2021-08-20,664702,665896,,called_strike,9.0,Myles Straw called out on strikes.,1,0,0,2,4,0.6,2.03
+770,2021-08-20,664702,642545,,called_strike,1.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,1,0,0,2,1,-0.78,2.97
+771,2021-08-20,664702,642545,,ball,11.0,Myles Straw singles on a ground ball to center fielder Brandon Marsh.,0,0,0,1,1,-0.9,3.48
+772,2021-08-20,664702,665896,,ball,13.0,Myles Straw called out on strikes.,0,0,0,1,4,-0.44,1.16
 773,2021-08-18,664702,608648,field_out,hit_into_play,1.0,Myles Straw lines out to second baseman Jorge Polanco.,1,2,2,5,10,-0.75,3.4
 774,2021-08-18,664702,608648,,foul,3.0,Myles Straw lines out to second baseman Jorge Polanco.,1,2,2,4,10,0.44,3.24
 775,2021-08-18,664702,608648,,ball,12.0,Myles Straw lines out to second baseman Jorge Polanco.,0,2,2,3,10,1.02,3.6
 776,2021-08-18,664702,658305,walk,ball,13.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,3,1,2,5,2,-0.29,0.82
 777,2021-08-18,664702,573668,walk,ball,14.0,Myles Straw walks.,3,2,2,6,4,0.65,1.0
 778,2021-08-18,664702,608648,,called_strike,3.0,Myles Straw lines out to second baseman Jorge Polanco.,0,1,2,2,10,0.52,2.95
-779,2021-08-18,664702,621248,strikeout,swinging_strike,5.0,Myles Straw strikes out swinging.,2,2,1,5,6,0.22,2.11
+779,2021-08-18,664702,658305,,ball,14.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,2,1,2,4,2,1.06,2.4
 780,2021-08-18,664702,608648,,called_strike,5.0,Myles Straw lines out to second baseman Jorge Polanco.,0,0,2,1,10,0.23,2.3
-781,2021-08-18,664702,658305,,ball,14.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,2,1,2,4,2,1.06,2.4
+781,2021-08-18,664702,621248,strikeout,swinging_strike,5.0,Myles Straw strikes out swinging.,2,2,1,5,6,0.22,2.11
 782,2021-08-18,664702,517008,double,hit_into_play,5.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,3,2,0,10,9,-0.16,2.57
 783,2021-08-18,664702,573668,,ball,14.0,Myles Straw walks.,2,2,2,5,4,1.92,1.38
 784,2021-08-18,664702,658305,,called_strike,2.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,2,0,2,3,2,-0.01,3.5
-785,2021-08-18,664702,573668,,ball,14.0,Myles Straw walks.,1,2,2,4,4,1.29,0.54
+785,2021-08-18,664702,621248,,called_strike,6.0,Myles Straw strikes out swinging.,2,1,1,4,6,0.7,2.12
 786,2021-08-18,664702,517008,,foul,14.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,3,2,0,9,9,0.51,1.08
-787,2021-08-18,664702,621248,,called_strike,6.0,Myles Straw strikes out swinging.,2,1,1,4,6,0.7,2.12
-788,2021-08-18,664702,658305,,ball,14.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,1,0,2,2,2,0.91,1.1
-789,2021-08-18,664702,517008,,foul,2.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,3,2,0,8,9,0.01,3.22
-790,2021-08-18,664702,573668,,ball,14.0,Myles Straw walks.,0,2,2,3,4,1.35,0.95
-791,2021-08-18,664702,621248,,ball,14.0,Myles Straw strikes out swinging.,1,1,1,3,6,1.92,2.19
-792,2021-08-18,664702,573668,,foul,13.0,Myles Straw walks.,0,1,2,2,4,-0.24,1.25
-793,2021-08-18,664702,517008,,foul,6.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,3,2,0,7,9,0.82,2.24
-794,2021-08-18,664702,621248,,called_strike,3.0,Myles Straw strikes out swinging.,1,0,1,2,6,0.39,3.0
-795,2021-08-18,664702,658305,,blocked_ball,14.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,0,0,2,1,2,1.09,0.36
+787,2021-08-18,664702,573668,,ball,14.0,Myles Straw walks.,1,2,2,4,4,1.29,0.54
+788,2021-08-18,664702,573668,,ball,14.0,Myles Straw walks.,0,2,2,3,4,1.35,0.95
+789,2021-08-18,664702,621248,,ball,14.0,Myles Straw strikes out swinging.,1,1,1,3,6,1.92,2.19
+790,2021-08-18,664702,517008,,foul,2.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,3,2,0,8,9,0.01,3.22
+791,2021-08-18,664702,658305,,ball,14.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,1,0,2,2,2,0.91,1.1
+792,2021-08-18,664702,517008,,foul,6.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,3,2,0,7,9,0.82,2.24
+793,2021-08-18,664702,658305,,blocked_ball,14.0,Myles Straw walks.   Owen Miller scores.    Yu Chang to 3rd.    Austin Hedges to 2nd.,0,0,2,1,2,1.09,0.36
+794,2021-08-18,664702,573668,,foul,13.0,Myles Straw walks.,0,1,2,2,4,-0.24,1.25
+795,2021-08-18,664702,621248,,called_strike,3.0,Myles Straw strikes out swinging.,1,0,1,2,6,0.39,3.0
 796,2021-08-18,664702,626929,strikeout,called_strike,7.0,Myles Straw called out on strikes.,3,2,0,6,1,-0.39,1.41
 797,2021-08-18,664702,517008,,foul,12.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,3,2,0,6,9,0.32,3.54
-798,2021-08-18,664702,573668,,foul,9.0,Myles Straw walks.,0,0,2,1,4,0.46,1.93
-799,2021-08-18,664702,621248,,ball,11.0,Myles Straw strikes out swinging.,0,0,1,1,6,-1.05,2.97
-800,2021-08-18,664702,517008,,ball,14.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,2,2,0,5,9,1.63,2.22
-801,2021-08-18,664702,626929,,called_strike,6.0,Myles Straw called out on strikes.,3,1,0,5,1,0.5,2.21
+798,2021-08-18,664702,621248,,ball,11.0,Myles Straw strikes out swinging.,0,0,1,1,6,-1.05,2.97
+799,2021-08-18,664702,573668,,foul,9.0,Myles Straw walks.,0,0,2,1,4,0.46,1.93
+800,2021-08-18,664702,626929,,called_strike,6.0,Myles Straw called out on strikes.,3,1,0,5,1,0.5,2.21
+801,2021-08-18,664702,517008,,ball,14.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,2,2,0,5,9,1.63,2.22
 802,2021-08-18,664702,517008,,ball,14.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,1,2,0,4,9,1.84,0.43
 803,2021-08-18,664702,626929,,ball,12.0,Myles Straw called out on strikes.,2,1,0,4,1,1.13,3.7
-804,2021-08-18,664702,626929,,ball,14.0,Myles Straw called out on strikes.,1,1,0,3,1,0.82,-0.41
-805,2021-08-18,664702,517008,,foul,6.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,1,1,0,3,9,0.82,2.21
+804,2021-08-18,664702,517008,,foul,6.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,1,1,0,3,9,0.82,2.21
+805,2021-08-18,664702,626929,,ball,14.0,Myles Straw called out on strikes.,1,1,0,3,1,0.82,-0.41
 806,2021-08-18,664702,626929,,foul,12.0,Myles Straw called out on strikes.,1,0,0,2,1,0.85,2.54
 807,2021-08-18,664702,517008,,ball,14.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,0,1,0,2,9,0.98,1.25
 808,2021-08-18,664702,517008,,called_strike,14.0,Myles Straw doubles (19) on a line drive to center fielder Nick Gordon.,0,0,0,1,9,0.94,2.13
@@ -832,18 +832,18 @@
 830,2021-08-16,664702,517008,,ball,14.0,Myles Straw singles on a ground ball to shortstop Jorge Polanco.,0,1,2,2,9,0.65,0.75
 831,2021-08-16,664702,517008,,foul,6.0,Myles Straw singles on a ground ball to shortstop Jorge Polanco.,0,0,2,1,9,0.31,2.44
 832,2021-08-16,664702,643377,field_out,hit_into_play,3.0,Myles Straw flies out to center fielder Jake Cave.,3,2,0,7,1,0.43,3.3
-833,2021-08-16,664702,643377,,ball,11.0,Myles Straw flies out to center fielder Jake Cave.,2,2,0,6,1,-0.29,3.96
-834,2021-08-16,664702,607231,strikeout,called_strike,14.0,Myles Straw called out on strikes.,3,2,0,6,7,0.28,1.41
-835,2021-08-16,664702,607231,,called_strike,1.0,Myles Straw called out on strikes.,3,1,0,5,7,-0.8,3.37
-836,2021-08-16,664702,643377,,foul,14.0,Myles Straw flies out to center fielder Jake Cave.,2,2,0,5,1,1.19,2.16
-837,2021-08-16,664702,643377,,ball,11.0,Myles Straw flies out to center fielder Jake Cave.,1,2,0,4,1,-1.83,2.84
-838,2021-08-16,664702,607231,,ball,14.0,Myles Straw called out on strikes.,2,1,0,4,7,1.07,1.89
-839,2021-08-16,664702,643377,,called_strike,8.0,Myles Straw flies out to center fielder Jake Cave.,1,1,0,3,1,0.23,2.01
-840,2021-08-16,664702,607231,,called_strike,8.0,Myles Straw called out on strikes.,2,0,0,3,7,0.03,2.11
+833,2021-08-16,664702,607231,strikeout,called_strike,14.0,Myles Straw called out on strikes.,3,2,0,6,7,0.28,1.41
+834,2021-08-16,664702,643377,,ball,11.0,Myles Straw flies out to center fielder Jake Cave.,2,2,0,6,1,-0.29,3.96
+835,2021-08-16,664702,643377,,foul,14.0,Myles Straw flies out to center fielder Jake Cave.,2,2,0,5,1,1.19,2.16
+836,2021-08-16,664702,607231,,called_strike,1.0,Myles Straw called out on strikes.,3,1,0,5,7,-0.8,3.37
+837,2021-08-16,664702,607231,,ball,14.0,Myles Straw called out on strikes.,2,1,0,4,7,1.07,1.89
+838,2021-08-16,664702,643377,,ball,11.0,Myles Straw flies out to center fielder Jake Cave.,1,2,0,4,1,-1.83,2.84
+839,2021-08-16,664702,607231,,called_strike,8.0,Myles Straw called out on strikes.,2,0,0,3,7,0.03,2.11
+840,2021-08-16,664702,643377,,called_strike,8.0,Myles Straw flies out to center fielder Jake Cave.,1,1,0,3,1,0.23,2.01
 841,2021-08-16,664702,643377,,ball,14.0,Myles Straw flies out to center fielder Jake Cave.,0,1,0,2,1,1.1,0.36
 842,2021-08-16,664702,607231,,ball,14.0,Myles Straw called out on strikes.,1,0,0,2,7,0.81,1.54
-843,2021-08-16,664702,607231,,ball,14.0,Myles Straw called out on strikes.,0,0,0,1,7,1.57,1.8
-844,2021-08-16,664702,643377,,swinging_strike,5.0,Myles Straw flies out to center fielder Jake Cave.,0,0,0,1,1,0.25,2.24
+843,2021-08-16,664702,643377,,swinging_strike,5.0,Myles Straw flies out to center fielder Jake Cave.,0,0,0,1,1,0.25,2.24
+844,2021-08-16,664702,607231,,ball,14.0,Myles Straw called out on strikes.,0,0,0,1,7,1.57,1.8
 845,2021-08-15,664702,571800,walk,ball,11.0,Myles Straw walks.,3,0,0,4,2,-0.56,3.9
 846,2021-08-15,664702,571800,,ball,11.0,Myles Straw walks.,2,0,0,3,2,-0.46,3.65
 847,2021-08-15,664702,571800,,blocked_ball,14.0,Myles Straw walks.,1,0,0,2,2,0.54,0.42
@@ -851,21 +851,21 @@
 849,2021-08-15,664702,502706,strikeout,called_strike,2.0,Myles Straw called out on strikes.,2,2,2,5,4,-0.09,3.17
 850,2021-08-15,664702,502706,,foul,6.0,Myles Straw called out on strikes.,2,1,2,4,4,0.81,2.35
 851,2021-08-15,664702,502706,,ball,12.0,Myles Straw called out on strikes.,1,1,2,3,4,1.12,2.99
-852,2021-08-15,664702,502706,,ball,12.0,Myles Straw called out on strikes.,0,1,2,2,4,1.15,3.21
-853,2021-08-15,664702,571871,single,hit_into_play,5.0,Myles Straw singles on a sharp line drive to left fielder Willi Castro.   Owen Miller scores.    Andres Gimenez to 3rd.    Austin Hedges to 2nd.,2,0,1,3,3,-0.1,2.42
-854,2021-08-15,664702,502706,,foul,1.0,Myles Straw called out on strikes.,0,0,2,1,4,-0.41,3.09
-855,2021-08-15,664702,571871,,ball,12.0,Myles Straw singles on a sharp line drive to left fielder Willi Castro.   Owen Miller scores.    Andres Gimenez to 3rd.    Austin Hedges to 2nd.,1,0,1,2,3,2.27,3.5
+852,2021-08-15,664702,571871,single,hit_into_play,5.0,Myles Straw singles on a sharp line drive to left fielder Willi Castro.   Owen Miller scores.    Andres Gimenez to 3rd.    Austin Hedges to 2nd.,2,0,1,3,3,-0.1,2.42
+853,2021-08-15,664702,502706,,ball,12.0,Myles Straw called out on strikes.,0,1,2,2,4,1.15,3.21
+854,2021-08-15,664702,571871,,ball,12.0,Myles Straw singles on a sharp line drive to left fielder Willi Castro.   Owen Miller scores.    Andres Gimenez to 3rd.    Austin Hedges to 2nd.,1,0,1,2,3,2.27,3.5
+855,2021-08-15,664702,502706,,foul,1.0,Myles Straw called out on strikes.,0,0,2,1,4,-0.41,3.09
 856,2021-08-15,664702,571871,,ball,12.0,Myles Straw singles on a sharp line drive to left fielder Willi Castro.   Owen Miller scores.    Andres Gimenez to 3rd.    Austin Hedges to 2nd.,0,0,1,1,3,1.02,2.69
 857,2021-08-15,664702,571800,single,hit_into_play,1.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,3,2,0,6,1,-0.63,3.19
 858,2021-08-15,664702,571800,,ball,12.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,2,2,0,5,1,0.97,2.91
 859,2021-08-15,664702,541640,strikeout,swinging_strike,5.0,Myles Straw strikes out swinging.,1,2,0,4,7,0.17,2.74
 860,2021-08-15,664702,571800,,ball,14.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,1,2,0,4,1,1.01,1.86
-861,2021-08-15,664702,571800,,ball,11.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,0,2,0,3,1,-1.09,3.98
-862,2021-08-15,664702,541640,,ball,12.0,Myles Straw strikes out swinging.,0,2,0,3,7,0.02,4.36
+861,2021-08-15,664702,541640,,ball,12.0,Myles Straw strikes out swinging.,0,2,0,3,7,0.02,4.36
+862,2021-08-15,664702,571800,,ball,11.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,0,2,0,3,1,-1.09,3.98
 863,2021-08-15,664702,571800,,called_strike,9.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,0,1,0,2,1,0.39,1.99
 864,2021-08-15,664702,541640,,called_strike,6.0,Myles Straw strikes out swinging.,0,1,0,2,7,0.34,2.55
-865,2021-08-15,664702,541640,,called_strike,6.0,Myles Straw strikes out swinging.,0,0,0,1,7,0.44,2.7
-866,2021-08-15,664702,571800,,called_strike,9.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,0,0,0,1,1,0.43,1.67
+865,2021-08-15,664702,571800,,called_strike,9.0,Myles Straw singles on a fly ball to right fielder Robbie Grossman.,0,0,0,1,1,0.43,1.67
+866,2021-08-15,664702,541640,,called_strike,6.0,Myles Straw strikes out swinging.,0,0,0,1,7,0.44,2.7
 867,2021-08-14,664702,503449,walk,ball,13.0,Myles Straw walks.,3,0,0,4,5,-1.18,1.45
 868,2021-08-14,664702,503449,,ball,14.0,Myles Straw walks.,2,0,0,3,5,0.21,0.62
 869,2021-08-14,664702,503449,,ball,14.0,Myles Straw walks.,1,0,0,2,5,1.36,0.54
@@ -897,15 +897,15 @@
 895,2021-08-13,664702,641302,,ball,13.0,Myles Straw doubles (4) on a sharp line drive to left fielder Jacob Robson.,0,0,2,1,3,-0.36,0.73
 896,2021-08-13,664702,571656,walk,ball,11.0,Myles Straw walks.,3,0,1,4,9,-1.06,3.39
 897,2021-08-13,664702,571656,,ball,11.0,Myles Straw walks.,2,0,1,3,9,-0.67,3.88
-898,2021-08-13,664702,571656,,ball,14.0,Myles Straw walks.,1,0,1,2,9,1.79,1.29
-899,2021-08-13,664702,641302,strikeout,foul_tip,3.0,Myles Straw strikes out on a foul tip.,2,2,0,5,1,0.62,2.75
-900,2021-08-13,664702,502706,single,hit_into_play,6.0,Myles Straw singles on a ground ball to left fielder Jacob Robson.,2,0,0,3,7,0.52,2.3
+898,2021-08-13,664702,641302,strikeout,foul_tip,3.0,Myles Straw strikes out on a foul tip.,2,2,0,5,1,0.62,2.75
+899,2021-08-13,664702,571656,,ball,14.0,Myles Straw walks.,1,0,1,2,9,1.79,1.29
+900,2021-08-13,664702,641302,,foul,8.0,Myles Straw strikes out on a foul tip.,2,1,0,4,1,-0.17,2.02
 901,2021-08-13,664702,571656,,ball,11.0,Myles Straw walks.,0,0,1,1,9,-0.03,4.03
-902,2021-08-13,664702,641302,,foul,8.0,Myles Straw strikes out on a foul tip.,2,1,0,4,1,-0.17,2.02
-903,2021-08-13,664702,641302,,called_strike,11.0,Myles Straw strikes out on a foul tip.,2,0,0,3,1,-0.85,2.91
-904,2021-08-13,664702,502706,,ball,13.0,Myles Straw singles on a ground ball to left fielder Jacob Robson.,1,0,0,2,7,-1.41,1.13
-905,2021-08-13,664702,641302,,ball,1.0,Myles Straw strikes out on a foul tip.,1,0,0,2,1,-0.36,3.39
-906,2021-08-13,664702,502706,,ball,7.0,Myles Straw singles on a ground ball to left fielder Jacob Robson.,0,0,0,1,7,-0.43,1.52
+902,2021-08-13,664702,502706,single,hit_into_play,6.0,Myles Straw singles on a ground ball to left fielder Jacob Robson.,2,0,0,3,7,0.52,2.3
+903,2021-08-13,664702,502706,,ball,13.0,Myles Straw singles on a ground ball to left fielder Jacob Robson.,1,0,0,2,7,-1.41,1.13
+904,2021-08-13,664702,641302,,called_strike,11.0,Myles Straw strikes out on a foul tip.,2,0,0,3,1,-0.85,2.91
+905,2021-08-13,664702,502706,,ball,7.0,Myles Straw singles on a ground ball to left fielder Jacob Robson.,0,0,0,1,7,-0.43,1.52
+906,2021-08-13,664702,641302,,ball,1.0,Myles Straw strikes out on a foul tip.,1,0,0,2,1,-0.36,3.39
 907,2021-08-13,664702,641302,,ball,12.0,Myles Straw strikes out on a foul tip.,0,0,0,1,1,1.72,2.56
 908,2021-08-12,664702,605135,walk,ball,2.0,Myles Straw walks.,3,2,0,7,6,0.15,3.48
 909,2021-08-12,664702,605135,,foul,2.0,Myles Straw walks.,3,2,0,6,6,0.02,3.31
@@ -936,8 +936,8 @@
 934,2021-08-11,664702,642152,,foul,5.0,Myles Straw singles on a ground ball to left fielder Mark Canha.,2,1,2,4,9,0.07,2.51
 935,2021-08-11,664702,642152,,ball,14.0,Myles Straw singles on a ground ball to left fielder Mark Canha.,1,1,2,3,9,0.32,0.89
 936,2021-08-11,664702,518617,walk,ball,13.0,Myles Straw walks.,3,1,2,5,7,-1.21,1.14
-937,2021-08-11,664702,642152,,ball,14.0,Myles Straw singles on a ground ball to left fielder Mark Canha.,0,1,2,2,9,1.07,2.07
-938,2021-08-11,664702,518617,,ball,14.0,Myles Straw walks.,2,1,2,4,7,0.27,1.34
+937,2021-08-11,664702,518617,,ball,14.0,Myles Straw walks.,2,1,2,4,7,0.27,1.34
+938,2021-08-11,664702,642152,,ball,14.0,Myles Straw singles on a ground ball to left fielder Mark Canha.,0,1,2,2,9,1.07,2.07
 939,2021-08-11,664702,518617,,ball,7.0,Myles Straw walks.,1,1,2,3,7,-0.69,2.04
 940,2021-08-11,664702,642152,,swinging_strike,7.0,Myles Straw singles on a ground ball to left fielder Mark Canha.,0,0,2,1,9,-0.62,1.77
 941,2021-08-11,664702,518617,,called_strike,3.0,Myles Straw walks.,1,0,2,2,7,0.38,2.86
@@ -961,8 +961,8 @@
 959,2021-08-10,664702,640455,,ball,11.0,Myles Straw strikes out on a foul tip.,1,2,0,5,1,-1.57,2.67
 960,2021-08-10,664702,640455,,foul,5.0,Myles Straw strikes out on a foul tip.,1,2,0,4,1,0.08,2.69
 961,2021-08-10,664702,433589,field_out,hit_into_play,5.0,"Myles Straw grounds out, second baseman Tony Kemp to first baseman Matt Olson.",1,0,1,2,7,0.12,2.51
-962,2021-08-10,664702,433589,,ball,12.0,"Myles Straw grounds out, second baseman Tony Kemp to first baseman Matt Olson.",0,0,1,1,7,1.04,2.91
-963,2021-08-10,664702,640455,,ball,12.0,Myles Straw strikes out on a foul tip.,0,2,0,3,1,2.41,3.22
+962,2021-08-10,664702,640455,,ball,12.0,Myles Straw strikes out on a foul tip.,0,2,0,3,1,2.41,3.22
+963,2021-08-10,664702,433589,,ball,12.0,"Myles Straw grounds out, second baseman Tony Kemp to first baseman Matt Olson.",0,0,1,1,7,1.04,2.91
 964,2021-08-10,664702,640455,,called_strike,2.0,Myles Straw strikes out on a foul tip.,0,1,0,2,1,0.1,3.26
 965,2021-08-10,664702,640455,,called_strike,14.0,Myles Straw strikes out on a foul tip.,0,0,0,1,1,1.01,2.14
 966,2021-08-09,664702,622491,walk,ball,14.0,Myles Straw walks.,3,1,1,5,4,1.46,1.93
@@ -984,10 +984,10 @@
 982,2021-08-09,664702,608371,strikeout,called_strike,9.0,Myles Straw called out on strikes.,2,2,0,5,8,0.82,1.81
 983,2021-08-09,664702,608371,,ball,11.0,Myles Straw called out on strikes.,1,2,0,4,8,-0.13,4.6
 984,2021-08-09,664702,608371,,called_strike,9.0,Myles Straw called out on strikes.,1,1,0,3,8,0.35,1.64
-985,2021-08-09,664702,608371,,ball,14.0,Myles Straw called out on strikes.,0,1,0,2,8,0.71,1.49
-986,2021-08-09,664702,622491,double,hit_into_play,13.0,Myles Straw doubles (2) on a sharp ground ball to left fielder Jesse Winker.,0,1,0,2,1,-1.1,1.3
-987,2021-08-09,664702,608371,,called_strike,2.0,Myles Straw called out on strikes.,0,0,0,1,8,0.05,3.25
-988,2021-08-09,664702,622491,,foul,4.0,Myles Straw doubles (2) on a sharp ground ball to left fielder Jesse Winker.,0,0,0,1,1,-0.33,2.49
+985,2021-08-09,664702,622491,double,hit_into_play,13.0,Myles Straw doubles (2) on a sharp ground ball to left fielder Jesse Winker.,0,1,0,2,1,-1.1,1.3
+986,2021-08-09,664702,608371,,ball,14.0,Myles Straw called out on strikes.,0,1,0,2,8,0.71,1.49
+987,2021-08-09,664702,622491,,foul,4.0,Myles Straw doubles (2) on a sharp ground ball to left fielder Jesse Winker.,0,0,0,1,1,-0.33,2.49
+988,2021-08-09,664702,608371,,called_strike,2.0,Myles Straw called out on strikes.,0,0,0,1,8,0.05,3.25
 989,2021-08-08,664702,503449,strikeout,swinging_strike,14.0,Myles Straw strikes out swinging.,0,2,2,3,4,1.98,1.34
 990,2021-08-08,664702,503449,,foul,4.0,Myles Straw strikes out swinging.,0,1,2,2,4,-0.36,2.38
 991,2021-08-08,664702,503449,,called_strike,3.0,Myles Straw strikes out swinging.,0,0,2,1,4,0.77,3.01
@@ -1016,20 +1016,20 @@
 1014,2021-08-07,664702,642397,,swinging_strike,13.0,"Myles Straw grounds into a force out, third baseman Jeimer Candelario to second baseman Harold Castro.   Owen Miller out at 2nd.    Myles Straw to 1st.",1,0,1,2,9,-1.03,1.05
 1015,2021-08-07,664702,642397,,ball,14.0,"Myles Straw grounds into a force out, third baseman Jeimer Candelario to second baseman Harold Castro.   Owen Miller out at 2nd.    Myles Straw to 1st.",0,0,1,1,9,0.07,1.08
 1016,2021-08-07,664702,542585,field_out,hit_into_play,6.0,Myles Straw grounds out to first baseman Jonathan Schoop.,3,2,2,8,7,0.59,2.65
-1017,2021-08-07,664702,641302,strikeout,swinging_strike,1.0,Myles Straw strikes out swinging.,2,2,0,7,1,-0.6,3.02
-1018,2021-08-07,664702,542585,,ball,2.0,Myles Straw grounds out to first baseman Jonathan Schoop.,2,2,2,7,7,-0.2,3.32
+1017,2021-08-07,664702,542585,,ball,2.0,Myles Straw grounds out to first baseman Jonathan Schoop.,2,2,2,7,7,-0.2,3.32
+1018,2021-08-07,664702,641302,strikeout,swinging_strike,1.0,Myles Straw strikes out swinging.,2,2,0,7,1,-0.6,3.02
 1019,2021-08-07,664702,542585,,foul,1.0,Myles Straw grounds out to first baseman Jonathan Schoop.,2,2,2,6,7,-0.37,2.82
 1020,2021-08-07,664702,641302,,ball,13.0,Myles Straw strikes out swinging.,1,2,0,6,1,-1.14,1.99
-1021,2021-08-07,664702,542585,,foul,6.0,Myles Straw grounds out to first baseman Jonathan Schoop.,2,2,2,5,7,0.36,2.32
-1022,2021-08-07,664702,641302,,foul,11.0,Myles Straw strikes out swinging.,1,2,0,5,1,-0.02,3.86
-1023,2021-08-07,664702,641302,,foul,14.0,Myles Straw strikes out swinging.,1,2,0,4,1,1.51,1.91
-1024,2021-08-07,664702,542585,,called_strike,5.0,Myles Straw grounds out to first baseman Jonathan Schoop.,2,1,2,4,7,0.21,2.33
-1025,2021-08-07,664702,641302,,called_strike,11.0,Myles Straw strikes out swinging.,1,1,0,3,1,-0.9,2.93
-1026,2021-08-07,664702,542585,,blocked_ball,14.0,Myles Straw grounds out to first baseman Jonathan Schoop.,1,1,2,3,7,1.26,1.07
+1021,2021-08-07,664702,641302,,foul,11.0,Myles Straw strikes out swinging.,1,2,0,5,1,-0.02,3.86
+1022,2021-08-07,664702,542585,,foul,6.0,Myles Straw grounds out to first baseman Jonathan Schoop.,2,2,2,5,7,0.36,2.32
+1023,2021-08-07,664702,542585,,called_strike,5.0,Myles Straw grounds out to first baseman Jonathan Schoop.,2,1,2,4,7,0.21,2.33
+1024,2021-08-07,664702,641302,,foul,14.0,Myles Straw strikes out swinging.,1,2,0,4,1,1.51,1.91
+1025,2021-08-07,664702,542585,,blocked_ball,14.0,Myles Straw grounds out to first baseman Jonathan Schoop.,1,1,2,3,7,1.26,1.07
+1026,2021-08-07,664702,641302,,called_strike,11.0,Myles Straw strikes out swinging.,1,1,0,3,1,-0.9,2.93
 1027,2021-08-07,664702,542585,,ball,6.0,Myles Straw grounds out to first baseman Jonathan Schoop.,0,1,2,2,7,0.67,2.43
 1028,2021-08-07,664702,641302,,foul,6.0,Myles Straw strikes out swinging.,1,0,0,2,1,0.48,2.21
-1029,2021-08-07,664702,542585,,called_strike,7.0,Myles Straw grounds out to first baseman Jonathan Schoop.,0,0,2,1,7,-0.55,2.08
-1030,2021-08-07,664702,641302,,ball,13.0,Myles Straw strikes out swinging.,0,0,0,1,1,-0.17,1.03
+1029,2021-08-07,664702,641302,,ball,13.0,Myles Straw strikes out swinging.,0,0,0,1,1,-0.17,1.03
+1030,2021-08-07,664702,542585,,called_strike,7.0,Myles Straw grounds out to first baseman Jonathan Schoop.,0,0,2,1,7,-0.55,2.08
 1031,2021-08-06,664702,666159,single,hit_into_play,5.0,"Indians challenged (trap play), call on the field was overturned: Myles Straw singles on a line drive to right fielder Victor Reyes.   Austin Hedges scores.    Ernie Clement to 3rd.",3,2,1,6,4,-0.17,2.37
 1032,2021-08-06,664702,666159,,ball,14.0,"Indians challenged (trap play), call on the field was overturned: Myles Straw singles on a line drive to right fielder Victor Reyes.   Austin Hedges scores.    Ernie Clement to 3rd.",2,2,1,5,4,0.64,0.88
 1033,2021-08-06,664702,666159,,called_strike,6.0,"Indians challenged (trap play), call on the field was overturned: Myles Straw singles on a line drive to right fielder Victor Reyes.   Austin Hedges scores.    Ernie Clement to 3rd.",2,1,1,4,4,0.67,2.4
@@ -1070,8 +1070,8 @@
 1068,2021-08-04,664702,643256,,ball,14.0,"Myles Straw grounds into a force out, third baseman Santiago Espinal to second baseman Breyvic Valera.   Austin Hedges out at 2nd.    Myles Straw to 1st.",0,2,1,3,8,2.49,1.98
 1069,2021-08-04,664702,643256,,called_strike,9.0,"Myles Straw grounds into a force out, third baseman Santiago Espinal to second baseman Breyvic Valera.   Austin Hedges out at 2nd.    Myles Straw to 1st.",0,1,1,2,8,0.49,1.64
 1070,2021-08-04,664702,571927,,foul,12.0,Myles Straw flies out to right fielder Teoscar Hernandez.,1,2,0,4,1,1.04,3.19
-1071,2021-08-04,664702,643256,,called_strike,5.0,"Myles Straw grounds into a force out, third baseman Santiago Espinal to second baseman Breyvic Valera.   Austin Hedges out at 2nd.    Myles Straw to 1st.",0,0,1,1,8,-0.08,2.14
-1072,2021-08-04,664702,571927,,called_strike,5.0,Myles Straw flies out to right fielder Teoscar Hernandez.,1,1,0,3,1,0.18,2.65
+1071,2021-08-04,664702,571927,,called_strike,5.0,Myles Straw flies out to right fielder Teoscar Hernandez.,1,1,0,3,1,0.18,2.65
+1072,2021-08-04,664702,643256,,called_strike,5.0,"Myles Straw grounds into a force out, third baseman Santiago Espinal to second baseman Breyvic Valera.   Austin Hedges out at 2nd.    Myles Straw to 1st.",0,0,1,1,8,-0.08,2.14
 1073,2021-08-04,664702,571927,,foul,3.0,Myles Straw flies out to right fielder Teoscar Hernandez.,1,0,0,2,1,0.53,2.89
 1074,2021-08-04,664702,571927,,ball,12.0,Myles Straw flies out to right fielder Teoscar Hernandez.,0,0,0,1,1,1.52,3.5
 1075,2021-08-03,664702,547943,strikeout,swinging_strike_blocked,13.0,Myles Straw strikes out swinging.,2,2,2,6,7,-0.96,0.91
@@ -1146,14 +1146,14 @@
 1144,2021-07-28,664702,543901,,called_strike,9.0,Myles Straw strikes out swinging.,1,1,1,3,8,0.68,1.87
 1145,2021-07-28,664702,543901,,called_strike,8.0,Myles Straw strikes out swinging.,1,0,1,2,8,0.15,2.3
 1146,2021-07-28,664702,543901,,ball,14.0,Myles Straw strikes out swinging.,0,0,1,1,8,1.01,1.83
-1147,2021-07-28,664702,608638,single,hit_into_play,8.0,Myles Straw singles on a ground ball to pitcher JT Chargois.,1,2,0,4,6,0.25,1.81
-1148,2021-07-28,664702,641871,single,hit_into_play,11.0,Myles Straw singles on a line drive to right fielder Dylan Moore.,1,2,0,4,7,-0.31,3.55
+1147,2021-07-28,664702,641871,single,hit_into_play,11.0,Myles Straw singles on a line drive to right fielder Dylan Moore.,1,2,0,4,7,-0.31,3.55
+1148,2021-07-28,664702,608638,single,hit_into_play,8.0,Myles Straw singles on a ground ball to pitcher JT Chargois.,1,2,0,4,6,0.25,1.81
 1149,2021-07-28,664702,641871,,called_strike,3.0,Myles Straw singles on a line drive to right fielder Dylan Moore.,1,1,0,3,7,0.52,3.18
 1150,2021-07-28,664702,608638,,ball,13.0,Myles Straw singles on a ground ball to pitcher JT Chargois.,0,2,0,3,6,-0.92,1.28
 1151,2021-07-28,664702,608638,,foul,4.0,Myles Straw singles on a ground ball to pitcher JT Chargois.,0,1,0,2,6,-0.34,2.12
 1152,2021-07-28,664702,641871,,ball,12.0,Myles Straw singles on a line drive to right fielder Dylan Moore.,0,1,0,2,7,0.87,3.44
-1153,2021-07-28,664702,641871,,foul,11.0,Myles Straw singles on a line drive to right fielder Dylan Moore.,0,0,0,1,7,-0.61,3.57
-1154,2021-07-28,664702,608638,,foul,13.0,Myles Straw singles on a ground ball to pitcher JT Chargois.,0,0,0,1,6,-0.96,1.72
+1153,2021-07-28,664702,608638,,foul,13.0,Myles Straw singles on a ground ball to pitcher JT Chargois.,0,0,0,1,6,-0.96,1.72
+1154,2021-07-28,664702,641871,,foul,11.0,Myles Straw singles on a line drive to right fielder Dylan Moore.,0,0,0,1,7,-0.61,3.57
 1155,2021-07-27,664702,623167,double,hit_into_play,3.0,Myles Straw doubles (13) on a fly ball to center fielder Jarred Kelenic.   Carlos Correa scores.    Aledmys Diaz scores.,0,0,1,1,4,0.38,3.15
 1156,2021-07-27,664702,623167,field_out,hit_into_play,4.0,Myles Straw lines out to right fielder Mitch Haniger.,1,0,0,2,2,-0.46,2.65
 1157,2021-07-27,664702,623167,,ball,14.0,Myles Straw lines out to right fielder Mitch Haniger.,0,0,0,1,2,1.05,1.82
@@ -1305,10 +1305,10 @@
 1303,2021-07-09,664702,643338,,ball,14.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",0,1,2,2,8,1.18,1.79
 1304,2021-07-09,664702,643338,,called_strike,2.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",0,0,2,1,8,0.22,3.18
 1305,2021-07-09,664702,641482,field_out,hit_into_play,5.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",2,2,1,7,1,-0.24,2.47
-1306,2021-07-09,664702,641482,,foul,1.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",2,2,1,6,1,-0.38,3.01
-1307,2021-07-09,664702,476595,field_out,hit_into_play,6.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,2,0,4,6,0.31,2.1
-1308,2021-07-09,664702,476595,,called_strike,6.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,1,0,3,6,0.64,2.59
-1309,2021-07-09,664702,641482,,ball,12.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,2,1,5,1,1.52,2.5
+1306,2021-07-09,664702,476595,field_out,hit_into_play,6.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,2,0,4,6,0.31,2.1
+1307,2021-07-09,664702,641482,,foul,1.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",2,2,1,6,1,-0.38,3.01
+1308,2021-07-09,664702,641482,,ball,12.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,2,1,5,1,1.52,2.5
+1309,2021-07-09,664702,476595,,called_strike,6.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,1,0,3,6,0.64,2.59
 1310,2021-07-09,664702,641482,,foul,3.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,2,1,4,1,0.81,3.37
 1311,2021-07-09,664702,476595,,ball,11.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",0,1,0,2,6,-1.1,2.47
 1312,2021-07-09,664702,641482,,ball,12.0,"Myles Straw grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",0,2,1,3,1,0.32,4.51
@@ -1372,8 +1372,8 @@
 1370,2021-07-04,664702,615698,field_out,hit_into_play,3.0,Myles Straw flies out to right fielder Harold Ramirez.,1,1,1,3,1,0.35,3.09
 1371,2021-07-04,664702,615698,,ball,14.0,Myles Straw flies out to right fielder Harold Ramirez.,0,1,1,2,1,1.07,0.46
 1372,2021-07-04,664702,661403,field_out,hit_into_play,9.0,Myles Straw pops out to second baseman Cesar Hernandez.,0,2,2,3,9,0.5,1.89
-1373,2021-07-04,664702,661403,,swinging_strike,14.0,Myles Straw pops out to second baseman Cesar Hernandez.,0,1,2,2,9,0.75,1.25
-1374,2021-07-04,664702,615698,,called_strike,9.0,Myles Straw flies out to right fielder Harold Ramirez.,0,0,1,1,1,0.45,1.91
+1373,2021-07-04,664702,615698,,called_strike,9.0,Myles Straw flies out to right fielder Harold Ramirez.,0,0,1,1,1,0.45,1.91
+1374,2021-07-04,664702,661403,,swinging_strike,14.0,Myles Straw pops out to second baseman Cesar Hernandez.,0,1,2,2,9,0.75,1.25
 1375,2021-07-04,664702,661403,,called_strike,4.0,Myles Straw pops out to second baseman Cesar Hernandez.,0,0,2,1,9,-0.45,2.88
 1376,2021-07-03,664702,669212,field_out,hit_into_play,4.0,Myles Straw flies out to left fielder Oscar Mercado.,0,1,1,2,5,-0.74,2.34
 1377,2021-07-03,664702,669212,,called_strike,2.0,Myles Straw flies out to left fielder Oscar Mercado.,0,0,1,1,5,-0.02,2.87
@@ -1459,10 +1459,10 @@
 1457,2021-06-29,664702,649144,,called_strike,5.0,Myles Straw strikes out swinging.,2,1,2,4,5,0.26,2.51
 1458,2021-06-29,664702,592644,walk,ball,14.0,Myles Straw walks.,3,1,0,5,4,0.85,1.6
 1459,2021-06-29,664702,649144,,called_strike,12.0,Myles Straw strikes out swinging.,2,0,2,3,5,0.96,3.29
-1460,2021-06-29,664702,649144,,ball,12.0,Myles Straw strikes out swinging.,1,0,2,2,5,0.23,4.01
-1461,2021-06-29,664702,592644,,ball,12.0,Myles Straw walks.,2,1,0,4,4,0.3,3.93
-1462,2021-06-29,664702,649144,,ball,11.0,Myles Straw strikes out swinging.,0,0,2,1,5,-0.42,3.59
-1463,2021-06-29,664702,592644,,called_strike,5.0,Myles Straw walks.,2,0,0,3,4,0.14,2.4
+1460,2021-06-29,664702,592644,,ball,12.0,Myles Straw walks.,2,1,0,4,4,0.3,3.93
+1461,2021-06-29,664702,649144,,ball,12.0,Myles Straw strikes out swinging.,1,0,2,2,5,0.23,4.01
+1462,2021-06-29,664702,592644,,called_strike,5.0,Myles Straw walks.,2,0,0,3,4,0.14,2.4
+1463,2021-06-29,664702,649144,,ball,11.0,Myles Straw strikes out swinging.,0,0,2,1,5,-0.42,3.59
 1464,2021-06-29,664702,592644,,ball,3.0,Myles Straw walks.,1,0,0,2,4,0.78,3.65
 1465,2021-06-29,664702,592644,,ball,12.0,Myles Straw walks.,0,0,0,1,4,0.89,2.58
 1466,2021-06-29,664702,622253,force_out,hit_into_play,1.0,"Myles Straw grounds into a force out, shortstop Ramon Urias to second baseman Domingo Leyba.   Abraham Toro out at 2nd.",0,0,2,1,7,-0.46,2.82
@@ -1478,12 +1478,12 @@
 1476,2021-06-28,664702,664045,,swinging_strike,14.0,Myles Straw singles on a ground ball to shortstop Ramon Urias.,0,0,2,1,2,1.14,1.32
 1477,2021-06-28,664702,643316,single,hit_into_play,5.0,Myles Straw singles on a ground ball to center fielder Cedric Mullins.   Abraham Toro scores.    Kyle Tucker to 3rd.,1,2,1,4,9,0.24,2.51
 1478,2021-06-28,664702,656945,walk,ball,13.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,3,2,1,7,7,-1.03,0.76
-1479,2021-06-28,664702,656945,,foul,1.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,3,2,1,6,7,-0.43,3.12
-1480,2021-06-28,664702,643316,,called_strike,9.0,Myles Straw singles on a ground ball to center fielder Cedric Mullins.   Abraham Toro scores.    Kyle Tucker to 3rd.,1,1,1,3,9,0.7,2.05
+1479,2021-06-28,664702,643316,,called_strike,9.0,Myles Straw singles on a ground ball to center fielder Cedric Mullins.   Abraham Toro scores.    Kyle Tucker to 3rd.,1,1,1,3,9,0.7,2.05
+1480,2021-06-28,664702,656945,,foul,1.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,3,2,1,6,7,-0.43,3.12
 1481,2021-06-28,664702,643316,,ball,11.0,Myles Straw singles on a ground ball to center fielder Cedric Mullins.   Abraham Toro scores.    Kyle Tucker to 3rd.,0,1,1,2,9,-1.34,2.81
 1482,2021-06-28,664702,656945,,swinging_strike,11.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,3,1,1,5,7,-1.05,2.98
-1483,2021-06-28,664702,656945,,called_strike,1.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,3,0,1,4,7,-0.6,3.29
-1484,2021-06-28,664702,643316,,called_strike,2.0,Myles Straw singles on a ground ball to center fielder Cedric Mullins.   Abraham Toro scores.    Kyle Tucker to 3rd.,0,0,1,1,9,0.13,2.85
+1483,2021-06-28,664702,643316,,called_strike,2.0,Myles Straw singles on a ground ball to center fielder Cedric Mullins.   Abraham Toro scores.    Kyle Tucker to 3rd.,0,0,1,1,9,0.13,2.85
+1484,2021-06-28,664702,656945,,called_strike,1.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,3,0,1,4,7,-0.6,3.29
 1485,2021-06-28,664702,656945,,blocked_ball,13.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,2,0,1,3,7,-1.75,0.35
 1486,2021-06-28,664702,656945,,ball,13.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,1,0,1,2,7,-1.27,2.16
 1487,2021-06-28,664702,656945,,ball,13.0,Myles Straw walks.   Yuli Gurriel scores.    Carlos Correa to 3rd.    Kyle Tucker to 2nd.,0,0,1,1,7,-0.8,1.21
@@ -1640,8 +1640,8 @@
 1638,2021-06-17,664702,656302,field_out,hit_into_play,5.0,Myles Straw flies out to center fielder Adam Engel.,2,1,1,4,2,0.07,2.56
 1639,2021-06-17,664702,641582,,ball,13.0,Myles Straw flies out to center fielder Adam Engel.,1,1,2,3,7,-0.63,-0.57
 1640,2021-06-17,664702,656302,,foul,6.0,Myles Straw flies out to center fielder Adam Engel.,2,0,1,3,2,0.68,2.57
-1641,2021-06-17,664702,656302,,ball,11.0,Myles Straw flies out to center fielder Adam Engel.,1,0,1,2,2,-1.42,4.7
-1642,2021-06-17,664702,641582,,ball,14.0,Myles Straw flies out to center fielder Adam Engel.,0,1,2,2,7,1.14,2.36
+1641,2021-06-17,664702,641582,,ball,14.0,Myles Straw flies out to center fielder Adam Engel.,0,1,2,2,7,1.14,2.36
+1642,2021-06-17,664702,656302,,ball,11.0,Myles Straw flies out to center fielder Adam Engel.,1,0,1,2,2,-1.42,4.7
 1643,2021-06-17,664702,656302,,ball,11.0,Myles Straw flies out to center fielder Adam Engel.,0,0,1,1,2,-1.1,3.23
 1644,2021-06-17,664702,641582,,called_strike,2.0,Myles Straw flies out to center fielder Adam Engel.,0,0,2,1,7,-0.26,3.22
 1645,2021-06-16,664702,543475,home_run,hit_into_play,2.0,Myles Straw homers (1) on a fly ball to left field.,1,1,2,3,4,-0.26,3.08
@@ -1664,8 +1664,8 @@
 1662,2021-06-15,664702,607359,strikeout,called_strike,2.0,Myles Straw called out on strikes.,1,2,1,4,7,-0.07,3.03
 1663,2021-06-15,664702,607359,,ball,11.0,Myles Straw called out on strikes.,0,2,1,3,7,-0.3,5.66
 1664,2021-06-15,664702,607359,,foul,6.0,Myles Straw called out on strikes.,0,1,1,2,7,0.29,2.69
-1665,2021-06-15,664702,607359,,called_strike,3.0,Myles Straw called out on strikes.,0,0,1,1,7,0.71,3.1
-1666,2021-06-15,664702,663770,walk,ball,11.0,Myles Straw walks.,3,0,0,4,10,-1.21,4.58
+1665,2021-06-15,664702,663770,walk,ball,11.0,Myles Straw walks.,3,0,0,4,10,-1.21,4.58
+1666,2021-06-15,664702,607359,,called_strike,3.0,Myles Straw called out on strikes.,0,0,1,1,7,0.71,3.1
 1667,2021-06-15,664702,663770,,ball,12.0,Myles Straw walks.,2,0,0,3,10,0.62,4.22
 1668,2021-06-15,664702,663770,,ball,12.0,Myles Straw walks.,1,0,0,2,10,0.96,3.95
 1669,2021-06-15,664702,663770,,ball,11.0,Myles Straw walks.,0,0,0,1,10,-0.3,5.03
@@ -1679,8 +1679,8 @@
 1677,2021-06-13,664702,501381,,foul,9.0,Myles Straw walks.,2,2,2,5,2,0.67,2.04
 1678,2021-06-13,664702,501381,,ball,12.0,Myles Straw walks.,1,2,2,4,2,1.2,2.96
 1679,2021-06-13,664702,501381,,ball,14.0,Myles Straw walks.,0,2,2,3,2,1.36,1.61
-1680,2021-06-13,664702,677976,double,hit_into_play,7.0,Myles Straw doubles (9) on a line drive to left fielder Trevor Larnach.,0,0,0,1,6,-0.45,1.75
-1681,2021-06-13,664702,501381,,called_strike,6.0,Myles Straw walks.,0,1,2,2,2,0.67,2.98
+1680,2021-06-13,664702,501381,,called_strike,6.0,Myles Straw walks.,0,1,2,2,2,0.67,2.98
+1681,2021-06-13,664702,677976,double,hit_into_play,7.0,Myles Straw doubles (9) on a line drive to left fielder Trevor Larnach.,0,0,0,1,6,-0.45,1.75
 1682,2021-06-13,664702,501381,,swinging_strike,14.0,Myles Straw walks.,0,0,2,1,2,0.42,0.9
 1683,2021-06-13,664702,533167,sac_fly,hit_into_play,5.0,Myles Straw out on a sacrifice fly to right fielder Rob Refsnyder.   Robel Garcia scores.,1,1,0,3,8,-0.2,2.55
 1684,2021-06-13,664702,533167,,foul,2.0,Myles Straw out on a sacrifice fly to right fielder Rob Refsnyder.   Robel Garcia scores.,1,0,0,2,8,0.0,2.76
@@ -1701,8 +1701,8 @@
 1699,2021-06-11,664702,641927,,called_strike,1.0,Myles Straw called out on strikes.,0,0,2,1,2,-0.63,3.1
 1700,2021-06-11,664702,533167,single,hit_into_play,2.0,Myles Straw singles on a line drive to right fielder Alex Kirilloff.,3,1,0,5,9,-0.23,2.87
 1701,2021-06-11,664702,533167,,ball,11.0,Myles Straw singles on a line drive to right fielder Alex Kirilloff.,2,1,0,4,9,-1.64,2.96
-1702,2021-06-11,664702,660896,field_out,hit_into_play,12.0,"Myles Straw grounds out, first baseman Miguel Sano to pitcher Jorge Alcala.",0,2,2,3,6,0.34,3.82
-1703,2021-06-11,664702,533167,,ball,11.0,Myles Straw singles on a line drive to right fielder Alex Kirilloff.,1,1,0,3,9,-1.51,3.33
+1702,2021-06-11,664702,533167,,ball,11.0,Myles Straw singles on a line drive to right fielder Alex Kirilloff.,1,1,0,3,9,-1.51,3.33
+1703,2021-06-11,664702,660896,field_out,hit_into_play,12.0,"Myles Straw grounds out, first baseman Miguel Sano to pitcher Jorge Alcala.",0,2,2,3,6,0.34,3.82
 1704,2021-06-11,664702,533167,,foul,2.0,Myles Straw singles on a line drive to right fielder Alex Kirilloff.,1,0,0,2,9,0.01,3.19
 1705,2021-06-11,664702,660896,,foul,1.0,"Myles Straw grounds out, first baseman Miguel Sano to pitcher Jorge Alcala.",0,1,2,2,6,-0.42,3.4
 1706,2021-06-11,664702,533167,,ball,14.0,Myles Straw singles on a line drive to right fielder Alex Kirilloff.,0,0,0,1,9,1.56,1.58
@@ -1762,8 +1762,8 @@
 1760,2021-06-08,664702,527048,,ball,13.0,Myles Straw walks.   Martin Maldonado to 2nd.,1,0,0,2,2,-1.09,2.35
 1761,2021-06-08,664702,527048,,ball,13.0,Myles Straw walks.   Martin Maldonado to 2nd.,0,0,0,1,2,-0.57,1.29
 1762,2021-06-08,664702,570488,walk,ball,13.0,Myles Straw walks.,3,0,1,4,8,-2.35,2.19
-1763,2021-06-08,664702,570488,,ball,12.0,Myles Straw walks.,2,0,1,3,8,0.88,3.16
-1764,2021-06-08,664702,542882,field_out,hit_into_play,8.0,"Myles Straw grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",1,0,1,2,3,0.15,1.93
+1763,2021-06-08,664702,542882,field_out,hit_into_play,8.0,"Myles Straw grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",1,0,1,2,3,0.15,1.93
+1764,2021-06-08,664702,570488,,ball,12.0,Myles Straw walks.,2,0,1,3,8,0.88,3.16
 1765,2021-06-08,664702,570488,,ball,14.0,Myles Straw walks.,1,0,1,2,8,1.99,1.7
 1766,2021-06-08,664702,542882,,ball,14.0,"Myles Straw grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",0,0,1,1,3,0.66,1.21
 1767,2021-06-08,664702,570488,,ball,12.0,Myles Straw walks.,0,0,1,1,8,0.54,3.6
@@ -1852,10 +1852,10 @@
 1850,2021-05-30,664702,605483,field_out,hit_into_play,14.0,"Myles Straw grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",2,1,0,4,2,0.56,1.35
 1851,2021-05-30,664702,605483,,ball,14.0,"Myles Straw grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",1,1,0,3,2,0.02,0.51
 1852,2021-05-30,664702,605397,strikeout,swinging_strike,1.0,Myles Straw strikes out swinging.,3,2,1,7,6,-0.52,2.85
-1853,2021-05-30,664702,605397,,ball,11.0,Myles Straw strikes out swinging.,2,2,1,6,6,-1.18,3.45
-1854,2021-05-30,664702,605483,,ball,14.0,"Myles Straw grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",0,1,0,2,2,1.05,2.39
-1855,2021-05-30,664702,605483,,called_strike,12.0,"Myles Straw grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",0,0,0,1,2,0.91,2.77
-1856,2021-05-30,664702,605397,,foul,6.0,Myles Straw strikes out swinging.,2,2,1,5,6,0.6,2.29
+1853,2021-05-30,664702,605483,,ball,14.0,"Myles Straw grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",0,1,0,2,2,1.05,2.39
+1854,2021-05-30,664702,605397,,ball,11.0,Myles Straw strikes out swinging.,2,2,1,6,6,-1.18,3.45
+1855,2021-05-30,664702,605397,,foul,6.0,Myles Straw strikes out swinging.,2,2,1,5,6,0.6,2.29
+1856,2021-05-30,664702,605483,,called_strike,12.0,"Myles Straw grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",0,0,0,1,2,0.91,2.77
 1857,2021-05-30,664702,605397,,blocked_ball,14.0,Myles Straw strikes out swinging.,1,2,1,4,6,0.76,0.97
 1858,2021-05-30,664702,605397,,called_strike,12.0,Myles Straw strikes out swinging.,1,1,1,3,6,0.85,2.5
 1859,2021-05-30,664702,605397,,blocked_ball,14.0,Myles Straw strikes out swinging.,0,1,1,2,6,0.74,0.73
@@ -1887,16 +1887,16 @@
 1885,2021-05-28,664702,453343,,ball,14.0,Myles Straw walks.   Carlos Correa to 2nd.,2,0,2,3,10,1.16,1.4
 1886,2021-05-28,664702,453343,,ball,14.0,Myles Straw walks.   Carlos Correa to 2nd.,1,0,2,2,10,0.97,1.7
 1887,2021-05-28,664702,453343,,ball,13.0,Myles Straw walks.   Carlos Correa to 2nd.,0,0,2,1,10,-0.81,1.26
-1888,2021-05-28,664702,613534,walk,blocked_ball,14.0,Myles Straw walks.,3,1,0,5,6,0.89,0.67
-1889,2021-05-28,664702,598286,field_out,hit_into_play,6.0,Myles Straw flies out to center fielder Jorge Mateo.,2,2,0,5,4,0.4,2.48
-1890,2021-05-28,664702,613534,,ball,14.0,Myles Straw walks.,2,1,0,4,6,1.99,1.39
-1891,2021-05-28,664702,598286,,called_strike,7.0,Myles Straw flies out to center fielder Jorge Mateo.,2,1,0,4,4,-0.7,2.11
-1892,2021-05-28,664702,613534,,ball,13.0,Myles Straw walks.,1,1,0,3,6,-1.46,1.95
-1893,2021-05-28,664702,598286,,ball,13.0,Myles Straw flies out to center fielder Jorge Mateo.,1,1,0,3,4,-0.12,1.45
+1888,2021-05-28,664702,598286,field_out,hit_into_play,6.0,Myles Straw flies out to center fielder Jorge Mateo.,2,2,0,5,4,0.4,2.48
+1889,2021-05-28,664702,613534,walk,blocked_ball,14.0,Myles Straw walks.,3,1,0,5,6,0.89,0.67
+1890,2021-05-28,664702,598286,,called_strike,7.0,Myles Straw flies out to center fielder Jorge Mateo.,2,1,0,4,4,-0.7,2.11
+1891,2021-05-28,664702,613534,,ball,14.0,Myles Straw walks.,2,1,0,4,6,1.99,1.39
+1892,2021-05-28,664702,598286,,ball,13.0,Myles Straw flies out to center fielder Jorge Mateo.,1,1,0,3,4,-0.12,1.45
+1893,2021-05-28,664702,613534,,ball,13.0,Myles Straw walks.,1,1,0,3,6,-1.46,1.95
 1894,2021-05-28,664702,598286,,ball,13.0,Myles Straw flies out to center fielder Jorge Mateo.,0,1,0,2,4,-0.04,1.27
 1895,2021-05-28,664702,613534,,called_strike,7.0,Myles Straw walks.,1,0,0,2,6,-0.42,1.81
-1896,2021-05-28,664702,598286,,foul,9.0,Myles Straw flies out to center fielder Jorge Mateo.,0,0,0,1,4,0.65,1.49
-1897,2021-05-28,664702,613534,,ball,11.0,Myles Straw walks.,0,0,0,1,6,-1.24,3.43
+1896,2021-05-28,664702,613534,,ball,11.0,Myles Straw walks.,0,0,0,1,6,-1.24,3.43
+1897,2021-05-28,664702,598286,,foul,9.0,Myles Straw flies out to center fielder Jorge Mateo.,0,0,0,1,4,0.65,1.49
 1898,2021-05-26,664702,545333,single,hit_into_play,5.0,Myles Straw singles on a sharp line drive to left fielder Yoshi Tsutsugo.,3,1,2,5,4,-0.07,2.31
 1899,2021-05-26,664702,545333,,ball,14.0,Myles Straw singles on a sharp line drive to left fielder Yoshi Tsutsugo.,2,1,2,4,4,1.04,2.18
 1900,2021-05-26,664702,545333,,ball,11.0,Myles Straw singles on a sharp line drive to left fielder Yoshi Tsutsugo.,1,1,2,3,4,-1.39,3.5
@@ -1952,26 +1952,26 @@
 1950,2021-05-21,664702,621368,walk,ball,12.0,Myles Straw walks.,3,2,1,13,10,1.4,3.92
 1951,2021-05-21,664702,621368,,foul,1.0,Myles Straw walks.,3,2,1,12,10,-0.44,2.76
 1952,2021-05-21,664702,621368,,foul,5.0,Myles Straw walks.,3,2,1,11,10,-0.14,2.47
-1953,2021-05-21,664702,656685,field_out,hit_into_play,5.0,Myles Straw flies out to right fielder Joey Gallo.,3,2,0,10,7,0.06,2.66
-1954,2021-05-21,664702,621368,,foul,14.0,Myles Straw walks.,3,2,1,10,10,0.17,0.86
-1955,2021-05-21,664702,656685,,ball,11.0,Myles Straw flies out to right fielder Joey Gallo.,2,2,0,9,7,-1.55,2.84
-1956,2021-05-21,664702,621368,,foul,1.0,Myles Straw walks.,3,2,1,9,10,-0.64,3.08
+1953,2021-05-21,664702,621368,,foul,14.0,Myles Straw walks.,3,2,1,10,10,0.17,0.86
+1954,2021-05-21,664702,656685,field_out,hit_into_play,5.0,Myles Straw flies out to right fielder Joey Gallo.,3,2,0,10,7,0.06,2.66
+1955,2021-05-21,664702,621368,,foul,1.0,Myles Straw walks.,3,2,1,9,10,-0.64,3.08
+1956,2021-05-21,664702,656685,,ball,11.0,Myles Straw flies out to right fielder Joey Gallo.,2,2,0,9,7,-1.55,2.84
 1957,2021-05-21,664702,656685,,foul,2.0,Myles Straw flies out to right fielder Joey Gallo.,2,2,0,8,7,0.15,2.84
 1958,2021-05-21,664702,621368,,ball,13.0,Myles Straw walks.,2,2,1,8,10,-2.67,2.11
 1959,2021-05-21,664702,621368,,foul,6.0,Myles Straw walks.,2,2,1,7,10,0.44,2.46
 1960,2021-05-21,664702,656685,,foul,1.0,Myles Straw flies out to right fielder Joey Gallo.,2,2,0,7,7,-0.78,3.29
-1961,2021-05-21,664702,570257,field_out,hit_into_play,6.0,Myles Straw lines out to right fielder Joey Gallo.,1,2,1,4,8,0.53,2.16
-1962,2021-05-21,664702,656685,,foul,7.0,Myles Straw flies out to right fielder Joey Gallo.,2,2,0,6,7,-0.28,1.94
+1961,2021-05-21,664702,656685,,foul,7.0,Myles Straw flies out to right fielder Joey Gallo.,2,2,0,6,7,-0.28,1.94
+1962,2021-05-21,664702,570257,field_out,hit_into_play,6.0,Myles Straw lines out to right fielder Joey Gallo.,1,2,1,4,8,0.53,2.16
 1963,2021-05-21,664702,621368,,foul,5.0,Myles Straw walks.,2,2,1,6,10,0.04,2.7
-1964,2021-05-21,664702,656685,,ball,13.0,Myles Straw flies out to right fielder Joey Gallo.,1,2,0,5,7,-1.55,2.1
-1965,2021-05-21,664702,570257,,blocked_ball,13.0,Myles Straw lines out to right fielder Joey Gallo.,0,2,1,3,8,-0.03,0.06
+1964,2021-05-21,664702,570257,,blocked_ball,13.0,Myles Straw lines out to right fielder Joey Gallo.,0,2,1,3,8,-0.03,0.06
+1965,2021-05-21,664702,656685,,ball,13.0,Myles Straw flies out to right fielder Joey Gallo.,1,2,0,5,7,-1.55,2.1
 1966,2021-05-21,664702,621368,,foul,7.0,Myles Straw walks.,2,2,1,5,10,-0.4,2.01
 1967,2021-05-21,664702,656685,,foul,5.0,Myles Straw flies out to right fielder Joey Gallo.,1,2,0,4,7,0.18,2.17
 1968,2021-05-21,664702,570257,,foul,7.0,Myles Straw lines out to right fielder Joey Gallo.,0,1,1,2,8,-0.29,1.72
 1969,2021-05-21,664702,621368,,called_strike,4.0,Myles Straw walks.,2,1,1,4,10,-0.49,2.3
 1970,2021-05-21,664702,656685,,blocked_ball,13.0,Myles Straw flies out to right fielder Joey Gallo.,0,2,0,3,7,-0.42,0.67
-1971,2021-05-21,664702,621368,,ball,14.0,Myles Straw walks.,1,1,1,3,10,1.22,2.34
-1972,2021-05-21,664702,570257,,called_strike,5.0,Myles Straw lines out to right fielder Joey Gallo.,0,0,1,1,8,0.05,2.65
+1971,2021-05-21,664702,570257,,called_strike,5.0,Myles Straw lines out to right fielder Joey Gallo.,0,0,1,1,8,0.05,2.65
+1972,2021-05-21,664702,621368,,ball,14.0,Myles Straw walks.,1,1,1,3,10,1.22,2.34
 1973,2021-05-21,664702,656685,,called_strike,13.0,Myles Straw flies out to right fielder Joey Gallo.,0,1,0,2,7,-0.91,1.79
 1974,2021-05-21,664702,621368,,called_strike,3.0,Myles Straw walks.,1,0,1,2,10,0.7,3.42
 1975,2021-05-21,664702,621368,,ball,12.0,Myles Straw walks.,0,0,1,1,10,1.13,5.15
@@ -1982,12 +1982,12 @@
 1980,2021-05-20,664702,608344,,called_strike,9.0,"Myles Straw grounds out, second baseman Tony Kemp to first baseman Matt Olson.   Kyle Tucker to 3rd.",0,0,1,1,4,0.77,1.77
 1981,2021-05-20,664702,608344,single,hit_into_play,2.0,Myles Straw singles on a fly ball to left fielder Mark Canha.,0,0,0,1,3,0.11,2.99
 1982,2021-05-20,664702,572143,strikeout,swinging_strike,3.0,Myles Straw strikes out swinging.,1,2,1,4,6,0.79,2.99
-1983,2021-05-20,664702,572143,,called_strike,14.0,Myles Straw strikes out swinging.,1,1,1,3,6,0.85,1.95
-1984,2021-05-20,664702,594056,strikeout,foul_tip,7.0,Myles Straw strikes out on a foul tip.,0,2,1,3,8,-0.54,2.03
-1985,2021-05-20,664702,594056,,foul_tip,7.0,Myles Straw strikes out on a foul tip.,0,1,1,2,8,-0.43,1.96
-1986,2021-05-20,664702,572143,,ball,14.0,Myles Straw strikes out swinging.,0,1,1,2,6,1.59,1.12
-1987,2021-05-20,664702,572143,,called_strike,6.0,Myles Straw strikes out swinging.,0,0,1,1,6,0.54,2.62
-1988,2021-05-20,664702,594056,,called_strike,8.0,Myles Straw strikes out on a foul tip.,0,0,1,1,8,-0.09,2.12
+1983,2021-05-20,664702,594056,strikeout,foul_tip,7.0,Myles Straw strikes out on a foul tip.,0,2,1,3,8,-0.54,2.03
+1984,2021-05-20,664702,572143,,called_strike,14.0,Myles Straw strikes out swinging.,1,1,1,3,6,0.85,1.95
+1985,2021-05-20,664702,572143,,ball,14.0,Myles Straw strikes out swinging.,0,1,1,2,6,1.59,1.12
+1986,2021-05-20,664702,594056,,foul_tip,7.0,Myles Straw strikes out on a foul tip.,0,1,1,2,8,-0.43,1.96
+1987,2021-05-20,664702,594056,,called_strike,8.0,Myles Straw strikes out on a foul tip.,0,0,1,1,8,-0.09,2.12
+1988,2021-05-20,664702,572143,,called_strike,6.0,Myles Straw strikes out swinging.,0,0,1,1,6,0.54,2.62
 1989,2021-05-19,664702,593423,field_out,hit_into_play,13.0,Myles Straw lines out to center fielder Ramon Laureano.,0,0,2,1,3,-1.34,1.82
 1990,2021-05-19,664702,593423,strikeout,called_strike,6.0,Myles Straw called out on strikes.,1,2,0,4,2,0.79,2.34
 1991,2021-05-19,664702,593423,,called_strike,8.0,Myles Straw called out on strikes.,1,1,0,3,2,0.25,1.77
@@ -1996,12 +1996,12 @@
 1994,2021-05-19,664702,594056,single,hit_into_play,1.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,2,2,1,8,9,-0.47,3.23
 1995,2021-05-19,664702,594056,,foul,4.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,2,2,1,7,9,-0.63,2.44
 1996,2021-05-19,664702,594056,,foul,13.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,2,2,1,6,9,-0.19,1.11
-1997,2021-05-19,664702,500610,single,hit_into_play,9.0,Myles Straw singles on a line drive to center fielder Ramon Laureano.,1,1,1,3,6,0.59,1.94
-1998,2021-05-19,664702,594056,,ball,14.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,1,2,1,5,9,1.68,1.77
+1997,2021-05-19,664702,594056,,ball,14.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,1,2,1,5,9,1.68,1.77
+1998,2021-05-19,664702,500610,single,hit_into_play,9.0,Myles Straw singles on a line drive to center fielder Ramon Laureano.,1,1,1,3,6,0.59,1.94
 1999,2021-05-19,664702,500610,,called_strike,3.0,Myles Straw singles on a line drive to center fielder Ramon Laureano.,1,0,1,2,6,0.35,3.17
 2000,2021-05-19,664702,594056,,foul,8.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,1,2,1,4,9,-0.14,1.65
-2001,2021-05-19,664702,500610,,ball,14.0,Myles Straw singles on a line drive to center fielder Ramon Laureano.,0,0,1,1,6,0.4,1.08
-2002,2021-05-19,664702,594056,,ball,14.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,0,2,1,3,9,0.17,0.67
+2001,2021-05-19,664702,594056,,ball,14.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,0,2,1,3,9,0.17,0.67
+2002,2021-05-19,664702,500610,,ball,14.0,Myles Straw singles on a line drive to center fielder Ramon Laureano.,0,0,1,1,6,0.4,1.08
 2003,2021-05-19,664702,594056,,foul,7.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,0,1,1,2,9,-0.65,1.77
 2004,2021-05-19,664702,594056,,called_strike,6.0,Myles Straw singles on a line drive to right fielder Stephen Piscotty.,0,0,1,1,9,0.31,2.47
 2005,2021-05-19,664702,592473,single,hit_into_play,9.0,Myles Straw singles on a ground ball to right fielder Stephen Piscotty.,0,1,0,2,8,0.39,1.95
@@ -2086,8 +2086,8 @@
 2084,2021-05-13,664702,622250,,foul,8.0,Myles Straw strikes out swinging.,1,1,0,3,8,0.26,1.91
 2085,2021-05-13,664702,622250,,called_strike,6.0,Myles Straw strikes out swinging.,1,0,0,2,8,0.7,2.74
 2086,2021-05-13,664702,453178,,foul,6.0,"Myles Straw flies into a double play, right fielder Joey Gallo to catcher Jonah Heim.   Chas McCormick out at home.",0,0,1,1,10,0.56,2.37
-2087,2021-05-13,664702,622250,,ball,14.0,Myles Straw strikes out swinging.,0,0,0,1,8,0.85,1.56
-2088,2021-05-13,664702,667463,field_out,hit_into_play,9.0,"Myles Straw grounds out, second baseman Nick Solak to first baseman Nate Lowe.",1,1,0,3,6,0.3,1.98
+2087,2021-05-13,664702,667463,field_out,hit_into_play,9.0,"Myles Straw grounds out, second baseman Nick Solak to first baseman Nate Lowe.",1,1,0,3,6,0.3,1.98
+2088,2021-05-13,664702,622250,,ball,14.0,Myles Straw strikes out swinging.,0,0,0,1,8,0.85,1.56
 2089,2021-05-13,664702,667463,,ball,14.0,"Myles Straw grounds out, second baseman Nick Solak to first baseman Nate Lowe.",0,1,0,2,6,1.0,0.74
 2090,2021-05-13,664702,667463,,called_strike,9.0,"Myles Straw grounds out, second baseman Nick Solak to first baseman Nate Lowe.",0,0,0,1,6,0.49,1.8
 2091,2021-05-11,664702,660271,strikeout,swinging_strike,1.0,Myles Straw strikes out swinging.,1,2,2,4,7,-0.54,2.98
@@ -2159,8 +2159,8 @@
 2157,2021-05-07,664702,676709,,foul,12.0,Myles Straw walks.,1,2,0,5,6,0.85,2.94
 2158,2021-05-07,664702,676709,,ball,12.0,Myles Straw walks.,0,2,0,4,6,0.62,4.03
 2159,2021-05-07,664702,676709,,foul,12.0,Myles Straw walks.,0,2,0,3,6,0.08,3.75
-2160,2021-05-07,664702,676709,,called_strike,14.0,Myles Straw walks.,0,1,0,2,6,0.63,1.41
-2161,2021-05-07,664702,663423,field_out,hit_into_play,5.0,Myles Straw flies out to right fielder Teoscar Hernandez.,1,0,1,2,7,0.03,2.53
+2160,2021-05-07,664702,663423,field_out,hit_into_play,5.0,Myles Straw flies out to right fielder Teoscar Hernandez.,1,0,1,2,7,0.03,2.53
+2161,2021-05-07,664702,676709,,called_strike,14.0,Myles Straw walks.,0,1,0,2,6,0.63,1.41
 2162,2021-05-07,664702,676709,,called_strike,11.0,Myles Straw walks.,0,0,0,1,6,-0.86,3.03
 2163,2021-05-07,664702,663423,,ball,11.0,Myles Straw flies out to right fielder Teoscar Hernandez.,0,0,1,1,7,-1.53,4.18
 2164,2021-05-06,664702,543037,field_out,hit_into_play,8.0,"Myles Straw grounds out, third baseman Gio Urshela to first baseman Mike Ford.",0,1,2,2,5,-0.27,1.38
@@ -2253,12 +2253,12 @@
 2251,2021-04-30,664702,545343,,ball,14.0,Myles Straw out on a sacrifice fly to center fielder Kevin Kiermaier.   Aledmys Diaz scores.,1,2,1,5,9,1.54,2.33
 2252,2021-04-30,664702,670950,field_out,hit_into_play,14.0,Myles Straw pops out softly to second baseman Brandon Lowe.,2,1,2,4,7,0.99,2.05
 2253,2021-04-30,664702,545343,,foul,6.0,Myles Straw out on a sacrifice fly to center fielder Kevin Kiermaier.   Aledmys Diaz scores.,1,2,1,4,9,0.37,2.56
-2254,2021-04-30,664702,545343,,called_strike,2.0,Myles Straw out on a sacrifice fly to center fielder Kevin Kiermaier.   Aledmys Diaz scores.,1,1,1,3,9,0.1,2.83
-2255,2021-04-30,664702,642232,strikeout,called_strike,12.0,Myles Straw called out on strikes.,1,2,1,4,2,0.84,2.56
-2256,2021-04-30,664702,670950,,ball,14.0,Myles Straw pops out softly to second baseman Brandon Lowe.,1,1,2,3,7,0.88,1.74
+2254,2021-04-30,664702,642232,strikeout,called_strike,12.0,Myles Straw called out on strikes.,1,2,1,4,2,0.84,2.56
+2255,2021-04-30,664702,670950,,ball,14.0,Myles Straw pops out softly to second baseman Brandon Lowe.,1,1,2,3,7,0.88,1.74
+2256,2021-04-30,664702,545343,,called_strike,2.0,Myles Straw out on a sacrifice fly to center fielder Kevin Kiermaier.   Aledmys Diaz scores.,1,1,1,3,9,0.1,2.83
 2257,2021-04-30,664702,670950,,foul_tip,5.0,Myles Straw pops out softly to second baseman Brandon Lowe.,1,0,2,2,7,-0.07,2.71
-2258,2021-04-30,664702,642232,,foul,6.0,Myles Straw called out on strikes.,1,1,1,3,2,0.33,2.09
-2259,2021-04-30,664702,545343,,ball,14.0,Myles Straw out on a sacrifice fly to center fielder Kevin Kiermaier.   Aledmys Diaz scores.,0,1,1,2,9,1.57,0.82
+2258,2021-04-30,664702,545343,,ball,14.0,Myles Straw out on a sacrifice fly to center fielder Kevin Kiermaier.   Aledmys Diaz scores.,0,1,1,2,9,1.57,0.82
+2259,2021-04-30,664702,642232,,foul,6.0,Myles Straw called out on strikes.,1,1,1,3,2,0.33,2.09
 2260,2021-04-30,664702,545343,,called_strike,9.0,Myles Straw out on a sacrifice fly to center fielder Kevin Kiermaier.   Aledmys Diaz scores.,0,0,1,1,9,0.81,1.75
 2261,2021-04-30,664702,642232,,ball,14.0,Myles Straw called out on strikes.,0,1,1,2,2,1.38,1.27
 2262,2021-04-30,664702,670950,,ball,12.0,Myles Straw pops out softly to second baseman Brandon Lowe.,0,0,2,1,7,0.31,3.73
@@ -2294,8 +2294,8 @@
 2292,2021-04-28,664702,606160,,foul,5.0,Myles Straw walks.   Carlos Correa to 3rd.    Aledmys Diaz to 2nd.,2,2,1,5,8,-0.04,2.14
 2293,2021-04-28,664702,606160,,called_strike,6.0,Myles Straw walks.   Carlos Correa to 3rd.    Aledmys Diaz to 2nd.,2,1,1,4,8,0.73,2.45
 2294,2021-04-28,664702,643290,,foul,6.0,Myles Straw singles on a ground ball to center fielder Kyle Lewis.   Chas McCormick scores.,2,2,2,5,2,0.28,2.6
-2295,2021-04-28,664702,643290,,blocked_ball,14.0,Myles Straw singles on a ground ball to center fielder Kyle Lewis.   Chas McCormick scores.,1,2,2,4,2,1.44,0.31
-2296,2021-04-28,664702,606160,,ball,1.0,Myles Straw walks.   Carlos Correa to 3rd.    Aledmys Diaz to 2nd.,1,1,1,3,8,-0.81,3.16
+2295,2021-04-28,664702,606160,,ball,1.0,Myles Straw walks.   Carlos Correa to 3rd.    Aledmys Diaz to 2nd.,1,1,1,3,8,-0.81,3.16
+2296,2021-04-28,664702,643290,,blocked_ball,14.0,Myles Straw singles on a ground ball to center fielder Kyle Lewis.   Chas McCormick scores.,1,2,2,4,2,1.44,0.31
 2297,2021-04-28,664702,643290,,foul,11.0,Myles Straw singles on a ground ball to center fielder Kyle Lewis.   Chas McCormick scores.,1,1,2,3,2,-1.16,3.24
 2298,2021-04-28,664702,606160,,ball,2.0,Myles Straw walks.   Carlos Correa to 3rd.    Aledmys Diaz to 2nd.,0,1,1,2,8,0.02,3.22
 2299,2021-04-28,664702,643290,,ball,6.0,Myles Straw singles on a ground ball to center fielder Kyle Lewis.   Chas McCormick scores.,0,1,2,2,2,0.54,2.25
@@ -2403,10 +2403,10 @@
 2401,2021-04-22,664702,502171,,blocked_ball,13.0,Myles Straw triples (1) on a ground ball to left fielder Justin Upton.   Aledmys Diaz scores.,1,2,0,5,2,-0.12,-0.25
 2402,2021-04-22,664702,448855,force_out,hit_into_play,14.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.    Myles Straw to 1st.",2,2,1,5,6,0.08,0.89
 2403,2021-04-22,664702,502171,,foul,7.0,Myles Straw triples (1) on a ground ball to left fielder Justin Upton.   Aledmys Diaz scores.,1,2,0,4,2,-0.53,1.58
-2404,2021-04-22,664702,448855,,foul,11.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.    Myles Straw to 1st.",2,1,1,4,6,-0.95,2.6
-2405,2021-04-22,664702,502171,,foul,9.0,Myles Straw triples (1) on a ground ball to left fielder Justin Upton.   Aledmys Diaz scores.,1,1,0,3,2,0.44,1.87
-2406,2021-04-22,664702,448855,,called_strike,8.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.    Myles Straw to 1st.",2,0,1,3,6,0.22,1.83
-2407,2021-04-22,664702,502171,,called_strike,5.0,Myles Straw triples (1) on a ground ball to left fielder Justin Upton.   Aledmys Diaz scores.,1,0,0,2,2,0.24,2.17
+2404,2021-04-22,664702,502171,,foul,9.0,Myles Straw triples (1) on a ground ball to left fielder Justin Upton.   Aledmys Diaz scores.,1,1,0,3,2,0.44,1.87
+2405,2021-04-22,664702,448855,,foul,11.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.    Myles Straw to 1st.",2,1,1,4,6,-0.95,2.6
+2406,2021-04-22,664702,502171,,called_strike,5.0,Myles Straw triples (1) on a ground ball to left fielder Justin Upton.   Aledmys Diaz scores.,1,0,0,2,2,0.24,2.17
+2407,2021-04-22,664702,448855,,called_strike,8.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.    Myles Straw to 1st.",2,0,1,3,6,0.22,1.83
 2408,2021-04-22,664702,448855,,ball,14.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.    Myles Straw to 1st.",1,0,1,2,6,1.34,1.4
 2409,2021-04-22,664702,502171,,ball,14.0,Myles Straw triples (1) on a ground ball to left fielder Justin Upton.   Aledmys Diaz scores.,0,0,0,1,2,1.53,1.96
 2410,2021-04-22,664702,448855,,ball,11.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.    Myles Straw to 1st.",0,0,1,1,6,-0.13,3.58
@@ -2431,8 +2431,8 @@
 2429,2021-04-18,664702,594987,strikeout,called_strike,6.0,Myles Straw called out on strikes.,0,2,1,3,7,0.49,2.29
 2430,2021-04-18,664702,594987,,foul,1.0,Myles Straw called out on strikes.,0,1,1,2,7,-0.73,3.39
 2431,2021-04-18,664702,664714,sac_fly,hit_into_play,5.0,Myles Straw out on a sacrifice fly to right fielder Mitch Haniger.   Chas McCormick scores.,2,2,1,6,5,-0.27,2.12
-2432,2021-04-18,664702,594987,,called_strike,4.0,Myles Straw called out on strikes.,0,0,1,1,7,-0.44,2.52
-2433,2021-04-18,664702,664714,,foul,13.0,Myles Straw out on a sacrifice fly to right fielder Mitch Haniger.   Chas McCormick scores.,2,2,1,5,5,-0.96,2.13
+2432,2021-04-18,664702,664714,,foul,13.0,Myles Straw out on a sacrifice fly to right fielder Mitch Haniger.   Chas McCormick scores.,2,2,1,5,5,-0.96,2.13
+2433,2021-04-18,664702,594987,,called_strike,4.0,Myles Straw called out on strikes.,0,0,1,1,7,-0.44,2.52
 2434,2021-04-18,664702,664714,,swinging_strike,6.0,Myles Straw out on a sacrifice fly to right fielder Mitch Haniger.   Chas McCormick scores.,2,1,1,4,5,0.32,2.09
 2435,2021-04-18,664702,664714,,ball,12.0,Myles Straw out on a sacrifice fly to right fielder Mitch Haniger.   Chas McCormick scores.,1,1,1,3,5,1.52,2.93
 2436,2021-04-18,664702,664714,,ball,13.0,Myles Straw out on a sacrifice fly to right fielder Mitch Haniger.   Chas McCormick scores.,0,1,1,2,5,-1.66,2.25
@@ -2572,8 +2572,8 @@
 2570,2021-04-05,664702,500779,,foul,6.0,Myles Straw walks.   Aledmys Diaz to 2nd.,0,0,0,1,4,0.71,2.3
 2571,2021-04-05,664702,500779,force_out,hit_into_play,14.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.",1,1,2,3,1,1.18,2.21
 2572,2021-04-05,664702,500779,,blocked_ball,14.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.",0,1,2,2,1,0.56,0.74
-2573,2021-04-05,664702,669735,field_out,hit_into_play,5.0,"Myles Straw grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",2,1,2,4,5,-0.11,2.6
-2574,2021-04-05,664702,500779,,foul,3.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.",0,0,2,1,1,0.82,3.14
+2573,2021-04-05,664702,500779,,foul,3.0,"Myles Straw grounds into a force out, shortstop Jose Iglesias to second baseman David Fletcher.   Aledmys Diaz out at 2nd.",0,0,2,1,1,0.82,3.14
+2574,2021-04-05,664702,669735,field_out,hit_into_play,5.0,"Myles Straw grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",2,1,2,4,5,-0.11,2.6
 2575,2021-04-05,664702,669735,,called_strike,14.0,"Myles Straw grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",2,0,2,3,5,0.98,2.32
 2576,2021-04-05,664702,669735,,ball,14.0,"Myles Straw grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",1,0,2,2,5,1.73,2.08
 2577,2021-04-05,664702,669735,,ball,14.0,"Myles Straw grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",0,0,2,1,5,1.09,1.48
@@ -2611,10 +2611,10 @@
 2609,2021-04-03,664702,608344,single,hit_into_play,9.0,Myles Straw singles on a line drive to center fielder Mark Canha.   Yordan Alvarez to 3rd.    Yuli Gurriel to 2nd.,1,0,0,2,2,0.29,1.91
 2610,2021-04-03,664702,608344,,ball,4.0,Myles Straw singles on a line drive to center fielder Mark Canha.   Yordan Alvarez to 3rd.    Yuli Gurriel to 2nd.,0,0,0,1,2,-0.78,2.14
 2611,2021-04-03,664702,572143,field_out,hit_into_play,8.0,Myles Straw lines out to center fielder Mark Canha.,3,2,2,7,8,0.12,1.86
-2612,2021-04-03,664702,572143,,foul,4.0,Myles Straw lines out to center fielder Mark Canha.,3,2,2,6,8,-0.48,2.58
-2613,2021-04-03,664702,642152,strikeout,called_strike,9.0,Myles Straw called out on strikes.,1,2,0,4,6,0.71,1.98
-2614,2021-04-03,664702,572143,,foul,2.0,Myles Straw lines out to center fielder Mark Canha.,3,1,2,5,8,-0.12,3.27
-2615,2021-04-03,664702,642152,,ball,14.0,Myles Straw called out on strikes.,0,2,0,3,6,0.87,1.65
+2612,2021-04-03,664702,642152,strikeout,called_strike,9.0,Myles Straw called out on strikes.,1,2,0,4,6,0.71,1.98
+2613,2021-04-03,664702,572143,,foul,4.0,Myles Straw lines out to center fielder Mark Canha.,3,2,2,6,8,-0.48,2.58
+2614,2021-04-03,664702,642152,,ball,14.0,Myles Straw called out on strikes.,0,2,0,3,6,0.87,1.65
+2615,2021-04-03,664702,572143,,foul,2.0,Myles Straw lines out to center fielder Mark Canha.,3,1,2,5,8,-0.12,3.27
 2616,2021-04-03,664702,572143,,ball,11.0,Myles Straw lines out to center fielder Mark Canha.,2,1,2,4,8,-1.04,3.24
 2617,2021-04-03,664702,642152,,foul,11.0,Myles Straw called out on strikes.,0,1,0,2,6,-0.9,2.67
 2618,2021-04-03,664702,642152,,called_strike,2.0,Myles Straw called out on strikes.,0,0,0,1,6,0.09,2.69
@@ -2635,8 +2635,8 @@
 2633,2021-04-02,664702,605525,field_error,hit_into_play,9.0,Myles Straw reaches on a fielding error by first baseman Matt Olson.   Alex Bregman scores.    Kyle Tucker to 3rd.    Yuli Gurriel to 2nd.,3,2,2,7,9,0.73,1.41
 2634,2021-04-02,664702,605525,,foul,8.0,Myles Straw reaches on a fielding error by first baseman Matt Olson.   Alex Bregman scores.    Kyle Tucker to 3rd.    Yuli Gurriel to 2nd.,3,2,2,6,9,0.2,1.39
 2635,2021-04-02,664702,605525,,ball,12.0,Myles Straw reaches on a fielding error by first baseman Matt Olson.   Alex Bregman scores.    Kyle Tucker to 3rd.    Yuli Gurriel to 2nd.,2,2,2,5,9,1.99,2.53
-2636,2021-04-02,664702,572143,grounded_into_double_play,hit_into_play,5.0,"Myles Straw grounds into a double play, shortstop Elvis Andrus to first baseman Matt Olson.   Yuli Gurriel out at 2nd.    Myles Straw out at 1st.",1,2,0,4,6,0.23,2.07
-2637,2021-04-02,664702,605525,,blocked_ball,14.0,Myles Straw reaches on a fielding error by first baseman Matt Olson.   Alex Bregman scores.    Kyle Tucker to 3rd.    Yuli Gurriel to 2nd.,1,2,2,4,9,1.79,-0.16
+2636,2021-04-02,664702,605525,,blocked_ball,14.0,Myles Straw reaches on a fielding error by first baseman Matt Olson.   Alex Bregman scores.    Kyle Tucker to 3rd.    Yuli Gurriel to 2nd.,1,2,2,4,9,1.79,-0.16
+2637,2021-04-02,664702,572143,grounded_into_double_play,hit_into_play,5.0,"Myles Straw grounds into a double play, shortstop Elvis Andrus to first baseman Matt Olson.   Yuli Gurriel out at 2nd.    Myles Straw out at 1st.",1,2,0,4,6,0.23,2.07
 2638,2021-04-02,664702,572143,,ball,14.0,"Myles Straw grounds into a double play, shortstop Elvis Andrus to first baseman Matt Olson.   Yuli Gurriel out at 2nd.    Myles Straw out at 1st.",0,2,0,3,6,0.92,2.0
 2639,2021-04-02,664702,605525,,blocked_ball,14.0,Myles Straw reaches on a fielding error by first baseman Matt Olson.   Alex Bregman scores.    Kyle Tucker to 3rd.    Yuli Gurriel to 2nd.,0,2,2,3,9,0.54,-0.04
 2640,2021-04-02,664702,572143,,foul_tip,5.0,"Myles Straw grounds into a double play, shortstop Elvis Andrus to first baseman Matt Olson.   Yuli Gurriel out at 2nd.    Myles Straw out at 1st.",0,1,0,2,6,0.07,2.43

@@ -14,12 +14,12 @@
 12,2021-05-16,545361,598264,single,hit_into_play,1,Mike Trout singles on a fly ball to center fielder Hunter Renfroe.,1,1,2,3,9,-0.4,2.89
 13,2021-05-16,545361,598264,,called_strike,9,Mike Trout singles on a fly ball to center fielder Hunter Renfroe.,1,0,2,2,9,0.76,1.73
 14,2021-05-16,545361,598264,,ball,12,Mike Trout singles on a fly ball to center fielder Hunter Renfroe.,0,0,2,1,9,1.11,3.66
-15,2021-05-16,545361,543135,strikeout,swinging_strike,6,Mike Trout strikes out swinging.,2,2,1,5,1,0.68,2.2
-16,2021-05-16,545361,657031,field_out,hit_into_play,8,Mike Trout lines out to left fielder J.  D. Martinez.,3,2,1,6,7,-0.11,1.58
-17,2021-05-16,545361,543135,,ball,11,Mike Trout strikes out swinging.,1,2,1,4,1,-1.21,3.12
-18,2021-05-16,545361,657031,,ball,12,Mike Trout lines out to left fielder J.  D. Martinez.,2,2,1,5,7,1.09,2.96
-19,2021-05-16,545361,543135,,called_strike,6,Mike Trout strikes out swinging.,1,1,1,3,1,0.37,2.32
-20,2021-05-16,545361,657031,,ball,12,Mike Trout lines out to left fielder J.  D. Martinez.,1,2,1,4,7,0.01,4.33
+15,2021-05-16,545361,657031,field_out,hit_into_play,8,Mike Trout lines out to left fielder J.  D. Martinez.,3,2,1,6,7,-0.11,1.58
+16,2021-05-16,545361,543135,strikeout,swinging_strike,6,Mike Trout strikes out swinging.,2,2,1,5,1,0.68,2.2
+17,2021-05-16,545361,657031,,ball,12,Mike Trout lines out to left fielder J.  D. Martinez.,2,2,1,5,7,1.09,2.96
+18,2021-05-16,545361,543135,,ball,11,Mike Trout strikes out swinging.,1,2,1,4,1,-1.21,3.12
+19,2021-05-16,545361,657031,,ball,12,Mike Trout lines out to left fielder J.  D. Martinez.,1,2,1,4,7,0.01,4.33
+20,2021-05-16,545361,543135,,called_strike,6,Mike Trout strikes out swinging.,1,1,1,3,1,0.37,2.32
 21,2021-05-16,545361,543135,,ball,3,Mike Trout strikes out swinging.,0,1,1,2,1,0.71,3.64
 22,2021-05-16,545361,657031,,swinging_strike,13,Mike Trout lines out to left fielder J.  D. Martinez.,1,1,1,3,7,-0.34,0.95
 23,2021-05-16,545361,543135,,swinging_strike,3,Mike Trout strikes out swinging.,0,0,1,1,1,0.28,3.35
@@ -61,10 +61,10 @@
 59,2021-05-14,545361,493603,,called_strike,8,Mike Trout called out on strikes.,3,1,2,5,8,-0.01,1.88
 60,2021-05-14,545361,493603,,ball,14,Mike Trout called out on strikes.,2,1,2,4,8,1.29,2.21
 61,2021-05-14,545361,493603,,ball,14,Mike Trout called out on strikes.,1,1,2,3,8,1.99,2.17
-62,2021-05-14,545361,601713,strikeout,called_strike,2,Mike Trout called out on strikes.,1,2,1,4,1,0.22,3.26
-63,2021-05-14,545361,493603,,ball,12,Mike Trout called out on strikes.,0,1,2,2,8,1.86,3.1
-64,2021-05-14,545361,493603,,swinging_strike,2,Mike Trout called out on strikes.,0,0,2,1,8,0.2,3.01
-65,2021-05-14,545361,601713,,ball,11,Mike Trout called out on strikes.,0,2,1,3,1,-0.06,3.9
+62,2021-05-14,545361,493603,,ball,12,Mike Trout called out on strikes.,0,1,2,2,8,1.86,3.1
+63,2021-05-14,545361,601713,strikeout,called_strike,2,Mike Trout called out on strikes.,1,2,1,4,1,0.22,3.26
+64,2021-05-14,545361,601713,,ball,11,Mike Trout called out on strikes.,0,2,1,3,1,-0.06,3.9
+65,2021-05-14,545361,493603,,swinging_strike,2,Mike Trout called out on strikes.,0,0,2,1,8,0.2,3.01
 66,2021-05-14,545361,601713,,swinging_strike,14,Mike Trout called out on strikes.,0,1,1,2,1,0.45,1.33
 67,2021-05-14,545361,601713,,called_strike,2,Mike Trout called out on strikes.,0,0,1,1,1,-0.15,3.36
 68,2021-05-11,545361,621121,walk,ball,14,Mike Trout walks.   Shohei Ohtani to 2nd.,3,1,0,5,7,1.51,1.84
@@ -75,8 +75,8 @@
 73,2021-05-11,545361,621121,field_out,hit_into_play,6,Mike Trout grounds out to first baseman Yuli Gurriel.,2,0,1,3,4,0.47,2.58
 74,2021-05-11,545361,621121,,ball,14,Mike Trout grounds out to first baseman Yuli Gurriel.,1,0,1,2,4,2.35,2.01
 75,2021-05-11,545361,621121,,ball,14,Mike Trout grounds out to first baseman Yuli Gurriel.,0,0,1,1,4,1.1,1.27
-76,2021-05-11,545361,621121,strikeout,swinging_strike_blocked,14,Mike Trout strikes out swinging.,0,2,2,3,1,0.62,0.38
-77,2021-05-11,545361,519151,field_out,hit_into_play,2,Mike Trout flies out sharply to center fielder Myles Straw.,1,2,2,4,9,0.25,3.0
+76,2021-05-11,545361,519151,field_out,hit_into_play,2,Mike Trout flies out sharply to center fielder Myles Straw.,1,2,2,4,9,0.25,3.0
+77,2021-05-11,545361,621121,strikeout,swinging_strike_blocked,14,Mike Trout strikes out swinging.,0,2,2,3,1,0.62,0.38
 78,2021-05-11,545361,519151,,foul,8,Mike Trout flies out sharply to center fielder Myles Straw.,1,1,2,3,9,0.22,1.79
 79,2021-05-11,545361,621121,,swinging_strike,14,Mike Trout strikes out swinging.,0,1,2,2,1,1.36,1.79
 80,2021-05-11,545361,621121,,called_strike,6,Mike Trout strikes out swinging.,0,0,2,1,1,0.64,2.6
@@ -97,14 +97,14 @@
 95,2021-05-10,545361,677651,,ball,14,Mike Trout walks.,0,0,0,1,4,1.15,1.62
 96,2021-05-10,545361,677651,field_out,hit_into_play,9,"Mike Trout grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,2,2,4,1,0.28,1.51
 97,2021-05-10,545361,592288,strikeout,called_strike,2,Mike Trout called out on strikes.,0,2,0,3,9,-0.21,3.39
-98,2021-05-10,545361,592288,,called_strike,2,Mike Trout called out on strikes.,0,1,0,2,9,0.14,3.43
-99,2021-05-10,545361,677651,,ball,12,"Mike Trout grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,2,2,3,1,1.1,3.41
+98,2021-05-10,545361,677651,,ball,12,"Mike Trout grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,2,2,3,1,1.1,3.41
+99,2021-05-10,545361,592288,,called_strike,2,Mike Trout called out on strikes.,0,1,0,2,9,0.14,3.43
 100,2021-05-10,545361,548384,walk,ball,12,Mike Trout walks.,3,2,0,6,7,0.87,3.79
-101,2021-05-10,545361,677651,,foul,8,"Mike Trout grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,1,2,2,1,-0.25,1.77
-102,2021-05-10,545361,548384,,ball,2,Mike Trout walks.,2,2,0,5,7,-0.23,3.59
-103,2021-05-10,545361,592288,,called_strike,8,Mike Trout called out on strikes.,0,0,0,1,9,-0.07,2.09
-104,2021-05-10,545361,677651,,called_strike,8,"Mike Trout grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,2,1,1,0.27,2.13
-105,2021-05-10,545361,548384,,foul,2,Mike Trout walks.,2,1,0,4,7,0.15,3.05
+101,2021-05-10,545361,548384,,ball,2,Mike Trout walks.,2,2,0,5,7,-0.23,3.59
+102,2021-05-10,545361,592288,,called_strike,8,Mike Trout called out on strikes.,0,0,0,1,9,-0.07,2.09
+103,2021-05-10,545361,677651,,foul,8,"Mike Trout grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,1,2,2,1,-0.25,1.77
+104,2021-05-10,545361,548384,,foul,2,Mike Trout walks.,2,1,0,4,7,0.15,3.05
+105,2021-05-10,545361,677651,,called_strike,8,"Mike Trout grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,2,1,1,0.27,2.13
 106,2021-05-10,545361,548384,,called_strike,3,Mike Trout walks.,2,0,0,3,7,0.33,3.37
 107,2021-05-10,545361,548384,,ball,13,Mike Trout walks.,1,0,0,2,7,-1.49,2.29
 108,2021-05-10,545361,548384,,ball,11,Mike Trout walks.,0,0,0,1,7,-1.32,2.88
@@ -122,12 +122,12 @@
 120,2021-05-09,545361,445276,strikeout,swinging_strike,6,Mike Trout strikes out swinging.,2,2,1,6,8,0.72,2.66
 121,2021-05-09,545361,445276,,ball,14,Mike Trout strikes out swinging.,1,2,1,5,8,2.17,2.01
 122,2021-05-09,545361,445276,,foul,3,Mike Trout strikes out swinging.,1,2,1,4,8,0.51,3.36
-123,2021-05-09,545361,445276,,called_strike,8,Mike Trout strikes out swinging.,1,1,1,3,8,0.23,2.07
-124,2021-05-09,545361,545333,field_out,hit_into_play,14,"Mike Trout grounds out, shortstop Corey Seager to first baseman Max Muncy.   Shohei Ohtani to 2nd.",2,1,1,4,1,0.89,1.18
-125,2021-05-09,545361,445276,,ball,12,Mike Trout strikes out swinging.,0,1,1,2,8,1.87,2.84
-126,2021-05-09,545361,545333,,ball,14,"Mike Trout grounds out, shortstop Corey Seager to first baseman Max Muncy.   Shohei Ohtani to 2nd.",1,1,1,3,1,1.02,1.28
-127,2021-05-09,545361,545333,,called_strike,3,"Mike Trout grounds out, shortstop Corey Seager to first baseman Max Muncy.   Shohei Ohtani to 2nd.",1,0,1,2,1,0.8,3.17
-128,2021-05-09,545361,445276,,swinging_strike,3,Mike Trout strikes out swinging.,0,0,1,1,8,0.41,3.0
+123,2021-05-09,545361,545333,field_out,hit_into_play,14,"Mike Trout grounds out, shortstop Corey Seager to first baseman Max Muncy.   Shohei Ohtani to 2nd.",2,1,1,4,1,0.89,1.18
+124,2021-05-09,545361,445276,,called_strike,8,Mike Trout strikes out swinging.,1,1,1,3,8,0.23,2.07
+125,2021-05-09,545361,545333,,ball,14,"Mike Trout grounds out, shortstop Corey Seager to first baseman Max Muncy.   Shohei Ohtani to 2nd.",1,1,1,3,1,1.02,1.28
+126,2021-05-09,545361,445276,,ball,12,Mike Trout strikes out swinging.,0,1,1,2,8,1.87,2.84
+127,2021-05-09,545361,445276,,swinging_strike,3,Mike Trout strikes out swinging.,0,0,1,1,8,0.41,3.0
+128,2021-05-09,545361,545333,,called_strike,3,"Mike Trout grounds out, shortstop Corey Seager to first baseman Max Muncy.   Shohei Ohtani to 2nd.",1,0,1,2,1,0.8,3.17
 129,2021-05-09,545361,545333,,ball,3,"Mike Trout grounds out, shortstop Corey Seager to first baseman Max Muncy.   Shohei Ohtani to 2nd.",0,0,1,1,1,0.53,3.57
 130,2021-05-08,545361,477132,single,hit_into_play,11,Mike Trout singles on a fly ball to right fielder Mookie Betts.   David Fletcher to 2nd.,2,1,1,4,4,-0.94,2.79
 131,2021-05-08,545361,477132,,blocked_ball,14,Mike Trout singles on a fly ball to right fielder Mookie Betts.   David Fletcher to 2nd.,1,1,1,3,4,0.34,0.91
@@ -163,12 +163,12 @@
 161,2021-05-06,545361,519326,,foul,6,Mike Trout called out on strikes.,3,2,2,7,8,0.46,2.85
 162,2021-05-06,545361,519326,,foul,9,Mike Trout called out on strikes.,3,2,2,6,8,0.79,2.03
 163,2021-05-06,545361,519326,,blocked_ball,14,Mike Trout called out on strikes.,2,2,2,5,8,1.06,0.22
-164,2021-05-06,545361,519326,,called_strike,14,Mike Trout called out on strikes.,2,1,2,4,8,0.97,1.6
-165,2021-05-06,545361,676596,field_out,hit_into_play,14,"Mike Trout grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",1,1,2,3,3,0.89,1.68
+164,2021-05-06,545361,676596,field_out,hit_into_play,14,"Mike Trout grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",1,1,2,3,3,0.89,1.68
+165,2021-05-06,545361,519326,,called_strike,14,Mike Trout called out on strikes.,2,1,2,4,8,0.97,1.6
 166,2021-05-06,545361,519326,,swinging_strike,4,Mike Trout called out on strikes.,2,0,2,3,8,-0.63,2.84
 167,2021-05-06,545361,676596,,ball,12,"Mike Trout grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",0,1,2,2,3,0.34,4.16
-168,2021-05-06,545361,519326,,ball,12,Mike Trout called out on strikes.,1,0,2,2,8,1.19,2.64
-169,2021-05-06,545361,676596,,called_strike,6,"Mike Trout grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",0,0,2,1,3,0.41,2.7
+168,2021-05-06,545361,676596,,called_strike,6,"Mike Trout grounds out, third baseman Joey Wendle to first baseman Yandy Diaz.",0,0,2,1,3,0.41,2.7
+169,2021-05-06,545361,519326,,ball,12,Mike Trout called out on strikes.,1,0,2,2,8,1.19,2.64
 170,2021-05-06,545361,519326,,ball,14,Mike Trout called out on strikes.,0,0,2,1,8,1.08,1.03
 171,2021-05-06,545361,543521,strikeout,swinging_strike_blocked,14,Mike Trout strikes out swinging.,0,2,2,3,1,1.35,0.63
 172,2021-05-06,545361,543521,,called_strike,3,Mike Trout strikes out swinging.,0,1,2,2,1,0.36,3.12
@@ -199,8 +199,8 @@
 197,2021-05-04,545361,663556,,blocked_ball,13,Mike Trout walks.,2,1,1,4,1,-0.51,0.7
 198,2021-05-04,545361,663556,,blocked_ball,14,Mike Trout walks.,1,1,1,3,1,1.0,0.1
 199,2021-05-04,545361,663556,,called_strike,13,Mike Trout walks.,1,0,1,2,1,-0.86,2.18
-200,2021-05-04,545361,642003,strikeout,called_strike,1,Mike Trout called out on strikes.,0,2,0,3,8,-0.34,3.19
-201,2021-05-04,545361,663556,,ball,12,Mike Trout walks.,0,0,1,1,1,0.95,4.85
+200,2021-05-04,545361,663556,,ball,12,Mike Trout walks.,0,0,1,1,1,0.95,4.85
+201,2021-05-04,545361,642003,strikeout,called_strike,1,Mike Trout called out on strikes.,0,2,0,3,8,-0.34,3.19
 202,2021-05-04,545361,642003,,foul,5,Mike Trout called out on strikes.,0,1,0,2,8,-0.07,2.43
 203,2021-05-04,545361,642003,,called_strike,5,Mike Trout called out on strikes.,0,0,0,1,8,-0.18,2.87
 204,2021-05-03,545361,607192,strikeout,swinging_strike,3,Mike Trout strikes out swinging.,2,2,0,5,6,0.32,3.37
@@ -251,8 +251,8 @@
 249,2021-05-01,545361,667498,,swinging_strike,14,Mike Trout called out on strikes.   David Fletcher to 3rd.  David Fletcher steals (1) 2nd base.   David Fletcher to 3rd.  Throwing error by catcher Tom Murphy.,2,0,1,3,4,0.91,1.53
 250,2021-05-01,545361,667498,,ball,1,Mike Trout called out on strikes.   David Fletcher to 3rd.  David Fletcher steals (1) 2nd base.   David Fletcher to 3rd.  Throwing error by catcher Tom Murphy.,1,0,1,2,4,-0.54,3.46
 251,2021-05-01,545361,664714,,ball,14,Mike Trout homers (7) on a fly ball to center field.   Shohei Ohtani scores.,1,2,1,4,1,1.06,1.33
-252,2021-05-01,545361,664714,,called_strike,5,Mike Trout homers (7) on a fly ball to center field.   Shohei Ohtani scores.,1,1,1,3,1,-0.2,2.83
-253,2021-05-01,545361,667498,,ball,14,Mike Trout called out on strikes.   David Fletcher to 3rd.  David Fletcher steals (1) 2nd base.   David Fletcher to 3rd.  Throwing error by catcher Tom Murphy.,0,0,1,1,4,1.02,0.71
+252,2021-05-01,545361,667498,,ball,14,Mike Trout called out on strikes.   David Fletcher to 3rd.  David Fletcher steals (1) 2nd base.   David Fletcher to 3rd.  Throwing error by catcher Tom Murphy.,0,0,1,1,4,1.02,0.71
+253,2021-05-01,545361,664714,,called_strike,5,Mike Trout homers (7) on a fly ball to center field.   Shohei Ohtani scores.,1,1,1,3,1,-0.2,2.83
 254,2021-05-01,545361,664714,,ball,11,Mike Trout homers (7) on a fly ball to center field.   Shohei Ohtani scores.,0,1,1,2,1,-0.56,4.4
 255,2021-05-01,545361,664714,,foul,8,Mike Trout homers (7) on a fly ball to center field.   Shohei Ohtani scores.,0,0,1,1,1,0.19,1.99
 256,2021-05-01,545361,593619,field_out,hit_into_play,5,"Mike Trout grounds out sharply, third baseman Dylan Moore to first baseman Ty France.",0,1,1,2,9,-0.06,2.2
@@ -268,8 +268,8 @@
 266,2021-04-30,545361,608716,strikeout,called_strike,1,Mike Trout called out on strikes.,0,2,0,3,6,-0.71,3.09
 267,2021-04-30,545361,608716,,foul,3,Mike Trout called out on strikes.,0,1,0,2,6,0.67,2.92
 268,2021-04-30,545361,623167,,ball,14,Mike Trout singles on a line drive to left fielder Sam Haggerty.   David Fletcher to 2nd.,1,2,1,4,1,1.32,2.6
-269,2021-04-30,545361,608716,,called_strike,12,Mike Trout called out on strikes.,0,0,0,1,6,0.83,3.1
-270,2021-04-30,545361,623167,,ball,12,Mike Trout singles on a line drive to left fielder Sam Haggerty.   David Fletcher to 2nd.,0,2,1,3,1,0.38,4.73
+269,2021-04-30,545361,623167,,ball,12,Mike Trout singles on a line drive to left fielder Sam Haggerty.   David Fletcher to 2nd.,0,2,1,3,1,0.38,4.73
+270,2021-04-30,545361,608716,,called_strike,12,Mike Trout called out on strikes.,0,0,0,1,6,0.83,3.1
 271,2021-04-30,545361,623167,,foul,8,Mike Trout singles on a line drive to left fielder Sam Haggerty.   David Fletcher to 2nd.,0,1,1,2,1,-0.1,2.17
 272,2021-04-30,545361,623167,,foul,6,Mike Trout singles on a line drive to left fielder Sam Haggerty.   David Fletcher to 2nd.,0,0,1,1,1,0.37,2.86
 273,2021-04-30,545361,606160,double,hit_into_play,8,Mike Trout doubles (8) on a sharp ground ball to left fielder Sam Haggerty.,1,0,0,2,9,-0.02,1.52
@@ -334,8 +334,8 @@
 332,2021-04-21,545361,592314,,ball,11,Mike Trout singles on a ground ball to third baseman Charlie Culberson.,0,0,2,1,3,-2.6,2.66
 333,2021-04-21,545361,667463,field_out,hit_into_play,9,"Mike Trout grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,2,2,3,7,0.41,1.98
 334,2021-04-21,545361,667463,,called_strike,1,"Mike Trout grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,1,2,2,7,-0.31,3.09
-335,2021-04-21,545361,592314,home_run,hit_into_play,9,Mike Trout homers (6) on a fly ball to right center field.,0,0,2,1,1,0.5,1.97
-336,2021-04-21,545361,667463,,called_strike,7,"Mike Trout grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,2,1,7,-0.58,1.81
+335,2021-04-21,545361,667463,,called_strike,7,"Mike Trout grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,2,1,7,-0.58,1.81
+336,2021-04-21,545361,592314,home_run,hit_into_play,9,Mike Trout homers (6) on a fly ball to right center field.,0,0,2,1,1,0.5,1.97
 337,2021-04-20,545361,543475,home_run,hit_into_play,5,Mike Trout homers (5) on a fly ball to left center field.,3,2,1,6,6,0.18,2.24
 338,2021-04-20,545361,543475,,swinging_strike,2,Mike Trout homers (5) on a fly ball to left center field.,3,1,1,5,6,-0.01,2.98
 339,2021-04-20,545361,543475,,called_strike,1,Mike Trout homers (5) on a fly ball to left center field.,3,0,1,4,6,-0.37,3.6
@@ -361,18 +361,18 @@
 359,2021-04-19,545361,685503,,foul,5,Mike Trout strikes out swinging.,0,1,2,2,4,0.04,2.84
 360,2021-04-19,545361,685503,,called_strike,14,Mike Trout strikes out swinging.,0,0,2,1,4,0.87,2.18
 361,2021-04-19,545361,685503,strikeout,swinging_strike,8,Mike Trout strikes out swinging.,3,2,2,7,1,-0.22,1.82
-362,2021-04-19,545361,570257,strikeout,swinging_strike_blocked,13,Mike Trout strikes out swinging.,2,2,1,9,8,-0.37,0.53
-363,2021-04-19,545361,685503,,foul,4,Mike Trout strikes out swinging.,3,2,2,6,1,-0.82,2.51
+362,2021-04-19,545361,685503,,foul,4,Mike Trout strikes out swinging.,3,2,2,6,1,-0.82,2.51
+363,2021-04-19,545361,570257,strikeout,swinging_strike_blocked,13,Mike Trout strikes out swinging.,2,2,1,9,8,-0.37,0.53
 364,2021-04-19,545361,570257,,foul,13,Mike Trout strikes out swinging.,2,2,1,8,8,-0.61,1.01
 365,2021-04-19,545361,685503,,ball,14,Mike Trout strikes out swinging.,2,2,2,5,1,1.03,-0.03
-366,2021-04-19,545361,685503,,ball,14,Mike Trout strikes out swinging.,1,2,2,4,1,1.76,0.85
-367,2021-04-19,545361,570257,,foul,13,Mike Trout strikes out swinging.,2,2,1,7,8,-0.92,1.4
+366,2021-04-19,545361,570257,,foul,13,Mike Trout strikes out swinging.,2,2,1,7,8,-0.92,1.4
+367,2021-04-19,545361,685503,,ball,14,Mike Trout strikes out swinging.,1,2,2,4,1,1.76,0.85
 368,2021-04-19,545361,685503,,ball,14,Mike Trout strikes out swinging.,0,2,2,3,1,0.5,-0.63
 369,2021-04-19,545361,570257,,ball,13,Mike Trout strikes out swinging.,1,2,1,6,8,-0.92,0.68
 370,2021-04-19,545361,570257,,foul,4,Mike Trout strikes out swinging.,1,2,1,5,8,-0.43,2.34
 371,2021-04-19,545361,685503,,called_strike,13,Mike Trout strikes out swinging.,0,1,2,2,1,-0.86,2.54
-372,2021-04-19,545361,570257,,foul,4,Mike Trout strikes out swinging.,1,2,1,4,8,-0.72,2.54
-373,2021-04-19,545361,685503,,called_strike,6,Mike Trout strikes out swinging.,0,0,2,1,1,0.58,2.48
+372,2021-04-19,545361,685503,,called_strike,6,Mike Trout strikes out swinging.,0,0,2,1,1,0.58,2.48
+373,2021-04-19,545361,570257,,foul,4,Mike Trout strikes out swinging.,1,2,1,4,8,-0.72,2.54
 374,2021-04-19,545361,570257,,swinging_strike,2,Mike Trout strikes out swinging.,1,1,1,3,8,-0.23,3.11
 375,2021-04-19,545361,570257,,called_strike,4,Mike Trout strikes out swinging.,1,0,1,2,8,-0.65,2.6
 376,2021-04-19,545361,656685,field_out,hit_into_play,8,"Mike Trout grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,2,0,3,7,0.28,1.81
@@ -391,8 +391,8 @@
 389,2021-04-16,545361,626929,strikeout,swinging_strike,4,Mike Trout strikes out swinging.,0,2,2,3,1,-0.34,2.52
 390,2021-04-16,545361,573204,,ball,13,Caleb Thielbar intentionally walks Mike Trout.,1,2,2,4,7,-0.73,0.23
 391,2021-04-16,545361,626929,,swinging_strike,14,Mike Trout strikes out swinging.,0,1,2,2,1,0.12,1.34
-392,2021-04-16,545361,573204,,ball,12,Caleb Thielbar intentionally walks Mike Trout.,0,2,2,3,7,0.21,4.36
-393,2021-04-16,545361,626929,,called_strike,5,Mike Trout strikes out swinging.,0,0,2,1,1,0.18,2.59
+392,2021-04-16,545361,626929,,called_strike,5,Mike Trout strikes out swinging.,0,0,2,1,1,0.18,2.59
+393,2021-04-16,545361,573204,,ball,12,Caleb Thielbar intentionally walks Mike Trout.,0,2,2,3,7,0.21,4.36
 394,2021-04-16,545361,573204,,foul,5,Caleb Thielbar intentionally walks Mike Trout.,0,1,2,2,7,-0.09,2.25
 395,2021-04-16,545361,573204,,called_strike,8,Caleb Thielbar intentionally walks Mike Trout.,0,0,2,1,7,0.13,2.15
 396,2021-04-14,545361,641745,single,hit_into_play,5,"Mike Trout singles on a line drive to center fielder Michael A.   Taylor, deflected by second baseman Whit Merrifield.",1,0,1,2,6,-0.27,2.87
@@ -420,10 +420,10 @@
 418,2021-04-13,545361,518813,,swinging_strike,5,Mike Trout strikes out swinging.,0,1,1,2,9,-0.21,2.5
 419,2021-04-13,545361,518813,,called_strike,3,Mike Trout strikes out swinging.,0,0,1,1,9,0.48,3.32
 420,2021-04-13,545361,641394,strikeout,swinging_strike_blocked,13,Mike Trout strikes out swinging.,3,2,2,6,7,-1.21,0.88
-421,2021-04-13,545361,518633,single,hit_into_play,3,Mike Trout singles on a line drive to right fielder Jarrod Dyson.   Shohei Ohtani to 2nd.,1,2,1,4,1,0.71,2.99
-422,2021-04-13,545361,641394,,ball,11,Mike Trout strikes out swinging.,2,2,2,5,7,-0.24,4.52
-423,2021-04-13,545361,641394,,ball,14,Mike Trout strikes out swinging.,1,2,2,4,7,1.41,0.61
-424,2021-04-13,545361,518633,,ball,12,Mike Trout singles on a line drive to right fielder Jarrod Dyson.   Shohei Ohtani to 2nd.,0,2,1,3,1,1.63,3.81
+421,2021-04-13,545361,641394,,ball,11,Mike Trout strikes out swinging.,2,2,2,5,7,-0.24,4.52
+422,2021-04-13,545361,518633,single,hit_into_play,3,Mike Trout singles on a line drive to right fielder Jarrod Dyson.   Shohei Ohtani to 2nd.,1,2,1,4,1,0.71,2.99
+423,2021-04-13,545361,518633,,ball,12,Mike Trout singles on a line drive to right fielder Jarrod Dyson.   Shohei Ohtani to 2nd.,0,2,1,3,1,1.63,3.81
+424,2021-04-13,545361,641394,,ball,14,Mike Trout strikes out swinging.,1,2,2,4,7,1.41,0.61
 425,2021-04-13,545361,641394,,foul,2,Mike Trout strikes out swinging.,1,1,2,3,7,0.13,3.3
 426,2021-04-13,545361,518633,,foul,12,Mike Trout singles on a line drive to right fielder Jarrod Dyson.   Shohei Ohtani to 2nd.,0,1,1,2,1,0.88,3.04
 427,2021-04-13,545361,641394,,ball,11,Mike Trout strikes out swinging.,0,1,2,2,7,-0.34,3.83
@@ -529,15 +529,15 @@
 527,2021-04-04,545361,656302,,foul,14,Mike Trout singles on a sharp ground ball to left fielder Billy Hamilton.,3,0,1,4,1,0.88,2.05
 528,2021-04-04,545361,656302,,ball,14,Mike Trout singles on a sharp ground ball to left fielder Billy Hamilton.,2,0,1,3,1,0.72,0.64
 529,2021-04-04,545361,656302,,ball,11,Mike Trout singles on a sharp ground ball to left fielder Billy Hamilton.,1,0,1,2,1,-1.21,2.76
-530,2021-04-04,545361,641582,strikeout,swinging_strike,8,Mike Trout strikes out swinging.,1,2,0,5,9,0.13,1.75
-531,2021-04-04,545361,656302,,ball,14,Mike Trout singles on a sharp ground ball to left fielder Billy Hamilton.,0,0,1,1,1,0.93,1.77
-532,2021-04-04,545361,607481,walk,ball,14,Mike Trout walks.,3,1,0,5,7,1.02,1.21
+530,2021-04-04,545361,607481,walk,ball,14,Mike Trout walks.,3,1,0,5,7,1.02,1.21
+531,2021-04-04,545361,641582,strikeout,swinging_strike,8,Mike Trout strikes out swinging.,1,2,0,5,9,0.13,1.75
+532,2021-04-04,545361,656302,,ball,14,Mike Trout singles on a sharp ground ball to left fielder Billy Hamilton.,0,0,1,1,1,0.93,1.77
 533,2021-04-04,545361,641582,,ball,11,Mike Trout strikes out swinging.,0,2,0,4,9,-0.7,4.35
 534,2021-04-04,545361,607481,,called_strike,7,Mike Trout walks.,3,0,0,4,7,-0.5,1.98
 535,2021-04-04,545361,607481,,ball,14,Mike Trout walks.,2,0,0,3,7,1.46,1.79
 536,2021-04-04,545361,641582,,foul,2,Mike Trout strikes out swinging.,0,2,0,3,9,0.26,3.26
-537,2021-04-04,545361,607481,,ball,13,Mike Trout walks.,1,0,0,2,7,-1.63,1.87
-538,2021-04-04,545361,641582,,called_strike,9,Mike Trout strikes out swinging.,0,1,0,2,9,0.4,1.71
+537,2021-04-04,545361,641582,,called_strike,9,Mike Trout strikes out swinging.,0,1,0,2,9,0.4,1.71
+538,2021-04-04,545361,607481,,ball,13,Mike Trout walks.,1,0,0,2,7,-1.63,1.87
 539,2021-04-04,545361,607481,,ball,14,Mike Trout walks.,0,0,0,1,7,0.21,1.69
 540,2021-04-04,545361,641582,,called_strike,7,Mike Trout strikes out swinging.,0,0,0,1,9,-0.51,1.73
 541,2021-04-03,545361,458681,strikeout,swinging_strike,1,Mike Trout strikes out swinging.,2,2,1,5,5,-0.46,3.24
@@ -572,20 +572,20 @@
 570,2021-04-02,545361,521230,walk,ball,12,Mike Trout walks.,3,1,2,5,9,0.28,3.74
 571,2021-04-02,545361,521230,,ball,13,Mike Trout walks.,2,1,2,4,9,-0.95,1.55
 572,2021-04-02,545361,656629,,ball,1,Mike Trout walks.,0,2,0,3,8,-0.69,3.58
-573,2021-04-02,545361,521230,,ball,9,Mike Trout walks.,1,1,2,3,9,0.79,1.7
-574,2021-04-02,545361,656629,,called_strike,3,Mike Trout walks.,0,1,0,2,8,0.61,3.17
-575,2021-04-02,545361,521230,,foul,9,Mike Trout walks.,1,0,2,2,9,0.65,1.95
-576,2021-04-02,545361,656629,,swinging_strike,14,Mike Trout walks.,0,0,0,1,8,0.49,1.32
+573,2021-04-02,545361,656629,,called_strike,3,Mike Trout walks.,0,1,0,2,8,0.61,3.17
+574,2021-04-02,545361,521230,,ball,9,Mike Trout walks.,1,1,2,3,9,0.79,1.7
+575,2021-04-02,545361,656629,,swinging_strike,14,Mike Trout walks.,0,0,0,1,8,0.49,1.32
+576,2021-04-02,545361,521230,,foul,9,Mike Trout walks.,1,0,2,2,9,0.65,1.95
 577,2021-04-02,545361,521230,,ball,12,Mike Trout walks.,0,0,2,1,9,1.22,2.88
 578,2021-04-02,545361,572971,single,hit_into_play,14,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",2,2,1,5,1,1.22,1.96
-579,2021-04-02,545361,641582,strikeout,called_strike,8,Mike Trout called out on strikes.,3,2,1,6,5,0.24,1.6
-580,2021-04-02,545361,572971,,blocked_ball,14,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",1,2,1,4,1,0.24,0.39
-581,2021-04-02,545361,641582,,ball,14,Mike Trout called out on strikes.,2,2,1,5,5,1.2,1.98
-582,2021-04-02,545361,572971,,foul,13,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",1,1,1,3,1,-1.04,1.99
-583,2021-04-02,545361,641582,,blocked_ball,14,Mike Trout called out on strikes.,1,2,1,4,5,0.44,0.85
-584,2021-04-02,545361,572971,,ball,11,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",0,1,1,2,1,-0.45,4.27
-585,2021-04-02,545361,572971,,called_strike,2,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",0,0,1,1,1,-0.14,3.05
-586,2021-04-02,545361,641582,,swinging_strike,8,Mike Trout called out on strikes.,1,1,1,3,5,-0.07,1.9
+579,2021-04-02,545361,572971,,blocked_ball,14,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",1,2,1,4,1,0.24,0.39
+580,2021-04-02,545361,641582,strikeout,called_strike,8,Mike Trout called out on strikes.,3,2,1,6,5,0.24,1.6
+581,2021-04-02,545361,572971,,foul,13,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",1,1,1,3,1,-1.04,1.99
+582,2021-04-02,545361,641582,,ball,14,Mike Trout called out on strikes.,2,2,1,5,5,1.2,1.98
+583,2021-04-02,545361,572971,,ball,11,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",0,1,1,2,1,-0.45,4.27
+584,2021-04-02,545361,641582,,blocked_ball,14,Mike Trout called out on strikes.,1,2,1,4,5,0.44,0.85
+585,2021-04-02,545361,641582,,swinging_strike,8,Mike Trout called out on strikes.,1,1,1,3,5,-0.07,1.9
+586,2021-04-02,545361,572971,,called_strike,2,"Mike Trout singles on a ground ball to pitcher Dallas Keuchel, deflected by third baseman Yoan Moncada.   Shohei Ohtani scores.",0,0,1,1,1,-0.14,3.05
 587,2021-04-02,545361,641582,,foul,7,Mike Trout called out on strikes.,1,0,1,2,5,-0.38,1.97
 588,2021-04-02,545361,641582,,ball,14,Mike Trout called out on strikes.,0,0,1,1,5,1.29,1.26
 589,2021-04-01,545361,608337,walk,ball,12,Mike Trout walks.,3,1,2,5,4,0.49,4.77

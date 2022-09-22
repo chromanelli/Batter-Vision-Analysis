@@ -9,5 +9,6 @@ VISION REPORT: luke_williams (2021-04-01 thru 2021-10-04)
      luke_williams saw 202 strikes and 211 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4383
+VISION SCORE METRIC B (VSA - SO%): 0.2253
 Average PA Length: 3.8241 (413/108)
 Batting Avg: 0.245

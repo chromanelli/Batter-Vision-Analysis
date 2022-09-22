@@ -83,8 +83,8 @@
 81,2021-09-28,670541,608379,strikeout,foul_tip,11,Yordan Alvarez strikes out on a foul tip.,1,2,2,5,1,-0.4,4.16
 82,2021-09-28,670541,608379,,foul,4,Yordan Alvarez strikes out on a foul tip.,1,2,2,4,1,-0.66,2.41
 83,2021-09-28,670541,608379,,swinging_strike,13,Yordan Alvarez strikes out on a foul tip.,1,1,2,3,1,-0.23,0.87
-84,2021-09-28,670541,608379,,foul,7,Yordan Alvarez strikes out on a foul tip.,1,0,2,2,1,-0.57,1.88
-85,2021-09-28,670541,552640,field_out,hit_into_play,3,Yordan Alvarez flies out to left fielder Austin Meadows.,0,0,2,1,6,0.38,3.14
+84,2021-09-28,670541,552640,field_out,hit_into_play,3,Yordan Alvarez flies out to left fielder Austin Meadows.,0,0,2,1,6,0.38,3.14
+85,2021-09-28,670541,608379,,foul,7,Yordan Alvarez strikes out on a foul tip.,1,0,2,2,1,-0.57,1.88
 86,2021-09-28,670541,608379,,ball,13,Yordan Alvarez strikes out on a foul tip.,0,0,2,1,1,-0.73,0.99
 87,2021-09-28,670541,676596,single,hit_into_play,6,Yordan Alvarez singles on a ground ball to second baseman Brandon Lowe.,0,0,0,1,9,0.49,2.49
 88,2021-09-26,670541,621112,field_out,hit_into_play,14,Yordan Alvarez flies out to center fielder Starling Marte.,0,0,1,1,4,0.84,2.04
@@ -101,8 +101,8 @@
 99,2021-09-26,670541,500610,,ball,11,Yordan Alvarez singles on a ground ball to third baseman Matt Chapman.,1,2,0,4,6,-2.58,4.02
 100,2021-09-26,670541,500610,,foul,3,Yordan Alvarez singles on a ground ball to third baseman Matt Chapman.,1,1,0,3,6,0.36,3.05
 101,2021-09-26,670541,500610,,ball,11,Yordan Alvarez singles on a ground ball to third baseman Matt Chapman.,0,1,0,2,6,-1.84,4.06
-102,2021-09-26,670541,500610,,called_strike,13,Yordan Alvarez singles on a ground ball to third baseman Matt Chapman.,0,0,0,1,6,-0.89,2.1
-103,2021-09-26,670541,605177,walk,ball,12,Yordan Alvarez walks.,3,2,0,6,8,1.68,4.56
+102,2021-09-26,670541,605177,walk,ball,12,Yordan Alvarez walks.,3,2,0,6,8,1.68,4.56
+103,2021-09-26,670541,500610,,called_strike,13,Yordan Alvarez singles on a ground ball to third baseman Matt Chapman.,0,0,0,1,6,-0.89,2.1
 104,2021-09-26,670541,605177,,ball,13,Yordan Alvarez walks.,2,2,0,5,8,-1.77,-0.27
 105,2021-09-26,670541,605177,,foul,14,Yordan Alvarez walks.,2,1,0,4,8,1.86,2.23
 106,2021-09-26,670541,605177,,ball,13,Yordan Alvarez walks.,1,1,0,3,8,-1.16,-0.07
@@ -116,8 +116,8 @@
 114,2021-09-25,670541,640455,,called_strike,4,Yordan Alvarez grounds out to first baseman Matt Olson.,0,0,1,1,4,-0.42,2.52
 115,2021-09-25,670541,605177,strikeout,swinging_strike,1,Yordan Alvarez strikes out swinging.,3,2,0,6,9,-0.57,3.16
 116,2021-09-25,670541,605177,,ball,13,Yordan Alvarez strikes out swinging.,2,2,0,5,9,-1.03,0.42
-117,2021-09-25,670541,605177,,ball,13,Yordan Alvarez strikes out swinging.,1,2,0,4,9,-1.75,0.82
-118,2021-09-25,670541,640455,field_out,hit_into_play,12,Yordan Alvarez pops out to third baseman Matt Chapman in foul territory.,0,1,1,2,1,1.14,3.11
+117,2021-09-25,670541,640455,field_out,hit_into_play,12,Yordan Alvarez pops out to third baseman Matt Chapman in foul territory.,0,1,1,2,1,1.14,3.11
+118,2021-09-25,670541,605177,,ball,13,Yordan Alvarez strikes out swinging.,1,2,0,4,9,-1.75,0.82
 119,2021-09-25,670541,605177,,swinging_strike,3,Yordan Alvarez strikes out swinging.,1,1,0,3,9,0.3,3.63
 120,2021-09-25,670541,640455,,foul,3,Yordan Alvarez pops out to third baseman Matt Chapman in foul territory.,0,0,1,1,1,0.52,3.31
 121,2021-09-25,670541,605177,,called_strike,7,Yordan Alvarez strikes out swinging.,1,0,0,2,9,-0.38,2.04
@@ -143,8 +143,8 @@
 141,2021-09-22,670541,518553,double,hit_into_play,13,Yordan Alvarez doubles (33) on a sharp fly ball to left fielder Phil Gosselin.   Alex Bregman scores.,2,2,2,5,8,-0.25,1.43
 142,2021-09-22,670541,676083,,ball,13,Yordan Alvarez homers (32) on a fly ball to right center field.    Jose Altuve scores.,1,0,1,2,1,-0.08,1.53
 143,2021-09-22,670541,518553,,foul,8,Yordan Alvarez doubles (33) on a sharp fly ball to left fielder Phil Gosselin.   Alex Bregman scores.,2,1,2,4,8,-0.17,1.58
-144,2021-09-22,670541,676083,,ball,11,Yordan Alvarez homers (32) on a fly ball to right center field.    Jose Altuve scores.,0,0,1,1,1,-1.48,2.7
-145,2021-09-22,670541,518553,,called_strike,5,Yordan Alvarez doubles (33) on a sharp fly ball to left fielder Phil Gosselin.   Alex Bregman scores.,2,0,2,3,8,-0.05,2.3
+144,2021-09-22,670541,518553,,called_strike,5,Yordan Alvarez doubles (33) on a sharp fly ball to left fielder Phil Gosselin.   Alex Bregman scores.,2,0,2,3,8,-0.05,2.3
+145,2021-09-22,670541,676083,,ball,11,Yordan Alvarez homers (32) on a fly ball to right center field.    Jose Altuve scores.,0,0,1,1,1,-1.48,2.7
 146,2021-09-22,670541,518553,,ball,13,Yordan Alvarez doubles (33) on a sharp fly ball to left fielder Phil Gosselin.   Alex Bregman scores.,1,0,2,2,8,-1.73,1.84
 147,2021-09-22,670541,518553,,ball,12,Yordan Alvarez doubles (33) on a sharp fly ball to left fielder Phil Gosselin.   Alex Bregman scores.,0,0,2,1,8,0.96,2.83
 148,2021-09-22,670541,650671,single,hit_into_play,3,Yordan Alvarez singles on a fly ball to left fielder Phil Gosselin.,2,0,1,3,6,0.52,3.37
@@ -163,8 +163,8 @@
 161,2021-09-21,670541,667725,,ball,14,Yordan Alvarez walks.   Jose Altuve to 3rd.    Yuli Gurriel to 2nd.,0,1,0,2,6,0.38,1.09
 162,2021-09-21,670541,667725,,foul,7,Yordan Alvarez walks.   Jose Altuve to 3rd.    Yuli Gurriel to 2nd.,0,0,0,1,6,-0.38,2.04
 163,2021-09-21,670541,676050,grounded_into_double_play,hit_into_play,5,"Yordan Alvarez grounds into a double play, shortstop Luis Rengifo to third baseman Jack Mayfield to first baseman Jared Walsh.   Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",2,2,1,5,1,0.27,2.53
-164,2021-09-21,670541,676050,,ball,12,"Yordan Alvarez grounds into a double play, shortstop Luis Rengifo to third baseman Jack Mayfield to first baseman Jared Walsh.   Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",1,2,1,4,1,1.39,3.08
-165,2021-09-21,670541,661383,single,hit_into_play,8,Yordan Alvarez singles on a sharp ground ball to center fielder Juan Lagares.   Yuli Gurriel to 2nd.,0,0,0,1,5,-0.12,2.05
+164,2021-09-21,670541,661383,single,hit_into_play,8,Yordan Alvarez singles on a sharp ground ball to center fielder Juan Lagares.   Yuli Gurriel to 2nd.,0,0,0,1,5,-0.12,2.05
+165,2021-09-21,670541,676050,,ball,12,"Yordan Alvarez grounds into a double play, shortstop Luis Rengifo to third baseman Jack Mayfield to first baseman Jared Walsh.   Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",1,2,1,4,1,1.39,3.08
 166,2021-09-21,670541,676050,,foul,5,"Yordan Alvarez grounds into a double play, shortstop Luis Rengifo to third baseman Jack Mayfield to first baseman Jared Walsh.   Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",1,1,1,3,1,0.12,2.4
 167,2021-09-21,670541,676050,,ball,13,"Yordan Alvarez grounds into a double play, shortstop Luis Rengifo to third baseman Jack Mayfield to first baseman Jared Walsh.   Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",0,1,1,2,1,-1.63,2.22
 168,2021-09-21,670541,676050,,called_strike,8,"Yordan Alvarez grounds into a double play, shortstop Luis Rengifo to third baseman Jack Mayfield to first baseman Jared Walsh.   Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",0,0,1,1,1,-0.26,1.88
@@ -242,16 +242,16 @@
 240,2021-09-16,670541,663465,field_out,hit_into_play,8,Yordan Alvarez flies out to right fielder DJ Peters.,1,1,0,3,6,0.22,2.16
 241,2021-09-16,670541,663465,,called_strike,3,Yordan Alvarez flies out to right fielder DJ Peters.,1,0,0,2,6,0.75,2.9
 242,2021-09-16,670541,663465,,ball,12,Yordan Alvarez flies out to right fielder DJ Peters.,0,0,0,1,6,1.34,2.78
-243,2021-09-16,670541,657248,field_out,hit_into_play,3,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",2,2,2,5,1,0.75,3.06
-244,2021-09-16,670541,622250,strikeout,swinging_strike_blocked,14,Yordan Alvarez strikes out swinging.,3,2,1,6,9,0.59,0.54
+243,2021-09-16,670541,622250,strikeout,swinging_strike_blocked,14,Yordan Alvarez strikes out swinging.,3,2,1,6,9,0.59,0.54
+244,2021-09-16,670541,657248,field_out,hit_into_play,3,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",2,2,2,5,1,0.75,3.06
 245,2021-09-16,670541,657248,,foul_tip,1,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",2,1,2,4,1,-0.36,3.44
 246,2021-09-16,670541,622250,,foul,1,Yordan Alvarez strikes out swinging.,3,1,1,5,9,-0.38,3.12
 247,2021-09-16,670541,657248,,called_strike,6,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",2,0,2,3,1,0.38,2.36
 248,2021-09-16,670541,622250,,called_strike,2,Yordan Alvarez strikes out swinging.,3,0,1,4,9,-0.12,3.2
-249,2021-09-16,670541,657248,,ball,14,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",1,0,2,2,1,0.28,1.29
-250,2021-09-16,670541,622250,,ball,14,Yordan Alvarez strikes out swinging.,2,0,1,3,9,1.34,1.82
-251,2021-09-16,670541,657248,,ball,13,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",0,0,2,1,1,-1.34,2.03
-252,2021-09-16,670541,622250,,ball,12,Yordan Alvarez strikes out swinging.,1,0,1,2,9,1.24,3.1
+249,2021-09-16,670541,622250,,ball,14,Yordan Alvarez strikes out swinging.,2,0,1,3,9,1.34,1.82
+250,2021-09-16,670541,657248,,ball,14,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",1,0,2,2,1,0.28,1.29
+251,2021-09-16,670541,622250,,ball,12,Yordan Alvarez strikes out swinging.,1,0,1,2,9,1.24,3.1
+252,2021-09-16,670541,657248,,ball,13,"Yordan Alvarez grounds out, pitcher Glenn Otto to first baseman Nathaniel Lowe.",0,0,2,1,1,-1.34,2.03
 253,2021-09-16,670541,622250,,ball,12,Yordan Alvarez strikes out swinging.,0,0,1,1,9,0.37,3.89
 254,2021-09-15,670541,685503,double,hit_into_play,4,Yordan Alvarez doubles (30) on a sharp line drive to right fielder Adolis Garcia.   Jose Altuve scores.    Aledmys Diaz to 3rd.,3,1,0,5,5,-0.54,2.78
 255,2021-09-15,670541,685503,,called_strike,8,Yordan Alvarez doubles (30) on a sharp line drive to right fielder Adolis Garcia.   Jose Altuve scores.    Aledmys Diaz to 3rd.,3,0,0,4,5,0.26,2.18
@@ -282,8 +282,8 @@
 280,2021-09-14,670541,543475,,ball,12,Yordan Alvarez singles on a line drive to center fielder Leody Taveras.,1,0,2,2,4,0.23,3.65
 281,2021-09-14,670541,543475,,ball,13,Yordan Alvarez singles on a line drive to center fielder Leody Taveras.,0,0,2,1,4,-0.25,1.62
 282,2021-09-14,670541,622250,field_out,hit_into_play,7,Yordan Alvarez flies out to left fielder DJ Peters.,0,1,0,2,9,-0.47,1.82
-283,2021-09-14,670541,543475,field_out,hit_into_play,3,Yordan Alvarez flies out sharply to center fielder Leody Taveras.,0,0,0,1,2,0.42,3.03
-284,2021-09-14,670541,622250,,swinging_strike,14,Yordan Alvarez flies out to left fielder DJ Peters.,0,0,0,1,9,1.44,1.61
+283,2021-09-14,670541,622250,,swinging_strike,14,Yordan Alvarez flies out to left fielder DJ Peters.,0,0,0,1,9,1.44,1.61
+284,2021-09-14,670541,543475,field_out,hit_into_play,3,Yordan Alvarez flies out sharply to center fielder Leody Taveras.,0,0,0,1,2,0.42,3.03
 285,2021-09-13,670541,669935,walk,ball,14,Yordan Alvarez walks.,3,2,0,7,6,1.17,1.49
 286,2021-09-13,670541,669935,,ball,12,Yordan Alvarez walks.,2,2,0,6,6,1.39,2.7
 287,2021-09-13,670541,669935,,ball,14,Yordan Alvarez walks.,1,2,0,5,6,0.45,0.8
@@ -300,8 +300,8 @@
 298,2021-09-13,670541,675921,force_out,hit_into_play,13,"Yordan Alvarez grounds into a force out, first baseman Nathaniel Lowe to shortstop Isiah Kiner-Falefa.   Jose Altuve to 3rd.    Alex Bregman out at 2nd.    Yordan Alvarez to 1st.",1,2,0,4,1,-0.87,2.59
 299,2021-09-13,670541,675921,,ball,11,"Yordan Alvarez grounds into a force out, first baseman Nathaniel Lowe to shortstop Isiah Kiner-Falefa.   Jose Altuve to 3rd.    Alex Bregman out at 2nd.    Yordan Alvarez to 1st.",0,2,0,3,1,-0.12,4.65
 300,2021-09-13,670541,675921,,called_strike,12,"Yordan Alvarez grounds into a force out, first baseman Nathaniel Lowe to shortstop Isiah Kiner-Falefa.   Jose Altuve to 3rd.    Alex Bregman out at 2nd.    Yordan Alvarez to 1st.",0,1,0,2,1,0.85,2.55
-301,2021-09-13,670541,675921,,called_strike,6,"Yordan Alvarez grounds into a force out, first baseman Nathaniel Lowe to shortstop Isiah Kiner-Falefa.   Jose Altuve to 3rd.    Alex Bregman out at 2nd.    Yordan Alvarez to 1st.",0,0,0,1,1,0.35,2.64
-302,2021-09-13,670541,518586,field_out,hit_into_play,8,Yordan Alvarez flies out to left fielder DJ Peters.,1,1,2,3,9,-0.11,2.02
+301,2021-09-13,670541,518586,field_out,hit_into_play,8,Yordan Alvarez flies out to left fielder DJ Peters.,1,1,2,3,9,-0.11,2.02
+302,2021-09-13,670541,675921,,called_strike,6,"Yordan Alvarez grounds into a force out, first baseman Nathaniel Lowe to shortstop Isiah Kiner-Falefa.   Jose Altuve to 3rd.    Alex Bregman out at 2nd.    Yordan Alvarez to 1st.",0,0,0,1,1,0.35,2.64
 303,2021-09-13,670541,518586,,called_strike,4,Yordan Alvarez flies out to left fielder DJ Peters.,1,0,2,2,9,-0.38,2.41
 304,2021-09-13,670541,518586,,ball,14,Yordan Alvarez flies out to left fielder DJ Peters.,0,0,2,1,9,1.38,2.14
 305,2021-09-13,670541,605138,home_run,hit_into_play,5,Yordan Alvarez homers (29) on a fly ball to right center field.    Jose Altuve scores.,2,0,1,3,2,-0.05,2.43
@@ -378,10 +378,10 @@
 376,2021-09-07,670541,669302,field_out,hit_into_play,4,Yordan Alvarez flies out sharply to center fielder Jarred Kelenic.,2,2,2,5,1,-0.53,2.68
 377,2021-09-07,670541,669302,,ball,11,Yordan Alvarez flies out sharply to center fielder Jarred Kelenic.,1,2,2,4,1,-1.37,2.64
 378,2021-09-07,670541,669302,,swinging_strike,13,Yordan Alvarez flies out sharply to center fielder Jarred Kelenic.,1,1,2,3,1,-0.95,1.89
-379,2021-09-07,670541,608716,field_out,hit_into_play,8,"Yordan Alvarez grounds out sharply, first baseman Ty France to pitcher Drew Steckenrider.   Michael Brantley to 3rd.",1,2,1,4,7,-0.25,1.62
-380,2021-09-07,670541,669302,,ball,11,Yordan Alvarez flies out sharply to center fielder Jarred Kelenic.,0,1,2,2,1,-2.18,2.94
-381,2021-09-07,670541,669302,,called_strike,4,Yordan Alvarez flies out sharply to center fielder Jarred Kelenic.,0,0,2,1,1,-0.8,2.89
-382,2021-09-07,670541,608716,,foul,1,"Yordan Alvarez grounds out sharply, first baseman Ty France to pitcher Drew Steckenrider.   Michael Brantley to 3rd.",1,1,1,3,7,-0.31,3.34
+379,2021-09-07,670541,669302,,ball,11,Yordan Alvarez flies out sharply to center fielder Jarred Kelenic.,0,1,2,2,1,-2.18,2.94
+380,2021-09-07,670541,608716,field_out,hit_into_play,8,"Yordan Alvarez grounds out sharply, first baseman Ty France to pitcher Drew Steckenrider.   Michael Brantley to 3rd.",1,2,1,4,7,-0.25,1.62
+381,2021-09-07,670541,608716,,foul,1,"Yordan Alvarez grounds out sharply, first baseman Ty France to pitcher Drew Steckenrider.   Michael Brantley to 3rd.",1,1,1,3,7,-0.31,3.34
+382,2021-09-07,670541,669302,,called_strike,4,Yordan Alvarez flies out sharply to center fielder Jarred Kelenic.,0,0,2,1,1,-0.8,2.89
 383,2021-09-07,670541,608716,,called_strike,9,"Yordan Alvarez grounds out sharply, first baseman Ty France to pitcher Drew Steckenrider.   Michael Brantley to 3rd.",1,0,1,2,7,0.58,1.87
 384,2021-09-07,670541,608716,,ball,13,"Yordan Alvarez grounds out sharply, first baseman Ty France to pitcher Drew Steckenrider.   Michael Brantley to 3rd.",0,0,1,1,7,-0.24,1.46
 385,2021-09-07,670541,664948,field_out,hit_into_play,13,Yordan Alvarez pops out to third baseman Kyle Seager.,0,1,1,2,5,-1.33,1.77
@@ -478,8 +478,8 @@
 476,2021-08-30,670541,594987,,called_strike,13,Yordan Alvarez flies out sharply to right fielder Mitch Haniger.,0,0,2,1,7,-0.92,2.27
 477,2021-08-30,670541,448281,walk,ball,11,Yordan Alvarez walks.,3,2,2,6,9,-0.49,4.04
 478,2021-08-30,670541,448281,,foul_tip,1,Yordan Alvarez walks.,3,1,2,5,9,-0.38,3.3
-479,2021-08-30,670541,448281,,ball,13,Yordan Alvarez walks.,2,1,2,4,9,-1.03,1.85
-480,2021-08-30,670541,623167,single,hit_into_play,7,Yordan Alvarez singles on a sharp fly ball to center fielder Jarred Kelenic.   Michael Brantley scores.    Carlos Correa to 3rd.    Yordan Alvarez to 2nd.,0,0,1,1,1,-0.46,1.81
+479,2021-08-30,670541,623167,single,hit_into_play,7,Yordan Alvarez singles on a sharp fly ball to center fielder Jarred Kelenic.   Michael Brantley scores.    Carlos Correa to 3rd.    Yordan Alvarez to 2nd.,0,0,1,1,1,-0.46,1.81
+480,2021-08-30,670541,448281,,ball,13,Yordan Alvarez walks.,2,1,2,4,9,-1.03,1.85
 481,2021-08-30,670541,448281,,ball,14,Yordan Alvarez walks.,1,1,2,3,9,0.5,1.3
 482,2021-08-30,670541,448281,,ball,3,Yordan Alvarez walks.,0,1,2,2,9,0.69,3.01
 483,2021-08-30,670541,448281,,swinging_strike,5,Yordan Alvarez walks.,0,0,2,1,9,0.21,2.98
@@ -507,8 +507,8 @@
 505,2021-08-28,670541,663465,home_run,hit_into_play,5,Yordan Alvarez homers (27) on a fly ball to center field.,1,1,0,3,2,0.25,2.92
 506,2021-08-28,670541,663465,,ball,14,Yordan Alvarez homers (27) on a fly ball to center field.,0,1,0,2,2,1.11,2.42
 507,2021-08-28,670541,663465,,foul,6,Yordan Alvarez homers (27) on a fly ball to center field.,0,0,0,1,2,0.59,2.58
-508,2021-08-28,670541,676766,field_out,hit_into_play,6,Yordan Alvarez flies out to right fielder Adolis Garcia.,1,2,1,4,9,0.8,2.39
-509,2021-08-28,670541,660365,single,hit_into_play,4,Yordan Alvarez singles on a sharp line drive to center fielder Leody Taveras.   Yuli Gurriel to 2nd.,0,0,1,1,7,-0.4,2.5
+508,2021-08-28,670541,660365,single,hit_into_play,4,Yordan Alvarez singles on a sharp line drive to center fielder Leody Taveras.   Yuli Gurriel to 2nd.,0,0,1,1,7,-0.4,2.5
+509,2021-08-28,670541,676766,field_out,hit_into_play,6,Yordan Alvarez flies out to right fielder Adolis Garcia.,1,2,1,4,9,0.8,2.39
 510,2021-08-28,670541,676766,,foul,5,Yordan Alvarez flies out to right fielder Adolis Garcia.,1,1,1,3,9,-0.23,2.48
 511,2021-08-28,670541,676766,,foul,5,Yordan Alvarez flies out to right fielder Adolis Garcia.,1,0,1,2,9,0.07,2.33
 512,2021-08-28,670541,676766,,ball,12,Yordan Alvarez flies out to right fielder Adolis Garcia.,0,0,1,1,9,0.94,2.43
@@ -530,8 +530,8 @@
 528,2021-08-25,670541,501985,,called_strike,6,"Yordan Alvarez grounds out, pitcher Mike Minor to first baseman Hunter Dozier.",0,0,0,1,6,0.64,2.46
 529,2021-08-25,670541,501985,home_run,hit_into_play,4,Yordan Alvarez homers (26) on a fly ball to left center field.,0,0,1,1,4,-0.39,2.7
 530,2021-08-25,670541,605130,single,hit_into_play,13,Yordan Alvarez singles on a sharp ground ball to right fielder Jarrod Dyson.,2,1,2,4,9,-0.67,1.46
-531,2021-08-25,670541,501985,strikeout,called_strike,13,Yordan Alvarez called out on strikes.,3,2,0,7,2,-0.99,2.42
-532,2021-08-25,670541,605130,,ball,13,Yordan Alvarez singles on a sharp ground ball to right fielder Jarrod Dyson.,1,1,2,3,9,-0.27,1.18
+531,2021-08-25,670541,605130,,ball,13,Yordan Alvarez singles on a sharp ground ball to right fielder Jarrod Dyson.,1,1,2,3,9,-0.27,1.18
+532,2021-08-25,670541,501985,strikeout,called_strike,13,Yordan Alvarez called out on strikes.,3,2,0,7,2,-0.99,2.42
 533,2021-08-25,670541,605130,,called_strike,8,Yordan Alvarez singles on a sharp ground ball to right fielder Jarrod Dyson.,1,0,2,2,9,-0.13,1.93
 534,2021-08-25,670541,501985,,foul,7,Yordan Alvarez called out on strikes.,3,2,0,6,2,-0.65,1.87
 535,2021-08-25,670541,605130,,ball,13,Yordan Alvarez singles on a sharp ground ball to right fielder Jarrod Dyson.,0,0,2,1,9,-0.99,0.96
@@ -572,8 +572,8 @@
 570,2021-08-23,670541,663992,,foul,5,Yordan Alvarez strikes out swinging.,1,1,2,3,7,0.11,2.57
 571,2021-08-23,670541,663738,,called_strike,14,Yordan Alvarez grounds out to first baseman Carlos Santana.,0,1,2,2,1,0.25,1.57
 572,2021-08-23,670541,663992,,ball,11,Yordan Alvarez strikes out swinging.,0,1,2,2,7,-0.78,3.64
-573,2021-08-23,670541,663992,,called_strike,13,Yordan Alvarez strikes out swinging.,0,0,2,1,7,-0.9,2.25
-574,2021-08-23,670541,663738,,swinging_strike_blocked,13,Yordan Alvarez grounds out to first baseman Carlos Santana.,0,0,2,1,1,-1.33,0.3
+573,2021-08-23,670541,663738,,swinging_strike_blocked,13,Yordan Alvarez grounds out to first baseman Carlos Santana.,0,0,2,1,1,-1.33,0.3
+574,2021-08-23,670541,663992,,called_strike,13,Yordan Alvarez strikes out swinging.,0,0,2,1,7,-0.9,2.25
 575,2021-08-22,670541,542881,field_out,hit_into_play,3,Yordan Alvarez lines out to center fielder Jarred Kelenic.,2,2,2,5,5,0.48,3.07
 576,2021-08-22,670541,542881,,ball,13,Yordan Alvarez lines out to center fielder Jarred Kelenic.,1,2,2,4,5,-1.49,1.04
 577,2021-08-22,670541,542881,,called_strike,8,Yordan Alvarez lines out to center fielder Jarred Kelenic.,1,1,2,3,5,-0.26,1.95
@@ -612,16 +612,16 @@
 610,2021-08-20,670541,657024,field_out,hit_into_play,9,Yordan Alvarez grounds out to first baseman Ty France.,3,2,2,6,5,0.64,1.84
 611,2021-08-20,670541,657024,,swinging_strike,14,Yordan Alvarez grounds out to first baseman Ty France.,3,1,2,5,5,0.11,1.02
 612,2021-08-20,670541,657024,,ball,13,Yordan Alvarez grounds out to first baseman Ty France.,2,1,2,4,5,0.0,0.96
-613,2021-08-20,670541,579328,field_out,hit_into_play,13,Yordan Alvarez grounds out to first baseman Ty France.   Carlos Correa scores.,0,0,1,1,1,-0.4,1.13
-614,2021-08-20,670541,657024,,foul,4,Yordan Alvarez grounds out to first baseman Ty France.,2,0,2,3,5,-0.4,2.62
-615,2021-08-20,670541,657024,,ball,11,Yordan Alvarez grounds out to first baseman Ty France.,1,0,2,2,5,-0.98,2.91
-616,2021-08-20,670541,670090,double,hit_into_play,4,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",3,1,0,5,4,-0.52,2.81
-617,2021-08-20,670541,657024,,ball,11,Yordan Alvarez grounds out to first baseman Ty France.,0,0,2,1,5,-1.11,3.69
-618,2021-08-20,670541,670090,,ball,12,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",2,1,0,4,4,1.15,2.96
+613,2021-08-20,670541,657024,,foul,4,Yordan Alvarez grounds out to first baseman Ty France.,2,0,2,3,5,-0.4,2.62
+614,2021-08-20,670541,579328,field_out,hit_into_play,13,Yordan Alvarez grounds out to first baseman Ty France.   Carlos Correa scores.,0,0,1,1,1,-0.4,1.13
+615,2021-08-20,670541,670090,double,hit_into_play,4,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",3,1,0,5,4,-0.52,2.81
+616,2021-08-20,670541,657024,,ball,11,Yordan Alvarez grounds out to first baseman Ty France.,1,0,2,2,5,-0.98,2.91
+617,2021-08-20,670541,670090,,ball,12,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",2,1,0,4,4,1.15,2.96
+618,2021-08-20,670541,657024,,ball,11,Yordan Alvarez grounds out to first baseman Ty France.,0,0,2,1,5,-1.11,3.69
 619,2021-08-20,670541,670090,,called_strike,9,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",2,0,0,3,4,0.38,2.1
 620,2021-08-20,670541,670090,,ball,14,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",1,0,0,2,4,1.18,1.63
-621,2021-08-20,670541,670090,,ball,14,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",0,0,0,1,4,1.66,1.6
-622,2021-08-20,670541,670990,field_out,hit_into_play,9,"Yordan Alvarez grounds out, shortstop J.  P. Crawford to first baseman Ty France.",0,0,2,1,7,0.8,2.19
+621,2021-08-20,670541,670990,field_out,hit_into_play,9,"Yordan Alvarez grounds out, shortstop J.  P. Crawford to first baseman Ty France.",0,0,2,1,7,0.8,2.19
+622,2021-08-20,670541,670090,,ball,14,"Umpire reviewed (home run), call on the field was upheld: Yordan Alvarez doubles (24) to left center field, on fan interference.   Michael Brantley scores.    Carlos Correa to 3rd.",0,0,0,1,4,1.66,1.6
 623,2021-08-19,670541,501985,field_out,hit_into_play,11,"Yordan Alvarez grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",0,2,0,3,6,-1.01,3.1
 624,2021-08-19,670541,501985,,foul,13,"Yordan Alvarez grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",0,1,0,2,6,-1.26,2.23
 625,2021-08-19,670541,501985,,foul,13,"Yordan Alvarez grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",0,0,0,1,6,-0.93,2.6
@@ -633,10 +633,10 @@
 631,2021-08-19,670541,606303,,ball,12,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",2,2,1,7,7,1.25,3.66
 632,2021-08-19,670541,606303,,ball,12,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",1,2,1,6,7,1.11,2.68
 633,2021-08-19,670541,606303,,foul,11,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",1,2,1,5,7,-0.27,4.01
-634,2021-08-19,670541,501985,single,hit_into_play,7,Yordan Alvarez singles on a line drive to right fielder Ryan O'Hearn.,1,0,2,2,1,-0.38,1.72
-635,2021-08-19,670541,606303,,foul,4,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",1,2,1,4,7,-0.49,2.66
-636,2021-08-19,670541,501985,,ball,11,Yordan Alvarez singles on a line drive to right fielder Ryan O'Hearn.,0,0,2,1,1,-0.13,4.02
-637,2021-08-19,670541,606303,,foul,11,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",1,1,1,3,7,-0.89,3.43
+634,2021-08-19,670541,606303,,foul,4,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",1,2,1,4,7,-0.49,2.66
+635,2021-08-19,670541,501985,single,hit_into_play,7,Yordan Alvarez singles on a line drive to right fielder Ryan O'Hearn.,1,0,2,2,1,-0.38,1.72
+636,2021-08-19,670541,606303,,foul,11,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",1,1,1,3,7,-0.89,3.43
+637,2021-08-19,670541,501985,,ball,11,Yordan Alvarez singles on a line drive to right fielder Ryan O'Hearn.,0,0,2,1,1,-0.13,4.02
 638,2021-08-19,670541,606303,,foul,14,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",1,0,1,2,7,0.41,1.09
 639,2021-08-19,670541,606303,,ball,13,"Yordan Alvarez reaches on a fielder's choice out, first baseman Carlos Santana to catcher Cam Gallagher.   Jose Altuve out at home.",0,0,1,1,7,-1.04,2.42
 640,2021-08-19,670541,451584,single,hit_into_play,5,Yordan Alvarez singles on a line drive to left fielder Andrew Benintendi.   Yuli Gurriel to 3rd.,2,1,0,4,10,0.16,2.66
@@ -679,8 +679,8 @@
 677,2021-08-14,670541,642545,double,hit_into_play,5,Yordan Alvarez doubles (21) on a sharp line drive to right fielder Adam Eaton.   Michael Brantley scores.,1,0,2,2,3,0.05,2.95
 678,2021-08-14,670541,642545,,ball,11,Yordan Alvarez doubles (21) on a sharp line drive to right fielder Adam Eaton.   Michael Brantley scores.,0,0,2,1,3,-0.4,5.12
 679,2021-08-14,670541,642545,single,hit_into_play,13,Yordan Alvarez singles on a sharp line drive to center fielder Brandon Marsh.,1,2,0,4,2,-1.15,2.21
-680,2021-08-14,670541,594577,field_out,hit_into_play,1,Yordan Alvarez flies out to center fielder Brandon Marsh.,1,1,0,3,9,-0.34,3.46
-681,2021-08-14,670541,642545,,ball,13,Yordan Alvarez singles on a sharp line drive to center fielder Brandon Marsh.,0,2,0,3,2,-1.72,2.6
+680,2021-08-14,670541,642545,,ball,13,Yordan Alvarez singles on a sharp line drive to center fielder Brandon Marsh.,0,2,0,3,2,-1.72,2.6
+681,2021-08-14,670541,594577,field_out,hit_into_play,1,Yordan Alvarez flies out to center fielder Brandon Marsh.,1,1,0,3,9,-0.34,3.46
 682,2021-08-14,670541,642545,,called_strike,5,Yordan Alvarez singles on a sharp line drive to center fielder Brandon Marsh.,0,1,0,2,2,0.04,2.65
 683,2021-08-14,670541,594577,,ball,13,Yordan Alvarez flies out to center fielder Brandon Marsh.,0,1,0,2,9,-0.25,0.72
 684,2021-08-14,670541,642545,,called_strike,7,Yordan Alvarez singles on a sharp line drive to center fielder Brandon Marsh.,0,0,0,1,2,-0.45,1.9
@@ -715,14 +715,14 @@
 713,2021-08-11,670541,622608,double,hit_into_play,8,Yordan Alvarez doubles (20) on a sharp fly ball to right fielder Yonathan Daza.,1,0,1,2,3,0.04,2.14
 714,2021-08-11,670541,622608,,ball,11,Yordan Alvarez doubles (20) on a sharp fly ball to right fielder Yonathan Daza.,0,0,1,1,3,-1.52,2.51
 715,2021-08-11,670541,468504,field_out,hit_into_play,9,Yordan Alvarez flies out to center fielder Garrett Hampson.,3,2,0,6,7,0.34,1.57
-716,2021-08-11,670541,468504,,ball,13,Yordan Alvarez flies out to center fielder Garrett Hampson.,2,2,0,5,7,-1.03,1.51
-717,2021-08-11,670541,622608,field_out,hit_into_play,7,Yordan Alvarez lines out sharply to left fielder Sam Hilliard.,2,1,1,4,1,-0.7,2.2
+716,2021-08-11,670541,622608,field_out,hit_into_play,7,Yordan Alvarez lines out sharply to left fielder Sam Hilliard.,2,1,1,4,1,-0.7,2.2
+717,2021-08-11,670541,468504,,ball,13,Yordan Alvarez flies out to center fielder Garrett Hampson.,2,2,0,5,7,-1.03,1.51
 718,2021-08-11,670541,468504,,foul_tip,14,Yordan Alvarez flies out to center fielder Garrett Hampson.,2,1,0,4,7,0.57,1.19
 719,2021-08-11,670541,622608,,foul,14,Yordan Alvarez lines out sharply to left fielder Sam Hilliard.,2,0,1,3,1,0.41,1.24
 720,2021-08-11,670541,468504,,called_strike,8,Yordan Alvarez flies out to center fielder Garrett Hampson.,2,0,0,3,7,-0.05,1.62
 721,2021-08-11,670541,622608,,ball,13,Yordan Alvarez lines out sharply to left fielder Sam Hilliard.,1,0,1,2,1,-1.11,2.16
-722,2021-08-11,670541,622608,,ball,13,Yordan Alvarez lines out sharply to left fielder Sam Hilliard.,0,0,1,1,1,-0.37,1.53
-723,2021-08-11,670541,468504,,ball,13,Yordan Alvarez flies out to center fielder Garrett Hampson.,1,0,0,2,7,-0.92,1.69
+722,2021-08-11,670541,468504,,ball,13,Yordan Alvarez flies out to center fielder Garrett Hampson.,1,0,0,2,7,-0.92,1.69
+723,2021-08-11,670541,622608,,ball,13,Yordan Alvarez lines out sharply to left fielder Sam Hilliard.,0,0,1,1,1,-0.37,1.53
 724,2021-08-11,670541,468504,,blocked_ball,13,Yordan Alvarez flies out to center fielder Garrett Hampson.,0,0,0,1,7,-1.0,0.55
 725,2021-08-10,670541,592351,walk,blocked_ball,14,Yordan Alvarez walks.,3,1,1,5,5,0.27,0.47
 726,2021-08-10,670541,592351,,ball,14,Yordan Alvarez walks.,2,1,1,4,5,1.46,2.13
@@ -800,13 +800,13 @@
 798,2021-08-05,670541,643377,,foul,12,"Yordan Alvarez grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",1,1,2,3,1,0.04,3.71
 799,2021-08-05,670541,643377,,ball,12,"Yordan Alvarez grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,1,2,2,1,0.75,3.71
 800,2021-08-05,670541,573204,field_out,hit_into_play,7,Yordan Alvarez grounds out to first baseman Miguel Sano.,2,2,2,5,6,-0.79,1.64
-801,2021-08-05,670541,643377,,swinging_strike,14,"Yordan Alvarez grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,2,1,1,1.38,1.36
+801,2021-08-05,670541,543056,home_run,hit_into_play,9,Yordan Alvarez homers (21) on a fly ball to right field.    Michael Brantley scores.,2,0,1,3,9,0.42,1.89
 802,2021-08-05,670541,573204,,swinging_strike,8,Yordan Alvarez grounds out to first baseman Miguel Sano.,2,1,2,4,6,0.04,1.71
-803,2021-08-05,670541,543056,home_run,hit_into_play,9,Yordan Alvarez homers (21) on a fly ball to right field.    Michael Brantley scores.,2,0,1,3,9,0.42,1.89
-804,2021-08-05,670541,543056,,ball,14,Yordan Alvarez homers (21) on a fly ball to right field.    Michael Brantley scores.,1,0,1,2,9,0.84,1.2
-805,2021-08-05,670541,573204,,foul,7,Yordan Alvarez grounds out to first baseman Miguel Sano.,2,0,2,3,6,-0.3,1.67
-806,2021-08-05,670541,543056,,ball,13,Yordan Alvarez homers (21) on a fly ball to right field.    Michael Brantley scores.,0,0,1,1,9,-0.32,1.22
-807,2021-08-05,670541,573204,,ball,12,Yordan Alvarez grounds out to first baseman Miguel Sano.,1,0,2,2,6,1.07,3.08
+803,2021-08-05,670541,643377,,swinging_strike,14,"Yordan Alvarez grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,2,1,1,1.38,1.36
+804,2021-08-05,670541,573204,,foul,7,Yordan Alvarez grounds out to first baseman Miguel Sano.,2,0,2,3,6,-0.3,1.67
+805,2021-08-05,670541,543056,,ball,14,Yordan Alvarez homers (21) on a fly ball to right field.    Michael Brantley scores.,1,0,1,2,9,0.84,1.2
+806,2021-08-05,670541,573204,,ball,12,Yordan Alvarez grounds out to first baseman Miguel Sano.,1,0,2,2,6,1.07,3.08
+807,2021-08-05,670541,543056,,ball,13,Yordan Alvarez homers (21) on a fly ball to right field.    Michael Brantley scores.,0,0,1,1,9,-0.32,1.22
 808,2021-08-05,670541,573204,,ball,7,Yordan Alvarez grounds out to first baseman Miguel Sano.,0,0,2,1,6,-0.33,1.68
 809,2021-08-04,670541,453286,field_out,hit_into_play,2,Yordan Alvarez flies out to left fielder AJ Pollock.,1,2,1,4,6,-0.21,3.22
 810,2021-08-04,670541,453286,,foul,8,Yordan Alvarez flies out to left fielder AJ Pollock.,1,1,1,3,6,-0.06,1.67
@@ -939,8 +939,8 @@
 937,2021-07-26,670541,670766,single,hit_into_play,7,Yordan Alvarez singles on a sharp line drive to right fielder Mitch Haniger.   Michael Brantley scores.    Yuli Gurriel to 3rd.,2,1,1,4,1,-0.74,2.26
 938,2021-07-26,670541,670766,,called_strike,6,Yordan Alvarez singles on a sharp line drive to right fielder Mitch Haniger.   Michael Brantley scores.    Yuli Gurriel to 3rd.,2,0,1,3,1,0.46,2.68
 939,2021-07-26,670541,657024,walk,ball,12,Yordan Alvarez walks.,3,2,2,6,6,0.16,3.93
-940,2021-07-26,670541,657024,,foul,1,Yordan Alvarez walks.,3,1,2,5,6,-0.37,3.6
-941,2021-07-26,670541,670766,,ball,14,Yordan Alvarez singles on a sharp line drive to right fielder Mitch Haniger.   Michael Brantley scores.    Yuli Gurriel to 3rd.,1,0,1,2,1,0.65,1.48
+940,2021-07-26,670541,670766,,ball,14,Yordan Alvarez singles on a sharp line drive to right fielder Mitch Haniger.   Michael Brantley scores.    Yuli Gurriel to 3rd.,1,0,1,2,1,0.65,1.48
+941,2021-07-26,670541,657024,,foul,1,Yordan Alvarez walks.,3,1,2,5,6,-0.37,3.6
 942,2021-07-26,670541,657024,,ball,13,Yordan Alvarez walks.,2,1,2,4,6,-0.46,1.43
 943,2021-07-26,670541,670766,,ball,14,Yordan Alvarez singles on a sharp line drive to right fielder Mitch Haniger.   Michael Brantley scores.    Yuli Gurriel to 3rd.,0,0,1,1,1,1.79,1.19
 944,2021-07-26,670541,657024,,ball,11,Yordan Alvarez walks.,1,1,2,3,6,-1.13,3.78
@@ -964,22 +964,22 @@
 962,2021-07-25,670541,621368,,called_strike,4,"Yordan Alvarez grounds into a double play, third baseman Brock Holt to shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.   Michael Brantley out at 2nd.    Yordan Alvarez out at 1st.",0,0,1,1,1,-0.28,2.76
 963,2021-07-25,670541,570257,walk,blocked_ball,13,Yordan Alvarez walks.,3,2,2,6,6,-2.08,0.38
 964,2021-07-25,670541,570257,,ball,12,Yordan Alvarez walks.,2,2,2,5,6,1.46,3.07
-965,2021-07-25,670541,570257,,swinging_strike,13,Yordan Alvarez walks.,2,1,2,4,6,-0.57,1.11
-966,2021-07-25,670541,656685,field_out,hit_into_play,7,"Yordan Alvarez grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,2,2,4,4,-0.4,1.64
-967,2021-07-25,670541,656685,,called_strike,8,"Yordan Alvarez grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,1,2,3,4,0.06,2.02
-968,2021-07-25,670541,570257,,swinging_strike,8,Yordan Alvarez walks.,2,0,2,3,6,0.05,1.98
+965,2021-07-25,670541,656685,field_out,hit_into_play,7,"Yordan Alvarez grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,2,2,4,4,-0.4,1.64
+966,2021-07-25,670541,570257,,swinging_strike,13,Yordan Alvarez walks.,2,1,2,4,6,-0.57,1.11
+967,2021-07-25,670541,570257,,swinging_strike,8,Yordan Alvarez walks.,2,0,2,3,6,0.05,1.98
+968,2021-07-25,670541,656685,,called_strike,8,"Yordan Alvarez grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,1,2,3,4,0.06,2.02
 969,2021-07-25,670541,656685,,swinging_strike,13,"Yordan Alvarez grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",1,0,2,2,4,-0.57,0.62
 970,2021-07-25,670541,570257,,ball,14,Yordan Alvarez walks.,1,0,2,2,6,1.39,2.33
-971,2021-07-25,670541,570257,,ball,12,Yordan Alvarez walks.,0,0,1,1,6,0.94,3.46
-972,2021-07-25,670541,656685,,ball,13,"Yordan Alvarez grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",0,0,2,1,4,-0.27,-0.54
+971,2021-07-25,670541,656685,,ball,13,"Yordan Alvarez grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nathaniel Lowe.",0,0,2,1,4,-0.27,-0.54
+972,2021-07-25,670541,570257,,ball,12,Yordan Alvarez walks.,0,0,1,1,6,0.94,3.46
 973,2021-07-24,670541,502043,single,hit_into_play,6,"Yordan Alvarez singles on a line drive to center fielder Adolis Garcia.  Yuli Gurriel out at home on the throw, center fielder Adolis Garcia to second baseman Andy Ibanez to catcher Jose Trevino.",2,1,2,4,5,0.29,2.47
 974,2021-07-24,670541,502043,,ball,13,"Yordan Alvarez singles on a line drive to center fielder Adolis Garcia.  Yuli Gurriel out at home on the throw, center fielder Adolis Garcia to second baseman Andy Ibanez to catcher Jose Trevino.",1,1,2,3,5,-0.62,1.14
 975,2021-07-24,670541,502043,,ball,12,"Yordan Alvarez singles on a line drive to center fielder Adolis Garcia.  Yuli Gurriel out at home on the throw, center fielder Adolis Garcia to second baseman Andy Ibanez to catcher Jose Trevino.",0,1,2,2,5,0.22,4.51
 976,2021-07-24,670541,502043,,foul,3,"Yordan Alvarez singles on a line drive to center fielder Adolis Garcia.  Yuli Gurriel out at home on the throw, center fielder Adolis Garcia to second baseman Andy Ibanez to catcher Jose Trevino.",0,0,2,1,5,0.79,3.34
 977,2021-07-24,670541,502043,sac_fly,hit_into_play,3,Yordan Alvarez out on a sacrifice fly to right fielder Eli White.   Michael Brantley scores.  Throwing error by right fielder Eli White.,0,0,0,1,3,0.71,3.5
 978,2021-07-24,670541,502043,walk,ball,11,Yordan Alvarez walks.   Jose Altuve to 3rd.    Michael Brantley to 2nd.,3,0,1,4,1,-1.04,3.83
-979,2021-07-24,670541,622250,home_run,hit_into_play,14,Yordan Alvarez homers (18) on a line drive to right field.,0,0,2,1,7,0.96,2.58
-980,2021-07-24,670541,502043,,ball,14,Yordan Alvarez walks.   Jose Altuve to 3rd.    Michael Brantley to 2nd.,2,0,1,3,1,0.34,1.43
+979,2021-07-24,670541,502043,,ball,14,Yordan Alvarez walks.   Jose Altuve to 3rd.    Michael Brantley to 2nd.,2,0,1,3,1,0.34,1.43
+980,2021-07-24,670541,622250,home_run,hit_into_play,14,Yordan Alvarez homers (18) on a line drive to right field.,0,0,2,1,7,0.96,2.58
 981,2021-07-24,670541,502043,,ball,12,Yordan Alvarez walks.   Jose Altuve to 3rd.    Michael Brantley to 2nd.,1,0,1,2,1,1.39,3.48
 982,2021-07-24,670541,502043,,blocked_ball,14,Yordan Alvarez walks.   Jose Altuve to 3rd.    Michael Brantley to 2nd.,0,0,1,1,1,1.06,-1.03
 983,2021-07-23,670541,663465,strikeout,swinging_strike_blocked,13,Yordan Alvarez strikes out swinging.,2,2,2,5,4,-0.71,0.94
@@ -990,8 +990,8 @@
 988,2021-07-23,670541,663465,single,hit_into_play,13,Yordan Alvarez singles on a sharp line drive to right fielder Joey Gallo.   Jose Altuve scores.    Michael Brantley to 3rd.    Yuli Gurriel to 2nd.,0,0,1,1,3,-0.95,2.55
 989,2021-07-23,670541,663465,strikeout,swinging_strike,12,Yordan Alvarez strikes out swinging.,0,2,0,3,2,0.42,4.19
 990,2021-07-23,670541,663465,,called_strike,12,Yordan Alvarez strikes out swinging.,0,1,0,2,2,0.97,2.67
-991,2021-07-23,670541,663465,,called_strike,7,Yordan Alvarez strikes out swinging.,0,0,0,1,2,-0.64,2.04
-992,2021-07-23,670541,656685,field_out,hit_into_play,8,"Yordan Alvarez grounds out sharply, third baseman Brock Holt to first baseman Nathaniel Lowe.",1,2,0,4,7,-0.08,2.15
+991,2021-07-23,670541,656685,field_out,hit_into_play,8,"Yordan Alvarez grounds out sharply, third baseman Brock Holt to first baseman Nathaniel Lowe.",1,2,0,4,7,-0.08,2.15
+992,2021-07-23,670541,663465,,called_strike,7,Yordan Alvarez strikes out swinging.,0,0,0,1,2,-0.64,2.04
 993,2021-07-23,670541,656685,,ball,1,"Yordan Alvarez grounds out sharply, third baseman Brock Holt to first baseman Nathaniel Lowe.",0,2,0,3,7,-0.72,3.39
 994,2021-07-23,670541,656685,,called_strike,4,"Yordan Alvarez grounds out sharply, third baseman Brock Holt to first baseman Nathaniel Lowe.",0,1,0,2,7,-0.37,2.6
 995,2021-07-23,670541,656685,,called_strike,8,"Yordan Alvarez grounds out sharply, third baseman Brock Holt to first baseman Nathaniel Lowe.",0,0,0,1,7,0.01,1.57
@@ -1075,14 +1075,14 @@
 1073,2021-07-16,670541,656302,,foul,2,Yordan Alvarez strikes out on a foul tip.,0,1,2,2,3,-0.04,3.33
 1074,2021-07-16,670541,656302,,foul,4,Yordan Alvarez strikes out on a foul tip.,0,0,2,1,3,-0.47,2.37
 1075,2021-07-16,670541,625643,field_out,hit_into_play,3,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,2,2,8,8,0.65,3.62
-1076,2021-07-16,670541,625643,,foul,7,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,2,2,7,8,-0.58,1.58
-1077,2021-07-16,670541,607481,strikeout,swinging_strike,13,Yordan Alvarez strikes out swinging.,1,2,0,5,7,-0.82,1.09
-1078,2021-07-16,670541,625643,,foul,4,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,2,2,6,8,-0.56,2.64
-1079,2021-07-16,670541,656302,strikeout,swinging_strike_blocked,13,Yordan Alvarez strikes out swinging.,2,2,0,5,2,-0.17,0.84
-1080,2021-07-16,670541,607481,,foul,13,Yordan Alvarez strikes out swinging.,1,2,0,4,7,-0.98,1.01
-1081,2021-07-16,670541,656302,,ball,13,Yordan Alvarez strikes out swinging.,1,2,0,4,2,-1.6,1.33
-1082,2021-07-16,670541,607481,,ball,13,Yordan Alvarez strikes out swinging.,0,2,0,3,7,-1.45,1.55
-1083,2021-07-16,670541,625643,,swinging_strike,11,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,1,2,5,8,-0.48,3.8
+1076,2021-07-16,670541,607481,strikeout,swinging_strike,13,Yordan Alvarez strikes out swinging.,1,2,0,5,7,-0.82,1.09
+1077,2021-07-16,670541,625643,,foul,7,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,2,2,7,8,-0.58,1.58
+1078,2021-07-16,670541,656302,strikeout,swinging_strike_blocked,13,Yordan Alvarez strikes out swinging.,2,2,0,5,2,-0.17,0.84
+1079,2021-07-16,670541,607481,,foul,13,Yordan Alvarez strikes out swinging.,1,2,0,4,7,-0.98,1.01
+1080,2021-07-16,670541,625643,,foul,4,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,2,2,6,8,-0.56,2.64
+1081,2021-07-16,670541,607481,,ball,13,Yordan Alvarez strikes out swinging.,0,2,0,3,7,-1.45,1.55
+1082,2021-07-16,670541,625643,,swinging_strike,11,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,1,2,5,8,-0.48,3.8
+1083,2021-07-16,670541,656302,,ball,13,Yordan Alvarez strikes out swinging.,1,2,0,4,2,-1.6,1.33
 1084,2021-07-16,670541,625643,,swinging_strike,4,Yordan Alvarez flies out to third baseman Yoan Moncada.,3,0,2,4,8,-0.81,2.85
 1085,2021-07-16,670541,607481,,swinging_strike,13,Yordan Alvarez strikes out swinging.,0,1,0,2,7,-0.07,1.51
 1086,2021-07-16,670541,656302,,swinging_strike,7,Yordan Alvarez strikes out swinging.,1,1,0,3,2,-0.48,1.8
@@ -1173,14 +1173,14 @@
 1171,2021-07-01,670541,650496,,foul,8,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",2,2,0,6,2,-0.19,1.86
 1172,2021-07-01,670541,621057,,foul,8,Yordan Alvarez walks.,3,2,0,7,8,0.17,1.68
 1173,2021-07-01,670541,650496,,ball,14,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",1,2,0,5,2,0.54,0.59
-1174,2021-07-01,670541,650496,,ball,12,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",0,2,0,4,2,0.97,3.09
-1175,2021-07-01,670541,621057,,ball,13,Yordan Alvarez walks.,2,2,0,6,8,-1.26,2.43
+1174,2021-07-01,670541,621057,,ball,13,Yordan Alvarez walks.,2,2,0,6,8,-1.26,2.43
+1175,2021-07-01,670541,650496,,ball,12,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",0,2,0,4,2,0.97,3.09
 1176,2021-07-01,670541,650496,,foul,13,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",0,2,0,3,2,-0.03,1.44
 1177,2021-07-01,670541,621057,,ball,13,Yordan Alvarez walks.,1,2,0,5,8,-0.92,1.07
-1178,2021-07-01,670541,650496,,foul_tip,2,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",0,1,0,2,2,-0.13,3.28
-1179,2021-07-01,670541,621057,,foul,12,Yordan Alvarez walks.,1,2,0,4,8,0.31,3.99
-1180,2021-07-01,670541,621057,,called_strike,4,Yordan Alvarez walks.,1,1,0,3,8,-0.35,2.63
-1181,2021-07-01,670541,650496,,called_strike,5,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",0,0,0,1,2,-0.24,2.46
+1178,2021-07-01,670541,621057,,foul,12,Yordan Alvarez walks.,1,2,0,4,8,0.31,3.99
+1179,2021-07-01,670541,650496,,foul_tip,2,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",0,1,0,2,2,-0.13,3.28
+1180,2021-07-01,670541,650496,,called_strike,5,"Yordan Alvarez grounds out, second baseman Cesar Hernandez to first baseman Bobby Bradley.",0,0,0,1,2,-0.24,2.46
+1181,2021-07-01,670541,621057,,called_strike,4,Yordan Alvarez walks.,1,1,0,3,8,-0.35,2.63
 1182,2021-07-01,670541,621057,,called_strike,4,Yordan Alvarez walks.,1,0,0,2,8,-0.37,2.79
 1183,2021-07-01,670541,621057,,ball,13,Yordan Alvarez walks.,0,0,0,1,8,-0.15,0.68
 1184,2021-07-01,670541,664208,walk,ball,11,Yordan Alvarez walks.,3,2,1,6,5,-0.91,3.15
@@ -1200,8 +1200,8 @@
 1198,2021-06-30,670541,518774,,ball,9,Yordan Alvarez lines out to pitcher Matt Harvey.,0,0,0,1,2,0.68,1.91
 1199,2021-06-30,670541,656945,strikeout,called_strike,13,Yordan Alvarez called out on strikes.,1,2,0,4,6,-0.97,2.52
 1200,2021-06-30,670541,656945,,ball,13,Yordan Alvarez called out on strikes.,0,2,0,3,6,-1.3,1.4
-1201,2021-06-30,670541,656945,,swinging_strike,13,Yordan Alvarez called out on strikes.,0,1,0,2,6,-0.97,1.75
-1202,2021-06-30,670541,642121,field_out,hit_into_play,13,Yordan Alvarez flies out to center fielder Cedric Mullins.,0,2,2,3,8,-1.32,2.4
+1201,2021-06-30,670541,642121,field_out,hit_into_play,13,Yordan Alvarez flies out to center fielder Cedric Mullins.,0,2,2,3,8,-1.32,2.4
+1202,2021-06-30,670541,656945,,swinging_strike,13,Yordan Alvarez called out on strikes.,0,1,0,2,6,-0.97,1.75
 1203,2021-06-30,670541,656945,,called_strike,5,Yordan Alvarez called out on strikes.,0,0,0,1,6,0.28,2.56
 1204,2021-06-30,670541,642121,,foul,12,Yordan Alvarez flies out to center fielder Cedric Mullins.,0,1,2,2,8,1.03,3.45
 1205,2021-06-30,670541,642121,,called_strike,5,Yordan Alvarez flies out to center fielder Cedric Mullins.,0,0,2,1,8,-0.13,2.68
@@ -1214,11 +1214,11 @@
 1212,2021-06-29,670541,664042,field_out,hit_into_play,13,"Yordan Alvarez grounds out, pitcher Travis Lakins to first baseman Ryan Mountcastle.",2,1,2,4,1,-1.13,2.12
 1213,2021-06-29,670541,664042,,swinging_strike,1,"Yordan Alvarez grounds out, pitcher Travis Lakins to first baseman Ryan Mountcastle.",2,0,2,3,1,-0.52,3.11
 1214,2021-06-29,670541,664042,,ball,14,"Yordan Alvarez grounds out, pitcher Travis Lakins to first baseman Ryan Mountcastle.",1,0,2,2,1,0.45,1.35
-1215,2021-06-29,670541,649144,single,hit_into_play,4,Yordan Alvarez singles on a sharp ground ball to center fielder Cedric Mullins.,0,1,1,2,5,-0.33,2.65
-1216,2021-06-29,670541,664042,,ball,13,"Yordan Alvarez grounds out, pitcher Travis Lakins to first baseman Ryan Mountcastle.",0,0,2,1,1,-1.01,1.4
-1217,2021-06-29,670541,592644,single,hit_into_play,4,Yordan Alvarez singles on a sharp line drive to left fielder Ryan McKenna.   Yuli Gurriel to 2nd.,1,1,0,3,3,-0.31,2.42
-1218,2021-06-29,670541,592644,,ball,11,Yordan Alvarez singles on a sharp line drive to left fielder Ryan McKenna.   Yuli Gurriel to 2nd.,0,1,0,2,3,-0.06,5.16
-1219,2021-06-29,670541,649144,,called_strike,5,Yordan Alvarez singles on a sharp ground ball to center fielder Cedric Mullins.,0,0,1,1,5,0.03,2.79
+1215,2021-06-29,670541,592644,single,hit_into_play,4,Yordan Alvarez singles on a sharp line drive to left fielder Ryan McKenna.   Yuli Gurriel to 2nd.,1,1,0,3,3,-0.31,2.42
+1216,2021-06-29,670541,649144,single,hit_into_play,4,Yordan Alvarez singles on a sharp ground ball to center fielder Cedric Mullins.,0,1,1,2,5,-0.33,2.65
+1217,2021-06-29,670541,664042,,ball,13,"Yordan Alvarez grounds out, pitcher Travis Lakins to first baseman Ryan Mountcastle.",0,0,2,1,1,-1.01,1.4
+1218,2021-06-29,670541,649144,,called_strike,5,Yordan Alvarez singles on a sharp ground ball to center fielder Cedric Mullins.,0,0,1,1,5,0.03,2.79
+1219,2021-06-29,670541,592644,,ball,11,Yordan Alvarez singles on a sharp line drive to left fielder Ryan McKenna.   Yuli Gurriel to 2nd.,0,1,0,2,3,-0.06,5.16
 1220,2021-06-29,670541,592644,,called_strike,5,Yordan Alvarez singles on a sharp line drive to left fielder Ryan McKenna.   Yuli Gurriel to 2nd.,0,0,0,1,3,0.16,2.62
 1221,2021-06-28,670541,664045,walk,ball,14,Yordan Alvarez walks.,3,1,0,5,4,0.89,1.36
 1222,2021-06-28,670541,664045,,ball,14,Yordan Alvarez walks.,2,1,0,4,4,1.16,2.42
@@ -1273,14 +1273,14 @@
 1271,2021-06-26,670541,503449,,foul,4,Yordan Alvarez walks.,2,2,0,6,2,-0.6,2.94
 1272,2021-06-26,670541,503449,,ball,13,Yordan Alvarez walks.,1,2,0,5,2,-1.3,2.37
 1273,2021-06-26,670541,503449,,ball,11,Yordan Alvarez walks.,0,2,0,4,2,-1.06,3.72
-1274,2021-06-26,670541,663554,strikeout,swinging_strike,11,Yordan Alvarez strikes out swinging.,1,2,1,4,1,-0.12,4.14
-1275,2021-06-26,670541,503449,,foul,3,Yordan Alvarez walks.,0,2,0,3,2,0.41,3.19
-1276,2021-06-26,670541,605242,home_run,hit_into_play,4,Yordan Alvarez homers (13) on a fly ball to left center field.   Jose Altuve scores.,3,2,2,7,6,-0.55,2.63
+1274,2021-06-26,670541,503449,,foul,3,Yordan Alvarez walks.,0,2,0,3,2,0.41,3.19
+1275,2021-06-26,670541,663554,strikeout,swinging_strike,11,Yordan Alvarez strikes out swinging.,1,2,1,4,1,-0.12,4.14
+1276,2021-06-26,670541,663554,,foul,7,Yordan Alvarez strikes out swinging.,1,1,1,3,1,-0.56,2.1
 1277,2021-06-26,670541,503449,,called_strike,4,Yordan Alvarez walks.,0,1,0,2,2,-0.49,2.84
-1278,2021-06-26,670541,663554,,foul,7,Yordan Alvarez strikes out swinging.,1,1,1,3,1,-0.56,2.1
+1278,2021-06-26,670541,605242,home_run,hit_into_play,4,Yordan Alvarez homers (13) on a fly ball to left center field.   Jose Altuve scores.,3,2,2,7,6,-0.55,2.63
 1279,2021-06-26,670541,503449,,called_strike,5,Yordan Alvarez walks.,0,0,0,1,2,0.16,2.58
-1280,2021-06-26,670541,605242,,blocked_ball,14,Yordan Alvarez homers (13) on a fly ball to left center field.   Jose Altuve scores.,2,2,2,6,6,0.48,0.64
-1281,2021-06-26,670541,663554,,foul,3,Yordan Alvarez strikes out swinging.,1,0,1,2,1,0.41,3.18
+1280,2021-06-26,670541,663554,,foul,3,Yordan Alvarez strikes out swinging.,1,0,1,2,1,0.41,3.18
+1281,2021-06-26,670541,605242,,blocked_ball,14,Yordan Alvarez homers (13) on a fly ball to left center field.   Jose Altuve scores.,2,2,2,6,6,0.48,0.64
 1282,2021-06-26,670541,663554,,blocked_ball,14,Yordan Alvarez strikes out swinging.,0,0,1,1,1,1.11,0.83
 1283,2021-06-26,670541,605242,,foul,9,Yordan Alvarez homers (13) on a fly ball to left center field.   Jose Altuve scores.,2,2,2,5,6,0.28,1.58
 1284,2021-06-26,670541,605242,,called_strike,8,Yordan Alvarez homers (13) on a fly ball to left center field.   Jose Altuve scores.,2,1,2,4,6,-0.08,1.74
@@ -1347,10 +1347,10 @@
 1345,2021-06-22,670541,605347,strikeout,swinging_strike_blocked,14,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",2,2,2,6,1,1.28,-0.86
 1346,2021-06-22,670541,605347,,foul,8,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",2,2,2,5,1,-0.27,1.59
 1347,2021-06-22,670541,605347,,swinging_strike,7,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",2,1,2,4,1,-0.72,1.94
-1348,2021-06-22,670541,656945,walk,ball,13,Yordan Alvarez walks.   Michael Brantley to 3rd.    Yuli Gurriel to 2nd.,3,2,0,6,8,-0.34,1.21
-1349,2021-06-22,670541,605347,,ball,14,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",1,1,2,3,1,1.36,2.44
-1350,2021-06-22,670541,605347,,called_strike,7,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",1,0,2,2,1,-0.59,2.18
-1351,2021-06-22,670541,656945,,foul,5,Yordan Alvarez walks.   Michael Brantley to 3rd.    Yuli Gurriel to 2nd.,3,1,0,5,8,-0.06,2.34
+1348,2021-06-22,670541,605347,,ball,14,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",1,1,2,3,1,1.36,2.44
+1349,2021-06-22,670541,656945,walk,ball,13,Yordan Alvarez walks.   Michael Brantley to 3rd.    Yuli Gurriel to 2nd.,3,2,0,6,8,-0.34,1.21
+1350,2021-06-22,670541,656945,,foul,5,Yordan Alvarez walks.   Michael Brantley to 3rd.    Yuli Gurriel to 2nd.,3,1,0,5,8,-0.06,2.34
+1351,2021-06-22,670541,605347,,called_strike,7,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",1,0,2,2,1,-0.59,2.18
 1352,2021-06-22,670541,605347,,ball,12,"Yordan Alvarez strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,0,2,1,1,0.98,2.72
 1353,2021-06-22,670541,656945,,ball,11,Yordan Alvarez walks.   Michael Brantley to 3rd.    Yuli Gurriel to 2nd.,2,1,0,4,8,-0.03,3.67
 1354,2021-06-22,670541,656945,,ball,14,Yordan Alvarez walks.   Michael Brantley to 3rd.    Yuli Gurriel to 2nd.,1,1,0,3,8,1.27,2.4
@@ -1369,8 +1369,8 @@
 1367,2021-06-21,670541,669211,,called_strike,5,Yordan Alvarez called out on strikes.,0,0,2,1,1,0.26,2.85
 1368,2021-06-21,670541,622253,walk,ball,14,Yordan Alvarez walks.   Michael Brantley to 2nd.,3,2,2,7,7,0.53,1.49
 1369,2021-06-21,670541,622253,,foul,8,Yordan Alvarez walks.   Michael Brantley to 2nd.,3,2,2,6,7,-0.25,1.98
-1370,2021-06-21,670541,664042,grounded_into_double_play,hit_into_play,7,"Yordan Alvarez grounds into a double play, shortstop Freddy Galvis to first baseman Trey Mancini.   Michael Brantley to 3rd.    Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",2,2,0,6,5,-0.29,2.23
-1371,2021-06-21,670541,622253,,foul,4,Yordan Alvarez walks.   Michael Brantley to 2nd.,3,1,2,5,7,-0.33,2.39
+1370,2021-06-21,670541,622253,,foul,4,Yordan Alvarez walks.   Michael Brantley to 2nd.,3,1,2,5,7,-0.33,2.39
+1371,2021-06-21,670541,664042,grounded_into_double_play,hit_into_play,7,"Yordan Alvarez grounds into a double play, shortstop Freddy Galvis to first baseman Trey Mancini.   Michael Brantley to 3rd.    Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",2,2,0,6,5,-0.29,2.23
 1372,2021-06-21,670541,622253,,ball,11,Yordan Alvarez walks.   Michael Brantley to 2nd.,2,1,2,4,7,-1.02,2.58
 1373,2021-06-21,670541,664042,,blocked_ball,14,"Yordan Alvarez grounds into a double play, shortstop Freddy Galvis to first baseman Trey Mancini.   Michael Brantley to 3rd.    Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",1,2,0,5,5,1.83,0.34
 1374,2021-06-21,670541,664042,,foul,2,"Yordan Alvarez grounds into a double play, shortstop Freddy Galvis to first baseman Trey Mancini.   Michael Brantley to 3rd.    Yuli Gurriel out at 2nd.    Yordan Alvarez out at 1st.",1,2,0,4,5,-0.07,3.21
@@ -1395,14 +1395,14 @@
 1393,2021-06-20,670541,572971,,blocked_ball,14,Yordan Alvarez called out on strikes.,0,1,1,2,1,0.06,0.63
 1394,2021-06-20,670541,676051,,foul,11,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,2,2,2,5,7,-1.03,3.2
 1395,2021-06-20,670541,641420,,swinging_strike,13,"Yordan Alvarez grounds out, pitcher Zack Burdi to second baseman Danny Mendick to first baseman Jose Abreu.",0,1,2,2,5,-1.24,1.31
-1396,2021-06-20,670541,676051,,foul,1,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,2,1,2,4,7,-0.82,3.06
-1397,2021-06-20,670541,572971,,called_strike,9,Yordan Alvarez called out on strikes.,0,0,1,1,1,0.66,1.69
-1398,2021-06-20,670541,641582,strikeout,swinging_strike,4,Yordan Alvarez strikes out swinging.,3,2,0,6,4,-0.33,2.74
-1399,2021-06-20,670541,641420,,foul,8,"Yordan Alvarez grounds out, pitcher Zack Burdi to second baseman Danny Mendick to first baseman Jose Abreu.",0,0,2,1,5,-0.16,2.19
+1396,2021-06-20,670541,641582,strikeout,swinging_strike,4,Yordan Alvarez strikes out swinging.,3,2,0,6,4,-0.33,2.74
+1397,2021-06-20,670541,676051,,foul,1,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,2,1,2,4,7,-0.82,3.06
+1398,2021-06-20,670541,572971,,called_strike,9,Yordan Alvarez called out on strikes.,0,0,1,1,1,0.66,1.69
+1399,2021-06-20,670541,676051,,called_strike,6,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,2,0,2,3,7,0.38,2.38
 1400,2021-06-20,670541,641582,,swinging_strike,2,Yordan Alvarez strikes out swinging.,3,1,0,5,4,0.18,3.1
-1401,2021-06-20,670541,676051,,called_strike,6,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,2,0,2,3,7,0.38,2.38
-1402,2021-06-20,670541,676051,,ball,12,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,1,0,2,2,7,0.36,3.97
-1403,2021-06-20,670541,641582,,ball,11,Yordan Alvarez strikes out swinging.,2,1,0,4,4,-1.45,2.9
+1401,2021-06-20,670541,641420,,foul,8,"Yordan Alvarez grounds out, pitcher Zack Burdi to second baseman Danny Mendick to first baseman Jose Abreu.",0,0,2,1,5,-0.16,2.19
+1402,2021-06-20,670541,641582,,ball,11,Yordan Alvarez strikes out swinging.,2,1,0,4,4,-1.45,2.9
+1403,2021-06-20,670541,676051,,ball,12,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,1,0,2,2,7,0.36,3.97
 1404,2021-06-20,670541,676051,,ball,11,Yordan Alvarez lines out sharply to first baseman Jose Abreu.,0,0,2,1,7,-1.47,3.29
 1405,2021-06-20,670541,641582,,ball,14,Yordan Alvarez strikes out swinging.,1,1,0,3,4,1.13,1.99
 1406,2021-06-20,670541,641582,,swinging_strike,11,Yordan Alvarez strikes out swinging.,1,0,0,2,4,-0.05,3.79
@@ -1445,16 +1445,16 @@
 1443,2021-06-17,670541,641420,,foul,7,Yordan Alvarez singles on a sharp line drive to right fielder Brian Goodwin.   Yuli Gurriel to 2nd.,3,1,1,5,5,-0.46,1.81
 1444,2021-06-17,670541,641420,,called_strike,4,Yordan Alvarez singles on a sharp line drive to right fielder Brian Goodwin.   Yuli Gurriel to 2nd.,3,0,1,4,5,-0.44,2.52
 1445,2021-06-17,670541,641420,,ball,14,Yordan Alvarez singles on a sharp line drive to right fielder Brian Goodwin.   Yuli Gurriel to 2nd.,2,0,1,3,5,1.29,1.29
-1446,2021-06-17,670541,641582,strikeout,swinging_strike,2,Yordan Alvarez strikes out swinging.,3,2,0,6,7,-0.04,3.29
-1447,2021-06-17,670541,641420,,ball,13,Yordan Alvarez singles on a sharp line drive to right fielder Brian Goodwin.   Yuli Gurriel to 2nd.,1,0,1,2,5,-1.63,2.39
+1446,2021-06-17,670541,641420,,ball,13,Yordan Alvarez singles on a sharp line drive to right fielder Brian Goodwin.   Yuli Gurriel to 2nd.,1,0,1,2,5,-1.63,2.39
+1447,2021-06-17,670541,641582,strikeout,swinging_strike,2,Yordan Alvarez strikes out swinging.,3,2,0,6,7,-0.04,3.29
 1448,2021-06-17,670541,641582,,ball,11,Yordan Alvarez strikes out swinging.,2,2,0,5,7,-0.29,4.17
 1449,2021-06-17,670541,641420,,blocked_ball,14,Yordan Alvarez singles on a sharp line drive to right fielder Brian Goodwin.   Yuli Gurriel to 2nd.,0,0,1,1,5,1.12,-0.37
 1450,2021-06-17,670541,641582,,swinging_strike,2,Yordan Alvarez strikes out swinging.,2,1,0,4,7,-0.13,3.35
 1451,2021-06-17,670541,641582,,ball,11,Yordan Alvarez strikes out swinging.,1,1,0,3,7,-1.12,2.86
-1452,2021-06-17,670541,641582,,called_strike,2,Yordan Alvarez strikes out swinging.,1,0,0,2,7,0.27,3.14
-1453,2021-06-17,670541,656302,strikeout,swinging_strike,11,Yordan Alvarez strikes out swinging.,1,2,1,4,1,-0.09,4.32
-1454,2021-06-17,670541,641582,,ball,12,Yordan Alvarez strikes out swinging.,0,0,0,1,7,0.08,4.33
-1455,2021-06-17,670541,656302,,called_strike,8,Yordan Alvarez strikes out swinging.,1,1,1,3,1,-0.27,2.15
+1452,2021-06-17,670541,656302,strikeout,swinging_strike,11,Yordan Alvarez strikes out swinging.,1,2,1,4,1,-0.09,4.32
+1453,2021-06-17,670541,641582,,called_strike,2,Yordan Alvarez strikes out swinging.,1,0,0,2,7,0.27,3.14
+1454,2021-06-17,670541,656302,,called_strike,8,Yordan Alvarez strikes out swinging.,1,1,1,3,1,-0.27,2.15
+1455,2021-06-17,670541,641582,,ball,12,Yordan Alvarez strikes out swinging.,0,0,0,1,7,0.08,4.33
 1456,2021-06-17,670541,656302,,called_strike,6,Yordan Alvarez strikes out swinging.,1,0,1,2,1,0.54,2.69
 1457,2021-06-17,670541,656302,,ball,12,Yordan Alvarez strikes out swinging.,0,0,1,1,1,0.75,5.66
 1458,2021-06-16,670541,543475,single,hit_into_play,8,Yordan Alvarez singles on a sharp ground ball to right fielder Eli White.   Michael Brantley to 2nd.,1,2,1,5,5,-0.02,1.64
@@ -1470,8 +1470,8 @@
 1468,2021-06-16,670541,543475,field_out,hit_into_play,6,Yordan Alvarez lines out to shortstop Isiah Kiner-Falefa.,1,1,2,3,1,0.7,2.59
 1469,2021-06-16,670541,543475,,ball,14,Yordan Alvarez lines out to shortstop Isiah Kiner-Falefa.,0,1,2,2,1,0.1,0.78
 1470,2021-06-16,670541,656685,,called_strike,1,Yordan Alvarez walks.,3,0,2,4,7,-0.36,2.92
-1471,2021-06-16,670541,656685,,ball,11,Yordan Alvarez walks.,2,0,2,3,7,-1.1,2.78
-1472,2021-06-16,670541,543475,,called_strike,4,Yordan Alvarez lines out to shortstop Isiah Kiner-Falefa.,0,0,2,1,1,-0.66,2.24
+1471,2021-06-16,670541,543475,,called_strike,4,Yordan Alvarez lines out to shortstop Isiah Kiner-Falefa.,0,0,2,1,1,-0.66,2.24
+1472,2021-06-16,670541,656685,,ball,11,Yordan Alvarez walks.,2,0,2,3,7,-1.1,2.78
 1473,2021-06-16,670541,656685,,ball,13,Yordan Alvarez walks.,1,0,2,2,7,-1.01,0.91
 1474,2021-06-16,670541,656685,,ball,13,Yordan Alvarez walks.,0,0,2,1,7,-0.56,1.59
 1475,2021-06-15,670541,502043,single,hit_into_play,6,Yordan Alvarez singles on a sharp line drive to right fielder Joey Gallo.   Michael Brantley to 3rd.    Alex Bregman to 2nd.,2,1,1,4,6,0.6,2.3
@@ -1583,10 +1583,10 @@
 1581,2021-06-08,670541,527048,hit_by_pitch,hit_by_pitch,12,Yordan Alvarez hit by pitch.    Myles Straw scores.    Carlos Correa to 3rd.    Alex Bregman to 2nd.,0,0,1,1,2,1.69,4.08
 1582,2021-06-08,670541,570488,field_out,hit_into_play,8,Yordan Alvarez flies out to center fielder Enrique Hernandez.,3,1,0,5,9,0.18,2.15
 1583,2021-06-08,670541,570488,,ball,11,Yordan Alvarez flies out to center fielder Enrique Hernandez.,2,1,0,4,9,-1.27,2.88
-1584,2021-06-08,670541,570488,,ball,13,Yordan Alvarez flies out to center fielder Enrique Hernandez.,1,1,0,3,9,-0.4,1.4
-1585,2021-06-08,670541,542882,home_run,hit_into_play,4,Yordan Alvarez homers (8) on a fly ball to center field.,0,1,2,2,4,-0.4,2.51
-1586,2021-06-08,670541,570488,,swinging_strike,14,Yordan Alvarez flies out to center fielder Enrique Hernandez.,1,0,0,2,9,0.12,1.5
-1587,2021-06-08,670541,542882,,called_strike,5,Yordan Alvarez homers (8) on a fly ball to center field.,0,0,2,1,4,0.17,2.59
+1584,2021-06-08,670541,542882,home_run,hit_into_play,4,Yordan Alvarez homers (8) on a fly ball to center field.,0,1,2,2,4,-0.4,2.51
+1585,2021-06-08,670541,570488,,ball,13,Yordan Alvarez flies out to center fielder Enrique Hernandez.,1,1,0,3,9,-0.4,1.4
+1586,2021-06-08,670541,542882,,called_strike,5,Yordan Alvarez homers (8) on a fly ball to center field.,0,0,2,1,4,0.17,2.59
+1587,2021-06-08,670541,570488,,swinging_strike,14,Yordan Alvarez flies out to center fielder Enrique Hernandez.,1,0,0,2,9,0.12,1.5
 1588,2021-06-08,670541,570488,,ball,11,Yordan Alvarez flies out to center fielder Enrique Hernandez.,0,0,0,1,9,-1.16,3.19
 1589,2021-06-08,670541,527048,walk,ball,14,Yordan Alvarez walks.,3,1,2,5,1,0.29,1.11
 1590,2021-06-08,670541,527048,,called_strike,4,Yordan Alvarez walks.,3,0,2,4,1,-0.67,2.94
@@ -1608,8 +1608,8 @@
 1606,2021-06-06,670541,606303,field_out,hit_into_play,13,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",3,2,1,7,8,-1.34,1.7
 1607,2021-06-06,670541,606303,,foul,6,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",3,2,1,6,8,0.6,2.52
 1608,2021-06-06,670541,606303,,foul,1,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",3,1,1,5,8,-0.49,3.61
-1609,2021-06-06,670541,606303,,called_strike,1,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",3,0,1,4,8,-0.77,3.13
-1610,2021-06-06,670541,571927,single,hit_into_play,6,Yordan Alvarez singles on a line drive to left fielder Lourdes Gurriel Jr.,0,0,2,1,1,0.59,2.81
+1609,2021-06-06,670541,571927,single,hit_into_play,6,Yordan Alvarez singles on a line drive to left fielder Lourdes Gurriel Jr.,0,0,2,1,1,0.59,2.81
+1610,2021-06-06,670541,606303,,called_strike,1,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",3,0,1,4,8,-0.77,3.13
 1611,2021-06-06,670541,606303,,ball,14,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",2,0,1,3,8,0.99,1.75
 1612,2021-06-06,670541,606303,,blocked_ball,14,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",1,0,1,2,8,1.65,0.46
 1613,2021-06-06,670541,606303,,ball,14,"Yordan Alvarez grounds out softly, pitcher Joel Payamps to first baseman Rowdy Tellez.   Alex Bregman to 3rd.",0,0,1,1,8,1.16,1.14
@@ -1763,10 +1763,10 @@
 1761,2021-05-20,670541,572143,,foul,2,Yordan Alvarez called out on strikes.,2,1,1,4,7,-0.05,3.19
 1762,2021-05-20,670541,572143,,ball,11,Yordan Alvarez called out on strikes.,1,1,1,3,7,-0.96,3.86
 1763,2021-05-20,670541,572143,,ball,11,Yordan Alvarez called out on strikes.,0,1,1,2,7,-0.69,4.3
-1764,2021-05-20,670541,594056,force_out,hit_into_play,13,"Yordan Alvarez grounds into a force out, first baseman Matt Olson to shortstop Elvis Andrus.   Jose Altuve scores.    Alex Bregman out at 2nd.  Yordan Alvarez advances to 2nd, on a throwing error by shortstop Elvis Andrus.",0,1,1,2,9,-0.42,1.43
-1765,2021-05-20,670541,572143,,foul,4,Yordan Alvarez called out on strikes.,0,0,1,1,7,-0.52,2.71
-1766,2021-05-20,670541,608344,field_out,hit_into_play,2,Yordan Alvarez flies out to left fielder Mark Canha.,2,2,0,6,2,-0.02,3.03
-1767,2021-05-20,670541,594056,,swinging_strike_blocked,14,"Yordan Alvarez grounds into a force out, first baseman Matt Olson to shortstop Elvis Andrus.   Jose Altuve scores.    Alex Bregman out at 2nd.  Yordan Alvarez advances to 2nd, on a throwing error by shortstop Elvis Andrus.",0,0,1,1,9,0.11,0.93
+1764,2021-05-20,670541,572143,,foul,4,Yordan Alvarez called out on strikes.,0,0,1,1,7,-0.52,2.71
+1765,2021-05-20,670541,594056,force_out,hit_into_play,13,"Yordan Alvarez grounds into a force out, first baseman Matt Olson to shortstop Elvis Andrus.   Jose Altuve scores.    Alex Bregman out at 2nd.  Yordan Alvarez advances to 2nd, on a throwing error by shortstop Elvis Andrus.",0,1,1,2,9,-0.42,1.43
+1766,2021-05-20,670541,594056,,swinging_strike_blocked,14,"Yordan Alvarez grounds into a force out, first baseman Matt Olson to shortstop Elvis Andrus.   Jose Altuve scores.    Alex Bregman out at 2nd.  Yordan Alvarez advances to 2nd, on a throwing error by shortstop Elvis Andrus.",0,0,1,1,9,0.11,0.93
+1767,2021-05-20,670541,608344,field_out,hit_into_play,2,Yordan Alvarez flies out to left fielder Mark Canha.,2,2,0,6,2,-0.02,3.03
 1768,2021-05-20,670541,608344,,foul,13,Yordan Alvarez flies out to left fielder Mark Canha.,2,2,0,5,2,-1.08,2.3
 1769,2021-05-20,670541,608344,,ball,13,Yordan Alvarez flies out to left fielder Mark Canha.,1,2,0,4,2,-1.22,1.08
 1770,2021-05-20,670541,608344,,ball,13,Yordan Alvarez flies out to left fielder Mark Canha.,0,2,0,3,2,-0.87,1.43
@@ -1801,8 +1801,8 @@
 1799,2021-05-18,670541,572143,,ball,11,Yordan Alvarez strikes out swinging.,2,1,2,4,7,-1.02,3.92
 1800,2021-05-18,670541,640455,double,hit_into_play,8,Yordan Alvarez doubles (11) on a line drive to right fielder Seth Brown.   Alex Bregman scores.    Yuli Gurriel scores.,0,1,2,2,1,-0.24,2.05
 1801,2021-05-18,670541,572143,,foul,9,Yordan Alvarez strikes out swinging.,2,0,2,3,7,0.35,1.98
-1802,2021-05-18,670541,572143,,ball,14,Yordan Alvarez strikes out swinging.,1,0,2,2,7,0.56,1.07
-1803,2021-05-18,670541,640455,,called_strike,7,Yordan Alvarez doubles (11) on a line drive to right fielder Seth Brown.   Alex Bregman scores.    Yuli Gurriel scores.,0,0,2,1,1,-0.36,1.75
+1802,2021-05-18,670541,640455,,called_strike,7,Yordan Alvarez doubles (11) on a line drive to right fielder Seth Brown.   Alex Bregman scores.    Yuli Gurriel scores.,0,0,2,1,1,-0.36,1.75
+1803,2021-05-18,670541,572143,,ball,14,Yordan Alvarez strikes out swinging.,1,0,2,2,7,0.56,1.07
 1804,2021-05-18,670541,572143,,ball,11,Yordan Alvarez strikes out swinging.,0,0,2,1,7,-1.74,4.28
 1805,2021-05-15,670541,663465,strikeout,swinging_strike,13,Yordan Alvarez strikes out swinging.,0,2,1,3,6,-0.82,1.55
 1806,2021-05-15,670541,663465,,foul,12,Yordan Alvarez strikes out swinging.,0,1,1,2,6,1.26,3.69
@@ -1823,10 +1823,10 @@
 1821,2021-05-14,670541,660365,,ball,14,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,1,0,1,2,6,1.06,0.86
 1822,2021-05-14,670541,660365,,ball,14,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,0,0,1,1,6,0.99,2.63
 1823,2021-05-14,670541,605138,field_out,hit_into_play,9,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,2,1,2,4,1,0.39,2.14
-1824,2021-05-14,670541,660365,field_out,hit_into_play,8,Yordan Alvarez lines out sharply to right fielder David Dahl.,1,0,1,2,4,-0.03,1.57
-1825,2021-05-14,670541,605138,,called_strike,12,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,2,0,2,3,1,0.88,3.04
-1826,2021-05-14,670541,660365,,ball,14,Yordan Alvarez lines out sharply to right fielder David Dahl.,0,0,1,1,4,0.27,1.37
-1827,2021-05-14,670541,605138,,ball,14,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,1,0,2,2,1,1.05,1.8
+1824,2021-05-14,670541,605138,,called_strike,12,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,2,0,2,3,1,0.88,3.04
+1825,2021-05-14,670541,660365,field_out,hit_into_play,8,Yordan Alvarez lines out sharply to right fielder David Dahl.,1,0,1,2,4,-0.03,1.57
+1826,2021-05-14,670541,605138,,ball,14,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,1,0,2,2,1,1.05,1.8
+1827,2021-05-14,670541,660365,,ball,14,Yordan Alvarez lines out sharply to right fielder David Dahl.,0,0,1,1,4,0.27,1.37
 1828,2021-05-14,670541,605138,,blocked_ball,13,Yordan Alvarez flies out sharply to center fielder Adolis Garcia.,0,0,2,1,1,-0.02,0.75
 1829,2021-05-14,670541,676969,single,hit_into_play,5,Yordan Alvarez singles on a sharp ground ball to center fielder Adolis Garcia.,2,0,0,3,3,0.05,2.42
 1830,2021-05-14,670541,676969,,ball,14,Yordan Alvarez singles on a sharp ground ball to center fielder Adolis Garcia.,1,0,0,2,3,2.34,0.78
@@ -1851,8 +1851,8 @@
 1849,2021-05-13,670541,667463,,foul,5,Yordan Alvarez strikes out swinging.,1,1,0,3,7,0.23,2.49
 1850,2021-05-13,670541,667463,,called_strike,5,Yordan Alvarez strikes out swinging.,1,0,0,2,7,0.27,2.78
 1851,2021-05-13,670541,592314,strikeout,swinging_strike,13,Yordan Alvarez strikes out swinging.,0,2,1,3,1,-0.36,0.84
-1852,2021-05-13,670541,667463,,ball,12,Yordan Alvarez strikes out swinging.,0,0,0,1,7,1.5,2.8
-1853,2021-05-13,670541,592314,,called_strike,7,Yordan Alvarez strikes out swinging.,0,1,1,2,1,-0.62,1.93
+1852,2021-05-13,670541,592314,,called_strike,7,Yordan Alvarez strikes out swinging.,0,1,1,2,1,-0.62,1.93
+1853,2021-05-13,670541,667463,,ball,12,Yordan Alvarez strikes out swinging.,0,0,0,1,7,1.5,2.8
 1854,2021-05-13,670541,592314,,foul,7,Yordan Alvarez strikes out swinging.,0,0,1,1,1,-0.51,2.17
 1855,2021-05-13,670541,570257,field_out,hit_into_play,6,"Yordan Alvarez grounds out, third baseman Charlie Culberson to first baseman Nate Lowe.",1,0,2,2,9,0.44,2.74
 1856,2021-05-13,670541,570257,,ball,14,"Yordan Alvarez grounds out, third baseman Charlie Culberson to first baseman Nate Lowe.",0,0,2,1,9,1.3,2.47
@@ -1870,10 +1870,10 @@
 1868,2021-05-12,670541,663776,,foul,14,Yordan Alvarez homers (7) on a fly ball to right field.,3,1,0,5,8,1.14,2.62
 1869,2021-05-12,670541,663776,,ball,12,Yordan Alvarez homers (7) on a fly ball to right field.,2,1,0,4,8,1.06,3.29
 1870,2021-05-12,670541,663776,,swinging_strike,6,Yordan Alvarez homers (7) on a fly ball to right field.,2,0,0,3,8,0.41,2.33
-1871,2021-05-12,670541,571760,single,hit_into_play,14,Yordan Alvarez singles on a sharp line drive to right fielder Taylor Ward.,1,2,2,4,1,0.15,1.42
-1872,2021-05-12,670541,663776,,ball,13,Yordan Alvarez homers (7) on a fly ball to right field.,1,0,0,2,8,-0.1,0.68
-1873,2021-05-12,670541,663776,,ball,13,Yordan Alvarez homers (7) on a fly ball to right field.,0,0,0,1,8,-0.64,-0.06
-1874,2021-05-12,670541,571760,,ball,13,Yordan Alvarez singles on a sharp line drive to right fielder Taylor Ward.,0,2,2,3,1,-0.67,0.87
+1871,2021-05-12,670541,663776,,ball,13,Yordan Alvarez homers (7) on a fly ball to right field.,1,0,0,2,8,-0.1,0.68
+1872,2021-05-12,670541,571760,single,hit_into_play,14,Yordan Alvarez singles on a sharp line drive to right fielder Taylor Ward.,1,2,2,4,1,0.15,1.42
+1873,2021-05-12,670541,571760,,ball,13,Yordan Alvarez singles on a sharp line drive to right fielder Taylor Ward.,0,2,2,3,1,-0.67,0.87
+1874,2021-05-12,670541,663776,,ball,13,Yordan Alvarez homers (7) on a fly ball to right field.,0,0,0,1,8,-0.64,-0.06
 1875,2021-05-12,670541,571760,,called_strike,9,Yordan Alvarez singles on a sharp line drive to right fielder Taylor Ward.,0,1,2,2,1,0.59,1.97
 1876,2021-05-12,670541,571760,,called_strike,5,Yordan Alvarez singles on a sharp line drive to right fielder Taylor Ward.,0,0,2,1,1,0.0,2.67
 1877,2021-05-11,670541,660271,single,hit_into_play,6,Yordan Alvarez singles on a soft ground ball to third baseman Phil Gosselin.,1,0,2,2,6,0.36,2.34
@@ -1909,10 +1909,10 @@
 1907,2021-05-10,670541,453265,,swinging_strike,7,Yordan Alvarez pops out to third baseman Phil Gosselin.,0,0,1,1,6,-0.55,2.17
 1908,2021-05-09,670541,641743,double,hit_into_play,4,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,3,2,1,7,6,-0.4,2.66
 1909,2021-05-09,670541,641743,,ball,12,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,2,2,1,6,6,1.53,3.41
-1910,2021-05-09,670541,663878,field_out,hit_into_play,6,Yordan Alvarez flies out to right fielder Teoscar Hernandez.,0,1,0,2,3,0.29,2.57
-1911,2021-05-09,670541,641743,,foul,6,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,2,2,1,5,6,0.49,2.8
-1912,2021-05-09,670541,663878,,called_strike,9,Yordan Alvarez flies out to right fielder Teoscar Hernandez.,0,0,0,1,3,0.62,1.78
-1913,2021-05-09,670541,641743,,ball,13,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,1,2,1,4,6,-1.14,1.42
+1910,2021-05-09,670541,641743,,foul,6,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,2,2,1,5,6,0.49,2.8
+1911,2021-05-09,670541,663878,field_out,hit_into_play,6,Yordan Alvarez flies out to right fielder Teoscar Hernandez.,0,1,0,2,3,0.29,2.57
+1912,2021-05-09,670541,641743,,ball,13,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,1,2,1,4,6,-1.14,1.42
+1913,2021-05-09,670541,663878,,called_strike,9,Yordan Alvarez flies out to right fielder Teoscar Hernandez.,0,0,0,1,3,0.62,1.78
 1914,2021-05-09,670541,641743,,ball,11,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,0,2,1,3,6,-2.01,2.81
 1915,2021-05-09,670541,641743,,swinging_strike,13,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,0,1,1,2,6,-1.08,1.22
 1916,2021-05-09,670541,641743,,swinging_strike,4,Yordan Alvarez doubles (9) on a line drive to center fielder Randal Grichuk.,0,0,1,1,6,-0.48,2.64
@@ -1948,8 +1948,8 @@
 1946,2021-05-07,670541,548389,,ball,11,Yordan Alvarez called out on strikes.,0,1,2,2,2,-1.39,2.91
 1947,2021-05-07,670541,548389,,foul,8,Yordan Alvarez called out on strikes.,0,0,2,1,2,-0.01,1.59
 1948,2021-05-07,670541,676709,single,hit_into_play,9,Yordan Alvarez singles on a line drive to left fielder Lourdes Gurriel Jr.  Alex Bregman to 2nd.,1,1,0,3,7,0.58,1.94
-1949,2021-05-07,670541,548389,field_out,hit_into_play,1,Yordan Alvarez lines out to center fielder Randal Grichuk.,3,2,2,7,1,-0.5,3.59
-1950,2021-05-07,670541,676709,,foul,9,Yordan Alvarez singles on a line drive to left fielder Lourdes Gurriel Jr.  Alex Bregman to 2nd.,1,0,0,2,7,0.74,2.01
+1949,2021-05-07,670541,676709,,foul,9,Yordan Alvarez singles on a line drive to left fielder Lourdes Gurriel Jr.  Alex Bregman to 2nd.,1,0,0,2,7,0.74,2.01
+1950,2021-05-07,670541,548389,field_out,hit_into_play,1,Yordan Alvarez lines out to center fielder Randal Grichuk.,3,2,2,7,1,-0.5,3.59
 1951,2021-05-07,670541,548389,,foul,7,Yordan Alvarez lines out to center fielder Randal Grichuk.,3,2,2,6,1,-0.41,1.93
 1952,2021-05-07,670541,676709,,ball,13,Yordan Alvarez singles on a line drive to left fielder Lourdes Gurriel Jr.  Alex Bregman to 2nd.,0,0,0,1,7,-1.86,2.28
 1953,2021-05-07,670541,548389,,ball,13,Yordan Alvarez lines out to center fielder Randal Grichuk.,2,2,2,5,1,-1.73,2.39
@@ -1973,14 +1973,14 @@
 1971,2021-05-06,670541,543037,,ball,14,Yordan Alvarez homers (4) on a fly ball to right field.,0,2,2,3,4,1.82,0.97
 1972,2021-05-06,670541,543037,,foul_tip,6,Yordan Alvarez homers (4) on a fly ball to right field.,0,1,2,2,4,0.41,2.73
 1973,2021-05-06,670541,543037,,swinging_strike,13,Yordan Alvarez homers (4) on a fly ball to right field.,0,0,2,1,4,-0.21,0.76
-1974,2021-05-06,670541,476595,single,hit_into_play,2,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,3,2,2,8,8,0.21,3.43
-1975,2021-05-06,670541,543037,strikeout,swinging_strike,11,Yordan Alvarez strikes out swinging.,1,2,0,4,2,-0.93,3.02
+1974,2021-05-06,670541,543037,strikeout,swinging_strike,11,Yordan Alvarez strikes out swinging.,1,2,0,4,2,-0.93,3.02
+1975,2021-05-06,670541,476595,single,hit_into_play,2,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,3,2,2,8,8,0.21,3.43
 1976,2021-05-06,670541,543037,,foul,8,Yordan Alvarez strikes out swinging.,1,1,0,3,2,-0.04,1.66
 1977,2021-05-06,670541,476595,,foul,13,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,3,2,2,7,8,-0.96,1.69
-1978,2021-05-06,670541,476595,,foul,3,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,3,2,2,6,8,0.63,3.47
-1979,2021-05-06,670541,543037,,ball,13,Yordan Alvarez strikes out swinging.,0,1,0,2,2,-1.31,2.52
-1980,2021-05-06,670541,476595,,blocked_ball,13,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,2,2,2,5,8,-1.05,0.58
-1981,2021-05-06,670541,543037,,called_strike,9,Yordan Alvarez strikes out swinging.,0,0,0,1,2,0.57,1.89
+1978,2021-05-06,670541,543037,,ball,13,Yordan Alvarez strikes out swinging.,0,1,0,2,2,-1.31,2.52
+1979,2021-05-06,670541,476595,,foul,3,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,3,2,2,6,8,0.63,3.47
+1980,2021-05-06,670541,543037,,called_strike,9,Yordan Alvarez strikes out swinging.,0,0,0,1,2,0.57,1.89
+1981,2021-05-06,670541,476595,,blocked_ball,13,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,2,2,2,5,8,-1.05,0.58
 1982,2021-05-06,670541,476595,,foul,7,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,2,1,2,4,8,-0.67,1.85
 1983,2021-05-06,670541,476595,,called_strike,6,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,2,0,2,3,8,0.53,2.86
 1984,2021-05-06,670541,476595,,ball,13,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.   Alex Bregman to 3rd.,1,0,2,2,8,-0.76,1.19
@@ -2004,15 +2004,15 @@
 2002,2021-05-04,670541,593334,strikeout,swinging_strike_blocked,13,Yordan Alvarez strikes out swinging.,3,2,2,6,1,-0.4,0.57
 2003,2021-05-04,670541,476595,grounded_into_double_play,hit_into_play,13,"Yordan Alvarez grounds into a double play, shortstop Gleyber Torres to third baseman Gio Urshela to first baseman DJ LeMahieu.   Alex Bregman out at 2nd.    Yordan Alvarez out at 1st.",2,1,1,4,6,-0.89,1.31
 2004,2021-05-04,670541,593334,,ball,12,Yordan Alvarez strikes out swinging.,2,2,2,5,1,1.51,2.98
-2005,2021-05-04,670541,476595,,ball,13,"Yordan Alvarez grounds into a double play, shortstop Gleyber Torres to third baseman Gio Urshela to first baseman DJ LeMahieu.   Alex Bregman out at 2nd.    Yordan Alvarez out at 1st.",1,1,1,3,6,-0.88,1.12
-2006,2021-05-04,670541,593334,,foul,5,Yordan Alvarez strikes out swinging.,2,1,2,4,1,-0.11,2.4
-2007,2021-05-04,670541,593334,,ball,11,Yordan Alvarez strikes out swinging.,1,1,2,3,1,-1.04,2.84
-2008,2021-05-04,670541,476595,,blocked_ball,13,"Yordan Alvarez grounds into a double play, shortstop Gleyber Torres to third baseman Gio Urshela to first baseman DJ LeMahieu.   Alex Bregman out at 2nd.    Yordan Alvarez out at 1st.",0,1,1,2,6,-2.05,-0.1
-2009,2021-05-04,670541,476595,,swinging_strike,13,"Yordan Alvarez grounds into a double play, shortstop Gleyber Torres to third baseman Gio Urshela to first baseman DJ LeMahieu.   Alex Bregman out at 2nd.    Yordan Alvarez out at 1st.",0,0,1,1,6,-1.01,0.91
+2005,2021-05-04,670541,593334,,foul,5,Yordan Alvarez strikes out swinging.,2,1,2,4,1,-0.11,2.4
+2006,2021-05-04,670541,476595,,ball,13,"Yordan Alvarez grounds into a double play, shortstop Gleyber Torres to third baseman Gio Urshela to first baseman DJ LeMahieu.   Alex Bregman out at 2nd.    Yordan Alvarez out at 1st.",1,1,1,3,6,-0.88,1.12
+2007,2021-05-04,670541,476595,,blocked_ball,13,"Yordan Alvarez grounds into a double play, shortstop Gleyber Torres to third baseman Gio Urshela to first baseman DJ LeMahieu.   Alex Bregman out at 2nd.    Yordan Alvarez out at 1st.",0,1,1,2,6,-2.05,-0.1
+2008,2021-05-04,670541,593334,,ball,11,Yordan Alvarez strikes out swinging.,1,1,2,3,1,-1.04,2.84
+2009,2021-05-04,670541,643338,single,hit_into_play,5,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.,3,2,1,6,9,0.06,2.76
 2010,2021-05-04,670541,593334,,ball,13,Yordan Alvarez strikes out swinging.,0,1,2,2,1,-2.29,1.74
-2011,2021-05-04,670541,643338,single,hit_into_play,5,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.,3,2,1,6,9,0.06,2.76
-2012,2021-05-04,670541,593334,,swinging_strike,8,Yordan Alvarez strikes out swinging.,0,0,2,1,1,-0.09,1.63
-2013,2021-05-04,670541,643338,,foul,4,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.,3,1,1,5,9,-0.42,2.28
+2011,2021-05-04,670541,476595,,swinging_strike,13,"Yordan Alvarez grounds into a double play, shortstop Gleyber Torres to third baseman Gio Urshela to first baseman DJ LeMahieu.   Alex Bregman out at 2nd.    Yordan Alvarez out at 1st.",0,0,1,1,6,-1.01,0.91
+2012,2021-05-04,670541,643338,,foul,4,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.,3,1,1,5,9,-0.42,2.28
+2013,2021-05-04,670541,593334,,swinging_strike,8,Yordan Alvarez strikes out swinging.,0,0,2,1,1,-0.09,1.63
 2014,2021-05-04,670541,643338,,ball,9,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.,2,1,1,4,9,0.32,1.66
 2015,2021-05-04,670541,643338,,called_strike,1,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.,2,0,1,3,9,-0.47,3.57
 2016,2021-05-04,670541,643338,,ball,12,Yordan Alvarez singles on a line drive to left fielder Brett Gardner.,1,0,1,2,9,0.24,4.09
@@ -2030,8 +2030,8 @@
 2028,2021-05-02,670541,605488,field_out,hit_into_play,5,Yordan Alvarez flies out to left fielder Manuel Margot.,2,1,0,4,8,-0.24,2.75
 2029,2021-05-02,670541,448179,,called_strike,2,"Yordan Alvarez grounds out softly, second baseman Brandon Lowe to first baseman Yoshi Tsutsugo.",1,0,2,2,1,-0.11,3.08
 2030,2021-05-02,670541,605488,,ball,13,Yordan Alvarez flies out to left fielder Manuel Margot.,1,1,0,3,8,-0.73,1.06
-2031,2021-05-02,670541,448179,,ball,14,"Yordan Alvarez grounds out softly, second baseman Brandon Lowe to first baseman Yoshi Tsutsugo.",0,0,2,1,1,0.47,1.55
-2032,2021-05-02,670541,605488,,called_strike,9,Yordan Alvarez flies out to left fielder Manuel Margot.,1,0,0,2,8,0.48,1.79
+2031,2021-05-02,670541,605488,,called_strike,9,Yordan Alvarez flies out to left fielder Manuel Margot.,1,0,0,2,8,0.48,1.79
+2032,2021-05-02,670541,448179,,ball,14,"Yordan Alvarez grounds out softly, second baseman Brandon Lowe to first baseman Yoshi Tsutsugo.",0,0,2,1,1,0.47,1.55
 2033,2021-05-02,670541,605488,,ball,13,Yordan Alvarez flies out to left fielder Manuel Margot.,0,0,0,1,8,-0.51,0.93
 2034,2021-05-02,670541,608379,home_run,hit_into_play,3,Yordan Alvarez homers (3) on a fly ball to center field.,2,0,1,3,4,0.51,3.22
 2035,2021-05-02,670541,608379,,ball,12,Yordan Alvarez homers (3) on a fly ball to center field.,1,0,1,2,4,0.74,3.83
@@ -2091,8 +2091,8 @@
 2089,2021-04-27,670541,664948,,ball,11,Yordan Alvarez doubles (7) on a sharp line drive to left fielder Dylan Moore.,1,1,2,3,8,-0.71,4.37
 2090,2021-04-27,670541,664948,,called_strike,3,Yordan Alvarez doubles (7) on a sharp line drive to left fielder Dylan Moore.,1,0,2,2,8,0.34,3.42
 2091,2021-04-27,670541,594835,strikeout,swinging_strike,13,Yordan Alvarez strikes out swinging.,0,2,0,3,2,-0.81,1.47
-2092,2021-04-27,670541,664948,,ball,12,Yordan Alvarez doubles (7) on a sharp line drive to left fielder Dylan Moore.,0,0,2,1,8,1.29,3.12
-2093,2021-04-27,670541,594835,,called_strike,4,Yordan Alvarez strikes out swinging.,0,1,0,2,2,-0.45,2.68
+2092,2021-04-27,670541,594835,,called_strike,4,Yordan Alvarez strikes out swinging.,0,1,0,2,2,-0.45,2.68
+2093,2021-04-27,670541,664948,,ball,12,Yordan Alvarez doubles (7) on a sharp line drive to left fielder Dylan Moore.,0,0,2,1,8,1.29,3.12
 2094,2021-04-27,670541,594835,,foul,6,Yordan Alvarez strikes out swinging.,0,0,0,1,2,0.43,2.38
 2095,2021-04-26,670541,656954,strikeout,called_strike,14,Yordan Alvarez called out on strikes.,1,2,0,5,5,0.22,1.43
 2096,2021-04-26,670541,656954,,foul,1,Yordan Alvarez called out on strikes.,1,2,0,4,5,-0.34,3.15
@@ -2122,8 +2122,8 @@
 2120,2021-04-25,670541,605164,,ball,13,Yordan Alvarez called out on strikes.,0,0,1,1,4,-0.39,1.27
 2121,2021-04-25,670541,594577,strikeout,foul_tip,12,Yordan Alvarez strikes out on a foul tip.,2,2,2,5,8,1.41,2.86
 2122,2021-04-25,670541,594577,,foul,3,Yordan Alvarez strikes out on a foul tip.,2,1,2,4,8,0.3,3.53
-2123,2021-04-25,670541,594577,,called_strike,8,Yordan Alvarez strikes out on a foul tip.,2,0,2,3,8,-0.05,1.88
-2124,2021-04-25,670541,605164,strikeout,called_strike,13,Yordan Alvarez called out on strikes.,2,2,2,6,1,-1.08,1.96
+2123,2021-04-25,670541,605164,strikeout,called_strike,13,Yordan Alvarez called out on strikes.,2,2,2,6,1,-1.08,1.96
+2124,2021-04-25,670541,594577,,called_strike,8,Yordan Alvarez strikes out on a foul tip.,2,0,2,3,8,-0.05,1.88
 2125,2021-04-25,670541,594577,,ball,12,Yordan Alvarez strikes out on a foul tip.,1,0,2,2,8,0.29,4.35
 2126,2021-04-25,670541,605164,,foul,5,Yordan Alvarez called out on strikes.,2,2,2,5,1,-0.04,2.9
 2127,2021-04-25,670541,594577,,ball,11,Yordan Alvarez strikes out on a foul tip.,0,0,2,1,8,-1.55,3.06
@@ -2175,8 +2175,8 @@
 2173,2021-04-22,670541,448855,,swinging_strike,2,Yordan Alvarez flies out to left fielder Justin Upton.,0,0,1,1,5,-0.08,3.59
 2174,2021-04-22,670541,502171,,foul,13,Yordan Alvarez singles on a ground ball to center fielder Mike Trout.   Alex Bregman to 3rd.,1,2,2,4,1,-1.31,1.69
 2175,2021-04-22,670541,502171,,swinging_strike,13,Yordan Alvarez singles on a ground ball to center fielder Mike Trout.   Alex Bregman to 3rd.,1,1,2,3,1,-1.23,1.38
-2176,2021-04-22,670541,592222,strikeout,called_strike,8,Yordan Alvarez called out on strikes.,3,2,2,6,3,-0.27,1.71
-2177,2021-04-22,670541,502171,,ball,13,Yordan Alvarez singles on a ground ball to center fielder Mike Trout.   Alex Bregman to 3rd.,0,1,2,2,1,-1.32,1.27
+2176,2021-04-22,670541,502171,,ball,13,Yordan Alvarez singles on a ground ball to center fielder Mike Trout.   Alex Bregman to 3rd.,0,1,2,2,1,-1.32,1.27
+2177,2021-04-22,670541,592222,strikeout,called_strike,8,Yordan Alvarez called out on strikes.,3,2,2,6,3,-0.27,1.71
 2178,2021-04-22,670541,502171,,called_strike,7,Yordan Alvarez singles on a ground ball to center fielder Mike Trout.   Alex Bregman to 3rd.,0,0,2,1,1,-0.44,2.2
 2179,2021-04-22,670541,592222,,called_strike,8,Yordan Alvarez called out on strikes.,3,1,2,5,3,-0.19,2.01
 2180,2021-04-22,670541,592222,,called_strike,13,Yordan Alvarez called out on strikes.,3,0,2,4,3,-0.97,2.21
@@ -2317,10 +2317,10 @@
 2315,2021-04-04,670541,640455,,called_strike,4,Yordan Alvarez walks.,1,0,2,2,3,-0.8,2.86
 2316,2021-04-04,670541,640455,,blocked_ball,13,Yordan Alvarez walks.,0,0,2,1,3,-1.76,0.75
 2317,2021-04-04,670541,433589,field_out,hit_into_play,5,Yordan Alvarez pops out to third baseman Matt Chapman.,2,0,1,3,7,-0.01,2.47
-2318,2021-04-04,670541,433589,,ball,14,Yordan Alvarez pops out to third baseman Matt Chapman.,1,0,1,2,7,0.14,1.09
-2319,2021-04-04,670541,664789,field_out,hit_into_play,13,"Yordan Alvarez grounds out, shortstop Elvis Andrus to first baseman Matt Olson.",2,2,2,5,9,-1.21,2.62
-2320,2021-04-04,670541,664789,,foul,9,"Yordan Alvarez grounds out, shortstop Elvis Andrus to first baseman Matt Olson.",2,1,2,4,9,0.38,1.81
-2321,2021-04-04,670541,433589,,ball,14,Yordan Alvarez pops out to third baseman Matt Chapman.,0,0,1,1,7,0.07,0.94
+2318,2021-04-04,670541,664789,field_out,hit_into_play,13,"Yordan Alvarez grounds out, shortstop Elvis Andrus to first baseman Matt Olson.",2,2,2,5,9,-1.21,2.62
+2319,2021-04-04,670541,433589,,ball,14,Yordan Alvarez pops out to third baseman Matt Chapman.,1,0,1,2,7,0.14,1.09
+2320,2021-04-04,670541,433589,,ball,14,Yordan Alvarez pops out to third baseman Matt Chapman.,0,0,1,1,7,0.07,0.94
+2321,2021-04-04,670541,664789,,foul,9,"Yordan Alvarez grounds out, shortstop Elvis Andrus to first baseman Matt Olson.",2,1,2,4,9,0.38,1.81
 2322,2021-04-04,670541,664789,,called_strike,1,"Yordan Alvarez grounds out, shortstop Elvis Andrus to first baseman Matt Olson.",2,0,2,3,9,-0.58,3.53
 2323,2021-04-04,670541,664789,,ball,11,"Yordan Alvarez grounds out, shortstop Elvis Andrus to first baseman Matt Olson.",1,0,2,2,9,-0.96,3.65
 2324,2021-04-04,670541,664789,,ball,13,"Yordan Alvarez grounds out, shortstop Elvis Andrus to first baseman Matt Olson.",0,0,2,1,9,-1.22,2.21
@@ -2362,16 +2362,16 @@
 2360,2021-04-02,670541,666200,,swinging_strike,13,"Yordan Alvarez grounds out, first baseman Matt Olson to pitcher Jesus Luzardo.",1,0,2,2,3,-1.04,1.6
 2361,2021-04-02,670541,666200,,ball,13,"Yordan Alvarez grounds out, first baseman Matt Olson to pitcher Jesus Luzardo.",0,0,2,1,3,-1.41,2.49
 2362,2021-04-02,670541,518617,strikeout,called_strike,5,Yordan Alvarez called out on strikes.,3,2,1,7,9,0.05,2.39
-2363,2021-04-02,670541,666200,strikeout,called_strike,5,Yordan Alvarez called out on strikes.,3,2,1,6,2,-0.24,2.33
-2364,2021-04-02,670541,518617,,foul,5,Yordan Alvarez called out on strikes.,3,2,1,6,9,-0.05,2.77
-2365,2021-04-02,670541,518617,,swinging_strike,6,Yordan Alvarez called out on strikes.,3,1,1,5,9,0.63,2.34
-2366,2021-04-02,670541,666200,,ball,12,Yordan Alvarez called out on strikes.,2,2,1,5,2,1.62,3.22
+2363,2021-04-02,670541,518617,,foul,5,Yordan Alvarez called out on strikes.,3,2,1,6,9,-0.05,2.77
+2364,2021-04-02,670541,666200,strikeout,called_strike,5,Yordan Alvarez called out on strikes.,3,2,1,6,2,-0.24,2.33
+2365,2021-04-02,670541,666200,,ball,12,Yordan Alvarez called out on strikes.,2,2,1,5,2,1.62,3.22
+2366,2021-04-02,670541,518617,,swinging_strike,6,Yordan Alvarez called out on strikes.,3,1,1,5,9,0.63,2.34
 2367,2021-04-02,670541,666200,,ball,12,Yordan Alvarez called out on strikes.,1,2,1,4,2,1.27,4.31
 2368,2021-04-02,670541,518617,,called_strike,7,Yordan Alvarez called out on strikes.,3,0,1,4,9,-0.69,1.83
 2369,2021-04-02,670541,666200,,called_strike,13,Yordan Alvarez called out on strikes.,1,1,1,3,2,-0.92,2.36
 2370,2021-04-02,670541,518617,,ball,14,Yordan Alvarez called out on strikes.,2,0,1,3,9,1.89,2.38
-2371,2021-04-02,670541,518617,,ball,13,Yordan Alvarez called out on strikes.,1,0,1,2,9,-0.54,1.22
-2372,2021-04-02,670541,666200,,called_strike,7,Yordan Alvarez called out on strikes.,1,0,1,2,2,-0.53,2.08
+2371,2021-04-02,670541,666200,,called_strike,7,Yordan Alvarez called out on strikes.,1,0,1,2,2,-0.53,2.08
+2372,2021-04-02,670541,518617,,ball,13,Yordan Alvarez called out on strikes.,1,0,1,2,9,-0.54,1.22
 2373,2021-04-02,670541,666200,,ball,11,Yordan Alvarez called out on strikes.,0,0,1,1,2,-0.91,3.59
 2374,2021-04-02,670541,518617,,ball,1,Yordan Alvarez called out on strikes.,0,0,1,1,9,-0.78,3.46
 2375,2021-04-02,670541,489265,double,hit_into_play,8,Yordan Alvarez doubles (2) on a ground ball to right fielder Chad Pinder.,1,2,0,4,8,0.11,1.64

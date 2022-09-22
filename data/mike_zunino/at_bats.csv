@@ -7,8 +7,8 @@
 5,2021-10-03,572287,643338,,ball,11,Mike Zunino strikes out on a foul tip.,0,1,0,2,7,-0.33,4.13
 6,2021-10-03,572287,643338,,foul,6,Mike Zunino strikes out on a foul tip.,0,0,0,1,7,0.75,2.58
 7,2021-10-03,572287,593974,force_out,hit_into_play,9,"Mike Zunino grounds into a force out, fielded by third baseman Rougned Odor.   Austin Meadows out at 3rd.    Ji-Man Choi to 2nd.    Mike Zunino to 1st.",2,0,1,3,4,0.6,1.6
-8,2021-10-03,572287,593974,,blocked_ball,13,"Mike Zunino grounds into a force out, fielded by third baseman Rougned Odor.   Austin Meadows out at 3rd.    Ji-Man Choi to 2nd.    Mike Zunino to 1st.",1,0,1,2,4,-0.4,0.88
-9,2021-10-03,572287,547973,field_out,hit_into_play,13,Mike Zunino lines out to left fielder Joey Gallo.,0,1,1,2,9,-0.17,1.3
+8,2021-10-03,572287,547973,field_out,hit_into_play,13,Mike Zunino lines out to left fielder Joey Gallo.,0,1,1,2,9,-0.17,1.3
+9,2021-10-03,572287,593974,,blocked_ball,13,"Mike Zunino grounds into a force out, fielded by third baseman Rougned Odor.   Austin Meadows out at 3rd.    Ji-Man Choi to 2nd.    Mike Zunino to 1st.",1,0,1,2,4,-0.4,0.88
 10,2021-10-03,572287,547973,,called_strike,3,Mike Zunino lines out to left fielder Joey Gallo.,0,0,1,1,9,0.48,3.21
 11,2021-10-03,572287,593974,,ball,14,"Mike Zunino grounds into a force out, fielded by third baseman Rougned Odor.   Austin Meadows out at 3rd.    Ji-Man Choi to 2nd.    Mike Zunino to 1st.",0,0,1,1,4,1.29,2.09
 12,2021-10-02,572287,656756,home_run,hit_into_play,4,Mike Zunino homers (33) on a line drive to left field.,1,2,1,4,3,-0.73,2.63
@@ -21,8 +21,8 @@
 19,2021-10-02,572287,476595,,ball,12,Mike Zunino called out on strikes.,0,2,1,3,5,1.64,2.66
 20,2021-10-02,572287,476595,,foul,8,Mike Zunino called out on strikes.,0,1,1,2,5,-0.23,1.58
 21,2021-10-02,572287,476595,,called_strike,5,Mike Zunino called out on strikes.,0,0,1,1,5,0.15,2.59
-22,2021-10-02,572287,656756,strikeout,swinging_strike,9,Mike Zunino strikes out swinging.,0,2,2,3,1,0.35,1.69
-23,2021-10-02,572287,570257,single,hit_into_play,9,Mike Zunino singles on a soft ground ball to third baseman Gio Urshela.,0,0,2,1,8,0.57,2.14
+22,2021-10-02,572287,570257,single,hit_into_play,9,Mike Zunino singles on a soft ground ball to third baseman Gio Urshela.,0,0,2,1,8,0.57,2.14
+23,2021-10-02,572287,656756,strikeout,swinging_strike,9,Mike Zunino strikes out swinging.,0,2,2,3,1,0.35,1.69
 24,2021-10-02,572287,656756,,foul,1,Mike Zunino strikes out swinging.,0,1,2,2,1,-0.39,3.2
 25,2021-10-02,572287,656756,,called_strike,7,Mike Zunino strikes out swinging.,0,0,2,1,1,-0.41,1.66
 26,2021-10-02,572287,650633,single,hit_into_play,8,Mike Zunino singles on a sharp line drive to right fielder Aaron Judge.,0,1,0,2,7,-0.04,1.9
@@ -87,10 +87,10 @@
 85,2021-09-21,572287,666201,,foul,5,Mike Zunino strikes out swinging.,1,0,1,2,4,-0.05,2.75
 86,2021-09-21,572287,666201,,ball,11,Mike Zunino strikes out swinging.,0,0,1,1,4,-0.36,4.26
 87,2021-09-21,572287,666201,single,hit_into_play,5,Mike Zunino singles on a line drive to right fielder Teoscar Hernandez.,1,2,2,4,2,-0.12,2.52
-88,2021-09-21,572287,666201,,foul,5,Mike Zunino singles on a line drive to right fielder Teoscar Hernandez.,1,1,2,3,2,-0.18,2.44
-89,2021-09-21,572287,670950,force_out,hit_into_play,6,"Mike Zunino grounds into a force out, shortstop Bo Bichette to second baseman Marcus Semien.   Kevin Kiermaier out at 2nd.",2,2,2,5,8,0.44,2.61
-90,2021-09-21,572287,670950,,blocked_ball,13,"Mike Zunino grounds into a force out, shortstop Bo Bichette to second baseman Marcus Semien.   Kevin Kiermaier out at 2nd.",1,2,2,4,8,-0.18,-0.14
-91,2021-09-21,572287,666201,,foul,5,Mike Zunino singles on a line drive to right fielder Teoscar Hernandez.,1,0,2,2,2,0.17,2.41
+88,2021-09-21,572287,670950,force_out,hit_into_play,6,"Mike Zunino grounds into a force out, shortstop Bo Bichette to second baseman Marcus Semien.   Kevin Kiermaier out at 2nd.",2,2,2,5,8,0.44,2.61
+89,2021-09-21,572287,666201,,foul,5,Mike Zunino singles on a line drive to right fielder Teoscar Hernandez.,1,1,2,3,2,-0.18,2.44
+90,2021-09-21,572287,666201,,foul,5,Mike Zunino singles on a line drive to right fielder Teoscar Hernandez.,1,0,2,2,2,0.17,2.41
+91,2021-09-21,572287,670950,,blocked_ball,13,"Mike Zunino grounds into a force out, shortstop Bo Bichette to second baseman Marcus Semien.   Kevin Kiermaier out at 2nd.",1,2,2,4,8,-0.18,-0.14
 92,2021-09-21,572287,666201,,ball,11,Mike Zunino singles on a line drive to right fielder Teoscar Hernandez.,0,0,2,1,2,-0.09,3.6
 93,2021-09-21,572287,670950,,ball,12,"Mike Zunino grounds into a force out, shortstop Bo Bichette to second baseman Marcus Semien.   Kevin Kiermaier out at 2nd.",0,2,2,3,8,1.93,3.9
 94,2021-09-21,572287,670950,,foul,2,"Mike Zunino grounds into a force out, shortstop Bo Bichette to second baseman Marcus Semien.   Kevin Kiermaier out at 2nd.",0,1,2,2,8,-0.18,3.49
@@ -141,8 +141,8 @@
 139,2021-09-16,572287,671345,strikeout,called_strike,3,Mike Zunino called out on strikes.,0,2,0,3,8,0.39,3.08
 140,2021-09-16,572287,656290,home_run,hit_into_play,5,Mike Zunino homers (31) on a fly ball to center field.   Joey Wendle scores.,1,0,2,2,6,0.08,2.66
 141,2021-09-16,572287,671345,,foul,7,Mike Zunino called out on strikes.,0,1,0,2,8,-0.56,2.05
-142,2021-09-16,572287,656290,,ball,9,Mike Zunino homers (31) on a fly ball to center field.   Joey Wendle scores.,0,0,2,1,6,0.74,1.52
-143,2021-09-16,572287,671345,,called_strike,7,Mike Zunino called out on strikes.,0,0,0,1,8,-0.75,1.4
+142,2021-09-16,572287,671345,,called_strike,7,Mike Zunino called out on strikes.,0,0,0,1,8,-0.75,1.4
+143,2021-09-16,572287,656290,,ball,9,Mike Zunino homers (31) on a fly ball to center field.   Joey Wendle scores.,0,0,2,1,6,0.74,1.52
 144,2021-09-15,572287,592662,field_out,hit_into_play,1,Mike Zunino flies out to center fielder Randal Grichuk.,2,2,1,5,7,-0.7,2.98
 145,2021-09-15,572287,592662,,ball,13,Mike Zunino flies out to center fielder Randal Grichuk.,1,2,1,4,7,-1.24,2.29
 146,2021-09-15,572287,592662,,foul,2,Mike Zunino flies out to center fielder Randal Grichuk.,1,1,1,3,7,-0.22,3.39
@@ -204,8 +204,8 @@
 202,2021-09-07,572287,593140,home_run,hit_into_play,4,Mike Zunino homers (29) on a fly ball to center field.,0,0,2,1,6,-0.3,2.42
 203,2021-09-07,572287,502748,field_out,hit_into_play,7,"Mike Zunino grounds out, second baseman Jonathan Arauz to first baseman Kyle Schwarber.",2,1,0,4,8,-0.32,2.04
 204,2021-09-07,572287,593958,,called_strike,11,Mike Zunino triples (2) on a fly ball to right fielder Hunter Renfroe.   Manuel Margot scores.    Joey Wendle scores.,1,0,1,2,2,-0.17,3.52
-205,2021-09-07,572287,593958,,ball,13,Mike Zunino triples (2) on a fly ball to right fielder Hunter Renfroe.   Manuel Margot scores.    Joey Wendle scores.,0,0,1,1,2,-1.17,1.95
-206,2021-09-07,572287,502748,,ball,14,"Mike Zunino grounds out, second baseman Jonathan Arauz to first baseman Kyle Schwarber.",1,1,0,3,8,1.63,1.19
+205,2021-09-07,572287,502748,,ball,14,"Mike Zunino grounds out, second baseman Jonathan Arauz to first baseman Kyle Schwarber.",1,1,0,3,8,1.63,1.19
+206,2021-09-07,572287,593958,,ball,13,Mike Zunino triples (2) on a fly ball to right fielder Hunter Renfroe.   Manuel Margot scores.    Joey Wendle scores.,0,0,1,1,2,-1.17,1.95
 207,2021-09-07,572287,502748,,ball,14,"Mike Zunino grounds out, second baseman Jonathan Arauz to first baseman Kyle Schwarber.",0,1,0,2,8,1.47,1.0
 208,2021-09-07,572287,502748,,swinging_strike,9,"Mike Zunino grounds out, second baseman Jonathan Arauz to first baseman Kyle Schwarber.",0,0,0,1,8,0.75,1.55
 209,2021-09-06,572287,676477,strikeout,swinging_strike,2,Mike Zunino strikes out swinging.,1,2,0,4,9,0.15,3.5
@@ -236,8 +236,8 @@
 234,2021-09-04,572287,452027,strikeout,swinging_strike,1,Mike Zunino strikes out swinging.,3,2,0,7,2,-0.71,3.37
 235,2021-09-04,572287,452027,,ball,14,Mike Zunino strikes out swinging.,2,2,0,6,2,2.14,1.88
 236,2021-09-04,572287,452027,,foul,7,Mike Zunino strikes out swinging.,2,2,0,5,2,-0.35,2.03
-237,2021-09-04,572287,452027,,ball,11,Mike Zunino strikes out swinging.,1,2,0,4,2,-0.79,3.54
-238,2021-09-04,572287,573668,strikeout,foul_tip,5,Mike Zunino strikes out on a foul tip.,0,2,2,3,6,0.0,2.7
+237,2021-09-04,572287,573668,strikeout,foul_tip,5,Mike Zunino strikes out on a foul tip.,0,2,2,3,6,0.0,2.7
+238,2021-09-04,572287,452027,,ball,11,Mike Zunino strikes out swinging.,1,2,0,4,2,-0.79,3.54
 239,2021-09-04,572287,573668,,swinging_strike,13,Mike Zunino strikes out on a foul tip.,0,1,2,2,6,-0.16,1.41
 240,2021-09-04,572287,452027,,ball,11,Mike Zunino strikes out swinging.,0,2,0,3,2,-0.57,4.01
 241,2021-09-04,572287,573668,,called_strike,8,Mike Zunino strikes out on a foul tip.,0,0,2,1,6,0.16,2.0
@@ -313,14 +313,14 @@
 311,2021-08-29,572287,656945,,called_strike,7,"Mike Zunino grounds into a double play, second baseman Jorge Mateo to first baseman Ryan Mountcastle.   Joey Wendle out at 2nd.    Mike Zunino out at 1st.",0,0,1,1,9,-0.73,2.05
 312,2021-08-29,572287,605347,field_out,hit_into_play,14,"Mike Zunino grounds out, first baseman Ryan Mountcastle to pitcher Jorge Lopez.",2,2,0,5,6,1.02,2.15
 313,2021-08-29,572287,641632,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,2,2,1,5,7,1.23,1.06
-314,2021-08-29,572287,641632,,ball,14,Mike Zunino strikes out swinging.,1,2,1,4,7,1.62,1.79
-315,2021-08-29,572287,605347,,ball,9,"Mike Zunino grounds out, first baseman Ryan Mountcastle to pitcher Jorge Lopez.",1,2,0,4,6,0.79,1.71
+314,2021-08-29,572287,605347,,ball,9,"Mike Zunino grounds out, first baseman Ryan Mountcastle to pitcher Jorge Lopez.",1,2,0,4,6,0.79,1.71
+315,2021-08-29,572287,641632,,ball,14,Mike Zunino strikes out swinging.,1,2,1,4,7,1.62,1.79
 316,2021-08-29,572287,641632,,ball,14,Mike Zunino strikes out swinging.,0,2,1,3,7,0.5,0.7
 317,2021-08-29,572287,605347,,foul,4,"Mike Zunino grounds out, first baseman Ryan Mountcastle to pitcher Jorge Lopez.",1,1,0,3,6,-0.43,2.53
 318,2021-08-29,572287,641632,,swinging_strike,14,Mike Zunino strikes out swinging.,0,1,1,2,7,0.03,1.1
 319,2021-08-29,572287,605347,,ball,14,"Mike Zunino grounds out, first baseman Ryan Mountcastle to pitcher Jorge Lopez.",0,1,0,2,6,0.69,0.52
-320,2021-08-29,572287,641632,,called_strike,6,Mike Zunino strikes out swinging.,0,0,1,1,7,0.68,2.33
-321,2021-08-29,572287,605347,,called_strike,1,"Mike Zunino grounds out, first baseman Ryan Mountcastle to pitcher Jorge Lopez.",0,0,0,1,6,-0.67,2.83
+320,2021-08-29,572287,605347,,called_strike,1,"Mike Zunino grounds out, first baseman Ryan Mountcastle to pitcher Jorge Lopez.",0,0,0,1,6,-0.67,2.83
+321,2021-08-29,572287,641632,,called_strike,6,Mike Zunino strikes out swinging.,0,0,1,1,7,0.68,2.33
 322,2021-08-27,572287,518774,field_out,hit_into_play,4,Mike Zunino flies out sharply to left fielder Austin Hays.,2,1,0,4,5,-0.43,2.6
 323,2021-08-27,572287,518774,,ball,14,Mike Zunino flies out sharply to left fielder Austin Hays.,1,1,0,3,5,1.66,1.33
 324,2021-08-27,572287,518774,,ball,14,Mike Zunino flies out sharply to left fielder Austin Hays.,0,1,0,2,5,1.23,1.14
@@ -379,12 +379,12 @@
 377,2021-08-20,572287,608337,,ball,14,"Mike Zunino grounds out, second baseman Cesar Hernandez to first baseman Jose Abreu.",0,0,1,1,3,0.57,0.84
 378,2021-08-20,572287,676979,strikeout,swinging_strike,13,Mike Zunino strikes out swinging.,2,2,2,5,9,-0.92,1.18
 379,2021-08-20,572287,676979,,swinging_strike,2,Mike Zunino strikes out swinging.,2,1,2,4,9,0.22,3.0
-380,2021-08-20,572287,676979,,foul,9,Mike Zunino strikes out swinging.,2,0,2,3,9,0.55,2.06
-381,2021-08-20,572287,518886,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,3,2,1,6,8,1.4,1.88
+380,2021-08-20,572287,518886,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,3,2,1,6,8,1.4,1.88
+381,2021-08-20,572287,676979,,foul,9,Mike Zunino strikes out swinging.,2,0,2,3,9,0.55,2.06
 382,2021-08-20,572287,676979,,ball,13,Mike Zunino strikes out swinging.,1,0,2,2,9,-1.04,2.28
 383,2021-08-20,572287,518886,,called_strike,4,Mike Zunino strikes out swinging.,3,1,1,5,8,-0.71,2.13
-384,2021-08-20,572287,676979,,ball,11,Mike Zunino strikes out swinging.,0,0,2,1,9,-0.09,3.98
-385,2021-08-20,572287,518886,,ball,11,Mike Zunino strikes out swinging.,2,1,1,4,8,-0.54,4.59
+384,2021-08-20,572287,518886,,ball,11,Mike Zunino strikes out swinging.,2,1,1,4,8,-0.54,4.59
+385,2021-08-20,572287,676979,,ball,11,Mike Zunino strikes out swinging.,0,0,2,1,9,-0.09,3.98
 386,2021-08-20,572287,518886,,ball,14,Mike Zunino strikes out swinging.,1,1,1,3,8,1.22,-0.78
 387,2021-08-20,572287,518886,,ball,12,Mike Zunino strikes out swinging.,0,1,1,2,8,1.32,2.77
 388,2021-08-20,572287,518886,,swinging_strike,9,Mike Zunino strikes out swinging.,0,0,1,1,8,0.46,1.53
@@ -398,14 +398,14 @@
 396,2021-08-17,572287,607644,,foul,8,Mike Zunino strikes out swinging.,1,0,2,2,2,0.08,1.89
 397,2021-08-17,572287,607644,,ball,13,Mike Zunino strikes out swinging.,0,0,2,1,2,-1.02,1.6
 398,2021-08-17,572287,650959,field_error,hit_into_play,4,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,2,2,2,6,5,-0.62,2.37
-399,2021-08-17,572287,650959,,foul,14,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,2,2,2,5,5,1.22,2.12
-400,2021-08-17,572287,592831,field_out,hit_into_play,12,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",2,2,2,5,7,0.96,2.82
-401,2021-08-17,572287,650959,,ball,9,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,1,2,2,4,5,0.49,1.68
-402,2021-08-17,572287,592831,,ball,13,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",1,2,2,4,7,-1.3,1.74
+399,2021-08-17,572287,592831,field_out,hit_into_play,12,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",2,2,2,5,7,0.96,2.82
+400,2021-08-17,572287,650959,,foul,14,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,2,2,2,5,5,1.22,2.12
+401,2021-08-17,572287,592831,,ball,13,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",1,2,2,4,7,-1.3,1.74
+402,2021-08-17,572287,650959,,ball,9,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,1,2,2,4,5,0.49,1.68
 403,2021-08-17,572287,592831,,called_strike,8,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",1,1,2,3,7,0.17,1.89
 404,2021-08-17,572287,650959,,foul,14,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,1,1,2,3,5,0.27,0.99
-405,2021-08-17,572287,650959,,swinging_strike,2,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,1,0,2,2,5,0.06,3.47
-406,2021-08-17,572287,592831,,swinging_strike,13,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",1,0,2,2,7,-0.9,1.67
+405,2021-08-17,572287,592831,,swinging_strike,13,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",1,0,2,2,7,-0.9,1.67
+406,2021-08-17,572287,650959,,swinging_strike,2,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,1,0,2,2,5,0.06,3.47
 407,2021-08-17,572287,650959,,ball,12,Mike Zunino reaches on a fielding error by second baseman Ramon Urias.   Brandon Lowe scores.,0,0,2,1,5,1.25,3.22
 408,2021-08-17,572287,592831,,ball,14,"Mike Zunino grounds out, second baseman Ramon Urias to first baseman Ryan Mountcastle.",0,0,2,1,7,1.44,1.37
 409,2021-08-15,572287,656212,home_run,hit_into_play,5,Mike Zunino homers (25) on a fly ball to left field.,2,1,1,4,5,0.2,2.52
@@ -439,8 +439,8 @@
 437,2021-08-12,572287,656557,,ball,13,Mike Zunino strikes out swinging.   Kevin Kiermaier to 3rd.  Kevin Kiermaier steals (8) 2nd base.   Kevin Kiermaier to 3rd.  Throwing error by catcher Kevin Plawecki.,0,0,0,1,3,-1.62,2.45
 438,2021-08-12,572287,570663,strikeout,swinging_strike,2,Mike Zunino strikes out swinging.,1,2,2,4,6,0.26,3.47
 439,2021-08-12,572287,570663,,foul,5,Mike Zunino strikes out swinging.,1,1,2,3,6,-0.21,2.61
-440,2021-08-12,572287,605441,home_run,hit_into_play,1,Mike Zunino homers (23) on a fly ball to left field.   Yandy Diaz scores.    Kevin Kiermaier scores.,0,0,1,1,8,-0.52,2.92
-441,2021-08-12,572287,570663,,foul,8,Mike Zunino strikes out swinging.,1,0,2,2,6,0.05,2.03
+440,2021-08-12,572287,570663,,foul,8,Mike Zunino strikes out swinging.,1,0,2,2,6,0.05,2.03
+441,2021-08-12,572287,605441,home_run,hit_into_play,1,Mike Zunino homers (23) on a fly ball to left field.   Yandy Diaz scores.    Kevin Kiermaier scores.,0,0,1,1,8,-0.52,2.92
 442,2021-08-12,572287,570663,,ball,13,Mike Zunino strikes out swinging.,0,0,2,1,6,-0.29,0.79
 443,2021-08-11,572287,570488,home_run,hit_into_play,1,Mike Zunino homers (22) on a fly ball to left center field.,1,0,2,2,9,-0.57,3.08
 444,2021-08-11,572287,570488,,ball,14,Mike Zunino homers (22) on a fly ball to left center field.,0,0,2,1,9,0.87,1.39
@@ -483,8 +483,8 @@
 481,2021-08-06,572287,641632,,ball,14,Mike Zunino strikes out swinging.,1,2,0,4,6,1.4,-0.15
 482,2021-08-06,572287,641632,,swinging_strike,14,Mike Zunino strikes out swinging.,1,1,0,3,6,1.09,1.19
 483,2021-08-06,572287,641632,,ball,13,Mike Zunino strikes out swinging.,0,1,0,2,6,-0.43,0.95
-484,2021-08-06,572287,643316,single,hit_into_play,2,Mike Zunino singles on a fly ball to right fielder Anthony Santander.,0,0,0,1,8,-0.2,3.12
-485,2021-08-06,572287,641632,,called_strike,6,Mike Zunino strikes out swinging.,0,0,0,1,6,0.32,2.45
+484,2021-08-06,572287,641632,,called_strike,6,Mike Zunino strikes out swinging.,0,0,0,1,6,0.32,2.45
+485,2021-08-06,572287,643316,single,hit_into_play,2,Mike Zunino singles on a fly ball to right fielder Anthony Santander.,0,0,0,1,8,-0.2,3.12
 486,2021-08-04,572287,669302,strikeout,swinging_strike,8,Mike Zunino strikes out swinging.,3,2,0,6,4,0.27,2.14
 487,2021-08-04,572287,669302,,ball,14,Mike Zunino strikes out swinging.,2,2,0,5,4,1.42,1.45
 488,2021-08-04,572287,669302,,foul,1,Mike Zunino strikes out swinging.,2,1,0,4,4,-0.63,3.04
@@ -567,8 +567,8 @@
 565,2021-07-27,572287,643338,,foul,12,Mike Zunino walks.,2,2,2,5,6,0.85,2.77
 566,2021-07-27,572287,502154,grounded_into_double_play,hit_into_play,14,"Mike Zunino grounds into a double play, shortstop Gleyber Torres to second baseman Rougned Odor to first baseman DJ LeMahieu.   Brandon Lowe out at 2nd.    Mike Zunino out at 1st.",1,0,1,2,8,1.03,1.95
 567,2021-07-27,572287,643338,,swinging_strike,8,Mike Zunino walks.,2,1,2,4,6,0.18,2.17
-568,2021-07-27,572287,502154,,ball,14,"Mike Zunino grounds into a double play, shortstop Gleyber Torres to second baseman Rougned Odor to first baseman DJ LeMahieu.   Brandon Lowe out at 2nd.    Mike Zunino out at 1st.",0,0,1,1,8,0.96,1.54
-569,2021-07-27,572287,643338,,ball,12,Mike Zunino walks.,1,1,2,3,6,0.27,3.76
+568,2021-07-27,572287,643338,,ball,12,Mike Zunino walks.,1,1,2,3,6,0.27,3.76
+569,2021-07-27,572287,502154,,ball,14,"Mike Zunino grounds into a double play, shortstop Gleyber Torres to second baseman Rougned Odor to first baseman DJ LeMahieu.   Brandon Lowe out at 2nd.    Mike Zunino out at 1st.",0,0,1,1,8,0.96,1.54
 570,2021-07-27,572287,643338,,ball,14,Mike Zunino walks.,0,1,2,2,6,0.25,1.09
 571,2021-07-27,572287,643338,,called_strike,8,Mike Zunino walks.,0,0,2,1,6,0.03,1.44
 572,2021-07-24,572287,650496,field_out,hit_into_play,4,Mike Zunino pops out to second baseman Cesar Hernandez.,1,0,2,2,6,-0.67,2.81
@@ -659,8 +659,8 @@
 657,2021-07-09,572287,666201,,ball,11,"Blue Jays challenged (hit by pitch), call on the field was upheld: Mike Zunino hit by pitch.",0,0,0,1,3,-1.71,2.72
 658,2021-07-09,572287,503569,strikeout,swinging_strike,13,Mike Zunino strikes out swinging.,2,2,0,5,7,-0.73,1.31
 659,2021-07-09,572287,503569,,blocked_ball,13,Mike Zunino strikes out swinging.,1,2,0,4,7,-1.28,0.5
-660,2021-07-09,572287,503569,,swinging_strike,14,Mike Zunino strikes out swinging.,1,1,0,3,7,0.92,0.92
-661,2021-07-09,572287,621593,single,hit_into_play,8,Mike Zunino singles on a sharp ground ball to left fielder Teoscar Hernandez.,1,1,0,3,6,0.14,1.72
+660,2021-07-09,572287,621593,single,hit_into_play,8,Mike Zunino singles on a sharp ground ball to left fielder Teoscar Hernandez.,1,1,0,3,6,0.14,1.72
+661,2021-07-09,572287,503569,,swinging_strike,14,Mike Zunino strikes out swinging.,1,1,0,3,7,0.92,0.92
 662,2021-07-09,572287,621593,,ball,13,Mike Zunino singles on a sharp ground ball to left fielder Teoscar Hernandez.,0,1,0,2,6,-1.06,1.91
 663,2021-07-09,572287,503569,,blocked_ball,14,Mike Zunino strikes out swinging.,0,1,0,2,7,1.25,0.02
 664,2021-07-09,572287,503569,,called_strike,8,Mike Zunino strikes out swinging.,0,0,0,1,7,0.07,1.65
@@ -771,16 +771,16 @@
 769,2021-06-26,572287,502171,,ball,11,Mike Zunino walks.,0,1,2,2,4,-1.12,4.29
 770,2021-06-26,572287,502171,,called_strike,11,Mike Zunino walks.,0,0,2,1,4,0.0,3.39
 771,2021-06-26,572287,502171,field_out,hit_into_play,8,Mike Zunino lines out sharply to third baseman Anthony Rendon.,2,2,0,6,3,-0.2,1.82
-772,2021-06-26,572287,502171,,ball,14,Mike Zunino lines out sharply to third baseman Anthony Rendon.,1,2,0,5,3,0.98,2.11
-773,2021-06-26,572287,500779,home_run,hit_into_play,8,Mike Zunino homers (16) on a fly ball to left field.,2,2,2,5,6,-0.13,2.07
+772,2021-06-26,572287,500779,home_run,hit_into_play,8,Mike Zunino homers (16) on a fly ball to left field.,2,2,2,5,6,-0.13,2.07
+773,2021-06-26,572287,502171,,ball,14,Mike Zunino lines out sharply to third baseman Anthony Rendon.,1,2,0,5,3,0.98,2.11
 774,2021-06-26,572287,502171,,foul,8,Mike Zunino lines out sharply to third baseman Anthony Rendon.,1,2,0,4,3,0.07,1.9
 775,2021-06-26,572287,500779,,ball,12,Mike Zunino homers (16) on a fly ball to left field.,1,2,2,4,6,1.09,4.85
-776,2021-06-26,572287,500779,,foul,1,Mike Zunino homers (16) on a fly ball to left field.,1,1,2,3,6,-0.72,2.88
-777,2021-06-26,572287,502171,,foul,7,Mike Zunino lines out sharply to third baseman Anthony Rendon.,1,1,0,3,3,-0.67,1.51
-778,2021-06-26,572287,502171,,called_strike,6,Mike Zunino lines out sharply to third baseman Anthony Rendon.,1,0,0,2,3,0.75,2.58
-779,2021-06-26,572287,500779,,ball,12,Mike Zunino homers (16) on a fly ball to left field.,0,1,2,2,6,0.29,4.66
-780,2021-06-26,572287,502171,,ball,14,Mike Zunino lines out sharply to third baseman Anthony Rendon.,0,0,0,1,3,0.93,0.34
-781,2021-06-26,572287,500779,,called_strike,14,Mike Zunino homers (16) on a fly ball to left field.,0,0,2,1,6,0.9,1.53
+776,2021-06-26,572287,502171,,foul,7,Mike Zunino lines out sharply to third baseman Anthony Rendon.,1,1,0,3,3,-0.67,1.51
+777,2021-06-26,572287,500779,,foul,1,Mike Zunino homers (16) on a fly ball to left field.,1,1,2,3,6,-0.72,2.88
+778,2021-06-26,572287,500779,,ball,12,Mike Zunino homers (16) on a fly ball to left field.,0,1,2,2,6,0.29,4.66
+779,2021-06-26,572287,502171,,called_strike,6,Mike Zunino lines out sharply to third baseman Anthony Rendon.,1,0,0,2,3,0.75,2.58
+780,2021-06-26,572287,500779,,called_strike,14,Mike Zunino homers (16) on a fly ball to left field.,0,0,2,1,6,0.9,1.53
+781,2021-06-26,572287,502171,,ball,14,Mike Zunino lines out sharply to third baseman Anthony Rendon.,0,0,0,1,3,0.93,0.34
 782,2021-06-26,572287,448855,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,2,2,1,6,7,0.86,1.57
 783,2021-06-26,572287,448855,,foul,8,Mike Zunino strikes out swinging.,2,2,1,5,7,-0.18,2.11
 784,2021-06-26,572287,448855,,swinging_strike,1,Mike Zunino strikes out swinging.,2,1,1,4,7,-0.43,3.15
@@ -804,8 +804,8 @@
 802,2021-06-23,572287,542882,strikeout,swinging_strike,11,Mike Zunino strikes out swinging.,0,2,1,3,7,-0.19,3.64
 803,2021-06-23,572287,542882,,swinging_strike,2,Mike Zunino strikes out swinging.,0,1,1,2,7,-0.16,2.88
 804,2021-06-23,572287,519443,,called_strike,7,Mike Zunino walks.,2,0,2,3,3,-0.46,1.96
-805,2021-06-23,572287,542882,,called_strike,2,Mike Zunino strikes out swinging.,0,0,1,1,7,0.05,3.17
-806,2021-06-23,572287,519443,,ball,11,Mike Zunino walks.,1,0,2,2,3,-1.09,4.04
+805,2021-06-23,572287,519443,,ball,11,Mike Zunino walks.,1,0,2,2,3,-1.09,4.04
+806,2021-06-23,572287,542882,,called_strike,2,Mike Zunino strikes out swinging.,0,0,1,1,7,0.05,3.17
 807,2021-06-23,572287,519443,,ball,12,Mike Zunino walks.,0,0,2,1,3,0.59,3.68
 808,2021-06-22,572287,617228,force_out,hit_into_play,9,"Mike Zunino grounds into a force out, fielded by third baseman Rafael Devers.   Brett Phillips out at 3rd.    Joey Wendle to 2nd.    Mike Zunino to 1st.",0,0,1,1,10,0.55,2.12
 809,2021-06-20,572287,594835,double,hit_into_play,14,Mike Zunino hits a ground-rule double (5) on a line drive to left field.   Brandon Lowe scores.,1,2,1,4,7,0.4,1.38
@@ -847,15 +847,15 @@
 845,2021-06-17,572287,502327,,foul,5,Mike Zunino strikes out swinging.,2,1,1,4,9,-0.05,2.23
 846,2021-06-17,572287,502327,,foul,3,Mike Zunino strikes out swinging.,2,0,1,3,9,0.32,3.51
 847,2021-06-17,572287,502327,,ball,13,Mike Zunino strikes out swinging.,1,0,1,2,9,-1.57,0.43
-848,2021-06-17,572287,606160,strikeout,swinging_strike,5,Mike Zunino strikes out swinging.,1,2,1,4,5,0.17,2.82
-849,2021-06-17,572287,608638,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,2,2,0,5,3,1.09,0.73
-850,2021-06-17,572287,502327,,ball,14,Mike Zunino strikes out swinging.,0,0,1,1,9,0.04,1.16
-851,2021-06-17,572287,608638,,foul,14,Mike Zunino strikes out swinging.,2,1,0,4,3,0.39,1.19
-852,2021-06-17,572287,606160,,ball,12,Mike Zunino strikes out swinging.,0,2,1,3,5,1.09,2.65
+848,2021-06-17,572287,608638,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,2,2,0,5,3,1.09,0.73
+849,2021-06-17,572287,502327,,ball,14,Mike Zunino strikes out swinging.,0,0,1,1,9,0.04,1.16
+850,2021-06-17,572287,606160,strikeout,swinging_strike,5,Mike Zunino strikes out swinging.,1,2,1,4,5,0.17,2.82
+851,2021-06-17,572287,606160,,ball,12,Mike Zunino strikes out swinging.,0,2,1,3,5,1.09,2.65
+852,2021-06-17,572287,608638,,foul,14,Mike Zunino strikes out swinging.,2,1,0,4,3,0.39,1.19
 853,2021-06-17,572287,608638,,ball,14,Mike Zunino strikes out swinging.,1,1,0,3,3,1.41,0.56
 854,2021-06-17,572287,606160,,called_strike,8,Mike Zunino strikes out swinging.,0,1,1,2,5,-0.22,1.8
-855,2021-06-17,572287,608638,,called_strike,13,Mike Zunino strikes out swinging.,1,0,0,2,3,-0.83,1.92
-856,2021-06-17,572287,606160,,foul,5,Mike Zunino strikes out swinging.,0,0,1,1,5,-0.23,2.18
+855,2021-06-17,572287,606160,,foul,5,Mike Zunino strikes out swinging.,0,0,1,1,5,-0.23,2.18
+856,2021-06-17,572287,608638,,called_strike,13,Mike Zunino strikes out swinging.,1,0,0,2,3,-0.83,1.92
 857,2021-06-17,572287,608638,,ball,14,Mike Zunino strikes out swinging.,0,0,0,1,3,1.34,0.86
 858,2021-06-16,572287,608337,walk,ball,12,Mike Zunino walks.,3,2,1,8,5,0.85,2.79
 859,2021-06-16,572287,608337,,blocked_ball,13,Mike Zunino walks.,2,2,1,7,5,-0.03,0.65
@@ -909,8 +909,8 @@
 907,2021-06-12,572287,656945,,called_strike,6,"Mike Zunino strikes out swinging, catcher Austin Wynns to first baseman Trey Mancini.",2,1,0,4,6,0.78,2.19
 908,2021-06-12,572287,656945,,ball,14,"Mike Zunino strikes out swinging, catcher Austin Wynns to first baseman Trey Mancini.",1,1,0,3,6,0.53,0.59
 909,2021-06-12,572287,656945,,ball,13,"Mike Zunino strikes out swinging, catcher Austin Wynns to first baseman Trey Mancini.",0,1,0,2,6,-1.0,-0.07
-910,2021-06-12,572287,664042,strikeout,called_strike,14,Mike Zunino called out on strikes.,2,2,0,5,8,0.98,2.05
-911,2021-06-12,572287,656945,,called_strike,14,"Mike Zunino strikes out swinging, catcher Austin Wynns to first baseman Trey Mancini.",0,0,0,1,6,1.02,2.3
+910,2021-06-12,572287,656945,,called_strike,14,"Mike Zunino strikes out swinging, catcher Austin Wynns to first baseman Trey Mancini.",0,0,0,1,6,1.02,2.3
+911,2021-06-12,572287,664042,strikeout,called_strike,14,Mike Zunino called out on strikes.,2,2,0,5,8,0.98,2.05
 912,2021-06-12,572287,664042,,ball,14,Mike Zunino called out on strikes.,1,2,0,4,8,1.75,1.17
 913,2021-06-12,572287,664042,,swinging_strike,6,Mike Zunino called out on strikes.,1,1,0,3,8,0.6,2.64
 914,2021-06-12,572287,664042,,swinging_strike,12,Mike Zunino called out on strikes.,1,0,0,2,8,1.07,2.81
@@ -947,12 +947,12 @@
 945,2021-06-08,572287,452657,,swinging_strike,2,Mike Zunino walks.,1,1,1,3,2,0.27,2.9
 946,2021-06-08,572287,452657,,foul,4,Mike Zunino walks.,1,0,1,2,2,-0.59,2.29
 947,2021-06-08,572287,452657,,ball,13,Mike Zunino walks.,0,0,1,1,2,-1.26,1.84
-948,2021-06-08,572287,663432,field_out,hit_into_play,8,Mike Zunino flies out to center fielder Victor Robles.   Joey Wendle to 2nd.,2,0,1,3,7,0.2,2.0
-949,2021-06-08,572287,621348,single,hit_into_play,5,Mike Zunino singles on a line drive to center fielder Victor Robles.   Randy Arozarena scores.    Mike Brosseau to 3rd.,2,0,1,3,5,-0.08,2.48
-950,2021-06-08,572287,663432,,blocked_ball,14,Mike Zunino flies out to center fielder Victor Robles.   Joey Wendle to 2nd.,1,0,1,2,7,1.64,0.27
-951,2021-06-08,572287,621348,,ball,14,Mike Zunino singles on a line drive to center fielder Victor Robles.   Randy Arozarena scores.    Mike Brosseau to 3rd.,1,0,1,2,5,1.73,2.32
-952,2021-06-08,572287,663432,,ball,13,Mike Zunino flies out to center fielder Victor Robles.   Joey Wendle to 2nd.,0,0,1,1,7,-0.47,0.98
-953,2021-06-08,572287,621348,,ball,14,Mike Zunino singles on a line drive to center fielder Victor Robles.   Randy Arozarena scores.    Mike Brosseau to 3rd.,0,0,1,1,5,0.48,1.21
+948,2021-06-08,572287,621348,single,hit_into_play,5,Mike Zunino singles on a line drive to center fielder Victor Robles.   Randy Arozarena scores.    Mike Brosseau to 3rd.,2,0,1,3,5,-0.08,2.48
+949,2021-06-08,572287,663432,field_out,hit_into_play,8,Mike Zunino flies out to center fielder Victor Robles.   Joey Wendle to 2nd.,2,0,1,3,7,0.2,2.0
+950,2021-06-08,572287,621348,,ball,14,Mike Zunino singles on a line drive to center fielder Victor Robles.   Randy Arozarena scores.    Mike Brosseau to 3rd.,1,0,1,2,5,1.73,2.32
+951,2021-06-08,572287,663432,,blocked_ball,14,Mike Zunino flies out to center fielder Victor Robles.   Joey Wendle to 2nd.,1,0,1,2,7,1.64,0.27
+952,2021-06-08,572287,621348,,ball,14,Mike Zunino singles on a line drive to center fielder Victor Robles.   Randy Arozarena scores.    Mike Brosseau to 3rd.,0,0,1,1,5,0.48,1.21
+953,2021-06-08,572287,663432,,ball,13,Mike Zunino flies out to center fielder Victor Robles.   Joey Wendle to 2nd.,0,0,1,1,7,-0.47,0.98
 954,2021-06-06,572287,621368,force_out,hit_into_play,14,"Mike Zunino grounds into a force out, third baseman Brock Holt to second baseman Charlie Culberson.   Francisco Mejia out at 2nd.",1,1,2,3,7,0.12,1.44
 955,2021-06-06,572287,621368,,ball,11,"Mike Zunino grounds into a force out, third baseman Brock Holt to second baseman Charlie Culberson.   Francisco Mejia out at 2nd.",0,1,2,2,7,-0.71,3.92
 956,2021-06-06,572287,621368,,swinging_strike,4,"Mike Zunino grounds into a force out, third baseman Brock Holt to second baseman Charlie Culberson.   Francisco Mejia out at 2nd.",0,0,2,1,7,-0.52,2.67
@@ -965,10 +965,10 @@
 963,2021-06-05,572287,663465,,foul,7,Mike Zunino strikes out swinging.,3,2,0,7,2,-0.6,1.76
 964,2021-06-05,572287,663465,,foul,6,Mike Zunino strikes out swinging.,3,2,0,6,2,0.53,2.77
 965,2021-06-05,572287,663465,,swinging_strike,11,Mike Zunino strikes out swinging.,3,1,0,5,2,-0.29,3.68
-966,2021-06-05,572287,663770,strikeout,called_strike,8,Mike Zunino called out on strikes.,1,2,2,4,7,0.16,1.71
-967,2021-06-05,572287,663465,,ball,12,Mike Zunino strikes out swinging.,2,1,0,4,2,1.01,4.71
-968,2021-06-05,572287,663465,,ball,12,Mike Zunino strikes out swinging.,1,1,0,3,2,0.51,4.08
-969,2021-06-05,572287,663770,,foul,5,Mike Zunino called out on strikes.,1,1,2,3,7,0.14,2.81
+966,2021-06-05,572287,663465,,ball,12,Mike Zunino strikes out swinging.,2,1,0,4,2,1.01,4.71
+967,2021-06-05,572287,663770,strikeout,called_strike,8,Mike Zunino called out on strikes.,1,2,2,4,7,0.16,1.71
+968,2021-06-05,572287,663770,,foul,5,Mike Zunino called out on strikes.,1,1,2,3,7,0.14,2.81
+969,2021-06-05,572287,663465,,ball,12,Mike Zunino strikes out swinging.,1,1,0,3,2,0.51,4.08
 970,2021-06-05,572287,663770,,foul,5,Mike Zunino called out on strikes.,1,0,2,2,7,0.27,2.69
 971,2021-06-05,572287,663465,,foul,5,Mike Zunino strikes out swinging.,1,0,0,2,2,0.11,2.24
 972,2021-06-05,572287,663465,,ball,12,Mike Zunino strikes out swinging.,0,0,0,1,2,1.67,3.78
@@ -1022,22 +1022,22 @@
 1020,2021-05-31,572287,592791,,swinging_strike,5,Mike Zunino strikes out swinging.,1,1,2,3,2,-0.02,2.23
 1021,2021-05-31,572287,592791,,foul_tip,9,Mike Zunino strikes out swinging.,1,0,2,2,2,0.42,1.51
 1022,2021-05-31,572287,592791,,ball,14,Mike Zunino strikes out swinging.,0,0,2,1,2,0.99,1.91
-1023,2021-05-31,572287,476595,strikeout,foul_tip,13,Mike Zunino strikes out on a foul tip.,1,2,0,4,6,-0.35,1.39
-1024,2021-05-31,572287,570666,field_out,hit_into_play,14,Mike Zunino lines out to center fielder Brett Gardner.,0,2,0,4,9,0.83,1.45
+1023,2021-05-31,572287,570666,field_out,hit_into_play,14,Mike Zunino lines out to center fielder Brett Gardner.,0,2,0,4,9,0.83,1.45
+1024,2021-05-31,572287,476595,strikeout,foul_tip,13,Mike Zunino strikes out on a foul tip.,1,2,0,4,6,-0.35,1.39
 1025,2021-05-31,572287,570666,,foul,14,Mike Zunino lines out to center fielder Brett Gardner.,0,2,0,3,9,0.94,1.8
 1026,2021-05-31,572287,476595,,foul,6,Mike Zunino strikes out on a foul tip.,1,1,0,3,6,0.64,2.55
-1027,2021-05-31,572287,570666,,foul,5,Mike Zunino lines out to center fielder Brett Gardner.,0,1,0,2,9,-0.03,2.37
-1028,2021-05-31,572287,476595,,ball,13,Mike Zunino strikes out on a foul tip.,0,1,0,2,6,-1.65,2.3
-1029,2021-05-31,572287,570666,,called_strike,6,Mike Zunino lines out to center fielder Brett Gardner.,0,0,0,1,9,0.47,2.83
-1030,2021-05-31,572287,476595,,called_strike,1,Mike Zunino strikes out on a foul tip.,0,0,0,1,6,-0.61,3.02
+1027,2021-05-31,572287,476595,,ball,13,Mike Zunino strikes out on a foul tip.,0,1,0,2,6,-1.65,2.3
+1028,2021-05-31,572287,570666,,foul,5,Mike Zunino lines out to center fielder Brett Gardner.,0,1,0,2,9,-0.03,2.37
+1029,2021-05-31,572287,476595,,called_strike,1,Mike Zunino strikes out on a foul tip.,0,0,0,1,6,-0.61,3.02
+1030,2021-05-31,572287,570666,,called_strike,6,Mike Zunino lines out to center fielder Brett Gardner.,0,0,0,1,9,0.47,2.83
 1031,2021-05-30,572287,621107,field_out,hit_into_play,5,Mike Zunino pops out to third baseman Alec Bohm.,0,1,0,2,5,0.11,2.53
 1032,2021-05-30,572287,621107,,foul,9,Mike Zunino pops out to third baseman Alec Bohm.,0,0,0,1,5,0.32,1.61
 1033,2021-05-30,572287,621107,home_run,hit_into_play,8,Mike Zunino homers (12) on a line drive to left field.   Joey Wendle scores.,1,1,2,3,2,0.19,1.72
 1034,2021-05-30,572287,621107,,called_strike,6,Mike Zunino homers (12) on a line drive to left field.   Joey Wendle scores.,1,0,2,2,2,0.59,2.4
 1035,2021-05-30,572287,621107,,ball,9,Mike Zunino homers (12) on a line drive to left field.   Joey Wendle scores.,0,0,2,1,2,0.33,1.39
 1036,2021-05-30,572287,445213,strikeout,called_strike,12,Mike Zunino called out on strikes.,1,2,1,4,8,0.93,2.57
-1037,2021-05-30,572287,445213,,ball,14,Mike Zunino called out on strikes.,0,2,1,3,8,1.62,-0.14
-1038,2021-05-30,572287,641401,double,hit_into_play,6,Mike Zunino doubles (4) on a line drive to left fielder Andrew McCutchen.,1,2,1,4,6,0.64,2.86
+1037,2021-05-30,572287,641401,double,hit_into_play,6,Mike Zunino doubles (4) on a line drive to left fielder Andrew McCutchen.,1,2,1,4,6,0.64,2.86
+1038,2021-05-30,572287,445213,,ball,14,Mike Zunino called out on strikes.,0,2,1,3,8,1.62,-0.14
 1039,2021-05-30,572287,445213,,swinging_strike,14,Mike Zunino called out on strikes.,0,1,1,2,8,1.17,1.45
 1040,2021-05-30,572287,641401,,foul,12,Mike Zunino doubles (4) on a line drive to left fielder Andrew McCutchen.,1,1,1,3,6,0.97,2.57
 1041,2021-05-30,572287,445213,,called_strike,5,Mike Zunino called out on strikes.,0,0,1,1,8,0.2,2.26
@@ -1075,10 +1075,10 @@
 1073,2021-05-24,572287,548389,strikeout,swinging_strike,12,Mike Zunino strikes out swinging.,0,2,2,3,6,0.35,3.9
 1074,2021-05-24,572287,548389,,called_strike,9,Mike Zunino strikes out swinging.,0,1,2,2,6,0.65,1.83
 1075,2021-05-24,572287,548389,,foul,9,Mike Zunino strikes out swinging.,0,0,2,1,6,0.56,1.89
-1076,2021-05-24,572287,548389,grounded_into_double_play,hit_into_play,13,"Mike Zunino grounds into a double play, third baseman Santiago Espinal to second baseman Marcus Semien to first baseman Vladimir Guerrero Jr.  Joey Wendle out at 2nd.    Mike Zunino out at 1st.",0,1,0,2,4,-0.16,1.09
-1077,2021-05-24,572287,663423,strikeout,called_strike,1,Mike Zunino called out on strikes.,2,2,2,5,1,-0.43,2.89
-1078,2021-05-24,572287,663423,,ball,12,Mike Zunino called out on strikes.,1,2,2,4,1,1.02,3.6
-1079,2021-05-24,572287,548389,,called_strike,4,"Mike Zunino grounds into a double play, third baseman Santiago Espinal to second baseman Marcus Semien to first baseman Vladimir Guerrero Jr.  Joey Wendle out at 2nd.    Mike Zunino out at 1st.",0,0,0,1,4,-0.7,2.86
+1076,2021-05-24,572287,663423,strikeout,called_strike,1,Mike Zunino called out on strikes.,2,2,2,5,1,-0.43,2.89
+1077,2021-05-24,572287,548389,grounded_into_double_play,hit_into_play,13,"Mike Zunino grounds into a double play, third baseman Santiago Espinal to second baseman Marcus Semien to first baseman Vladimir Guerrero Jr.  Joey Wendle out at 2nd.    Mike Zunino out at 1st.",0,1,0,2,4,-0.16,1.09
+1078,2021-05-24,572287,548389,,called_strike,4,"Mike Zunino grounds into a double play, third baseman Santiago Espinal to second baseman Marcus Semien to first baseman Vladimir Guerrero Jr.  Joey Wendle out at 2nd.    Mike Zunino out at 1st.",0,0,0,1,4,-0.7,2.86
+1079,2021-05-24,572287,663423,,ball,12,Mike Zunino called out on strikes.,1,2,2,4,1,1.02,3.6
 1080,2021-05-24,572287,663423,,swinging_strike,9,Mike Zunino called out on strikes.,1,1,2,3,1,0.59,2.11
 1081,2021-05-24,572287,663423,,ball,12,Mike Zunino called out on strikes.,0,1,2,2,1,0.87,5.54
 1082,2021-05-24,572287,663423,,foul,5,Mike Zunino called out on strikes.,0,0,2,1,1,0.25,2.77
@@ -1139,15 +1139,15 @@
 1137,2021-05-18,572287,669330,,blocked_ball,14,Mike Zunino homers (9) on a fly ball to center field.   Joey Wendle scores.,1,2,0,4,3,1.83,-0.1
 1138,2021-05-18,572287,669330,,ball,11,Mike Zunino homers (9) on a fly ball to center field.   Joey Wendle scores.,0,2,0,3,3,-0.61,4.58
 1139,2021-05-18,572287,669330,,swinging_strike,1,Mike Zunino homers (9) on a fly ball to center field.   Joey Wendle scores.,0,1,0,2,3,-0.47,3.57
-1140,2021-05-18,572287,669330,,foul,14,Mike Zunino homers (9) on a fly ball to center field.   Joey Wendle scores.,0,0,0,1,3,1.14,2.15
-1141,2021-05-18,572287,642121,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,2,2,0,6,7,0.3,0.87
+1140,2021-05-18,572287,642121,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,2,2,0,6,7,0.3,0.87
+1141,2021-05-18,572287,669330,,foul,14,Mike Zunino homers (9) on a fly ball to center field.   Joey Wendle scores.,0,0,0,1,3,1.14,2.15
 1142,2021-05-18,572287,642121,,foul,6,Mike Zunino strikes out swinging.,2,2,0,5,7,0.71,2.39
 1143,2021-05-18,572287,642121,,swinging_strike,8,Mike Zunino strikes out swinging.,2,1,0,4,7,0.16,1.89
 1144,2021-05-18,572287,664042,home_run,hit_into_play,2,Mike Zunino homers (10) on a fly ball to left field.   Yandy Diaz scores.,2,0,1,3,5,0.25,3.32
-1145,2021-05-18,572287,642121,,ball,14,Mike Zunino strikes out swinging.,1,1,0,3,7,1.53,1.18
-1146,2021-05-18,572287,664042,,blocked_ball,14,Mike Zunino homers (10) on a fly ball to left field.   Yandy Diaz scores.,1,0,1,2,5,0.26,0.11
-1147,2021-05-18,572287,642121,,foul,8,Mike Zunino strikes out swinging.,1,0,0,2,7,0.16,2.06
-1148,2021-05-18,572287,664042,,ball,14,Mike Zunino homers (10) on a fly ball to left field.   Yandy Diaz scores.,0,0,1,1,5,1.45,0.99
+1145,2021-05-18,572287,664042,,blocked_ball,14,Mike Zunino homers (10) on a fly ball to left field.   Yandy Diaz scores.,1,0,1,2,5,0.26,0.11
+1146,2021-05-18,572287,642121,,ball,14,Mike Zunino strikes out swinging.,1,1,0,3,7,1.53,1.18
+1147,2021-05-18,572287,664042,,ball,14,Mike Zunino homers (10) on a fly ball to left field.   Yandy Diaz scores.,0,0,1,1,5,1.45,0.99
+1148,2021-05-18,572287,642121,,foul,8,Mike Zunino strikes out swinging.,1,0,0,2,7,0.16,2.06
 1149,2021-05-18,572287,642121,,ball,11,Mike Zunino strikes out swinging.,0,0,0,1,7,-0.32,4.77
 1150,2021-05-15,572287,488984,field_out,hit_into_play,12,Mike Zunino pops out to first baseman Pete Alonso in foul territory.,3,2,1,9,7,0.22,3.61
 1151,2021-05-15,572287,488984,,foul,14,Mike Zunino pops out to first baseman Pete Alonso in foul territory.,3,2,1,8,7,1.36,2.23
@@ -1234,8 +1234,8 @@
 1232,2021-05-08,572287,593423,,ball,11,Mike Zunino flies out to center fielder Ramon Laureano.,0,0,0,1,5,-1.26,3.77
 1233,2021-05-08,572287,593423,strikeout,swinging_strike,14,Mike Zunino strikes out swinging.,0,2,1,3,2,0.83,1.16
 1234,2021-05-08,572287,593423,,called_strike,8,Mike Zunino strikes out swinging.,0,1,1,2,2,0.04,1.73
-1235,2021-05-08,572287,593423,,called_strike,5,Mike Zunino strikes out swinging.,0,0,1,1,2,-0.06,2.47
-1236,2021-05-08,572287,518617,single,hit_into_play,5,Mike Zunino singles on a line drive to left fielder Mark Canha.   Yandy Diaz scores.    Brandon Lowe to 2nd.,0,1,2,2,8,-0.07,2.38
+1235,2021-05-08,572287,518617,single,hit_into_play,5,Mike Zunino singles on a line drive to left fielder Mark Canha.   Yandy Diaz scores.    Brandon Lowe to 2nd.,0,1,2,2,8,-0.07,2.38
+1236,2021-05-08,572287,593423,,called_strike,5,Mike Zunino strikes out swinging.,0,0,1,1,2,-0.06,2.47
 1237,2021-05-08,572287,518617,,called_strike,3,Mike Zunino singles on a line drive to left fielder Mark Canha.   Yandy Diaz scores.    Brandon Lowe to 2nd.,0,0,2,1,8,0.7,3.1
 1238,2021-05-08,572287,433589,strikeout,swinging_strike,11,Mike Zunino strikes out swinging.,1,2,2,4,6,-0.21,3.81
 1239,2021-05-08,572287,433589,,ball,12,Mike Zunino strikes out swinging.,0,2,2,3,6,1.92,2.81
@@ -1262,8 +1262,8 @@
 1260,2021-05-06,572287,571760,,ball,12,Mike Zunino strikes out swinging.,0,0,1,1,2,1.11,3.45
 1261,2021-05-06,572287,570240,single,hit_into_play,1,Mike Zunino singles on a sharp line drive to left fielder Juan Lagares.   Yandy Diaz scores.    Joey Wendle to 3rd.,1,1,1,3,8,-0.43,3.15
 1262,2021-05-06,572287,570240,,swinging_strike,4,Mike Zunino singles on a sharp line drive to left fielder Juan Lagares.   Yandy Diaz scores.    Joey Wendle to 3rd.,1,0,1,2,8,-0.34,2.33
-1263,2021-05-06,572287,594577,home_run,hit_into_play,1,Mike Zunino homers (6) on a fly ball to left field.,2,1,2,4,7,-0.34,3.19
-1264,2021-05-06,572287,570240,,ball,14,Mike Zunino singles on a sharp line drive to left fielder Juan Lagares.   Yandy Diaz scores.    Joey Wendle to 3rd.,0,0,1,1,8,1.46,2.04
+1263,2021-05-06,572287,570240,,ball,14,Mike Zunino singles on a sharp line drive to left fielder Juan Lagares.   Yandy Diaz scores.    Joey Wendle to 3rd.,0,0,1,1,8,1.46,2.04
+1264,2021-05-06,572287,594577,home_run,hit_into_play,1,Mike Zunino homers (6) on a fly ball to left field.,2,1,2,4,7,-0.34,3.19
 1265,2021-05-06,572287,594577,,called_strike,7,Mike Zunino homers (6) on a fly ball to left field.,2,0,2,3,7,-0.29,1.8
 1266,2021-05-06,572287,594577,,ball,14,Mike Zunino homers (6) on a fly ball to left field.,1,0,2,2,7,3.16,2.13
 1267,2021-05-06,572287,594577,,ball,12,Mike Zunino homers (6) on a fly ball to left field.,0,0,2,1,7,1.29,2.81
@@ -1355,8 +1355,8 @@
 1353,2021-04-20,572287,641745,,called_strike,9,Mike Zunino walks.   Kevin Kiermaier to 3rd.    Willy Adames to 2nd.,1,1,0,3,2,0.33,1.7
 1354,2021-04-20,572287,641745,,called_strike,5,Mike Zunino walks.   Kevin Kiermaier to 3rd.    Willy Adames to 2nd.,1,0,0,2,2,-0.24,2.48
 1355,2021-04-20,572287,641745,,ball,13,Mike Zunino walks.   Kevin Kiermaier to 3rd.    Willy Adames to 2nd.,0,0,0,1,2,-0.71,0.8
-1356,2021-04-20,572287,429722,strikeout,swinging_strike_blocked,14,Mike Zunino strikes out swinging.,1,2,1,4,5,0.45,0.94
-1357,2021-04-20,572287,623470,force_out,hit_into_play,6,"Mike Zunino pops into a force out, first baseman Carlos Santana to shortstop Nicky Lopez.   Willy Adames out at 2nd.    Mike Zunino to 1st.",0,0,0,1,3,0.8,2.76
+1356,2021-04-20,572287,623470,force_out,hit_into_play,6,"Mike Zunino pops into a force out, first baseman Carlos Santana to shortstop Nicky Lopez.   Willy Adames out at 2nd.    Mike Zunino to 1st.",0,0,0,1,3,0.8,2.76
+1357,2021-04-20,572287,429722,strikeout,swinging_strike_blocked,14,Mike Zunino strikes out swinging.,1,2,1,4,5,0.45,0.94
 1358,2021-04-20,572287,429722,,blocked_ball,14,Mike Zunino strikes out swinging.,0,2,1,3,5,1.6,-0.82
 1359,2021-04-20,572287,429722,,swinging_strike,5,Mike Zunino strikes out swinging.,0,1,1,2,5,-0.21,2.68
 1360,2021-04-20,572287,429722,,called_strike,5,Mike Zunino strikes out swinging.,0,0,1,1,5,0.17,2.19
@@ -1382,16 +1382,16 @@
 1380,2021-04-16,572287,476595,,swinging_strike,13,Mike Zunino called out on strikes.,1,1,1,3,9,-1.36,0.43
 1381,2021-04-16,572287,476595,,ball,11,Mike Zunino called out on strikes.,0,1,1,2,9,-1.31,3.21
 1382,2021-04-16,572287,650633,field_out,hit_into_play,14,"Mike Zunino grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",2,2,1,5,4,0.47,1.19
-1383,2021-04-16,572287,476595,,swinging_strike,13,Mike Zunino called out on strikes.,0,0,1,1,9,-0.49,1.11
-1384,2021-04-16,572287,650633,,ball,12,"Mike Zunino grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",1,2,1,4,4,0.64,4.1
+1383,2021-04-16,572287,650633,,ball,12,"Mike Zunino grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",1,2,1,4,4,0.64,4.1
+1384,2021-04-16,572287,476595,,swinging_strike,13,Mike Zunino called out on strikes.,0,0,1,1,9,-0.49,1.11
 1385,2021-04-16,572287,650633,,ball,11,"Mike Zunino grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",0,2,1,3,4,-0.05,3.65
 1386,2021-04-16,572287,650633,,foul,4,"Mike Zunino grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",0,1,1,2,4,-0.53,2.38
 1387,2021-04-16,572287,650633,,called_strike,9,"Mike Zunino grounds out, third baseman Gio Urshela to first baseman DJ LeMahieu.",0,0,1,1,4,0.57,2.12
 1388,2021-04-16,572287,570666,walk,ball,13,Mike Zunino walks.,3,0,1,4,5,-0.09,0.95
 1389,2021-04-16,572287,570666,,blocked_ball,14,Mike Zunino walks.,2,0,1,3,5,0.54,0.86
 1390,2021-04-16,572287,570666,,blocked_ball,14,Mike Zunino walks.,1,0,1,2,5,0.04,0.94
-1391,2021-04-16,572287,570666,,blocked_ball,14,Mike Zunino walks.,0,0,1,1,5,0.25,0.48
-1392,2021-04-16,572287,476595,double,hit_into_play,13,Mike Zunino doubles (2) on a fly ball to left fielder Clint Frazier.   Joey Wendle scores.    Manuel Margot scores.    Mike Brosseau to 3rd.,0,0,2,1,6,-1.12,2.47
+1391,2021-04-16,572287,476595,double,hit_into_play,13,Mike Zunino doubles (2) on a fly ball to left fielder Clint Frazier.   Joey Wendle scores.    Manuel Margot scores.    Mike Brosseau to 3rd.,0,0,2,1,6,-1.12,2.47
+1392,2021-04-16,572287,570666,,blocked_ball,14,Mike Zunino walks.,0,0,1,1,5,0.25,0.48
 1393,2021-04-16,572287,650633,strikeout,swinging_strike,11,Mike Zunino strikes out swinging.,2,2,0,5,2,-0.15,4.07
 1394,2021-04-16,572287,650633,,foul,14,Mike Zunino strikes out swinging.,2,1,0,4,2,1.07,2.13
 1395,2021-04-16,572287,650633,,foul,6,Mike Zunino strikes out swinging.,2,0,0,3,2,0.4,2.77
@@ -1446,8 +1446,8 @@
 1444,2021-04-09,572287,656793,hit_by_pitch,hit_by_pitch,11,Mike Zunino hit by pitch.,1,2,0,4,4,-1.69,4.06
 1445,2021-04-09,572287,656793,,ball,12,Mike Zunino hit by pitch.,0,2,0,3,4,0.06,3.67
 1446,2021-04-09,572287,656793,,swinging_strike,1,Mike Zunino hit by pitch.,0,1,0,2,4,-0.3,3.58
-1447,2021-04-09,572287,476595,field_out,hit_into_play,4,"Mike Zunino grounds out, shortstop Gleyber Torres to first baseman Jay Bruce.",1,1,1,3,5,-0.68,2.83
-1448,2021-04-09,572287,656793,,swinging_strike,1,Mike Zunino hit by pitch.,0,0,0,1,4,-0.67,3.55
+1447,2021-04-09,572287,656793,,swinging_strike,1,Mike Zunino hit by pitch.,0,0,0,1,4,-0.67,3.55
+1448,2021-04-09,572287,476595,field_out,hit_into_play,4,"Mike Zunino grounds out, shortstop Gleyber Torres to first baseman Jay Bruce.",1,1,1,3,5,-0.68,2.83
 1449,2021-04-09,572287,476595,,foul,4,"Mike Zunino grounds out, shortstop Gleyber Torres to first baseman Jay Bruce.",1,0,1,2,5,-0.62,2.45
 1450,2021-04-09,572287,476595,,ball,13,"Mike Zunino grounds out, shortstop Gleyber Torres to first baseman Jay Bruce.",0,0,1,1,5,-1.45,1.9
 1451,2021-04-06,572287,527048,field_out,hit_into_play,1,Mike Zunino pops out to third baseman Rafael Devers in foul territory.,0,0,1,1,4,-0.73,3.11
@@ -1458,10 +1458,10 @@
 1456,2021-04-06,572287,656557,strikeout,foul_tip,2,Mike Zunino strikes out on a foul tip.,3,2,2,8,11,0.13,2.93
 1457,2021-04-06,572287,656557,,foul,9,Mike Zunino strikes out on a foul tip.,3,2,2,7,11,0.6,1.78
 1458,2021-04-06,572287,656557,,ball,12,Mike Zunino strikes out on a foul tip.,2,2,2,6,11,1.22,2.72
-1459,2021-04-06,572287,656557,,blocked_ball,14,Mike Zunino strikes out on a foul tip.,1,2,2,5,11,0.42,0.27
-1460,2021-04-06,572287,592169,field_out,hit_into_play,6,Mike Zunino flies out sharply to right fielder Hunter Renfroe.,1,0,2,2,6,0.44,2.64
-1461,2021-04-06,572287,592169,,ball,14,Mike Zunino flies out sharply to right fielder Hunter Renfroe.,0,0,2,1,6,2.01,2.42
-1462,2021-04-06,572287,656557,,blocked_ball,14,Mike Zunino strikes out on a foul tip.,0,2,2,4,11,1.4,-0.46
+1459,2021-04-06,572287,592169,field_out,hit_into_play,6,Mike Zunino flies out sharply to right fielder Hunter Renfroe.,1,0,2,2,6,0.44,2.64
+1460,2021-04-06,572287,656557,,blocked_ball,14,Mike Zunino strikes out on a foul tip.,1,2,2,5,11,0.42,0.27
+1461,2021-04-06,572287,656557,,blocked_ball,14,Mike Zunino strikes out on a foul tip.,0,2,2,4,11,1.4,-0.46
+1462,2021-04-06,572287,592169,,ball,14,Mike Zunino flies out sharply to right fielder Hunter Renfroe.,0,0,2,1,6,2.01,2.42
 1463,2021-04-06,572287,656557,,foul,9,Mike Zunino strikes out on a foul tip.,0,2,2,3,11,0.51,1.51
 1464,2021-04-06,572287,656557,,swinging_strike,14,Mike Zunino strikes out on a foul tip.,0,1,2,2,11,0.99,1.38
 1465,2021-04-06,572287,656557,,swinging_strike_blocked,14,Mike Zunino strikes out on a foul tip.,0,0,2,1,11,1.45,0.56

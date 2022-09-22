@@ -9,5 +9,6 @@ VISION REPORT: eric_hosmer (2021-04-01 thru 2021-10-04)
      eric_hosmer saw 1033 strikes and 1167 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3582
+VISION SCORE METRIC B (VSA - SO%): 0.1830
 Average PA Length: 3.8743 (2189/565)
 Batting Avg: 0.269

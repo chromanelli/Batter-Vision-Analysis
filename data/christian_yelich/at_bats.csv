@@ -12,8 +12,8 @@
 10,2021-10-02,592885,628711,,foul,5,Christian Yelich grounds out to first baseman Max Muncy.,0,0,1,1,4,0.01,2.88
 11,2021-10-02,592885,456034,walk,ball,13,Christian Yelich walks.,3,1,1,5,9,-0.76,1.18
 12,2021-10-02,592885,628711,field_out,hit_into_play,8,Christian Yelich grounds out to first baseman Max Muncy.   Willy Adames scores.    Eduardo Escobar to 3rd.,1,1,1,3,1,0.12,1.88
-13,2021-10-02,592885,628711,,blocked_ball,13,Christian Yelich grounds out to first baseman Max Muncy.   Willy Adames scores.    Eduardo Escobar to 3rd.,0,1,1,2,1,-1.51,-0.25
-14,2021-10-02,592885,456034,,ball,13,Christian Yelich walks.,2,1,1,4,9,-1.09,1.1
+13,2021-10-02,592885,456034,,ball,13,Christian Yelich walks.,2,1,1,4,9,-1.09,1.1
+14,2021-10-02,592885,628711,,blocked_ball,13,Christian Yelich grounds out to first baseman Max Muncy.   Willy Adames scores.    Eduardo Escobar to 3rd.,0,1,1,2,1,-1.51,-0.25
 15,2021-10-02,592885,456034,,called_strike,9,Christian Yelich walks.,2,0,1,3,9,0.71,1.91
 16,2021-10-02,592885,628711,,swinging_strike,13,Christian Yelich grounds out to first baseman Max Muncy.   Willy Adames scores.    Eduardo Escobar to 3rd.,0,0,1,1,1,-0.94,1.57
 17,2021-10-02,592885,456034,,ball,13,Christian Yelich walks.,1,0,1,2,9,-0.45,1.45
@@ -26,18 +26,18 @@
 24,2021-10-01,592885,623465,,ball,14,Christian Yelich singles on a ground ball to center fielder Chris Taylor.,1,2,2,4,5,0.6,0.47
 25,2021-10-01,592885,660813,single,hit_into_play,1,Christian Yelich singles on a ground ball to third baseman Justin Turner.,3,2,1,8,3,-0.37,3.03
 26,2021-10-01,592885,623465,,ball,14,Christian Yelich singles on a ground ball to center fielder Chris Taylor.,0,2,2,3,5,0.89,0.86
-27,2021-10-01,592885,660813,,foul,2,Christian Yelich singles on a ground ball to third baseman Justin Turner.,3,2,1,7,3,-0.19,2.97
-28,2021-10-01,592885,623465,,foul,6,Christian Yelich singles on a ground ball to center fielder Chris Taylor.,0,1,2,2,5,0.34,2.54
+27,2021-10-01,592885,623465,,foul,6,Christian Yelich singles on a ground ball to center fielder Chris Taylor.,0,1,2,2,5,0.34,2.54
+28,2021-10-01,592885,660813,,foul,2,Christian Yelich singles on a ground ball to third baseman Justin Turner.,3,2,1,7,3,-0.19,2.97
 29,2021-10-01,592885,623465,,foul,2,Christian Yelich singles on a ground ball to center fielder Chris Taylor.,0,0,2,1,5,0.23,3.02
 30,2021-10-01,592885,660813,,ball,14,Christian Yelich singles on a ground ball to third baseman Justin Turner.,2,2,1,6,3,1.29,0.74
 31,2021-10-01,592885,660813,,foul,8,Christian Yelich singles on a ground ball to third baseman Justin Turner.,2,2,1,5,3,0.03,2.14
 32,2021-10-01,592885,660813,,foul,6,Christian Yelich singles on a ground ball to third baseman Justin Turner.,2,1,1,4,3,0.33,2.73
-33,2021-10-01,592885,523260,walk,ball,14,Christian Yelich walks.,3,1,0,5,8,0.78,0.96
-34,2021-10-01,592885,660813,,swinging_strike,1,Christian Yelich singles on a ground ball to third baseman Justin Turner.,2,0,1,3,3,-0.67,3.1
-35,2021-10-01,592885,660813,,ball,11,Christian Yelich singles on a ground ball to third baseman Justin Turner.,1,0,1,2,3,-1.34,2.95
-36,2021-10-01,592885,523260,,ball,14,Christian Yelich walks.,2,1,0,4,8,1.03,1.13
-37,2021-10-01,592885,660813,,ball,1,Christian Yelich singles on a ground ball to third baseman Justin Turner.,0,0,1,1,3,-0.48,3.57
-38,2021-10-01,592885,523260,,ball,14,Christian Yelich walks.,1,1,0,3,8,0.99,1.12
+33,2021-10-01,592885,660813,,swinging_strike,1,Christian Yelich singles on a ground ball to third baseman Justin Turner.,2,0,1,3,3,-0.67,3.1
+34,2021-10-01,592885,523260,walk,ball,14,Christian Yelich walks.,3,1,0,5,8,0.78,0.96
+35,2021-10-01,592885,523260,,ball,14,Christian Yelich walks.,2,1,0,4,8,1.03,1.13
+36,2021-10-01,592885,660813,,ball,11,Christian Yelich singles on a ground ball to third baseman Justin Turner.,1,0,1,2,3,-1.34,2.95
+37,2021-10-01,592885,523260,,ball,14,Christian Yelich walks.,1,1,0,3,8,0.99,1.12
+38,2021-10-01,592885,660813,,ball,1,Christian Yelich singles on a ground ball to third baseman Justin Turner.,0,0,1,1,3,-0.48,3.57
 39,2021-10-01,592885,523260,,called_strike,8,Christian Yelich walks.,1,0,0,2,8,-0.08,1.91
 40,2021-10-01,592885,523260,,ball,13,Christian Yelich walks.,0,0,0,1,8,-0.25,1.45
 41,2021-09-29,592885,571945,single,hit_into_play,9,Christian Yelich singles on a sharp ground ball to left fielder Lars Nootbaar.,2,0,1,3,6,0.35,1.89
@@ -67,10 +67,10 @@
 65,2021-09-28,592885,425794,,foul,3,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",3,2,2,6,1,0.4,2.91
 66,2021-09-28,592885,519008,field_out,hit_into_play,9,"Christian Yelich grounds out sharply, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",2,2,2,5,7,0.45,2.12
 67,2021-09-28,592885,425794,,ball,13,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",2,2,2,5,1,-2.19,2.18
-68,2021-09-28,592885,425794,,ball,13,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,2,2,4,1,-0.57,1.13
-69,2021-09-28,592885,519008,,foul,12,"Christian Yelich grounds out sharply, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",2,1,2,4,7,1.18,2.84
-70,2021-09-28,592885,519008,,foul,14,"Christian Yelich grounds out sharply, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",2,0,2,3,7,0.86,2.17
-71,2021-09-28,592885,425794,,ball,14,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",0,2,2,3,1,0.08,0.65
+68,2021-09-28,592885,519008,,foul,12,"Christian Yelich grounds out sharply, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",2,1,2,4,7,1.18,2.84
+69,2021-09-28,592885,425794,,ball,13,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,2,2,4,1,-0.57,1.13
+70,2021-09-28,592885,425794,,ball,14,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",0,2,2,3,1,0.08,0.65
+71,2021-09-28,592885,519008,,foul,14,"Christian Yelich grounds out sharply, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",2,0,2,3,7,0.86,2.17
 72,2021-09-28,592885,519008,,ball,14,"Christian Yelich grounds out sharply, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",1,0,2,2,7,0.07,0.58
 73,2021-09-28,592885,425794,,called_strike,6,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",0,1,2,2,1,0.39,2.29
 74,2021-09-28,592885,519008,,ball,13,"Christian Yelich grounds out sharply, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",0,0,2,1,7,-0.09,1.17
@@ -90,8 +90,8 @@
 88,2021-09-26,592885,543272,,foul,3,Christian Yelich walks.,2,2,2,5,8,0.33,3.23
 89,2021-09-26,592885,543272,,called_strike,13,Christian Yelich walks.,2,1,2,4,8,-0.95,1.74
 90,2021-09-26,592885,471911,single,hit_into_play,7,Christian Yelich singles on a ground ball to right fielder Michael Conforto.,0,1,0,2,1,-0.37,1.48
-91,2021-09-26,592885,471911,,called_strike,7,Christian Yelich singles on a ground ball to right fielder Michael Conforto.,0,0,0,1,1,-0.52,1.95
-92,2021-09-26,592885,543272,,ball,13,Christian Yelich walks.,1,1,2,3,8,-1.46,1.71
+91,2021-09-26,592885,543272,,ball,13,Christian Yelich walks.,1,1,2,3,8,-1.46,1.71
+92,2021-09-26,592885,471911,,called_strike,7,Christian Yelich singles on a ground ball to right fielder Michael Conforto.,0,0,0,1,1,-0.52,1.95
 93,2021-09-26,592885,543272,,foul,4,Christian Yelich walks.,1,0,2,2,8,-0.6,2.29
 94,2021-09-26,592885,543272,,ball,11,Christian Yelich walks.,0,0,2,1,8,-1.49,2.46
 95,2021-09-26,592885,571901,field_out,hit_into_play,8,Christian Yelich flies out to shortstop Francisco Lindor.,1,1,1,3,6,0.21,1.99
@@ -106,8 +106,8 @@
 104,2021-09-25,592885,448179,,called_strike,11,Christian Yelich singles on a ground ball to center fielder Brandon Nimmo.,1,0,0,2,2,-0.88,2.62
 105,2021-09-25,592885,448179,,ball,11,Christian Yelich singles on a ground ball to center fielder Brandon Nimmo.,0,0,0,1,2,-0.59,3.67
 106,2021-09-25,592885,571901,field_out,hit_into_play,8,Christian Yelich lines out to center fielder Brandon Nimmo.,0,2,0,3,6,-0.01,1.67
-107,2021-09-25,592885,571901,,called_strike,4,Christian Yelich lines out to center fielder Brandon Nimmo.,0,1,0,2,6,-0.4,2.36
-108,2021-09-25,592885,607625,field_out,hit_into_play,8,"Christian Yelich grounds out, pitcher Seth Lugo to first baseman Pete Alonso.",0,1,0,2,8,-0.22,1.91
+107,2021-09-25,592885,607625,field_out,hit_into_play,8,"Christian Yelich grounds out, pitcher Seth Lugo to first baseman Pete Alonso.",0,1,0,2,8,-0.22,1.91
+108,2021-09-25,592885,571901,,called_strike,4,Christian Yelich lines out to center fielder Brandon Nimmo.,0,1,0,2,6,-0.4,2.36
 109,2021-09-25,592885,571901,,called_strike,9,Christian Yelich lines out to center fielder Brandon Nimmo.,0,0,0,1,6,0.47,1.81
 110,2021-09-25,592885,607625,,called_strike,8,"Christian Yelich grounds out, pitcher Seth Lugo to first baseman Pete Alonso.",0,0,0,1,8,0.07,2.03
 111,2021-09-24,592885,656731,home_run,hit_into_play,8,Christian Yelich homers (9) on a fly ball to center field.,1,0,0,2,3,-0.13,2.14
@@ -147,8 +147,8 @@
 145,2021-09-23,592885,425794,field_out,hit_into_play,4,Christian Yelich flies out to left fielder Tyler O'Neill.,3,2,1,6,1,-0.38,2.88
 146,2021-09-23,592885,519008,,ball,8,Christian Yelich strikes out swinging.,0,1,1,2,7,0.08,1.75
 147,2021-09-23,592885,425794,,ball,14,Christian Yelich flies out to left fielder Tyler O'Neill.,2,2,1,5,1,0.59,1.38
-148,2021-09-23,592885,519008,,called_strike,9,Christian Yelich strikes out swinging.,0,0,1,1,7,0.67,2.01
-149,2021-09-23,592885,425794,,foul,14,Christian Yelich flies out to left fielder Tyler O'Neill.,2,1,1,4,1,0.99,2.21
+148,2021-09-23,592885,425794,,foul,14,Christian Yelich flies out to left fielder Tyler O'Neill.,2,1,1,4,1,0.99,2.21
+149,2021-09-23,592885,519008,,called_strike,9,Christian Yelich strikes out swinging.,0,0,1,1,7,0.67,2.01
 150,2021-09-23,592885,425794,,ball,13,Christian Yelich flies out to left fielder Tyler O'Neill.,1,1,1,3,1,-0.67,1.41
 151,2021-09-23,592885,425794,,swinging_strike_blocked,14,Christian Yelich flies out to left fielder Tyler O'Neill.,1,0,1,2,1,0.31,0.98
 152,2021-09-23,592885,425794,,ball,13,Christian Yelich flies out to left fielder Tyler O'Neill.,0,0,1,1,1,-1.02,0.93
@@ -194,8 +194,8 @@
 192,2021-09-19,592885,624522,force_out,hit_into_play,5,"Christian Yelich grounds into a force out, shortstop Nico Hoerner to second baseman David Bote.   Kolten Wong to 3rd.    Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",2,2,0,6,1,-0.02,2.53
 193,2021-09-19,592885,624522,,ball,11,"Christian Yelich grounds into a force out, shortstop Nico Hoerner to second baseman David Bote.   Kolten Wong to 3rd.    Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",1,2,0,5,1,-1.46,3.1
 194,2021-09-19,592885,605388,field_out,hit_into_play,4,Christian Yelich pops out to first baseman Frank Schwindel on the infield fly rule.,1,1,1,3,7,-0.42,2.33
-195,2021-09-19,592885,624522,,foul,2,"Christian Yelich grounds into a force out, shortstop Nico Hoerner to second baseman David Bote.   Kolten Wong to 3rd.    Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",1,2,0,4,1,-0.2,3.24
-196,2021-09-19,592885,605388,,ball,13,Christian Yelich pops out to first baseman Frank Schwindel on the infield fly rule.,0,1,1,2,7,-0.63,1.25
+195,2021-09-19,592885,605388,,ball,13,Christian Yelich pops out to first baseman Frank Schwindel on the infield fly rule.,0,1,1,2,7,-0.63,1.25
+196,2021-09-19,592885,624522,,foul,2,"Christian Yelich grounds into a force out, shortstop Nico Hoerner to second baseman David Bote.   Kolten Wong to 3rd.    Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",1,2,0,4,1,-0.2,3.24
 197,2021-09-19,592885,624522,,blocked_ball,14,"Christian Yelich grounds into a force out, shortstop Nico Hoerner to second baseman David Bote.   Kolten Wong to 3rd.    Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",0,2,0,3,1,1.51,-1.0
 198,2021-09-19,592885,605388,,called_strike,8,Christian Yelich pops out to first baseman Frank Schwindel on the infield fly rule.,0,0,1,1,7,-0.15,1.96
 199,2021-09-19,592885,624522,,foul,9,"Christian Yelich grounds into a force out, shortstop Nico Hoerner to second baseman David Bote.   Kolten Wong to 3rd.    Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",0,1,0,2,1,0.56,2.17
@@ -223,8 +223,8 @@
 221,2021-09-18,592885,657006,,ball,14,Christian Yelich strikes out swinging.,1,1,1,3,1,1.37,1.2
 222,2021-09-18,592885,640470,,ball,9,Christian Yelich doubles (19) on a ground ball to right fielder Alfonso Rivas.,1,0,1,2,5,0.82,1.74
 223,2021-09-18,592885,657006,,foul,6,Christian Yelich strikes out swinging.,1,0,1,2,1,0.4,2.77
-224,2021-09-18,592885,640470,,ball,14,Christian Yelich doubles (19) on a ground ball to right fielder Alfonso Rivas.,0,0,1,1,5,0.81,0.22
-225,2021-09-18,592885,657006,,ball,12,Christian Yelich strikes out swinging.,0,0,1,1,1,0.25,3.67
+224,2021-09-18,592885,657006,,ball,12,Christian Yelich strikes out swinging.,0,0,1,1,1,0.25,3.67
+225,2021-09-18,592885,640470,,ball,14,Christian Yelich doubles (19) on a ground ball to right fielder Alfonso Rivas.,0,0,1,1,5,0.81,0.22
 226,2021-09-17,592885,605200,walk,ball,13,Christian Yelich walks.   Luke Maile to 3rd.    Kolten Wong to 2nd.,3,0,1,4,5,-1.23,1.91
 227,2021-09-17,592885,605200,,ball,11,Christian Yelich walks.   Luke Maile to 3rd.    Kolten Wong to 2nd.,2,0,1,3,5,-0.05,3.76
 228,2021-09-17,592885,605200,,ball,12,Christian Yelich walks.   Luke Maile to 3rd.    Kolten Wong to 2nd.,1,0,1,2,5,0.16,3.84
@@ -242,10 +242,10 @@
 240,2021-09-17,592885,605200,,ball,14,Christian Yelich lines out to left fielder Ian Happ.,2,2,2,5,1,0.8,1.41
 241,2021-09-17,592885,605200,,called_strike,13,Christian Yelich lines out to left fielder Ian Happ.,2,1,2,4,1,-1.03,1.9
 242,2021-09-17,592885,605200,,foul,2,Christian Yelich lines out to left fielder Ian Happ.,2,0,2,3,1,-0.01,3.44
-243,2021-09-17,592885,605200,,ball,14,Christian Yelich lines out to left fielder Ian Happ.,1,0,2,2,1,0.2,0.77
-244,2021-09-17,592885,596027,walk,ball,11,Christian Yelich walks.   Kolten Wong to 3rd.    Eduardo Escobar to 2nd.,3,1,2,5,8,-1.57,4.16
-245,2021-09-17,592885,596027,,called_strike,5,Christian Yelich walks.   Kolten Wong to 3rd.    Eduardo Escobar to 2nd.,3,0,2,4,8,-0.17,2.71
-246,2021-09-17,592885,605200,,ball,13,Christian Yelich lines out to left fielder Ian Happ.,0,0,2,1,1,-1.06,1.44
+243,2021-09-17,592885,596027,walk,ball,11,Christian Yelich walks.   Kolten Wong to 3rd.    Eduardo Escobar to 2nd.,3,1,2,5,8,-1.57,4.16
+244,2021-09-17,592885,605200,,ball,14,Christian Yelich lines out to left fielder Ian Happ.,1,0,2,2,1,0.2,0.77
+245,2021-09-17,592885,605200,,ball,13,Christian Yelich lines out to left fielder Ian Happ.,0,0,2,1,1,-1.06,1.44
+246,2021-09-17,592885,596027,,called_strike,5,Christian Yelich walks.   Kolten Wong to 3rd.    Eduardo Escobar to 2nd.,3,0,2,4,8,-0.17,2.71
 247,2021-09-17,592885,596027,,ball,14,Christian Yelich walks.   Kolten Wong to 3rd.    Eduardo Escobar to 2nd.,2,0,2,3,8,0.39,1.35
 248,2021-09-17,592885,596027,,ball,11,Christian Yelich walks.   Kolten Wong to 3rd.    Eduardo Escobar to 2nd.,1,0,2,2,8,-1.16,2.65
 249,2021-09-17,592885,596027,,ball,14,Christian Yelich walks.   Kolten Wong to 3rd.    Eduardo Escobar to 2nd.,0,0,2,1,8,1.32,1.71
@@ -259,16 +259,16 @@
 257,2021-09-15,592885,666159,,foul,5,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",3,2,2,7,1,-0.04,2.58
 258,2021-09-15,592885,605242,,foul,3,Christian Yelich strikes out swinging.,3,2,2,6,8,0.44,2.99
 259,2021-09-15,592885,666159,,ball,12,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",2,2,2,6,1,1.78,2.98
-260,2021-09-15,592885,666159,,ball,14,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",1,2,2,5,1,1.14,1.05
-261,2021-09-15,592885,605242,,foul,4,Christian Yelich strikes out swinging.,3,1,2,5,8,-0.46,2.68
+260,2021-09-15,592885,605242,,foul,4,Christian Yelich strikes out swinging.,3,1,2,5,8,-0.46,2.68
+261,2021-09-15,592885,666159,,ball,14,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",1,2,2,5,1,1.14,1.05
 262,2021-09-15,592885,605242,,called_strike,5,Christian Yelich strikes out swinging.,3,0,2,4,8,-0.16,2.69
 263,2021-09-15,592885,666159,,foul,3,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",1,2,2,4,1,0.61,2.92
-264,2021-09-15,592885,666159,,foul,1,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",1,1,2,3,1,-0.56,3.11
-265,2021-09-15,592885,605242,,ball,14,Christian Yelich strikes out swinging.,2,0,2,3,8,0.84,1.02
-266,2021-09-15,592885,605242,,ball,14,Christian Yelich strikes out swinging.,1,0,2,2,8,1.5,0.9
-267,2021-09-15,592885,666159,,ball,13,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",0,1,2,2,1,-1.23,1.71
-268,2021-09-15,592885,666159,,called_strike,4,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",0,0,2,1,1,-0.28,2.3
-269,2021-09-15,592885,605242,,ball,12,Christian Yelich strikes out swinging.,0,0,2,1,8,1.52,2.7
+264,2021-09-15,592885,605242,,ball,14,Christian Yelich strikes out swinging.,2,0,2,3,8,0.84,1.02
+265,2021-09-15,592885,666159,,foul,1,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",1,1,2,3,1,-0.56,3.11
+266,2021-09-15,592885,666159,,ball,13,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",0,1,2,2,1,-1.23,1.71
+267,2021-09-15,592885,605242,,ball,14,Christian Yelich strikes out swinging.,1,0,2,2,8,1.5,0.9
+268,2021-09-15,592885,605242,,ball,12,Christian Yelich strikes out swinging.,0,0,2,1,8,1.52,2.7
+269,2021-09-15,592885,666159,,called_strike,4,"Christian Yelich grounds out sharply, pitcher Matt Manning to shortstop Harold Castro to first baseman Jonathan Schoop.",0,0,2,1,1,-0.28,2.3
 270,2021-09-14,592885,503449,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,2,2,1,6,6,-1.15,2.84
 271,2021-09-14,592885,503449,,ball,12,Christian Yelich strikes out swinging.,1,2,1,5,6,1.69,2.53
 272,2021-09-14,592885,503449,,ball,14,Christian Yelich strikes out swinging.,0,2,1,4,6,1.33,2.32
@@ -293,12 +293,12 @@
 291,2021-09-12,592885,650644,,swinging_strike,9,"Christian Yelich grounds out, third baseman Jose Ramirez to first baseman Yu Chang.",0,1,2,2,2,0.58,1.7
 292,2021-09-12,592885,650644,,called_strike,6,"Christian Yelich grounds out, third baseman Jose Ramirez to first baseman Yu Chang.",0,0,2,1,2,0.6,2.66
 293,2021-09-12,592885,543766,force_out,hit_into_play,9,"Christian Yelich grounds into a force out, shortstop Amed Rosario to second baseman Owen Miller.   Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",1,2,1,4,8,0.31,2.03
-294,2021-09-12,592885,543766,,ball,14,"Christian Yelich grounds into a force out, shortstop Amed Rosario to second baseman Owen Miller.   Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",0,2,1,3,8,0.92,2.4
-295,2021-09-12,592885,622065,strikeout,swinging_strike,13,Christian Yelich strikes out swinging.,1,2,1,4,6,-0.56,1.37
+294,2021-09-12,592885,622065,strikeout,swinging_strike,13,Christian Yelich strikes out swinging.,1,2,1,4,6,-0.56,1.37
+295,2021-09-12,592885,543766,,ball,14,"Christian Yelich grounds into a force out, shortstop Amed Rosario to second baseman Owen Miller.   Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",0,2,1,3,8,0.92,2.4
 296,2021-09-12,592885,622065,,foul,3,Christian Yelich strikes out swinging.,1,1,1,3,6,0.62,3.13
 297,2021-09-12,592885,543766,,swinging_strike,11,"Christian Yelich grounds into a force out, shortstop Amed Rosario to second baseman Owen Miller.   Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",0,1,1,2,8,-0.69,3.83
-298,2021-09-12,592885,543766,,called_strike,3,"Christian Yelich grounds into a force out, shortstop Amed Rosario to second baseman Owen Miller.   Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",0,0,1,1,8,0.48,3.0
-299,2021-09-12,592885,622065,,ball,14,Christian Yelich strikes out swinging.,0,1,1,2,6,0.68,1.6
+298,2021-09-12,592885,622065,,ball,14,Christian Yelich strikes out swinging.,0,1,1,2,6,0.68,1.6
+299,2021-09-12,592885,543766,,called_strike,3,"Christian Yelich grounds into a force out, shortstop Amed Rosario to second baseman Owen Miller.   Eduardo Escobar out at 2nd.    Christian Yelich to 1st.",0,0,1,1,8,0.48,3.0
 300,2021-09-12,592885,622065,,called_strike,8,Christian Yelich strikes out swinging.,0,0,1,1,6,-0.03,1.77
 301,2021-09-12,592885,650644,strikeout,swinging_strike,13,Christian Yelich strikes out swinging.,0,2,1,3,1,-0.25,1.0
 302,2021-09-12,592885,650644,,foul,3,Christian Yelich strikes out swinging.,0,1,1,2,1,0.47,3.34
@@ -422,8 +422,8 @@
 420,2021-09-04,592885,621052,,ball,14,Christian Yelich strikes out swinging.,1,2,2,4,8,1.16,0.55
 421,2021-09-04,592885,547942,single,hit_into_play,5,Christian Yelich singles on a sharp ground ball to right fielder Dylan Carlson.   Willy Adames to 2nd.,2,2,0,6,1,0.16,2.49
 422,2021-09-04,592885,621052,,ball,14,Christian Yelich strikes out swinging.,0,2,2,3,8,0.37,0.78
-423,2021-09-04,592885,621052,,swinging_strike,14,Christian Yelich strikes out swinging.,0,1,2,2,8,0.21,1.02
-424,2021-09-04,592885,547942,,ball,13,Christian Yelich singles on a sharp ground ball to right fielder Dylan Carlson.   Willy Adames to 2nd.,1,2,0,5,1,-1.1,0.77
+423,2021-09-04,592885,547942,,ball,13,Christian Yelich singles on a sharp ground ball to right fielder Dylan Carlson.   Willy Adames to 2nd.,1,2,0,5,1,-1.1,0.77
+424,2021-09-04,592885,621052,,swinging_strike,14,Christian Yelich strikes out swinging.,0,1,2,2,8,0.21,1.02
 425,2021-09-04,592885,621052,,swinging_strike,14,Christian Yelich strikes out swinging.,0,0,2,1,8,0.01,1.14
 426,2021-09-04,592885,547942,,foul,8,Christian Yelich singles on a sharp ground ball to right fielder Dylan Carlson.   Willy Adames to 2nd.,1,2,0,4,1,0.18,1.69
 427,2021-09-04,592885,547942,,called_strike,8,Christian Yelich singles on a sharp ground ball to right fielder Dylan Carlson.   Willy Adames to 2nd.,1,1,0,3,1,0.12,1.72
@@ -461,8 +461,8 @@
 459,2021-09-01,592885,592332,,called_strike,7,Christian Yelich singles on a sharp ground ball to center fielder Austin Slater.,0,0,1,1,3,-0.53,1.84
 460,2021-09-01,592885,501625,field_out,hit_into_play,7,"Christian Yelich grounds out, second baseman Thairo Estrada to first baseman Brandon Belt.",2,2,2,5,7,-0.71,2.17
 461,2021-09-01,592885,501625,,ball,13,"Christian Yelich grounds out, second baseman Thairo Estrada to first baseman Brandon Belt.",1,2,2,4,7,-0.86,1.62
-462,2021-09-01,592885,605154,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,0,2,0,3,9,-1.33,3.49
-463,2021-09-01,592885,501625,,foul,3,"Christian Yelich grounds out, second baseman Thairo Estrada to first baseman Brandon Belt.",1,1,2,3,7,0.59,3.4
+462,2021-09-01,592885,501625,,foul,3,"Christian Yelich grounds out, second baseman Thairo Estrada to first baseman Brandon Belt.",1,1,2,3,7,0.59,3.4
+463,2021-09-01,592885,605154,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,0,2,0,3,9,-1.33,3.49
 464,2021-09-01,592885,501625,,ball,14,"Christian Yelich grounds out, second baseman Thairo Estrada to first baseman Brandon Belt.",0,1,2,2,7,0.47,0.98
 465,2021-09-01,592885,605154,,foul,4,Christian Yelich strikes out swinging.,0,1,0,2,9,-0.35,2.68
 466,2021-09-01,592885,501625,,foul,6,"Christian Yelich grounds out, second baseman Thairo Estrada to first baseman Brandon Belt.",0,0,2,1,7,0.52,2.2
@@ -498,10 +498,10 @@
 496,2021-08-30,592885,501625,,foul,7,"Christian Yelich grounds into a force out, pitcher Jose Alvarez to shortstop Brandon Crawford.   Corbin Burnes to 3rd.    Kolten Wong out at 2nd.    Christian Yelich to 1st.",1,0,1,2,2,-0.39,1.83
 497,2021-08-30,592885,501625,,ball,13,"Christian Yelich grounds into a force out, pitcher Jose Alvarez to shortstop Brandon Crawford.   Corbin Burnes to 3rd.    Kolten Wong out at 2nd.    Christian Yelich to 1st.",0,0,1,1,2,-1.21,1.57
 498,2021-08-30,592885,606424,field_out,hit_into_play,5,Christian Yelich lines out to third baseman Kris Bryant.,0,0,1,1,5,-0.19,2.63
-499,2021-08-30,592885,453265,field_out,hit_into_play,6,Christian Yelich grounds out to first baseman Brandon Belt.,1,1,2,3,7,0.48,2.43
-500,2021-08-30,592885,605154,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,2,2,2,5,9,-0.87,3.22
-501,2021-08-30,592885,453265,,foul,9,Christian Yelich grounds out to first baseman Brandon Belt.,1,0,2,2,7,0.51,1.89
-502,2021-08-30,592885,605154,,ball,13,Christian Yelich strikes out swinging.,1,2,2,4,9,-0.66,0.77
+499,2021-08-30,592885,605154,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,2,2,2,5,9,-0.87,3.22
+500,2021-08-30,592885,453265,field_out,hit_into_play,6,Christian Yelich grounds out to first baseman Brandon Belt.,1,1,2,3,7,0.48,2.43
+501,2021-08-30,592885,605154,,ball,13,Christian Yelich strikes out swinging.,1,2,2,4,9,-0.66,0.77
+502,2021-08-30,592885,453265,,foul,9,Christian Yelich grounds out to first baseman Brandon Belt.,1,0,2,2,7,0.51,1.89
 503,2021-08-30,592885,453265,,ball,13,Christian Yelich grounds out to first baseman Brandon Belt.,0,0,2,1,7,-1.67,1.43
 504,2021-08-30,592885,605154,,foul,12,Christian Yelich strikes out swinging.,1,1,2,3,9,0.37,3.99
 505,2021-08-30,592885,605154,,ball,11,Christian Yelich strikes out swinging.,0,1,2,2,9,-0.78,4.39
@@ -517,16 +517,16 @@
 515,2021-08-29,592885,643377,,foul,7,Christian Yelich doubles (15) on a line drive to left fielder Brent Rooker.,1,1,2,3,3,-0.73,1.53
 516,2021-08-29,592885,643377,,ball,14,Christian Yelich doubles (15) on a line drive to left fielder Brent Rooker.,0,1,2,2,3,0.24,0.41
 517,2021-08-29,592885,643377,,called_strike,8,Christian Yelich doubles (15) on a line drive to left fielder Brent Rooker.,0,0,2,1,3,0.13,1.76
-518,2021-08-29,592885,643377,walk,ball,11,Christian Yelich walks.,3,2,2,6,1,-1.35,2.69
-519,2021-08-29,592885,664139,single,hit_into_play,7,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,1,2,0,5,7,-0.73,2.03
+518,2021-08-29,592885,664139,single,hit_into_play,7,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,1,2,0,5,7,-0.73,2.03
+519,2021-08-29,592885,643377,walk,ball,11,Christian Yelich walks.,3,2,2,6,1,-1.35,2.69
 520,2021-08-29,592885,643377,,ball,11,Christian Yelich walks.,2,2,2,5,1,-0.43,5.01
 521,2021-08-29,592885,664139,,foul,12,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,1,2,0,4,7,0.66,3.82
-522,2021-08-29,592885,643377,,foul,9,Christian Yelich walks.,2,1,2,4,1,0.6,2.01
-523,2021-08-29,592885,664139,,foul,8,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,1,1,0,3,7,-0.12,2.09
+522,2021-08-29,592885,664139,,foul,8,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,1,1,0,3,7,-0.12,2.09
+523,2021-08-29,592885,643377,,foul,9,Christian Yelich walks.,2,1,2,4,1,0.6,2.01
 524,2021-08-29,592885,643377,,ball,14,Christian Yelich walks.,1,1,2,3,1,1.67,2.05
 525,2021-08-29,592885,664139,,ball,13,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,0,1,0,2,7,-0.79,0.54
-526,2021-08-29,592885,643377,,ball,11,Christian Yelich walks.,0,1,2,2,1,-0.44,3.72
-527,2021-08-29,592885,664139,,called_strike,8,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,0,0,0,1,7,0.26,1.7
+526,2021-08-29,592885,664139,,called_strike,8,Christian Yelich singles on a sharp ground ball to center fielder Byron Buxton.,0,0,0,1,7,0.26,1.7
+527,2021-08-29,592885,643377,,ball,11,Christian Yelich walks.,0,1,2,2,1,-0.44,3.72
 528,2021-08-29,592885,643377,,called_strike,9,Christian Yelich walks.,0,0,2,1,1,0.37,1.69
 529,2021-08-29,592885,621248,field_out,hit_into_play,13,Christian Yelich flies out to left fielder Nick Gordon.,0,0,1,1,9,-0.85,2.2
 530,2021-08-28,592885,656212,field_out,hit_into_play,9,Christian Yelich flies out sharply to center fielder Byron Buxton.,0,1,0,2,4,0.44,2.08
@@ -536,8 +536,8 @@
 534,2021-08-28,592885,573668,,ball,11,Christian Yelich singles on a sharp ground ball to right fielder Max Kepler.,0,0,1,1,8,-0.98,3.32
 535,2021-08-28,592885,656212,,swinging_strike,13,Christian Yelich strikes out swinging.,2,1,2,4,1,-1.34,2.0
 536,2021-08-28,592885,656212,,ball,13,Christian Yelich strikes out swinging.,1,1,2,3,1,-0.87,1.7
-537,2021-08-28,592885,656212,,foul,5,Christian Yelich strikes out swinging.,1,0,2,2,1,0.25,2.22
-538,2021-08-28,592885,573204,sac_fly,hit_into_play,8,Christian Yelich out on a sacrifice fly to right fielder Max Kepler.   Manny Pina scores.    Jace Peterson scores.    Willy Adames to 2nd.  Throwing error by first baseman Miguel Sano.,1,1,1,3,5,-0.14,1.85
+537,2021-08-28,592885,573204,sac_fly,hit_into_play,8,Christian Yelich out on a sacrifice fly to right fielder Max Kepler.   Manny Pina scores.    Jace Peterson scores.    Willy Adames to 2nd.  Throwing error by first baseman Miguel Sano.,1,1,1,3,5,-0.14,1.85
+538,2021-08-28,592885,656212,,foul,5,Christian Yelich strikes out swinging.,1,0,2,2,1,0.25,2.22
 539,2021-08-28,592885,573204,,swinging_strike,13,Christian Yelich out on a sacrifice fly to right fielder Max Kepler.   Manny Pina scores.    Jace Peterson scores.    Willy Adames to 2nd.  Throwing error by first baseman Miguel Sano.,1,0,1,2,5,-0.92,0.92
 540,2021-08-28,592885,656212,,ball,12,Christian Yelich strikes out swinging.,0,0,2,1,1,0.95,2.97
 541,2021-08-28,592885,573204,,ball,13,Christian Yelich out on a sacrifice fly to right fielder Max Kepler.   Manny Pina scores.    Jace Peterson scores.    Willy Adames to 2nd.  Throwing error by first baseman Miguel Sano.,0,0,1,1,5,-1.24,2.24
@@ -587,8 +587,8 @@
 585,2021-08-25,592885,607237,,ball,13,Christian Yelich reaches on a throwing error by third baseman Mike Moustakas.   Kolten Wong to 3rd.,0,2,1,3,8,-1.05,1.55
 586,2021-08-25,592885,607237,,called_strike,5,Christian Yelich reaches on a throwing error by third baseman Mike Moustakas.   Kolten Wong to 3rd.,0,1,1,2,8,0.06,2.36
 587,2021-08-25,592885,622491,walk,ball,11,Christian Yelich walks.,3,1,2,5,1,-1.07,3.38
-588,2021-08-25,592885,622491,,ball,12,Christian Yelich walks.,2,1,2,4,1,0.86,3.75
-589,2021-08-25,592885,607237,,swinging_strike,7,Christian Yelich reaches on a throwing error by third baseman Mike Moustakas.   Kolten Wong to 3rd.,0,0,1,1,8,-0.79,1.9
+588,2021-08-25,592885,607237,,swinging_strike,7,Christian Yelich reaches on a throwing error by third baseman Mike Moustakas.   Kolten Wong to 3rd.,0,0,1,1,8,-0.79,1.9
+589,2021-08-25,592885,622491,,ball,12,Christian Yelich walks.,2,1,2,4,1,0.86,3.75
 590,2021-08-25,592885,622491,,ball,14,Christian Yelich walks.,1,1,2,3,1,0.87,1.63
 591,2021-08-25,592885,622491,,foul_tip,7,Christian Yelich walks.,1,0,2,2,1,-0.68,2.04
 592,2021-08-25,592885,622491,,ball,12,Christian Yelich walks.,0,0,2,1,1,0.17,3.67
@@ -622,12 +622,12 @@
 620,2021-08-22,592885,608723,single,hit_into_play,5,Christian Yelich singles on a line drive to center fielder Lane Thomas.,3,2,0,6,8,0.25,2.84
 621,2021-08-22,592885,607560,strikeout,swinging_strike,9,Christian Yelich strikes out swinging.,2,2,0,5,5,0.55,2.0
 622,2021-08-22,592885,608723,,ball,14,Christian Yelich singles on a line drive to center fielder Lane Thomas.,2,2,0,5,8,1.01,1.21
-623,2021-08-22,592885,608723,,ball,12,Christian Yelich singles on a line drive to center fielder Lane Thomas.,1,2,0,4,8,1.1,2.95
-624,2021-08-22,592885,607560,,ball,13,Christian Yelich strikes out swinging.,1,2,0,4,5,-1.31,1.75
+623,2021-08-22,592885,607560,,ball,13,Christian Yelich strikes out swinging.,1,2,0,4,5,-1.31,1.75
+624,2021-08-22,592885,608723,,ball,12,Christian Yelich singles on a line drive to center fielder Lane Thomas.,1,2,0,4,8,1.1,2.95
 625,2021-08-22,592885,607560,,foul,7,Christian Yelich strikes out swinging.,1,1,0,3,5,-0.76,1.88
 626,2021-08-22,592885,608723,,called_strike,7,Christian Yelich singles on a line drive to center fielder Lane Thomas.,1,1,0,3,8,-0.67,1.82
-627,2021-08-22,592885,607560,,ball,11,Christian Yelich strikes out swinging.,0,1,0,2,5,-1.08,2.55
-628,2021-08-22,592885,608723,,ball,14,Christian Yelich singles on a line drive to center fielder Lane Thomas.,0,1,0,2,8,0.77,0.9
+627,2021-08-22,592885,608723,,ball,14,Christian Yelich singles on a line drive to center fielder Lane Thomas.,0,1,0,2,8,0.77,0.9
+628,2021-08-22,592885,607560,,ball,11,Christian Yelich strikes out swinging.,0,1,0,2,5,-1.08,2.55
 629,2021-08-22,592885,608723,,called_strike,1,Christian Yelich singles on a line drive to center fielder Lane Thomas.,0,0,0,1,8,-0.3,2.88
 630,2021-08-22,592885,607560,,called_strike,2,Christian Yelich strikes out swinging.,0,0,0,1,5,0.23,3.21
 631,2021-08-21,592885,502179,field_out,hit_into_play,4,Christian Yelich flies out to left fielder Yadiel Hernandez.,1,2,1,4,3,-0.65,2.22
@@ -673,10 +673,10 @@
 671,2021-08-18,592885,656427,,called_strike,11,Christian Yelich called out on strikes.,1,0,1,2,4,-0.13,3.59
 672,2021-08-18,592885,656427,,ball,11,Christian Yelich called out on strikes.,0,0,1,1,4,-1.3,2.94
 673,2021-08-18,592885,621052,single,hit_into_play,3,"Umpire reviewed (play at 1st), call on the field was upheld: Christian Yelich singles on a bunt ground ball to third baseman Edmundo Sosa.   Luis Urias scores.",1,1,2,3,10,0.65,3.33
-674,2021-08-18,592885,606149,field_out,hit_into_play,1,Christian Yelich pops out to third baseman Edmundo Sosa in foul territory.,2,2,1,5,8,-0.4,2.95
-675,2021-08-18,592885,621052,,ball,14,"Umpire reviewed (play at 1st), call on the field was upheld: Christian Yelich singles on a bunt ground ball to third baseman Edmundo Sosa.   Luis Urias scores.",0,1,2,2,10,1.37,0.12
-676,2021-08-18,592885,606149,,blocked_ball,13,Christian Yelich pops out to third baseman Edmundo Sosa in foul territory.,1,2,1,4,8,-0.89,-0.19
-677,2021-08-18,592885,621052,,called_strike,5,"Umpire reviewed (play at 1st), call on the field was upheld: Christian Yelich singles on a bunt ground ball to third baseman Edmundo Sosa.   Luis Urias scores.",0,0,2,1,10,-0.04,2.46
+674,2021-08-18,592885,621052,,ball,14,"Umpire reviewed (play at 1st), call on the field was upheld: Christian Yelich singles on a bunt ground ball to third baseman Edmundo Sosa.   Luis Urias scores.",0,1,2,2,10,1.37,0.12
+675,2021-08-18,592885,606149,field_out,hit_into_play,1,Christian Yelich pops out to third baseman Edmundo Sosa in foul territory.,2,2,1,5,8,-0.4,2.95
+676,2021-08-18,592885,621052,,called_strike,5,"Umpire reviewed (play at 1st), call on the field was upheld: Christian Yelich singles on a bunt ground ball to third baseman Edmundo Sosa.   Luis Urias scores.",0,0,2,1,10,-0.04,2.46
+677,2021-08-18,592885,606149,,blocked_ball,13,Christian Yelich pops out to third baseman Edmundo Sosa in foul territory.,1,2,1,4,8,-0.89,-0.19
 678,2021-08-18,592885,606149,,ball,12,Christian Yelich pops out to third baseman Edmundo Sosa in foul territory.,0,2,1,3,8,0.49,3.98
 679,2021-08-18,592885,606149,,foul,2,Christian Yelich pops out to third baseman Edmundo Sosa in foul territory.,0,1,1,2,8,-0.1,3.01
 680,2021-08-18,592885,606149,,called_strike,8,Christian Yelich pops out to third baseman Edmundo Sosa in foul territory.,0,0,1,1,8,-0.14,1.63
@@ -734,11 +734,11 @@
 732,2021-08-14,592885,592741,strikeout,swinging_strike,13,Christian Yelich strikes out swinging.,1,2,0,4,5,-0.9,2.4
 733,2021-08-14,592885,656605,,blocked_ball,14,Christian Yelich walks.   Willy Adames to 2nd.,1,1,1,3,1,1.71,0.92
 734,2021-08-14,592885,592741,,ball,12,Christian Yelich strikes out swinging.,0,2,0,3,5,1.61,2.99
-735,2021-08-14,592885,656605,,called_strike,6,Christian Yelich walks.   Willy Adames to 2nd.,1,0,1,2,1,0.52,2.63
-736,2021-08-14,592885,592741,,foul,6,Christian Yelich strikes out swinging.,0,1,0,2,5,0.72,2.71
+735,2021-08-14,592885,592741,,foul,6,Christian Yelich strikes out swinging.,0,1,0,2,5,0.72,2.71
+736,2021-08-14,592885,656605,,called_strike,6,Christian Yelich walks.   Willy Adames to 2nd.,1,0,1,2,1,0.52,2.63
 737,2021-08-14,592885,656605,,ball,11,Christian Yelich walks.   Willy Adames to 2nd.,0,0,1,1,1,-0.5,4.16
-738,2021-08-14,592885,669060,field_out,hit_into_play,4,Christian Yelich lines out sharply to left fielder Hoy Park.,0,0,0,1,1,-0.7,2.5
-739,2021-08-14,592885,592741,,called_strike,8,Christian Yelich strikes out swinging.,0,0,0,1,5,-0.1,1.77
+738,2021-08-14,592885,592741,,called_strike,8,Christian Yelich strikes out swinging.,0,0,0,1,5,-0.1,1.77
+739,2021-08-14,592885,669060,field_out,hit_into_play,4,Christian Yelich lines out sharply to left fielder Hoy Park.,0,0,0,1,1,-0.7,2.5
 740,2021-08-14,592885,665661,field_out,hit_into_play,3,Christian Yelich flies out to center fielder Bryan Reynolds.,2,1,0,4,7,0.53,3.25
 741,2021-08-14,592885,665661,,ball,14,Christian Yelich flies out to center fielder Bryan Reynolds.,1,1,0,3,7,0.06,0.94
 742,2021-08-14,592885,665661,,swinging_strike,8,Christian Yelich flies out to center fielder Bryan Reynolds.,1,0,0,2,7,-0.01,1.84
@@ -753,8 +753,8 @@
 751,2021-08-12,592885,543294,field_out,hit_into_play,8,Christian Yelich flies out to left fielder Ian Happ.   Kolten Wong to 3rd.,0,0,1,1,2,-0.24,2.19
 752,2021-08-12,592885,657228,single,hit_into_play,9,"Christian Yelich singles on a sharp ground ball to right fielder Greg Deichmann.  Kolten Wong out at 3rd on the throw, right fielder Greg Deichmann to third baseman Matt Duffy.",0,2,1,3,7,0.42,2.06
 753,2021-08-12,592885,655889,field_out,hit_into_play,8,"Christian Yelich grounds out softly, pitcher Manuel Rodriguez to first baseman Frank Schwindel.",0,0,2,1,8,-0.13,2.01
-754,2021-08-12,592885,657228,,called_strike,3,"Christian Yelich singles on a sharp ground ball to right fielder Greg Deichmann.  Kolten Wong out at 3rd on the throw, right fielder Greg Deichmann to third baseman Matt Duffy.",0,1,1,2,7,0.82,2.93
-755,2021-08-12,592885,664682,single,hit_into_play,3,Christian Yelich singles on a ground ball to left fielder Ian Happ.,0,1,1,2,6,0.8,2.98
+754,2021-08-12,592885,664682,single,hit_into_play,3,Christian Yelich singles on a ground ball to left fielder Ian Happ.,0,1,1,2,6,0.8,2.98
+755,2021-08-12,592885,657228,,called_strike,3,"Christian Yelich singles on a sharp ground ball to right fielder Greg Deichmann.  Kolten Wong out at 3rd on the throw, right fielder Greg Deichmann to third baseman Matt Duffy.",0,1,1,2,7,0.82,2.93
 756,2021-08-12,592885,657228,,foul,8,"Christian Yelich singles on a sharp ground ball to right fielder Greg Deichmann.  Kolten Wong out at 3rd on the throw, right fielder Greg Deichmann to third baseman Matt Duffy.",0,0,1,1,7,-0.09,1.96
 757,2021-08-12,592885,664682,,foul,3,Christian Yelich singles on a ground ball to left fielder Ian Happ.,0,0,1,1,6,0.33,3.09
 758,2021-08-12,592885,543294,field_out,hit_into_play,4,Christian Yelich pops out to shortstop Andrew Romine.,3,1,2,5,1,-0.62,2.74
@@ -788,25 +788,25 @@
 786,2021-08-10,592885,571521,field_out,hit_into_play,3,Christian Yelich grounds out to first baseman Frank Schwindel.,2,2,2,5,3,0.48,3.14
 787,2021-08-10,592885,571521,,ball,14,Christian Yelich grounds out to first baseman Frank Schwindel.,1,2,2,4,3,0.88,1.47
 788,2021-08-10,592885,655889,field_out,hit_into_play,2,"Christian Yelich grounds out, pitcher Manuel Rodriguez to first baseman Frank Schwindel.",0,0,2,1,6,-0.27,3.06
-789,2021-08-10,592885,594986,field_out,hit_into_play,13,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",3,2,1,6,5,-0.98,1.74
-790,2021-08-10,592885,571521,,ball,13,Christian Yelich grounds out to first baseman Frank Schwindel.,0,2,2,3,3,-0.3,0.24
-791,2021-08-10,592885,571521,,swinging_strike,13,Christian Yelich grounds out to first baseman Frank Schwindel.,0,1,2,2,3,-1.12,0.69
+789,2021-08-10,592885,571521,,ball,13,Christian Yelich grounds out to first baseman Frank Schwindel.,0,2,2,3,3,-0.3,0.24
+790,2021-08-10,592885,594986,field_out,hit_into_play,13,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",3,2,1,6,5,-0.98,1.74
+791,2021-08-10,592885,605388,strikeout,swinging_strike,8,Christian Yelich strikes out swinging.,2,2,0,5,7,-0.02,1.66
 792,2021-08-10,592885,621219,field_out,hit_into_play,6,Christian Yelich grounds out sharply to first baseman Frank Schwindel.,3,1,0,5,1,0.31,2.81
 793,2021-08-10,592885,594986,,ball,13,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",2,2,1,5,5,-0.72,-1.19
-794,2021-08-10,592885,605388,strikeout,swinging_strike,8,Christian Yelich strikes out swinging.,2,2,0,5,7,-0.02,1.66
+794,2021-08-10,592885,571521,,swinging_strike,13,Christian Yelich grounds out to first baseman Frank Schwindel.,0,1,2,2,3,-1.12,0.69
 795,2021-08-10,592885,621219,,called_strike,9,Christian Yelich grounds out sharply to first baseman Frank Schwindel.,3,0,0,4,1,0.34,1.99
 796,2021-08-10,592885,571521,,called_strike,6,Christian Yelich grounds out to first baseman Frank Schwindel.,0,0,2,1,3,0.66,2.43
-797,2021-08-10,592885,605388,,ball,13,Christian Yelich strikes out swinging.,1,2,0,4,7,-1.54,1.12
-798,2021-08-10,592885,594986,,called_strike,9,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",2,1,1,4,5,0.48,1.83
+797,2021-08-10,592885,594986,,called_strike,9,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",2,1,1,4,5,0.48,1.83
+798,2021-08-10,592885,605388,,ball,13,Christian Yelich strikes out swinging.,1,2,0,4,7,-1.54,1.12
 799,2021-08-10,592885,621219,,ball,12,Christian Yelich grounds out sharply to first baseman Frank Schwindel.,2,0,0,3,1,1.17,3.4
 800,2021-08-10,592885,594986,,ball,13,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",1,1,1,3,5,-0.92,0.93
 801,2021-08-10,592885,605388,,called_strike,7,Christian Yelich strikes out swinging.,1,1,0,3,7,-0.66,1.67
-802,2021-08-10,592885,594986,,swinging_strike,7,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",1,0,1,2,5,-0.4,2.08
-803,2021-08-10,592885,621219,,ball,14,Christian Yelich grounds out sharply to first baseman Frank Schwindel.,1,0,0,2,1,0.65,1.43
-804,2021-08-10,592885,605388,,swinging_strike,13,Christian Yelich strikes out swinging.,1,0,0,2,7,-1.04,1.67
+802,2021-08-10,592885,621219,,ball,14,Christian Yelich grounds out sharply to first baseman Frank Schwindel.,1,0,0,2,1,0.65,1.43
+803,2021-08-10,592885,605388,,swinging_strike,13,Christian Yelich strikes out swinging.,1,0,0,2,7,-1.04,1.67
+804,2021-08-10,592885,594986,,swinging_strike,7,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",1,0,1,2,5,-0.4,2.08
 805,2021-08-10,592885,594986,,ball,13,"Christian Yelich grounds out, pitcher Kyle Ryan to first baseman Frank Schwindel.   Jackie Bradley scores.",0,0,1,1,5,-1.05,2.23
-806,2021-08-10,592885,605388,,ball,13,Christian Yelich strikes out swinging.,0,0,0,1,7,-1.52,0.72
-807,2021-08-10,592885,621219,,ball,14,Christian Yelich grounds out sharply to first baseman Frank Schwindel.,0,0,0,1,1,0.44,1.21
+806,2021-08-10,592885,621219,,ball,14,Christian Yelich grounds out sharply to first baseman Frank Schwindel.,0,0,0,1,1,0.44,1.21
+807,2021-08-10,592885,605388,,ball,13,Christian Yelich strikes out swinging.,0,0,0,1,7,-1.52,0.72
 808,2021-08-08,592885,456501,field_out,hit_into_play,4,Christian Yelich pops out to third baseman Wilmer Flores.,3,0,2,4,5,-0.28,2.49
 809,2021-08-08,592885,456501,,ball,11,Christian Yelich pops out to third baseman Wilmer Flores.,2,0,2,3,5,-0.28,3.61
 810,2021-08-08,592885,456501,,ball,11,Christian Yelich pops out to third baseman Wilmer Flores.,1,0,2,2,5,-0.05,3.79
@@ -874,8 +874,8 @@
 872,2021-07-23,592885,608337,,ball,14,Christian Yelich pops out to third baseman Yoan Moncada.,0,1,0,2,4,0.39,0.92
 873,2021-07-23,592885,608337,,called_strike,4,Christian Yelich pops out to third baseman Yoan Moncada.,0,0,0,1,4,-0.42,2.5
 874,2021-07-23,592885,607481,walk,ball,11,Christian Yelich walks.   Kolten Wong to 3rd.    Willy Adames to 2nd.,3,0,0,4,7,-1.7,2.63
-875,2021-07-23,592885,608337,single,hit_into_play,1,Christian Yelich singles on a ground ball to right fielder Brian Goodwin.   Willy Adames to 3rd.,0,0,1,1,1,-0.8,2.96
-876,2021-07-23,592885,607481,,ball,11,Christian Yelich walks.   Kolten Wong to 3rd.    Willy Adames to 2nd.,2,0,0,3,7,-1.45,2.62
+875,2021-07-23,592885,607481,,ball,11,Christian Yelich walks.   Kolten Wong to 3rd.    Willy Adames to 2nd.,2,0,0,3,7,-1.45,2.62
+876,2021-07-23,592885,608337,single,hit_into_play,1,Christian Yelich singles on a ground ball to right fielder Brian Goodwin.   Willy Adames to 3rd.,0,0,1,1,1,-0.8,2.96
 877,2021-07-23,592885,607481,,ball,13,Christian Yelich walks.   Kolten Wong to 3rd.    Willy Adames to 2nd.,1,0,0,2,7,-0.24,1.18
 878,2021-07-23,592885,607481,,ball,13,Christian Yelich walks.   Kolten Wong to 3rd.    Willy Adames to 2nd.,0,0,0,1,7,-1.03,1.54
 879,2021-07-23,592885,625643,field_out,hit_into_play,4,Christian Yelich lines out sharply to left fielder Andrew Vaughn.,1,1,2,3,8,-0.54,2.2
@@ -888,8 +888,8 @@
 886,2021-07-21,592885,641745,,called_strike,6,Christian Yelich singles on a line drive to center fielder Michael A.   Taylor.   Eric Lauer to 2nd.,1,0,2,2,3,0.36,2.61
 887,2021-07-21,592885,641745,,ball,12,Christian Yelich singles on a line drive to center fielder Michael A.   Taylor.   Eric Lauer to 2nd.,0,0,2,1,3,0.46,3.86
 888,2021-07-21,592885,641745,field_out,hit_into_play,5,Christian Yelich flies out to left fielder Andrew Benintendi.,1,0,1,2,1,-0.22,2.69
-889,2021-07-21,592885,641745,,ball,11,Christian Yelich flies out to left fielder Andrew Benintendi.,0,0,1,1,1,-1.74,3.47
-890,2021-07-21,592885,641394,strikeout,swinging_strike,4,Christian Yelich strikes out swinging.,3,2,2,6,7,-0.5,2.9
+889,2021-07-21,592885,641394,strikeout,swinging_strike,4,Christian Yelich strikes out swinging.,3,2,2,6,7,-0.5,2.9
+890,2021-07-21,592885,641745,,ball,11,Christian Yelich flies out to left fielder Andrew Benintendi.,0,0,1,1,1,-1.74,3.47
 891,2021-07-21,592885,641394,,ball,13,Christian Yelich strikes out swinging.,2,2,2,5,7,-0.61,0.17
 892,2021-07-21,592885,641394,,foul,4,Christian Yelich strikes out swinging.,2,1,2,4,7,-0.38,2.63
 893,2021-07-21,592885,641394,,ball,12,Christian Yelich strikes out swinging.,1,1,2,3,7,0.57,3.68
@@ -950,14 +950,14 @@
 948,2021-07-17,592885,622491,,ball,14,"Christian Yelich grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",1,2,1,4,1,1.7,2.07
 949,2021-07-17,592885,622491,,foul,3,"Christian Yelich grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",1,1,1,3,1,0.36,2.96
 950,2021-07-17,592885,622491,,swinging_strike,13,"Christian Yelich grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",1,0,1,2,1,-0.14,1.35
-951,2021-07-17,592885,622491,,ball,11,"Christian Yelich grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",0,0,1,1,1,-0.32,4.16
-952,2021-07-17,592885,448281,double,hit_into_play,6,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,1,2,0,5,11,0.3,2.29
-953,2021-07-17,592885,592390,single,hit_into_play,2,Christian Yelich singles on a line drive to left fielder Jesse Winker.,1,2,0,4,9,-0.05,3.03
-954,2021-07-17,592885,448281,,foul,1,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,1,2,0,4,11,-0.79,3.35
+951,2021-07-17,592885,448281,double,hit_into_play,6,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,1,2,0,5,11,0.3,2.29
+952,2021-07-17,592885,622491,,ball,11,"Christian Yelich grounds out, third baseman Eugenio Suarez to first baseman Joey Votto.",0,0,1,1,1,-0.32,4.16
+953,2021-07-17,592885,448281,,foul,1,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,1,2,0,4,11,-0.79,3.35
+954,2021-07-17,592885,592390,single,hit_into_play,2,Christian Yelich singles on a line drive to left fielder Jesse Winker.,1,2,0,4,9,-0.05,3.03
 955,2021-07-17,592885,448281,,ball,13,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,0,2,0,3,11,-0.98,0.84
 956,2021-07-17,592885,592390,,called_strike,6,Christian Yelich singles on a line drive to left fielder Jesse Winker.,1,1,0,3,9,0.81,2.17
-957,2021-07-17,592885,592390,,ball,11,Christian Yelich singles on a line drive to left fielder Jesse Winker.,0,1,0,2,9,-1.25,2.96
-958,2021-07-17,592885,448281,,foul,6,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,0,1,0,2,11,0.54,2.88
+957,2021-07-17,592885,448281,,foul,6,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,0,1,0,2,11,0.54,2.88
+958,2021-07-17,592885,592390,,ball,11,Christian Yelich singles on a line drive to left fielder Jesse Winker.,0,1,0,2,9,-1.25,2.96
 959,2021-07-17,592885,448281,,foul,2,Christian Yelich doubles (8) on a sharp line drive to right fielder Aristides Aquino.   Kolten Wong scores.,0,0,0,1,11,-0.21,3.08
 960,2021-07-17,592885,592390,,called_strike,5,Christian Yelich singles on a line drive to left fielder Jesse Winker.,0,0,0,1,9,-0.26,2.69
 961,2021-07-16,592885,641816,strikeout,called_strike,13,Christian Yelich called out on strikes.,2,2,1,7,5,-0.63,1.5
@@ -992,12 +992,12 @@
 990,2021-07-11,592885,622491,,called_strike,7,Christian Yelich called out on strikes.,1,1,1,3,3,-0.39,1.55
 991,2021-07-11,592885,622491,,called_strike,7,Christian Yelich called out on strikes.,1,0,1,2,3,-0.59,1.78
 992,2021-07-11,592885,622491,,ball,11,Christian Yelich called out on strikes.,0,0,1,1,3,-0.13,3.96
-993,2021-07-11,592885,622491,field_out,hit_into_play,7,Christian Yelich grounds out to first baseman Joey Votto.   Luis Urias to 2nd.,2,2,0,5,1,-0.52,1.6
-994,2021-07-11,592885,605521,,ball,11,"Christian Yelich grounds out, first baseman Joey Votto to pitcher Sean Doolittle.",1,2,1,5,7,-0.83,5.2
+993,2021-07-11,592885,605521,,ball,11,"Christian Yelich grounds out, first baseman Joey Votto to pitcher Sean Doolittle.",1,2,1,5,7,-0.83,5.2
+994,2021-07-11,592885,622491,field_out,hit_into_play,7,Christian Yelich grounds out to first baseman Joey Votto.   Luis Urias to 2nd.,2,2,0,5,1,-0.52,1.6
 995,2021-07-11,592885,605521,,foul,1,"Christian Yelich grounds out, first baseman Joey Votto to pitcher Sean Doolittle.",1,2,1,4,7,-0.35,3.45
 996,2021-07-11,592885,622491,,ball,11,Christian Yelich grounds out to first baseman Joey Votto.   Luis Urias to 2nd.,1,2,0,4,1,-1.29,3.24
-997,2021-07-11,592885,605521,,ball,11,"Christian Yelich grounds out, first baseman Joey Votto to pitcher Sean Doolittle.",0,2,1,3,7,-2.71,5.35
-998,2021-07-11,592885,622491,,called_strike,9,Christian Yelich grounds out to first baseman Joey Votto.   Luis Urias to 2nd.,1,1,0,3,1,0.51,2.08
+997,2021-07-11,592885,622491,,called_strike,9,Christian Yelich grounds out to first baseman Joey Votto.   Luis Urias to 2nd.,1,1,0,3,1,0.51,2.08
+998,2021-07-11,592885,605521,,ball,11,"Christian Yelich grounds out, first baseman Joey Votto to pitcher Sean Doolittle.",0,2,1,3,7,-2.71,5.35
 999,2021-07-11,592885,622491,,ball,13,Christian Yelich grounds out to first baseman Joey Votto.   Luis Urias to 2nd.,0,1,0,2,1,-0.22,1.45
 1000,2021-07-11,592885,605521,,called_strike,11,"Christian Yelich grounds out, first baseman Joey Votto to pitcher Sean Doolittle.",0,1,1,2,7,-0.87,3.05
 1001,2021-07-11,592885,622491,,swinging_strike,11,Christian Yelich grounds out to first baseman Joey Votto.   Luis Urias to 2nd.,0,0,0,1,1,-1.12,3.02
@@ -1043,10 +1043,10 @@
 1041,2021-07-08,592885,641816,,ball,12,Christian Yelich strikes out swinging.,1,1,2,3,2,0.94,3.51
 1042,2021-07-08,592885,641816,,called_strike,7,Christian Yelich strikes out swinging.,1,0,2,2,2,-0.29,1.73
 1043,2021-07-08,592885,641816,,ball,13,Christian Yelich strikes out swinging.,0,0,2,1,2,-1.5,1.44
-1044,2021-07-08,592885,641816,hit_by_pitch,hit_by_pitch,12,Christian Yelich hit by pitch.    Luis Urias to 2nd.,0,2,0,3,1,1.48,3.74
-1045,2021-07-08,592885,592612,field_out,hit_into_play,5,Christian Yelich pops out to third baseman Eugenio Suarez.,0,1,1,2,7,-0.22,2.33
-1046,2021-07-08,592885,592612,,called_strike,3,Christian Yelich pops out to third baseman Eugenio Suarez.,0,0,1,1,7,0.45,3.05
-1047,2021-07-08,592885,641816,,swinging_strike,12,Christian Yelich hit by pitch.    Luis Urias to 2nd.,0,1,0,2,1,0.08,3.68
+1044,2021-07-08,592885,592612,field_out,hit_into_play,5,Christian Yelich pops out to third baseman Eugenio Suarez.,0,1,1,2,7,-0.22,2.33
+1045,2021-07-08,592885,641816,hit_by_pitch,hit_by_pitch,12,Christian Yelich hit by pitch.    Luis Urias to 2nd.,0,2,0,3,1,1.48,3.74
+1046,2021-07-08,592885,641816,,swinging_strike,12,Christian Yelich hit by pitch.    Luis Urias to 2nd.,0,1,0,2,1,0.08,3.68
+1047,2021-07-08,592885,592612,,called_strike,3,Christian Yelich pops out to third baseman Eugenio Suarez.,0,0,1,1,7,0.45,3.05
 1048,2021-07-08,592885,641816,,called_strike,8,Christian Yelich hit by pitch.    Luis Urias to 2nd.,0,0,0,1,1,-0.27,1.97
 1049,2021-07-07,592885,594798,grounded_into_double_play,hit_into_play,5,"Christian Yelich grounds into a double play, second baseman Jeff McNeil to shortstop Francisco Lindor to first baseman Pete Alonso.   Luis Urias out at 2nd.    Christian Yelich out at 1st.",0,0,1,1,6,-0.03,2.03
 1050,2021-07-07,592885,476594,strikeout,called_strike,1,Christian Yelich called out on strikes.,1,2,2,4,2,-0.47,3.36
@@ -1062,21 +1062,21 @@
 1060,2021-07-07,592885,622098,,called_strike,7,Christian Yelich lines out sharply to left fielder Dominic Smith.,2,1,2,4,5,-0.36,2.12
 1061,2021-07-07,592885,622098,,foul_tip,2,Christian Yelich lines out sharply to left fielder Dominic Smith.,2,0,2,3,5,-0.03,2.99
 1062,2021-07-07,592885,622098,,ball,14,Christian Yelich lines out sharply to left fielder Dominic Smith.,1,0,2,2,5,0.91,2.37
-1063,2021-07-07,592885,594798,strikeout,called_strike,9,Christian Yelich called out on strikes.,1,2,0,4,1,0.52,1.73
-1064,2021-07-07,592885,622098,,ball,14,Christian Yelich lines out sharply to left fielder Dominic Smith.,0,0,2,1,5,1.1,1.57
-1065,2021-07-07,592885,476594,walk,ball,14,Christian Yelich walks.,3,1,1,5,1,2.26,2.17
-1066,2021-07-07,592885,660546,single,hit_into_play,1,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,3,2,1,7,7,-0.66,3.46
-1067,2021-07-07,592885,594798,,swinging_strike,3,Christian Yelich called out on strikes.,1,1,0,3,1,0.62,3.06
+1063,2021-07-07,592885,622098,,ball,14,Christian Yelich lines out sharply to left fielder Dominic Smith.,0,0,2,1,5,1.1,1.57
+1064,2021-07-07,592885,594798,strikeout,called_strike,9,Christian Yelich called out on strikes.,1,2,0,4,1,0.52,1.73
+1065,2021-07-07,592885,594798,,swinging_strike,3,Christian Yelich called out on strikes.,1,1,0,3,1,0.62,3.06
+1066,2021-07-07,592885,476594,walk,ball,14,Christian Yelich walks.,3,1,1,5,1,2.26,2.17
+1067,2021-07-07,592885,660546,single,hit_into_play,1,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,3,2,1,7,7,-0.66,3.46
 1068,2021-07-07,592885,660546,,foul,3,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,3,2,1,6,7,0.68,3.41
 1069,2021-07-07,592885,476594,,ball,1,Christian Yelich walks.,2,1,1,4,1,-0.79,3.34
 1070,2021-07-07,592885,594798,,swinging_strike,14,Christian Yelich called out on strikes.,1,0,0,2,1,1.19,1.11
-1071,2021-07-07,592885,594798,,ball,12,Christian Yelich called out on strikes.,0,0,0,1,1,0.05,4.17
-1072,2021-07-07,592885,476594,,ball,14,Christian Yelich walks.,1,1,1,3,1,0.39,1.41
-1073,2021-07-07,592885,660546,,ball,14,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,2,2,1,5,7,0.4,0.98
+1071,2021-07-07,592885,476594,,ball,14,Christian Yelich walks.,1,1,1,3,1,0.39,1.41
+1072,2021-07-07,592885,660546,,ball,14,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,2,2,1,5,7,0.4,0.98
+1073,2021-07-07,592885,594798,,ball,12,Christian Yelich called out on strikes.,0,0,0,1,1,0.05,4.17
 1074,2021-07-07,592885,476594,,ball,14,Christian Yelich walks.,0,1,1,2,1,1.67,2.1
 1075,2021-07-07,592885,660546,,ball,14,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,1,2,1,4,7,0.95,1.87
-1076,2021-07-07,592885,476594,,called_strike,9,Christian Yelich walks.,0,0,1,1,1,0.28,2.08
-1077,2021-07-07,592885,660546,,ball,11,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,0,2,1,3,7,-1.9,5.25
+1076,2021-07-07,592885,660546,,ball,11,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,0,2,1,3,7,-1.9,5.25
+1077,2021-07-07,592885,476594,,called_strike,9,Christian Yelich walks.,0,0,1,1,1,0.28,2.08
 1078,2021-07-07,592885,660546,,called_strike,9,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,0,1,1,2,7,0.4,1.76
 1079,2021-07-07,592885,660546,,called_strike,11,Christian Yelich singles on a sharp ground ball to left fielder Kevin Pillar.,0,0,1,1,7,-0.85,3.34
 1080,2021-07-05,592885,656731,strikeout,swinging_strike,13,Christian Yelich strikes out swinging.,2,2,2,7,3,-1.24,1.55
@@ -1086,8 +1086,8 @@
 1084,2021-07-05,592885,656731,,called_strike,6,Christian Yelich strikes out swinging.,1,1,2,3,3,0.41,2.62
 1085,2021-07-05,592885,656731,,ball,11,Christian Yelich strikes out swinging.,0,1,2,2,3,-1.29,2.65
 1086,2021-07-05,592885,656731,,foul,8,Christian Yelich strikes out swinging.,0,0,2,1,3,-0.24,1.67
-1087,2021-07-05,592885,543507,field_out,hit_into_play,2,Christian Yelich flies out to left fielder Kevin Pillar.,0,0,2,1,8,-0.13,3.49
-1088,2021-07-05,592885,656731,strikeout,foul_tip,13,Christian Yelich strikes out on a foul tip.,3,2,1,6,1,-0.87,2.18
+1087,2021-07-05,592885,656731,strikeout,foul_tip,13,Christian Yelich strikes out on a foul tip.,3,2,1,6,1,-0.87,2.18
+1088,2021-07-05,592885,543507,field_out,hit_into_play,2,Christian Yelich flies out to left fielder Kevin Pillar.,0,0,2,1,8,-0.13,3.49
 1089,2021-07-05,592885,656731,,ball,13,Christian Yelich strikes out on a foul tip.,2,2,1,5,1,-0.01,0.8
 1090,2021-07-05,592885,656731,,ball,11,Christian Yelich strikes out on a foul tip.,1,2,1,4,1,-1.22,3.56
 1091,2021-07-05,592885,656731,,swinging_strike,2,Christian Yelich strikes out on a foul tip.,1,1,1,3,1,0.15,3.32
@@ -1118,10 +1118,10 @@
 1116,2021-07-03,592885,608717,walk,ball,14,Christian Yelich walks.,3,2,0,6,6,0.89,1.58
 1117,2021-07-03,592885,664074,,called_strike,8,Christian Yelich walks.,2,0,1,3,1,0.16,1.77
 1118,2021-07-03,592885,608717,,foul,7,Christian Yelich walks.,3,1,0,5,6,-0.41,1.97
-1119,2021-07-03,592885,664074,,ball,12,Christian Yelich walks.,1,0,1,2,1,1.6,2.7
-1120,2021-07-03,592885,608717,,called_strike,4,Christian Yelich walks.,3,0,0,4,6,-0.58,2.79
-1121,2021-07-03,592885,664074,,ball,1,Christian Yelich walks.,0,0,1,1,1,-0.79,3.56
-1122,2021-07-03,592885,608717,,ball,11,Christian Yelich walks.,2,0,0,3,6,-1.22,2.94
+1119,2021-07-03,592885,608717,,called_strike,4,Christian Yelich walks.,3,0,0,4,6,-0.58,2.79
+1120,2021-07-03,592885,664074,,ball,12,Christian Yelich walks.,1,0,1,2,1,1.6,2.7
+1121,2021-07-03,592885,608717,,ball,11,Christian Yelich walks.,2,0,0,3,6,-1.22,2.94
+1122,2021-07-03,592885,664074,,ball,1,Christian Yelich walks.,0,0,1,1,1,-0.79,3.56
 1123,2021-07-03,592885,608717,,ball,11,Christian Yelich walks.,1,0,0,2,6,-0.18,4.06
 1124,2021-07-03,592885,608717,,ball,13,Christian Yelich walks.,0,0,0,1,6,-1.23,2.37
 1125,2021-07-02,592885,664141,single,hit_into_play,7,Christian Yelich singles on a sharp ground ball to left fielder Ben Gamel.,1,1,0,3,6,-0.73,2.17
@@ -1134,8 +1134,8 @@
 1132,2021-07-02,592885,664141,field_out,hit_into_play,7,"Christian Yelich grounds out softly, catcher Jacob Stallings to first baseman Phillip Evans.",2,1,1,4,1,-0.67,1.65
 1133,2021-07-02,592885,664141,,called_strike,4,"Christian Yelich grounds out softly, catcher Jacob Stallings to first baseman Phillip Evans.",2,0,1,3,1,-0.58,2.33
 1134,2021-07-02,592885,664141,,ball,11,"Christian Yelich grounds out softly, catcher Jacob Stallings to first baseman Phillip Evans.",1,0,1,2,1,-1.37,2.96
-1135,2021-07-02,592885,664141,,ball,11,"Christian Yelich grounds out softly, catcher Jacob Stallings to first baseman Phillip Evans.",0,0,1,1,1,-1.58,2.87
-1136,2021-07-02,592885,670280,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,0,2,0,4,8,-0.5,3.82
+1135,2021-07-02,592885,670280,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,0,2,0,4,8,-0.5,3.82
+1136,2021-07-02,592885,664141,,ball,11,"Christian Yelich grounds out softly, catcher Jacob Stallings to first baseman Phillip Evans.",0,0,1,1,1,-1.58,2.87
 1137,2021-07-02,592885,670280,,foul,5,Christian Yelich strikes out swinging.,0,2,0,3,8,-0.14,2.23
 1138,2021-07-02,592885,670280,,swinging_strike,14,Christian Yelich strikes out swinging.,0,1,0,2,8,0.43,1.36
 1139,2021-07-02,592885,670280,,called_strike,4,Christian Yelich strikes out swinging.,0,0,0,1,8,-0.48,2.27
@@ -1155,16 +1155,16 @@
 1153,2021-07-01,592885,640444,,called_strike,6,Christian Yelich flies out to left fielder Ka'ai Tom.,0,0,1,1,1,0.34,2.53
 1154,2021-07-01,592885,593144,single,hit_into_play,1,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,3,2,1,7,9,-0.78,2.94
 1155,2021-07-01,592885,593144,,ball,11,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,2,2,1,6,9,-0.99,3.41
-1156,2021-07-01,592885,593144,,foul,12,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,2,2,1,5,9,0.84,3.06
-1157,2021-07-01,592885,592741,walk,ball,13,Christian Yelich walks.,3,2,0,7,7,-0.32,1.36
+1156,2021-07-01,592885,592741,walk,ball,13,Christian Yelich walks.,3,2,0,7,7,-0.32,1.36
+1157,2021-07-01,592885,593144,,foul,12,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,2,2,1,5,9,0.84,3.06
 1158,2021-07-01,592885,593144,,foul,6,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,2,1,1,4,9,0.38,2.32
 1159,2021-07-01,592885,592741,,ball,14,Christian Yelich walks.,2,2,0,6,7,1.06,1.75
-1160,2021-07-01,592885,592741,,foul,4,Christian Yelich walks.,2,2,0,5,7,-0.65,2.88
-1161,2021-07-01,592885,593144,,ball,13,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,1,1,1,3,9,-0.68,1.26
-1162,2021-07-01,592885,592741,,ball,14,Christian Yelich walks.,1,2,0,4,7,0.46,1.33
-1163,2021-07-01,592885,593144,,ball,13,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,0,1,1,2,9,-0.94,1.65
-1164,2021-07-01,592885,592741,,swinging_strike,4,Christian Yelich walks.,1,1,0,3,7,-0.33,2.6
-1165,2021-07-01,592885,593144,,foul,2,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,0,0,1,1,9,-0.01,3.13
+1160,2021-07-01,592885,593144,,ball,13,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,1,1,1,3,9,-0.68,1.26
+1161,2021-07-01,592885,592741,,foul,4,Christian Yelich walks.,2,2,0,5,7,-0.65,2.88
+1162,2021-07-01,592885,593144,,ball,13,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,0,1,1,2,9,-0.94,1.65
+1163,2021-07-01,592885,592741,,ball,14,Christian Yelich walks.,1,2,0,4,7,0.46,1.33
+1164,2021-07-01,592885,593144,,foul,2,Christian Yelich singles on a sharp ground ball to center fielder Bryan Reynolds.   Daniel Robertson to 3rd.,0,0,1,1,9,-0.01,3.13
+1165,2021-07-01,592885,592741,,swinging_strike,4,Christian Yelich walks.,1,1,0,3,7,-0.33,2.6
 1166,2021-07-01,592885,592741,,swinging_strike,5,Christian Yelich walks.,1,0,0,2,7,0.04,2.89
 1167,2021-07-01,592885,592741,,ball,11,Christian Yelich walks.,0,0,0,1,7,-1.08,2.87
 1168,2021-06-30,592885,453562,strikeout,swinging_strike,7,Christian Yelich strikes out swinging.,2,2,1,5,2,-0.62,1.75
@@ -1177,18 +1177,18 @@
 1175,2021-06-30,592885,667297,,ball,13,Christian Yelich called out on strikes.,0,2,1,4,4,-0.88,1.65
 1176,2021-06-30,592885,667297,,foul,5,Christian Yelich called out on strikes.,0,2,1,3,4,0.14,2.28
 1177,2021-06-30,592885,519299,,foul,1,Christian Yelich grounds out to pitcher Eric Sogard.,1,1,2,3,8,-0.35,3.15
-1178,2021-06-30,592885,519299,,foul,7,Christian Yelich grounds out to pitcher Eric Sogard.,1,0,2,2,8,-0.35,1.49
-1179,2021-06-30,592885,667297,,swinging_strike,7,Christian Yelich called out on strikes.,0,1,1,2,4,-0.57,2.0
+1178,2021-06-30,592885,667297,,swinging_strike,7,Christian Yelich called out on strikes.,0,1,1,2,4,-0.57,2.0
+1179,2021-06-30,592885,519299,,foul,7,Christian Yelich grounds out to pitcher Eric Sogard.,1,0,2,2,8,-0.35,1.49
 1180,2021-06-30,592885,667297,,called_strike,1,Christian Yelich called out on strikes.,0,0,1,1,4,-0.45,2.87
 1181,2021-06-30,592885,571521,strikeout,called_strike,4,Christian Yelich called out on strikes.,3,2,2,6,3,-0.59,2.78
 1182,2021-06-30,592885,519299,,blocked_ball,14,Christian Yelich grounds out to pitcher Eric Sogard.,0,0,2,1,8,0.26,0.28
 1183,2021-06-30,592885,571521,,ball,13,Christian Yelich called out on strikes.,2,2,2,5,3,-0.92,0.46
 1184,2021-06-30,592885,571521,,ball,13,Christian Yelich called out on strikes.,1,2,2,4,3,-2.04,-1.11
 1185,2021-06-30,592885,571521,,swinging_strike,13,Christian Yelich called out on strikes.,1,1,2,3,3,-0.85,0.85
-1186,2021-06-30,592885,571521,,ball,13,Christian Yelich called out on strikes.,0,1,2,2,3,-0.88,-0.56
-1187,2021-06-30,592885,605388,field_out,hit_into_play,6,Christian Yelich lines out to left fielder Joc Pederson.,0,0,2,1,6,0.29,2.44
-1188,2021-06-30,592885,571521,,called_strike,5,Christian Yelich called out on strikes.,0,0,2,1,3,-0.02,2.58
-1189,2021-06-30,592885,453562,walk,ball,11,Christian Yelich walks.   Luis Urias to 2nd.,3,1,0,5,1,-1.18,3.05
+1186,2021-06-30,592885,605388,field_out,hit_into_play,6,Christian Yelich lines out to left fielder Joc Pederson.,0,0,2,1,6,0.29,2.44
+1187,2021-06-30,592885,571521,,ball,13,Christian Yelich called out on strikes.,0,1,2,2,3,-0.88,-0.56
+1188,2021-06-30,592885,453562,walk,ball,11,Christian Yelich walks.   Luis Urias to 2nd.,3,1,0,5,1,-1.18,3.05
+1189,2021-06-30,592885,571521,,called_strike,5,Christian Yelich called out on strikes.,0,0,2,1,3,-0.02,2.58
 1190,2021-06-30,592885,453562,,ball,14,Christian Yelich walks.   Luis Urias to 2nd.,2,1,0,4,1,1.05,1.99
 1191,2021-06-30,592885,453562,,ball,12,Christian Yelich walks.   Luis Urias to 2nd.,1,1,0,3,1,0.25,3.76
 1192,2021-06-30,592885,453562,,ball,14,Christian Yelich walks.   Luis Urias to 2nd.,0,1,0,2,1,1.02,2.53
@@ -1207,10 +1207,10 @@
 1205,2021-06-29,592885,623364,,ball,11,Christian Yelich strikes out swinging.,2,2,2,5,5,-0.56,3.73
 1206,2021-06-29,592885,623364,,foul,4,Christian Yelich strikes out swinging.,2,1,2,4,5,-0.29,2.24
 1207,2021-06-29,592885,623364,,ball,13,Christian Yelich strikes out swinging.,1,1,2,3,5,-1.56,0.22
-1208,2021-06-29,592885,605388,field_out,hit_into_play,6,"Christian Yelich grounds out sharply, second baseman Sergio Alcantara to first baseman Patrick Wisdom.",3,2,0,6,8,0.29,2.34
-1209,2021-06-29,592885,623364,,called_strike,7,Christian Yelich strikes out swinging.,1,0,2,2,5,-0.82,1.67
-1210,2021-06-29,592885,605388,,ball,13,"Christian Yelich grounds out sharply, second baseman Sergio Alcantara to first baseman Patrick Wisdom.",2,2,0,5,8,-1.54,1.41
-1211,2021-06-29,592885,623364,,ball,14,Christian Yelich strikes out swinging.,0,0,2,1,5,1.15,2.09
+1208,2021-06-29,592885,623364,,called_strike,7,Christian Yelich strikes out swinging.,1,0,2,2,5,-0.82,1.67
+1209,2021-06-29,592885,605388,field_out,hit_into_play,6,"Christian Yelich grounds out sharply, second baseman Sergio Alcantara to first baseman Patrick Wisdom.",3,2,0,6,8,0.29,2.34
+1210,2021-06-29,592885,623364,,ball,14,Christian Yelich strikes out swinging.,0,0,2,1,5,1.15,2.09
+1211,2021-06-29,592885,605388,,ball,13,"Christian Yelich grounds out sharply, second baseman Sergio Alcantara to first baseman Patrick Wisdom.",2,2,0,5,8,-1.54,1.41
 1212,2021-06-29,592885,605388,,ball,13,"Christian Yelich grounds out sharply, second baseman Sergio Alcantara to first baseman Patrick Wisdom.",1,2,0,4,8,-2.04,0.98
 1213,2021-06-29,592885,605388,,foul,5,"Christian Yelich grounds out sharply, second baseman Sergio Alcantara to first baseman Patrick Wisdom.",1,1,0,3,8,0.17,2.21
 1214,2021-06-29,592885,605388,,called_strike,6,"Christian Yelich grounds out sharply, second baseman Sergio Alcantara to first baseman Patrick Wisdom.",1,0,0,2,8,0.37,2.71
@@ -1228,8 +1228,8 @@
 1226,2021-06-28,592885,543294,,ball,12,Christian Yelich called out on strikes.,0,0,2,1,2,0.33,3.79
 1227,2021-06-28,592885,543294,double,hit_into_play,7,Christian Yelich doubles (5) on a soft ground ball to third baseman Eric Sogard.   Luis Urias to 3rd.,1,0,0,2,1,-0.77,1.99
 1228,2021-06-28,592885,605177,field_out,hit_into_play,14,Christian Yelich lines out to right fielder Jason Heyward.,2,0,1,3,7,0.86,2.46
-1229,2021-06-28,592885,605177,,ball,12,Christian Yelich lines out to right fielder Jason Heyward.,1,0,1,2,7,1.09,3.31
-1230,2021-06-28,592885,543294,,ball,13,Christian Yelich doubles (5) on a soft ground ball to third baseman Eric Sogard.   Luis Urias to 3rd.,0,0,0,1,1,-1.04,2.43
+1229,2021-06-28,592885,543294,,ball,13,Christian Yelich doubles (5) on a soft ground ball to third baseman Eric Sogard.   Luis Urias to 3rd.,0,0,0,1,1,-1.04,2.43
+1230,2021-06-28,592885,605177,,ball,12,Christian Yelich lines out to right fielder Jason Heyward.,1,0,1,2,7,1.09,3.31
 1231,2021-06-28,592885,605177,,ball,11,Christian Yelich lines out to right fielder Jason Heyward.,0,0,1,1,7,-1.07,3.56
 1232,2021-06-27,592885,592346,field_out,hit_into_play,7,Christian Yelich flies out to left fielder Yonathan Daza.,3,2,1,8,4,-0.72,2.1
 1233,2021-06-27,592885,592346,,foul,14,Christian Yelich flies out to left fielder Yonathan Daza.,3,2,1,7,4,1.25,2.32
@@ -1239,16 +1239,16 @@
 1237,2021-06-27,592885,592346,,ball,12,Christian Yelich flies out to left fielder Yonathan Daza.,0,2,1,3,4,1.83,3.24
 1238,2021-06-27,592885,592346,,foul,12,Christian Yelich flies out to left fielder Yonathan Daza.,0,1,1,2,4,1.35,2.65
 1239,2021-06-27,592885,592346,,called_strike,11,Christian Yelich flies out to left fielder Yonathan Daza.,0,0,1,1,4,-0.95,3.29
-1240,2021-06-27,592885,656458,walk,ball,11,Christian Yelich walks.,3,1,0,5,6,-1.59,2.89
-1241,2021-06-27,592885,592346,strikeout,swinging_strike,2,Christian Yelich strikes out swinging.,3,2,2,7,1,0.23,2.91
-1242,2021-06-27,592885,656458,,ball,11,Christian Yelich walks.,2,1,0,4,6,-1.17,3.47
-1243,2021-06-27,592885,592346,,ball,9,Christian Yelich strikes out swinging.,2,2,2,6,1,0.74,1.73
+1240,2021-06-27,592885,592346,strikeout,swinging_strike,2,Christian Yelich strikes out swinging.,3,2,2,7,1,0.23,2.91
+1241,2021-06-27,592885,656458,walk,ball,11,Christian Yelich walks.,3,1,0,5,6,-1.59,2.89
+1242,2021-06-27,592885,592346,,ball,9,Christian Yelich strikes out swinging.,2,2,2,6,1,0.74,1.73
+1243,2021-06-27,592885,656458,,ball,11,Christian Yelich walks.,2,1,0,4,6,-1.17,3.47
 1244,2021-06-27,592885,592346,,foul,12,Christian Yelich strikes out swinging.,2,2,2,5,1,0.84,3.12
 1245,2021-06-27,592885,656458,,called_strike,8,Christian Yelich walks.,2,0,0,3,6,-0.26,1.66
-1246,2021-06-27,592885,592346,,foul,6,Christian Yelich strikes out swinging.,2,1,2,4,1,0.7,2.42
-1247,2021-06-27,592885,656458,,ball,12,Christian Yelich walks.,1,0,0,2,6,0.31,3.82
-1248,2021-06-27,592885,592346,,ball,11,Christian Yelich strikes out swinging.,1,1,2,3,1,-1.13,2.52
-1249,2021-06-27,592885,656458,,ball,11,Christian Yelich walks.,0,0,0,1,6,-1.47,3.68
+1246,2021-06-27,592885,656458,,ball,12,Christian Yelich walks.,1,0,0,2,6,0.31,3.82
+1247,2021-06-27,592885,592346,,foul,6,Christian Yelich strikes out swinging.,2,1,2,4,1,0.7,2.42
+1248,2021-06-27,592885,656458,,ball,11,Christian Yelich walks.,0,0,0,1,6,-1.47,3.68
+1249,2021-06-27,592885,592346,,ball,11,Christian Yelich strikes out swinging.,1,1,2,3,1,-1.13,2.52
 1250,2021-06-27,592885,592346,,ball,11,Christian Yelich strikes out swinging.,0,1,2,2,1,-0.03,4.22
 1251,2021-06-27,592885,592346,,swinging_strike,3,Christian Yelich strikes out swinging.,0,0,2,1,1,0.62,3.39
 1252,2021-06-27,592885,622075,strikeout,called_strike,7,Christian Yelich called out on strikes.,2,2,0,5,8,-0.38,1.64
@@ -1344,12 +1344,12 @@
 1342,2021-06-19,592885,641755,walk,ball,13,Christian Yelich walks.,3,1,1,5,9,-1.14,2.43
 1343,2021-06-19,592885,641755,,ball,14,Christian Yelich walks.,2,1,1,4,9,0.66,0.84
 1344,2021-06-19,592885,622075,walk,ball,14,Christian Yelich walks.,3,0,2,4,7,0.64,1.41
-1345,2021-06-19,592885,622075,,ball,6,Christian Yelich walks.,2,0,2,3,7,0.63,2.32
-1346,2021-06-19,592885,641755,,ball,14,Christian Yelich walks.,1,1,1,3,9,0.72,0.66
-1347,2021-06-19,592885,622075,,ball,14,Christian Yelich walks.,1,0,2,2,7,1.06,2.0
-1348,2021-06-19,592885,641755,,called_strike,4,Christian Yelich walks.,1,0,1,2,9,-0.56,2.27
-1349,2021-06-19,592885,622075,,ball,12,Christian Yelich walks.,0,0,2,1,7,0.08,3.74
-1350,2021-06-19,592885,641755,,ball,11,Christian Yelich walks.,0,0,1,1,9,-1.06,2.86
+1345,2021-06-19,592885,641755,,ball,14,Christian Yelich walks.,1,1,1,3,9,0.72,0.66
+1346,2021-06-19,592885,622075,,ball,6,Christian Yelich walks.,2,0,2,3,7,0.63,2.32
+1347,2021-06-19,592885,641755,,called_strike,4,Christian Yelich walks.,1,0,1,2,9,-0.56,2.27
+1348,2021-06-19,592885,622075,,ball,14,Christian Yelich walks.,1,0,2,2,7,1.06,2.0
+1349,2021-06-19,592885,641755,,ball,11,Christian Yelich walks.,0,0,1,1,9,-1.06,2.86
+1350,2021-06-19,592885,622075,,ball,12,Christian Yelich walks.,0,0,2,1,7,0.08,3.74
 1351,2021-06-19,592885,468504,field_out,hit_into_play,1,"Christian Yelich grounds out sharply, third baseman Ryan McMahon to first baseman Joshua Fuentes.   Luis Urias scores.",2,1,0,4,3,-0.66,3.02
 1352,2021-06-19,592885,468504,,swinging_strike,14,"Christian Yelich grounds out sharply, third baseman Ryan McMahon to first baseman Joshua Fuentes.   Luis Urias scores.",2,0,0,3,3,1.31,1.77
 1353,2021-06-19,592885,596295,single,hit_into_play,9,Christian Yelich singles on a sharp line drive to right fielder Charlie Blackmon.   Willy Adames to 3rd.,0,1,0,2,1,0.57,2.04
@@ -1402,12 +1402,12 @@
 1400,2021-06-16,592885,641816,,called_strike,7,Christian Yelich singles on a line drive to right fielder Nick Castellanos.   Daniel Vogelbach scores.,1,0,0,2,3,-0.72,2.23
 1401,2021-06-16,592885,641816,,ball,11,Christian Yelich singles on a line drive to right fielder Nick Castellanos.   Daniel Vogelbach scores.,0,0,0,1,3,-0.36,4.08
 1402,2021-06-16,592885,641816,strikeout,swinging_strike,3,Christian Yelich strikes out swinging.,1,2,0,5,1,0.45,3.48
-1403,2021-06-16,592885,641816,,foul,8,Christian Yelich strikes out swinging.,1,2,0,4,1,0.26,1.75
-1404,2021-06-16,592885,448281,strikeout,swinging_strike,5,Christian Yelich strikes out swinging.,1,2,1,4,8,-0.13,2.68
+1403,2021-06-16,592885,448281,strikeout,swinging_strike,5,Christian Yelich strikes out swinging.,1,2,1,4,8,-0.13,2.68
+1404,2021-06-16,592885,641816,,foul,8,Christian Yelich strikes out swinging.,1,2,0,4,1,0.26,1.75
 1405,2021-06-16,592885,641816,,ball,12,Christian Yelich strikes out swinging.,0,2,0,3,1,0.37,3.84
 1406,2021-06-16,592885,448281,,swinging_strike,4,Christian Yelich strikes out swinging.,1,1,1,3,8,-0.41,2.81
-1407,2021-06-16,592885,448281,,foul,1,Christian Yelich strikes out swinging.,1,0,1,2,8,-0.66,3.03
-1408,2021-06-16,592885,641816,,swinging_strike,11,Christian Yelich strikes out swinging.,0,1,0,2,1,-0.19,3.95
+1407,2021-06-16,592885,641816,,swinging_strike,11,Christian Yelich strikes out swinging.,0,1,0,2,1,-0.19,3.95
+1408,2021-06-16,592885,448281,,foul,1,Christian Yelich strikes out swinging.,1,0,1,2,8,-0.66,3.03
 1409,2021-06-16,592885,641816,,called_strike,4,Christian Yelich strikes out swinging.,0,0,0,1,1,-0.69,2.23
 1410,2021-06-16,592885,448281,,ball,11,Christian Yelich strikes out swinging.,0,0,1,1,8,-0.02,4.11
 1411,2021-06-15,592885,622491,strikeout,called_strike,9,Christian Yelich called out on strikes.,3,2,0,6,7,0.72,2.1
@@ -1508,10 +1508,10 @@
 1506,2021-06-10,592885,622491,,called_strike,4,"Christian Yelich grounds out, shortstop Kyle Farmer to first baseman Joey Votto.",0,0,2,1,3,-0.41,2.69
 1507,2021-06-10,592885,622491,walk,ball,12,Christian Yelich walks.   Luis Urias to 2nd.,3,0,1,4,1,1.29,3.33
 1508,2021-06-10,592885,448281,field_out,hit_into_play,5,"Christian Yelich grounds out sharply, second baseman Jonathan India to first baseman Joey Votto.",2,1,2,4,7,-0.04,2.63
-1509,2021-06-10,592885,622491,,ball,14,Christian Yelich walks.   Luis Urias to 2nd.,2,0,1,3,1,0.85,2.08
-1510,2021-06-10,592885,448281,,called_strike,2,"Christian Yelich grounds out sharply, second baseman Jonathan India to first baseman Joey Votto.",2,0,2,3,7,0.15,3.39
-1511,2021-06-10,592885,448281,,ball,13,"Christian Yelich grounds out sharply, second baseman Jonathan India to first baseman Joey Votto.",1,0,2,2,7,-0.27,0.84
-1512,2021-06-10,592885,622491,,ball,4,Christian Yelich walks.   Luis Urias to 2nd.,1,0,1,2,1,-0.81,2.14
+1509,2021-06-10,592885,448281,,called_strike,2,"Christian Yelich grounds out sharply, second baseman Jonathan India to first baseman Joey Votto.",2,0,2,3,7,0.15,3.39
+1510,2021-06-10,592885,622491,,ball,14,Christian Yelich walks.   Luis Urias to 2nd.,2,0,1,3,1,0.85,2.08
+1511,2021-06-10,592885,622491,,ball,4,Christian Yelich walks.   Luis Urias to 2nd.,1,0,1,2,1,-0.81,2.14
+1512,2021-06-10,592885,448281,,ball,13,"Christian Yelich grounds out sharply, second baseman Jonathan India to first baseman Joey Votto.",1,0,2,2,7,-0.27,0.84
 1513,2021-06-10,592885,448281,,ball,14,"Christian Yelich grounds out sharply, second baseman Jonathan India to first baseman Joey Votto.",0,0,2,1,7,0.56,1.32
 1514,2021-06-10,592885,622491,,ball,14,Christian Yelich walks.   Luis Urias to 2nd.,0,0,1,1,1,1.15,2.34
 1515,2021-06-09,592885,661269,walk,ball,12,Christian Yelich walks.,3,0,2,4,7,0.72,3.48
@@ -1550,8 +1550,8 @@
 1548,2021-06-08,592885,641682,,blocked_ball,14,"Christian Yelich grounds into a double play, second baseman Jonathan India to shortstop Kyle Farmer to first baseman Joey Votto.   Luis Urias scores.    Daniel Vogelbach out at 2nd.    Christian Yelich out at 1st.",1,1,0,3,5,0.92,1.09
 1549,2021-06-08,592885,543243,strikeout,foul_tip,14,Christian Yelich strikes out on a foul tip.,3,2,1,6,1,0.87,2.24
 1550,2021-06-08,592885,641682,,swinging_strike,7,"Christian Yelich grounds into a double play, second baseman Jonathan India to shortstop Kyle Farmer to first baseman Joey Votto.   Luis Urias scores.    Daniel Vogelbach out at 2nd.    Christian Yelich out at 1st.",1,0,0,2,5,-0.5,1.68
-1551,2021-06-08,592885,641682,,ball,13,"Christian Yelich grounds into a double play, second baseman Jonathan India to shortstop Kyle Farmer to first baseman Joey Votto.   Luis Urias scores.    Daniel Vogelbach out at 2nd.    Christian Yelich out at 1st.",0,0,0,1,5,-0.87,2.2
-1552,2021-06-08,592885,543243,,ball,12,Christian Yelich strikes out on a foul tip.,2,2,1,5,1,0.17,4.41
+1551,2021-06-08,592885,543243,,ball,12,Christian Yelich strikes out on a foul tip.,2,2,1,5,1,0.17,4.41
+1552,2021-06-08,592885,641682,,ball,13,"Christian Yelich grounds into a double play, second baseman Jonathan India to shortstop Kyle Farmer to first baseman Joey Votto.   Luis Urias scores.    Daniel Vogelbach out at 2nd.    Christian Yelich out at 1st.",0,0,0,1,5,-0.87,2.2
 1553,2021-06-08,592885,543243,,ball,14,Christian Yelich strikes out on a foul tip.,1,2,1,4,1,0.81,1.35
 1554,2021-06-08,592885,543243,,foul,2,Christian Yelich strikes out on a foul tip.,1,1,1,3,1,-0.08,3.44
 1555,2021-06-08,592885,543243,,ball,14,Christian Yelich strikes out on a foul tip.,0,1,1,2,1,0.9,1.67
@@ -1651,15 +1651,15 @@
 1649,2021-05-31,592885,665621,,ball,11,Christian Yelich walks.,2,2,0,5,4,-1.16,3.7
 1650,2021-05-31,592885,596057,strikeout,swinging_strike,1,Christian Yelich strikes out swinging.,1,2,1,4,6,-0.4,3.37
 1651,2021-05-31,592885,665621,,ball,11,Christian Yelich walks.,1,2,0,4,4,-0.63,4.6
-1652,2021-05-31,592885,665621,,called_strike,8,Christian Yelich walks.,1,1,0,3,4,0.08,1.96
-1653,2021-05-31,592885,596057,,called_strike,9,Christian Yelich strikes out swinging.,1,1,1,3,6,0.78,1.69
-1654,2021-05-31,592885,665621,,ball,12,Christian Yelich walks.,0,1,0,2,4,1.14,4.26
-1655,2021-05-31,592885,596057,,ball,14,Christian Yelich strikes out swinging.,0,1,1,2,6,0.05,-0.36
+1652,2021-05-31,592885,596057,,called_strike,9,Christian Yelich strikes out swinging.,1,1,1,3,6,0.78,1.69
+1653,2021-05-31,592885,665621,,called_strike,8,Christian Yelich walks.,1,1,0,3,4,0.08,1.96
+1654,2021-05-31,592885,596057,,ball,14,Christian Yelich strikes out swinging.,0,1,1,2,6,0.05,-0.36
+1655,2021-05-31,592885,665621,,ball,12,Christian Yelich walks.,0,1,0,2,4,1.14,4.26
 1656,2021-05-31,592885,665621,,called_strike,4,Christian Yelich walks.,0,0,0,1,4,-0.4,2.4
 1657,2021-05-31,592885,596057,,called_strike,9,Christian Yelich strikes out swinging.,0,0,1,1,6,0.35,2.06
 1658,2021-05-31,592885,641302,single,hit_into_play,6,Christian Yelich singles on a line drive to center fielder Akil Baddoo.,1,0,2,2,1,0.75,2.89
-1659,2021-05-31,592885,641302,,ball,14,Christian Yelich singles on a line drive to center fielder Akil Baddoo.,0,0,2,1,1,1.01,2.02
-1660,2021-05-31,592885,642397,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,3,2,0,6,9,-0.1,3.69
+1659,2021-05-31,592885,642397,strikeout,swinging_strike,11,Christian Yelich strikes out swinging.,3,2,0,6,9,-0.1,3.69
+1660,2021-05-31,592885,641302,,ball,14,Christian Yelich singles on a line drive to center fielder Akil Baddoo.,0,0,2,1,1,1.01,2.02
 1661,2021-05-31,592885,642397,,foul,14,Christian Yelich strikes out swinging.,3,1,0,5,9,1.23,2.25
 1662,2021-05-31,592885,642397,,ball,12,Christian Yelich strikes out swinging.,2,1,0,4,9,1.92,4.47
 1663,2021-05-31,592885,642397,,ball,14,Christian Yelich strikes out swinging.,1,1,0,3,9,0.21,0.64
@@ -1682,8 +1682,8 @@
 1680,2021-05-30,592885,453286,,foul,6,"Christian Yelich grounds into a force out, pitcher Max Scherzer to third baseman Jordy Mercer.   Daniel Vogelbach out at 2nd.    Christian Yelich to 1st.",1,1,1,3,1,0.43,2.73
 1681,2021-05-30,592885,593833,,ball,11,Christian Yelich lines out sharply to right fielder Juan Soto.,0,1,2,2,8,-1.42,4.26
 1682,2021-05-30,592885,453286,,ball,14,"Christian Yelich grounds into a force out, pitcher Max Scherzer to third baseman Jordy Mercer.   Daniel Vogelbach out at 2nd.    Christian Yelich to 1st.",0,1,1,2,1,1.55,1.94
-1683,2021-05-30,592885,593833,,called_strike,1,Christian Yelich lines out sharply to right fielder Juan Soto.,0,0,2,1,8,-0.68,3.13
-1684,2021-05-30,592885,453286,,called_strike,5,"Christian Yelich grounds into a force out, pitcher Max Scherzer to third baseman Jordy Mercer.   Daniel Vogelbach out at 2nd.    Christian Yelich to 1st.",0,0,1,1,1,-0.25,2.71
+1683,2021-05-30,592885,453286,,called_strike,5,"Christian Yelich grounds into a force out, pitcher Max Scherzer to third baseman Jordy Mercer.   Daniel Vogelbach out at 2nd.    Christian Yelich to 1st.",0,0,1,1,1,-0.25,2.71
+1684,2021-05-30,592885,593833,,called_strike,1,Christian Yelich lines out sharply to right fielder Juan Soto.,0,0,2,1,8,-0.68,3.13
 1685,2021-05-29,592885,571578,triple,hit_into_play,6,Christian Yelich triples (1) on a ground ball to right fielder Juan Soto.   Kolten Wong scores.,1,0,1,2,3,0.74,2.29
 1686,2021-05-29,592885,571578,,ball,12,Christian Yelich triples (1) on a ground ball to right fielder Juan Soto.   Kolten Wong scores.,0,0,1,1,3,1.47,2.59
 1687,2021-05-29,592885,571578,walk,ball,13,Christian Yelich walks.,3,2,2,6,1,-0.44,1.38
@@ -1693,18 +1693,18 @@
 1691,2021-05-29,592885,571578,,ball,14,Christian Yelich walks.,0,1,2,2,1,0.93,1.96
 1692,2021-05-29,592885,571578,,called_strike,4,Christian Yelich walks.,0,0,2,1,1,-0.55,2.29
 1693,2021-05-29,592885,641851,strikeout,foul_tip,4,Christian Yelich strikes out on a foul tip.,2,2,0,5,6,-0.31,2.75
-1694,2021-05-29,592885,621348,walk,ball,7,Christian Yelich walks.,3,0,2,4,6,-0.74,1.62
-1695,2021-05-29,592885,593833,single,hit_into_play,8,"Christian Yelich singles on a sharp line drive to center fielder Josh Harrison.   Christian Yelich to 2nd.  Christian Yelich advances to 2nd, on a fielding error by center fielder Josh Harrison.",2,1,0,4,5,0.04,1.99
-1696,2021-05-29,592885,641851,,ball,14,Christian Yelich strikes out on a foul tip.,1,2,0,4,6,0.88,2.15
-1697,2021-05-29,592885,593833,,ball,12,"Christian Yelich singles on a sharp line drive to center fielder Josh Harrison.   Christian Yelich to 2nd.  Christian Yelich advances to 2nd, on a fielding error by center fielder Josh Harrison.",1,1,0,3,5,1.34,3.21
-1698,2021-05-29,592885,641851,,swinging_strike,11,Christian Yelich strikes out on a foul tip.,1,1,0,3,6,-0.96,2.75
+1694,2021-05-29,592885,641851,,ball,14,Christian Yelich strikes out on a foul tip.,1,2,0,4,6,0.88,2.15
+1695,2021-05-29,592885,621348,walk,ball,7,Christian Yelich walks.,3,0,2,4,6,-0.74,1.62
+1696,2021-05-29,592885,593833,single,hit_into_play,8,"Christian Yelich singles on a sharp line drive to center fielder Josh Harrison.   Christian Yelich to 2nd.  Christian Yelich advances to 2nd, on a fielding error by center fielder Josh Harrison.",2,1,0,4,5,0.04,1.99
+1697,2021-05-29,592885,641851,,swinging_strike,11,Christian Yelich strikes out on a foul tip.,1,1,0,3,6,-0.96,2.75
+1698,2021-05-29,592885,593833,,ball,12,"Christian Yelich singles on a sharp line drive to center fielder Josh Harrison.   Christian Yelich to 2nd.  Christian Yelich advances to 2nd, on a fielding error by center fielder Josh Harrison.",1,1,0,3,5,1.34,3.21
 1699,2021-05-29,592885,621348,,blocked_ball,13,Christian Yelich walks.,2,0,2,3,6,-0.35,0.79
 1700,2021-05-29,592885,593833,,ball,14,"Christian Yelich singles on a sharp line drive to center fielder Josh Harrison.   Christian Yelich to 2nd.  Christian Yelich advances to 2nd, on a fielding error by center fielder Josh Harrison.",0,1,0,2,5,0.94,2.03
 1701,2021-05-29,592885,641851,,ball,12,Christian Yelich strikes out on a foul tip.,0,1,0,2,6,1.14,3.01
 1702,2021-05-29,592885,621348,,ball,14,Christian Yelich walks.,1,0,2,2,6,0.81,1.24
-1703,2021-05-29,592885,641851,,called_strike,6,Christian Yelich strikes out on a foul tip.,0,0,0,1,6,0.45,2.46
-1704,2021-05-29,592885,593833,,called_strike,4,"Christian Yelich singles on a sharp line drive to center fielder Josh Harrison.   Christian Yelich to 2nd.  Christian Yelich advances to 2nd, on a fielding error by center fielder Josh Harrison.",0,0,0,1,5,-0.54,2.72
-1705,2021-05-29,592885,621348,,ball,13,Christian Yelich walks.,0,0,2,1,6,-1.02,1.45
+1703,2021-05-29,592885,621348,,ball,13,Christian Yelich walks.,0,0,2,1,6,-1.02,1.45
+1704,2021-05-29,592885,641851,,called_strike,6,Christian Yelich strikes out on a foul tip.,0,0,0,1,6,0.45,2.46
+1705,2021-05-29,592885,593833,,called_strike,4,"Christian Yelich singles on a sharp line drive to center fielder Josh Harrison.   Christian Yelich to 2nd.  Christian Yelich advances to 2nd, on a fielding error by center fielder Josh Harrison.",0,0,0,1,5,-0.54,2.72
 1706,2021-05-27,592885,641941,strikeout,swinging_strike,1,Christian Yelich strikes out swinging.,2,2,2,5,8,-0.5,3.05
 1707,2021-05-27,592885,641941,,foul,2,Christian Yelich strikes out swinging.,2,1,2,4,8,0.11,2.93
 1708,2021-05-27,592885,641941,,called_strike,8,Christian Yelich strikes out swinging.,2,0,2,3,8,0.02,1.85
@@ -1722,8 +1722,8 @@
 1720,2021-05-26,592885,613534,walk,ball,14,Christian Yelich walks.   Lorenzo Cain to 2nd.,3,1,0,5,9,1.6,2.19
 1721,2021-05-26,592885,613534,,ball,14,Christian Yelich walks.   Lorenzo Cain to 2nd.,2,1,0,4,9,1.12,2.41
 1722,2021-05-26,592885,613534,,swinging_strike,14,Christian Yelich walks.   Lorenzo Cain to 2nd.,2,0,0,3,9,2.11,1.77
-1723,2021-05-26,592885,613534,,ball,12,Christian Yelich walks.   Lorenzo Cain to 2nd.,1,0,0,2,9,2.41,2.94
-1724,2021-05-26,592885,663978,strikeout,called_strike,7,Christian Yelich called out on strikes.,1,2,2,4,1,-0.82,2.04
+1723,2021-05-26,592885,663978,strikeout,called_strike,7,Christian Yelich called out on strikes.,1,2,2,4,1,-0.82,2.04
+1724,2021-05-26,592885,613534,,ball,12,Christian Yelich walks.   Lorenzo Cain to 2nd.,1,0,0,2,9,2.41,2.94
 1725,2021-05-26,592885,613534,,ball,14,Christian Yelich walks.   Lorenzo Cain to 2nd.,0,0,0,1,9,1.4,1.8
 1726,2021-05-26,592885,663978,,ball,11,Christian Yelich called out on strikes.,0,2,2,3,1,-1.9,2.56
 1727,2021-05-26,592885,663978,,foul,3,Christian Yelich called out on strikes.,0,1,2,2,1,0.47,3.55
@@ -1814,8 +1814,8 @@
 1812,2021-05-19,592885,641745,field_out,hit_into_play,9,"Christian Yelich grounds out, second baseman Whit Merrifield to first baseman Carlos Santana.   Kolten Wong to 3rd.",1,1,1,3,1,0.8,2.11
 1813,2021-05-19,592885,605130,walk,ball,14,Christian Yelich walks.,3,2,2,6,7,1.18,0.36
 1814,2021-05-19,592885,641745,,blocked_ball,14,"Christian Yelich grounds out, second baseman Whit Merrifield to first baseman Carlos Santana.   Kolten Wong to 3rd.",0,1,1,2,1,1.5,-0.35
-1815,2021-05-19,592885,605130,,ball,14,Christian Yelich walks.,2,2,2,5,7,1.64,0.68
-1816,2021-05-19,592885,641745,,called_strike,5,"Christian Yelich grounds out, second baseman Whit Merrifield to first baseman Carlos Santana.   Kolten Wong to 3rd.",0,0,1,1,1,-0.06,2.23
+1815,2021-05-19,592885,641745,,called_strike,5,"Christian Yelich grounds out, second baseman Whit Merrifield to first baseman Carlos Santana.   Kolten Wong to 3rd.",0,0,1,1,1,-0.06,2.23
+1816,2021-05-19,592885,605130,,ball,14,Christian Yelich walks.,2,2,2,5,7,1.64,0.68
 1817,2021-05-19,592885,605130,,ball,13,Christian Yelich walks.,1,2,2,4,7,-0.47,0.77
 1818,2021-05-19,592885,605130,,swinging_strike,9,Christian Yelich walks.,1,1,2,3,7,0.79,1.68
 1819,2021-05-19,592885,605130,,foul,9,Christian Yelich walks.,1,0,2,2,7,0.79,2.06
@@ -1845,8 +1845,8 @@
 1843,2021-05-03,592885,641401,single,hit_into_play,4,Christian Yelich singles on a sharp ground ball to shortstop Didi Gregorius.   Kolten Wong to 3rd.    Lorenzo Cain to 2nd.,2,2,0,6,8,-0.74,2.52
 1844,2021-05-03,592885,641401,,foul,9,Christian Yelich singles on a sharp ground ball to shortstop Didi Gregorius.   Kolten Wong to 3rd.    Lorenzo Cain to 2nd.,2,2,0,5,8,0.67,2.08
 1845,2021-05-03,592885,641401,,ball,13,Christian Yelich singles on a sharp ground ball to shortstop Didi Gregorius.   Kolten Wong to 3rd.    Lorenzo Cain to 2nd.,1,2,0,4,8,-1.07,1.35
-1846,2021-05-03,592885,641401,,ball,13,Christian Yelich singles on a sharp ground ball to shortstop Didi Gregorius.   Kolten Wong to 3rd.    Lorenzo Cain to 2nd.,0,2,0,3,8,-1.11,1.25
-1847,2021-05-03,592885,592826,single,hit_into_play,2,Christian Yelich singles on a line drive to center fielder Roman Quinn.,3,2,1,7,1,-0.04,3.12
+1846,2021-05-03,592885,592826,single,hit_into_play,2,Christian Yelich singles on a line drive to center fielder Roman Quinn.,3,2,1,7,1,-0.04,3.12
+1847,2021-05-03,592885,641401,,ball,13,Christian Yelich singles on a sharp ground ball to shortstop Didi Gregorius.   Kolten Wong to 3rd.    Lorenzo Cain to 2nd.,0,2,0,3,8,-1.11,1.25
 1848,2021-05-03,592885,641401,,swinging_strike,13,Christian Yelich singles on a sharp ground ball to shortstop Didi Gregorius.   Kolten Wong to 3rd.    Lorenzo Cain to 2nd.,0,1,0,2,8,-1.12,1.55
 1849,2021-05-03,592885,592826,,ball,12,Christian Yelich singles on a line drive to center fielder Roman Quinn.,2,2,1,6,1,0.66,4.21
 1850,2021-05-03,592885,592826,,ball,14,Christian Yelich singles on a line drive to center fielder Roman Quinn.,1,2,1,5,1,2.36,1.86
@@ -1878,10 +1878,10 @@
 1876,2021-04-10,592885,643778,,called_strike,3,Christian Yelich walks.   Jackie Bradley Jr.  to 2nd.,3,0,1,4,7,0.54,3.08
 1877,2021-04-10,592885,643778,,ball,12,Christian Yelich walks.   Jackie Bradley Jr.  to 2nd.,2,0,1,3,7,1.65,3.74
 1878,2021-04-10,592885,593372,single,hit_into_play,8,Christian Yelich singles on a sharp ground ball to right fielder Justin Williams.,0,2,1,3,1,-0.02,2.13
-1879,2021-04-10,592885,593372,,foul,2,Christian Yelich singles on a sharp ground ball to right fielder Justin Williams.,0,1,1,2,1,0.05,3.26
-1880,2021-04-10,592885,643778,,ball,12,Christian Yelich walks.   Jackie Bradley Jr.  to 2nd.,1,0,1,2,7,1.51,4.04
-1881,2021-04-10,592885,643778,,ball,13,Christian Yelich walks.   Jackie Bradley Jr.  to 2nd.,0,0,1,1,7,-0.92,1.46
-1882,2021-04-10,592885,593372,,called_strike,8,Christian Yelich singles on a sharp ground ball to right fielder Justin Williams.,0,0,1,1,1,0.16,1.81
+1879,2021-04-10,592885,643778,,ball,12,Christian Yelich walks.   Jackie Bradley Jr.  to 2nd.,1,0,1,2,7,1.51,4.04
+1880,2021-04-10,592885,593372,,foul,2,Christian Yelich singles on a sharp ground ball to right fielder Justin Williams.,0,1,1,2,1,0.05,3.26
+1881,2021-04-10,592885,593372,,called_strike,8,Christian Yelich singles on a sharp ground ball to right fielder Justin Williams.,0,0,1,1,1,0.16,1.81
+1882,2021-04-10,592885,643778,,ball,13,Christian Yelich walks.   Jackie Bradley Jr.  to 2nd.,0,0,1,1,7,-0.92,1.46
 1883,2021-04-08,592885,425794,field_out,hit_into_play,8,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Matt Carpenter.",3,2,1,7,5,-0.2,1.74
 1884,2021-04-08,592885,425794,,foul,6,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Matt Carpenter.",3,2,1,6,5,0.6,2.52
 1885,2021-04-08,592885,425794,,ball,13,"Christian Yelich grounds out sharply, second baseman Tommy Edman to first baseman Matt Carpenter.",2,2,1,5,5,-0.39,1.09
@@ -1901,8 +1901,8 @@
 1899,2021-04-08,592885,425794,field_out,hit_into_play,4,Christian Yelich flies out to left fielder Tyler O'Neill.,2,1,1,4,1,-0.43,2.46
 1900,2021-04-08,592885,453192,,called_strike,4,Christian Yelich strikes out swinging.,3,1,2,5,7,-0.54,2.7
 1901,2021-04-08,592885,425794,,ball,14,Christian Yelich flies out to left fielder Tyler O'Neill.,1,1,1,3,1,0.51,1.17
-1902,2021-04-08,592885,425794,,swinging_strike,14,Christian Yelich flies out to left fielder Tyler O'Neill.,1,0,1,2,1,0.07,1.24
-1903,2021-04-08,592885,453192,,ball,13,Christian Yelich strikes out swinging.,2,1,2,4,7,-1.12,1.21
+1902,2021-04-08,592885,453192,,ball,13,Christian Yelich strikes out swinging.,2,1,2,4,7,-1.12,1.21
+1903,2021-04-08,592885,425794,,swinging_strike,14,Christian Yelich flies out to left fielder Tyler O'Neill.,1,0,1,2,1,0.07,1.24
 1904,2021-04-08,592885,425794,,ball,14,Christian Yelich flies out to left fielder Tyler O'Neill.,0,0,1,1,1,1.07,2.17
 1905,2021-04-08,592885,453192,,ball,13,Christian Yelich strikes out swinging.,1,1,2,3,7,-1.48,1.18
 1906,2021-04-08,592885,453192,,called_strike,5,Christian Yelich strikes out swinging.,1,0,2,2,7,0.18,2.4
@@ -1969,8 +1969,8 @@
 1967,2021-04-04,592885,570663,strikeout,swinging_strike,7,Christian Yelich strikes out swinging.,1,2,2,4,7,-0.43,1.58
 1968,2021-04-04,592885,501381,strikeout,swinging_strike,8,Christian Yelich strikes out swinging.,0,2,2,3,1,-0.25,1.64
 1969,2021-04-04,592885,570663,,swinging_strike,14,Christian Yelich strikes out swinging.,1,1,2,3,7,0.51,1.26
-1970,2021-04-04,592885,570663,,ball,11,Christian Yelich strikes out swinging.,0,1,2,2,7,-1.93,3.16
-1971,2021-04-04,592885,501381,,foul,2,Christian Yelich strikes out swinging.,0,1,2,2,1,-0.23,3.21
+1970,2021-04-04,592885,501381,,foul,2,Christian Yelich strikes out swinging.,0,1,2,2,1,-0.23,3.21
+1971,2021-04-04,592885,570663,,ball,11,Christian Yelich strikes out swinging.,0,1,2,2,7,-1.93,3.16
 1972,2021-04-04,592885,501381,,called_strike,1,Christian Yelich strikes out swinging.,0,0,2,1,1,-0.55,2.91
 1973,2021-04-04,592885,570663,,called_strike,3,Christian Yelich strikes out swinging.,0,0,2,1,7,0.71,3.1
 1974,2021-04-03,592885,621244,strikeout,swinging_strike,14,Christian Yelich strikes out swinging.,3,2,2,7,4,1.3,1.19
@@ -1985,14 +1985,14 @@
 1983,2021-04-03,592885,621244,strikeout,swinging_strike,14,Christian Yelich strikes out swinging.,2,2,2,6,1,1.27,0.51
 1984,2021-04-03,592885,517008,,foul,8,Christian Yelich pops out to third baseman Luis Arraez in foul territory.,0,0,2,1,9,-0.02,2.05
 1985,2021-04-03,592885,621244,,foul,8,Christian Yelich strikes out swinging.,2,2,2,5,1,-0.02,2.05
-1986,2021-04-03,592885,621244,,called_strike,5,Christian Yelich strikes out swinging.,2,1,2,4,1,-0.1,2.29
-1987,2021-04-03,592885,573124,strikeout,called_strike,4,Christian Yelich called out on strikes.,1,2,1,4,7,-0.4,2.24
+1986,2021-04-03,592885,573124,strikeout,called_strike,4,Christian Yelich called out on strikes.,1,2,1,4,7,-0.4,2.24
+1987,2021-04-03,592885,621244,,called_strike,5,Christian Yelich strikes out swinging.,2,1,2,4,1,-0.1,2.29
 1988,2021-04-03,592885,621244,,ball,11,Christian Yelich strikes out swinging.,1,1,2,3,1,-1.78,2.44
 1989,2021-04-03,592885,573124,,ball,13,Christian Yelich called out on strikes.,0,2,1,3,7,-1.37,1.06
-1990,2021-04-03,592885,573124,,foul,8,Christian Yelich called out on strikes.,0,1,1,2,7,0.19,1.84
-1991,2021-04-03,592885,621244,,ball,12,Christian Yelich strikes out swinging.,0,1,2,2,1,0.1,3.86
-1992,2021-04-03,592885,573124,,called_strike,7,Christian Yelich called out on strikes.,0,0,1,1,7,-0.36,1.86
-1993,2021-04-03,592885,621244,,called_strike,11,Christian Yelich strikes out swinging.,0,0,2,1,1,-0.84,2.61
+1990,2021-04-03,592885,621244,,ball,12,Christian Yelich strikes out swinging.,0,1,2,2,1,0.1,3.86
+1991,2021-04-03,592885,573124,,foul,8,Christian Yelich called out on strikes.,0,1,1,2,7,0.19,1.84
+1992,2021-04-03,592885,621244,,called_strike,11,Christian Yelich strikes out swinging.,0,0,2,1,1,-0.84,2.61
+1993,2021-04-03,592885,573124,,called_strike,7,Christian Yelich called out on strikes.,0,0,1,1,7,-0.36,1.86
 1994,2021-04-01,592885,628317,single,hit_into_play,5,Christian Yelich singles on a line drive to right fielder Max Kepler.,1,0,0,2,5,0.27,2.77
 1995,2021-04-01,592885,628317,,ball,13,Christian Yelich singles on a line drive to right fielder Max Kepler.,0,0,0,1,5,-0.59,0.97
 1996,2021-04-01,592885,628317,hit_by_pitch,hit_by_pitch,12,Christian Yelich hit by pitch.    Kolten Wong to 2nd.,1,2,2,6,3,3.45,2.92
@@ -2005,8 +2005,8 @@
 2003,2021-04-01,592885,517008,single,hit_into_play,5,Christian Yelich singles on a sharp fly ball to right fielder Max Kepler.   Kolten Wong scores.    Keston Hiura to 2nd.,1,1,1,3,9,-0.05,2.25
 2004,2021-04-01,592885,628317,,ball,14,"Christian Yelich grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",1,0,2,2,1,1.6,1.68
 2005,2021-04-01,592885,517008,,swinging_strike,6,Christian Yelich singles on a sharp fly ball to right fielder Max Kepler.   Kolten Wong scores.    Keston Hiura to 2nd.,1,0,1,2,9,0.49,2.46
-2006,2021-04-01,592885,628317,,ball,13,"Christian Yelich grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,2,1,1,-0.09,0.58
-2007,2021-04-01,592885,517008,,ball,14,Christian Yelich singles on a sharp fly ball to right fielder Max Kepler.   Kolten Wong scores.    Keston Hiura to 2nd.,0,0,1,1,9,0.37,0.73
+2006,2021-04-01,592885,517008,,ball,14,Christian Yelich singles on a sharp fly ball to right fielder Max Kepler.   Kolten Wong scores.    Keston Hiura to 2nd.,0,0,1,1,9,0.37,0.73
+2007,2021-04-01,592885,628317,,ball,13,"Christian Yelich grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,2,1,1,-0.09,0.58
 2008,2021-04-01,592885,573124,strikeout,swinging_strike,1,Christian Yelich strikes out swinging.,1,2,0,4,7,-0.73,2.99
 2009,2021-04-01,592885,573124,,foul,5,Christian Yelich strikes out swinging.,1,1,0,3,7,-0.19,2.55
 2010,2021-04-01,592885,573124,,ball,13,Christian Yelich strikes out swinging.,0,1,0,2,7,-1.87,1.27

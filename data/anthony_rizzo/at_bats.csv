@@ -5,8 +5,8 @@
 3,2021-10-03,519203,608638,,ball,11,Anthony Rizzo flies out to center fielder Kevin Kiermaier.,0,0,2,1,6,-1.26,2.83
 4,2021-10-03,519203,676596,single,hit_into_play,9,Anthony Rizzo singles on a sharp line drive to right fielder Randy Arozarena.   Tyler Wade to 3rd.    Anthony Rizzo to 2nd.,1,2,1,4,9,0.57,2.05
 5,2021-10-03,519203,676596,,swinging_strike,14,Anthony Rizzo singles on a sharp line drive to right fielder Randy Arozarena.   Tyler Wade to 3rd.    Anthony Rizzo to 2nd.,1,1,1,3,9,1.68,2.14
-6,2021-10-03,519203,608379,hit_by_pitch,hit_by_pitch,12,Anthony Rizzo hit by pitch.,0,1,1,2,1,1.24,3.45
-7,2021-10-03,519203,676596,,ball,13,Anthony Rizzo singles on a sharp line drive to right fielder Randy Arozarena.   Tyler Wade to 3rd.    Anthony Rizzo to 2nd.,0,1,1,2,9,-1.13,2.23
+6,2021-10-03,519203,676596,,ball,13,Anthony Rizzo singles on a sharp line drive to right fielder Randy Arozarena.   Tyler Wade to 3rd.    Anthony Rizzo to 2nd.,0,1,1,2,9,-1.13,2.23
+7,2021-10-03,519203,608379,hit_by_pitch,hit_by_pitch,12,Anthony Rizzo hit by pitch.,0,1,1,2,1,1.24,3.45
 8,2021-10-03,519203,608379,,foul_tip,3,Anthony Rizzo hit by pitch.,0,0,1,1,1,0.44,3.05
 9,2021-10-03,519203,676596,,called_strike,9,Anthony Rizzo singles on a sharp line drive to right fielder Randy Arozarena.   Tyler Wade to 3rd.    Anthony Rizzo to 2nd.,0,0,1,1,9,0.42,2.31
 10,2021-10-02,519203,669358,walk,ball,11,Anthony Rizzo walks.,3,0,2,4,3,-0.19,3.88
@@ -69,16 +69,16 @@
 67,2021-09-29,519203,643256,,foul,1,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,1,2,0,9,8,-0.41,3.47
 68,2021-09-29,519203,621244,strikeout,swinging_strike,7,Anthony Rizzo strikes out swinging.,2,2,1,7,1,-0.55,1.62
 69,2021-09-29,519203,643256,,foul,4,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,1,2,0,8,8,-0.43,2.8
-70,2021-09-29,519203,643256,,foul,13,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,1,2,0,7,8,-1.35,2.04
-71,2021-09-29,519203,621244,,foul,11,Anthony Rizzo strikes out swinging.,2,2,1,6,1,-0.9,3.9
-72,2021-09-29,519203,643256,,ball,11,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,2,0,6,8,-0.2,4.35
-73,2021-09-29,519203,621244,,foul,1,Anthony Rizzo strikes out swinging.,2,2,1,5,1,-0.63,3.36
+70,2021-09-29,519203,621244,,foul,11,Anthony Rizzo strikes out swinging.,2,2,1,6,1,-0.9,3.9
+71,2021-09-29,519203,643256,,foul,13,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,1,2,0,7,8,-1.35,2.04
+72,2021-09-29,519203,621244,,foul,1,Anthony Rizzo strikes out swinging.,2,2,1,5,1,-0.63,3.36
+73,2021-09-29,519203,643256,,ball,11,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,2,0,6,8,-0.2,4.35
 74,2021-09-29,519203,643256,,foul,5,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,2,0,5,8,-0.14,2.61
 75,2021-09-29,519203,621244,,foul,7,Anthony Rizzo strikes out swinging.,2,1,1,4,1,-0.63,2.0
-76,2021-09-29,519203,621244,,ball,13,Anthony Rizzo strikes out swinging.,1,1,1,3,1,-0.6,1.17
-77,2021-09-29,519203,643256,,foul,1,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,2,0,4,8,-0.62,3.47
-78,2021-09-29,519203,621244,,called_strike,11,Anthony Rizzo strikes out swinging.,1,0,1,2,1,-1.09,2.83
-79,2021-09-29,519203,643256,,foul,11,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,2,0,3,8,-0.91,2.83
+76,2021-09-29,519203,643256,,foul,1,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,2,0,4,8,-0.62,3.47
+77,2021-09-29,519203,621244,,ball,13,Anthony Rizzo strikes out swinging.,1,1,1,3,1,-0.6,1.17
+78,2021-09-29,519203,643256,,foul,11,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,2,0,3,8,-0.91,2.83
+79,2021-09-29,519203,621244,,called_strike,11,Anthony Rizzo strikes out swinging.,1,0,1,2,1,-1.09,2.83
 80,2021-09-29,519203,621244,,ball,13,Anthony Rizzo strikes out swinging.,0,0,1,1,1,-1.41,1.69
 81,2021-09-29,519203,643256,,swinging_strike,13,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,1,0,2,8,-1.55,2.46
 82,2021-09-29,519203,643256,,called_strike,4,Anthony Rizzo flies out to right fielder Teoscar Hernandez.,0,0,0,1,8,-0.58,2.3
@@ -96,8 +96,8 @@
 94,2021-09-28,519203,670950,,swinging_strike,13,Anthony Rizzo lines out to right fielder Teoscar Hernandez.,1,1,1,3,7,-0.14,1.03
 95,2021-09-28,519203,621593,field_out,hit_into_play,2,Anthony Rizzo pops out to third baseman Santiago Espinal.,0,1,1,2,9,-0.08,3.48
 96,2021-09-28,519203,670950,,called_strike,11,Anthony Rizzo lines out to right fielder Teoscar Hernandez.,1,0,1,2,7,-0.86,3.02
-97,2021-09-28,519203,621593,,called_strike,4,Anthony Rizzo pops out to third baseman Santiago Espinal.,0,0,1,1,9,-0.75,2.84
-98,2021-09-28,519203,670950,,ball,13,Anthony Rizzo lines out to right fielder Teoscar Hernandez.,0,0,1,1,7,-1.78,2.08
+97,2021-09-28,519203,670950,,ball,13,Anthony Rizzo lines out to right fielder Teoscar Hernandez.,0,0,1,1,7,-1.78,2.08
+98,2021-09-28,519203,621593,,called_strike,4,Anthony Rizzo pops out to third baseman Santiago Espinal.,0,0,1,1,9,-0.75,2.84
 99,2021-09-28,519203,547943,single,hit_into_play,7,Anthony Rizzo singles on a ground ball to center fielder George Springer.,2,2,1,5,1,-0.33,1.74
 100,2021-09-28,519203,547943,,foul,8,Anthony Rizzo singles on a ground ball to center fielder George Springer.,2,1,1,4,1,0.0,1.55
 101,2021-09-28,519203,547943,,foul,5,Anthony Rizzo singles on a ground ball to center fielder George Springer.,2,0,1,3,1,0.12,2.42
@@ -129,10 +129,10 @@
 127,2021-09-25,519203,570663,,foul,12,Anthony Rizzo pops out to shortstop Xander Bogaerts.,1,2,2,4,6,0.01,3.65
 128,2021-09-25,519203,650382,hit_by_pitch,hit_by_pitch,14,Anthony Rizzo hit by pitch.    Brett Gardner to 3rd.    Aaron Judge to 2nd.,3,1,2,5,8,1.43,2.13
 129,2021-09-25,519203,570663,,foul,7,Anthony Rizzo pops out to shortstop Xander Bogaerts.,1,1,2,3,6,-0.47,2.18
-130,2021-09-25,519203,570663,,ball,11,Anthony Rizzo pops out to shortstop Xander Bogaerts.,0,1,2,2,6,-1.35,3.45
-131,2021-09-25,519203,650382,,ball,13,Anthony Rizzo hit by pitch.    Brett Gardner to 3rd.    Aaron Judge to 2nd.,2,1,2,4,8,-1.93,2.14
-132,2021-09-25,519203,650382,,swinging_strike,12,Anthony Rizzo hit by pitch.    Brett Gardner to 3rd.    Aaron Judge to 2nd.,2,0,2,3,8,0.39,3.68
-133,2021-09-25,519203,570663,,called_strike,1,Anthony Rizzo pops out to shortstop Xander Bogaerts.,0,0,2,1,6,-0.36,3.55
+130,2021-09-25,519203,650382,,ball,13,Anthony Rizzo hit by pitch.    Brett Gardner to 3rd.    Aaron Judge to 2nd.,2,1,2,4,8,-1.93,2.14
+131,2021-09-25,519203,570663,,ball,11,Anthony Rizzo pops out to shortstop Xander Bogaerts.,0,1,2,2,6,-1.35,3.45
+132,2021-09-25,519203,570663,,called_strike,1,Anthony Rizzo pops out to shortstop Xander Bogaerts.,0,0,2,1,6,-0.36,3.55
+133,2021-09-25,519203,650382,,swinging_strike,12,Anthony Rizzo hit by pitch.    Brett Gardner to 3rd.    Aaron Judge to 2nd.,2,0,2,3,8,0.39,3.68
 134,2021-09-25,519203,650382,,ball,13,Anthony Rizzo hit by pitch.    Brett Gardner to 3rd.    Aaron Judge to 2nd.,1,0,2,2,8,-0.38,1.17
 135,2021-09-25,519203,650382,,ball,13,Anthony Rizzo hit by pitch.    Brett Gardner to 3rd.    Aaron Judge to 2nd.,0,0,2,1,8,-1.76,2.48
 136,2021-09-24,519203,543135,double,hit_into_play,11,Anthony Rizzo doubles (22) on a fly ball to left fielder Alex Verdugo.,0,2,0,3,3,-0.84,3.59
@@ -290,14 +290,14 @@
 288,2021-09-12,519203,471911,,foul,9,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,3,2,0,6,1,0.35,1.98
 289,2021-09-12,519203,471911,,ball,11,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,2,2,0,5,1,-1.8,3.68
 290,2021-09-12,519203,621242,walk,ball,12,Anthony Rizzo walks.   Tyler Wade to 2nd.,3,0,1,4,9,0.27,4.01
-291,2021-09-12,519203,471911,,foul,8,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,2,1,0,4,1,0.12,1.96
-292,2021-09-12,519203,621242,,ball,11,Anthony Rizzo walks.   Tyler Wade to 2nd.,2,0,1,3,9,-1.94,4.24
-293,2021-09-12,519203,621242,,ball,11,Anthony Rizzo walks.   Tyler Wade to 2nd.,1,0,1,2,9,-1.77,2.93
-294,2021-09-12,519203,471911,,called_strike,4,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,2,0,0,3,1,-0.29,2.28
+291,2021-09-12,519203,621242,,ball,11,Anthony Rizzo walks.   Tyler Wade to 2nd.,2,0,1,3,9,-1.94,4.24
+292,2021-09-12,519203,471911,,foul,8,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,2,1,0,4,1,0.12,1.96
+293,2021-09-12,519203,471911,,called_strike,4,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,2,0,0,3,1,-0.29,2.28
+294,2021-09-12,519203,621242,,ball,11,Anthony Rizzo walks.   Tyler Wade to 2nd.,1,0,1,2,9,-1.77,2.93
 295,2021-09-12,519203,621242,,ball,14,Anthony Rizzo walks.   Tyler Wade to 2nd.,0,0,1,1,9,1.77,1.31
 296,2021-09-12,519203,471911,,ball,13,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,1,0,0,2,1,-0.39,1.19
-297,2021-09-12,519203,471911,,ball,11,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,0,0,0,1,1,-1.61,3.33
-298,2021-09-12,519203,543272,field_out,hit_into_play,7,"Anthony Rizzo grounds out, second baseman Javier Baez to first baseman Pete Alonso.   DJ LeMahieu to 2nd.",2,2,0,8,7,-0.5,1.79
+297,2021-09-12,519203,543272,field_out,hit_into_play,7,"Anthony Rizzo grounds out, second baseman Javier Baez to first baseman Pete Alonso.   DJ LeMahieu to 2nd.",2,2,0,8,7,-0.5,1.79
+298,2021-09-12,519203,471911,,ball,11,Anthony Rizzo walks.   DJ LeMahieu to 2nd.,0,0,0,1,1,-1.61,3.33
 299,2021-09-12,519203,543272,,ball,12,"Anthony Rizzo grounds out, second baseman Javier Baez to first baseman Pete Alonso.   DJ LeMahieu to 2nd.",1,2,0,7,7,0.13,4.0
 300,2021-09-12,519203,543272,,foul,13,"Anthony Rizzo grounds out, second baseman Javier Baez to first baseman Pete Alonso.   DJ LeMahieu to 2nd.",1,2,0,6,7,-1.53,1.89
 301,2021-09-12,519203,543272,,foul,4,"Anthony Rizzo grounds out, second baseman Javier Baez to first baseman Pete Alonso.   DJ LeMahieu to 2nd.",1,2,0,5,7,-0.59,2.73
@@ -341,14 +341,14 @@
 339,2021-09-09,519203,621244,field_out,hit_into_play,5,"Anthony Rizzo grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",0,1,2,2,3,0.13,2.47
 340,2021-09-09,519203,621244,,called_strike,2,"Anthony Rizzo grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero.",0,0,2,1,3,0.09,3.2
 341,2021-09-09,519203,641835,force_out,hit_into_play,13,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",1,2,0,5,8,-0.38,1.24
-342,2021-09-09,519203,621244,field_out,hit_into_play,4,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,3,1,1,5,1,-0.31,2.51
-343,2021-09-09,519203,641835,,foul,9,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",1,2,0,4,8,0.41,1.88
+342,2021-09-09,519203,641835,,foul,9,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",1,2,0,4,8,0.41,1.88
+343,2021-09-09,519203,621244,field_out,hit_into_play,4,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,3,1,1,5,1,-0.31,2.51
 344,2021-09-09,519203,641835,,ball,14,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",0,2,0,3,8,1.6,1.93
 345,2021-09-09,519203,621244,,ball,11,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,2,1,1,4,1,-1.79,3.35
-346,2021-09-09,519203,621244,,ball,11,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,1,1,1,3,1,-1.23,2.83
-347,2021-09-09,519203,641835,,foul,7,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",0,1,0,2,8,-0.74,1.66
-348,2021-09-09,519203,621244,,ball,12,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,0,1,1,2,1,1.61,2.69
-349,2021-09-09,519203,641835,,foul,12,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",0,0,0,1,8,1.1,3.05
+346,2021-09-09,519203,641835,,foul,7,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",0,1,0,2,8,-0.74,1.66
+347,2021-09-09,519203,621244,,ball,11,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,1,1,1,3,1,-1.23,2.83
+348,2021-09-09,519203,641835,,foul,12,"Anthony Rizzo grounds into a force out, first baseman Vladimir Guerrero to shortstop Bo Bichette.   DJ LeMahieu to 3rd.    Aaron Judge out at 2nd.    Anthony Rizzo to 1st.",0,0,0,1,8,1.1,3.05
+349,2021-09-09,519203,621244,,ball,12,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,0,1,1,2,1,1.61,2.69
 350,2021-09-09,519203,621244,,called_strike,7,Anthony Rizzo pops out to third baseman Kevin Smith in foul territory.,0,0,1,1,1,-0.59,1.91
 351,2021-09-08,519203,666201,field_out,hit_into_play,4,Anthony Rizzo flies out to left fielder Lourdes Gurriel.,0,1,0,2,6,-0.61,2.82
 352,2021-09-08,519203,666201,,called_strike,11,Anthony Rizzo flies out to left fielder Lourdes Gurriel.,0,0,0,1,6,-1.05,3.02
@@ -393,8 +393,8 @@
 391,2021-09-06,519203,547943,,ball,2,Anthony Rizzo singles on a ground ball to left fielder Lourdes Gurriel.,0,0,0,1,5,-0.08,3.56
 392,2021-09-06,519203,670950,single,hit_into_play,11,Anthony Rizzo singles on a bunt ground ball to shortstop Bo Bichette.,2,0,2,3,7,-0.72,3.67
 393,2021-09-06,519203,670950,,ball,13,Anthony Rizzo singles on a bunt ground ball to shortstop Bo Bichette.,1,0,2,2,7,-0.24,1.17
-394,2021-09-06,519203,670950,,ball,11,Anthony Rizzo singles on a bunt ground ball to shortstop Bo Bichette.,0,0,2,1,7,-1.57,3.91
-395,2021-09-06,519203,547943,field_out,hit_into_play,5,Anthony Rizzo lines out to right fielder Teoscar Hernandez.,0,0,1,1,2,0.15,2.54
+394,2021-09-06,519203,547943,field_out,hit_into_play,5,Anthony Rizzo lines out to right fielder Teoscar Hernandez.,0,0,1,1,2,0.15,2.54
+395,2021-09-06,519203,670950,,ball,11,Anthony Rizzo singles on a bunt ground ball to shortstop Bo Bichette.,0,0,2,1,7,-1.57,3.91
 396,2021-09-05,519203,669211,field_out,hit_into_play,13,"Anthony Rizzo grounds out, second baseman Jorge Mateo to first baseman Trey Mancini.",1,2,1,5,3,-0.85,1.59
 397,2021-09-05,519203,669211,,foul,13,"Anthony Rizzo grounds out, second baseman Jorge Mateo to first baseman Trey Mancini.",1,2,1,4,3,-0.4,1.45
 398,2021-09-05,519203,669211,,ball,13,"Anthony Rizzo grounds out, second baseman Jorge Mateo to first baseman Trey Mancini.",0,2,1,3,3,-1.51,1.4
@@ -411,10 +411,10 @@
 409,2021-09-05,519203,656945,walk,ball,11,Anthony Rizzo walks.   Giancarlo Stanton to 2nd.,3,0,1,4,7,-0.14,3.9
 410,2021-09-05,519203,656945,,blocked_ball,13,Anthony Rizzo walks.   Giancarlo Stanton to 2nd.,2,0,1,3,7,-0.22,0.84
 411,2021-09-05,519203,472551,single,hit_into_play,13,Anthony Rizzo singles on a fly ball to right fielder Anthony Santander.   DJ LeMahieu scores.    Joey Gallo to 3rd.,0,2,2,3,5,-0.97,1.11
-412,2021-09-05,519203,472551,,called_strike,7,Anthony Rizzo singles on a fly ball to right fielder Anthony Santander.   DJ LeMahieu scores.    Joey Gallo to 3rd.,0,1,2,2,5,-0.72,1.75
-413,2021-09-05,519203,656945,,ball,11,Anthony Rizzo walks.   Giancarlo Stanton to 2nd.,1,0,1,2,7,-0.85,3.99
-414,2021-09-05,519203,472551,,called_strike,4,Anthony Rizzo singles on a fly ball to right fielder Anthony Santander.   DJ LeMahieu scores.    Joey Gallo to 3rd.,0,0,2,1,5,-0.73,2.54
-415,2021-09-05,519203,656945,,ball,11,Anthony Rizzo walks.   Giancarlo Stanton to 2nd.,0,0,1,1,7,-1.05,2.85
+412,2021-09-05,519203,656945,,ball,11,Anthony Rizzo walks.   Giancarlo Stanton to 2nd.,1,0,1,2,7,-0.85,3.99
+413,2021-09-05,519203,472551,,called_strike,7,Anthony Rizzo singles on a fly ball to right fielder Anthony Santander.   DJ LeMahieu scores.    Joey Gallo to 3rd.,0,1,2,2,5,-0.72,1.75
+414,2021-09-05,519203,656945,,ball,11,Anthony Rizzo walks.   Giancarlo Stanton to 2nd.,0,0,1,1,7,-1.05,2.85
+415,2021-09-05,519203,472551,,called_strike,4,Anthony Rizzo singles on a fly ball to right fielder Anthony Santander.   DJ LeMahieu scores.    Joey Gallo to 3rd.,0,0,2,1,5,-0.73,2.54
 416,2021-09-04,519203,595939,field_out,hit_into_play,7,"Anthony Rizzo grounds out, second baseman Jahmai Jones to first baseman Ryan Mountcastle.",1,1,2,3,4,-0.78,1.96
 417,2021-09-04,519203,595939,,called_strike,6,"Anthony Rizzo grounds out, second baseman Jahmai Jones to first baseman Ryan Mountcastle.",1,0,2,2,4,0.47,2.79
 418,2021-09-04,519203,595939,,ball,13,"Anthony Rizzo grounds out, second baseman Jahmai Jones to first baseman Ryan Mountcastle.",0,0,2,1,4,-1.22,2.06
@@ -437,14 +437,14 @@
 435,2021-09-03,519203,669330,strikeout,swinging_strike,1,Anthony Rizzo strikes out swinging.,3,2,2,7,8,-0.47,3.1
 436,2021-09-03,519203,669330,,foul,6,Anthony Rizzo strikes out swinging.,3,2,2,6,8,0.52,2.81
 437,2021-09-03,519203,669330,,foul,5,Anthony Rizzo strikes out swinging.,3,1,2,5,8,-0.09,2.67
-438,2021-09-03,519203,669330,,ball,11,Anthony Rizzo strikes out swinging.,2,1,2,4,8,-0.72,3.92
-439,2021-09-03,519203,641632,walk,blocked_ball,14,Anthony Rizzo walks.,3,2,1,6,6,0.54,0.45
-440,2021-09-03,519203,669330,,foul,8,Anthony Rizzo strikes out swinging.,2,0,2,3,8,-0.2,1.87
-441,2021-09-03,519203,641632,,foul,13,Anthony Rizzo walks.,3,1,1,5,6,-0.92,2.02
+438,2021-09-03,519203,641632,walk,blocked_ball,14,Anthony Rizzo walks.,3,2,1,6,6,0.54,0.45
+439,2021-09-03,519203,669330,,ball,11,Anthony Rizzo strikes out swinging.,2,1,2,4,8,-0.72,3.92
+440,2021-09-03,519203,641632,,foul,13,Anthony Rizzo walks.,3,1,1,5,6,-0.92,2.02
+441,2021-09-03,519203,669330,,foul,8,Anthony Rizzo strikes out swinging.,2,0,2,3,8,-0.2,1.87
 442,2021-09-03,519203,669330,,ball,13,Anthony Rizzo strikes out swinging.,1,0,2,2,8,-1.01,1.89
 443,2021-09-03,519203,641632,,called_strike,5,Anthony Rizzo walks.,3,0,1,4,6,-0.17,2.73
-444,2021-09-03,519203,669330,,ball,13,Anthony Rizzo strikes out swinging.,0,0,2,1,8,-0.54,1.56
-445,2021-09-03,519203,641632,,ball,14,Anthony Rizzo walks.,2,0,1,3,6,0.65,1.24
+444,2021-09-03,519203,641632,,ball,14,Anthony Rizzo walks.,2,0,1,3,6,0.65,1.24
+445,2021-09-03,519203,669330,,ball,13,Anthony Rizzo strikes out swinging.,0,0,2,1,8,-0.54,1.56
 446,2021-09-03,519203,641632,,ball,13,Anthony Rizzo walks.,1,0,1,2,6,-1.14,1.87
 447,2021-09-03,519203,641632,,ball,14,Anthony Rizzo walks.,0,0,1,1,6,0.41,1.16
 448,2021-09-01,519203,676050,single,hit_into_play,6,"Anthony Rizzo singles on a line drive to second baseman David Fletcher, deflected by first baseman Jared Walsh.   DJ LeMahieu to 3rd.",0,1,2,2,3,0.41,2.38
@@ -456,8 +456,8 @@
 454,2021-09-01,519203,518553,,called_strike,4,"Anthony Rizzo strikes out on a foul tip and DJ LeMahieu caught stealing 2nd, catcher Max Stassi to third baseman Phil Gosselin to catcher Max Stassi.",1,0,1,2,7,-0.46,2.7
 455,2021-09-01,519203,518553,,ball,13,"Anthony Rizzo strikes out on a foul tip and DJ LeMahieu caught stealing 2nd, catcher Max Stassi to third baseman Phil Gosselin to catcher Max Stassi.",0,0,1,1,7,-2.21,2.01
 456,2021-09-01,519203,681806,field_out,hit_into_play,4,Anthony Rizzo flies out to left fielder Justin Upton.,2,2,0,5,5,-0.79,2.32
-457,2021-09-01,519203,681806,,ball,13,Anthony Rizzo flies out to left fielder Justin Upton.,1,2,0,4,5,-1.15,1.42
-458,2021-09-01,519203,676050,grounded_into_double_play,hit_into_play,2,"Anthony Rizzo grounds into a double play, second baseman David Fletcher to shortstop Jack Mayfield to first baseman Jared Walsh.   DJ LeMahieu out at 2nd.    Anthony Rizzo out at 1st.",0,0,0,1,1,0.01,3.04
+457,2021-09-01,519203,676050,grounded_into_double_play,hit_into_play,2,"Anthony Rizzo grounds into a double play, second baseman David Fletcher to shortstop Jack Mayfield to first baseman Jared Walsh.   DJ LeMahieu out at 2nd.    Anthony Rizzo out at 1st.",0,0,0,1,1,0.01,3.04
+458,2021-09-01,519203,681806,,ball,13,Anthony Rizzo flies out to left fielder Justin Upton.,1,2,0,4,5,-1.15,1.42
 459,2021-09-01,519203,681806,,swinging_strike,13,Anthony Rizzo flies out to left fielder Justin Upton.,1,1,0,3,5,-0.53,0.73
 460,2021-09-01,519203,681806,,ball,13,Anthony Rizzo flies out to left fielder Justin Upton.,0,1,0,2,5,-1.76,2.13
 461,2021-09-01,519203,681806,,swinging_strike,8,Anthony Rizzo flies out to left fielder Justin Upton.,0,0,0,1,5,0.26,1.87
@@ -470,16 +470,16 @@
 468,2021-08-31,519203,665625,,ball,11,Anthony Rizzo doubles (19) on a line drive to right fielder Juan Lagares.   DJ LeMahieu to 3rd.,0,0,0,1,8,-1.13,3.15
 469,2021-08-31,519203,642545,field_out,hit_into_play,5,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",3,2,0,7,1,-0.1,2.28
 470,2021-08-31,519203,642545,,ball,11,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",2,2,0,6,1,-0.88,3.92
-471,2021-08-31,519203,623474,strikeout,swinging_strike,11,Anthony Rizzo strikes out swinging.,2,2,2,5,5,-1.07,2.94
-472,2021-08-31,519203,642545,,foul,1,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",2,2,0,5,1,-0.39,3.06
+471,2021-08-31,519203,642545,,foul,1,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",2,2,0,5,1,-0.39,3.06
+472,2021-08-31,519203,623474,strikeout,swinging_strike,11,Anthony Rizzo strikes out swinging.,2,2,2,5,5,-1.07,2.94
 473,2021-08-31,519203,642545,,ball,14,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",1,2,0,4,1,1.9,1.72
 474,2021-08-31,519203,623474,,foul,11,Anthony Rizzo strikes out swinging.,2,1,2,4,5,-1.14,2.95
-475,2021-08-31,519203,623474,,ball,13,Anthony Rizzo strikes out swinging.,1,1,2,3,5,-1.53,2.18
-476,2021-08-31,519203,642545,,ball,11,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",0,2,0,3,1,-0.67,4.94
+475,2021-08-31,519203,642545,,ball,11,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",0,2,0,3,1,-0.67,4.94
+476,2021-08-31,519203,623474,,ball,13,Anthony Rizzo strikes out swinging.,1,1,2,3,5,-1.53,2.18
 477,2021-08-31,519203,623474,,called_strike,4,Anthony Rizzo strikes out swinging.,1,0,2,2,5,-0.4,2.53
 478,2021-08-31,519203,642545,,foul,8,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",0,1,0,2,1,0.02,1.92
-479,2021-08-31,519203,623474,,ball,11,Anthony Rizzo strikes out swinging.,0,0,2,1,5,-1.95,3.58
-480,2021-08-31,519203,642545,,called_strike,1,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",0,0,0,1,1,-0.39,3.43
+479,2021-08-31,519203,642545,,called_strike,1,"Anthony Rizzo grounds out, second baseman David Fletcher to first baseman Jared Walsh.   DJ LeMahieu to 2nd.",0,0,0,1,1,-0.39,3.43
+480,2021-08-31,519203,623474,,ball,11,Anthony Rizzo strikes out swinging.,0,0,2,1,5,-1.95,3.58
 481,2021-08-30,519203,650671,single,hit_into_play,11,"Anthony Rizzo singles on a line drive to center fielder Brandon Marsh.   DJ LeMahieu to 3rd.    Anthony Rizzo to 2nd.  DJ LeMahieu advances to 3rd, on a fielding error by center fielder Brandon Marsh.",2,2,2,6,5,-1.05,3.04
 482,2021-08-30,519203,650671,,foul,11,"Anthony Rizzo singles on a line drive to center fielder Brandon Marsh.   DJ LeMahieu to 3rd.    Anthony Rizzo to 2nd.  DJ LeMahieu advances to 3rd, on a fielding error by center fielder Brandon Marsh.",2,2,2,5,5,-1.17,2.99
 483,2021-08-30,519203,650671,,foul,2,"Anthony Rizzo singles on a line drive to center fielder Brandon Marsh.   DJ LeMahieu to 3rd.    Anthony Rizzo to 2nd.  DJ LeMahieu advances to 3rd, on a fielding error by center fielder Brandon Marsh.",2,1,2,4,5,-0.26,3.43
@@ -491,14 +491,14 @@
 489,2021-08-30,519203,572125,,called_strike,13,Anthony Rizzo called out on strikes.,0,0,2,1,3,-0.94,2.45
 490,2021-08-30,519203,448855,walk,blocked_ball,14,Anthony Rizzo walks.,3,2,0,7,7,0.01,-0.01
 491,2021-08-30,519203,448855,,foul,9,Anthony Rizzo walks.,3,2,0,6,7,0.41,2.04
-492,2021-08-30,519203,594577,double,hit_into_play,11,Anthony Rizzo doubles (18) on a line drive to left fielder Jo Adell.   DJ LeMahieu scores.,0,2,0,3,1,-1.45,3.44
+492,2021-08-30,519203,628452,field_out,hit_into_play,13,"Anthony Rizzo grounds out, first baseman Jared Walsh to pitcher Raisel Iglesias.",0,1,1,2,9,-0.04,1.41
 493,2021-08-30,519203,448855,,called_strike,6,Anthony Rizzo walks.,3,1,0,5,7,0.37,2.47
-494,2021-08-30,519203,628452,field_out,hit_into_play,13,"Anthony Rizzo grounds out, first baseman Jared Walsh to pitcher Raisel Iglesias.",0,1,1,2,9,-0.04,1.41
-495,2021-08-30,519203,594577,,foul,4,Anthony Rizzo doubles (18) on a line drive to left fielder Jo Adell.   DJ LeMahieu scores.,0,1,0,2,1,-0.46,2.85
-496,2021-08-30,519203,448855,,ball,11,Anthony Rizzo walks.,2,1,0,4,7,-1.53,3.1
-497,2021-08-30,519203,628452,,called_strike,3,"Anthony Rizzo grounds out, first baseman Jared Walsh to pitcher Raisel Iglesias.",0,0,1,1,9,0.4,3.06
-498,2021-08-30,519203,594577,,foul,8,Anthony Rizzo doubles (18) on a line drive to left fielder Jo Adell.   DJ LeMahieu scores.,0,0,0,1,1,-0.24,1.86
-499,2021-08-30,519203,448855,,ball,13,Anthony Rizzo walks.,1,1,0,3,7,-0.83,0.58
+494,2021-08-30,519203,594577,double,hit_into_play,11,Anthony Rizzo doubles (18) on a line drive to left fielder Jo Adell.   DJ LeMahieu scores.,0,2,0,3,1,-1.45,3.44
+495,2021-08-30,519203,448855,,ball,11,Anthony Rizzo walks.,2,1,0,4,7,-1.53,3.1
+496,2021-08-30,519203,628452,,called_strike,3,"Anthony Rizzo grounds out, first baseman Jared Walsh to pitcher Raisel Iglesias.",0,0,1,1,9,0.4,3.06
+497,2021-08-30,519203,594577,,foul,4,Anthony Rizzo doubles (18) on a line drive to left fielder Jo Adell.   DJ LeMahieu scores.,0,1,0,2,1,-0.46,2.85
+498,2021-08-30,519203,448855,,ball,13,Anthony Rizzo walks.,1,1,0,3,7,-0.83,0.58
+499,2021-08-30,519203,594577,,foul,8,Anthony Rizzo doubles (18) on a line drive to left fielder Jo Adell.   DJ LeMahieu scores.,0,0,0,1,1,-0.24,1.86
 500,2021-08-30,519203,448855,,ball,13,Anthony Rizzo walks.,0,1,0,2,7,-1.36,2.4
 501,2021-08-30,519203,448855,,called_strike,11,Anthony Rizzo walks.,0,0,0,1,7,-0.95,2.88
 502,2021-08-29,519203,518617,field_error,hit_into_play,5,Anthony Rizzo reaches on a fielding error by third baseman Matt Chapman.   Gary Sanchez scores.    Anthony Rizzo to 2nd.,3,2,2,9,7,-0.07,2.73
@@ -522,8 +522,8 @@
 520,2021-08-28,519203,593423,,called_strike,6,Anthony Rizzo pops out to third baseman Matt Chapman in foul territory.,1,0,0,2,4,0.67,2.65
 521,2021-08-28,519203,593423,,ball,12,Anthony Rizzo pops out to third baseman Matt Chapman in foul territory.,0,0,0,1,4,1.14,2.58
 522,2021-08-28,519203,593423,field_out,hit_into_play,2,Anthony Rizzo flies out to left fielder Mark Canha.,1,2,1,4,1,0.18,3.33
-523,2021-08-28,519203,593423,,ball,11,Anthony Rizzo flies out to left fielder Mark Canha.,0,2,1,3,1,-0.45,3.66
-524,2021-08-28,519203,489265,single,hit_into_play,13,Anthony Rizzo singles on a fly ball to left fielder Mark Canha.,1,1,1,3,9,-0.99,1.37
+523,2021-08-28,519203,489265,single,hit_into_play,13,Anthony Rizzo singles on a fly ball to left fielder Mark Canha.,1,1,1,3,9,-0.99,1.37
+524,2021-08-28,519203,593423,,ball,11,Anthony Rizzo flies out to left fielder Mark Canha.,0,2,1,3,1,-0.45,3.66
 525,2021-08-28,519203,489265,,called_strike,7,Anthony Rizzo singles on a fly ball to left fielder Mark Canha.,1,0,1,2,9,-0.58,2.18
 526,2021-08-28,519203,593423,,swinging_strike,5,Anthony Rizzo flies out to left fielder Mark Canha.,0,1,1,2,1,-0.19,2.79
 527,2021-08-28,519203,489265,,ball,13,Anthony Rizzo singles on a fly ball to left fielder Mark Canha.,0,0,1,1,9,-0.31,0.58
@@ -544,8 +544,8 @@
 542,2021-08-27,519203,640462,single,hit_into_play,5,Anthony Rizzo singles on a line drive to center fielder Starling Marte.,2,1,1,4,7,0.01,2.47
 543,2021-08-27,519203,640462,,called_strike,4,Anthony Rizzo singles on a line drive to center fielder Starling Marte.,2,0,1,3,7,-0.47,2.25
 544,2021-08-27,519203,640455,,swinging_strike,13,"Anthony Rizzo grounds out, second baseman Josh Harrison to first baseman Matt Olson.",3,1,1,5,1,-0.98,1.55
-545,2021-08-27,519203,640462,,ball,1,Anthony Rizzo singles on a line drive to center fielder Starling Marte.,1,0,1,2,7,-0.76,3.38
-546,2021-08-27,519203,640455,,ball,11,"Anthony Rizzo grounds out, second baseman Josh Harrison to first baseman Matt Olson.",2,1,1,4,1,-1.24,3.13
+545,2021-08-27,519203,640455,,ball,11,"Anthony Rizzo grounds out, second baseman Josh Harrison to first baseman Matt Olson.",2,1,1,4,1,-1.24,3.13
+546,2021-08-27,519203,640462,,ball,1,Anthony Rizzo singles on a line drive to center fielder Starling Marte.,1,0,1,2,7,-0.76,3.38
 547,2021-08-27,519203,640462,,ball,13,Anthony Rizzo singles on a line drive to center fielder Starling Marte.,0,0,1,1,7,-1.1,1.83
 548,2021-08-27,519203,640455,,ball,12,"Anthony Rizzo grounds out, second baseman Josh Harrison to first baseman Matt Olson.",1,1,1,3,1,0.76,4.18
 549,2021-08-27,519203,640455,,ball,12,"Anthony Rizzo grounds out, second baseman Josh Harrison to first baseman Matt Olson.",0,1,1,2,1,1.77,3.03
@@ -559,11 +559,11 @@
 557,2021-08-26,519203,605177,,foul,8,Anthony Rizzo pops out to third baseman Matt Chapman.,1,1,2,3,7,-0.04,1.58
 558,2021-08-26,519203,605177,,ball,11,Anthony Rizzo pops out to third baseman Matt Chapman.,0,1,2,2,7,-0.55,4.23
 559,2021-08-26,519203,642152,walk,ball,11,Anthony Rizzo walks.,3,0,2,4,9,-1.09,2.93
-560,2021-08-26,519203,642152,,ball,14,Anthony Rizzo walks.,2,0,2,3,9,0.61,1.32
-561,2021-08-26,519203,605177,,called_strike,3,Anthony Rizzo pops out to third baseman Matt Chapman.,0,0,2,1,7,0.46,2.98
+560,2021-08-26,519203,605177,,called_strike,3,Anthony Rizzo pops out to third baseman Matt Chapman.,0,0,2,1,7,0.46,2.98
+561,2021-08-26,519203,642152,,ball,14,Anthony Rizzo walks.,2,0,2,3,9,0.61,1.32
 562,2021-08-26,519203,642152,,ball,13,Anthony Rizzo walks.,1,0,2,2,9,-1.48,1.61
-563,2021-08-26,519203,621076,strikeout,swinging_strike,1,Anthony Rizzo strikes out swinging.,1,2,1,4,1,-0.37,3.55
-564,2021-08-26,519203,642152,,ball,11,Anthony Rizzo walks.,0,0,2,1,9,-1.53,2.97
+563,2021-08-26,519203,642152,,ball,11,Anthony Rizzo walks.,0,0,2,1,9,-1.53,2.97
+564,2021-08-26,519203,621076,strikeout,swinging_strike,1,Anthony Rizzo strikes out swinging.,1,2,1,4,1,-0.37,3.55
 565,2021-08-26,519203,621076,,foul,13,Anthony Rizzo strikes out swinging.,1,1,1,3,1,-1.07,1.25
 566,2021-08-26,519203,621076,,called_strike,8,Anthony Rizzo strikes out swinging.,1,0,1,2,1,-0.23,1.7
 567,2021-08-26,519203,621076,,ball,13,Anthony Rizzo strikes out swinging.,0,0,1,1,1,-1.24,1.63
@@ -629,8 +629,8 @@
 627,2021-08-19,519203,607231,,foul,9,Anthony Rizzo out on a sacrifice fly to center fielder Nick Gordon.   Luke Voit scores.,2,1,0,4,3,0.44,2.02
 628,2021-08-19,519203,607231,,ball,13,Anthony Rizzo out on a sacrifice fly to center fielder Nick Gordon.   Luke Voit scores.,1,1,0,3,3,-0.51,0.3
 629,2021-08-19,519203,607231,,foul,9,Anthony Rizzo out on a sacrifice fly to center fielder Nick Gordon.   Luke Voit scores.,1,0,0,2,3,0.46,1.84
-630,2021-08-19,519203,452027,field_out,hit_into_play,7,"Anthony Rizzo grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",3,2,2,6,7,-0.45,1.87
-631,2021-08-19,519203,607231,,ball,13,Anthony Rizzo out on a sacrifice fly to center fielder Nick Gordon.   Luke Voit scores.,0,0,0,1,3,-1.28,2.21
+630,2021-08-19,519203,607231,,ball,13,Anthony Rizzo out on a sacrifice fly to center fielder Nick Gordon.   Luke Voit scores.,0,0,0,1,3,-1.28,2.21
+631,2021-08-19,519203,452027,field_out,hit_into_play,7,"Anthony Rizzo grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",3,2,2,6,7,-0.45,1.87
 632,2021-08-19,519203,452027,,called_strike,14,"Anthony Rizzo grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",3,1,2,5,7,0.38,1.51
 633,2021-08-19,519203,452027,,ball,13,"Anthony Rizzo grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",2,1,2,4,7,-0.62,1.17
 634,2021-08-19,519203,452027,,ball,13,"Anthony Rizzo grounds out sharply, shortstop Andrelton Simmons to first baseman Miguel Sano.",1,1,2,3,7,-0.48,1.15
@@ -654,8 +654,8 @@
 652,2021-08-18,519203,572070,,ball,11,Anthony Rizzo strikes out on a foul tip.,1,0,2,2,4,-1.11,2.82
 653,2021-08-18,519203,572070,,ball,14,Anthony Rizzo strikes out on a foul tip.,0,0,2,1,4,1.0,0.33
 654,2021-08-18,519203,493603,field_out,hit_into_play,4,Anthony Rizzo pops out to shortstop Xander Bogaerts.,1,1,1,3,7,-0.48,2.69
-655,2021-08-18,519203,601713,field_out,hit_into_play,3,Anthony Rizzo lines out to center fielder Hunter Renfroe.,0,1,1,2,1,0.37,3.16
-656,2021-08-18,519203,493603,,ball,11,Anthony Rizzo pops out to shortstop Xander Bogaerts.,0,1,1,2,7,-4.68,4.56
+655,2021-08-18,519203,493603,,ball,11,Anthony Rizzo pops out to shortstop Xander Bogaerts.,0,1,1,2,7,-4.68,4.56
+656,2021-08-18,519203,601713,field_out,hit_into_play,3,Anthony Rizzo lines out to center fielder Hunter Renfroe.,0,1,1,2,1,0.37,3.16
 657,2021-08-18,519203,493603,,called_strike,1,Anthony Rizzo pops out to shortstop Xander Bogaerts.,0,0,1,1,7,-0.65,3.02
 658,2021-08-18,519203,601713,,called_strike,2,Anthony Rizzo lines out to center fielder Hunter Renfroe.,0,0,1,1,1,-0.22,3.24
 659,2021-08-07,519203,623167,strikeout,swinging_strike,1,Anthony Rizzo strikes out swinging.,1,2,1,4,5,-0.45,3.04
@@ -685,8 +685,8 @@
 683,2021-08-06,519203,594835,,ball,13,Anthony Rizzo strikes out swinging.,1,1,1,3,1,-1.03,1.72
 684,2021-08-06,519203,594835,,ball,13,Anthony Rizzo strikes out swinging.,0,1,1,2,1,-1.4,2.24
 685,2021-08-06,519203,657024,field_out,hit_into_play,13,Anthony Rizzo lines out to right fielder Mitch Haniger.,0,2,0,3,10,-0.57,1.39
-686,2021-08-06,519203,657024,,swinging_strike,7,Anthony Rizzo lines out to right fielder Mitch Haniger.,0,1,0,2,10,-0.34,1.85
-687,2021-08-06,519203,594835,,called_strike,4,Anthony Rizzo strikes out swinging.,0,0,1,1,1,-0.59,2.47
+686,2021-08-06,519203,594835,,called_strike,4,Anthony Rizzo strikes out swinging.,0,0,1,1,1,-0.59,2.47
+687,2021-08-06,519203,657024,,swinging_strike,7,Anthony Rizzo lines out to right fielder Mitch Haniger.,0,1,0,2,10,-0.34,1.85
 688,2021-08-06,519203,657024,,swinging_strike,2,Anthony Rizzo lines out to right fielder Mitch Haniger.,0,0,0,1,10,-0.14,3.61
 689,2021-08-05,519203,542881,field_out,hit_into_play,4,"Anthony Rizzo grounds out sharply, second baseman Abraham Toro to first baseman Ty France.",1,1,1,3,5,-0.73,2.65
 690,2021-08-05,519203,542881,,foul,2,"Anthony Rizzo grounds out sharply, second baseman Abraham Toro to first baseman Ty France.",1,0,1,2,5,-0.12,3.56
@@ -706,18 +706,18 @@
 704,2021-08-04,519203,518774,,foul,2,Anthony Rizzo walks.,3,2,1,12,1,-0.06,3.48
 705,2021-08-04,519203,518774,,foul,8,Anthony Rizzo walks.,3,2,1,11,1,-0.26,2.09
 706,2021-08-04,519203,643316,field_out,hit_into_play,5,Anthony Rizzo flies out to left fielder Austin Hays.,2,0,0,3,7,-0.09,2.28
-707,2021-08-04,519203,643316,,ball,13,Anthony Rizzo flies out to left fielder Austin Hays.,1,0,0,2,7,-1.55,1.47
-708,2021-08-04,519203,643400,field_out,hit_into_play,11,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,1,2,0,4,8,-0.83,3.24
-709,2021-08-04,519203,518774,,ball,13,Anthony Rizzo walks.,2,2,1,10,1,-0.69,0.98
-710,2021-08-04,519203,518774,,foul,11,Anthony Rizzo walks.,2,2,1,9,1,-1.2,3.37
+707,2021-08-04,519203,643400,field_out,hit_into_play,11,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,1,2,0,4,8,-0.83,3.24
+708,2021-08-04,519203,518774,,ball,13,Anthony Rizzo walks.,2,2,1,10,1,-0.69,0.98
+709,2021-08-04,519203,643316,,ball,13,Anthony Rizzo flies out to left fielder Austin Hays.,1,0,0,2,7,-1.55,1.47
+710,2021-08-04,519203,643400,,foul,2,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,1,1,0,3,8,-0.11,3.45
 711,2021-08-04,519203,643316,,ball,14,Anthony Rizzo flies out to left fielder Austin Hays.,0,0,0,1,7,0.91,2.13
-712,2021-08-04,519203,643400,,foul,2,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,1,1,0,3,8,-0.11,3.45
-713,2021-08-04,519203,518774,,foul,9,Anthony Rizzo walks.,2,2,1,8,1,0.42,1.96
-714,2021-08-04,519203,491624,field_out,hit_into_play,13,Anthony Rizzo lines out to right fielder DJ Stewart.,0,2,1,3,5,-0.33,0.77
-715,2021-08-04,519203,643400,,swinging_strike,13,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,1,0,0,2,8,-0.91,2.04
-716,2021-08-04,519203,518774,,foul,3,Anthony Rizzo walks.,2,2,1,7,1,0.5,3.33
-717,2021-08-04,519203,491624,,swinging_strike,14,Anthony Rizzo lines out to right fielder DJ Stewart.,0,1,1,2,5,0.17,1.43
-718,2021-08-04,519203,643400,,blocked_ball,14,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,0,0,0,1,8,0.67,0.72
+712,2021-08-04,519203,518774,,foul,11,Anthony Rizzo walks.,2,2,1,9,1,-1.2,3.37
+713,2021-08-04,519203,491624,field_out,hit_into_play,13,Anthony Rizzo lines out to right fielder DJ Stewart.,0,2,1,3,5,-0.33,0.77
+714,2021-08-04,519203,643400,,swinging_strike,13,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,1,0,0,2,8,-0.91,2.04
+715,2021-08-04,519203,518774,,foul,9,Anthony Rizzo walks.,2,2,1,8,1,0.42,1.96
+716,2021-08-04,519203,491624,,swinging_strike,14,Anthony Rizzo lines out to right fielder DJ Stewart.,0,1,1,2,5,0.17,1.43
+717,2021-08-04,519203,643400,,blocked_ball,14,Anthony Rizzo grounds out to first baseman Ryan Mountcastle.   DJ LeMahieu to 3rd.,0,0,0,1,8,0.67,0.72
+718,2021-08-04,519203,518774,,foul,3,Anthony Rizzo walks.,2,2,1,7,1,0.5,3.33
 719,2021-08-04,519203,518774,,foul,13,Anthony Rizzo walks.,2,2,1,6,1,-1.14,1.72
 720,2021-08-04,519203,491624,,foul,4,Anthony Rizzo lines out to right fielder DJ Stewart.,0,0,1,1,5,-0.31,2.43
 721,2021-08-04,519203,518774,,ball,9,Anthony Rizzo walks.,1,2,1,5,1,0.65,1.74
@@ -729,12 +729,12 @@
 727,2021-08-03,519203,649144,,ball,11,Anthony Rizzo singles on a sharp line drive to center fielder Cedric Mullins.   DJ LeMahieu scores.    Anthony Rizzo to 2nd.  Throwing error by center fielder Cedric Mullins.,0,1,0,2,3,-0.38,4.0
 728,2021-08-03,519203,649144,,called_strike,7,Anthony Rizzo singles on a sharp line drive to center fielder Cedric Mullins.   DJ LeMahieu scores.    Anthony Rizzo to 2nd.  Throwing error by center fielder Cedric Mullins.,0,0,0,1,3,-0.68,2.04
 729,2021-08-03,519203,641312,field_out,hit_into_play,7,"Anthony Rizzo grounds out sharply, shortstop Richie Martin to first baseman Ryan Mountcastle.   Tyler Wade scores.",2,1,1,4,8,-0.6,2.15
-730,2021-08-03,519203,669211,field_out,hit_into_play,13,Anthony Rizzo flies out to left fielder Austin Hays.,3,2,1,6,6,-0.53,1.27
-731,2021-08-03,519203,641312,,ball,12,"Anthony Rizzo grounds out sharply, shortstop Richie Martin to first baseman Ryan Mountcastle.   Tyler Wade scores.",1,1,1,3,8,0.91,4.12
+730,2021-08-03,519203,641312,,ball,12,"Anthony Rizzo grounds out sharply, shortstop Richie Martin to first baseman Ryan Mountcastle.   Tyler Wade scores.",1,1,1,3,8,0.91,4.12
+731,2021-08-03,519203,669211,field_out,hit_into_play,13,Anthony Rizzo flies out to left fielder Austin Hays.,3,2,1,6,6,-0.53,1.27
 732,2021-08-03,519203,641312,,ball,11,"Anthony Rizzo grounds out sharply, shortstop Richie Martin to first baseman Ryan Mountcastle.   Tyler Wade scores.",0,1,1,2,8,-0.95,3.63
 733,2021-08-03,519203,669211,,blocked_ball,13,Anthony Rizzo flies out to left fielder Austin Hays.,2,2,1,5,6,-0.76,0.32
-734,2021-08-03,519203,641312,,called_strike,12,"Anthony Rizzo grounds out sharply, shortstop Richie Martin to first baseman Ryan Mountcastle.   Tyler Wade scores.",0,0,1,1,8,0.54,3.72
-735,2021-08-03,519203,669211,,called_strike,7,Anthony Rizzo flies out to left fielder Austin Hays.,2,1,1,4,6,-0.76,1.89
+734,2021-08-03,519203,669211,,called_strike,7,Anthony Rizzo flies out to left fielder Austin Hays.,2,1,1,4,6,-0.76,1.89
+735,2021-08-03,519203,641312,,called_strike,12,"Anthony Rizzo grounds out sharply, shortstop Richie Martin to first baseman Ryan Mountcastle.   Tyler Wade scores.",0,0,1,1,8,0.54,3.72
 736,2021-08-03,519203,669211,,ball,13,Anthony Rizzo flies out to left fielder Austin Hays.,1,1,1,3,6,-0.38,1.08
 737,2021-08-03,519203,669211,,called_strike,2,Anthony Rizzo flies out to left fielder Austin Hays.,1,0,1,2,6,0.19,3.24
 738,2021-08-03,519203,669211,,blocked_ball,13,Anthony Rizzo flies out to left fielder Austin Hays.,0,0,1,1,6,-0.29,0.98
@@ -773,8 +773,8 @@
 771,2021-08-01,519203,645261,,ball,11,Anthony Rizzo pops out to shortstop Miguel Rojas.,1,1,0,3,1,-1.14,3.22
 772,2021-08-01,519203,645261,,called_strike,13,Anthony Rizzo pops out to shortstop Miguel Rojas.,1,0,0,2,1,-1.05,2.33
 773,2021-08-01,519203,542947,single,hit_into_play,4,Anthony Rizzo singles on a sharp line drive to left fielder Lewis Brinson.   Brett Gardner scores.    Giancarlo Stanton to 2nd.,1,0,1,2,8,-0.48,2.35
-774,2021-08-01,519203,542947,,ball,12,Anthony Rizzo singles on a sharp line drive to left fielder Lewis Brinson.   Brett Gardner scores.    Giancarlo Stanton to 2nd.,0,0,1,1,8,0.83,2.89
-775,2021-08-01,519203,645261,,ball,13,Anthony Rizzo pops out to shortstop Miguel Rojas.,0,0,0,1,1,-1.36,2.42
+774,2021-08-01,519203,645261,,ball,13,Anthony Rizzo pops out to shortstop Miguel Rojas.,0,0,0,1,1,-1.36,2.42
+775,2021-08-01,519203,542947,,ball,12,Anthony Rizzo singles on a sharp line drive to left fielder Lewis Brinson.   Brett Gardner scores.    Giancarlo Stanton to 2nd.,0,0,1,1,8,0.83,2.89
 776,2021-07-31,519203,669432,walk,ball,13,Anthony Rizzo walks.,3,0,2,4,3,-1.91,0.7
 777,2021-07-31,519203,669432,,ball,13,Anthony Rizzo walks.,2,0,2,3,3,-1.45,1.01
 778,2021-07-31,519203,669432,,ball,13,Anthony Rizzo walks.,1,0,2,2,3,-0.66,0.57
@@ -784,10 +784,10 @@
 782,2021-07-31,519203,669432,,ball,13,Anthony Rizzo hit by pitch.,2,2,0,5,2,-0.93,0.23
 783,2021-07-31,519203,669432,,called_strike,4,Anthony Rizzo hit by pitch.,2,1,0,4,2,-0.58,2.76
 784,2021-07-31,519203,669432,,called_strike,1,Anthony Rizzo hit by pitch.,2,0,0,3,2,-0.43,3.1
-785,2021-07-31,519203,669432,,ball,13,Anthony Rizzo hit by pitch.,1,0,0,2,2,-1.41,2.36
-786,2021-07-31,519203,542914,walk,ball,13,Anthony Rizzo walks.,3,1,2,5,9,-0.26,1.24
-787,2021-07-31,519203,542914,,called_strike,8,Anthony Rizzo walks.,3,0,2,4,9,-0.2,1.94
-788,2021-07-31,519203,669432,,ball,6,Anthony Rizzo hit by pitch.,0,0,0,1,2,0.6,2.44
+785,2021-07-31,519203,542914,walk,ball,13,Anthony Rizzo walks.,3,1,2,5,9,-0.26,1.24
+786,2021-07-31,519203,669432,,ball,13,Anthony Rizzo hit by pitch.,1,0,0,2,2,-1.41,2.36
+787,2021-07-31,519203,669432,,ball,6,Anthony Rizzo hit by pitch.,0,0,0,1,2,0.6,2.44
+788,2021-07-31,519203,542914,,called_strike,8,Anthony Rizzo walks.,3,0,2,4,9,-0.2,1.94
 789,2021-07-31,519203,542914,,ball,14,Anthony Rizzo walks.,2,0,2,3,9,0.53,1.57
 790,2021-07-31,519203,542914,,ball,11,Anthony Rizzo walks.,1,0,2,2,9,-1.15,3.27
 791,2021-07-31,519203,542914,,ball,14,Anthony Rizzo walks.,0,0,2,1,9,0.86,1.12
@@ -823,8 +823,8 @@
 821,2021-07-28,519203,458677,,ball,12,"Anthony Rizzo grounds into a force out, second baseman Jonathan India to third baseman Eugenio Suarez.   Rafael Ortega out at 2nd.    Anthony Rizzo to 1st.",2,1,1,4,8,0.21,4.06
 822,2021-07-28,519203,458677,,called_strike,7,"Anthony Rizzo grounds into a force out, second baseman Jonathan India to third baseman Eugenio Suarez.   Rafael Ortega out at 2nd.    Anthony Rizzo to 1st.",2,0,1,3,8,-0.31,2.23
 823,2021-07-28,519203,458677,,ball,13,"Anthony Rizzo grounds into a force out, second baseman Jonathan India to third baseman Eugenio Suarez.   Rafael Ortega out at 2nd.    Anthony Rizzo to 1st.",1,0,1,2,8,-0.36,0.88
-824,2021-07-28,519203,458677,,ball,11,"Anthony Rizzo grounds into a force out, second baseman Jonathan India to third baseman Eugenio Suarez.   Rafael Ortega out at 2nd.    Anthony Rizzo to 1st.",0,0,1,1,8,-0.63,3.78
-825,2021-07-28,519203,641816,single,hit_into_play,13,Anthony Rizzo singles on a ground ball to center fielder Tyler Naquin.,1,1,2,3,1,-0.65,1.33
+824,2021-07-28,519203,641816,single,hit_into_play,13,Anthony Rizzo singles on a ground ball to center fielder Tyler Naquin.,1,1,2,3,1,-0.65,1.33
+825,2021-07-28,519203,458677,,ball,11,"Anthony Rizzo grounds into a force out, second baseman Jonathan India to third baseman Eugenio Suarez.   Rafael Ortega out at 2nd.    Anthony Rizzo to 1st.",0,0,1,1,8,-0.63,3.78
 826,2021-07-28,519203,641816,,ball,13,Anthony Rizzo singles on a ground ball to center fielder Tyler Naquin.,0,1,2,2,1,-1.16,2.01
 827,2021-07-28,519203,641816,,called_strike,1,Anthony Rizzo singles on a ground ball to center fielder Tyler Naquin.,0,0,2,1,1,-0.56,3.24
 828,2021-07-27,519203,661269,field_out,hit_into_play,8,Anthony Rizzo flies out to left fielder Jesse Winker.,1,2,0,4,6,-0.12,2.07
@@ -837,8 +837,8 @@
 835,2021-07-27,519203,661269,,called_strike,7,Anthony Rizzo grounds out to first baseman Joey Votto.   Rafael Ortega to 3rd.    Kris Bryant to 2nd.,0,0,0,1,3,-0.41,2.21
 836,2021-07-27,519203,661269,home_run,hit_into_play,6,Anthony Rizzo homers (14) on a line drive to right field.    Rafael Ortega scores.,1,1,1,3,1,0.69,2.29
 837,2021-07-27,519203,661269,,called_strike,13,Anthony Rizzo homers (14) on a line drive to right field.    Rafael Ortega scores.,1,0,1,2,1,-0.89,2.18
-838,2021-07-27,519203,448281,field_out,hit_into_play,14,Anthony Rizzo flies out to center fielder Shogo Akiyama.,0,0,2,1,7,0.0,1.33
-839,2021-07-27,519203,661269,,ball,12,Anthony Rizzo homers (14) on a line drive to right field.    Rafael Ortega scores.,0,0,1,1,1,0.72,3.89
+838,2021-07-27,519203,661269,,ball,12,Anthony Rizzo homers (14) on a line drive to right field.    Rafael Ortega scores.,0,0,1,1,1,0.72,3.89
+839,2021-07-27,519203,448281,field_out,hit_into_play,14,Anthony Rizzo flies out to center fielder Shogo Akiyama.,0,0,2,1,7,0.0,1.33
 840,2021-07-27,519203,607237,walk,ball,12,Anthony Rizzo walks.,3,1,1,5,9,0.31,3.72
 841,2021-07-27,519203,607237,,ball,13,Anthony Rizzo walks.,2,1,1,4,9,-0.97,0.22
 842,2021-07-27,519203,607237,,called_strike,5,Anthony Rizzo walks.,2,0,1,3,9,-0.05,2.51
@@ -854,10 +854,10 @@
 852,2021-07-26,519203,489119,,ball,11,"Anthony Rizzo grounds out, shortstop Kyle Farmer to first baseman Joey Votto.   Kris Bryant to 2nd.",0,0,0,1,3,-0.98,2.76
 853,2021-07-26,519203,663574,single,hit_into_play,6,Anthony Rizzo singles on a line drive to right fielder Aristides Aquino.,3,1,2,5,6,0.64,2.43
 854,2021-07-26,519203,592612,force_out,hit_into_play,4,"Anthony Rizzo grounds into a force out, first baseman Joey Votto to shortstop Kyle Farmer.   Kris Bryant out at 2nd.    Anthony Rizzo to 1st.",1,1,1,3,8,-0.63,2.31
-855,2021-07-26,519203,592612,,called_strike,5,"Anthony Rizzo grounds into a force out, first baseman Joey Votto to shortstop Kyle Farmer.   Kris Bryant out at 2nd.    Anthony Rizzo to 1st.",1,0,1,2,8,0.11,2.61
-856,2021-07-26,519203,663574,,ball,14,Anthony Rizzo singles on a line drive to right fielder Aristides Aquino.,2,1,2,4,6,1.01,1.14
-857,2021-07-26,519203,663574,,ball,14,Anthony Rizzo singles on a line drive to right fielder Aristides Aquino.,1,1,2,3,6,1.73,2.17
-858,2021-07-26,519203,592612,,blocked_ball,13,"Anthony Rizzo grounds into a force out, first baseman Joey Votto to shortstop Kyle Farmer.   Kris Bryant out at 2nd.    Anthony Rizzo to 1st.",0,0,1,1,8,-1.77,0.74
+855,2021-07-26,519203,663574,,ball,14,Anthony Rizzo singles on a line drive to right fielder Aristides Aquino.,2,1,2,4,6,1.01,1.14
+856,2021-07-26,519203,592612,,called_strike,5,"Anthony Rizzo grounds into a force out, first baseman Joey Votto to shortstop Kyle Farmer.   Kris Bryant out at 2nd.    Anthony Rizzo to 1st.",1,0,1,2,8,0.11,2.61
+857,2021-07-26,519203,592612,,blocked_ball,13,"Anthony Rizzo grounds into a force out, first baseman Joey Votto to shortstop Kyle Farmer.   Kris Bryant out at 2nd.    Anthony Rizzo to 1st.",0,0,1,1,8,-1.77,0.74
+858,2021-07-26,519203,663574,,ball,14,Anthony Rizzo singles on a line drive to right fielder Aristides Aquino.,1,1,2,3,6,1.73,2.17
 859,2021-07-26,519203,663574,,ball,13,Anthony Rizzo singles on a line drive to right fielder Aristides Aquino.,0,1,2,2,6,-1.88,1.98
 860,2021-07-26,519203,663574,,called_strike,8,Anthony Rizzo singles on a line drive to right fielder Aristides Aquino.,0,0,2,1,6,0.08,1.77
 861,2021-07-26,519203,489119,home_run,hit_into_play,9,Anthony Rizzo homers (13) on a fly ball to center field.   Kris Bryant scores.,0,0,1,1,1,0.29,2.0
@@ -942,11 +942,11 @@
 940,2021-07-21,519203,607231,,foul,2,"Anthony Rizzo grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",2,1,2,4,9,-0.26,3.29
 941,2021-07-21,519203,650893,,ball,13,Anthony Rizzo flies out to left fielder Tyler O'Neill.,0,1,1,2,8,-1.67,1.51
 942,2021-07-21,519203,607231,,called_strike,4,"Anthony Rizzo grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",2,0,2,3,9,-0.72,2.92
-943,2021-07-21,519203,425794,field_out,hit_into_play,14,Anthony Rizzo flies out to right fielder Dylan Carlson.,1,2,1,4,1,0.09,1.3
-944,2021-07-21,519203,607231,,ball,14,"Anthony Rizzo grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,0,2,2,9,0.96,2.22
+943,2021-07-21,519203,607231,,ball,14,"Anthony Rizzo grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,0,2,2,9,0.96,2.22
+944,2021-07-21,519203,425794,field_out,hit_into_play,14,Anthony Rizzo flies out to right fielder Dylan Carlson.,1,2,1,4,1,0.09,1.3
 945,2021-07-21,519203,650893,,called_strike,4,Anthony Rizzo flies out to left fielder Tyler O'Neill.,0,0,1,1,8,-0.56,2.66
-946,2021-07-21,519203,425794,,foul,1,Anthony Rizzo flies out to right fielder Dylan Carlson.,1,1,1,3,1,-0.53,2.99
-947,2021-07-21,519203,607231,,ball,13,"Anthony Rizzo grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",0,0,2,1,9,-1.71,2.14
+946,2021-07-21,519203,607231,,ball,13,"Anthony Rizzo grounds out sharply, second baseman Tommy Edman to first baseman Paul Goldschmidt.",0,0,2,1,9,-1.71,2.14
+947,2021-07-21,519203,425794,,foul,1,Anthony Rizzo flies out to right fielder Dylan Carlson.,1,1,1,3,1,-0.53,2.99
 948,2021-07-21,519203,425794,,ball,11,Anthony Rizzo flies out to right fielder Dylan Carlson.,0,1,1,2,1,-1.51,3.33
 949,2021-07-21,519203,425794,,called_strike,6,Anthony Rizzo flies out to right fielder Dylan Carlson.,0,0,1,1,1,0.49,3.04
 950,2021-07-20,519203,670912,strikeout,swinging_strike_blocked,14,Anthony Rizzo strikes out swinging.,1,2,2,4,5,1.15,0.7
@@ -1031,11 +1031,11 @@
 1029,2021-07-09,519203,453281,hit_by_pitch,hit_by_pitch,12,Anthony Rizzo hit by pitch.,0,1,2,2,2,2.08,3.48
 1030,2021-07-09,519203,453281,,called_strike,1,Anthony Rizzo hit by pitch.,0,0,2,1,2,-0.39,3.45
 1031,2021-07-09,519203,472610,single,hit_into_play,4,Anthony Rizzo singles on a line drive to left fielder Tyler O'Neill.   Patrick Wisdom to 2nd.,1,2,1,5,4,-0.44,2.75
-1032,2021-07-09,519203,472610,,foul,13,Anthony Rizzo singles on a line drive to left fielder Tyler O'Neill.   Patrick Wisdom to 2nd.,1,2,1,4,4,-1.0,1.61
-1033,2021-07-09,519203,453281,field_out,hit_into_play,7,Anthony Rizzo flies out to center fielder Harrison Bader.,0,1,0,2,1,-0.6,2.1
-1034,2021-07-09,519203,453281,,called_strike,5,Anthony Rizzo flies out to center fielder Harrison Bader.,0,0,0,1,1,0.13,2.44
-1035,2021-07-09,519203,472610,,swinging_strike,9,Anthony Rizzo singles on a line drive to left fielder Tyler O'Neill.   Patrick Wisdom to 2nd.,1,1,1,3,4,0.68,1.94
-1036,2021-07-09,519203,658551,walk,ball,13,Anthony Rizzo walks.,3,1,2,5,7,-0.86,0.93
+1032,2021-07-09,519203,453281,field_out,hit_into_play,7,Anthony Rizzo flies out to center fielder Harrison Bader.,0,1,0,2,1,-0.6,2.1
+1033,2021-07-09,519203,472610,,foul,13,Anthony Rizzo singles on a line drive to left fielder Tyler O'Neill.   Patrick Wisdom to 2nd.,1,2,1,4,4,-1.0,1.61
+1034,2021-07-09,519203,472610,,swinging_strike,9,Anthony Rizzo singles on a line drive to left fielder Tyler O'Neill.   Patrick Wisdom to 2nd.,1,1,1,3,4,0.68,1.94
+1035,2021-07-09,519203,658551,walk,ball,13,Anthony Rizzo walks.,3,1,2,5,7,-0.86,0.93
+1036,2021-07-09,519203,453281,,called_strike,5,Anthony Rizzo flies out to center fielder Harrison Bader.,0,0,0,1,1,0.13,2.44
 1037,2021-07-09,519203,472610,,ball,7,Anthony Rizzo singles on a line drive to left fielder Tyler O'Neill.   Patrick Wisdom to 2nd.,0,1,1,2,4,-0.33,1.74
 1038,2021-07-09,519203,658551,,ball,13,Anthony Rizzo walks.,2,1,2,4,7,-1.42,2.24
 1039,2021-07-09,519203,658551,,ball,14,Anthony Rizzo walks.,1,1,2,3,7,0.16,0.89
@@ -1095,10 +1095,10 @@
 1093,2021-07-05,519203,519043,,foul,2,Anthony Rizzo singles on a ground ball to right fielder Bryce Harper.   Willson Contreras to 3rd.,1,2,1,4,1,-0.05,3.43
 1094,2021-07-05,519203,519043,,foul,6,Anthony Rizzo singles on a ground ball to right fielder Bryce Harper.   Willson Contreras to 3rd.,1,1,1,3,1,0.3,2.37
 1095,2021-07-05,519203,519043,,called_strike,6,Anthony Rizzo singles on a ground ball to right fielder Bryce Harper.   Willson Contreras to 3rd.,1,0,1,2,1,0.69,2.36
-1096,2021-07-05,519203,519043,,ball,14,Anthony Rizzo singles on a ground ball to right fielder Bryce Harper.   Willson Contreras to 3rd.,0,0,1,1,1,0.66,0.7
-1097,2021-07-05,519203,641401,strikeout,foul_tip,11,Anthony Rizzo strikes out on a foul tip.,1,2,1,5,5,-0.85,4.06
-1098,2021-07-05,519203,621237,field_out,hit_into_play,7,"Anthony Rizzo grounds out, first baseman Rhys Hoskins to pitcher Jose Alvarado.",1,2,1,4,8,-0.65,2.18
-1099,2021-07-05,519203,641401,,foul,7,Anthony Rizzo strikes out on a foul tip.,1,2,1,4,5,-0.3,2.13
+1096,2021-07-05,519203,641401,strikeout,foul_tip,11,Anthony Rizzo strikes out on a foul tip.,1,2,1,5,5,-0.85,4.06
+1097,2021-07-05,519203,519043,,ball,14,Anthony Rizzo singles on a ground ball to right fielder Bryce Harper.   Willson Contreras to 3rd.,0,0,1,1,1,0.66,0.7
+1098,2021-07-05,519203,641401,,foul,7,Anthony Rizzo strikes out on a foul tip.,1,2,1,4,5,-0.3,2.13
+1099,2021-07-05,519203,621237,field_out,hit_into_play,7,"Anthony Rizzo grounds out, first baseman Rhys Hoskins to pitcher Jose Alvarado.",1,2,1,4,8,-0.65,2.18
 1100,2021-07-05,519203,641401,,ball,14,Anthony Rizzo strikes out on a foul tip.,0,2,1,3,5,0.18,-0.07
 1101,2021-07-05,519203,621237,,called_strike,7,"Anthony Rizzo grounds out, first baseman Rhys Hoskins to pitcher Jose Alvarado.",1,1,1,3,8,-0.72,2.13
 1102,2021-07-05,519203,621237,,called_strike,6,"Anthony Rizzo grounds out, first baseman Rhys Hoskins to pitcher Jose Alvarado.",1,0,1,2,8,0.7,2.7
@@ -1180,12 +1180,12 @@
 1178,2021-06-25,519203,595014,,called_strike,6,Anthony Rizzo strikes out swinging.,1,0,0,2,8,0.44,2.43
 1179,2021-06-25,519203,595014,,ball,12,Anthony Rizzo strikes out swinging.,0,0,0,1,8,1.65,2.88
 1180,2021-06-25,519203,523260,strikeout,swinging_strike,14,Anthony Rizzo strikes out swinging.,2,2,1,5,6,0.19,1.46
-1181,2021-06-25,519203,664062,field_out,hit_into_play,5,Anthony Rizzo flies out to right fielder Mookie Betts.,2,1,2,4,1,0.06,2.48
-1182,2021-06-25,519203,523260,,foul,4,Anthony Rizzo strikes out swinging.,2,1,1,4,6,-0.33,2.74
+1181,2021-06-25,519203,523260,,foul,4,Anthony Rizzo strikes out swinging.,2,1,1,4,6,-0.33,2.74
+1182,2021-06-25,519203,664062,field_out,hit_into_play,5,Anthony Rizzo flies out to right fielder Mookie Betts.,2,1,2,4,1,0.06,2.48
 1183,2021-06-25,519203,523260,,foul,8,Anthony Rizzo strikes out swinging.,2,0,1,3,6,0.13,2.04
 1184,2021-06-25,519203,664062,,ball,14,Anthony Rizzo flies out to right fielder Mookie Betts.,1,1,2,3,1,0.74,1.62
-1185,2021-06-25,519203,523260,,ball,14,Anthony Rizzo strikes out swinging.,1,0,1,2,6,0.53,1.33
-1186,2021-06-25,519203,664062,,called_strike,13,Anthony Rizzo flies out to right fielder Mookie Betts.,1,0,2,2,1,-0.08,1.39
+1185,2021-06-25,519203,664062,,called_strike,13,Anthony Rizzo flies out to right fielder Mookie Betts.,1,0,2,2,1,-0.08,1.39
+1186,2021-06-25,519203,523260,,ball,14,Anthony Rizzo strikes out swinging.,1,0,1,2,6,0.53,1.33
 1187,2021-06-25,519203,523260,,ball,14,Anthony Rizzo strikes out swinging.,0,0,1,1,6,1.56,1.09
 1188,2021-06-25,519203,664062,,ball,13,Anthony Rizzo flies out to right fielder Mookie Betts.,0,0,2,1,1,-1.06,2.08
 1189,2021-06-24,519203,621111,strikeout,swinging_strike,5,Anthony Rizzo strikes out swinging.  Kris Bryant steals (4) 2nd base.,3,2,1,7,6,0.01,2.56
@@ -1214,8 +1214,8 @@
 1212,2021-06-21,519203,675916,,foul,5,Anthony Rizzo walks.,2,1,1,4,9,-0.11,2.5
 1213,2021-06-21,519203,675916,,ball,11,Anthony Rizzo walks.,1,1,1,3,9,-1.24,4.3
 1214,2021-06-21,519203,621295,single,hit_into_play,4,Anthony Rizzo singles on a sharp line drive to center fielder Bradley Zimmer.,2,2,0,5,7,-0.62,2.57
-1215,2021-06-21,519203,621295,,ball,11,Anthony Rizzo singles on a sharp line drive to center fielder Bradley Zimmer.,1,2,0,4,7,-1.54,2.68
-1216,2021-06-21,519203,675916,,swinging_strike,6,Anthony Rizzo walks.,1,0,1,2,9,0.4,2.35
+1215,2021-06-21,519203,675916,,swinging_strike,6,Anthony Rizzo walks.,1,0,1,2,9,0.4,2.35
+1216,2021-06-21,519203,621295,,ball,11,Anthony Rizzo singles on a sharp line drive to center fielder Bradley Zimmer.,1,2,0,4,7,-1.54,2.68
 1217,2021-06-21,519203,675916,,ball,11,Anthony Rizzo walks.,0,0,1,1,9,-0.05,3.74
 1218,2021-06-21,519203,621295,,foul,1,Anthony Rizzo singles on a sharp line drive to center fielder Bradley Zimmer.,1,1,0,3,7,-0.73,3.1
 1219,2021-06-21,519203,621295,,ball,11,Anthony Rizzo singles on a sharp line drive to center fielder Bradley Zimmer.,0,1,0,2,7,-1.55,2.66
@@ -1260,19 +1260,19 @@
 1258,2021-06-17,519203,573186,field_out,hit_into_play,7,Anthony Rizzo lines out sharply to left fielder Dominic Smith.,0,1,2,2,3,-0.44,1.82
 1259,2021-06-17,519203,573186,,called_strike,4,Anthony Rizzo lines out sharply to left fielder Dominic Smith.,0,0,2,1,3,-0.68,3.13
 1260,2021-06-17,519203,573186,field_out,hit_into_play,8,Anthony Rizzo flies out sharply to center fielder Kevin Pillar.,0,1,1,2,1,-0.1,1.75
-1261,2021-06-17,519203,543507,field_out,hit_into_play,1,Anthony Rizzo flies out sharply to right fielder Billy McKinney.,0,0,1,1,9,-0.52,3.01
-1262,2021-06-17,519203,573186,,called_strike,5,Anthony Rizzo flies out sharply to center fielder Kevin Pillar.,0,0,1,1,1,0.01,2.64
+1261,2021-06-17,519203,573186,,called_strike,5,Anthony Rizzo flies out sharply to center fielder Kevin Pillar.,0,0,1,1,1,0.01,2.64
+1262,2021-06-17,519203,543507,field_out,hit_into_play,1,Anthony Rizzo flies out sharply to right fielder Billy McKinney.,0,0,1,1,9,-0.52,3.01
 1263,2021-06-16,519203,571901,field_out,hit_into_play,7,Anthony Rizzo pops out to third baseman Jonathan Villar.,2,2,1,5,6,-0.7,1.87
 1264,2021-06-16,519203,571901,,called_strike,6,Anthony Rizzo pops out to third baseman Jonathan Villar.,2,1,1,4,6,0.77,2.73
 1265,2021-06-16,519203,543507,strikeout,swinging_strike_blocked,14,Anthony Rizzo strikes out swinging.,0,2,1,3,8,0.83,0.54
 1266,2021-06-16,519203,594798,field_out,hit_into_play,12,Anthony Rizzo flies out to right fielder Billy McKinney.,0,1,1,2,1,0.3,3.64
 1267,2021-06-16,519203,571901,,called_strike,3,Anthony Rizzo pops out to third baseman Jonathan Villar.,2,0,1,3,6,0.47,3.2
 1268,2021-06-16,519203,571901,,ball,1,Anthony Rizzo pops out to third baseman Jonathan Villar.,1,0,1,2,6,-0.31,3.28
-1269,2021-06-16,519203,543507,,swinging_strike,8,Anthony Rizzo strikes out swinging.,0,1,1,2,8,-0.25,1.75
-1270,2021-06-16,519203,594798,,swinging_strike,14,Anthony Rizzo flies out to right fielder Billy McKinney.,0,0,1,1,1,0.95,1.4
+1269,2021-06-16,519203,594798,,swinging_strike,14,Anthony Rizzo flies out to right fielder Billy McKinney.,0,0,1,1,1,0.95,1.4
+1270,2021-06-16,519203,543507,,swinging_strike,8,Anthony Rizzo strikes out swinging.,0,1,1,2,8,-0.25,1.75
 1271,2021-06-16,519203,543507,,called_strike,7,Anthony Rizzo strikes out swinging.,0,0,1,1,8,-0.48,1.61
-1272,2021-06-16,519203,571901,,ball,12,Anthony Rizzo pops out to third baseman Jonathan Villar.,0,0,1,1,6,1.21,3.13
-1273,2021-06-16,519203,656887,home_run,hit_into_play,2,Anthony Rizzo homers (9) on a fly ball to right field.,1,1,1,3,4,0.21,2.91
+1272,2021-06-16,519203,656887,home_run,hit_into_play,2,Anthony Rizzo homers (9) on a fly ball to right field.,1,1,1,3,4,0.21,2.91
+1273,2021-06-16,519203,571901,,ball,12,Anthony Rizzo pops out to third baseman Jonathan Villar.,0,0,1,1,6,1.21,3.13
 1274,2021-06-16,519203,656887,,ball,11,Anthony Rizzo homers (9) on a fly ball to right field.,0,1,1,2,4,-0.94,4.14
 1275,2021-06-16,519203,656887,,called_strike,13,Anthony Rizzo homers (9) on a fly ball to right field.,0,0,1,1,4,-0.08,1.2
 1276,2021-06-15,519203,592836,strikeout,swinging_strike,12,Anthony Rizzo strikes out swinging.,0,2,0,3,6,0.05,3.7
@@ -1288,8 +1288,8 @@
 1286,2021-06-15,519203,607625,,ball,11,"Anthony Rizzo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,2,0,6,9,-1.97,3.34
 1287,2021-06-15,519203,607625,,foul,1,"Anthony Rizzo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,2,0,5,9,-0.5,3.29
 1288,2021-06-15,519203,607625,,ball,11,"Anthony Rizzo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,2,0,4,9,-1.71,4.27
-1289,2021-06-15,519203,592836,strikeout,called_strike,8,Anthony Rizzo called out on strikes.,0,2,1,3,1,0.15,2.04
-1290,2021-06-15,519203,607625,,foul,1,"Anthony Rizzo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,2,0,3,9,-0.58,3.43
+1289,2021-06-15,519203,607625,,foul,1,"Anthony Rizzo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,2,0,3,9,-0.58,3.43
+1290,2021-06-15,519203,592836,strikeout,called_strike,8,Anthony Rizzo called out on strikes.,0,2,1,3,1,0.15,2.04
 1291,2021-06-15,519203,592836,,foul_tip,4,Anthony Rizzo called out on strikes.,0,1,1,2,1,-0.56,2.39
 1292,2021-06-15,519203,607625,,swinging_strike,2,"Anthony Rizzo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,1,0,2,9,-0.19,3.19
 1293,2021-06-15,519203,592836,,swinging_strike,1,Anthony Rizzo called out on strikes.,0,0,1,1,1,-0.56,3.09
@@ -1322,10 +1322,10 @@
 1320,2021-06-13,519203,593372,,foul,7,Anthony Rizzo strikes out swinging.,1,2,2,4,1,-0.39,1.73
 1321,2021-06-13,519203,664854,field_out,hit_into_play,5,"Anthony Rizzo grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",2,1,1,4,8,0.1,2.87
 1322,2021-06-13,519203,593372,,foul,14,Anthony Rizzo strikes out swinging.,1,1,2,3,1,0.86,2.08
-1323,2021-06-13,519203,593372,,ball,11,Anthony Rizzo strikes out swinging.,0,1,2,2,1,-1.29,3.8
-1324,2021-06-13,519203,664854,,ball,12,"Anthony Rizzo grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",1,1,1,3,8,1.2,3.15
-1325,2021-06-13,519203,664854,,called_strike,9,"Anthony Rizzo grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",1,0,1,2,8,0.42,1.74
-1326,2021-06-13,519203,593372,,called_strike,5,Anthony Rizzo strikes out swinging.,0,0,2,1,1,0.03,2.74
+1323,2021-06-13,519203,664854,,ball,12,"Anthony Rizzo grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",1,1,1,3,8,1.2,3.15
+1324,2021-06-13,519203,593372,,ball,11,Anthony Rizzo strikes out swinging.,0,1,2,2,1,-1.29,3.8
+1325,2021-06-13,519203,593372,,called_strike,5,Anthony Rizzo strikes out swinging.,0,0,2,1,1,0.03,2.74
+1326,2021-06-13,519203,664854,,called_strike,9,"Anthony Rizzo grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",1,0,1,2,8,0.42,1.74
 1327,2021-06-13,519203,664854,,ball,14,"Anthony Rizzo grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",0,0,1,1,8,0.74,0.86
 1328,2021-06-12,519203,607231,field_out,hit_into_play,3,Anthony Rizzo lines out to shortstop Paul DeJong.,3,2,0,7,2,0.46,3.05
 1329,2021-06-12,519203,607231,,ball,11,Anthony Rizzo lines out to shortstop Paul DeJong.,2,2,0,6,2,-0.96,4.12
@@ -1348,8 +1348,8 @@
 1346,2021-06-11,519203,594965,,ball,11,Anthony Rizzo homers (7) on a fly ball to right field.,1,2,1,10,6,-1.26,3.9
 1347,2021-06-11,519203,594965,,foul,11,Anthony Rizzo homers (7) on a fly ball to right field.,1,2,1,9,6,-0.39,3.88
 1348,2021-06-11,519203,670912,field_out,hit_into_play,2,Anthony Rizzo lines out to center fielder Dylan Carlson.,0,1,0,2,2,-0.08,3.28
-1349,2021-06-11,519203,670912,,called_strike,4,Anthony Rizzo lines out to center fielder Dylan Carlson.,0,0,0,1,2,-0.46,2.38
-1350,2021-06-11,519203,594965,,foul,11,Anthony Rizzo homers (7) on a fly ball to right field.,1,2,1,8,6,-0.9,3.38
+1349,2021-06-11,519203,594965,,foul,11,Anthony Rizzo homers (7) on a fly ball to right field.,1,2,1,8,6,-0.9,3.38
+1350,2021-06-11,519203,670912,,called_strike,4,Anthony Rizzo lines out to center fielder Dylan Carlson.,0,0,0,1,2,-0.46,2.38
 1351,2021-06-11,519203,594965,,foul,4,Anthony Rizzo homers (7) on a fly ball to right field.,1,2,1,7,6,-0.78,2.28
 1352,2021-06-11,519203,594965,,foul,7,Anthony Rizzo homers (7) on a fly ball to right field.,1,2,1,6,6,-0.77,1.79
 1353,2021-06-11,519203,594965,,foul,12,Anthony Rizzo homers (7) on a fly ball to right field.,1,2,1,5,6,0.35,3.88
@@ -1408,8 +1408,8 @@
 1406,2021-06-06,519203,641793,grounded_into_double_play,hit_into_play,5,"Anthony Rizzo grounds into a double play, second baseman Donovan Solano to shortstop Mauricio Dubon to first baseman LaMonte Wade.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",2,1,1,4,9,-0.18,2.36
 1407,2021-06-06,519203,641793,,foul,7,"Anthony Rizzo grounds into a double play, second baseman Donovan Solano to shortstop Mauricio Dubon to first baseman LaMonte Wade.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",2,0,1,3,9,-0.81,2.12
 1408,2021-06-06,519203,641793,,ball,11,"Anthony Rizzo grounds into a double play, second baseman Donovan Solano to shortstop Mauricio Dubon to first baseman LaMonte Wade.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",1,0,1,2,9,-1.24,3.05
-1409,2021-06-06,519203,456501,field_out,hit_into_play,11,Anthony Rizzo pops out to third baseman Wilmer Flores.,2,1,0,4,1,-1.05,2.63
-1410,2021-06-06,519203,641793,,ball,13,"Anthony Rizzo grounds into a double play, second baseman Donovan Solano to shortstop Mauricio Dubon to first baseman LaMonte Wade.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,0,1,1,9,-1.2,2.04
+1409,2021-06-06,519203,641793,,ball,13,"Anthony Rizzo grounds into a double play, second baseman Donovan Solano to shortstop Mauricio Dubon to first baseman LaMonte Wade.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,0,1,1,9,-1.2,2.04
+1410,2021-06-06,519203,456501,field_out,hit_into_play,11,Anthony Rizzo pops out to third baseman Wilmer Flores.,2,1,0,4,1,-1.05,2.63
 1411,2021-06-06,519203,456501,,ball,13,Anthony Rizzo pops out to third baseman Wilmer Flores.,1,1,0,3,1,-2.29,2.03
 1412,2021-06-06,519203,456501,,foul_tip,11,Anthony Rizzo pops out to third baseman Wilmer Flores.,1,0,0,2,1,-1.32,3.29
 1413,2021-06-06,519203,456501,,ball,11,Anthony Rizzo pops out to third baseman Wilmer Flores.,0,0,0,1,1,-0.67,3.89
@@ -1436,14 +1436,14 @@
 1434,2021-06-04,519203,669214,,called_strike,4,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.",0,0,2,1,7,-0.78,2.4
 1435,2021-06-04,519203,608678,field_out,hit_into_play,11,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",3,2,1,8,3,-0.09,3.7
 1436,2021-06-04,519203,608678,,foul,11,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",3,2,1,7,3,-1.23,3.08
-1437,2021-06-04,519203,641793,field_out,hit_into_play,13,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,2,0,4,5,-1.69,1.8
-1438,2021-06-04,519203,608678,,foul,11,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",3,2,1,6,3,-1.14,3.67
-1439,2021-06-04,519203,641793,,foul,11,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,2,0,3,5,-1.01,3.49
-1440,2021-06-04,519203,608678,,blocked_ball,14,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",2,2,1,5,3,1.36,-0.54
-1441,2021-06-04,519203,641793,,foul,4,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,1,0,2,5,-0.42,2.51
-1442,2021-06-04,519203,608678,,foul,1,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",2,1,1,4,3,-0.38,3.47
-1443,2021-06-04,519203,608678,,called_strike,11,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",2,0,1,3,3,-0.96,2.92
-1444,2021-06-04,519203,641793,,called_strike,1,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,0,0,1,5,-0.59,3.26
+1437,2021-06-04,519203,608678,,foul,11,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",3,2,1,6,3,-1.14,3.67
+1438,2021-06-04,519203,641793,field_out,hit_into_play,13,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,2,0,4,5,-1.69,1.8
+1439,2021-06-04,519203,608678,,blocked_ball,14,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",2,2,1,5,3,1.36,-0.54
+1440,2021-06-04,519203,641793,,foul,11,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,2,0,3,5,-1.01,3.49
+1441,2021-06-04,519203,608678,,foul,1,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",2,1,1,4,3,-0.38,3.47
+1442,2021-06-04,519203,641793,,foul,4,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,1,0,2,5,-0.42,2.51
+1443,2021-06-04,519203,641793,,called_strike,1,"Anthony Rizzo grounds out softly, pitcher Zack Littell to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,0,0,1,5,-0.59,3.26
+1444,2021-06-04,519203,608678,,called_strike,11,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",2,0,1,3,3,-0.96,2.92
 1445,2021-06-04,519203,608678,,ball,12,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",1,0,1,2,3,1.51,2.99
 1446,2021-06-04,519203,608678,,ball,1,"Anthony Rizzo grounds out, shortstop Brandon Crawford to first baseman LaMonte Wade.   Kris Bryant to 2nd.",0,0,1,1,3,-0.79,3.59
 1447,2021-06-04,519203,431148,field_out,hit_into_play,5,Anthony Rizzo flies out to right fielder Mike Tauchman.,0,0,0,1,1,-0.11,2.72
@@ -1452,8 +1452,8 @@
 1450,2021-06-03,519203,543101,,foul,13,Anthony Rizzo pops out to shortstop Brandon Crawford.,0,1,0,2,4,-0.58,1.12
 1451,2021-06-03,519203,543101,,called_strike,11,Anthony Rizzo pops out to shortstop Brandon Crawford.,0,0,0,1,4,-0.87,3.2
 1452,2021-06-03,519203,641793,field_out,hit_into_play,4,"Anthony Rizzo grounds out, first baseman Jason Vosler to pitcher Zack Littell.",0,1,2,2,9,-0.62,2.25
-1453,2021-06-03,519203,641793,,swinging_strike,13,"Anthony Rizzo grounds out, first baseman Jason Vosler to pitcher Zack Littell.",0,0,2,1,9,-0.73,0.11
-1454,2021-06-03,519203,543101,field_out,hit_into_play,8,Anthony Rizzo grounds out sharply to first baseman LaMonte Wade.,0,1,2,2,1,0.16,1.79
+1453,2021-06-03,519203,543101,field_out,hit_into_play,8,Anthony Rizzo grounds out sharply to first baseman LaMonte Wade.,0,1,2,2,1,0.16,1.79
+1454,2021-06-03,519203,641793,,swinging_strike,13,"Anthony Rizzo grounds out, first baseman Jason Vosler to pitcher Zack Littell.",0,0,2,1,9,-0.73,0.11
 1455,2021-06-03,519203,543101,,swinging_strike,8,Anthony Rizzo grounds out sharply to first baseman LaMonte Wade.,0,0,2,1,1,-0.03,1.95
 1456,2021-06-03,519203,606424,field_out,hit_into_play,7,Anthony Rizzo flies out sharply to center fielder Steven Duggar.,3,1,0,5,7,-0.73,2.01
 1457,2021-06-03,519203,606424,,ball,13,Anthony Rizzo flies out sharply to center fielder Steven Duggar.,2,1,0,4,7,-0.03,1.3
@@ -1527,8 +1527,8 @@
 1525,2021-05-22,519203,606149,strikeout,swinging_strike,13,Anthony Rizzo strikes out swinging.,1,2,1,4,8,-0.67,1.08
 1526,2021-05-22,519203,606149,,swinging_strike_blocked,14,Anthony Rizzo strikes out swinging.,1,1,1,3,8,0.13,0.81
 1527,2021-05-22,519203,571945,force_out,hit_into_play,1,"Anthony Rizzo grounds into a force out, first baseman Paul Goldschmidt to shortstop Edmundo Sosa.   Joc Pederson to 3rd.    Willson Contreras out at 2nd.    Anthony Rizzo to 1st.",0,2,1,3,1,-0.3,3.48
-1528,2021-05-22,519203,571945,,foul_tip,11,"Anthony Rizzo grounds into a force out, first baseman Paul Goldschmidt to shortstop Edmundo Sosa.   Joc Pederson to 3rd.    Willson Contreras out at 2nd.    Anthony Rizzo to 1st.",0,1,1,2,1,-1.67,2.73
-1529,2021-05-22,519203,606149,,ball,9,Anthony Rizzo strikes out swinging.,0,1,1,2,8,0.81,1.6
+1528,2021-05-22,519203,606149,,ball,9,Anthony Rizzo strikes out swinging.,0,1,1,2,8,0.81,1.6
+1529,2021-05-22,519203,571945,,foul_tip,11,"Anthony Rizzo grounds into a force out, first baseman Paul Goldschmidt to shortstop Edmundo Sosa.   Joc Pederson to 3rd.    Willson Contreras out at 2nd.    Anthony Rizzo to 1st.",0,1,1,2,1,-1.67,2.73
 1530,2021-05-22,519203,606149,,foul,1,Anthony Rizzo strikes out swinging.,0,0,1,1,8,-0.35,2.94
 1531,2021-05-22,519203,571945,,called_strike,6,"Anthony Rizzo grounds into a force out, first baseman Paul Goldschmidt to shortstop Edmundo Sosa.   Joc Pederson to 3rd.    Willson Contreras out at 2nd.    Anthony Rizzo to 1st.",0,0,1,1,1,0.65,2.79
 1532,2021-05-21,519203,593372,single,hit_into_play,3,Anthony Rizzo singles on a ground ball to shortstop Edmundo Sosa.,2,1,0,4,6,0.32,3.14
@@ -1562,8 +1562,8 @@
 1560,2021-05-20,519203,501789,strikeout,swinging_strike_blocked,14,Anthony Rizzo strikes out swinging.,0,2,2,4,8,0.23,0.15
 1561,2021-05-20,519203,605452,,ball,1,Anthony Rizzo hit by pitch.,0,0,1,1,1,-0.41,3.5
 1562,2021-05-20,519203,501789,,foul,12,Anthony Rizzo strikes out swinging.,0,2,2,3,8,0.22,3.65
-1563,2021-05-20,519203,621348,single,hit_into_play,5,Anthony Rizzo singles on a sharp line drive to center fielder Andrew Stevenson.   Trevor Williams to 3rd.    Joc Pederson to 2nd.,2,2,2,5,4,0.17,2.57
-1564,2021-05-20,519203,501789,,foul,12,Anthony Rizzo strikes out swinging.,0,1,2,2,8,1.05,3.56
+1563,2021-05-20,519203,501789,,foul,12,Anthony Rizzo strikes out swinging.,0,1,2,2,8,1.05,3.56
+1564,2021-05-20,519203,621348,single,hit_into_play,5,Anthony Rizzo singles on a sharp line drive to center fielder Andrew Stevenson.   Trevor Williams to 3rd.    Joc Pederson to 2nd.,2,2,2,5,4,0.17,2.57
 1565,2021-05-20,519203,621348,,foul,9,Anthony Rizzo singles on a sharp line drive to center fielder Andrew Stevenson.   Trevor Williams to 3rd.    Joc Pederson to 2nd.,2,1,2,4,4,0.45,2.12
 1566,2021-05-20,519203,501789,,called_strike,13,Anthony Rizzo strikes out swinging.,0,0,2,1,8,-0.99,2.46
 1567,2021-05-20,519203,621348,,ball,8,Anthony Rizzo singles on a sharp line drive to center fielder Andrew Stevenson.   Trevor Williams to 3rd.    Joc Pederson to 2nd.,1,1,2,3,4,-0.11,1.62
@@ -1595,8 +1595,8 @@
 1593,2021-05-16,519203,650530,single,hit_into_play,3,Anthony Rizzo singles on a sharp line drive to right fielder Nomar Mazara.,0,2,1,5,7,0.72,2.93
 1594,2021-05-16,519203,650530,,foul,3,Anthony Rizzo singles on a sharp line drive to right fielder Nomar Mazara.,0,2,1,4,7,0.35,3.51
 1595,2021-05-16,519203,650530,,foul,5,Anthony Rizzo singles on a sharp line drive to right fielder Nomar Mazara.,0,2,1,3,7,-0.23,2.87
-1596,2021-05-16,519203,650530,,called_strike,7,Anthony Rizzo singles on a sharp line drive to right fielder Nomar Mazara.,0,1,1,2,7,-0.54,1.74
-1597,2021-05-16,519203,571510,strikeout,called_strike,6,Anthony Rizzo called out on strikes.,0,2,2,3,1,0.66,2.83
+1596,2021-05-16,519203,571510,strikeout,called_strike,6,Anthony Rizzo called out on strikes.,0,2,2,3,1,0.66,2.83
+1597,2021-05-16,519203,650530,,called_strike,7,Anthony Rizzo singles on a sharp line drive to right fielder Nomar Mazara.,0,1,1,2,7,-0.54,1.74
 1598,2021-05-16,519203,650530,,swinging_strike,8,Anthony Rizzo singles on a sharp line drive to right fielder Nomar Mazara.,0,0,1,1,7,-0.14,1.9
 1599,2021-05-16,519203,571510,,called_strike,6,Anthony Rizzo called out on strikes.,0,1,2,2,1,0.7,2.77
 1600,2021-05-16,519203,571510,,foul,8,Anthony Rizzo called out on strikes.,0,0,2,1,1,-0.21,1.74
@@ -1611,10 +1611,10 @@
 1609,2021-05-15,519203,641302,,foul,13,Anthony Rizzo flies out to right fielder Nomar Mazara.   Javier Baez to 2nd.,0,0,1,1,7,-1.01,1.53
 1610,2021-05-15,519203,570632,double,hit_into_play,13,Anthony Rizzo doubles (7) on a line drive to left fielder Robbie Grossman.   Joc Pederson scores.    Kris Bryant scores.,0,1,1,2,1,-1.57,1.91
 1611,2021-05-15,519203,570632,,called_strike,2,Anthony Rizzo doubles (7) on a line drive to left fielder Robbie Grossman.   Joc Pederson scores.    Kris Bryant scores.,0,0,1,1,1,0.15,3.09
-1612,2021-05-15,519203,656638,single,hit_into_play,2,Anthony Rizzo singles on a sharp ground ball to right fielder Nomar Mazara.   Kris Bryant to 3rd.,1,2,1,5,5,-0.18,2.99
-1613,2021-05-15,519203,605242,field_out,hit_into_play,4,Anthony Rizzo grounds out to first baseman Miguel Cabrera.   Javier Baez to 3rd.,0,1,0,2,10,-0.6,2.73
-1614,2021-05-15,519203,656638,,ball,11,Anthony Rizzo singles on a sharp ground ball to right fielder Nomar Mazara.   Kris Bryant to 3rd.,0,2,1,4,5,-1.99,4.11
-1615,2021-05-15,519203,605242,,called_strike,2,Anthony Rizzo grounds out to first baseman Miguel Cabrera.   Javier Baez to 3rd.,0,0,0,1,10,-0.11,3.0
+1612,2021-05-15,519203,605242,field_out,hit_into_play,4,Anthony Rizzo grounds out to first baseman Miguel Cabrera.   Javier Baez to 3rd.,0,1,0,2,10,-0.6,2.73
+1613,2021-05-15,519203,656638,single,hit_into_play,2,Anthony Rizzo singles on a sharp ground ball to right fielder Nomar Mazara.   Kris Bryant to 3rd.,1,2,1,5,5,-0.18,2.99
+1614,2021-05-15,519203,605242,,called_strike,2,Anthony Rizzo grounds out to first baseman Miguel Cabrera.   Javier Baez to 3rd.,0,0,0,1,10,-0.11,3.0
+1615,2021-05-15,519203,656638,,ball,11,Anthony Rizzo singles on a sharp ground ball to right fielder Nomar Mazara.   Kris Bryant to 3rd.,0,2,1,4,5,-1.99,4.11
 1616,2021-05-15,519203,656638,,foul,11,Anthony Rizzo singles on a sharp ground ball to right fielder Nomar Mazara.   Kris Bryant to 3rd.,0,2,1,3,5,-1.5,2.55
 1617,2021-05-15,519203,656638,,called_strike,5,Anthony Rizzo singles on a sharp ground ball to right fielder Nomar Mazara.   Kris Bryant to 3rd.,0,1,1,2,5,0.11,2.38
 1618,2021-05-15,519203,656638,,called_strike,8,Anthony Rizzo singles on a sharp ground ball to right fielder Nomar Mazara.   Kris Bryant to 3rd.,0,0,1,1,5,0.12,2.21
@@ -1641,8 +1641,8 @@
 1639,2021-05-12,519203,661403,,blocked_ball,14,Emmanuel Clase intentionally walks Anthony Rizzo.,2,0,1,3,9,1.01,0.6
 1640,2021-05-12,519203,661403,,ball,13,Emmanuel Clase intentionally walks Anthony Rizzo.,1,0,1,2,9,-0.18,1.54
 1641,2021-05-12,519203,661403,,ball,14,Emmanuel Clase intentionally walks Anthony Rizzo.,0,0,1,1,9,1.42,-0.88
-1642,2021-05-12,519203,615698,field_out,hit_into_play,11,Anthony Rizzo lines out sharply to shortstop Andres Gimenez.,1,0,1,2,7,-0.89,2.97
-1643,2021-05-12,519203,656529,walk,ball,13,Anthony Rizzo walks.   Willson Contreras to 2nd.,3,0,1,4,1,-1.07,2.44
+1642,2021-05-12,519203,656529,walk,ball,13,Anthony Rizzo walks.   Willson Contreras to 2nd.,3,0,1,4,1,-1.07,2.44
+1643,2021-05-12,519203,615698,field_out,hit_into_play,11,Anthony Rizzo lines out sharply to shortstop Andres Gimenez.,1,0,1,2,7,-0.89,2.97
 1644,2021-05-12,519203,615698,,ball,11,Anthony Rizzo lines out sharply to shortstop Andres Gimenez.,0,0,1,1,7,-1.95,3.73
 1645,2021-05-12,519203,656529,,ball,13,Anthony Rizzo walks.   Willson Contreras to 2nd.,2,0,1,3,1,-1.55,0.76
 1646,2021-05-12,519203,656529,,ball,13,Anthony Rizzo walks.   Willson Contreras to 2nd.,1,0,1,2,1,-1.72,1.84
@@ -1676,10 +1676,10 @@
 1674,2021-05-08,519203,640444,walk,ball,14,Anthony Rizzo walks.   Kris Bryant to 3rd.    Javier Baez to 2nd.,3,1,1,5,1,1.16,1.8
 1675,2021-05-08,519203,640444,,called_strike,8,Anthony Rizzo walks.   Kris Bryant to 3rd.    Javier Baez to 2nd.,3,0,1,4,1,0.23,1.86
 1676,2021-05-08,519203,640444,,ball,7,Anthony Rizzo walks.   Kris Bryant to 3rd.    Javier Baez to 2nd.,2,0,1,3,1,-0.48,1.82
-1677,2021-05-08,519203,670280,field_out,hit_into_play,13,"Anthony Rizzo grounds out, shortstop Kevin Newman to first baseman Todd Frazier.",0,2,2,3,8,-0.62,1.3
-1678,2021-05-08,519203,640444,,ball,12,Anthony Rizzo walks.   Kris Bryant to 3rd.    Javier Baez to 2nd.,1,0,1,2,1,0.94,2.86
-1679,2021-05-08,519203,640444,,ball,14,Anthony Rizzo walks.   Kris Bryant to 3rd.    Javier Baez to 2nd.,0,0,1,1,1,0.86,2.29
-1680,2021-05-08,519203,670280,,foul,5,"Anthony Rizzo grounds out, shortstop Kevin Newman to first baseman Todd Frazier.",0,1,2,2,8,-0.16,2.4
+1677,2021-05-08,519203,640444,,ball,12,Anthony Rizzo walks.   Kris Bryant to 3rd.    Javier Baez to 2nd.,1,0,1,2,1,0.94,2.86
+1678,2021-05-08,519203,670280,field_out,hit_into_play,13,"Anthony Rizzo grounds out, shortstop Kevin Newman to first baseman Todd Frazier.",0,2,2,3,8,-0.62,1.3
+1679,2021-05-08,519203,670280,,foul,5,"Anthony Rizzo grounds out, shortstop Kevin Newman to first baseman Todd Frazier.",0,1,2,2,8,-0.16,2.4
+1680,2021-05-08,519203,640444,,ball,14,Anthony Rizzo walks.   Kris Bryant to 3rd.    Javier Baez to 2nd.,0,0,1,1,1,0.86,2.29
 1681,2021-05-08,519203,670280,,foul,6,"Anthony Rizzo grounds out, shortstop Kevin Newman to first baseman Todd Frazier.",0,0,2,1,8,0.56,2.57
 1682,2021-05-07,519203,502239,grounded_into_double_play,hit_into_play,2,"Anthony Rizzo grounds into a double play, second baseman Adam Frazier to shortstop Erik Gonzalez to first baseman Colin Moran.   Kris Bryant to 3rd.    Javier Baez out at 2nd.    Anthony Rizzo out at 1st.",0,2,0,3,5,-0.08,3.49
 1683,2021-05-07,519203,502239,,foul,2,"Anthony Rizzo grounds into a double play, second baseman Adam Frazier to shortstop Erik Gonzalez to first baseman Colin Moran.   Kris Bryant to 3rd.    Javier Baez out at 2nd.    Anthony Rizzo out at 1st.",0,1,0,2,5,0.19,3.09
@@ -1717,23 +1717,23 @@
 1715,2021-05-04,519203,545333,,ball,11,Anthony Rizzo pops out to third baseman Edwin Rios.,0,0,1,1,3,-0.71,4.59
 1716,2021-05-04,519203,595014,strikeout,swinging_strike_blocked,14,Anthony Rizzo strikes out swinging.,2,2,2,7,6,0.35,0.63
 1717,2021-05-04,519203,595014,,foul,2,Anthony Rizzo strikes out swinging.,2,2,2,6,6,0.17,3.39
-1718,2021-05-04,519203,519076,strikeout,called_strike,8,Anthony Rizzo called out on strikes.,3,2,2,6,4,0.05,1.66
-1719,2021-05-04,519203,545333,strikeout,swinging_strike,11,Anthony Rizzo strikes out swinging.,1,2,0,4,1,-0.59,3.8
-1720,2021-05-04,519203,595014,,foul,12,Anthony Rizzo strikes out swinging.,2,2,2,5,6,1.31,2.9
+1718,2021-05-04,519203,595014,,foul,12,Anthony Rizzo strikes out swinging.,2,2,2,5,6,1.31,2.9
+1719,2021-05-04,519203,519076,strikeout,called_strike,8,Anthony Rizzo called out on strikes.,3,2,2,6,4,0.05,1.66
+1720,2021-05-04,519203,545333,strikeout,swinging_strike,11,Anthony Rizzo strikes out swinging.,1,2,0,4,1,-0.59,3.8
 1721,2021-05-04,519203,595014,,called_strike,7,Anthony Rizzo strikes out swinging.,2,1,2,4,6,-0.46,1.91
-1722,2021-05-04,519203,545333,,foul,1,Anthony Rizzo strikes out swinging.,1,1,0,3,1,-0.73,3.12
-1723,2021-05-04,519203,519076,,foul,1,Anthony Rizzo called out on strikes.,3,1,2,5,4,-0.29,3.35
-1724,2021-05-04,519203,545333,,ball,14,Anthony Rizzo strikes out swinging.,0,1,0,2,1,1.12,1.69
-1725,2021-05-04,519203,519076,,ball,11,Anthony Rizzo called out on strikes.,2,1,2,4,4,-1.27,4.77
+1722,2021-05-04,519203,519076,,foul,1,Anthony Rizzo called out on strikes.,3,1,2,5,4,-0.29,3.35
+1723,2021-05-04,519203,545333,,foul,1,Anthony Rizzo strikes out swinging.,1,1,0,3,1,-0.73,3.12
+1724,2021-05-04,519203,519076,,ball,11,Anthony Rizzo called out on strikes.,2,1,2,4,4,-1.27,4.77
+1725,2021-05-04,519203,545333,,ball,14,Anthony Rizzo strikes out swinging.,0,1,0,2,1,1.12,1.69
 1726,2021-05-04,519203,595014,,ball,12,Anthony Rizzo strikes out swinging.,1,1,2,3,6,1.65,3.22
-1727,2021-05-04,519203,545333,,foul,5,Anthony Rizzo strikes out swinging.,0,0,0,1,1,0.21,2.35
+1727,2021-05-04,519203,595014,,swinging_strike,14,Anthony Rizzo strikes out swinging.,1,0,2,2,6,1.45,2.46
 1728,2021-05-04,519203,519076,,called_strike,11,Anthony Rizzo called out on strikes.,2,0,2,3,4,-1.12,2.84
-1729,2021-05-04,519203,595014,,swinging_strike,14,Anthony Rizzo strikes out swinging.,1,0,2,2,6,1.45,2.46
+1729,2021-05-04,519203,545333,,foul,5,Anthony Rizzo strikes out swinging.,0,0,0,1,1,0.21,2.35
 1730,2021-05-04,519203,595014,,ball,12,Anthony Rizzo strikes out swinging.,0,0,2,1,6,1.17,3.23
-1731,2021-05-04,519203,642701,field_out,hit_into_play,7,Anthony Rizzo flies out to left fielder AJ Pollock.,0,1,1,2,2,-0.79,1.93
-1732,2021-05-04,519203,519076,,ball,14,Anthony Rizzo called out on strikes.,1,0,2,2,4,1.91,0.72
-1733,2021-05-04,519203,519076,,ball,14,Anthony Rizzo called out on strikes.,0,0,2,1,4,1.37,2.22
-1734,2021-05-04,519203,642701,,called_strike,7,Anthony Rizzo flies out to left fielder AJ Pollock.,0,0,1,1,2,-0.49,1.82
+1731,2021-05-04,519203,519076,,ball,14,Anthony Rizzo called out on strikes.,1,0,2,2,4,1.91,0.72
+1732,2021-05-04,519203,642701,field_out,hit_into_play,7,Anthony Rizzo flies out to left fielder AJ Pollock.,0,1,1,2,2,-0.79,1.93
+1733,2021-05-04,519203,642701,,called_strike,7,Anthony Rizzo flies out to left fielder AJ Pollock.,0,0,1,1,2,-0.49,1.82
+1734,2021-05-04,519203,519076,,ball,14,Anthony Rizzo called out on strikes.,0,0,2,1,4,1.37,2.22
 1735,2021-05-04,519203,477132,single,hit_into_play,8,Anthony Rizzo singles on a sharp ground ball to right fielder Mookie Betts.   Kris Bryant scores.,0,2,1,4,1,0.04,1.59
 1736,2021-05-04,519203,477132,,foul,13,Anthony Rizzo singles on a sharp ground ball to right fielder Mookie Betts.   Kris Bryant scores.,0,2,1,3,1,-0.62,0.96
 1737,2021-05-04,519203,477132,,called_strike,6,Anthony Rizzo singles on a sharp ground ball to right fielder Mookie Betts.   Kris Bryant scores.,0,1,1,2,1,0.67,2.92
@@ -1810,9 +1810,9 @@
 1808,2021-04-29,519203,592145,,ball,11,Anthony Rizzo singles on a sharp line drive to right fielder Ronald Acuna.   Nico Hoerner to 3rd.,0,1,1,2,9,-1.65,3.89
 1809,2021-04-29,519203,592145,,called_strike,4,Anthony Rizzo singles on a sharp line drive to right fielder Ronald Acuna.   Nico Hoerner to 3rd.,0,0,1,1,9,-0.34,2.44
 1810,2021-04-29,519203,594795,field_out,hit_into_play,13,Anthony Rizzo grounds out to first baseman Freddie Freeman.   Eric Sogard to 2nd.,1,2,1,4,7,-1.09,0.84
-1811,2021-04-29,519203,458708,single,hit_into_play,11,Anthony Rizzo singles on a line drive to left fielder Marcell Ozuna.,0,2,0,3,4,-1.43,3.73
+1811,2021-04-29,519203,669060,field_out,hit_into_play,2,Anthony Rizzo flies out to right fielder Ronald Acuna.,2,0,0,3,1,0.09,3.13
 1812,2021-04-29,519203,594795,,foul,7,Anthony Rizzo grounds out to first baseman Freddie Freeman.   Eric Sogard to 2nd.,1,1,1,3,7,-0.41,1.99
-1813,2021-04-29,519203,669060,field_out,hit_into_play,2,Anthony Rizzo flies out to right fielder Ronald Acuna.,2,0,0,3,1,0.09,3.13
+1813,2021-04-29,519203,458708,single,hit_into_play,11,Anthony Rizzo singles on a line drive to left fielder Marcell Ozuna.,0,2,0,3,4,-1.43,3.73
 1814,2021-04-29,519203,458708,,foul,2,Anthony Rizzo singles on a line drive to left fielder Marcell Ozuna.,0,1,0,2,4,-0.06,3.35
 1815,2021-04-29,519203,669060,,ball,11,Anthony Rizzo flies out to right fielder Ronald Acuna.,1,0,0,2,1,-0.23,4.05
 1816,2021-04-29,519203,594795,,foul,4,Anthony Rizzo grounds out to first baseman Freddie Freeman.   Eric Sogard to 2nd.,1,0,1,2,7,-0.4,2.9
@@ -1896,12 +1896,12 @@
 1894,2021-04-24,519203,642547,,ball,13,Anthony Rizzo walks.,1,0,2,2,1,-1.11,1.44
 1895,2021-04-24,519203,642547,,ball,11,Anthony Rizzo walks.,0,0,2,1,1,-1.05,3.43
 1896,2021-04-24,519203,608718,field_out,hit_into_play,7,"Anthony Rizzo grounds out, third baseman Travis Shaw to first baseman Keston Hiura.   Ian Happ to 3rd.",2,1,1,4,5,-0.77,2.1
-1897,2021-04-24,519203,608718,,ball,14,"Anthony Rizzo grounds out, third baseman Travis Shaw to first baseman Keston Hiura.   Ian Happ to 3rd.",1,1,1,3,5,1.34,2.15
-1898,2021-04-24,519203,656420,grounded_into_double_play,hit_into_play,13,"Anthony Rizzo grounds into a double play, shortstop Luis Urias to first baseman Keston Hiura.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,2,1,3,7,-1.14,2.53
-1899,2021-04-24,519203,608718,,blocked_ball,13,"Anthony Rizzo grounds out, third baseman Travis Shaw to first baseman Keston Hiura.   Ian Happ to 3rd.",0,1,1,2,5,-1.9,0.29
-1900,2021-04-24,519203,656420,,swinging_strike,14,"Anthony Rizzo grounds into a double play, shortstop Luis Urias to first baseman Keston Hiura.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,1,1,2,7,0.64,1.4
-1901,2021-04-24,519203,656420,,called_strike,7,"Anthony Rizzo grounds into a double play, shortstop Luis Urias to first baseman Keston Hiura.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,0,1,1,7,-0.33,2.06
-1902,2021-04-24,519203,608718,,called_strike,9,"Anthony Rizzo grounds out, third baseman Travis Shaw to first baseman Keston Hiura.   Ian Happ to 3rd.",0,0,1,1,5,0.62,1.84
+1897,2021-04-24,519203,656420,grounded_into_double_play,hit_into_play,13,"Anthony Rizzo grounds into a double play, shortstop Luis Urias to first baseman Keston Hiura.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,2,1,3,7,-1.14,2.53
+1898,2021-04-24,519203,608718,,ball,14,"Anthony Rizzo grounds out, third baseman Travis Shaw to first baseman Keston Hiura.   Ian Happ to 3rd.",1,1,1,3,5,1.34,2.15
+1899,2021-04-24,519203,656420,,swinging_strike,14,"Anthony Rizzo grounds into a double play, shortstop Luis Urias to first baseman Keston Hiura.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,1,1,2,7,0.64,1.4
+1900,2021-04-24,519203,608718,,blocked_ball,13,"Anthony Rizzo grounds out, third baseman Travis Shaw to first baseman Keston Hiura.   Ian Happ to 3rd.",0,1,1,2,5,-1.9,0.29
+1901,2021-04-24,519203,608718,,called_strike,9,"Anthony Rizzo grounds out, third baseman Travis Shaw to first baseman Keston Hiura.   Ian Happ to 3rd.",0,0,1,1,5,0.62,1.84
+1902,2021-04-24,519203,656420,,called_strike,7,"Anthony Rizzo grounds into a double play, shortstop Luis Urias to first baseman Keston Hiura.   Willson Contreras out at 2nd.    Anthony Rizzo out at 1st.",0,0,1,1,7,-0.33,2.06
 1903,2021-04-23,519203,458676,field_out,hit_into_play,4,Anthony Rizzo flies out to left fielder Billy McKinney.,0,0,1,1,3,-0.59,2.62
 1904,2021-04-23,519203,458676,home_run,hit_into_play,2,Anthony Rizzo homers (4) on a fly ball to right center field.,2,2,1,6,2,0.14,3.07
 1905,2021-04-23,519203,458676,,foul,4,Anthony Rizzo homers (4) on a fly ball to right center field.,2,2,1,5,2,-0.38,2.25
@@ -2099,8 +2099,8 @@
 2097,2021-04-10,519203,656605,field_out,hit_into_play,8,Anthony Rizzo flies out to right fielder Gregory Polanco.,1,1,1,3,1,-0.18,2.16
 2098,2021-04-10,519203,656605,,foul,2,Anthony Rizzo flies out to right fielder Gregory Polanco.,1,0,1,2,1,0.17,3.25
 2099,2021-04-10,519203,605280,strikeout,swinging_strike,9,Anthony Rizzo strikes out swinging.,2,2,0,7,8,0.4,1.66
-2100,2021-04-10,519203,656605,,ball,11,Anthony Rizzo flies out to right fielder Gregory Polanco.,0,0,1,1,1,-0.7,3.96
-2101,2021-04-10,519203,605280,,blocked_ball,14,Anthony Rizzo strikes out swinging.,1,2,0,6,8,1.26,0.49
+2100,2021-04-10,519203,605280,,blocked_ball,14,Anthony Rizzo strikes out swinging.,1,2,0,6,8,1.26,0.49
+2101,2021-04-10,519203,656605,,ball,11,Anthony Rizzo flies out to right fielder Gregory Polanco.,0,0,1,1,1,-0.7,3.96
 2102,2021-04-10,519203,605280,,foul,11,Anthony Rizzo strikes out swinging.,1,2,0,5,8,-1.48,2.78
 2103,2021-04-10,519203,605280,,foul,14,Anthony Rizzo strikes out swinging.,1,2,0,4,8,1.18,1.54
 2104,2021-04-10,519203,605280,,called_strike,9,Anthony Rizzo strikes out swinging.,1,1,0,3,8,0.62,1.64
@@ -2127,12 +2127,12 @@
 2125,2021-04-07,519203,605540,,foul,12,Anthony Rizzo strikes out swinging.,0,1,2,2,4,0.88,2.81
 2126,2021-04-07,519203,605540,,foul,3,Anthony Rizzo strikes out swinging.,0,0,2,1,4,0.3,2.97
 2127,2021-04-07,519203,605540,field_out,hit_into_play,6,Anthony Rizzo grounds out sharply to first baseman Keston Hiura.,2,1,2,4,1,0.41,2.35
-2128,2021-04-07,519203,605540,,foul,7,Anthony Rizzo grounds out sharply to first baseman Keston Hiura.,2,0,2,3,1,-0.57,1.97
-2129,2021-04-07,519203,623352,walk,ball,13,Anthony Rizzo walks.,3,1,2,5,9,-2.21,0.16
+2128,2021-04-07,519203,623352,walk,ball,13,Anthony Rizzo walks.,3,1,2,5,9,-2.21,0.16
+2129,2021-04-07,519203,605540,,foul,7,Anthony Rizzo grounds out sharply to first baseman Keston Hiura.,2,0,2,3,1,-0.57,1.97
 2130,2021-04-07,519203,623352,,called_strike,2,Anthony Rizzo walks.,3,0,2,4,9,0.1,3.18
 2131,2021-04-07,519203,605540,,ball,14,Anthony Rizzo grounds out sharply to first baseman Keston Hiura.,1,0,2,2,1,0.83,2.02
-2132,2021-04-07,519203,605540,,ball,13,Anthony Rizzo grounds out sharply to first baseman Keston Hiura.,0,0,2,1,1,-1.0,1.1
-2133,2021-04-07,519203,623352,,ball,13,Anthony Rizzo walks.,2,0,2,3,9,-1.43,2.15
+2132,2021-04-07,519203,623352,,ball,13,Anthony Rizzo walks.,2,0,2,3,9,-1.43,2.15
+2133,2021-04-07,519203,605540,,ball,13,Anthony Rizzo grounds out sharply to first baseman Keston Hiura.,0,0,2,1,1,-1.0,1.1
 2134,2021-04-07,519203,623352,,ball,13,Anthony Rizzo walks.,1,0,2,2,9,-0.29,1.1
 2135,2021-04-07,519203,623352,,ball,13,Anthony Rizzo walks.,0,0,2,1,9,-1.13,1.86
 2136,2021-04-06,519203,642547,strikeout,swinging_strike,9,Anthony Rizzo strikes out swinging.,1,2,0,4,4,0.74,1.55
@@ -2146,8 +2146,8 @@
 2144,2021-04-06,519203,642547,strikeout,swinging_strike,14,Anthony Rizzo strikes out swinging.,2,2,2,5,1,1.51,1.08
 2145,2021-04-06,519203,608718,field_out,hit_into_play,12,Anthony Rizzo pops out softly to pitcher Brent Suter.,2,0,2,3,6,1.54,3.37
 2146,2021-04-06,519203,642547,,swinging_strike,14,Anthony Rizzo strikes out swinging.,2,1,2,4,1,0.92,1.91
-2147,2021-04-06,519203,642547,,called_strike,5,Anthony Rizzo strikes out swinging.,2,0,2,3,1,-0.14,2.48
-2148,2021-04-06,519203,608718,,ball,13,Anthony Rizzo pops out softly to pitcher Brent Suter.,1,0,2,2,6,-1.56,2.25
+2147,2021-04-06,519203,608718,,ball,13,Anthony Rizzo pops out softly to pitcher Brent Suter.,1,0,2,2,6,-1.56,2.25
+2148,2021-04-06,519203,642547,,called_strike,5,Anthony Rizzo strikes out swinging.,2,0,2,3,1,-0.14,2.48
 2149,2021-04-06,519203,642547,,ball,14,Anthony Rizzo strikes out swinging.,1,0,2,2,1,0.72,-0.33
 2150,2021-04-06,519203,608718,,ball,14,Anthony Rizzo pops out softly to pitcher Brent Suter.,0,0,2,1,6,0.96,2.57
 2151,2021-04-06,519203,642547,,ball,9,Anthony Rizzo strikes out swinging.,0,0,2,1,1,0.73,1.66
@@ -2174,14 +2174,14 @@
 2172,2021-04-04,519203,656605,,foul,8,Anthony Rizzo walks.,1,1,1,3,3,0.21,1.98
 2173,2021-04-04,519203,656605,,ball,14,Anthony Rizzo walks.,0,1,1,2,3,0.83,1.57
 2174,2021-04-04,519203,656605,,foul,6,Anthony Rizzo walks.,0,0,1,1,3,0.59,2.25
-2175,2021-04-04,519203,656605,walk,ball,12,Anthony Rizzo walks.   Ian Happ to 2nd.,3,1,1,5,1,1.0,2.54
-2176,2021-04-04,519203,605195,field_out,hit_into_play,14,Anthony Rizzo pops out to second baseman Adam Frazier.,3,2,1,6,7,0.4,1.35
-2177,2021-04-04,519203,605195,,swinging_strike_blocked,14,Anthony Rizzo pops out to second baseman Adam Frazier.,3,1,1,5,7,0.1,0.55
-2178,2021-04-04,519203,656605,,ball,11,Anthony Rizzo walks.   Ian Happ to 2nd.,2,1,1,4,1,-1.4,3.52
+2175,2021-04-04,519203,605195,field_out,hit_into_play,14,Anthony Rizzo pops out to second baseman Adam Frazier.,3,2,1,6,7,0.4,1.35
+2176,2021-04-04,519203,656605,walk,ball,12,Anthony Rizzo walks.   Ian Happ to 2nd.,3,1,1,5,1,1.0,2.54
+2177,2021-04-04,519203,656605,,ball,11,Anthony Rizzo walks.   Ian Happ to 2nd.,2,1,1,4,1,-1.4,3.52
+2178,2021-04-04,519203,605195,,swinging_strike_blocked,14,Anthony Rizzo pops out to second baseman Adam Frazier.,3,1,1,5,7,0.1,0.55
 2179,2021-04-04,519203,605195,,called_strike,5,Anthony Rizzo pops out to second baseman Adam Frazier.,3,0,1,4,7,-0.01,2.52
 2180,2021-04-04,519203,656605,,called_strike,2,Anthony Rizzo walks.   Ian Happ to 2nd.,2,0,1,3,1,0.04,3.01
-2181,2021-04-04,519203,605195,,ball,14,Anthony Rizzo pops out to second baseman Adam Frazier.,2,0,1,3,7,2.61,2.09
-2182,2021-04-04,519203,656605,,ball,6,Anthony Rizzo walks.   Ian Happ to 2nd.,1,0,1,2,1,0.78,2.31
+2181,2021-04-04,519203,656605,,ball,6,Anthony Rizzo walks.   Ian Happ to 2nd.,1,0,1,2,1,0.78,2.31
+2182,2021-04-04,519203,605195,,ball,14,Anthony Rizzo pops out to second baseman Adam Frazier.,2,0,1,3,7,2.61,2.09
 2183,2021-04-04,519203,656605,,ball,14,Anthony Rizzo walks.   Ian Happ to 2nd.,0,0,1,1,1,0.4,1.29
 2184,2021-04-04,519203,605195,,ball,14,Anthony Rizzo pops out to second baseman Adam Frazier.,1,0,1,2,7,1.74,1.19
 2185,2021-04-04,519203,605195,,ball,14,Anthony Rizzo pops out to second baseman Adam Frazier.,0,0,1,1,7,1.43,2.41
@@ -2214,12 +2214,12 @@
 2212,2021-04-01,519203,608717,field_out,hit_into_play,4,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",2,2,2,7,8,-0.73,2.75
 2213,2021-04-01,519203,608717,,foul,8,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",2,2,2,6,8,0.06,1.64
 2214,2021-04-01,519203,608717,,foul,1,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",2,2,2,5,8,-0.76,3.17
-2215,2021-04-01,519203,608717,,ball,11,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",1,2,2,4,8,-0.85,4.26
-2216,2021-04-01,519203,641771,double,hit_into_play,4,Anthony Rizzo doubles (1) on a sharp line drive to right fielder Gregory Polanco.   Willson Contreras to 3rd.,3,2,1,7,1,-0.4,2.34
+2215,2021-04-01,519203,641771,double,hit_into_play,4,Anthony Rizzo doubles (1) on a sharp line drive to right fielder Gregory Polanco.   Willson Contreras to 3rd.,3,2,1,7,1,-0.4,2.34
+2216,2021-04-01,519203,608717,,ball,11,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",1,2,2,4,8,-0.85,4.26
 2217,2021-04-01,519203,641771,,foul,7,Anthony Rizzo doubles (1) on a sharp line drive to right fielder Gregory Polanco.   Willson Contreras to 3rd.,3,2,1,6,1,-0.45,2.1
 2218,2021-04-01,519203,608717,,swinging_strike,7,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",1,1,2,3,8,-0.41,2.03
-2219,2021-04-01,519203,641771,,called_strike,5,Anthony Rizzo doubles (1) on a sharp line drive to right fielder Gregory Polanco.   Willson Contreras to 3rd.,3,1,1,5,1,0.21,2.39
-2220,2021-04-01,519203,608717,,ball,14,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",0,1,2,2,8,0.66,0.41
+2219,2021-04-01,519203,608717,,ball,14,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",0,1,2,2,8,0.66,0.41
+2220,2021-04-01,519203,641771,,called_strike,5,Anthony Rizzo doubles (1) on a sharp line drive to right fielder Gregory Polanco.   Willson Contreras to 3rd.,3,1,1,5,1,0.21,2.39
 2221,2021-04-01,519203,608717,,called_strike,4,"Anthony Rizzo grounds out sharply, shortstop Kevin Newman to first baseman Colin Moran.",0,0,2,1,8,-0.6,2.6
 2222,2021-04-01,519203,641771,,called_strike,8,Anthony Rizzo doubles (1) on a sharp line drive to right fielder Gregory Polanco.   Willson Contreras to 3rd.,3,0,1,4,1,0.18,1.94
 2223,2021-04-01,519203,641771,,ball,14,Anthony Rizzo doubles (1) on a sharp line drive to right fielder Gregory Polanco.   Willson Contreras to 3rd.,2,0,1,3,1,0.03,1.18

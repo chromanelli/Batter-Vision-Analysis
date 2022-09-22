@@ -9,5 +9,6 @@ VISION REPORT: taylor_jones (2021-04-01 thru 2021-10-04)
      taylor_jones saw 212 strikes and 212 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3868
+VISION SCORE METRIC B (VSA - SO%): 0.1183
 Average PA Length: 3.9074 (422/108)
 Batting Avg: 0.245

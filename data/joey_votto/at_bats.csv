@@ -39,18 +39,18 @@
 37,2021-10-01,458015,640444,,swinging_strike,14,Joey Votto strikes out swinging.,1,0,0,2,4,0.12,1.21
 38,2021-10-01,458015,640444,,ball,11,Joey Votto strikes out swinging.,0,0,0,1,4,-0.23,4.0
 39,2021-10-01,458015,640444,field_out,hit_into_play,9,Joey Votto pops out to third baseman Hoy Park.,0,0,1,1,1,0.35,2.13
-40,2021-10-01,458015,607455,strikeout,swinging_strike,3,Joey Votto strikes out swinging.,3,2,0,6,7,0.28,2.99
-41,2021-10-01,458015,670280,strikeout,swinging_strike,5,Joey Votto strikes out swinging.,3,2,0,6,9,-0.04,2.36
-42,2021-10-01,458015,607455,,ball,13,Joey Votto strikes out swinging.,2,2,0,5,7,-1.53,0.47
-43,2021-10-01,458015,670280,,ball,11,Joey Votto strikes out swinging.,2,2,0,5,9,-0.26,4.16
-44,2021-10-01,458015,670280,,swinging_strike,11,Joey Votto strikes out swinging.,2,1,0,4,9,-0.87,2.81
-45,2021-10-01,458015,607455,,foul,5,Joey Votto strikes out swinging.,2,1,0,4,7,0.15,2.59
-46,2021-10-01,458015,670280,,ball,12,Joey Votto strikes out swinging.,1,1,0,3,9,0.77,4.05
-47,2021-10-01,458015,607455,,ball,11,Joey Votto strikes out swinging.,1,1,0,3,7,-0.2,3.81
+40,2021-10-01,458015,670280,strikeout,swinging_strike,5,Joey Votto strikes out swinging.,3,2,0,6,9,-0.04,2.36
+41,2021-10-01,458015,607455,strikeout,swinging_strike,3,Joey Votto strikes out swinging.,3,2,0,6,7,0.28,2.99
+42,2021-10-01,458015,670280,,ball,11,Joey Votto strikes out swinging.,2,2,0,5,9,-0.26,4.16
+43,2021-10-01,458015,607455,,ball,13,Joey Votto strikes out swinging.,2,2,0,5,7,-1.53,0.47
+44,2021-10-01,458015,607455,,foul,5,Joey Votto strikes out swinging.,2,1,0,4,7,0.15,2.59
+45,2021-10-01,458015,670280,,swinging_strike,11,Joey Votto strikes out swinging.,2,1,0,4,9,-0.87,2.81
+46,2021-10-01,458015,607455,,ball,11,Joey Votto strikes out swinging.,1,1,0,3,7,-0.2,3.81
+47,2021-10-01,458015,670280,,ball,12,Joey Votto strikes out swinging.,1,1,0,3,9,0.77,4.05
 48,2021-10-01,458015,670280,,foul,2,Joey Votto strikes out swinging.,1,0,0,2,9,0.14,3.34
 49,2021-10-01,458015,607455,,swinging_strike,14,Joey Votto strikes out swinging.,1,0,0,2,7,0.11,1.08
-50,2021-10-01,458015,670280,,ball,11,Joey Votto strikes out swinging.,0,0,0,1,9,-0.39,4.52
-51,2021-10-01,458015,607455,,ball,11,Joey Votto strikes out swinging.,0,0,0,1,7,-0.56,3.76
+50,2021-10-01,458015,607455,,ball,11,Joey Votto strikes out swinging.,0,0,0,1,7,-0.56,3.76
+51,2021-10-01,458015,670280,,ball,11,Joey Votto strikes out swinging.,0,0,0,1,9,-0.39,4.52
 52,2021-09-28,458015,625643,field_out,hit_into_play,5,Joey Votto flies out to center fielder Luis Robert.,2,2,2,8,4,-0.25,2.76
 53,2021-09-28,458015,625643,,ball,11,Joey Votto flies out to center fielder Luis Robert.,1,2,2,7,4,-1.78,2.71
 54,2021-09-28,458015,625643,,foul,5,Joey Votto flies out to center fielder Luis Robert.,1,2,2,6,4,0.26,2.28
@@ -61,8 +61,8 @@
 59,2021-09-28,458015,625643,,called_strike,7,Joey Votto flies out to center fielder Luis Robert.,0,0,2,1,4,-0.63,2.09
 60,2021-09-28,458015,625643,single,hit_into_play,9,Joey Votto singles on a sharp line drive to right fielder Leury Garcia.,0,0,0,1,2,0.38,1.88
 61,2021-09-28,458015,641582,field_out,hit_into_play,4,"Joey Votto grounds out, second baseman Cesar Hernandez to first baseman Jose Abreu.",0,1,2,2,9,-0.42,2.7
-62,2021-09-28,458015,641582,,swinging_strike,13,"Joey Votto grounds out, second baseman Cesar Hernandez to first baseman Jose Abreu.",0,0,2,1,9,-0.53,1.01
-63,2021-09-28,458015,614179,field_out,hit_into_play,4,Joey Votto flies out sharply to left fielder Eloy Jimenez.,0,1,0,2,7,-0.57,2.38
+62,2021-09-28,458015,614179,field_out,hit_into_play,4,Joey Votto flies out sharply to left fielder Eloy Jimenez.,0,1,0,2,7,-0.57,2.38
+63,2021-09-28,458015,641582,,swinging_strike,13,"Joey Votto grounds out, second baseman Cesar Hernandez to first baseman Jose Abreu.",0,0,2,1,9,-0.53,1.01
 64,2021-09-28,458015,614179,,swinging_strike,13,Joey Votto flies out sharply to left fielder Eloy Jimenez.,0,0,0,1,7,-0.83,1.35
 65,2021-09-27,458015,664074,home_run,hit_into_play,7,Joey Votto homers (35) on a fly ball to right center field.    Max Schrock scores.,3,2,2,8,4,-0.53,2.16
 66,2021-09-27,458015,664074,,ball,11,Joey Votto homers (35) on a fly ball to right center field.    Max Schrock scores.,2,2,2,7,4,-1.17,3.48
@@ -103,14 +103,14 @@
 101,2021-09-24,458015,502179,,foul,3,Joey Votto flies out to left fielder Andrew Stevenson.,1,0,2,2,1,0.69,3.01
 102,2021-09-24,458015,543594,,foul,13,Joey Votto flies out to center fielder Lane Thomas.,2,2,2,5,7,-1.08,2.33
 103,2021-09-24,458015,502179,,ball,13,Joey Votto flies out to left fielder Andrew Stevenson.,0,0,2,1,1,-1.48,2.38
-104,2021-09-24,458015,593604,walk,ball,13,Joey Votto walks.,3,0,1,4,6,-1.21,1.37
-105,2021-09-24,458015,543594,,blocked_ball,13,Joey Votto flies out to center fielder Lane Thomas.,1,2,2,4,7,-0.81,0.47
-106,2021-09-24,458015,543594,,foul,13,Joey Votto flies out to center fielder Lane Thomas.,1,1,2,3,7,-0.46,1.22
-107,2021-09-24,458015,593604,,ball,13,Joey Votto walks.,2,0,1,3,6,-1.92,0.49
+104,2021-09-24,458015,543594,,blocked_ball,13,Joey Votto flies out to center fielder Lane Thomas.,1,2,2,4,7,-0.81,0.47
+105,2021-09-24,458015,593604,walk,ball,13,Joey Votto walks.,3,0,1,4,6,-1.21,1.37
+106,2021-09-24,458015,593604,,ball,13,Joey Votto walks.,2,0,1,3,6,-1.92,0.49
+107,2021-09-24,458015,543594,,foul,13,Joey Votto flies out to center fielder Lane Thomas.,1,1,2,3,7,-0.46,1.22
 108,2021-09-24,458015,543594,,ball,11,Joey Votto flies out to center fielder Lane Thomas.,0,1,2,2,7,-0.91,3.24
 109,2021-09-24,458015,593604,,ball,13,Joey Votto walks.,1,0,1,2,6,-1.01,0.72
-110,2021-09-24,458015,543594,,foul,2,Joey Votto flies out to center fielder Lane Thomas.,0,0,2,1,7,0.02,2.98
-111,2021-09-24,458015,593604,,ball,13,Joey Votto walks.,0,0,1,1,6,-0.85,1.51
+110,2021-09-24,458015,593604,,ball,13,Joey Votto walks.,0,0,1,1,6,-0.85,1.51
+111,2021-09-24,458015,543594,,foul,2,Joey Votto flies out to center fielder Lane Thomas.,0,0,2,1,7,0.02,2.98
 112,2021-09-23,458015,571578,single,hit_into_play,8,Joey Votto singles on a line drive to center fielder Lane Thomas.,2,2,0,5,6,0.05,2.03
 113,2021-09-23,458015,571578,,called_strike,8,Joey Votto singles on a line drive to center fielder Lane Thomas.,2,1,0,4,6,-0.14,1.63
 114,2021-09-23,458015,571578,,ball,12,Joey Votto singles on a line drive to center fielder Lane Thomas.,1,1,0,3,6,1.23,3.17
@@ -126,10 +126,10 @@
 124,2021-09-23,458015,663432,walk,ball,13,Joey Votto walks.,3,1,2,5,8,-1.49,2.16
 125,2021-09-23,458015,663432,,ball,12,Joey Votto walks.,2,1,2,4,8,0.85,2.66
 126,2021-09-23,458015,571578,strikeout,swinging_strike,13,Joey Votto strikes out swinging.,2,2,2,5,1,-1.06,1.45
-127,2021-09-23,458015,571578,,swinging_strike,13,Joey Votto strikes out swinging.,2,1,2,4,1,-0.54,0.9
-128,2021-09-23,458015,663432,,ball,12,Joey Votto walks.,1,1,2,3,8,1.5,2.78
-129,2021-09-23,458015,663432,,called_strike,8,Joey Votto walks.,1,0,2,2,8,0.07,1.73
-130,2021-09-23,458015,571578,,called_strike,5,Joey Votto strikes out swinging.,2,0,2,3,1,0.17,2.14
+127,2021-09-23,458015,663432,,ball,12,Joey Votto walks.,1,1,2,3,8,1.5,2.78
+128,2021-09-23,458015,571578,,swinging_strike,13,Joey Votto strikes out swinging.,2,1,2,4,1,-0.54,0.9
+129,2021-09-23,458015,571578,,called_strike,5,Joey Votto strikes out swinging.,2,0,2,3,1,0.17,2.14
+130,2021-09-23,458015,663432,,called_strike,8,Joey Votto walks.,1,0,2,2,8,0.07,1.73
 131,2021-09-23,458015,571578,,blocked_ball,13,Joey Votto strikes out swinging.,1,0,2,2,1,-1.55,0.67
 132,2021-09-23,458015,663432,,ball,11,Joey Votto walks.,0,0,2,1,8,-1.17,4.04
 133,2021-09-23,458015,571578,,ball,13,Joey Votto strikes out swinging.,0,0,2,1,1,-1.36,2.0
@@ -147,33 +147,33 @@
 145,2021-09-21,458015,608717,field_out,hit_into_play,5,Joey Votto lines out to center fielder Bryan Reynolds.,1,2,2,4,9,0.15,2.65
 146,2021-09-21,458015,656605,field_out,hit_into_play,12,Joey Votto pops out to catcher Michael Perez in foul territory.,1,1,2,3,1,0.76,3.68
 147,2021-09-21,458015,608717,,foul,2,Joey Votto lines out to center fielder Bryan Reynolds.,1,1,2,3,9,0.24,3.57
-148,2021-09-21,458015,608717,,ball,11,Joey Votto lines out to center fielder Bryan Reynolds.,0,1,2,2,9,-0.99,4.15
-149,2021-09-21,458015,656605,,swinging_strike,12,Joey Votto pops out to catcher Michael Perez in foul territory.,1,0,2,2,1,0.13,3.6
-150,2021-09-21,458015,608717,,called_strike,13,Joey Votto lines out to center fielder Bryan Reynolds.,0,0,2,1,9,-0.95,2.52
-151,2021-09-21,458015,656605,,ball,11,Joey Votto pops out to catcher Michael Perez in foul territory.,0,0,2,1,1,-0.81,4.68
+148,2021-09-21,458015,656605,,swinging_strike,12,Joey Votto pops out to catcher Michael Perez in foul territory.,1,0,2,2,1,0.13,3.6
+149,2021-09-21,458015,608717,,ball,11,Joey Votto lines out to center fielder Bryan Reynolds.,0,1,2,2,9,-0.99,4.15
+150,2021-09-21,458015,656605,,ball,11,Joey Votto pops out to catcher Michael Perez in foul territory.,0,0,2,1,1,-0.81,4.68
+151,2021-09-21,458015,608717,,called_strike,13,Joey Votto lines out to center fielder Bryan Reynolds.,0,0,2,1,9,-0.95,2.52
 152,2021-09-20,458015,596071,home_run,hit_into_play,7,Joey Votto homers (32) on a fly ball to right field.    Nick Castellanos scores.,0,1,2,2,3,-0.41,2.1
 153,2021-09-20,458015,596071,,foul,1,Joey Votto homers (32) on a fly ball to right field.    Nick Castellanos scores.,0,0,2,1,3,-0.56,3.52
 154,2021-09-20,458015,664074,home_run,hit_into_play,9,Joey Votto homers (33) on a fly ball to right center field.,2,2,2,6,5,0.66,1.64
 155,2021-09-20,458015,664074,,foul,2,Joey Votto homers (33) on a fly ball to right center field.,2,2,2,5,5,0.11,3.57
 156,2021-09-20,458015,660853,single,hit_into_play,7,Joey Votto singles on a sharp line drive to right fielder Yoshi Tsutsugo.   Nick Castellanos to 2nd.,1,2,2,4,8,-0.75,2.1
-157,2021-09-20,458015,664074,,ball,13,Joey Votto homers (33) on a fly ball to right center field.,1,2,2,4,5,-0.48,0.89
-158,2021-09-20,458015,660853,,ball,11,Joey Votto singles on a sharp line drive to right fielder Yoshi Tsutsugo.   Nick Castellanos to 2nd.,0,2,2,3,8,-0.2,4.48
+157,2021-09-20,458015,660853,,ball,11,Joey Votto singles on a sharp line drive to right fielder Yoshi Tsutsugo.   Nick Castellanos to 2nd.,0,2,2,3,8,-0.2,4.48
+158,2021-09-20,458015,664074,,ball,13,Joey Votto homers (33) on a fly ball to right center field.,1,2,2,4,5,-0.48,0.89
 159,2021-09-20,458015,660853,,foul,4,Joey Votto singles on a sharp line drive to right fielder Yoshi Tsutsugo.   Nick Castellanos to 2nd.,0,1,2,2,8,-0.48,2.73
 160,2021-09-20,458015,664074,,called_strike,4,Joey Votto homers (33) on a fly ball to right center field.,1,1,2,3,5,-0.45,2.29
 161,2021-09-20,458015,664074,,ball,13,Joey Votto homers (33) on a fly ball to right center field.,0,1,2,2,5,-0.66,1.03
 162,2021-09-20,458015,660853,,foul,3,Joey Votto singles on a sharp line drive to right fielder Yoshi Tsutsugo.   Nick Castellanos to 2nd.,0,0,2,1,8,0.35,3.45
 163,2021-09-20,458015,664074,,swinging_strike,14,Joey Votto homers (33) on a fly ball to right center field.,0,0,2,1,5,0.3,1.14
 164,2021-09-20,458015,596071,walk,ball,11,Joey Votto walks.,3,2,0,6,2,-1.05,4.13
-165,2021-09-20,458015,596071,,foul,6,Joey Votto walks.,3,1,0,5,2,0.33,2.21
-166,2021-09-20,458015,664918,walk,ball,3,Joey Votto walks.   Nick Castellanos to 2nd.,3,2,1,8,7,0.72,3.2
+165,2021-09-20,458015,664918,walk,ball,3,Joey Votto walks.   Nick Castellanos to 2nd.,3,2,1,8,7,0.72,3.2
+166,2021-09-20,458015,596071,,foul,6,Joey Votto walks.,3,1,0,5,2,0.33,2.21
 167,2021-09-20,458015,664918,,foul,2,Joey Votto walks.   Nick Castellanos to 2nd.,3,2,1,7,7,-0.26,3.05
 168,2021-09-20,458015,596071,,ball,3,Joey Votto walks.,2,1,0,4,2,0.78,3.59
 169,2021-09-20,458015,664918,,ball,11,Joey Votto walks.   Nick Castellanos to 2nd.,2,2,1,6,7,-1.08,4.1
 170,2021-09-20,458015,596071,,ball,12,Joey Votto walks.,1,1,0,3,2,1.09,2.91
 171,2021-09-20,458015,664918,,ball,11,Joey Votto walks.   Nick Castellanos to 2nd.,1,2,1,5,7,-0.48,4.02
 172,2021-09-20,458015,596071,,called_strike,2,Joey Votto walks.,1,0,0,2,2,0.14,3.13
-173,2021-09-20,458015,596071,,ball,12,Joey Votto walks.,0,0,0,1,2,1.65,3.02
-174,2021-09-20,458015,664918,,foul,3,Joey Votto walks.   Nick Castellanos to 2nd.,1,2,1,4,7,0.55,2.92
+173,2021-09-20,458015,664918,,foul,3,Joey Votto walks.   Nick Castellanos to 2nd.,1,2,1,4,7,0.55,2.92
+174,2021-09-20,458015,596071,,ball,12,Joey Votto walks.,0,0,0,1,2,1.65,3.02
 175,2021-09-20,458015,664918,,foul,3,Joey Votto walks.   Nick Castellanos to 2nd.,1,1,1,3,7,0.68,3.04
 176,2021-09-20,458015,664918,,ball,14,Joey Votto walks.   Nick Castellanos to 2nd.,0,1,1,2,7,1.01,1.75
 177,2021-09-20,458015,664918,,foul,8,Joey Votto walks.   Nick Castellanos to 2nd.,0,0,1,1,7,0.05,1.88
@@ -225,8 +225,8 @@
 223,2021-09-17,458015,660813,,ball,7,"Joey Votto grounds out sharply, second baseman Trea Turner to first baseman Max Muncy.   Aristides Aquino to 2nd.",0,1,1,2,8,-0.35,1.48
 224,2021-09-17,458015,660813,,called_strike,5,"Joey Votto grounds out sharply, second baseman Trea Turner to first baseman Max Muncy.   Aristides Aquino to 2nd.",0,0,1,1,8,0.2,3.17
 225,2021-09-16,458015,656818,walk,ball,11,Joey Votto walks.   Max Schrock to 2nd.,3,2,2,7,1,-1.98,4.27
-226,2021-09-16,458015,656818,,foul,7,Joey Votto walks.   Max Schrock to 2nd.,3,2,2,6,1,-0.82,1.95
-227,2021-09-16,458015,664074,field_out,hit_into_play,12,Joey Votto flies out to right fielder Yoshi Tsutsugo.,0,0,1,1,6,0.87,3.39
+226,2021-09-16,458015,664074,field_out,hit_into_play,12,Joey Votto flies out to right fielder Yoshi Tsutsugo.,0,0,1,1,6,0.87,3.39
+227,2021-09-16,458015,656818,,foul,7,Joey Votto walks.   Max Schrock to 2nd.,3,2,2,6,1,-0.82,1.95
 228,2021-09-16,458015,656818,,ball,3,Joey Votto walks.   Max Schrock to 2nd.,2,2,2,5,1,0.76,3.01
 229,2021-09-16,458015,656818,,blocked_ball,13,Joey Votto walks.   Max Schrock to 2nd.,1,2,2,4,1,-0.68,0.97
 230,2021-09-16,458015,656818,,called_strike,13,Joey Votto walks.   Max Schrock to 2nd.,1,1,2,3,1,-0.96,2.52
@@ -250,10 +250,10 @@
 248,2021-09-15,458015,607572,,foul,13,Joey Votto strikes out swinging.,2,2,0,5,8,-0.99,1.45
 249,2021-09-15,458015,607455,field_out,hit_into_play,11,Joey Votto pops out to shortstop Kevin Newman.,1,2,0,4,6,-1.18,2.62
 250,2021-09-15,458015,607572,,swinging_strike,3,Joey Votto strikes out swinging.,2,1,0,4,8,0.36,3.53
-251,2021-09-15,458015,607572,,foul,4,Joey Votto strikes out swinging.,2,0,0,3,8,-0.57,2.57
-252,2021-09-15,458015,607455,,swinging_strike,4,Joey Votto pops out to shortstop Kevin Newman.,1,1,0,3,6,-0.7,2.86
-253,2021-09-15,458015,607455,,foul_tip,5,Joey Votto pops out to shortstop Kevin Newman.,1,0,0,2,6,-0.16,2.41
-254,2021-09-15,458015,607572,,ball,13,Joey Votto strikes out swinging.,1,0,0,2,8,-0.36,0.95
+251,2021-09-15,458015,607455,,swinging_strike,4,Joey Votto pops out to shortstop Kevin Newman.,1,1,0,3,6,-0.7,2.86
+252,2021-09-15,458015,607572,,foul,4,Joey Votto strikes out swinging.,2,0,0,3,8,-0.57,2.57
+253,2021-09-15,458015,607572,,ball,13,Joey Votto strikes out swinging.,1,0,0,2,8,-0.36,0.95
+254,2021-09-15,458015,607455,,foul_tip,5,Joey Votto pops out to shortstop Kevin Newman.,1,0,0,2,6,-0.16,2.41
 255,2021-09-15,458015,607455,,ball,11,Joey Votto pops out to shortstop Kevin Newman.,0,0,0,1,6,-1.17,2.99
 256,2021-09-15,458015,607572,,ball,11,Joey Votto strikes out swinging.,0,0,0,1,8,-0.96,2.8
 257,2021-09-14,458015,596071,double,hit_into_play,5,Joey Votto doubles (21) on a line drive to left fielder Anthony Alford.,2,2,1,5,4,-0.27,2.48
@@ -272,12 +272,12 @@
 270,2021-09-14,458015,683232,walk,ball,12,Joey Votto walks.,3,2,0,6,6,0.4,4.85
 271,2021-09-14,458015,683232,,ball,14,Joey Votto walks.,2,2,0,5,6,1.01,0.77
 272,2021-09-14,458015,683232,,foul_tip,6,Joey Votto walks.,2,1,0,4,6,0.35,2.59
-273,2021-09-14,458015,592741,field_out,hit_into_play,8,Joey Votto lines out to right fielder Ben Gamel.,1,1,0,3,7,0.22,2.03
-274,2021-09-14,458015,683232,,ball,14,Joey Votto walks.,1,1,0,3,6,1.16,1.28
+273,2021-09-14,458015,683232,,ball,14,Joey Votto walks.,1,1,0,3,6,1.16,1.28
+274,2021-09-14,458015,592741,field_out,hit_into_play,8,Joey Votto lines out to right fielder Ben Gamel.,1,1,0,3,7,0.22,2.03
 275,2021-09-14,458015,683232,,ball,11,Joey Votto walks.,0,1,0,2,6,-0.64,3.48
 276,2021-09-14,458015,592741,,ball,13,Joey Votto lines out to right fielder Ben Gamel.,0,1,0,2,7,-0.29,0.54
-277,2021-09-14,458015,592741,,called_strike,5,Joey Votto lines out to right fielder Ben Gamel.,0,0,0,1,7,0.0,2.79
-278,2021-09-14,458015,683232,,swinging_strike,14,Joey Votto walks.,0,0,0,1,6,0.9,1.18
+277,2021-09-14,458015,683232,,swinging_strike,14,Joey Votto walks.,0,0,0,1,6,0.9,1.18
+278,2021-09-14,458015,592741,,called_strike,5,Joey Votto lines out to right fielder Ben Gamel.,0,0,0,1,7,0.0,2.79
 279,2021-09-12,458015,457918,strikeout,swinging_strike,5,Joey Votto strikes out swinging.,0,2,0,5,4,-0.15,2.2
 280,2021-09-12,458015,457918,,foul,8,Joey Votto strikes out swinging.,0,2,0,4,4,-0.2,2.09
 281,2021-09-12,458015,457918,,foul,14,Joey Votto strikes out swinging.,0,2,0,3,4,1.04,1.72
@@ -290,10 +290,10 @@
 288,2021-09-12,458015,606149,field_out,hit_into_play,5,Joey Votto pops out to shortstop Edmundo Sosa.,1,2,1,4,9,0.23,2.21
 289,2021-09-12,458015,606149,,swinging_strike,14,Joey Votto pops out to shortstop Edmundo Sosa.,1,1,1,3,9,0.23,0.32
 290,2021-09-12,458015,472610,strikeout,swinging_strike,7,Joey Votto strikes out swinging.,2,2,2,6,6,-0.61,1.7
-291,2021-09-12,458015,472610,,ball,13,Joey Votto strikes out swinging.,1,2,2,5,6,-2.17,1.82
-292,2021-09-12,458015,606149,,ball,14,Joey Votto pops out to shortstop Edmundo Sosa.,0,1,1,2,9,0.84,1.02
-293,2021-09-12,458015,472610,,blocked_ball,14,Joey Votto strikes out swinging.,0,2,2,4,6,0.08,0.25
-294,2021-09-12,458015,606149,,swinging_strike,8,Joey Votto pops out to shortstop Edmundo Sosa.,0,0,1,1,9,0.12,1.57
+291,2021-09-12,458015,606149,,ball,14,Joey Votto pops out to shortstop Edmundo Sosa.,0,1,1,2,9,0.84,1.02
+292,2021-09-12,458015,472610,,ball,13,Joey Votto strikes out swinging.,1,2,2,5,6,-2.17,1.82
+293,2021-09-12,458015,606149,,swinging_strike,8,Joey Votto pops out to shortstop Edmundo Sosa.,0,0,1,1,9,0.12,1.57
+294,2021-09-12,458015,472610,,blocked_ball,14,Joey Votto strikes out swinging.,0,2,2,4,6,0.08,0.25
 295,2021-09-12,458015,472610,,foul,11,Joey Votto strikes out swinging.,0,2,2,3,6,-1.05,2.7
 296,2021-09-12,458015,472610,,swinging_strike_blocked,13,Joey Votto strikes out swinging.,0,1,2,2,6,-0.23,0.49
 297,2021-09-12,458015,472610,,foul,1,Joey Votto strikes out swinging.,0,0,2,1,6,-0.47,2.94
@@ -362,18 +362,18 @@
 360,2021-09-06,458015,605388,,called_strike,8,Joey Votto lines out sharply to center fielder Rafael Ortega.,0,0,2,1,9,-0.01,1.75
 361,2021-09-05,458015,642397,strikeout,swinging_strike,13,Joey Votto strikes out swinging.,1,2,2,6,8,-1.26,2.01
 362,2021-09-05,458015,642397,,blocked_ball,13,Joey Votto strikes out swinging.,0,2,2,5,8,-0.71,0.52
-363,2021-09-05,458015,642397,,foul,4,Joey Votto strikes out swinging.,0,2,2,4,8,-0.28,2.39
-364,2021-09-05,458015,570632,double_play,hit_into_play,8,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",3,2,1,6,4,-0.03,2.17
+363,2021-09-05,458015,570632,double_play,hit_into_play,8,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",3,2,1,6,4,-0.03,2.17
+364,2021-09-05,458015,642397,,foul,4,Joey Votto strikes out swinging.,0,2,2,4,8,-0.28,2.39
 365,2021-09-05,458015,642397,,foul,4,Joey Votto strikes out swinging.,0,2,2,3,8,-0.48,2.48
 366,2021-09-05,458015,570632,,blocked_ball,14,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",2,2,1,5,4,1.28,0.25
-367,2021-09-05,458015,570632,,foul,4,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",2,1,1,4,4,-0.37,2.26
-368,2021-09-05,458015,642397,,foul,7,Joey Votto strikes out swinging.,0,1,2,2,8,-0.7,1.94
+367,2021-09-05,458015,642397,,foul,7,Joey Votto strikes out swinging.,0,1,2,2,8,-0.7,1.94
+368,2021-09-05,458015,570632,,foul,4,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",2,1,1,4,4,-0.37,2.26
 369,2021-09-05,458015,570632,,blocked_ball,14,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",1,1,1,3,4,0.58,0.57
 370,2021-09-05,458015,642397,,swinging_strike,7,Joey Votto strikes out swinging.,0,0,2,1,8,-0.52,1.84
-371,2021-09-05,458015,570632,,ball,14,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",0,1,1,2,4,0.48,1.04
-372,2021-09-05,458015,663554,field_out,hit_into_play,2,Joey Votto flies out to left fielder Robbie Grossman.,2,2,0,5,2,0.15,3.32
-373,2021-09-05,458015,663554,,called_strike,1,Joey Votto flies out to left fielder Robbie Grossman.,2,1,0,4,2,-0.58,3.31
-374,2021-09-05,458015,570632,,swinging_strike,14,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",0,0,1,1,4,0.22,1.06
+371,2021-09-05,458015,663554,field_out,hit_into_play,2,Joey Votto flies out to left fielder Robbie Grossman.,2,2,0,5,2,0.15,3.32
+372,2021-09-05,458015,570632,,ball,14,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",0,1,1,2,4,0.48,1.04
+373,2021-09-05,458015,570632,,swinging_strike,14,"Joey Votto lines into a double play, second baseman Willi Castro to shortstop Niko Goodrum.   Tyler Naquin out at 2nd.",0,0,1,1,4,0.22,1.06
+374,2021-09-05,458015,663554,,called_strike,1,Joey Votto flies out to left fielder Robbie Grossman.,2,1,0,4,2,-0.58,3.31
 375,2021-09-05,458015,663554,,ball,11,Joey Votto flies out to left fielder Robbie Grossman.,1,1,0,3,2,-0.6,4.92
 376,2021-09-05,458015,663554,,ball,14,Joey Votto flies out to left fielder Robbie Grossman.,0,1,0,2,2,0.95,2.02
 377,2021-09-05,458015,663554,,foul,2,Joey Votto flies out to left fielder Robbie Grossman.,0,0,0,1,2,-0.25,3.44
@@ -424,8 +424,8 @@
 422,2021-09-01,458015,457918,,foul,9,Joey Votto singles on a sharp line drive to center fielder Harrison Bader.,2,2,0,5,2,0.55,1.68
 423,2021-09-01,458015,457918,,ball,13,Joey Votto singles on a sharp line drive to center fielder Harrison Bader.,1,2,0,4,2,-1.24,0.73
 424,2021-09-01,458015,457918,,foul,6,Joey Votto singles on a sharp line drive to center fielder Harrison Bader.,1,1,0,3,2,0.44,2.52
-425,2021-09-01,458015,457918,,ball,13,Joey Votto singles on a sharp line drive to center fielder Harrison Bader.,0,1,0,2,2,-1.48,0.83
-426,2021-09-01,458015,571945,double,hit_into_play,7,Joey Votto doubles (18) on a sharp line drive to center fielder Harrison Bader.   Nick Castellanos scores.,0,0,1,1,3,-0.45,1.61
+425,2021-09-01,458015,571945,double,hit_into_play,7,Joey Votto doubles (18) on a sharp line drive to center fielder Harrison Bader.   Nick Castellanos scores.,0,0,1,1,3,-0.45,1.61
+426,2021-09-01,458015,457918,,ball,13,Joey Votto singles on a sharp line drive to center fielder Harrison Bader.,0,1,0,2,2,-1.48,0.83
 427,2021-09-01,458015,457918,,called_strike,9,Joey Votto singles on a sharp line drive to center fielder Harrison Bader.,0,0,0,1,2,0.36,1.82
 428,2021-09-01,458015,594965,walk,ball,12,Joey Votto walks.   Nick Castellanos to 2nd.,3,2,0,7,3,0.65,5.27
 429,2021-09-01,458015,594965,,ball,11,Joey Votto walks.   Nick Castellanos to 2nd.,2,2,0,6,3,-1.26,4.2
@@ -435,8 +435,8 @@
 433,2021-09-01,458015,594965,,ball,12,Joey Votto walks.   Nick Castellanos to 2nd.,1,1,0,3,3,0.94,2.91
 434,2021-09-01,458015,650893,,foul,5,"Joey Votto grounds into a double play, shortstop Edmundo Sosa to third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Nick Castellanos out at 2nd.    Joey Votto out at 1st.",2,1,0,4,5,0.26,2.37
 435,2021-09-01,458015,594965,,called_strike,8,Joey Votto walks.   Nick Castellanos to 2nd.,1,0,0,2,3,0.13,1.84
-436,2021-09-01,458015,650893,,called_strike,7,"Joey Votto grounds into a double play, shortstop Edmundo Sosa to third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Nick Castellanos out at 2nd.    Joey Votto out at 1st.",2,0,0,3,5,-0.82,1.84
-437,2021-09-01,458015,594965,,ball,12,Joey Votto walks.   Nick Castellanos to 2nd.,0,0,0,1,3,0.33,3.94
+436,2021-09-01,458015,594965,,ball,12,Joey Votto walks.   Nick Castellanos to 2nd.,0,0,0,1,3,0.33,3.94
+437,2021-09-01,458015,650893,,called_strike,7,"Joey Votto grounds into a double play, shortstop Edmundo Sosa to third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Nick Castellanos out at 2nd.    Joey Votto out at 1st.",2,0,0,3,5,-0.82,1.84
 438,2021-09-01,458015,650893,,ball,11,"Joey Votto grounds into a double play, shortstop Edmundo Sosa to third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Nick Castellanos out at 2nd.    Joey Votto out at 1st.",1,0,0,2,5,-0.83,2.75
 439,2021-09-01,458015,650893,,ball,12,"Joey Votto grounds into a double play, shortstop Edmundo Sosa to third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Nick Castellanos out at 2nd.    Joey Votto out at 1st.",0,0,0,1,5,0.2,3.64
 440,2021-09-01,458015,571945,walk,ball,9,Joey Votto walks.,3,0,0,4,2,0.8,1.76
@@ -481,10 +481,10 @@
 479,2021-08-29,458015,666200,,ball,9,Joey Votto called out on strikes.,1,2,1,4,1,0.82,1.86
 480,2021-08-29,458015,571670,sac_fly,hit_into_play,7,Joey Votto out on a sacrifice fly to center fielder Magneuris Sierra.   Jonathan India scores.,2,2,1,5,9,-0.53,2.0
 481,2021-08-29,458015,666200,,blocked_ball,13,Joey Votto called out on strikes.,0,2,1,3,1,-1.35,-0.27
-482,2021-08-29,458015,571670,,called_strike,9,Joey Votto out on a sacrifice fly to center fielder Magneuris Sierra.   Jonathan India scores.,2,1,1,4,9,0.74,1.91
-483,2021-08-29,458015,666200,,swinging_strike,13,Joey Votto called out on strikes.,0,1,1,2,1,-1.23,0.88
-484,2021-08-29,458015,571670,,ball,14,Joey Votto out on a sacrifice fly to center fielder Magneuris Sierra.   Jonathan India scores.,1,1,1,3,9,0.84,2.58
-485,2021-08-29,458015,666200,,swinging_strike,13,Joey Votto called out on strikes.,0,0,1,1,1,-1.23,1.74
+482,2021-08-29,458015,666200,,swinging_strike,13,Joey Votto called out on strikes.,0,1,1,2,1,-1.23,0.88
+483,2021-08-29,458015,571670,,called_strike,9,Joey Votto out on a sacrifice fly to center fielder Magneuris Sierra.   Jonathan India scores.,2,1,1,4,9,0.74,1.91
+484,2021-08-29,458015,666200,,swinging_strike,13,Joey Votto called out on strikes.,0,0,1,1,1,-1.23,1.74
+485,2021-08-29,458015,571670,,ball,14,Joey Votto out on a sacrifice fly to center fielder Magneuris Sierra.   Jonathan India scores.,1,1,1,3,9,0.84,2.58
 486,2021-08-29,458015,571670,,called_strike,7,Joey Votto out on a sacrifice fly to center fielder Magneuris Sierra.   Jonathan India scores.,1,0,1,2,9,-0.76,1.88
 487,2021-08-29,458015,571670,,ball,13,Joey Votto out on a sacrifice fly to center fielder Magneuris Sierra.   Jonathan India scores.,0,0,1,1,9,-0.03,0.89
 488,2021-08-28,458015,645261,strikeout,swinging_strike,14,Joey Votto strikes out swinging.,0,2,2,3,5,0.71,1.3
@@ -550,14 +550,14 @@
 548,2021-08-25,458015,605540,,foul,2,Joey Votto called out on strikes.,3,2,1,7,1,0.14,3.07
 549,2021-08-25,458015,605540,,foul,8,Joey Votto called out on strikes.,3,2,1,6,1,0.08,1.64
 550,2021-08-25,458015,605540,,blocked_ball,13,Joey Votto called out on strikes.,2,2,1,5,1,-1.57,0.61
-551,2021-08-25,458015,664776,strikeout,called_strike,11,Joey Votto called out on strikes.,1,2,1,4,9,-0.83,3.04
-552,2021-08-25,458015,605540,,foul,2,Joey Votto called out on strikes.,2,1,1,4,1,-0.26,3.1
+551,2021-08-25,458015,605540,,foul,2,Joey Votto called out on strikes.,2,1,1,4,1,-0.26,3.1
+552,2021-08-25,458015,664776,strikeout,called_strike,11,Joey Votto called out on strikes.,1,2,1,4,9,-0.83,3.04
 553,2021-08-25,458015,664776,,called_strike,3,Joey Votto called out on strikes.,1,1,1,3,9,0.38,3.52
 554,2021-08-25,458015,605540,,foul,5,Joey Votto called out on strikes.,2,0,1,3,1,-0.19,2.2
 555,2021-08-25,458015,664776,,ball,14,Joey Votto called out on strikes.,0,1,1,2,9,1.28,0.3
 556,2021-08-25,458015,605540,,ball,13,Joey Votto called out on strikes.,1,0,1,2,1,-0.97,2.48
-557,2021-08-25,458015,605540,,ball,11,Joey Votto called out on strikes.,0,0,1,1,1,-1.04,3.24
-558,2021-08-25,458015,664776,,called_strike,6,Joey Votto called out on strikes.,0,0,1,1,9,0.34,2.55
+557,2021-08-25,458015,664776,,called_strike,6,Joey Votto called out on strikes.,0,0,1,1,9,0.34,2.55
+558,2021-08-25,458015,605540,,ball,11,Joey Votto called out on strikes.,0,0,1,1,1,-1.04,3.24
 559,2021-08-24,458015,669203,strikeout,called_strike,7,Joey Votto called out on strikes.,2,2,2,5,5,-0.55,2.03
 560,2021-08-24,458015,669203,,ball,8,Joey Votto called out on strikes.,1,2,2,4,5,0.15,1.6
 561,2021-08-24,458015,669203,,swinging_strike,5,Joey Votto called out on strikes.,1,1,2,3,5,-0.04,2.62
@@ -616,8 +616,8 @@
 614,2021-08-20,458015,622694,field_error,hit_into_play,6,Joey Votto reaches on a fielding error by first baseman Jesus Aguilar.   Nick Castellanos to 3rd.,1,2,1,6,1,0.42,2.6
 615,2021-08-20,458015,542947,field_out,hit_into_play,5,Joey Votto flies out sharply to center fielder Lewis Brinson.,0,1,2,2,7,0.17,2.29
 616,2021-08-20,458015,622694,,ball,11,Joey Votto reaches on a fielding error by first baseman Jesus Aguilar.   Nick Castellanos to 3rd.,0,2,1,5,1,-0.26,3.86
-617,2021-08-20,458015,622694,,foul,9,Joey Votto reaches on a fielding error by first baseman Jesus Aguilar.   Nick Castellanos to 3rd.,0,2,1,4,1,0.57,2.16
-618,2021-08-20,458015,542947,,called_strike,5,Joey Votto flies out sharply to center fielder Lewis Brinson.,0,0,2,1,7,-0.17,3.19
+617,2021-08-20,458015,542947,,called_strike,5,Joey Votto flies out sharply to center fielder Lewis Brinson.,0,0,2,1,7,-0.17,3.19
+618,2021-08-20,458015,622694,,foul,9,Joey Votto reaches on a fielding error by first baseman Jesus Aguilar.   Nick Castellanos to 3rd.,0,2,1,4,1,0.57,2.16
 619,2021-08-20,458015,622694,,foul,13,Joey Votto reaches on a fielding error by first baseman Jesus Aguilar.   Nick Castellanos to 3rd.,0,2,1,3,1,-0.95,1.81
 620,2021-08-20,458015,622694,,foul,4,Joey Votto reaches on a fielding error by first baseman Jesus Aguilar.   Nick Castellanos to 3rd.,0,1,1,2,1,-0.39,2.8
 621,2021-08-20,458015,622694,,foul,6,Joey Votto reaches on a fielding error by first baseman Jesus Aguilar.   Nick Castellanos to 3rd.,0,0,1,1,1,0.44,2.44
@@ -651,14 +651,14 @@
 649,2021-08-18,458015,592716,field_out,hit_into_play,2,Joey Votto flies out to right fielder Michael Hermosillo.,3,2,1,6,1,-0.01,3.04
 650,2021-08-18,458015,592716,,foul,7,Joey Votto flies out to right fielder Michael Hermosillo.,3,1,1,5,1,-0.43,1.83
 651,2021-08-18,458015,655889,strikeout,called_strike,3,Joey Votto called out on strikes.,0,2,2,3,5,0.73,3.02
-652,2021-08-18,458015,655889,,foul,12,Joey Votto called out on strikes.,0,1,2,2,5,0.45,3.6
-653,2021-08-18,458015,592716,,ball,11,Joey Votto flies out to right fielder Michael Hermosillo.,2,1,1,4,1,-1.02,3.3
-654,2021-08-18,458015,655889,,swinging_strike,3,Joey Votto called out on strikes.,0,0,2,1,5,0.66,3.53
-655,2021-08-18,458015,592716,,called_strike,2,Joey Votto flies out to right fielder Michael Hermosillo.,2,0,1,3,1,0.21,3.34
-656,2021-08-18,458015,592716,,ball,11,Joey Votto flies out to right fielder Michael Hermosillo.,1,0,1,2,1,-1.3,3.26
-657,2021-08-18,458015,605388,strikeout,swinging_strike,5,Joey Votto strikes out swinging.,3,2,0,6,8,0.24,2.53
-658,2021-08-18,458015,592716,,ball,11,Joey Votto flies out to right fielder Michael Hermosillo.,0,0,1,1,1,-1.39,2.6
-659,2021-08-18,458015,605388,,ball,13,Joey Votto strikes out swinging.,2,2,0,5,8,-1.23,1.49
+652,2021-08-18,458015,592716,,ball,11,Joey Votto flies out to right fielder Michael Hermosillo.,2,1,1,4,1,-1.02,3.3
+653,2021-08-18,458015,655889,,foul,12,Joey Votto called out on strikes.,0,1,2,2,5,0.45,3.6
+654,2021-08-18,458015,592716,,called_strike,2,Joey Votto flies out to right fielder Michael Hermosillo.,2,0,1,3,1,0.21,3.34
+655,2021-08-18,458015,655889,,swinging_strike,3,Joey Votto called out on strikes.,0,0,2,1,5,0.66,3.53
+656,2021-08-18,458015,605388,strikeout,swinging_strike,5,Joey Votto strikes out swinging.,3,2,0,6,8,0.24,2.53
+657,2021-08-18,458015,592716,,ball,11,Joey Votto flies out to right fielder Michael Hermosillo.,1,0,1,2,1,-1.3,3.26
+658,2021-08-18,458015,605388,,ball,13,Joey Votto strikes out swinging.,2,2,0,5,8,-1.23,1.49
+659,2021-08-18,458015,592716,,ball,11,Joey Votto flies out to right fielder Michael Hermosillo.,0,0,1,1,1,-1.39,2.6
 660,2021-08-18,458015,605388,,foul,14,Joey Votto strikes out swinging.,2,1,0,4,8,0.38,1.18
 661,2021-08-18,458015,605388,,swinging_strike,8,Joey Votto strikes out swinging.,2,0,0,3,8,-0.13,1.79
 662,2021-08-18,458015,605388,,ball,13,Joey Votto strikes out swinging.,1,0,0,2,8,-1.32,1.57
@@ -692,14 +692,14 @@
 690,2021-08-16,458015,657006,,called_strike,8,Joey Votto walks.   Jonathan India to 2nd.,0,0,1,1,1,-0.04,2.1
 691,2021-08-16,458015,657228,single,hit_into_play,7,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,3,1,1,5,7,-0.7,1.47
 692,2021-08-16,458015,621074,strikeout,swinging_strike,2,Joey Votto strikes out swinging.,1,2,0,5,5,0.11,3.09
-693,2021-08-16,458015,657228,,ball,12,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,2,1,1,4,7,0.59,3.76
-694,2021-08-16,458015,621074,,foul,14,Joey Votto strikes out swinging.,1,2,0,4,5,0.44,0.99
-695,2021-08-16,458015,657228,,ball,13,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,1,1,1,3,7,-1.58,1.97
-696,2021-08-16,458015,621074,,called_strike,3,Joey Votto strikes out swinging.,1,1,0,3,5,0.75,2.92
-697,2021-08-16,458015,657228,,called_strike,9,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,1,0,1,2,7,0.29,1.92
-698,2021-08-16,458015,621074,,ball,14,Joey Votto strikes out swinging.,0,1,0,2,5,0.04,-0.67
-699,2021-08-16,458015,657228,,ball,14,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,0,0,1,1,7,1.44,1.85
-700,2021-08-16,458015,621074,,swinging_strike,14,Joey Votto strikes out swinging.,0,0,0,1,5,1.26,2.23
+693,2021-08-16,458015,621074,,foul,14,Joey Votto strikes out swinging.,1,2,0,4,5,0.44,0.99
+694,2021-08-16,458015,657228,,ball,12,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,2,1,1,4,7,0.59,3.76
+695,2021-08-16,458015,621074,,called_strike,3,Joey Votto strikes out swinging.,1,1,0,3,5,0.75,2.92
+696,2021-08-16,458015,657228,,ball,13,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,1,1,1,3,7,-1.58,1.97
+697,2021-08-16,458015,621074,,ball,14,Joey Votto strikes out swinging.,0,1,0,2,5,0.04,-0.67
+698,2021-08-16,458015,657228,,called_strike,9,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,1,0,1,2,7,0.29,1.92
+699,2021-08-16,458015,621074,,swinging_strike,14,Joey Votto strikes out swinging.,0,0,0,1,5,1.26,2.23
+700,2021-08-16,458015,657228,,ball,14,Joey Votto singles on a fly ball to left fielder Patrick Wisdom.   Jonathan India scores.    Nick Castellanos to 3rd.,0,0,1,1,7,1.44,1.85
 701,2021-08-15,458015,605400,walk,ball,11,Joey Votto walks.   Jonathan India to 3rd.    Aristides Aquino to 2nd.,3,0,1,4,5,-1.04,4.07
 702,2021-08-15,458015,605400,,ball,11,Joey Votto walks.   Jonathan India to 3rd.    Aristides Aquino to 2nd.,2,0,1,3,5,-0.57,3.99
 703,2021-08-15,458015,605400,,ball,11,Joey Votto walks.   Jonathan India to 3rd.    Aristides Aquino to 2nd.,1,0,1,2,5,-1.23,3.26
@@ -713,30 +713,30 @@
 711,2021-08-15,458015,605400,,ball,13,Joey Votto pops out to third baseman Ronald Torreyes.,0,0,2,1,3,-1.48,2.02
 712,2021-08-15,458015,641401,field_out,hit_into_play,11,Joey Votto lines out to first baseman Alec Bohm.,2,2,2,6,7,-0.87,2.91
 713,2021-08-15,458015,641401,,foul,13,Joey Votto lines out to first baseman Alec Bohm.,2,2,2,5,7,-0.3,0.82
-714,2021-08-15,458015,641401,,foul,4,Joey Votto lines out to first baseman Alec Bohm.,2,1,2,4,7,-0.47,2.51
-715,2021-08-15,458015,605400,strikeout,swinging_strike,14,Joey Votto strikes out swinging.,1,2,2,4,1,0.41,1.3
+714,2021-08-15,458015,605400,strikeout,swinging_strike,14,Joey Votto strikes out swinging.,1,2,2,4,1,0.41,1.3
+715,2021-08-15,458015,641401,,foul,4,Joey Votto lines out to first baseman Alec Bohm.,2,1,2,4,7,-0.47,2.51
 716,2021-08-15,458015,605400,,ball,13,Joey Votto strikes out swinging.,0,2,2,3,1,-0.68,1.25
-717,2021-08-15,458015,660853,strikeout,swinging_strike,1,Joey Votto strikes out swinging.,2,2,1,5,9,-0.66,3.55
-718,2021-08-15,458015,641401,,foul,6,Joey Votto lines out to first baseman Alec Bohm.,2,0,2,3,7,0.28,2.52
+717,2021-08-15,458015,641401,,foul,6,Joey Votto lines out to first baseman Alec Bohm.,2,0,2,3,7,0.28,2.52
+718,2021-08-15,458015,660853,strikeout,swinging_strike,1,Joey Votto strikes out swinging.,2,2,1,5,9,-0.66,3.55
 719,2021-08-15,458015,660853,,ball,11,Joey Votto strikes out swinging.,1,2,1,4,9,-0.81,3.79
-720,2021-08-15,458015,605400,,swinging_strike,4,Joey Votto strikes out swinging.,0,1,2,2,1,-0.47,2.19
-721,2021-08-15,458015,641401,,ball,11,Joey Votto lines out to first baseman Alec Bohm.,1,0,2,2,7,-1.5,2.93
-722,2021-08-15,458015,641401,,ball,12,Joey Votto lines out to first baseman Alec Bohm.,0,0,2,1,7,1.07,3.55
-723,2021-08-15,458015,660853,,foul_tip,5,Joey Votto strikes out swinging.,1,1,1,3,9,0.24,2.79
-724,2021-08-15,458015,605400,,foul,9,Joey Votto strikes out swinging.,0,0,2,1,1,0.72,1.99
+720,2021-08-15,458015,641401,,ball,11,Joey Votto lines out to first baseman Alec Bohm.,1,0,2,2,7,-1.5,2.93
+721,2021-08-15,458015,605400,,swinging_strike,4,Joey Votto strikes out swinging.,0,1,2,2,1,-0.47,2.19
+722,2021-08-15,458015,605400,,foul,9,Joey Votto strikes out swinging.,0,0,2,1,1,0.72,1.99
+723,2021-08-15,458015,641401,,ball,12,Joey Votto lines out to first baseman Alec Bohm.,0,0,2,1,7,1.07,3.55
+724,2021-08-15,458015,660853,,foul_tip,5,Joey Votto strikes out swinging.,1,1,1,3,9,0.24,2.79
 725,2021-08-15,458015,660853,,ball,13,Joey Votto strikes out swinging.,0,1,1,2,9,-0.66,1.28
 726,2021-08-15,458015,660853,,foul,3,Joey Votto strikes out swinging.,0,0,1,1,9,0.68,2.91
 727,2021-08-14,458015,519043,strikeout,swinging_strike,13,Joey Votto strikes out swinging.,0,2,2,3,4,-0.43,1.06
 728,2021-08-14,458015,519043,,foul,7,Joey Votto strikes out swinging.,0,1,2,2,4,-0.46,2.11
 729,2021-08-14,458015,519043,,foul_tip,7,Joey Votto strikes out swinging.,0,0,2,1,4,-0.68,1.63
-730,2021-08-14,458015,453178,field_out,hit_into_play,2,Joey Votto pops out to third baseman Ronald Torreyes in foul territory.,1,2,2,4,9,0.06,3.47
-731,2021-08-14,458015,519043,walk,ball,12,Joey Votto walks.,3,1,0,5,2,0.55,4.19
+730,2021-08-14,458015,519043,walk,ball,12,Joey Votto walks.,3,1,0,5,2,0.55,4.19
+731,2021-08-14,458015,453178,field_out,hit_into_play,2,Joey Votto pops out to third baseman Ronald Torreyes in foul territory.,1,2,2,4,9,0.06,3.47
 732,2021-08-14,458015,453178,,foul,6,Joey Votto pops out to third baseman Ronald Torreyes in foul territory.,1,1,2,3,9,0.42,2.85
 733,2021-08-14,458015,519043,,foul,2,Joey Votto walks.,3,0,0,4,2,-0.05,3.49
-734,2021-08-14,458015,453178,,ball,13,Joey Votto pops out to third baseman Ronald Torreyes in foul territory.,0,1,2,2,9,-1.01,1.07
-735,2021-08-14,458015,519043,,ball,12,Joey Votto walks.,2,0,0,3,2,0.29,3.64
-736,2021-08-14,458015,453178,,foul,7,Joey Votto pops out to third baseman Ronald Torreyes in foul territory.,0,0,2,1,9,-0.57,1.64
-737,2021-08-14,458015,519043,,ball,13,Joey Votto walks.,1,0,0,2,2,-1.42,1.45
+734,2021-08-14,458015,519043,,ball,12,Joey Votto walks.,2,0,0,3,2,0.29,3.64
+735,2021-08-14,458015,453178,,ball,13,Joey Votto pops out to third baseman Ronald Torreyes in foul territory.,0,1,2,2,9,-1.01,1.07
+736,2021-08-14,458015,519043,,ball,13,Joey Votto walks.,1,0,0,2,2,-1.42,1.45
+737,2021-08-14,458015,453178,,foul,7,Joey Votto pops out to third baseman Ronald Torreyes in foul territory.,0,0,2,1,9,-0.57,1.64
 738,2021-08-14,458015,519043,,ball,11,Joey Votto walks.,0,0,0,1,2,-0.69,3.93
 739,2021-08-14,458015,593576,strikeout,swinging_strike,11,Joey Votto strikes out swinging.,1,2,2,4,7,-0.95,2.96
 740,2021-08-14,458015,593576,,called_strike,1,Joey Votto strikes out swinging.,1,1,2,3,7,-0.81,3.19
@@ -749,8 +749,8 @@
 747,2021-08-13,458015,554430,,swinging_strike,4,Joey Votto homers (26) on a fly ball to center field.   Tyler Naquin scores.    Nick Castellanos scores.,0,0,0,1,4,-0.44,2.37
 748,2021-08-13,458015,554430,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,1,2,0,4,2,-0.39,2.4
 749,2021-08-13,458015,554430,,called_strike,4,Joey Votto strikes out swinging.,1,1,0,3,2,-0.52,2.31
-750,2021-08-13,458015,554430,,ball,14,Joey Votto strikes out swinging.,0,1,0,2,2,1.77,1.2
-751,2021-08-13,458015,600944,field_out,hit_into_play,11,Joey Votto flies out sharply to right fielder Bryce Harper.,0,1,2,2,8,-0.06,3.62
+750,2021-08-13,458015,600944,field_out,hit_into_play,11,Joey Votto flies out sharply to right fielder Bryce Harper.,0,1,2,2,8,-0.06,3.62
+751,2021-08-13,458015,554430,,ball,14,Joey Votto strikes out swinging.,0,1,0,2,2,1.77,1.2
 752,2021-08-13,458015,554430,,called_strike,3,Joey Votto strikes out swinging.,0,0,0,1,2,0.41,2.77
 753,2021-08-13,458015,600944,,called_strike,4,Joey Votto flies out sharply to right fielder Bryce Harper.,0,0,2,1,8,-0.54,2.02
 754,2021-08-12,458015,666205,single,hit_into_play,7,Joey Votto singles on a sharp line drive to right fielder Jorge Soler.,2,2,0,7,3,-0.55,1.9
@@ -792,11 +792,11 @@
 790,2021-08-11,458015,657053,,foul,8,Joey Votto singles on a line drive to center fielder Guillermo Heredia.   Jesse Winker to 3rd.,2,1,2,4,1,-0.08,1.75
 791,2021-08-11,458015,455119,single,hit_into_play,3,Joey Votto singles on a sharp line drive to right fielder Jorge Soler.   Jesse Winker to 3rd.,2,1,2,4,7,0.39,2.94
 792,2021-08-11,458015,657053,,foul,13,Joey Votto singles on a line drive to center fielder Guillermo Heredia.   Jesse Winker to 3rd.,2,0,2,3,1,-0.42,1.33
-793,2021-08-11,458015,455119,,called_strike,8,Joey Votto singles on a sharp line drive to right fielder Jorge Soler.   Jesse Winker to 3rd.,2,0,2,3,7,0.0,1.72
-794,2021-08-11,458015,657053,,ball,11,Joey Votto singles on a line drive to center fielder Guillermo Heredia.   Jesse Winker to 3rd.,1,0,2,2,1,-0.94,2.91
-795,2021-08-11,458015,650828,strikeout,swinging_strike_blocked,13,Joey Votto strikes out swinging.,2,2,2,5,11,-0.29,0.63
-796,2021-08-11,458015,650828,,ball,11,Joey Votto strikes out swinging.,1,2,2,4,11,-1.39,3.51
-797,2021-08-11,458015,657053,,ball,14,Joey Votto singles on a line drive to center fielder Guillermo Heredia.   Jesse Winker to 3rd.,0,0,2,1,1,0.3,1.29
+793,2021-08-11,458015,657053,,ball,11,Joey Votto singles on a line drive to center fielder Guillermo Heredia.   Jesse Winker to 3rd.,1,0,2,2,1,-0.94,2.91
+794,2021-08-11,458015,650828,strikeout,swinging_strike_blocked,13,Joey Votto strikes out swinging.,2,2,2,5,11,-0.29,0.63
+795,2021-08-11,458015,455119,,called_strike,8,Joey Votto singles on a sharp line drive to right fielder Jorge Soler.   Jesse Winker to 3rd.,2,0,2,3,7,0.0,1.72
+796,2021-08-11,458015,657053,,ball,14,Joey Votto singles on a line drive to center fielder Guillermo Heredia.   Jesse Winker to 3rd.,0,0,2,1,1,0.3,1.29
+797,2021-08-11,458015,650828,,ball,11,Joey Votto strikes out swinging.,1,2,2,4,11,-1.39,3.51
 798,2021-08-11,458015,519293,home_run,hit_into_play,8,Joey Votto homers (25) on a fly ball to right center field.    Nick Castellanos scores.,0,0,1,1,9,0.01,1.6
 799,2021-08-11,458015,455119,,ball,11,Joey Votto singles on a sharp line drive to right fielder Jorge Soler.   Jesse Winker to 3rd.,1,0,2,2,7,-1.08,3.13
 800,2021-08-11,458015,650828,,swinging_strike,4,Joey Votto strikes out swinging.,1,1,2,3,11,-0.73,2.7
@@ -826,13 +826,13 @@
 824,2021-08-10,458015,554431,,foul,2,Joey Votto called out on strikes.,0,0,2,1,8,0.2,3.24
 825,2021-08-09,458015,621295,double,hit_into_play,8,Joey Votto doubles (14) on a sharp fly ball to left fielder Harold Ramirez.,0,0,1,1,8,0.03,1.75
 826,2021-08-09,458015,656529,single,hit_into_play,4,Joey Votto singles on a line drive to right fielder Bradley Zimmer.   Jonathan India scores.,0,1,2,2,1,-0.31,2.58
-827,2021-08-09,458015,621057,strikeout,swinging_strike,9,Joey Votto strikes out swinging.,3,2,1,6,3,0.6,1.71
-828,2021-08-09,458015,656529,,swinging_strike,13,Joey Votto singles on a line drive to right fielder Bradley Zimmer.   Jonathan India scores.,0,0,2,1,1,-1.23,1.41
+827,2021-08-09,458015,656529,,swinging_strike,13,Joey Votto singles on a line drive to right fielder Bradley Zimmer.   Jonathan India scores.,0,0,2,1,1,-1.23,1.41
+828,2021-08-09,458015,621057,strikeout,swinging_strike,9,Joey Votto strikes out swinging.,3,2,1,6,3,0.6,1.71
 829,2021-08-09,458015,621057,,foul,4,Joey Votto strikes out swinging.,3,1,1,5,3,-0.77,2.27
 830,2021-08-09,458015,621057,,ball,11,Joey Votto strikes out swinging.,2,1,1,4,3,-1.44,2.82
 831,2021-08-09,458015,621057,,foul,6,Joey Votto strikes out swinging.,2,0,1,3,3,0.31,2.31
-832,2021-08-09,458015,453284,field_out,hit_into_play,6,Joey Votto flies out sharply to center fielder Myles Straw.,2,0,2,3,5,0.45,2.53
-833,2021-08-09,458015,621057,,ball,13,Joey Votto strikes out swinging.,1,0,1,2,3,-2.19,2.32
+832,2021-08-09,458015,621057,,ball,13,Joey Votto strikes out swinging.,1,0,1,2,3,-2.19,2.32
+833,2021-08-09,458015,453284,field_out,hit_into_play,6,Joey Votto flies out sharply to center fielder Myles Straw.,2,0,2,3,5,0.45,2.53
 834,2021-08-09,458015,621057,,ball,12,Joey Votto strikes out swinging.,0,0,1,1,3,1.15,2.89
 835,2021-08-09,458015,453284,,ball,14,Joey Votto flies out sharply to center fielder Myles Straw.,1,0,2,2,5,0.65,0.99
 836,2021-08-09,458015,453284,,ball,11,Joey Votto flies out sharply to center fielder Myles Straw.,0,0,2,1,5,-1.32,3.71
@@ -842,8 +842,8 @@
 840,2021-08-08,458015,669060,,foul,14,Joey Votto singles on a sharp fly ball to center fielder Bryan Reynolds.   Jesse Winker scores.    Nick Castellanos to 3rd.,0,0,0,1,4,0.09,1.37
 841,2021-08-08,458015,669060,field_out,hit_into_play,1,Joey Votto lines out to second baseman Rodolfo Castro.,1,1,2,3,1,-0.46,3.35
 842,2021-08-08,458015,669060,,foul,5,Joey Votto lines out to second baseman Rodolfo Castro.,1,0,2,2,1,0.07,2.41
-843,2021-08-08,458015,669060,,ball,14,Joey Votto lines out to second baseman Rodolfo Castro.,0,0,2,1,1,1.29,2.0
-844,2021-08-08,458015,670280,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,2,2,0,5,8,-0.79,2.85
+843,2021-08-08,458015,670280,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,2,2,0,5,8,-0.79,2.85
+844,2021-08-08,458015,669060,,ball,14,Joey Votto lines out to second baseman Rodolfo Castro.,0,0,2,1,1,1.29,2.0
 845,2021-08-08,458015,670280,,foul,11,Joey Votto strikes out swinging.,2,1,0,4,8,-0.88,2.65
 846,2021-08-08,458015,670280,,ball,14,Joey Votto strikes out swinging.,1,1,0,3,8,0.0,1.1
 847,2021-08-08,458015,670280,,ball,14,Joey Votto strikes out swinging.,0,1,0,2,8,0.74,0.88
@@ -938,8 +938,8 @@
 936,2021-07-31,458015,448179,,ball,13,Joey Votto grounds out to first baseman Pete Alonso.,1,2,2,4,1,-4.06,1.75
 937,2021-07-31,458015,448179,,ball,13,Joey Votto grounds out to first baseman Pete Alonso.,0,2,2,3,1,-2.71,1.33
 938,2021-07-31,458015,448179,,foul,1,Joey Votto grounds out to first baseman Pete Alonso.,0,1,2,2,1,-0.47,2.96
-939,2021-07-31,458015,448179,,foul,14,Joey Votto grounds out to first baseman Pete Alonso.,0,0,2,1,1,0.83,2.03
-940,2021-07-31,458015,621242,strikeout,swinging_strike,11,Joey Votto strikes out swinging.,1,2,1,4,10,-0.34,4.35
+939,2021-07-31,458015,621242,strikeout,swinging_strike,11,Joey Votto strikes out swinging.,1,2,1,4,10,-0.34,4.35
+940,2021-07-31,458015,448179,,foul,14,Joey Votto grounds out to first baseman Pete Alonso.,0,0,2,1,1,0.83,2.03
 941,2021-07-31,458015,621242,,foul,8,Joey Votto strikes out swinging.,1,1,1,3,10,0.04,1.91
 942,2021-07-31,458015,621242,,ball,14,Joey Votto strikes out swinging.,0,1,1,2,10,1.32,1.15
 943,2021-07-31,458015,621242,,called_strike,5,Joey Votto strikes out swinging.,0,0,1,1,10,-0.1,2.19
@@ -956,8 +956,8 @@
 954,2021-07-30,458015,471911,,ball,11,Joey Votto strikes out swinging.,1,2,2,4,1,-0.96,2.63
 955,2021-07-30,458015,471911,,ball,13,Joey Votto strikes out swinging.,0,2,2,3,1,-0.21,0.12
 956,2021-07-30,458015,471911,,foul,7,Joey Votto strikes out swinging.,0,1,2,2,1,-0.62,1.57
-957,2021-07-30,458015,471911,,swinging_strike,13,Joey Votto strikes out swinging.,0,0,2,1,1,-0.91,1.62
-958,2021-07-30,458015,607455,walk,ball,13,Joey Votto walks.,3,1,1,5,8,-0.51,1.2
+957,2021-07-30,458015,607455,walk,ball,13,Joey Votto walks.,3,1,1,5,8,-0.51,1.2
+958,2021-07-30,458015,471911,,swinging_strike,13,Joey Votto strikes out swinging.,0,0,2,1,1,-0.91,1.62
 959,2021-07-30,458015,607455,,ball,3,Joey Votto walks.,2,1,1,4,8,0.77,3.01
 960,2021-07-30,458015,607455,,ball,13,Joey Votto walks.,1,1,1,3,8,-0.71,0.2
 961,2021-07-30,458015,607455,,called_strike,4,Joey Votto walks.,1,0,1,2,8,-0.47,2.26
@@ -979,12 +979,12 @@
 977,2021-07-29,458015,657228,strikeout,swinging_strike_blocked,13,Joey Votto strikes out swinging.,3,2,0,6,9,-0.5,0.76
 978,2021-07-29,458015,657228,,called_strike,9,Joey Votto strikes out swinging.,3,1,0,5,9,0.47,1.77
 979,2021-07-29,458015,657228,,ball,11,Joey Votto strikes out swinging.,2,1,0,4,9,-1.14,4.65
-980,2021-07-29,458015,657228,,swinging_strike,14,Joey Votto strikes out swinging.,2,0,0,3,9,0.11,0.98
-981,2021-07-29,458015,621219,home_run,hit_into_play,5,Joey Votto homers (20) on a fly ball to right center field.    Jesse Winker scores.,1,1,2,3,1,0.26,2.84
-982,2021-07-29,458015,657228,,ball,14,Joey Votto strikes out swinging.,1,0,0,2,9,1.44,1.59
-983,2021-07-29,458015,621219,,called_strike,12,Joey Votto homers (20) on a fly ball to right center field.    Jesse Winker scores.,1,0,2,2,1,0.22,3.57
-984,2021-07-29,458015,657228,,ball,13,Joey Votto strikes out swinging.,0,0,0,1,9,-1.46,1.51
-985,2021-07-29,458015,621219,,ball,12,Joey Votto homers (20) on a fly ball to right center field.    Jesse Winker scores.,0,0,2,1,1,0.03,3.98
+980,2021-07-29,458015,621219,home_run,hit_into_play,5,Joey Votto homers (20) on a fly ball to right center field.    Jesse Winker scores.,1,1,2,3,1,0.26,2.84
+981,2021-07-29,458015,657228,,swinging_strike,14,Joey Votto strikes out swinging.,2,0,0,3,9,0.11,0.98
+982,2021-07-29,458015,621219,,called_strike,12,Joey Votto homers (20) on a fly ball to right center field.    Jesse Winker scores.,1,0,2,2,1,0.22,3.57
+983,2021-07-29,458015,657228,,ball,14,Joey Votto strikes out swinging.,1,0,0,2,9,1.44,1.59
+984,2021-07-29,458015,621219,,ball,12,Joey Votto homers (20) on a fly ball to right center field.    Jesse Winker scores.,0,0,2,1,1,0.03,3.98
+985,2021-07-29,458015,657228,,ball,13,Joey Votto strikes out swinging.,0,0,0,1,9,-1.46,1.51
 986,2021-07-29,458015,594986,field_out,hit_into_play,14,"Joey Votto grounds out sharply, second baseman David Bote to first baseman Patrick Wisdom.   Kyle Farmer to 3rd.",0,0,0,1,7,0.67,1.15
 987,2021-07-28,458015,605200,walk,ball,13,Joey Votto walks.,3,1,1,5,5,-0.81,0.94
 988,2021-07-28,458015,605200,,ball,11,Joey Votto walks.,2,1,1,4,5,-1.58,2.76
@@ -997,8 +997,8 @@
 995,2021-07-28,458015,676265,home_run,hit_into_play,8,Joey Votto homers (19) on a fly ball to center field.   Tyler Stephenson scores.,3,1,0,5,9,-0.15,1.59
 996,2021-07-28,458015,676265,,ball,14,Joey Votto homers (19) on a fly ball to center field.   Tyler Stephenson scores.,2,1,0,4,9,0.39,1.02
 997,2021-07-28,458015,676265,,called_strike,6,Joey Votto homers (19) on a fly ball to center field.   Tyler Stephenson scores.,2,0,0,3,9,0.56,2.91
-998,2021-07-28,458015,605388,strikeout,swinging_strike,13,Joey Votto strikes out swinging.,0,2,2,3,7,-0.57,1.35
-999,2021-07-28,458015,676265,,ball,14,Joey Votto homers (19) on a fly ball to center field.   Tyler Stephenson scores.,1,0,0,2,9,0.41,1.47
+998,2021-07-28,458015,676265,,ball,14,Joey Votto homers (19) on a fly ball to center field.   Tyler Stephenson scores.,1,0,0,2,9,0.41,1.47
+999,2021-07-28,458015,605388,strikeout,swinging_strike,13,Joey Votto strikes out swinging.,0,2,2,3,7,-0.57,1.35
 1000,2021-07-28,458015,676265,,blocked_ball,13,Joey Votto homers (19) on a fly ball to center field.   Tyler Stephenson scores.,0,0,0,1,9,-0.42,-0.3
 1001,2021-07-28,458015,605388,,called_strike,9,Joey Votto strikes out swinging.,0,1,2,2,7,0.46,2.17
 1002,2021-07-28,458015,605388,,called_strike,9,Joey Votto strikes out swinging.,0,0,2,1,7,0.32,1.92
@@ -1040,10 +1040,10 @@
 1038,2021-07-26,458015,543294,home_run,hit_into_play,4,Joey Votto homers (15) on a fly ball to right center field.,2,2,0,6,2,-0.38,2.53
 1039,2021-07-26,458015,543294,,ball,12,Joey Votto homers (15) on a fly ball to right center field.,1,2,0,5,2,0.9,3.4
 1040,2021-07-26,458015,543294,,foul,13,Joey Votto homers (15) on a fly ball to right center field.,1,2,0,4,2,-0.84,1.4
-1041,2021-07-26,458015,543294,,called_strike,2,Joey Votto homers (15) on a fly ball to right center field.,1,1,0,3,2,-0.14,3.55
-1042,2021-07-26,458015,518886,strikeout,swinging_strike_blocked,14,Joey Votto strikes out swinging.,2,2,0,5,9,0.75,0.37
-1043,2021-07-26,458015,518886,,swinging_strike,14,Joey Votto strikes out swinging.,2,1,0,4,9,0.28,0.94
-1044,2021-07-26,458015,543294,,called_strike,6,Joey Votto homers (15) on a fly ball to right center field.,1,0,0,2,2,0.74,2.69
+1041,2021-07-26,458015,518886,strikeout,swinging_strike_blocked,14,Joey Votto strikes out swinging.,2,2,0,5,9,0.75,0.37
+1042,2021-07-26,458015,543294,,called_strike,2,Joey Votto homers (15) on a fly ball to right center field.,1,1,0,3,2,-0.14,3.55
+1043,2021-07-26,458015,543294,,called_strike,6,Joey Votto homers (15) on a fly ball to right center field.,1,0,0,2,2,0.74,2.69
+1044,2021-07-26,458015,518886,,swinging_strike,14,Joey Votto strikes out swinging.,2,1,0,4,9,0.28,0.94
 1045,2021-07-26,458015,543294,,ball,11,Joey Votto homers (15) on a fly ball to right center field.,0,0,0,1,2,-1.75,2.56
 1046,2021-07-26,458015,518886,,ball,14,Joey Votto strikes out swinging.,1,1,0,3,9,1.32,1.31
 1047,2021-07-26,458015,518886,,ball,11,Joey Votto strikes out swinging.,0,1,0,2,9,-1.22,2.84
@@ -1066,8 +1066,8 @@
 1064,2021-07-25,458015,453192,,swinging_strike,13,Joey Votto called out on strikes.,1,1,2,3,6,-1.26,1.98
 1065,2021-07-25,458015,453192,,called_strike,7,Joey Votto called out on strikes.,1,0,2,2,6,-0.35,2.08
 1066,2021-07-25,458015,670912,home_run,hit_into_play,5,Joey Votto homers (14) on a fly ball to right center field.    Jesse Winker scores.    Tyler Stephenson scores.,1,1,1,3,1,0.08,2.25
-1067,2021-07-25,458015,670912,,ball,11,Joey Votto homers (14) on a fly ball to right center field.    Jesse Winker scores.    Tyler Stephenson scores.,0,1,1,2,1,-1.91,2.62
-1068,2021-07-25,458015,453192,,ball,13,Joey Votto called out on strikes.,0,0,2,1,6,-0.95,2.27
+1067,2021-07-25,458015,453192,,ball,13,Joey Votto called out on strikes.,0,0,2,1,6,-0.95,2.27
+1068,2021-07-25,458015,670912,,ball,11,Joey Votto homers (14) on a fly ball to right center field.    Jesse Winker scores.    Tyler Stephenson scores.,0,1,1,2,1,-1.91,2.62
 1069,2021-07-25,458015,670912,,swinging_strike,11,Joey Votto homers (14) on a fly ball to right center field.    Jesse Winker scores.    Tyler Stephenson scores.,0,0,1,1,1,-1.02,2.92
 1070,2021-07-25,458015,606149,walk,ball,11,Joey Votto walks.   Jesse Winker to 3rd.    Tyler Stephenson to 2nd.,3,0,0,4,8,-1.01,3.68
 1071,2021-07-25,458015,606149,,ball,11,Joey Votto walks.   Jesse Winker to 3rd.    Tyler Stephenson to 2nd.,2,0,0,3,8,-0.65,4.14
@@ -1095,8 +1095,8 @@
 1093,2021-07-23,458015,664854,single,hit_into_play,14,Joey Votto singles on a sharp line drive to right fielder Dylan Carlson.   Tyler Stephenson to 3rd.,1,1,0,3,7,0.91,1.51
 1094,2021-07-23,458015,664854,,swinging_strike,6,Joey Votto singles on a sharp line drive to right fielder Dylan Carlson.   Tyler Stephenson to 3rd.,1,0,0,2,7,0.49,2.49
 1095,2021-07-23,458015,453192,,ball,11,Joey Votto strikes out swinging.,1,2,0,4,5,-1.94,3.21
-1096,2021-07-23,458015,664854,,ball,11,Joey Votto singles on a sharp line drive to right fielder Dylan Carlson.   Tyler Stephenson to 3rd.,0,0,0,1,7,-1.19,2.71
-1097,2021-07-23,458015,453192,,called_strike,9,Joey Votto strikes out swinging.,1,1,0,3,5,0.45,1.83
+1096,2021-07-23,458015,453192,,called_strike,9,Joey Votto strikes out swinging.,1,1,0,3,5,0.45,1.83
+1097,2021-07-23,458015,664854,,ball,11,Joey Votto singles on a sharp line drive to right fielder Dylan Carlson.   Tyler Stephenson to 3rd.,0,0,0,1,7,-1.19,2.71
 1098,2021-07-23,458015,453192,,ball,13,Joey Votto strikes out swinging.,0,1,0,2,5,-1.26,2.28
 1099,2021-07-23,458015,453192,,called_strike,2,Joey Votto strikes out swinging.,0,0,0,1,5,0.16,3.31
 1100,2021-07-21,458015,573186,walk,blocked_ball,14,Joey Votto walks.,3,1,2,5,7,0.12,0.48
@@ -1119,8 +1119,8 @@
 1117,2021-07-20,458015,668665,,foul,5,Joey Votto homers (12) on a fly ball to center field.,0,1,2,2,3,-0.18,2.62
 1118,2021-07-20,458015,668665,,called_strike,7,Joey Votto homers (12) on a fly ball to center field.,0,0,2,1,3,-0.74,1.87
 1119,2021-07-20,458015,660546,field_out,hit_into_play,7,Joey Votto grounds out to first baseman Pete Alonso.   Jesse Winker to 2nd.,1,2,1,4,5,-0.3,1.78
-1120,2021-07-20,458015,660546,,called_strike,9,Joey Votto grounds out to first baseman Pete Alonso.   Jesse Winker to 2nd.,1,1,1,3,5,0.51,1.78
-1121,2021-07-20,458015,476594,walk,ball,14,Joey Votto walks.,3,2,1,6,1,1.52,1.07
+1120,2021-07-20,458015,476594,walk,ball,14,Joey Votto walks.,3,2,1,6,1,1.52,1.07
+1121,2021-07-20,458015,660546,,called_strike,9,Joey Votto grounds out to first baseman Pete Alonso.   Jesse Winker to 2nd.,1,1,1,3,5,0.51,1.78
 1122,2021-07-20,458015,660546,,called_strike,1,Joey Votto grounds out to first baseman Pete Alonso.   Jesse Winker to 2nd.,1,0,1,2,5,-0.42,3.16
 1123,2021-07-20,458015,476594,,ball,14,Joey Votto walks.,2,2,1,5,1,1.7,0.93
 1124,2021-07-20,458015,476594,,swinging_strike,12,Joey Votto walks.,2,1,1,4,1,0.07,3.6
@@ -1148,8 +1148,8 @@
 1146,2021-07-19,458015,607625,,ball,11,Joey Votto strikes out swinging.,0,0,0,1,8,-1.22,3.57
 1147,2021-07-19,458015,595191,hit_by_pitch,hit_by_pitch,14,Joey Votto hit by pitch.    Jesse Winker to 3rd.    Tyler Stephenson to 2nd.,0,0,0,1,1,2.93,0.75
 1148,2021-07-19,458015,612434,double,hit_into_play,11,Joey Votto doubles (11) on a sharp fly ball to center fielder Brandon Nimmo.,1,0,1,2,6,-0.9,3.08
-1149,2021-07-19,458015,607455,single,hit_into_play,7,Joey Votto singles on a sharp line drive to left fielder Kevin Pillar.   Mike Freeman to 3rd.,3,0,0,4,10,-0.53,2.01
-1150,2021-07-19,458015,612434,,ball,1,Joey Votto doubles (11) on a sharp fly ball to center fielder Brandon Nimmo.,0,0,1,1,6,-0.56,3.43
+1149,2021-07-19,458015,612434,,ball,1,Joey Votto doubles (11) on a sharp fly ball to center fielder Brandon Nimmo.,0,0,1,1,6,-0.56,3.43
+1150,2021-07-19,458015,607455,single,hit_into_play,7,Joey Votto singles on a sharp line drive to left fielder Kevin Pillar.   Mike Freeman to 3rd.,3,0,0,4,10,-0.53,2.01
 1151,2021-07-19,458015,607455,,ball,13,Joey Votto singles on a sharp line drive to left fielder Kevin Pillar.   Mike Freeman to 3rd.,2,0,0,3,10,-1.38,1.77
 1152,2021-07-19,458015,607455,,ball,13,Joey Votto singles on a sharp line drive to left fielder Kevin Pillar.   Mike Freeman to 3rd.,1,0,0,2,10,-1.3,2.02
 1153,2021-07-19,458015,607455,,ball,13,Joey Votto singles on a sharp line drive to left fielder Kevin Pillar.   Mike Freeman to 3rd.,0,0,0,1,10,-1.2,2.33
@@ -1184,10 +1184,10 @@
 1182,2021-07-17,458015,605540,,ball,14,Joey Votto strikes out swinging.,0,2,0,5,2,0.54,1.45
 1183,2021-07-17,458015,594311,field_out,hit_into_play,4,Joey Votto flies out sharply to left fielder Christian Yelich.,2,2,2,5,10,-0.41,2.32
 1184,2021-07-17,458015,605540,,foul,1,Joey Votto strikes out swinging.,0,2,0,4,2,-0.34,2.93
-1185,2021-07-17,458015,605540,,foul,11,Joey Votto strikes out swinging.,0,2,0,3,2,-1.01,3.12
-1186,2021-07-17,458015,594311,,foul,4,Joey Votto flies out sharply to left fielder Christian Yelich.,2,1,2,4,10,-0.69,2.42
-1187,2021-07-17,458015,605540,,swinging_strike,14,Joey Votto strikes out swinging.,0,1,0,2,2,0.14,0.91
-1188,2021-07-17,458015,594311,,called_strike,4,Joey Votto flies out sharply to left fielder Christian Yelich.,2,0,2,3,10,-0.61,2.59
+1185,2021-07-17,458015,594311,,foul,4,Joey Votto flies out sharply to left fielder Christian Yelich.,2,1,2,4,10,-0.69,2.42
+1186,2021-07-17,458015,605540,,foul,11,Joey Votto strikes out swinging.,0,2,0,3,2,-1.01,3.12
+1187,2021-07-17,458015,594311,,called_strike,4,Joey Votto flies out sharply to left fielder Christian Yelich.,2,0,2,3,10,-0.61,2.59
+1188,2021-07-17,458015,605540,,swinging_strike,14,Joey Votto strikes out swinging.,0,1,0,2,2,0.14,0.91
 1189,2021-07-17,458015,605540,,foul,9,Joey Votto strikes out swinging.,0,0,0,1,2,0.57,1.78
 1190,2021-07-17,458015,594311,,ball,11,Joey Votto flies out sharply to left fielder Christian Yelich.,1,0,2,2,10,-1.41,2.98
 1191,2021-07-17,458015,594311,,ball,13,Joey Votto flies out sharply to left fielder Christian Yelich.,0,0,2,1,10,-1.44,2.08
@@ -1214,8 +1214,8 @@
 1212,2021-07-16,458015,608718,field_out,hit_into_play,6,"Joey Votto grounds out, third baseman Luis Urias to first baseman Jace Peterson.",2,2,1,5,5,0.53,2.41
 1213,2021-07-16,458015,605288,,blocked_ball,13,Joey Votto walks.   Jesse Winker to 2nd.,1,1,2,3,1,-0.32,0.67
 1214,2021-07-16,458015,608718,,ball,13,"Joey Votto grounds out, third baseman Luis Urias to first baseman Jace Peterson.",1,2,1,4,5,-0.69,0.65
-1215,2021-07-16,458015,608718,,ball,12,"Joey Votto grounds out, third baseman Luis Urias to first baseman Jace Peterson.",0,2,1,3,5,0.01,4.43
-1216,2021-07-16,458015,605288,,called_strike,7,Joey Votto walks.   Jesse Winker to 2nd.,1,0,2,2,1,-0.32,1.81
+1215,2021-07-16,458015,605288,,called_strike,7,Joey Votto walks.   Jesse Winker to 2nd.,1,0,2,2,1,-0.32,1.81
+1216,2021-07-16,458015,608718,,ball,12,"Joey Votto grounds out, third baseman Luis Urias to first baseman Jace Peterson.",0,2,1,3,5,0.01,4.43
 1217,2021-07-16,458015,605288,,ball,14,Joey Votto walks.   Jesse Winker to 2nd.,0,0,2,1,1,0.31,1.37
 1218,2021-07-16,458015,608718,,called_strike,1,"Joey Votto grounds out, third baseman Luis Urias to first baseman Jace Peterson.",0,1,1,2,5,-0.35,3.55
 1219,2021-07-16,458015,608718,,called_strike,6,"Joey Votto grounds out, third baseman Luis Urias to first baseman Jace Peterson.",0,0,1,1,5,0.32,2.39
@@ -1247,16 +1247,16 @@
 1245,2021-07-10,458015,642547,,ball,13,Joey Votto walks.,2,0,2,3,4,-0.78,1.47
 1246,2021-07-10,458015,642547,,ball,11,Joey Votto walks.,1,0,2,2,4,-1.67,2.62
 1247,2021-07-10,458015,642547,,ball,14,Joey Votto walks.,0,0,2,1,4,0.76,1.43
-1248,2021-07-10,458015,502202,strikeout,swinging_strike,11,Joey Votto strikes out swinging.,3,2,1,6,8,-1.0,3.68
-1249,2021-07-10,458015,642547,field_out,hit_into_play,5,Joey Votto flies out to left fielder Christian Yelich.,2,2,0,5,2,-0.17,2.55
+1248,2021-07-10,458015,642547,field_out,hit_into_play,5,Joey Votto flies out to left fielder Christian Yelich.,2,2,0,5,2,-0.17,2.55
+1249,2021-07-10,458015,502202,strikeout,swinging_strike,11,Joey Votto strikes out swinging.,3,2,1,6,8,-1.0,3.68
 1250,2021-07-10,458015,502202,,ball,13,Joey Votto strikes out swinging.,2,2,1,5,8,-0.52,1.22
 1251,2021-07-10,458015,642547,,ball,11,Joey Votto flies out to left fielder Christian Yelich.,1,2,0,4,2,-1.42,3.67
 1252,2021-07-10,458015,642547,,ball,13,Joey Votto flies out to left fielder Christian Yelich.,0,2,0,3,2,-0.25,0.65
 1253,2021-07-10,458015,502202,,swinging_strike,8,Joey Votto strikes out swinging.,2,1,1,4,8,-0.23,1.92
-1254,2021-07-10,458015,502202,,ball,11,Joey Votto strikes out swinging.,1,1,1,3,8,-0.51,3.86
-1255,2021-07-10,458015,642547,,called_strike,7,Joey Votto flies out to left fielder Christian Yelich.,0,1,0,2,2,-0.34,1.91
-1256,2021-07-10,458015,502202,,foul_tip,3,Joey Votto strikes out swinging.,1,0,1,2,8,0.34,2.97
-1257,2021-07-10,458015,642547,,called_strike,2,Joey Votto flies out to left fielder Christian Yelich.,0,0,0,1,2,-0.01,2.94
+1254,2021-07-10,458015,642547,,called_strike,7,Joey Votto flies out to left fielder Christian Yelich.,0,1,0,2,2,-0.34,1.91
+1255,2021-07-10,458015,502202,,ball,11,Joey Votto strikes out swinging.,1,1,1,3,8,-0.51,3.86
+1256,2021-07-10,458015,642547,,called_strike,2,Joey Votto flies out to left fielder Christian Yelich.,0,0,0,1,2,-0.01,2.94
+1257,2021-07-10,458015,502202,,foul_tip,3,Joey Votto strikes out swinging.,1,0,1,2,8,0.34,2.97
 1258,2021-07-10,458015,502202,,ball,11,Joey Votto strikes out swinging.,0,0,1,1,8,-1.32,2.88
 1259,2021-07-10,458015,608718,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,3,2,0,7,6,-0.34,2.37
 1260,2021-07-10,458015,608718,,ball,13,Joey Votto strikes out swinging.,2,2,0,6,6,-0.58,0.15
@@ -1316,8 +1316,8 @@
 1314,2021-07-07,458015,663903,strikeout,swinging_strike_blocked,14,Joey Votto strikes out swinging.,2,2,2,5,1,0.7,0.76
 1315,2021-07-07,458015,663903,,ball,14,Joey Votto strikes out swinging.,1,2,2,4,1,1.75,-0.58
 1316,2021-07-07,458015,518813,,ball,11,Joey Votto called out on strikes.,0,2,1,3,9,-0.49,3.75
-1317,2021-07-07,458015,663903,,ball,11,Joey Votto strikes out swinging.,0,2,2,3,1,-0.78,3.73
-1318,2021-07-07,458015,518813,,called_strike,7,Joey Votto called out on strikes.,0,1,1,2,9,-0.74,1.68
+1317,2021-07-07,458015,518813,,called_strike,7,Joey Votto called out on strikes.,0,1,1,2,9,-0.74,1.68
+1318,2021-07-07,458015,663903,,ball,11,Joey Votto strikes out swinging.,0,2,2,3,1,-0.78,3.73
 1319,2021-07-07,458015,663903,,called_strike,9,Joey Votto strikes out swinging.,0,1,2,2,1,0.46,1.81
 1320,2021-07-07,458015,518813,,called_strike,6,Joey Votto called out on strikes.,0,0,1,1,9,0.28,2.59
 1321,2021-07-07,458015,663903,,called_strike,9,Joey Votto strikes out swinging.,0,0,2,1,1,0.57,2.25
@@ -1414,8 +1414,8 @@
 1412,2021-07-01,458015,677960,,swinging_strike,8,Joey Votto flies out sharply to center fielder Trent Grisham.,0,0,0,1,3,-0.01,1.9
 1413,2021-07-01,458015,677960,field_out,hit_into_play,7,"Joey Votto grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",2,2,2,5,1,-0.34,2.16
 1414,2021-07-01,458015,677960,,swinging_strike,7,"Joey Votto grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",2,1,2,4,1,-0.72,1.93
-1415,2021-07-01,458015,572955,field_out,hit_into_play,5,Joey Votto flies out to left fielder Jurickson Profar.,0,0,2,1,6,0.14,2.27
-1416,2021-07-01,458015,677960,,blocked_ball,13,"Joey Votto grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",1,1,2,3,1,-2.54,0.52
+1415,2021-07-01,458015,677960,,blocked_ball,13,"Joey Votto grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",1,1,2,3,1,-2.54,0.52
+1416,2021-07-01,458015,572955,field_out,hit_into_play,5,Joey Votto flies out to left fielder Jurickson Profar.,0,0,2,1,6,0.14,2.27
 1417,2021-07-01,458015,677960,,called_strike,8,"Joey Votto grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",1,0,2,2,1,-0.19,1.78
 1418,2021-07-01,458015,677960,,ball,13,"Joey Votto grounds out, second baseman Jake Cronenworth to first baseman Eric Hosmer.",0,0,2,1,1,-0.52,1.24
 1419,2021-07-01,458015,519141,field_out,hit_into_play,2,Joey Votto flies out to left fielder Jurickson Profar.,1,2,0,4,8,-0.27,3.37
@@ -1488,11 +1488,11 @@
 1486,2021-06-27,458015,572888,,foul,1,Joey Votto flies out to center fielder Ender Inciarte.,2,1,1,4,8,-0.31,2.93
 1487,2021-06-27,458015,666205,,called_strike,7,Joey Votto called out on strikes.,1,1,1,3,1,-0.8,1.73
 1488,2021-06-27,458015,572888,,ball,14,Joey Votto flies out to center fielder Ender Inciarte.,1,1,1,3,8,0.96,2.31
-1489,2021-06-27,458015,666205,,ball,13,Joey Votto called out on strikes.,0,1,1,2,1,-1.04,0.79
-1490,2021-06-27,458015,572888,,ball,12,Joey Votto flies out to center fielder Ender Inciarte.,0,1,1,2,8,1.78,2.96
+1489,2021-06-27,458015,572888,,ball,12,Joey Votto flies out to center fielder Ender Inciarte.,0,1,1,2,8,1.78,2.96
+1490,2021-06-27,458015,666205,,ball,13,Joey Votto called out on strikes.,0,1,1,2,1,-1.04,0.79
 1491,2021-06-27,458015,572888,,called_strike,2,Joey Votto flies out to center fielder Ender Inciarte.,0,0,1,1,8,-0.03,3.29
-1492,2021-06-27,458015,455119,field_out,hit_into_play,5,Joey Votto flies out to center fielder Guillermo Heredia.,0,0,1,1,6,-0.02,2.71
-1493,2021-06-27,458015,666205,,called_strike,9,Joey Votto called out on strikes.,0,0,1,1,1,0.78,1.94
+1492,2021-06-27,458015,666205,,called_strike,9,Joey Votto called out on strikes.,0,0,1,1,1,0.78,1.94
+1493,2021-06-27,458015,455119,field_out,hit_into_play,5,Joey Votto flies out to center fielder Guillermo Heredia.,0,0,1,1,6,-0.02,2.71
 1494,2021-06-26,458015,666120,field_out,hit_into_play,4,"Joey Votto grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",0,1,1,2,6,-0.47,2.28
 1495,2021-06-26,458015,666120,,swinging_strike,4,"Joey Votto grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",0,0,1,1,6,-0.39,2.85
 1496,2021-06-26,458015,666120,single,hit_into_play,5,Joey Votto singles on a sharp ground ball to right fielder Ronald Acuna.   Nick Castellanos scores.,3,2,2,6,3,-0.18,2.59
@@ -1521,12 +1521,12 @@
 1519,2021-06-24,458015,592426,single,hit_into_play,4,Joey Votto singles on a ground ball to center fielder Ender Inciarte.,0,0,1,1,7,-0.6,2.58
 1520,2021-06-24,458015,445926,,called_strike,3,Joey Votto called out on strikes.,0,0,1,1,1,0.65,3.29
 1521,2021-06-24,458015,656794,strikeout,swinging_strike,3,Joey Votto strikes out swinging.,1,2,2,4,5,0.74,3.08
-1522,2021-06-24,458015,554431,single,hit_into_play,8,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,3,2,2,7,3,-0.06,1.95
-1523,2021-06-24,458015,656794,,called_strike,8,Joey Votto strikes out swinging.,1,1,2,3,5,0.1,2.14
-1524,2021-06-24,458015,554431,,ball,13,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,2,2,2,6,3,-0.84,1.58
-1525,2021-06-24,458015,656794,,ball,14,Joey Votto strikes out swinging.,0,1,2,2,5,0.9,2.2
-1526,2021-06-24,458015,554431,,ball,13,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,1,2,2,5,3,-1.53,1.86
-1527,2021-06-24,458015,656794,,foul_tip,5,Joey Votto strikes out swinging.,0,0,2,1,5,0.06,2.68
+1522,2021-06-24,458015,656794,,called_strike,8,Joey Votto strikes out swinging.,1,1,2,3,5,0.1,2.14
+1523,2021-06-24,458015,554431,single,hit_into_play,8,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,3,2,2,7,3,-0.06,1.95
+1524,2021-06-24,458015,656794,,ball,14,Joey Votto strikes out swinging.,0,1,2,2,5,0.9,2.2
+1525,2021-06-24,458015,554431,,ball,13,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,2,2,2,6,3,-0.84,1.58
+1526,2021-06-24,458015,656794,,foul_tip,5,Joey Votto strikes out swinging.,0,0,2,1,5,0.06,2.68
+1527,2021-06-24,458015,554431,,ball,13,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,1,2,2,5,3,-1.53,1.86
 1528,2021-06-24,458015,554431,,ball,12,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,0,2,2,4,3,1.05,3.51
 1529,2021-06-24,458015,554431,,foul,2,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,0,2,2,3,3,-0.07,3.27
 1530,2021-06-24,458015,554431,,foul,3,Joey Votto singles on a ground ball to shortstop Dansby Swanson.   Tony Santillan scores.    Nick Castellanos to 2nd.,0,1,2,2,3,0.29,3.43
@@ -1542,10 +1542,10 @@
 1540,2021-06-21,458015,457918,,ball,13,Joey Votto strikes out swinging.,0,1,0,2,4,-2.69,-1.17
 1541,2021-06-21,458015,457918,,called_strike,9,Joey Votto strikes out swinging.,0,0,0,1,4,0.33,1.54
 1542,2021-06-21,458015,533167,walk,blocked_ball,13,Joey Votto walks.   Nick Castellanos to 2nd.,3,2,2,7,12,-0.62,0.12
-1543,2021-06-21,458015,457918,single,hit_into_play,5,Joey Votto singles on a sharp ground ball to second baseman Jorge Polanco.,2,2,0,5,2,0.05,2.4
-1544,2021-06-21,458015,533167,,foul,5,Joey Votto walks.   Nick Castellanos to 2nd.,3,2,2,6,12,-0.24,2.48
-1545,2021-06-21,458015,457918,,swinging_strike,9,Joey Votto singles on a sharp ground ball to second baseman Jorge Polanco.,2,1,0,4,2,0.56,1.49
-1546,2021-06-21,458015,533167,,ball,11,Joey Votto walks.   Nick Castellanos to 2nd.,2,2,2,5,12,-2.63,2.85
+1543,2021-06-21,458015,533167,,foul,5,Joey Votto walks.   Nick Castellanos to 2nd.,3,2,2,6,12,-0.24,2.48
+1544,2021-06-21,458015,457918,single,hit_into_play,5,Joey Votto singles on a sharp ground ball to second baseman Jorge Polanco.,2,2,0,5,2,0.05,2.4
+1545,2021-06-21,458015,533167,,ball,11,Joey Votto walks.   Nick Castellanos to 2nd.,2,2,2,5,12,-2.63,2.85
+1546,2021-06-21,458015,457918,,swinging_strike,9,Joey Votto singles on a sharp ground ball to second baseman Jorge Polanco.,2,1,0,4,2,0.56,1.49
 1547,2021-06-21,458015,533167,,blocked_ball,13,Joey Votto walks.   Nick Castellanos to 2nd.,1,2,2,4,12,-0.39,0.38
 1548,2021-06-21,458015,457918,,ball,13,Joey Votto singles on a sharp ground ball to second baseman Jorge Polanco.,1,1,0,3,2,-1.69,1.25
 1549,2021-06-21,458015,457918,,swinging_strike,5,Joey Votto singles on a sharp ground ball to second baseman Jorge Polanco.,1,0,0,2,2,0.19,2.61
@@ -1658,8 +1658,8 @@
 1656,2021-06-14,458015,641778,,ball,13,Joey Votto grounds out to first baseman Daniel Vogelbach.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,2,1,1,4,1,-0.97,1.11
 1657,2021-06-14,458015,641778,,ball,13,Joey Votto grounds out to first baseman Daniel Vogelbach.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,1,1,1,3,1,-1.36,1.52
 1658,2021-06-14,458015,642233,home_run,hit_into_play,7,Joey Votto homers (8) on a fly ball to right center field.    Tyler Stephenson scores.,0,1,1,2,7,-0.31,1.54
-1659,2021-06-14,458015,642233,,foul,8,Joey Votto homers (8) on a fly ball to right center field.    Tyler Stephenson scores.,0,0,1,1,7,-0.04,2.1
-1660,2021-06-14,458015,641778,,blocked_ball,13,Joey Votto grounds out to first baseman Daniel Vogelbach.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,0,1,1,2,1,-1.69,0.11
+1659,2021-06-14,458015,641778,,blocked_ball,13,Joey Votto grounds out to first baseman Daniel Vogelbach.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,0,1,1,2,1,-1.69,0.11
+1660,2021-06-14,458015,642233,,foul,8,Joey Votto homers (8) on a fly ball to right center field.    Tyler Stephenson scores.,0,0,1,1,7,-0.04,2.1
 1661,2021-06-14,458015,641778,,swinging_strike,4,Joey Votto grounds out to first baseman Daniel Vogelbach.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,0,0,1,1,1,-0.62,2.85
 1662,2021-06-14,458015,571948,single,hit_into_play,2,Joey Votto singles on a line drive to right fielder Avisail Garcia.   Tyler Stephenson to 3rd.    Joey Votto to 2nd.,1,0,1,2,9,0.05,3.03
 1663,2021-06-14,458015,571948,,ball,12,Joey Votto singles on a line drive to right fielder Avisail Garcia.   Tyler Stephenson to 3rd.    Joey Votto to 2nd.,0,0,1,1,9,1.78,3.11
@@ -1699,8 +1699,8 @@
 1697,2021-06-12,458015,641755,,blocked_ball,13,Joey Votto pops out to shortstop Trevor Story on the infield fly rule.,1,2,1,4,6,-0.2,-0.57
 1698,2021-06-12,458015,641755,,foul,9,Joey Votto pops out to shortstop Trevor Story on the infield fly rule.,1,1,1,3,6,0.5,1.73
 1699,2021-06-12,458015,468504,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,1,2,1,4,8,-0.68,2.73
-1700,2021-06-12,458015,468504,,called_strike,3,Joey Votto strikes out swinging.,1,1,1,3,8,0.3,2.86
-1701,2021-06-12,458015,641755,,called_strike,13,Joey Votto pops out to shortstop Trevor Story on the infield fly rule.,1,0,1,2,6,-1.0,2.02
+1700,2021-06-12,458015,641755,,called_strike,13,Joey Votto pops out to shortstop Trevor Story on the infield fly rule.,1,0,1,2,6,-1.0,2.02
+1701,2021-06-12,458015,468504,,called_strike,3,Joey Votto strikes out swinging.,1,1,1,3,8,0.3,2.86
 1702,2021-06-12,458015,641755,,ball,14,Joey Votto pops out to shortstop Trevor Story on the infield fly rule.,0,0,1,1,6,1.03,1.81
 1703,2021-06-12,458015,468504,,called_strike,4,Joey Votto strikes out swinging.,1,0,1,2,8,-0.56,2.39
 1704,2021-06-12,458015,468504,,ball,11,Joey Votto strikes out swinging.,0,0,1,1,8,-1.74,3.3
@@ -1712,12 +1712,12 @@
 1710,2021-06-11,458015,607536,,called_strike,8,Joey Votto strikes out swinging.,0,0,2,1,1,-0.2,1.85
 1711,2021-06-11,458015,622075,,foul,2,Joey Votto flies out to left fielder Connor Joe in foul territory.,3,2,0,6,5,0.11,3.22
 1712,2021-06-11,458015,622075,,ball,11,Joey Votto flies out to left fielder Connor Joe in foul territory.,2,2,0,5,5,-2.26,2.77
-1713,2021-06-11,458015,622075,,ball,14,Joey Votto flies out to left fielder Connor Joe in foul territory.,1,2,0,4,5,1.18,0.58
-1714,2021-06-11,458015,656458,walk,ball,14,Joey Votto walks.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,3,0,2,4,6,1.28,1.74
-1715,2021-06-11,458015,622075,,called_strike,13,Joey Votto flies out to left fielder Connor Joe in foul territory.,1,1,0,3,5,-1.04,1.71
-1716,2021-06-11,458015,656458,,ball,11,Joey Votto walks.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,2,0,2,3,6,-1.49,2.5
-1717,2021-06-11,458015,622075,,called_strike,7,Joey Votto flies out to left fielder Connor Joe in foul territory.,1,0,0,2,5,-0.71,1.51
-1718,2021-06-11,458015,656458,,ball,13,Joey Votto walks.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,1,0,2,2,6,-0.95,1.15
+1713,2021-06-11,458015,656458,walk,ball,14,Joey Votto walks.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,3,0,2,4,6,1.28,1.74
+1714,2021-06-11,458015,622075,,ball,14,Joey Votto flies out to left fielder Connor Joe in foul territory.,1,2,0,4,5,1.18,0.58
+1715,2021-06-11,458015,656458,,ball,11,Joey Votto walks.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,2,0,2,3,6,-1.49,2.5
+1716,2021-06-11,458015,622075,,called_strike,13,Joey Votto flies out to left fielder Connor Joe in foul territory.,1,1,0,3,5,-1.04,1.71
+1717,2021-06-11,458015,656458,,ball,13,Joey Votto walks.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,1,0,2,2,6,-0.95,1.15
+1718,2021-06-11,458015,622075,,called_strike,7,Joey Votto flies out to left fielder Connor Joe in foul territory.,1,0,0,2,5,-0.71,1.51
 1719,2021-06-11,458015,622075,,ball,13,Joey Votto flies out to left fielder Connor Joe in foul territory.,0,0,0,1,5,-1.74,1.93
 1720,2021-06-11,458015,656458,,ball,11,Joey Votto walks.   Jesse Winker scores.    Nick Castellanos to 3rd.    Tyler Stephenson to 2nd.,0,0,2,1,6,-0.02,3.58
 1721,2021-06-10,458015,642547,strikeout,called_strike,7,Joey Votto called out on strikes.,3,2,1,6,4,-0.52,1.48
@@ -1734,8 +1734,8 @@
 1732,2021-06-10,458015,642547,,foul,2,Joey Votto homers (6) on a fly ball to right center field.,2,1,0,4,2,0.05,3.59
 1733,2021-06-10,458015,642547,,ball,11,Joey Votto homers (6) on a fly ball to right center field.,1,1,0,3,2,-2.09,3.13
 1734,2021-06-10,458015,571948,field_out,hit_into_play,2,"Joey Votto grounds out, pitcher Hoby Milner to first baseman Daniel Vogelbach.",3,2,2,6,8,0.11,2.89
-1735,2021-06-10,458015,571948,,called_strike,6,"Joey Votto grounds out, pitcher Hoby Milner to first baseman Daniel Vogelbach.",3,1,2,5,8,0.69,2.22
-1736,2021-06-10,458015,642547,,ball,11,Joey Votto homers (6) on a fly ball to right center field.,0,1,0,2,2,-1.61,3.39
+1735,2021-06-10,458015,642547,,ball,11,Joey Votto homers (6) on a fly ball to right center field.,0,1,0,2,2,-1.61,3.39
+1736,2021-06-10,458015,571948,,called_strike,6,"Joey Votto grounds out, pitcher Hoby Milner to first baseman Daniel Vogelbach.",3,1,2,5,8,0.69,2.22
 1737,2021-06-10,458015,571948,,called_strike,5,"Joey Votto grounds out, pitcher Hoby Milner to first baseman Daniel Vogelbach.",3,0,2,4,8,-0.27,2.95
 1738,2021-06-10,458015,642547,,foul,4,Joey Votto homers (6) on a fly ball to right center field.,0,0,0,1,2,-0.57,2.57
 1739,2021-06-10,458015,571948,,ball,11,"Joey Votto grounds out, pitcher Hoby Milner to first baseman Daniel Vogelbach.",2,0,2,3,8,-1.1,2.95
@@ -1804,8 +1804,8 @@
 1802,2021-05-02,458015,657006,field_out,hit_into_play,8,"Joey Votto grounds out, second baseman Nico Hoerner to first baseman Anthony Rizzo.",1,0,2,2,7,0.04,1.97
 1803,2021-05-02,458015,657006,,ball,13,"Joey Votto grounds out, second baseman Nico Hoerner to first baseman Anthony Rizzo.",0,0,2,1,7,-1.77,2.42
 1804,2021-05-02,458015,592866,single,hit_into_play,7,Joey Votto singles on a sharp line drive to center fielder Ian Happ.   Jesse Winker scores.    Nick Castellanos to 3rd.,1,1,0,3,1,-0.32,1.81
-1805,2021-05-02,458015,621219,strikeout,swinging_strike,8,Joey Votto strikes out swinging.,0,2,1,3,6,0.06,1.88
-1806,2021-05-02,458015,592866,,called_strike,6,Joey Votto singles on a sharp line drive to center fielder Ian Happ.   Jesse Winker scores.    Nick Castellanos to 3rd.,1,0,0,2,1,0.66,2.57
+1805,2021-05-02,458015,592866,,called_strike,6,Joey Votto singles on a sharp line drive to center fielder Ian Happ.   Jesse Winker scores.    Nick Castellanos to 3rd.,1,0,0,2,1,0.66,2.57
+1806,2021-05-02,458015,621219,strikeout,swinging_strike,8,Joey Votto strikes out swinging.,0,2,1,3,6,0.06,1.88
 1807,2021-05-02,458015,621219,,swinging_strike,6,Joey Votto strikes out swinging.,0,1,1,2,6,0.36,2.21
 1808,2021-05-02,458015,592866,,ball,14,Joey Votto singles on a sharp line drive to center fielder Ian Happ.   Jesse Winker scores.    Nick Castellanos to 3rd.,0,0,0,1,1,1.62,2.5
 1809,2021-05-02,458015,621219,,foul,8,Joey Votto strikes out swinging.,0,0,1,1,6,-0.23,2.1
@@ -1824,8 +1824,8 @@
 1822,2021-05-01,458015,605200,,blocked_ball,13,Joey Votto walks.,0,0,2,1,3,-0.33,-0.18
 1823,2021-05-01,458015,605200,field_out,hit_into_play,13,"Joey Votto grounds out, second baseman Nico Hoerner to first baseman Anthony Rizzo.   Nick Castellanos to 3rd.",1,2,0,4,1,-0.58,1.2
 1824,2021-05-01,458015,605200,,called_strike,6,"Joey Votto grounds out, second baseman Nico Hoerner to first baseman Anthony Rizzo.   Nick Castellanos to 3rd.",1,1,0,3,1,0.65,2.47
-1825,2021-05-01,458015,605200,,called_strike,8,"Joey Votto grounds out, second baseman Nico Hoerner to first baseman Anthony Rizzo.   Nick Castellanos to 3rd.",1,0,0,2,1,-0.07,1.47
-1826,2021-05-01,458015,605177,field_out,hit_into_play,6,"Joey Votto grounds out, first baseman Anthony Rizzo to pitcher Andrew Chafin.",0,0,2,1,7,0.74,2.71
+1825,2021-05-01,458015,605177,field_out,hit_into_play,6,"Joey Votto grounds out, first baseman Anthony Rizzo to pitcher Andrew Chafin.",0,0,2,1,7,0.74,2.71
+1826,2021-05-01,458015,605200,,called_strike,8,"Joey Votto grounds out, second baseman Nico Hoerner to first baseman Anthony Rizzo.   Nick Castellanos to 3rd.",1,0,0,2,1,-0.07,1.47
 1827,2021-05-01,458015,605200,,ball,14,"Joey Votto grounds out, second baseman Nico Hoerner to first baseman Anthony Rizzo.   Nick Castellanos to 3rd.",0,0,0,1,1,2.07,2.67
 1828,2021-05-01,458015,571521,strikeout,called_strike,5,Joey Votto called out on strikes.,1,2,0,4,5,-0.01,2.65
 1829,2021-05-01,458015,571521,,ball,13,Joey Votto called out on strikes.,0,2,0,3,5,-2.37,0.69
@@ -1868,10 +1868,10 @@
 1866,2021-04-27,458015,518397,,swinging_strike,8,Joey Votto doubles (4) on a sharp line drive to right fielder Mookie Betts.   Jesse Winker scores.    Nick Castellanos scores.,2,1,2,4,7,0.03,1.58
 1867,2021-04-27,458015,518397,,swinging_strike,4,Joey Votto doubles (4) on a sharp line drive to right fielder Mookie Betts.   Jesse Winker scores.    Nick Castellanos scores.,2,0,2,3,7,-0.45,2.53
 1868,2021-04-27,458015,621111,strikeout,swinging_strike,11,Joey Votto strikes out swinging.,1,2,1,4,1,-0.35,4.51
-1869,2021-04-27,458015,621111,,foul_tip,6,Joey Votto strikes out swinging.,1,1,1,3,1,0.38,2.72
-1870,2021-04-27,458015,518397,,blocked_ball,13,Joey Votto doubles (4) on a sharp line drive to right fielder Mookie Betts.   Jesse Winker scores.    Nick Castellanos scores.,1,0,2,2,7,-0.77,0.41
-1871,2021-04-27,458015,518397,,ball,14,Joey Votto doubles (4) on a sharp line drive to right fielder Mookie Betts.   Jesse Winker scores.    Nick Castellanos scores.,0,0,2,1,7,0.04,1.21
-1872,2021-04-27,458015,621111,,called_strike,9,Joey Votto strikes out swinging.,1,0,1,2,1,0.61,1.95
+1869,2021-04-27,458015,518397,,blocked_ball,13,Joey Votto doubles (4) on a sharp line drive to right fielder Mookie Betts.   Jesse Winker scores.    Nick Castellanos scores.,1,0,2,2,7,-0.77,0.41
+1870,2021-04-27,458015,621111,,foul_tip,6,Joey Votto strikes out swinging.,1,1,1,3,1,0.38,2.72
+1871,2021-04-27,458015,621111,,called_strike,9,Joey Votto strikes out swinging.,1,0,1,2,1,0.61,1.95
+1872,2021-04-27,458015,518397,,ball,14,Joey Votto doubles (4) on a sharp line drive to right fielder Mookie Betts.   Jesse Winker scores.    Nick Castellanos scores.,0,0,2,1,7,0.04,1.21
 1873,2021-04-27,458015,621111,,ball,11,Joey Votto strikes out swinging.,0,0,1,1,1,-1.13,3.36
 1874,2021-04-26,458015,518397,field_out,hit_into_play,13,"Joey Votto grounds out, third baseman Edwin Rios to first baseman Max Muncy.",3,2,0,7,9,-1.1,2.09
 1875,2021-04-26,458015,518397,,foul,2,"Joey Votto grounds out, third baseman Edwin Rios to first baseman Max Muncy.",3,2,0,6,9,-0.27,2.9
@@ -1905,8 +1905,8 @@
 1903,2021-04-24,458015,607231,,swinging_strike,14,Joey Votto walks.,0,0,1,1,4,0.46,1.21
 1904,2021-04-24,458015,606149,field_out,hit_into_play,6,"Joey Votto grounds out, shortstop Paul DeJong to first baseman Paul Goldschmidt.",1,2,0,4,9,0.79,2.6
 1905,2021-04-24,458015,606149,,called_strike,6,"Joey Votto grounds out, shortstop Paul DeJong to first baseman Paul Goldschmidt.",1,1,0,3,9,0.45,3.07
-1906,2021-04-24,458015,606149,,ball,11,"Joey Votto grounds out, shortstop Paul DeJong to first baseman Paul Goldschmidt.",0,1,0,2,9,-2.06,3.16
-1907,2021-04-24,458015,607231,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,2,2,1,7,1,-0.42,2.87
+1906,2021-04-24,458015,607231,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,2,2,1,7,1,-0.42,2.87
+1907,2021-04-24,458015,606149,,ball,11,"Joey Votto grounds out, shortstop Paul DeJong to first baseman Paul Goldschmidt.",0,1,0,2,9,-2.06,3.16
 1908,2021-04-24,458015,606149,,called_strike,4,"Joey Votto grounds out, shortstop Paul DeJong to first baseman Paul Goldschmidt.",0,0,0,1,9,-0.52,2.79
 1909,2021-04-24,458015,607231,,foul,1,Joey Votto strikes out swinging.,2,2,1,6,1,-0.76,3.15
 1910,2021-04-24,458015,607231,,foul,1,Joey Votto strikes out swinging.,2,2,1,5,1,-0.58,3.15
@@ -1942,25 +1942,25 @@
 1940,2021-04-22,458015,642203,,called_strike,1,Joey Votto strikes out on a foul tip.,0,0,2,1,3,-0.54,3.25
 1941,2021-04-22,458015,622065,strikeout,swinging_strike,11,Joey Votto strikes out swinging.,2,2,2,5,10,-0.62,3.61
 1942,2021-04-22,458015,622065,,blocked_ball,13,Joey Votto strikes out swinging.,1,2,2,4,10,-2.56,0.69
-1943,2021-04-22,458015,622065,,ball,13,Joey Votto strikes out swinging.,0,2,2,3,10,-1.15,2.2
-1944,2021-04-22,458015,642203,field_out,hit_into_play,11,Joey Votto flies out to left fielder David Peralta.,3,2,1,8,1,-1.0,2.79
-1945,2021-04-22,458015,622065,,called_strike,6,Joey Votto strikes out swinging.,0,1,2,2,10,0.76,2.3
-1946,2021-04-22,458015,642203,,foul,5,Joey Votto flies out to left fielder David Peralta.,3,2,1,7,1,-0.21,2.45
-1947,2021-04-22,458015,642203,,ball,11,Joey Votto flies out to left fielder David Peralta.,2,2,1,6,1,-0.87,3.48
-1948,2021-04-22,458015,622065,,swinging_strike,13,Joey Votto strikes out swinging.,0,0,2,1,10,-1.4,2.13
+1943,2021-04-22,458015,642203,field_out,hit_into_play,11,Joey Votto flies out to left fielder David Peralta.,3,2,1,8,1,-1.0,2.79
+1944,2021-04-22,458015,622065,,ball,13,Joey Votto strikes out swinging.,0,2,2,3,10,-1.15,2.2
+1945,2021-04-22,458015,642203,,foul,5,Joey Votto flies out to left fielder David Peralta.,3,2,1,7,1,-0.21,2.45
+1946,2021-04-22,458015,622065,,called_strike,6,Joey Votto strikes out swinging.,0,1,2,2,10,0.76,2.3
+1947,2021-04-22,458015,622065,,swinging_strike,13,Joey Votto strikes out swinging.,0,0,2,1,10,-1.4,2.13
+1948,2021-04-22,458015,642203,,ball,11,Joey Votto flies out to left fielder David Peralta.,2,2,1,6,1,-0.87,3.48
 1949,2021-04-22,458015,642203,,ball,11,Joey Votto flies out to left fielder David Peralta.,1,2,1,5,1,-1.41,2.81
 1950,2021-04-22,458015,592761,strikeout,swinging_strike,7,Joey Votto strikes out swinging.,1,2,0,4,9,-0.57,1.98
-1951,2021-04-22,458015,656464,home_run,hit_into_play,1,Joey Votto homers (4) on a fly ball to left center field.,3,2,1,8,7,-0.67,3.34
-1952,2021-04-22,458015,592761,,called_strike,8,Joey Votto strikes out swinging.,1,1,0,3,9,0.04,2.01
-1953,2021-04-22,458015,642203,,foul,5,Joey Votto flies out to left fielder David Peralta.,1,2,1,4,1,-0.12,2.84
-1954,2021-04-22,458015,592761,,ball,13,Joey Votto strikes out swinging.,0,1,0,2,9,-2.08,1.5
-1955,2021-04-22,458015,656464,,foul,1,Joey Votto homers (4) on a fly ball to left center field.,3,2,1,7,7,-0.44,3.06
+1951,2021-04-22,458015,642203,,foul,5,Joey Votto flies out to left fielder David Peralta.,1,2,1,4,1,-0.12,2.84
+1952,2021-04-22,458015,656464,home_run,hit_into_play,1,Joey Votto homers (4) on a fly ball to left center field.,3,2,1,8,7,-0.67,3.34
+1953,2021-04-22,458015,592761,,called_strike,8,Joey Votto strikes out swinging.,1,1,0,3,9,0.04,2.01
+1954,2021-04-22,458015,656464,,foul,1,Joey Votto homers (4) on a fly ball to left center field.,3,2,1,7,7,-0.44,3.06
+1955,2021-04-22,458015,592761,,ball,13,Joey Votto strikes out swinging.,0,1,0,2,9,-2.08,1.5
 1956,2021-04-22,458015,642203,,ball,11,Joey Votto flies out to left fielder David Peralta.,0,2,1,3,1,-0.85,4.79
-1957,2021-04-22,458015,592761,,called_strike,7,Joey Votto strikes out swinging.,0,0,0,1,9,-0.61,2.08
-1958,2021-04-22,458015,642203,,foul,1,Joey Votto flies out to left fielder David Peralta.,0,1,1,2,1,-0.58,2.95
+1957,2021-04-22,458015,642203,,foul,1,Joey Votto flies out to left fielder David Peralta.,0,1,1,2,1,-0.58,2.95
+1958,2021-04-22,458015,592761,,called_strike,7,Joey Votto strikes out swinging.,0,0,0,1,9,-0.61,2.08
 1959,2021-04-22,458015,656464,,foul,5,Joey Votto homers (4) on a fly ball to left center field.,3,2,1,6,7,-0.24,2.19
-1960,2021-04-22,458015,642203,,foul_tip,4,Joey Votto flies out to left fielder David Peralta.,0,0,1,1,1,-0.77,2.55
-1961,2021-04-22,458015,656464,,ball,11,Joey Votto homers (4) on a fly ball to left center field.,2,2,1,5,7,-1.24,3.86
+1960,2021-04-22,458015,656464,,ball,11,Joey Votto homers (4) on a fly ball to left center field.,2,2,1,5,7,-1.24,3.86
+1961,2021-04-22,458015,642203,,foul_tip,4,Joey Votto flies out to left fielder David Peralta.,0,0,1,1,1,-0.77,2.55
 1962,2021-04-22,458015,656464,,ball,14,Joey Votto homers (4) on a fly ball to left center field.,1,2,1,4,7,0.85,1.2
 1963,2021-04-22,458015,656464,,swinging_strike,14,Joey Votto homers (4) on a fly ball to left center field.,1,1,1,3,7,0.11,0.79
 1964,2021-04-22,458015,656464,,ball,11,Joey Votto homers (4) on a fly ball to left center field.,0,1,1,2,7,-1.44,2.97
@@ -2089,8 +2089,8 @@
 2087,2021-04-11,458015,676840,field_out,hit_into_play,7,"Joey Votto grounds out, second baseman Josh VanMeter to pitcher Matt Peacock.",1,2,0,4,9,-0.34,2.03
 2088,2021-04-11,458015,676840,,called_strike,6,"Joey Votto grounds out, second baseman Josh VanMeter to pitcher Matt Peacock.",1,1,0,3,9,0.28,2.67
 2089,2021-04-11,458015,676840,,ball,11,"Joey Votto grounds out, second baseman Josh VanMeter to pitcher Matt Peacock.",0,1,0,2,9,-0.4,3.78
-2090,2021-04-11,458015,596133,field_out,hit_into_play,2,"Joey Votto grounds out, second baseman Josh VanMeter to first baseman Christian Walker.",2,2,2,5,1,-0.09,3.15
-2091,2021-04-11,458015,676840,,foul,2,"Joey Votto grounds out, second baseman Josh VanMeter to pitcher Matt Peacock.",0,0,0,1,9,-0.05,3.06
+2090,2021-04-11,458015,676840,,foul,2,"Joey Votto grounds out, second baseman Josh VanMeter to pitcher Matt Peacock.",0,0,0,1,9,-0.05,3.06
+2091,2021-04-11,458015,596133,field_out,hit_into_play,2,"Joey Votto grounds out, second baseman Josh VanMeter to first baseman Christian Walker.",2,2,2,5,1,-0.09,3.15
 2092,2021-04-11,458015,596133,,swinging_strike,13,"Joey Votto grounds out, second baseman Josh VanMeter to first baseman Christian Walker.",2,1,2,4,1,-0.5,1.43
 2093,2021-04-11,458015,596133,,swinging_strike,3,"Joey Votto grounds out, second baseman Josh VanMeter to first baseman Christian Walker.",2,0,2,3,1,0.35,3.54
 2094,2021-04-11,458015,596133,,ball,12,"Joey Votto grounds out, second baseman Josh VanMeter to first baseman Christian Walker.",1,0,2,2,1,1.32,3.17
@@ -2101,8 +2101,8 @@
 2099,2021-04-10,458015,642092,,called_strike,1,Joey Votto singles on a sharp line drive to right fielder Kole Calhoun.,1,0,0,2,6,-0.41,3.34
 2100,2021-04-10,458015,642092,,ball,13,Joey Votto singles on a sharp line drive to right fielder Kole Calhoun.,0,0,0,1,6,-0.01,0.7
 2101,2021-04-10,458015,642092,field_out,hit_into_play,7,"Joey Votto grounds out, third baseman Asdrubal Cabrera to first baseman Christian Walker.",0,0,2,1,3,-0.39,1.82
-2102,2021-04-10,458015,642092,field_out,hit_into_play,7,Joey Votto grounds out to first baseman Christian Walker.,1,2,2,4,1,-0.48,2.08
-2103,2021-04-10,458015,664199,field_out,hit_into_play,11,"Joey Votto grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",0,2,0,3,8,-0.88,3.68
+2102,2021-04-10,458015,664199,field_out,hit_into_play,11,"Joey Votto grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",0,2,0,3,8,-0.88,3.68
+2103,2021-04-10,458015,642092,field_out,hit_into_play,7,Joey Votto grounds out to first baseman Christian Walker.,1,2,2,4,1,-0.48,2.08
 2104,2021-04-10,458015,642092,,called_strike,3,Joey Votto grounds out to first baseman Christian Walker.,1,1,2,3,1,0.76,2.97
 2105,2021-04-10,458015,664199,,foul,12,"Joey Votto grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",0,1,0,2,8,0.86,3.29
 2106,2021-04-10,458015,642092,,called_strike,13,Joey Votto grounds out to first baseman Christian Walker.,1,0,2,2,1,-0.84,2.42
@@ -2122,10 +2122,10 @@
 2120,2021-04-09,458015,592761,,called_strike,7,Joey Votto flies out sharply to center fielder Tim Locastro.,1,0,0,2,7,-0.53,2.05
 2121,2021-04-09,458015,592761,,ball,12,Joey Votto flies out sharply to center fielder Tim Locastro.,0,0,0,1,7,0.1,4.19
 2122,2021-04-09,458015,642203,field_out,hit_into_play,5,"Joey Votto grounds out sharply, second baseman Eduardo Escobar to first baseman Christian Walker.   Jesse Winker to 3rd.",1,1,1,3,1,0.05,2.43
-2123,2021-04-09,458015,642203,,called_strike,4,"Joey Votto grounds out sharply, second baseman Eduardo Escobar to first baseman Christian Walker.   Jesse Winker to 3rd.",1,0,1,2,1,-0.49,2.24
-2124,2021-04-09,458015,592233,field_out,hit_into_play,5,Joey Votto flies out to left fielder Pavin Smith.,2,0,0,3,9,0.2,2.45
-2125,2021-04-09,458015,592233,,ball,14,Joey Votto flies out to left fielder Pavin Smith.,1,0,0,2,9,0.55,1.55
-2126,2021-04-09,458015,642203,,ball,13,"Joey Votto grounds out sharply, second baseman Eduardo Escobar to first baseman Christian Walker.   Jesse Winker to 3rd.",0,0,1,1,1,-1.32,2.29
+2123,2021-04-09,458015,592233,field_out,hit_into_play,5,Joey Votto flies out to left fielder Pavin Smith.,2,0,0,3,9,0.2,2.45
+2124,2021-04-09,458015,642203,,called_strike,4,"Joey Votto grounds out sharply, second baseman Eduardo Escobar to first baseman Christian Walker.   Jesse Winker to 3rd.",1,0,1,2,1,-0.49,2.24
+2125,2021-04-09,458015,642203,,ball,13,"Joey Votto grounds out sharply, second baseman Eduardo Escobar to first baseman Christian Walker.   Jesse Winker to 3rd.",0,0,1,1,1,-1.32,2.29
+2126,2021-04-09,458015,592233,,ball,14,Joey Votto flies out to left fielder Pavin Smith.,1,0,0,2,9,0.55,1.55
 2127,2021-04-09,458015,592233,,ball,14,Joey Votto flies out to left fielder Pavin Smith.,0,0,0,1,9,1.01,2.01
 2128,2021-04-07,458015,641771,strikeout,swinging_strike_blocked,14,Joey Votto strikes out swinging.,2,2,0,5,3,0.95,1.11
 2129,2021-04-07,458015,641771,,ball,6,Joey Votto strikes out swinging.,1,2,0,4,3,0.8,2.69
@@ -2164,8 +2164,8 @@
 2162,2021-04-05,458015,664141,,foul,4,"Joey Votto grounds into a force out, third baseman Phillip Evans to shortstop Erik Gonzalez.   Nick Castellanos out at 2nd.    Joey Votto to 1st.",0,0,0,1,3,-0.48,2.86
 2163,2021-04-05,458015,664141,strikeout,called_strike,3,Joey Votto called out on strikes.,1,2,1,4,1,0.4,2.9
 2164,2021-04-05,458015,607572,field_out,hit_into_play,1,Joey Votto flies out to left fielder Bryan Reynolds.,1,1,1,3,7,-0.75,3.15
-2165,2021-04-05,458015,664141,,foul,6,Joey Votto called out on strikes.,1,1,1,3,1,0.61,2.59
-2166,2021-04-05,458015,607572,,ball,13,Joey Votto flies out to left fielder Bryan Reynolds.,0,1,1,2,7,-1.1,1.19
+2165,2021-04-05,458015,607572,,ball,13,Joey Votto flies out to left fielder Bryan Reynolds.,0,1,1,2,7,-1.1,1.19
+2166,2021-04-05,458015,664141,,foul,6,Joey Votto called out on strikes.,1,1,1,3,1,0.61,2.59
 2167,2021-04-05,458015,607572,,called_strike,7,Joey Votto flies out to left fielder Bryan Reynolds.,0,0,1,1,7,-0.51,1.59
 2168,2021-04-05,458015,664141,,swinging_strike,8,Joey Votto called out on strikes.,1,0,1,2,1,0.22,1.6
 2169,2021-04-05,458015,664141,,ball,11,Joey Votto called out on strikes.,0,0,1,1,1,-1.12,3.75
@@ -2183,14 +2183,14 @@
 2181,2021-04-04,458015,593372,,foul,3,Joey Votto singles on a sharp line drive to right fielder Justin Williams.   Nick Castellanos scores.,0,0,1,1,4,0.42,2.97
 2182,2021-04-04,458015,643778,field_error,hit_into_play,4,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,2,2,2,6,6,-0.42,2.76
 2183,2021-04-04,458015,643778,,ball,13,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,1,2,2,5,6,-0.42,0.77
-2184,2021-04-04,458015,593372,strikeout,swinging_strike,14,Joey Votto strikes out swinging.,2,2,2,6,1,0.2,1.04
-2185,2021-04-04,458015,643778,,foul,4,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,1,2,2,4,6,-0.3,2.21
-2186,2021-04-04,458015,593372,,foul,1,Joey Votto strikes out swinging.,2,2,2,5,1,-0.49,2.91
-2187,2021-04-04,458015,643778,,ball,13,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,0,2,2,3,6,-0.54,1.19
+2184,2021-04-04,458015,643778,,foul,4,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,1,2,2,4,6,-0.3,2.21
+2185,2021-04-04,458015,593372,strikeout,swinging_strike,14,Joey Votto strikes out swinging.,2,2,2,6,1,0.2,1.04
+2186,2021-04-04,458015,643778,,ball,13,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,0,2,2,3,6,-0.54,1.19
+2187,2021-04-04,458015,593372,,foul,1,Joey Votto strikes out swinging.,2,2,2,5,1,-0.49,2.91
 2188,2021-04-04,458015,643778,,foul,11,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,0,1,2,2,6,0.0,3.84
 2189,2021-04-04,458015,593372,,called_strike,8,Joey Votto strikes out swinging.,2,1,2,4,1,0.23,1.88
-2190,2021-04-04,458015,643778,,foul,8,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,0,0,2,1,6,0.23,2.08
-2191,2021-04-04,458015,593372,,swinging_strike,2,Joey Votto strikes out swinging.,2,0,2,3,1,-0.02,3.17
+2190,2021-04-04,458015,593372,,swinging_strike,2,Joey Votto strikes out swinging.,2,0,2,3,1,-0.02,3.17
+2191,2021-04-04,458015,643778,,foul,8,Joey Votto reaches on a fielding error by shortstop Paul DeJong.,0,0,2,1,6,0.23,2.08
 2192,2021-04-04,458015,593372,,ball,11,Joey Votto strikes out swinging.,1,0,2,2,1,-1.72,3.48
 2193,2021-04-04,458015,593372,,ball,14,Joey Votto strikes out swinging.,0,0,2,1,1,1.31,0.91
 2194,2021-04-03,458015,425794,field_out,hit_into_play,7,Joey Votto grounds out to first baseman Paul Goldschmidt.   Jesse Winker to 3rd.    Nick Castellanos to 2nd.,2,0,1,3,3,-0.28,1.53
@@ -2202,12 +2202,12 @@
 2200,2021-04-03,458015,425794,field_out,hit_into_play,4,Joey Votto lines out sharply to center fielder Dylan Carlson.,1,2,2,4,1,-0.55,2.6
 2201,2021-04-03,458015,425794,,ball,13,Joey Votto lines out sharply to center fielder Dylan Carlson.,0,2,2,3,1,-1.76,2.27
 2202,2021-04-03,458015,425794,,swinging_strike,13,Joey Votto lines out sharply to center fielder Dylan Carlson.,0,1,2,2,1,-0.14,1.31
-2203,2021-04-03,458015,453192,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,1,2,0,5,6,-0.65,2.78
-2204,2021-04-03,458015,425794,,called_strike,1,Joey Votto lines out sharply to center fielder Dylan Carlson.,0,0,2,1,1,-0.77,3.03
+2203,2021-04-03,458015,425794,,called_strike,1,Joey Votto lines out sharply to center fielder Dylan Carlson.,0,0,2,1,1,-0.77,3.03
+2204,2021-04-03,458015,453192,strikeout,swinging_strike,4,Joey Votto strikes out swinging.,1,2,0,5,6,-0.65,2.78
 2205,2021-04-03,458015,453192,,foul,9,Joey Votto strikes out swinging.,1,2,0,4,6,0.3,2.04
 2206,2021-04-03,458015,453192,,foul,12,Joey Votto strikes out swinging.,1,1,0,3,6,1.0,3.4
-2207,2021-04-03,458015,643778,field_out,hit_into_play,3,"Joey Votto grounds out, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,2,0,4,8,0.38,3.08
-2208,2021-04-03,458015,453192,,foul,8,Joey Votto strikes out swinging.,1,0,0,2,6,0.13,2.11
+2207,2021-04-03,458015,453192,,foul,8,Joey Votto strikes out swinging.,1,0,0,2,6,0.13,2.11
+2208,2021-04-03,458015,643778,field_out,hit_into_play,3,"Joey Votto grounds out, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,2,0,4,8,0.38,3.08
 2209,2021-04-03,458015,453192,,ball,12,Joey Votto strikes out swinging.,0,0,0,1,6,1.02,3.11
 2210,2021-04-03,458015,643778,,called_strike,11,"Joey Votto grounds out, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,1,0,3,8,-0.86,3.06
 2211,2021-04-03,458015,643778,,swinging_strike,8,"Joey Votto grounds out, second baseman Tommy Edman to first baseman Paul Goldschmidt.",1,0,0,2,8,-0.22,1.52
@@ -2222,10 +2222,10 @@
 2220,2021-04-01,458015,656427,field_out,hit_into_play,2,Joey Votto pops out to third baseman Nolan Arenado.,3,2,1,7,1,0.1,3.13
 2221,2021-04-01,458015,656427,,ball,14,Joey Votto pops out to third baseman Nolan Arenado.,2,2,1,6,1,0.63,-0.35
 2222,2021-04-01,458015,656427,,foul,8,Joey Votto pops out to third baseman Nolan Arenado.,2,2,1,5,1,0.01,1.82
-2223,2021-04-01,458015,621052,field_out,hit_into_play,2,Joey Votto flies out to center fielder Dylan Carlson.,2,0,0,3,9,-0.12,3.41
-2224,2021-04-01,458015,656427,,ball,14,Joey Votto pops out to third baseman Nolan Arenado.,1,2,1,4,1,0.51,-0.73
-2225,2021-04-01,458015,656427,,swinging_strike_blocked,14,Joey Votto pops out to third baseman Nolan Arenado.,1,1,1,3,1,0.38,0.79
-2226,2021-04-01,458015,621052,,ball,13,Joey Votto flies out to center fielder Dylan Carlson.,1,0,0,2,9,-0.53,1.53
+2223,2021-04-01,458015,656427,,ball,14,Joey Votto pops out to third baseman Nolan Arenado.,1,2,1,4,1,0.51,-0.73
+2224,2021-04-01,458015,621052,field_out,hit_into_play,2,Joey Votto flies out to center fielder Dylan Carlson.,2,0,0,3,9,-0.12,3.41
+2225,2021-04-01,458015,621052,,ball,13,Joey Votto flies out to center fielder Dylan Carlson.,1,0,0,2,9,-0.53,1.53
+2226,2021-04-01,458015,656427,,swinging_strike_blocked,14,Joey Votto pops out to third baseman Nolan Arenado.,1,1,1,3,1,0.38,0.79
 2227,2021-04-01,458015,621052,,ball,13,Joey Votto flies out to center fielder Dylan Carlson.,0,0,0,1,9,-1.46,2.54
 2228,2021-04-01,458015,656427,,called_strike,9,Joey Votto pops out to third baseman Nolan Arenado.,1,0,1,2,1,0.57,1.78
 2229,2021-04-01,458015,656427,,blocked_ball,14,Joey Votto pops out to third baseman Nolan Arenado.,0,0,1,1,1,1.51,-1.32

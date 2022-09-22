@@ -9,5 +9,6 @@ VISION REPORT: wil_myers (2021-04-01 thru 2021-10-04)
      wil_myers saw 983 strikes and 1027 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3831
+VISION SCORE METRIC B (VSA - SO%): 0.1011
 Average PA Length: 3.9860 (1993/500)
 Batting Avg: 0.256

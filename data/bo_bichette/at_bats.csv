@@ -4,10 +4,10 @@
 2,2021-10-03,666182,650959,,swinging_strike,14,"Bo Bichette grounds out softly, pitcher Marcos Diplan to first baseman Ryan Mountcastle.",1,1,2,3,2,0.23,1.28
 3,2021-10-03,666182,650959,,ball,12,"Bo Bichette grounds out softly, pitcher Marcos Diplan to first baseman Ryan Mountcastle.",0,1,2,2,2,1.14,3.63
 4,2021-10-03,666182,650959,,swinging_strike,5,"Bo Bichette grounds out softly, pitcher Marcos Diplan to first baseman Ryan Mountcastle.",0,0,2,1,2,-0.26,2.46
-5,2021-10-03,666182,669145,single,hit_into_play,11,Bo Bichette singles on a line drive to center fielder Cedric Mullins.   Marcus Semien to 3rd.,1,1,1,3,1,-1.08,3.42
-6,2021-10-03,666182,641632,field_out,hit_into_play,8,Bo Bichette flies out to left fielder Tyler Nevin.,2,2,1,7,8,0.16,1.84
-7,2021-10-03,666182,641632,,foul,13,Bo Bichette flies out to left fielder Tyler Nevin.,2,2,1,6,8,-0.88,2.21
-8,2021-10-03,666182,669145,,ball,14,Bo Bichette singles on a line drive to center fielder Cedric Mullins.   Marcus Semien to 3rd.,0,1,1,2,1,1.18,2.28
+5,2021-10-03,666182,641632,field_out,hit_into_play,8,Bo Bichette flies out to left fielder Tyler Nevin.,2,2,1,7,8,0.16,1.84
+6,2021-10-03,666182,669145,single,hit_into_play,11,Bo Bichette singles on a line drive to center fielder Cedric Mullins.   Marcus Semien to 3rd.,1,1,1,3,1,-1.08,3.42
+7,2021-10-03,666182,669145,,ball,14,Bo Bichette singles on a line drive to center fielder Cedric Mullins.   Marcus Semien to 3rd.,0,1,1,2,1,1.18,2.28
+8,2021-10-03,666182,641632,,foul,13,Bo Bichette flies out to left fielder Tyler Nevin.,2,2,1,6,8,-0.88,2.21
 9,2021-10-03,666182,641632,,foul,1,Bo Bichette flies out to left fielder Tyler Nevin.,2,2,1,5,8,-0.71,3.01
 10,2021-10-03,666182,669145,,foul,1,Bo Bichette singles on a line drive to center fielder Cedric Mullins.   Marcus Semien to 3rd.,0,0,1,1,1,-0.54,3.33
 11,2021-10-03,666182,641632,,ball,14,Bo Bichette flies out to left fielder Tyler Nevin.,1,2,1,4,8,0.74,1.27
@@ -36,8 +36,8 @@
 34,2021-10-01,666182,664045,,foul,4,Bo Bichette lines out to second baseman Pat Valaika.,0,0,0,1,2,-0.46,2.29
 35,2021-10-01,666182,676755,field_out,hit_into_play,11,Bo Bichette flies out to right fielder Austin Hays.,0,1,1,2,7,-1.19,2.68
 36,2021-10-01,666182,676755,,foul,4,Bo Bichette flies out to right fielder Austin Hays.,0,0,1,1,7,-0.7,2.56
-37,2021-10-01,666182,621139,strikeout,swinging_strike_blocked,13,"Bo Bichette strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,2,0,3,6,0.0,0.3
-38,2021-10-01,666182,641632,double,hit_into_play,6,Bo Bichette doubles (29) on a ground ball to left fielder Tyler Nevin.,0,1,0,2,4,0.28,2.48
+37,2021-10-01,666182,641632,double,hit_into_play,6,Bo Bichette doubles (29) on a ground ball to left fielder Tyler Nevin.,0,1,0,2,4,0.28,2.48
+38,2021-10-01,666182,621139,strikeout,swinging_strike_blocked,13,"Bo Bichette strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,2,0,3,6,0.0,0.3
 39,2021-10-01,666182,621139,,swinging_strike,9,"Bo Bichette strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,1,0,2,6,0.37,1.98
 40,2021-10-01,666182,641632,,foul,7,Bo Bichette doubles (29) on a ground ball to left fielder Tyler Nevin.,0,0,0,1,4,-0.67,2.04
 41,2021-10-01,666182,621139,,swinging_strike,13,"Bo Bichette strikes out swinging, catcher Pedro Severino to first baseman Ryan Mountcastle.",0,0,0,1,6,-0.35,0.53
@@ -51,8 +51,8 @@
 49,2021-09-30,666182,643338,double,hit_into_play,3,Bo Bichette doubles (28) on a sharp fly ball to center fielder Brett Gardner.,2,2,0,5,8,0.59,2.87
 50,2021-09-30,666182,650633,,called_strike,5,Bo Bichette walks.,3,0,2,4,5,-0.02,2.88
 51,2021-09-30,666182,643338,,ball,14,Bo Bichette doubles (28) on a sharp fly ball to center fielder Brett Gardner.,1,2,0,4,8,2.03,0.57
-52,2021-09-30,666182,650633,,ball,3,Bo Bichette walks.,2,0,2,3,5,0.41,3.4
-53,2021-09-30,666182,643338,,foul,6,Bo Bichette doubles (28) on a sharp fly ball to center fielder Brett Gardner.,1,1,0,3,8,0.41,2.17
+52,2021-09-30,666182,643338,,foul,6,Bo Bichette doubles (28) on a sharp fly ball to center fielder Brett Gardner.,1,1,0,3,8,0.41,2.17
+53,2021-09-30,666182,650633,,ball,3,Bo Bichette walks.,2,0,2,3,5,0.41,3.4
 54,2021-09-30,666182,643338,,ball,14,Bo Bichette doubles (28) on a sharp fly ball to center fielder Brett Gardner.,0,1,0,2,8,0.94,1.81
 55,2021-09-30,666182,650633,,ball,14,Bo Bichette walks.,1,0,2,2,5,1.09,1.47
 56,2021-09-30,666182,650633,,blocked_ball,14,Bo Bichette walks.,0,0,2,1,5,2.72,0.44
@@ -133,8 +133,8 @@
 131,2021-09-23,666182,621248,,foul,12,"Bo Bichette grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",0,2,2,3,9,1.24,2.96
 132,2021-09-23,666182,573204,field_out,hit_into_play,3,"Bo Bichette grounds out sharply, second baseman Jorge Polanco to first baseman Miguel Sano.",0,2,2,3,7,0.8,2.94
 133,2021-09-23,666182,621248,,swinging_strike,14,"Bo Bichette grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",0,1,2,2,9,1.17,2.35
-134,2021-09-23,666182,621248,,called_strike,8,"Bo Bichette grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",0,0,2,1,9,0.24,2.23
-135,2021-09-23,666182,573204,,called_strike,7,"Bo Bichette grounds out sharply, second baseman Jorge Polanco to first baseman Miguel Sano.",0,1,2,2,7,-0.78,1.68
+134,2021-09-23,666182,573204,,called_strike,7,"Bo Bichette grounds out sharply, second baseman Jorge Polanco to first baseman Miguel Sano.",0,1,2,2,7,-0.78,1.68
+135,2021-09-23,666182,621248,,called_strike,8,"Bo Bichette grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",0,0,2,1,9,0.24,2.23
 136,2021-09-23,666182,573204,,foul,12,"Bo Bichette grounds out sharply, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,2,1,7,0.4,3.58
 137,2021-09-23,666182,501381,force_out,hit_into_play,9,"Bo Bichette grounds into a force out, shortstop Andrelton Simmons to second baseman Jorge Polanco.   Marcus Semien out at 2nd.",0,1,2,2,1,0.7,1.42
 138,2021-09-23,666182,501381,,called_strike,8,"Bo Bichette grounds into a force out, shortstop Andrelton Simmons to second baseman Jorge Polanco.   Marcus Semien out at 2nd.",0,0,2,1,1,-0.08,2.17
@@ -142,20 +142,20 @@
 140,2021-09-22,666182,543045,,swinging_strike,12,Bo Bichette singles on a sharp ground ball to right fielder Manuel Margot.   Vladimir Guerrero to 3rd.,0,1,1,2,6,1.0,3.44
 141,2021-09-22,666182,543045,,foul,12,Bo Bichette singles on a sharp ground ball to right fielder Manuel Margot.   Vladimir Guerrero to 3rd.,0,0,1,1,6,1.39,3.15
 142,2021-09-22,666182,672715,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,2,2,1,8,1,1.16,2.1
-143,2021-09-22,666182,664126,walk,ball,14,Bo Bichette walks.   Vladimir Guerrero to 2nd.,3,2,0,9,8,0.79,0.4
-144,2021-09-22,666182,672715,,foul,12,Bo Bichette strikes out swinging.,2,2,1,7,1,1.24,2.77
+143,2021-09-22,666182,672715,,foul,12,Bo Bichette strikes out swinging.,2,2,1,7,1,1.24,2.77
+144,2021-09-22,666182,664126,walk,ball,14,Bo Bichette walks.   Vladimir Guerrero to 2nd.,3,2,0,9,8,0.79,0.4
 145,2021-09-22,666182,664126,,foul,11,Bo Bichette walks.   Vladimir Guerrero to 2nd.,3,2,0,8,8,-0.71,3.54
 146,2021-09-22,666182,672715,,blocked_ball,14,Bo Bichette strikes out swinging.,1,2,1,6,1,1.66,0.0
-147,2021-09-22,666182,672715,,foul,3,Bo Bichette strikes out swinging.,1,2,1,5,1,0.49,2.89
-148,2021-09-22,666182,664126,,ball,14,Bo Bichette walks.   Vladimir Guerrero to 2nd.,2,2,0,7,8,0.8,1.1
+147,2021-09-22,666182,664126,,ball,14,Bo Bichette walks.   Vladimir Guerrero to 2nd.,2,2,0,7,8,0.8,1.1
+148,2021-09-22,666182,672715,,foul,3,Bo Bichette strikes out swinging.,1,2,1,5,1,0.49,2.89
 149,2021-09-22,666182,672715,,foul,14,Bo Bichette strikes out swinging.,1,2,1,4,1,1.01,1.75
 150,2021-09-22,666182,664126,,foul,7,Bo Bichette walks.   Vladimir Guerrero to 2nd.,2,2,0,6,8,-0.77,1.42
 151,2021-09-22,666182,664126,,foul,12,Bo Bichette walks.   Vladimir Guerrero to 2nd.,2,2,0,5,8,0.99,2.74
 152,2021-09-22,666182,672715,,foul,12,Bo Bichette strikes out swinging.,1,1,1,3,1,1.25,2.69
-153,2021-09-22,666182,664126,,called_strike,8,Bo Bichette walks.   Vladimir Guerrero to 2nd.,2,1,0,4,8,-0.03,1.59
-154,2021-09-22,666182,672715,,called_strike,12,Bo Bichette strikes out swinging.,1,0,1,2,1,0.93,3.0
-155,2021-09-22,666182,664126,,ball,12,Bo Bichette walks.   Vladimir Guerrero to 2nd.,1,1,0,3,8,1.36,4.11
-156,2021-09-22,666182,672715,,ball,13,Bo Bichette strikes out swinging.,0,0,1,1,1,-1.0,2.47
+153,2021-09-22,666182,672715,,called_strike,12,Bo Bichette strikes out swinging.,1,0,1,2,1,0.93,3.0
+154,2021-09-22,666182,664126,,called_strike,8,Bo Bichette walks.   Vladimir Guerrero to 2nd.,2,1,0,4,8,-0.03,1.59
+155,2021-09-22,666182,672715,,ball,13,Bo Bichette strikes out swinging.,0,0,1,1,1,-1.0,2.47
+156,2021-09-22,666182,664126,,ball,12,Bo Bichette walks.   Vladimir Guerrero to 2nd.,1,1,0,3,8,1.36,4.11
 157,2021-09-22,666182,664126,,called_strike,9,Bo Bichette walks.   Vladimir Guerrero to 2nd.,1,0,0,2,8,0.46,1.93
 158,2021-09-22,666182,664126,,ball,14,Bo Bichette walks.   Vladimir Guerrero to 2nd.,0,0,0,1,8,0.17,1.37
 159,2021-09-22,666182,608638,strikeout,swinging_strike_blocked,14,Bo Bichette strikes out swinging.,2,2,0,5,4,0.94,1.07
@@ -173,10 +173,10 @@
 171,2021-09-21,666182,656876,,foul,9,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.",0,2,0,4,2,0.46,2.03
 172,2021-09-21,666182,656876,,foul,12,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.",0,2,0,3,2,0.39,4.16
 173,2021-09-21,666182,623433,sac_fly,hit_into_play,4,Bo Bichette out on a sacrifice fly to center fielder Kevin Kiermaier.   Marcus Semien scores.,0,2,0,4,6,-0.28,2.58
-174,2021-09-21,666182,623433,,foul,11,Bo Bichette out on a sacrifice fly to center fielder Kevin Kiermaier.   Marcus Semien scores.,0,2,0,3,6,-0.57,3.59
-175,2021-09-21,666182,656876,,foul,2,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.",0,1,0,2,2,-0.17,3.22
-176,2021-09-21,666182,656876,,called_strike,12,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.",0,0,0,1,2,0.87,2.56
-177,2021-09-21,666182,623433,,swinging_strike,5,Bo Bichette out on a sacrifice fly to center fielder Kevin Kiermaier.   Marcus Semien scores.,0,1,0,2,6,0.18,2.31
+174,2021-09-21,666182,656876,,foul,2,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.",0,1,0,2,2,-0.17,3.22
+175,2021-09-21,666182,623433,,foul,11,Bo Bichette out on a sacrifice fly to center fielder Kevin Kiermaier.   Marcus Semien scores.,0,2,0,3,6,-0.57,3.59
+176,2021-09-21,666182,623433,,swinging_strike,5,Bo Bichette out on a sacrifice fly to center fielder Kevin Kiermaier.   Marcus Semien scores.,0,1,0,2,6,0.18,2.31
+177,2021-09-21,666182,656876,,called_strike,12,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.",0,0,0,1,2,0.87,2.56
 178,2021-09-21,666182,623433,,foul,12,Bo Bichette out on a sacrifice fly to center fielder Kevin Kiermaier.   Marcus Semien scores.,0,0,0,1,6,0.26,3.5
 179,2021-09-20,666182,669358,field_out,hit_into_play,9,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Jordan Luplow.",2,2,2,6,4,0.51,2.1
 180,2021-09-20,666182,669358,,ball,14,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Jordan Luplow.",1,2,2,5,4,1.46,0.09
@@ -203,13 +203,13 @@
 201,2021-09-19,666182,573668,,blocked_ball,13,Bo Bichette strikes out swinging.,0,2,2,3,4,-0.13,-0.56
 202,2021-09-19,666182,543883,field_out,hit_into_play,5,Bo Bichette lines out to right fielder Max Kepler.,3,2,1,8,2,-0.16,2.72
 203,2021-09-19,666182,573668,,foul,4,Bo Bichette strikes out swinging.,0,1,2,2,4,-0.71,2.25
-204,2021-09-19,666182,573668,,called_strike,5,Bo Bichette strikes out swinging.,0,0,2,1,4,0.13,2.31
-205,2021-09-19,666182,543883,,foul,1,Bo Bichette lines out to right fielder Max Kepler.,3,2,1,7,2,-0.28,3.16
+204,2021-09-19,666182,543883,,foul,1,Bo Bichette lines out to right fielder Max Kepler.,3,2,1,7,2,-0.28,3.16
+205,2021-09-19,666182,573668,,called_strike,5,Bo Bichette strikes out swinging.,0,0,2,1,4,0.13,2.31
 206,2021-09-19,666182,543883,,blocked_ball,14,Bo Bichette lines out to right fielder Max Kepler.,2,2,1,6,2,0.14,0.6
 207,2021-09-19,666182,543883,,foul,3,Bo Bichette lines out to right fielder Max Kepler.,2,2,1,5,2,0.4,3.13
 208,2021-09-19,666182,608652,home_run,hit_into_play,6,Bo Bichette homers (26) on a fly ball to right center field.    Vladimir Guerrero scores.,0,1,1,2,1,0.35,2.12
-209,2021-09-19,666182,608652,,foul,13,Bo Bichette homers (26) on a fly ball to right center field.    Vladimir Guerrero scores.,0,0,1,1,1,-0.21,1.33
-210,2021-09-19,666182,543883,,foul,6,Bo Bichette lines out to right fielder Max Kepler.,2,1,1,4,2,0.36,2.71
+209,2021-09-19,666182,543883,,foul,6,Bo Bichette lines out to right fielder Max Kepler.,2,1,1,4,2,0.36,2.71
+210,2021-09-19,666182,608652,,foul,13,Bo Bichette homers (26) on a fly ball to right center field.    Vladimir Guerrero scores.,0,0,1,1,1,-0.21,1.33
 211,2021-09-19,666182,543883,,ball,14,Bo Bichette lines out to right fielder Max Kepler.,1,1,1,3,2,1.75,2.41
 212,2021-09-19,666182,543883,,ball,12,Bo Bichette lines out to right fielder Max Kepler.,0,1,1,2,2,1.17,2.74
 213,2021-09-19,666182,543883,,swinging_strike,4,Bo Bichette lines out to right fielder Max Kepler.,0,0,1,1,2,-0.4,2.34
@@ -226,8 +226,8 @@
 224,2021-09-18,666182,641927,,ball,14,"Bo Bichette grounds out, first baseman Willians Astudillo to pitcher Bailey Ober.",1,2,0,4,2,1.52,0.62
 225,2021-09-18,666182,641927,,ball,11,"Bo Bichette grounds out, first baseman Willians Astudillo to pitcher Bailey Ober.",0,2,0,3,2,-1.26,5.34
 226,2021-09-18,666182,641927,,foul,3,"Bo Bichette grounds out, first baseman Willians Astudillo to pitcher Bailey Ober.",0,1,0,2,2,0.66,3.45
-227,2021-09-18,666182,641927,,swinging_strike,12,"Bo Bichette grounds out, first baseman Willians Astudillo to pitcher Bailey Ober.",0,0,0,1,2,0.33,3.7
-228,2021-09-18,666182,621248,single,hit_into_play,6,Bo Bichette singles on a sharp line drive to right fielder Max Kepler.   Vladimir Guerrero to 2nd.,1,1,2,3,5,0.44,2.18
+227,2021-09-18,666182,621248,single,hit_into_play,6,Bo Bichette singles on a sharp line drive to right fielder Max Kepler.   Vladimir Guerrero to 2nd.,1,1,2,3,5,0.44,2.18
+228,2021-09-18,666182,641927,,swinging_strike,12,"Bo Bichette grounds out, first baseman Willians Astudillo to pitcher Bailey Ober.",0,0,0,1,2,0.33,3.7
 229,2021-09-18,666182,621248,,ball,14,Bo Bichette singles on a sharp line drive to right fielder Max Kepler.   Vladimir Guerrero to 2nd.,0,1,2,2,5,1.38,1.51
 230,2021-09-18,666182,621248,,swinging_strike,14,Bo Bichette singles on a sharp line drive to right fielder Max Kepler.   Vladimir Guerrero to 2nd.,0,0,2,1,5,0.96,2.22
 231,2021-09-18,666182,607457,single,hit_into_play,3,Bo Bichette singles on a line drive to left fielder Brent Rooker.   Danny Jansen scores.    George Springer scores.    Vladimir Guerrero to 2nd.,0,0,1,1,7,0.44,3.09
@@ -276,15 +276,15 @@
 274,2021-09-13,666182,642232,,ball,14,Bo Bichette homers (24) on a fly ball to left field.,0,1,1,2,5,1.38,2.03
 275,2021-09-13,666182,642232,,foul,6,Bo Bichette homers (24) on a fly ball to left field.,0,0,1,1,5,0.76,2.53
 276,2021-09-13,666182,642232,field_out,hit_into_play,13,Bo Bichette flies out to center fielder Kevin Kiermaier.,2,2,0,5,4,0.0,1.0
-277,2021-09-13,666182,642232,,swinging_strike,8,Bo Bichette flies out to center fielder Kevin Kiermaier.,2,1,0,4,4,-0.14,1.5
-278,2021-09-13,666182,543045,field_out,hit_into_play,14,Bo Bichette pops out to second baseman Joey Wendle.,0,2,1,4,6,1.03,1.45
-279,2021-09-13,666182,543045,,foul,7,Bo Bichette pops out to second baseman Joey Wendle.,0,2,1,3,6,-0.55,1.65
-280,2021-09-13,666182,642232,,called_strike,12,Bo Bichette flies out to center fielder Kevin Kiermaier.,2,0,0,3,4,1.17,2.81
-281,2021-09-13,666182,543521,field_out,hit_into_play,4,"Bo Bichette grounds out sharply, second baseman Joey Wendle to first baseman Ji-Man Choi.",0,0,0,1,2,-0.3,2.67
-282,2021-09-13,666182,543045,,foul,1,Bo Bichette pops out to second baseman Joey Wendle.,0,1,1,2,6,-0.7,3.0
-283,2021-09-13,666182,642232,,ball,13,Bo Bichette flies out to center fielder Kevin Kiermaier.,1,0,0,2,4,-2.76,2.4
-284,2021-09-13,666182,642232,,ball,11,Bo Bichette flies out to center fielder Kevin Kiermaier.,0,0,0,1,4,-0.16,3.85
-285,2021-09-13,666182,543045,,called_strike,4,Bo Bichette pops out to second baseman Joey Wendle.,0,0,1,1,6,-0.45,2.29
+277,2021-09-13,666182,543045,field_out,hit_into_play,14,Bo Bichette pops out to second baseman Joey Wendle.,0,2,1,4,6,1.03,1.45
+278,2021-09-13,666182,642232,,swinging_strike,8,Bo Bichette flies out to center fielder Kevin Kiermaier.,2,1,0,4,4,-0.14,1.5
+279,2021-09-13,666182,642232,,called_strike,12,Bo Bichette flies out to center fielder Kevin Kiermaier.,2,0,0,3,4,1.17,2.81
+280,2021-09-13,666182,543521,field_out,hit_into_play,4,"Bo Bichette grounds out sharply, second baseman Joey Wendle to first baseman Ji-Man Choi.",0,0,0,1,2,-0.3,2.67
+281,2021-09-13,666182,543045,,foul,7,Bo Bichette pops out to second baseman Joey Wendle.,0,2,1,3,6,-0.55,1.65
+282,2021-09-13,666182,642232,,ball,13,Bo Bichette flies out to center fielder Kevin Kiermaier.,1,0,0,2,4,-2.76,2.4
+283,2021-09-13,666182,543045,,foul,1,Bo Bichette pops out to second baseman Joey Wendle.,0,1,1,2,6,-0.7,3.0
+284,2021-09-13,666182,543045,,called_strike,4,Bo Bichette pops out to second baseman Joey Wendle.,0,0,1,1,6,-0.45,2.29
+285,2021-09-13,666182,642232,,ball,11,Bo Bichette flies out to center fielder Kevin Kiermaier.,0,0,0,1,4,-0.16,3.85
 286,2021-09-13,666182,545343,field_out,hit_into_play,2,Bo Bichette flies out to center fielder Kevin Kiermaier.,0,0,1,1,8,0.12,2.98
 287,2021-09-12,666182,675912,strikeout,foul_tip,3,Bo Bichette strikes out on a foul tip.,1,2,0,6,2,0.52,3.38
 288,2021-09-12,666182,675912,,foul,3,Bo Bichette strikes out on a foul tip.,1,2,0,5,2,0.4,2.82
@@ -322,14 +322,14 @@
 320,2021-09-11,666182,650959,walk,ball,12,Bo Bichette walks.,3,1,1,5,5,0.52,4.22
 321,2021-09-11,666182,650959,,ball,14,Bo Bichette walks.,2,1,1,4,5,0.56,0.13
 322,2021-09-11,666182,650959,,ball,14,Bo Bichette walks.,1,1,1,3,5,1.83,1.51
-323,2021-09-11,666182,669330,field_out,hit_into_play,2,Bo Bichette lines out sharply to first baseman Trey Mancini.,1,2,2,4,6,-0.2,2.8
-324,2021-09-11,666182,518435,single,hit_into_play,9,Bo Bichette singles on a ground ball to center fielder Cedric Mullins.   Vladimir Guerrero to 2nd.,1,2,1,4,7,0.69,2.06
+323,2021-09-11,666182,518435,single,hit_into_play,9,Bo Bichette singles on a ground ball to center fielder Cedric Mullins.   Vladimir Guerrero to 2nd.,1,2,1,4,7,0.69,2.06
+324,2021-09-11,666182,669330,field_out,hit_into_play,2,Bo Bichette lines out sharply to first baseman Trey Mancini.,1,2,2,4,6,-0.2,2.8
 325,2021-09-11,666182,650959,,foul,2,Bo Bichette walks.,1,0,1,2,5,-0.11,3.02
-326,2021-09-11,666182,669330,,foul,14,Bo Bichette lines out sharply to first baseman Trey Mancini.,1,1,2,3,6,0.94,2.45
+326,2021-09-11,666182,518435,,foul_tip,2,Bo Bichette singles on a ground ball to center fielder Cedric Mullins.   Vladimir Guerrero to 2nd.,1,1,1,3,7,0.1,2.92
 327,2021-09-11,666182,650959,,ball,14,Bo Bichette walks.,0,0,1,1,5,0.98,2.4
-328,2021-09-11,666182,518435,,foul_tip,2,Bo Bichette singles on a ground ball to center fielder Cedric Mullins.   Vladimir Guerrero to 2nd.,1,1,1,3,7,0.1,2.92
-329,2021-09-11,666182,518435,,blocked_ball,14,Bo Bichette singles on a ground ball to center fielder Cedric Mullins.   Vladimir Guerrero to 2nd.,0,1,1,2,7,1.69,-0.42
-330,2021-09-11,666182,669330,,ball,13,Bo Bichette lines out sharply to first baseman Trey Mancini.,0,1,2,2,6,-1.39,2.54
+328,2021-09-11,666182,669330,,foul,14,Bo Bichette lines out sharply to first baseman Trey Mancini.,1,1,2,3,6,0.94,2.45
+329,2021-09-11,666182,669330,,ball,13,Bo Bichette lines out sharply to first baseman Trey Mancini.,0,1,2,2,6,-1.39,2.54
+330,2021-09-11,666182,518435,,blocked_ball,14,Bo Bichette singles on a ground ball to center fielder Cedric Mullins.   Vladimir Guerrero to 2nd.,0,1,1,2,7,1.69,-0.42
 331,2021-09-11,666182,518435,,foul,6,Bo Bichette singles on a ground ball to center fielder Cedric Mullins.   Vladimir Guerrero to 2nd.,0,0,1,1,7,0.35,2.79
 332,2021-09-11,666182,669330,,foul,6,Bo Bichette lines out sharply to first baseman Trey Mancini.,0,0,2,1,6,0.42,2.4
 333,2021-09-10,666182,595939,single,hit_into_play,2,Bo Bichette singles on a sharp ground ball to right fielder Austin Hays.   Marcus Semien scores.    Vladimir Guerrero to 2nd.,0,1,2,2,5,-0.02,3.11
@@ -342,10 +342,10 @@
 340,2021-09-10,666182,595939,field_out,hit_into_play,14,Bo Bichette lines out to center fielder Cedric Mullins.,2,2,2,5,1,1.01,2.09
 341,2021-09-10,666182,641632,strikeout,swinging_strike,13,Bo Bichette strikes out swinging.,2,2,0,9,7,-0.8,1.2
 342,2021-09-10,666182,595939,,foul,14,Bo Bichette lines out to center fielder Cedric Mullins.,2,1,2,4,1,0.71,1.3
-343,2021-09-10,666182,595939,,ball,13,Bo Bichette lines out to center fielder Cedric Mullins.,1,1,2,3,1,-1.21,1.87
-344,2021-09-10,666182,641632,,foul,3,Bo Bichette strikes out swinging.,2,2,0,8,7,0.28,2.87
-345,2021-09-10,666182,595939,,foul,1,Bo Bichette lines out to center fielder Cedric Mullins.,1,0,2,2,1,-0.43,3.03
-346,2021-09-10,666182,641632,,foul,4,Bo Bichette strikes out swinging.,2,2,0,7,7,-0.42,2.65
+343,2021-09-10,666182,641632,,foul,3,Bo Bichette strikes out swinging.,2,2,0,8,7,0.28,2.87
+344,2021-09-10,666182,595939,,ball,13,Bo Bichette lines out to center fielder Cedric Mullins.,1,1,2,3,1,-1.21,1.87
+345,2021-09-10,666182,641632,,foul,4,Bo Bichette strikes out swinging.,2,2,0,7,7,-0.42,2.65
+346,2021-09-10,666182,595939,,foul,1,Bo Bichette lines out to center fielder Cedric Mullins.,1,0,2,2,1,-0.43,3.03
 347,2021-09-10,666182,641632,,foul,1,Bo Bichette strikes out swinging.,2,2,0,6,7,-0.4,3.12
 348,2021-09-10,666182,595939,,ball,11,Bo Bichette lines out to center fielder Cedric Mullins.,0,0,2,1,1,-1.19,3.57
 349,2021-09-10,666182,641632,,foul,14,Bo Bichette strikes out swinging.,2,2,0,5,7,0.96,2.38
@@ -430,8 +430,8 @@
 428,2021-09-05,666182,500610,double,hit_into_play,13,Bo Bichette doubles (25) on a line drive to left fielder Mark Canha.   Vladimir Guerrero scores.,2,1,1,4,4,-0.17,1.23
 429,2021-09-05,666182,500610,,blocked_ball,14,Bo Bichette doubles (25) on a line drive to left fielder Mark Canha.   Vladimir Guerrero scores.,1,1,1,3,4,1.09,0.93
 430,2021-09-05,666182,500610,,ball,11,Bo Bichette doubles (25) on a line drive to left fielder Mark Canha.   Vladimir Guerrero scores.,0,1,1,2,4,-2.56,3.03
-431,2021-09-05,666182,500610,,foul,7,Bo Bichette doubles (25) on a line drive to left fielder Mark Canha.   Vladimir Guerrero scores.,0,0,1,1,4,-0.54,1.81
-432,2021-09-05,666182,594580,single,hit_into_play,4,"Bo Bichette singles on a ground ball to shortstop Elvis Andrus, deflected by pitcher Sam Moll.   Marcus Semien to 2nd.",2,0,2,3,6,-0.63,2.56
+431,2021-09-05,666182,594580,single,hit_into_play,4,"Bo Bichette singles on a ground ball to shortstop Elvis Andrus, deflected by pitcher Sam Moll.   Marcus Semien to 2nd.",2,0,2,3,6,-0.63,2.56
+432,2021-09-05,666182,500610,,foul,7,Bo Bichette doubles (25) on a line drive to left fielder Mark Canha.   Vladimir Guerrero scores.,0,0,1,1,4,-0.54,1.81
 433,2021-09-05,666182,594580,,ball,13,"Bo Bichette singles on a ground ball to shortstop Elvis Andrus, deflected by pitcher Sam Moll.   Marcus Semien to 2nd.",1,0,2,2,6,-1.17,2.02
 434,2021-09-05,666182,594580,,ball,13,"Bo Bichette singles on a ground ball to shortstop Elvis Andrus, deflected by pitcher Sam Moll.   Marcus Semien to 2nd.",0,0,2,1,6,-0.89,1.49
 435,2021-09-05,666182,608344,single,hit_into_play,6,Bo Bichette singles on a line drive to center fielder Starling Marte.,1,0,0,2,2,0.66,2.49
@@ -522,15 +522,15 @@
 520,2021-08-29,666182,641729,,foul,1,Bo Bichette flies out to right fielder Victor Reyes.,1,2,1,7,5,-0.5,3.42
 521,2021-08-29,666182,641729,,foul,3,Bo Bichette flies out to right fielder Victor Reyes.,1,2,1,6,5,0.75,3.21
 522,2021-08-29,666182,641729,,foul,14,Bo Bichette flies out to right fielder Victor Reyes.,1,2,1,5,5,0.78,1.21
-523,2021-08-29,666182,571510,home_run,hit_into_play,3,Bo Bichette homers (21) on a fly ball to right center field.,1,0,1,2,1,0.37,3.07
-524,2021-08-29,666182,641729,,foul,7,Bo Bichette flies out to right fielder Victor Reyes.,1,2,1,4,5,-0.29,1.55
+523,2021-08-29,666182,641729,,foul,7,Bo Bichette flies out to right fielder Victor Reyes.,1,2,1,4,5,-0.29,1.55
+524,2021-08-29,666182,571510,home_run,hit_into_play,3,Bo Bichette homers (21) on a fly ball to right center field.,1,0,1,2,1,0.37,3.07
 525,2021-08-29,666182,641729,,foul,6,Bo Bichette flies out to right fielder Victor Reyes.,1,1,1,3,5,0.39,2.19
-526,2021-08-29,666182,571510,,ball,11,Bo Bichette homers (21) on a fly ball to right center field.,0,0,1,1,1,-1.25,2.92
-527,2021-08-29,666182,542585,single,hit_into_play,5,Bo Bichette singles on a ground ball to center fielder Akil Baddoo.   Marcus Semien to 2nd.,1,2,0,4,7,-0.23,2.39
+526,2021-08-29,666182,542585,single,hit_into_play,5,Bo Bichette singles on a ground ball to center fielder Akil Baddoo.   Marcus Semien to 2nd.,1,2,0,4,7,-0.23,2.39
+527,2021-08-29,666182,571510,,ball,11,Bo Bichette homers (21) on a fly ball to right center field.,0,0,1,1,1,-1.25,2.92
 528,2021-08-29,666182,641729,,called_strike,7,Bo Bichette flies out to right fielder Victor Reyes.,1,0,1,2,5,-0.4,1.56
 529,2021-08-29,666182,542585,,foul,7,Bo Bichette singles on a ground ball to center fielder Akil Baddoo.   Marcus Semien to 2nd.,1,1,0,3,7,-0.46,2.03
-530,2021-08-29,666182,641729,,ball,14,Bo Bichette flies out to right fielder Victor Reyes.,0,0,1,1,5,0.86,1.22
-531,2021-08-29,666182,542585,,ball,14,Bo Bichette singles on a ground ball to center fielder Akil Baddoo.   Marcus Semien to 2nd.,0,1,0,2,7,0.92,1.78
+530,2021-08-29,666182,542585,,ball,14,Bo Bichette singles on a ground ball to center fielder Akil Baddoo.   Marcus Semien to 2nd.,0,1,0,2,7,0.92,1.78
+531,2021-08-29,666182,641729,,ball,14,Bo Bichette flies out to right fielder Victor Reyes.,0,0,1,1,5,0.86,1.22
 532,2021-08-29,666182,542585,,called_strike,7,Bo Bichette singles on a ground ball to center fielder Akil Baddoo.   Marcus Semien to 2nd.,0,0,0,1,7,-0.44,2.09
 533,2021-08-28,666182,570632,field_out,hit_into_play,8,Bo Bichette lines out to left fielder Akil Baddoo.,1,1,2,3,3,-0.18,1.99
 534,2021-08-28,666182,570632,,ball,14,Bo Bichette lines out to left fielder Akil Baddoo.,0,1,2,2,3,0.99,1.53
@@ -538,14 +538,14 @@
 536,2021-08-28,666182,641302,field_out,hit_into_play,4,"Bo Bichette grounds out, second baseman Willi Castro to first baseman Jonathan Schoop.",0,0,0,1,6,-0.36,2.22
 537,2021-08-28,666182,570632,single,hit_into_play,14,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,3,2,1,6,1,0.17,1.3
 538,2021-08-28,666182,570632,,ball,12,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,2,2,1,5,1,1.58,3.15
-539,2021-08-28,666182,570632,,called_strike,3,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,2,1,1,4,1,0.53,3.26
-540,2021-08-28,666182,642397,field_out,hit_into_play,4,Bo Bichette lines out to right fielder Robbie Grossman.,1,2,1,4,9,-0.77,2.56
-541,2021-08-28,666182,642397,,foul,6,Bo Bichette lines out to right fielder Robbie Grossman.,1,1,1,3,9,0.43,2.26
-542,2021-08-28,666182,570632,,foul,7,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,2,0,1,3,1,-0.71,2.07
-543,2021-08-28,666182,642397,,swinging_strike,4,Bo Bichette lines out to right fielder Robbie Grossman.,1,0,1,2,9,-0.54,2.43
-544,2021-08-28,666182,570632,,ball,14,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,1,0,1,2,1,1.18,2.33
-545,2021-08-28,666182,642397,,ball,13,Bo Bichette lines out to right fielder Robbie Grossman.,0,0,1,1,9,-1.06,0.93
-546,2021-08-28,666182,570632,,ball,14,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,0,0,1,1,1,2.0,0.05
+539,2021-08-28,666182,642397,field_out,hit_into_play,4,Bo Bichette lines out to right fielder Robbie Grossman.,1,2,1,4,9,-0.77,2.56
+540,2021-08-28,666182,570632,,called_strike,3,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,2,1,1,4,1,0.53,3.26
+541,2021-08-28,666182,570632,,foul,7,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,2,0,1,3,1,-0.71,2.07
+542,2021-08-28,666182,642397,,foul,6,Bo Bichette lines out to right fielder Robbie Grossman.,1,1,1,3,9,0.43,2.26
+543,2021-08-28,666182,570632,,ball,14,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,1,0,1,2,1,1.18,2.33
+544,2021-08-28,666182,642397,,swinging_strike,4,Bo Bichette lines out to right fielder Robbie Grossman.,1,0,1,2,9,-0.54,2.43
+545,2021-08-28,666182,570632,,ball,14,Bo Bichette singles on a sharp ground ball to left fielder Akil Baddoo.,0,0,1,1,1,2.0,0.05
+546,2021-08-28,666182,642397,,ball,13,Bo Bichette lines out to right fielder Robbie Grossman.,0,0,1,1,9,-1.06,0.93
 547,2021-08-28,666182,671345,single,hit_into_play,8,Bo Bichette singles on a sharp ground ball to right fielder Robbie Grossman.   Randal Grichuk scores.,2,0,2,3,7,-0.08,1.6
 548,2021-08-28,666182,671345,,ball,14,Bo Bichette singles on a sharp ground ball to right fielder Robbie Grossman.   Randal Grichuk scores.,1,0,2,2,7,1.46,1.92
 549,2021-08-28,666182,671345,,ball,14,Bo Bichette singles on a sharp ground ball to right fielder Robbie Grossman.   Randal Grichuk scores.,0,0,2,1,7,2.55,0.6
@@ -576,8 +576,8 @@
 574,2021-08-26,666182,518886,strikeout,swinging_strike,9,Bo Bichette strikes out swinging.,0,2,0,3,9,0.72,1.6
 575,2021-08-26,666182,518886,,foul,2,Bo Bichette strikes out swinging.,0,1,0,2,9,0.17,3.07
 576,2021-08-26,666182,607074,field_out,hit_into_play,1,"Bo Bichette grounds out, second baseman Cesar Hernandez to first baseman Andrew Vaughn.",1,0,0,2,1,-0.37,2.87
-577,2021-08-26,666182,518886,,swinging_strike,6,Bo Bichette strikes out swinging.,0,0,0,1,9,0.46,2.76
-578,2021-08-26,666182,607074,,ball,12,"Bo Bichette grounds out, second baseman Cesar Hernandez to first baseman Andrew Vaughn.",0,0,0,1,1,1.2,2.93
+577,2021-08-26,666182,607074,,ball,12,"Bo Bichette grounds out, second baseman Cesar Hernandez to first baseman Andrew Vaughn.",0,0,0,1,1,1.2,2.93
+578,2021-08-26,666182,518886,,swinging_strike,6,Bo Bichette strikes out swinging.,0,0,0,1,9,0.46,2.76
 579,2021-08-25,666182,608337,field_out,hit_into_play,9,Bo Bichette flies out to center fielder Luis Robert.,1,2,2,4,5,0.72,1.77
 580,2021-08-25,666182,608337,,swinging_strike,13,Bo Bichette flies out to center fielder Luis Robert.,1,1,2,3,5,-0.62,0.88
 581,2021-08-25,666182,608337,,swinging_strike,6,Bo Bichette flies out to center fielder Luis Robert.,1,0,2,2,5,0.43,2.7
@@ -682,8 +682,8 @@
 680,2021-08-18,666182,666168,field_out,hit_into_play,13,"Bo Bichette grounds out, second baseman Luis Garcia to first baseman Josh Bell.",0,2,1,4,7,-1.41,2.42
 681,2021-08-18,666182,666168,,foul,11,"Bo Bichette grounds out, second baseman Luis Garcia to first baseman Josh Bell.",0,2,1,3,7,-1.27,3.8
 682,2021-08-18,666182,680686,field_out,hit_into_play,12,Bo Bichette pops out to shortstop Alcides Escobar.,0,1,1,2,1,0.91,2.61
-683,2021-08-18,666182,680686,,called_strike,5,Bo Bichette pops out to shortstop Alcides Escobar.,0,0,1,1,1,-0.18,2.72
-684,2021-08-18,666182,666168,,foul,1,"Bo Bichette grounds out, second baseman Luis Garcia to first baseman Josh Bell.",0,1,1,2,7,-0.62,3.14
+683,2021-08-18,666182,666168,,foul,1,"Bo Bichette grounds out, second baseman Luis Garcia to first baseman Josh Bell.",0,1,1,2,7,-0.62,3.14
+684,2021-08-18,666182,680686,,called_strike,5,Bo Bichette pops out to shortstop Alcides Escobar.,0,0,1,1,1,-0.18,2.72
 685,2021-08-18,666182,666168,,foul,11,"Bo Bichette grounds out, second baseman Luis Garcia to first baseman Josh Bell.",0,0,1,1,7,-1.11,3.48
 686,2021-08-17,666182,607200,strikeout,swinging_strike,3,Bo Bichette strikes out swinging.,2,2,1,5,5,0.76,3.45
 687,2021-08-17,666182,607200,,ball,12,Bo Bichette strikes out swinging.,1,2,1,4,5,1.78,2.73
@@ -716,10 +716,10 @@
 714,2021-08-15,666182,669302,,called_strike,1,Bo Bichette strikes out swinging.,0,1,0,2,3,-0.46,3.43
 715,2021-08-15,666182,669302,,foul,11,Bo Bichette strikes out swinging.,0,0,0,1,3,-0.9,3.34
 716,2021-08-15,666182,670990,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,1,2,1,4,9,1.83,0.96
-717,2021-08-15,666182,670090,strikeout,swinging_strike,11,Bo Bichette strikes out swinging.,1,2,0,4,7,-1.72,2.79
-718,2021-08-15,666182,670990,,foul,11,Bo Bichette strikes out swinging.,1,1,1,3,9,-0.71,3.59
-719,2021-08-15,666182,670090,,ball,13,Bo Bichette strikes out swinging.,0,2,0,3,7,-1.89,1.68
-720,2021-08-15,666182,670990,,ball,14,Bo Bichette strikes out swinging.,0,1,1,2,9,1.91,1.61
+717,2021-08-15,666182,670990,,foul,11,Bo Bichette strikes out swinging.,1,1,1,3,9,-0.71,3.59
+718,2021-08-15,666182,670090,strikeout,swinging_strike,11,Bo Bichette strikes out swinging.,1,2,0,4,7,-1.72,2.79
+719,2021-08-15,666182,670990,,ball,14,Bo Bichette strikes out swinging.,0,1,1,2,9,1.91,1.61
+720,2021-08-15,666182,670090,,ball,13,Bo Bichette strikes out swinging.,0,2,0,3,7,-1.89,1.68
 721,2021-08-15,666182,670090,,foul,6,Bo Bichette strikes out swinging.,0,1,0,2,7,0.81,2.6
 722,2021-08-15,666182,670990,,swinging_strike,14,Bo Bichette strikes out swinging.,0,0,1,1,9,1.31,1.33
 723,2021-08-15,666182,670090,,called_strike,9,Bo Bichette strikes out swinging.,0,0,0,1,7,0.32,2.15
@@ -744,10 +744,10 @@
 742,2021-08-14,666182,664948,,ball,12,Bo Bichette flies out to right fielder Mitch Haniger.,1,2,2,4,9,1.91,3.59
 743,2021-08-14,666182,664948,,foul,4,Bo Bichette flies out to right fielder Mitch Haniger.,1,1,2,3,9,-0.51,2.27
 744,2021-08-14,666182,579328,field_out,hit_into_play,14,"Bo Bichette grounds out, second baseman Abraham Toro to first baseman Ty France.",1,2,0,4,2,0.83,2.21
-745,2021-08-14,666182,664948,,blocked_ball,13,Bo Bichette flies out to right fielder Mitch Haniger.,0,1,2,2,9,-1.38,0.14
-746,2021-08-14,666182,579328,,called_strike,9,"Bo Bichette grounds out, second baseman Abraham Toro to first baseman Ty France.",1,1,0,3,2,0.79,1.96
-747,2021-08-14,666182,664948,,called_strike,13,Bo Bichette flies out to right fielder Mitch Haniger.,0,0,2,1,9,-0.88,2.31
-748,2021-08-14,666182,579328,,foul,1,"Bo Bichette grounds out, second baseman Abraham Toro to first baseman Ty France.",1,0,0,2,2,-0.66,3.46
+745,2021-08-14,666182,579328,,called_strike,9,"Bo Bichette grounds out, second baseman Abraham Toro to first baseman Ty France.",1,1,0,3,2,0.79,1.96
+746,2021-08-14,666182,664948,,blocked_ball,13,Bo Bichette flies out to right fielder Mitch Haniger.,0,1,2,2,9,-1.38,0.14
+747,2021-08-14,666182,579328,,foul,1,"Bo Bichette grounds out, second baseman Abraham Toro to first baseman Ty France.",1,0,0,2,2,-0.66,3.46
+748,2021-08-14,666182,664948,,called_strike,13,Bo Bichette flies out to right fielder Mitch Haniger.,0,0,2,1,9,-0.88,2.31
 749,2021-08-14,666182,579328,,ball,12,"Bo Bichette grounds out, second baseman Abraham Toro to first baseman Ty France.",0,0,0,1,2,0.31,4.46
 750,2021-08-14,666182,641871,field_out,hit_into_play,5,Bo Bichette lines out to center fielder Jarred Kelenic.,0,2,1,3,7,-0.07,2.48
 751,2021-08-14,666182,641871,,foul,3,Bo Bichette lines out to center fielder Jarred Kelenic.,0,1,1,2,7,0.51,3.05
@@ -779,17 +779,17 @@
 777,2021-08-10,666182,660761,field_out,hit_into_play,9,Bo Bichette flies out to center fielder Brandon Marsh.,2,2,0,7,1,0.42,1.53
 778,2021-08-10,666182,660761,,ball,12,Bo Bichette flies out to center fielder Brandon Marsh.,1,2,0,6,1,1.37,4.19
 779,2021-08-10,666182,660761,,foul,13,Bo Bichette flies out to center fielder Brandon Marsh.,1,2,0,5,1,-0.26,1.35
-780,2021-08-10,666182,669735,field_out,hit_into_play,5,"Bo Bichette grounds out sharply, shortstop Jose Iglesias to first baseman Phil Gosselin.",1,0,2,2,1,0.22,2.12
-781,2021-08-10,666182,594577,single,hit_into_play,9,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,3,1,2,5,7,0.37,1.64
-782,2021-08-10,666182,660761,,foul,11,Bo Bichette flies out to center fielder Brandon Marsh.,1,2,0,4,1,-0.67,3.65
-783,2021-08-10,666182,594577,,ball,14,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,2,1,2,4,7,1.74,2.58
-784,2021-08-10,666182,669735,,ball,11,"Bo Bichette grounds out sharply, shortstop Jose Iglesias to first baseman Phil Gosselin.",0,0,2,1,1,-0.93,2.94
+780,2021-08-10,666182,594577,single,hit_into_play,9,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,3,1,2,5,7,0.37,1.64
+781,2021-08-10,666182,669735,field_out,hit_into_play,5,"Bo Bichette grounds out sharply, shortstop Jose Iglesias to first baseman Phil Gosselin.",1,0,2,2,1,0.22,2.12
+782,2021-08-10,666182,594577,,ball,14,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,2,1,2,4,7,1.74,2.58
+783,2021-08-10,666182,669735,,ball,11,"Bo Bichette grounds out sharply, shortstop Jose Iglesias to first baseman Phil Gosselin.",0,0,2,1,1,-0.93,2.94
+784,2021-08-10,666182,660761,,foul,11,Bo Bichette flies out to center fielder Brandon Marsh.,1,2,0,4,1,-0.67,3.65
 785,2021-08-10,666182,660761,,foul_tip,1,Bo Bichette flies out to center fielder Brandon Marsh.,1,1,0,3,1,-0.44,2.92
 786,2021-08-10,666182,594577,,ball,14,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,1,1,2,3,7,0.85,1.33
 787,2021-08-10,666182,660761,,foul,11,Bo Bichette flies out to center fielder Brandon Marsh.,1,0,0,2,1,-0.06,3.79
 788,2021-08-10,666182,594577,,swinging_strike,11,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,1,0,2,2,7,-1.18,2.78
-789,2021-08-10,666182,594577,,ball,14,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,0,0,2,1,7,1.05,2.69
-790,2021-08-10,666182,660761,,ball,12,Bo Bichette flies out to center fielder Brandon Marsh.,0,0,0,1,1,1.31,2.9
+789,2021-08-10,666182,660761,,ball,12,Bo Bichette flies out to center fielder Brandon Marsh.,0,0,0,1,1,1.31,2.9
+790,2021-08-10,666182,594577,,ball,14,Bo Bichette singles on a sharp line drive to left fielder Juan Lagares.   Marcus Semien to 2nd.,0,0,2,1,7,1.05,2.69
 791,2021-08-10,666182,628452,strikeout,foul_tip,14,Bo Bichette strikes out on a foul tip.,0,2,2,3,7,1.29,2.19
 792,2021-08-10,666182,628452,,foul,11,Bo Bichette strikes out on a foul tip.,0,1,2,2,7,-1.19,2.58
 793,2021-08-10,666182,681810,field_out,hit_into_play,1,Bo Bichette pops out to first baseman Phil Gosselin in foul territory.,2,0,1,3,5,-0.29,3.21
@@ -802,18 +802,18 @@
 800,2021-08-07,666182,656557,,foul_tip,12,Bo Bichette singles on a line drive to left fielder Alex Verdugo.,1,0,0,2,4,0.84,2.64
 801,2021-08-07,666182,656557,,ball,12,Bo Bichette singles on a line drive to left fielder Alex Verdugo.,0,0,0,1,4,1.41,2.93
 802,2021-08-07,666182,601713,field_out,hit_into_play,2,Bo Bichette flies out to right fielder Hunter Renfroe.,0,0,0,1,5,0.02,3.0
-803,2021-08-07,666182,656557,strikeout,swinging_strike,12,Bo Bichette strikes out swinging.,2,2,2,5,1,0.9,3.16
-804,2021-08-07,666182,601713,strikeout,swinging_strike,9,Bo Bichette strikes out swinging.,2,2,0,7,2,0.5,2.09
+803,2021-08-07,666182,601713,strikeout,swinging_strike,9,Bo Bichette strikes out swinging.,2,2,0,7,2,0.5,2.09
+804,2021-08-07,666182,656557,strikeout,swinging_strike,12,Bo Bichette strikes out swinging.,2,2,2,5,1,0.9,3.16
 805,2021-08-07,666182,601713,,foul,3,Bo Bichette strikes out swinging.,2,2,0,6,2,0.28,3.17
 806,2021-08-07,666182,656557,,ball,14,Bo Bichette strikes out swinging.,1,2,2,4,1,2.13,1.15
 807,2021-08-07,666182,656557,,ball,14,Bo Bichette strikes out swinging.,0,2,2,3,1,3.05,1.67
 808,2021-08-07,666182,601713,,ball,11,Bo Bichette strikes out swinging.,1,2,0,5,2,-0.87,4.86
-809,2021-08-07,666182,656557,,called_strike,8,Bo Bichette strikes out swinging.,0,1,2,2,1,-0.26,1.61
-810,2021-08-07,666182,601713,,foul,2,Bo Bichette strikes out swinging.,1,2,0,4,2,0.24,3.4
+809,2021-08-07,666182,601713,,foul,2,Bo Bichette strikes out swinging.,1,2,0,4,2,0.24,3.4
+810,2021-08-07,666182,656557,,called_strike,8,Bo Bichette strikes out swinging.,0,1,2,2,1,-0.26,1.61
 811,2021-08-07,666182,656557,,foul,13,Bo Bichette strikes out swinging.,0,0,2,1,1,-1.2,1.65
 812,2021-08-07,666182,601713,,ball,14,Bo Bichette strikes out swinging.,0,2,0,3,2,0.15,-0.35
-813,2021-08-07,666182,676477,strikeout,swinging_strike_blocked,14,"Bo Bichette strikes out swinging, catcher Christian Vazquez to first baseman Franchy Cordero.",1,2,2,4,5,0.14,-0.5
-814,2021-08-07,666182,601713,,foul_tip,2,Bo Bichette strikes out swinging.,0,1,0,2,2,-0.14,3.02
+813,2021-08-07,666182,601713,,foul_tip,2,Bo Bichette strikes out swinging.,0,1,0,2,2,-0.14,3.02
+814,2021-08-07,666182,676477,strikeout,swinging_strike_blocked,14,"Bo Bichette strikes out swinging, catcher Christian Vazquez to first baseman Franchy Cordero.",1,2,2,4,5,0.14,-0.5
 815,2021-08-07,666182,601713,,foul,9,Bo Bichette strikes out swinging.,0,0,0,1,2,0.7,1.82
 816,2021-08-07,666182,676477,,ball,12,"Bo Bichette strikes out swinging, catcher Christian Vazquez to first baseman Franchy Cordero.",0,2,2,3,5,0.77,4.58
 817,2021-08-07,666182,676477,,swinging_strike,2,"Bo Bichette strikes out swinging, catcher Christian Vazquez to first baseman Franchy Cordero.",0,1,2,2,5,0.15,3.1
@@ -870,8 +870,8 @@
 868,2021-08-04,666182,650496,,foul,13,Bo Bichette walks.   Marcus Semien to 2nd.,2,0,1,3,1,-1.35,2.25
 869,2021-08-04,666182,650496,,blocked_ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,1,0,1,2,1,2.53,0.56
 870,2021-08-04,666182,621295,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,2,2,1,5,6,0.16,1.41
-871,2021-08-04,666182,650496,,ball,11,Bo Bichette walks.   Marcus Semien to 2nd.,0,0,1,1,1,-1.41,2.72
-872,2021-08-04,666182,621295,,ball,12,Bo Bichette strikes out swinging.,1,2,1,4,6,0.93,3.42
+871,2021-08-04,666182,621295,,ball,12,Bo Bichette strikes out swinging.,1,2,1,4,6,0.93,3.42
+872,2021-08-04,666182,650496,,ball,11,Bo Bichette walks.   Marcus Semien to 2nd.,0,0,1,1,1,-1.41,2.72
 873,2021-08-04,666182,621295,,foul,4,Bo Bichette strikes out swinging.,1,1,1,3,6,-0.28,2.58
 874,2021-08-04,666182,621295,,ball,13,Bo Bichette strikes out swinging.,0,1,1,2,6,-0.63,0.32
 875,2021-08-04,666182,621295,,swinging_strike,14,Bo Bichette strikes out swinging.,0,0,1,1,6,1.18,0.69
@@ -882,10 +882,10 @@
 880,2021-08-03,666182,668676,,ball,14,Bo Bichette out on a sacrifice fly to center fielder Myles Straw.   George Springer scores.    Marcus Semien to 2nd.,0,0,1,1,5,1.84,2.36
 881,2021-08-03,666182,668676,field_out,hit_into_play,4,Bo Bichette flies out to center fielder Myles Straw.,0,0,2,1,3,-0.78,2.55
 882,2021-08-03,666182,663986,field_error,hit_into_play,6,Bo Bichette reaches on a fielding error by first baseman Bobby Bradley.,0,2,1,3,7,0.74,2.24
-883,2021-08-03,666182,668676,single,hit_into_play,14,Bo Bichette singles on a ground ball to third baseman Jose Ramirez.,3,2,2,7,1,0.98,2.45
-884,2021-08-03,666182,663986,,foul,5,Bo Bichette reaches on a fielding error by first baseman Bobby Bradley.,0,1,1,2,7,-0.22,2.77
-885,2021-08-03,666182,668676,,foul,5,Bo Bichette singles on a ground ball to third baseman Jose Ramirez.,3,2,2,6,1,0.23,2.48
-886,2021-08-03,666182,663986,,called_strike,4,Bo Bichette reaches on a fielding error by first baseman Bobby Bradley.,0,0,1,1,7,-0.5,2.61
+883,2021-08-03,666182,663986,,foul,5,Bo Bichette reaches on a fielding error by first baseman Bobby Bradley.,0,1,1,2,7,-0.22,2.77
+884,2021-08-03,666182,668676,single,hit_into_play,14,Bo Bichette singles on a ground ball to third baseman Jose Ramirez.,3,2,2,7,1,0.98,2.45
+885,2021-08-03,666182,663986,,called_strike,4,Bo Bichette reaches on a fielding error by first baseman Bobby Bradley.,0,0,1,1,7,-0.5,2.61
+886,2021-08-03,666182,668676,,foul,5,Bo Bichette singles on a ground ball to third baseman Jose Ramirez.,3,2,2,6,1,0.23,2.48
 887,2021-08-03,666182,668676,,ball,12,Bo Bichette singles on a ground ball to third baseman Jose Ramirez.,2,2,2,5,1,0.48,3.66
 888,2021-08-03,666182,668676,,foul,8,Bo Bichette singles on a ground ball to third baseman Jose Ramirez.,2,1,2,4,1,0.14,2.05
 889,2021-08-03,666182,668676,,ball,14,Bo Bichette singles on a ground ball to third baseman Jose Ramirez.,1,1,2,3,1,1.77,-0.33
@@ -972,12 +972,12 @@
 970,2021-07-29,666182,608700,,foul,2,Bo Bichette pops out to shortstop Bobby Dalbec.,3,2,1,9,9,-0.12,3.11
 971,2021-07-29,666182,608700,,ball,14,Bo Bichette pops out to shortstop Bobby Dalbec.,2,2,1,8,9,1.15,1.78
 972,2021-07-29,666182,608700,,ball,12,Bo Bichette pops out to shortstop Bobby Dalbec.,1,2,1,7,9,0.51,4.48
-973,2021-07-29,666182,608700,,foul,2,Bo Bichette pops out to shortstop Bobby Dalbec.,1,2,1,6,9,0.02,3.35
-974,2021-07-29,666182,593958,walk,ball,13,Bo Bichette walks.,3,0,1,4,1,-1.02,1.48
+973,2021-07-29,666182,593958,walk,ball,13,Bo Bichette walks.,3,0,1,4,1,-1.02,1.48
+974,2021-07-29,666182,608700,,foul,2,Bo Bichette pops out to shortstop Bobby Dalbec.,1,2,1,6,9,0.02,3.35
 975,2021-07-29,666182,608700,,foul,4,Bo Bichette pops out to shortstop Bobby Dalbec.,1,2,1,5,9,-0.41,2.78
 976,2021-07-29,666182,593958,,ball,14,Bo Bichette walks.,2,0,1,3,1,0.69,0.83
-977,2021-07-29,666182,608700,,foul,12,Bo Bichette pops out to shortstop Bobby Dalbec.,1,2,1,4,9,1.46,3.12
-978,2021-07-29,666182,593958,,ball,14,Bo Bichette walks.,1,0,1,2,1,0.67,0.93
+977,2021-07-29,666182,593958,,ball,14,Bo Bichette walks.,1,0,1,2,1,0.67,0.93
+978,2021-07-29,666182,608700,,foul,12,Bo Bichette pops out to shortstop Bobby Dalbec.,1,2,1,4,9,1.46,3.12
 979,2021-07-29,666182,608700,,ball,11,Bo Bichette pops out to shortstop Bobby Dalbec.,0,2,1,3,9,-1.15,6.21
 980,2021-07-29,666182,593958,,ball,1,Bo Bichette walks.,0,0,1,1,1,-0.72,3.71
 981,2021-07-29,666182,608700,,foul,1,Bo Bichette pops out to shortstop Bobby Dalbec.,0,1,1,2,9,-0.3,3.31
@@ -1092,8 +1092,8 @@
 1090,2021-07-19,666182,601713,single,hit_into_play,14,Bo Bichette singles on a soft ground ball to pitcher Nick Pivetta.   Lourdes Gurriel Jr.  scores.    Reese McGuire to 3rd.    Marcus Semien to 2nd.,0,0,2,1,4,0.1,1.1
 1091,2021-07-19,666182,601713,field_out,hit_into_play,13,"Bo Bichette grounds out softly, catcher Kevin Plawecki to first baseman Danny Santana.",0,1,2,2,3,-0.78,0.95
 1092,2021-07-19,666182,601713,,called_strike,8,"Bo Bichette grounds out softly, catcher Kevin Plawecki to first baseman Danny Santana.",0,0,2,1,3,-0.03,2.35
-1093,2021-07-19,666182,601713,single,hit_into_play,9,Bo Bichette singles on a ground ball to right fielder Hunter Renfroe.   Marcus Semien to 2nd.,0,2,0,3,1,0.83,1.84
-1094,2021-07-19,666182,493603,strikeout,swinging_strike_blocked,14,"Bo Bichette strikes out swinging, catcher Kevin Plawecki to first baseman Danny Santana.",1,2,1,6,9,0.57,0.41
+1093,2021-07-19,666182,493603,strikeout,swinging_strike_blocked,14,"Bo Bichette strikes out swinging, catcher Kevin Plawecki to first baseman Danny Santana.",1,2,1,6,9,0.57,0.41
+1094,2021-07-19,666182,601713,single,hit_into_play,9,Bo Bichette singles on a ground ball to right fielder Hunter Renfroe.   Marcus Semien to 2nd.,0,2,0,3,1,0.83,1.84
 1095,2021-07-19,666182,493603,,foul,2,"Bo Bichette strikes out swinging, catcher Kevin Plawecki to first baseman Danny Santana.",1,2,1,5,9,0.05,2.88
 1096,2021-07-19,666182,601713,,foul,4,Bo Bichette singles on a ground ball to right fielder Hunter Renfroe.   Marcus Semien to 2nd.,0,1,0,2,1,-0.43,2.17
 1097,2021-07-19,666182,601713,,swinging_strike,14,Bo Bichette singles on a ground ball to right fielder Hunter Renfroe.   Marcus Semien to 2nd.,0,0,0,1,1,0.81,1.26
@@ -1111,12 +1111,12 @@
 1109,2021-07-18,666182,592314,,swinging_strike,6,"Bo Bichette grounds out, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",0,1,1,2,2,0.36,2.67
 1110,2021-07-18,666182,592314,,foul,13,"Bo Bichette grounds out, shortstop Isiah Kiner-Falefa to first baseman Andy Ibanez.",0,0,1,1,2,-0.91,2.06
 1111,2021-07-18,666182,592314,force_out,hit_into_play,5,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,2,0,5,1,-0.16,2.33
-1112,2021-07-18,666182,592314,,foul,5,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,2,0,4,1,-0.01,2.64
-1113,2021-07-18,666182,663465,field_out,hit_into_play,2,"Bo Bichette grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,1,1,1,-0.24,2.94
-1114,2021-07-18,666182,592314,,foul,5,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,1,0,3,1,0.1,2.56
-1115,2021-07-18,666182,663770,strikeout,swinging_strike,11,Bo Bichette strikes out swinging.,1,2,0,4,4,-0.65,3.55
-1116,2021-07-18,666182,663770,,foul,3,Bo Bichette strikes out swinging.,1,1,0,3,4,0.47,3.06
-1117,2021-07-18,666182,592314,,called_strike,8,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,0,0,2,1,0.05,1.58
+1112,2021-07-18,666182,663465,field_out,hit_into_play,2,"Bo Bichette grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,1,1,1,-0.24,2.94
+1113,2021-07-18,666182,592314,,foul,5,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,2,0,4,1,-0.01,2.64
+1114,2021-07-18,666182,663770,strikeout,swinging_strike,11,Bo Bichette strikes out swinging.,1,2,0,4,4,-0.65,3.55
+1115,2021-07-18,666182,592314,,foul,5,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,1,0,3,1,0.1,2.56
+1116,2021-07-18,666182,592314,,called_strike,8,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,0,0,2,1,0.05,1.58
+1117,2021-07-18,666182,663770,,foul,3,Bo Bichette strikes out swinging.,1,1,0,3,4,0.47,3.06
 1118,2021-07-18,666182,663770,,swinging_strike,2,Bo Bichette strikes out swinging.,1,0,0,2,4,0.13,3.33
 1119,2021-07-18,666182,592314,,ball,9,"Bo Bichette grounds into a force out, fielded by second baseman Nick Solak.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",0,0,0,1,1,0.66,2.07
 1120,2021-07-18,666182,663770,,ball,11,Bo Bichette strikes out swinging.,0,0,0,1,4,-1.47,3.72
@@ -1129,8 +1129,8 @@
 1127,2021-07-16,666182,543475,,foul,4,Bo Bichette lines out to right fielder Joey Gallo.,0,2,0,3,3,-0.55,2.63
 1128,2021-07-16,666182,543475,,swinging_strike,11,Bo Bichette lines out to right fielder Joey Gallo.,0,1,0,2,3,-1.26,2.71
 1129,2021-07-16,666182,543475,,called_strike,14,Bo Bichette lines out to right fielder Joey Gallo.,0,0,0,1,3,0.93,2.49
-1130,2021-07-16,666182,543475,field_out,hit_into_play,4,Bo Bichette lines out sharply to left fielder Eli White.,2,0,1,3,1,-0.3,2.65
-1131,2021-07-16,666182,642701,single,hit_into_play,5,Bo Bichette singles on a sharp line drive to right fielder Joey Gallo.   Reese McGuire scores.    Marcus Semien to 3rd.,0,0,1,1,6,-0.02,2.33
+1130,2021-07-16,666182,642701,single,hit_into_play,5,Bo Bichette singles on a sharp line drive to right fielder Joey Gallo.   Reese McGuire scores.    Marcus Semien to 3rd.,0,0,1,1,6,-0.02,2.33
+1131,2021-07-16,666182,543475,field_out,hit_into_play,4,Bo Bichette lines out sharply to left fielder Eli White.,2,0,1,3,1,-0.3,2.65
 1132,2021-07-16,666182,543475,,ball,12,Bo Bichette lines out sharply to left fielder Eli White.,1,0,1,2,1,0.35,3.85
 1133,2021-07-16,666182,543475,,ball,14,Bo Bichette lines out sharply to left fielder Eli White.,0,0,1,1,1,1.93,0.83
 1134,2021-07-16,666182,656685,strikeout,called_strike,13,Bo Bichette called out on strikes.,0,2,2,3,8,-0.95,2.42
@@ -1162,12 +1162,12 @@
 1160,2021-07-10,666182,642232,,foul,5,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",3,1,0,5,1,0.03,2.31
 1161,2021-07-10,666182,642232,,swinging_strike,2,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",3,0,0,4,1,0.2,2.83
 1162,2021-07-10,666182,664126,strikeout,swinging_strike,2,Bo Bichette strikes out swinging.,1,2,0,4,8,-0.08,2.84
-1163,2021-07-10,666182,642232,,ball,14,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",2,0,0,3,1,1.02,2.35
-1164,2021-07-10,666182,664126,,swinging_strike,3,Bo Bichette strikes out swinging.,1,1,0,3,8,0.77,3.26
-1165,2021-07-10,666182,642232,,ball,14,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",1,0,0,2,1,1.45,1.74
-1166,2021-07-10,666182,664126,,ball,14,Bo Bichette strikes out swinging.,0,1,0,2,8,1.34,1.43
-1167,2021-07-10,666182,642232,,ball,2,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",0,0,0,1,1,0.21,3.63
-1168,2021-07-10,666182,664126,,swinging_strike,12,Bo Bichette strikes out swinging.,0,0,0,1,8,1.13,2.65
+1163,2021-07-10,666182,664126,,swinging_strike,3,Bo Bichette strikes out swinging.,1,1,0,3,8,0.77,3.26
+1164,2021-07-10,666182,642232,,ball,14,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",2,0,0,3,1,1.02,2.35
+1165,2021-07-10,666182,664126,,ball,14,Bo Bichette strikes out swinging.,0,1,0,2,8,1.34,1.43
+1166,2021-07-10,666182,642232,,ball,14,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",1,0,0,2,1,1.45,1.74
+1167,2021-07-10,666182,664126,,swinging_strike,12,Bo Bichette strikes out swinging.,0,0,0,1,8,1.13,2.65
+1168,2021-07-10,666182,642232,,ball,2,"Bo Bichette grounds out, shortstop Taylor Walls to first baseman Ji-Man Choi.   Marcus Semien to 2nd.",0,0,0,1,1,0.21,3.63
 1169,2021-07-09,666182,663556,double,hit_into_play,4,Bo Bichette doubles (18) on a sharp ground ball to left fielder Austin Meadows.,0,1,1,2,3,-0.41,2.27
 1170,2021-07-09,666182,663556,,called_strike,9,Bo Bichette doubles (18) on a sharp ground ball to left fielder Austin Meadows.,0,0,1,1,3,0.28,1.73
 1171,2021-07-09,666182,605488,strikeout,swinging_strike,9,Bo Bichette strikes out swinging.,3,2,0,7,8,0.29,1.45
@@ -1195,20 +1195,20 @@
 1193,2021-07-07,666182,518774,,foul_tip,6,Bo Bichette singles on a sharp ground ball to right fielder Austin Hays.   Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,0,1,2,2,4,0.8,2.63
 1194,2021-07-07,666182,518774,,foul,2,Bo Bichette singles on a sharp ground ball to right fielder Austin Hays.   Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,0,0,2,1,4,0.27,3.36
 1195,2021-07-07,666182,675912,field_out,hit_into_play,8,Bo Bichette flies out to left fielder Ryan McKenna.,2,2,0,6,8,0.05,1.63
-1196,2021-07-07,666182,675912,,foul,1,Bo Bichette flies out to left fielder Ryan McKenna.,2,2,0,5,8,-0.44,3.07
-1197,2021-07-07,666182,518774,field_out,hit_into_play,5,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",2,2,2,7,2,-0.14,2.18
+1196,2021-07-07,666182,518774,field_out,hit_into_play,5,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",2,2,2,7,2,-0.14,2.18
+1197,2021-07-07,666182,675912,,foul,1,Bo Bichette flies out to left fielder Ryan McKenna.,2,2,0,5,8,-0.44,3.07
 1198,2021-07-07,666182,675912,,foul,5,Bo Bichette flies out to left fielder Ryan McKenna.,2,1,0,4,8,-0.25,2.56
 1199,2021-07-07,666182,518774,,foul,12,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",2,2,2,6,2,0.32,3.82
 1200,2021-07-07,666182,675912,,ball,12,Bo Bichette flies out to left fielder Ryan McKenna.,1,1,0,3,8,1.71,4.46
 1201,2021-07-07,666182,518774,,ball,14,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",1,2,2,5,2,0.4,0.76
-1202,2021-07-07,666182,518774,,foul,12,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",1,2,2,4,2,1.12,3.02
-1203,2021-07-07,666182,675912,,ball,13,Bo Bichette flies out to left fielder Ryan McKenna.,0,1,0,2,8,-1.24,0.83
+1202,2021-07-07,666182,675912,,ball,13,Bo Bichette flies out to left fielder Ryan McKenna.,0,1,0,2,8,-1.24,0.83
+1203,2021-07-07,666182,518774,,foul,12,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",1,2,2,4,2,1.12,3.02
 1204,2021-07-07,666182,518774,,ball,12,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",0,2,2,3,2,0.17,4.56
 1205,2021-07-07,666182,675912,,called_strike,13,Bo Bichette flies out to left fielder Ryan McKenna.,0,0,0,1,8,-1.08,2.26
 1206,2021-07-07,666182,518774,,swinging_strike,12,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",0,1,2,2,2,0.34,3.51
 1207,2021-07-07,666182,518774,,foul,14,"Bo Bichette grounds out, shortstop Ramon Urias to first baseman Ryan Mountcastle.",0,0,2,1,2,0.06,1.15
-1208,2021-07-07,666182,491624,home_run,hit_into_play,8,Bo Bichette homers (16) on a fly ball to left center field.   Danny Jansen scores.,1,1,1,3,6,-0.01,1.65
-1209,2021-07-07,666182,518774,single,hit_into_play,4,Bo Bichette singles on a line drive to center fielder Cedric Mullins.   Marcus Semien to 2nd.,0,0,0,1,1,-0.5,2.68
+1208,2021-07-07,666182,518774,single,hit_into_play,4,Bo Bichette singles on a line drive to center fielder Cedric Mullins.   Marcus Semien to 2nd.,0,0,0,1,1,-0.5,2.68
+1209,2021-07-07,666182,491624,home_run,hit_into_play,8,Bo Bichette homers (16) on a fly ball to left center field.   Danny Jansen scores.,1,1,1,3,6,-0.01,1.65
 1210,2021-07-07,666182,491624,,foul,8,Bo Bichette homers (16) on a fly ball to left center field.   Danny Jansen scores.,1,0,1,2,6,-0.17,1.87
 1211,2021-07-07,666182,491624,,ball,14,Bo Bichette homers (16) on a fly ball to left center field.   Danny Jansen scores.,0,0,1,1,6,0.94,1.41
 1212,2021-07-06,666182,657093,field_out,hit_into_play,3,"Bo Bichette grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.",2,2,2,6,5,0.7,2.83
@@ -1289,8 +1289,8 @@
 1287,2021-07-01,666182,579328,,ball,14,Bo Bichette strikes out swinging.,1,1,2,3,3,1.74,2.29
 1288,2021-07-01,666182,579328,,foul,5,Bo Bichette strikes out swinging.,1,0,2,2,3,0.15,2.5
 1289,2021-07-01,666182,579328,,ball,11,Bo Bichette strikes out swinging.,0,0,2,1,3,-1.42,3.99
-1290,2021-07-01,666182,608716,single,hit_into_play,11,Bo Bichette singles on a line drive to right fielder Jake Bauers.   Marcus Semien scores.,0,0,2,1,8,-1.09,2.94
-1291,2021-07-01,666182,579328,field_out,hit_into_play,8,"Bo Bichette grounds out, third baseman Kyle Seager to first baseman Ty France.",1,2,0,6,1,-0.26,1.66
+1290,2021-07-01,666182,579328,field_out,hit_into_play,8,"Bo Bichette grounds out, third baseman Kyle Seager to first baseman Ty France.",1,2,0,6,1,-0.26,1.66
+1291,2021-07-01,666182,608716,single,hit_into_play,11,Bo Bichette singles on a line drive to right fielder Jake Bauers.   Marcus Semien scores.,0,0,2,1,8,-1.09,2.94
 1292,2021-07-01,666182,579328,,ball,12,"Bo Bichette grounds out, third baseman Kyle Seager to first baseman Ty France.",0,2,0,5,1,0.89,4.05
 1293,2021-07-01,666182,579328,,foul,14,"Bo Bichette grounds out, third baseman Kyle Seager to first baseman Ty France.",0,2,0,4,1,0.93,1.73
 1294,2021-07-01,666182,579328,,foul,9,"Bo Bichette grounds out, third baseman Kyle Seager to first baseman Ty France.",0,2,0,3,1,0.31,1.7
@@ -1303,14 +1303,14 @@
 1301,2021-06-30,666182,656954,,ball,7,Bo Bichette singles on a sharp ground ball to right fielder Mitch Haniger.,0,1,0,2,3,-0.83,2.26
 1302,2021-06-30,666182,656954,,called_strike,9,Bo Bichette singles on a sharp ground ball to right fielder Mitch Haniger.,0,0,0,1,3,0.62,1.97
 1303,2021-06-30,666182,623149,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,2,2,0,6,6,1.98,1.05
-1304,2021-06-30,666182,623149,,foul,6,Bo Bichette strikes out swinging.,2,2,0,5,6,0.34,2.54
-1305,2021-06-30,666182,656954,single,hit_into_play,5,Bo Bichette singles on a sharp line drive to center fielder Taylor Trammell.   Marcus Semien to 3rd.,0,0,0,1,1,0.26,2.48
+1304,2021-06-30,666182,656954,single,hit_into_play,5,Bo Bichette singles on a sharp line drive to center fielder Taylor Trammell.   Marcus Semien to 3rd.,0,0,0,1,1,0.26,2.48
+1305,2021-06-30,666182,623149,,foul,6,Bo Bichette strikes out swinging.,2,2,0,5,6,0.34,2.54
 1306,2021-06-30,666182,623149,,foul,4,Bo Bichette strikes out swinging.,2,1,0,4,6,-0.47,2.68
 1307,2021-06-30,666182,623149,,called_strike,6,Bo Bichette strikes out swinging.,2,0,0,3,6,0.7,2.91
 1308,2021-06-30,666182,608665,force_out,hit_into_play,7,"Bo Bichette grounds into a force out, second baseman Dylan Moore to shortstop J.  P. Crawford.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",1,0,1,2,8,-0.77,1.71
 1309,2021-06-30,666182,623149,,ball,14,Bo Bichette strikes out swinging.,1,0,0,2,6,0.98,1.42
-1310,2021-06-30,666182,623149,,ball,12,Bo Bichette strikes out swinging.,0,0,0,1,6,0.9,2.94
-1311,2021-06-30,666182,608665,,ball,11,"Bo Bichette grounds into a force out, second baseman Dylan Moore to shortstop J.  P. Crawford.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",0,0,1,1,8,-1.67,3.06
+1310,2021-06-30,666182,608665,,ball,11,"Bo Bichette grounds into a force out, second baseman Dylan Moore to shortstop J.  P. Crawford.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",0,0,1,1,8,-1.67,3.06
+1311,2021-06-30,666182,623149,,ball,12,Bo Bichette strikes out swinging.,0,0,0,1,6,0.9,2.94
 1312,2021-06-29,666182,623167,field_out,hit_into_play,8,"Bo Bichette grounds out softly, catcher Tom Murphy to first baseman Ty France.",0,0,0,1,5,0.07,1.66
 1313,2021-06-29,666182,623167,field_out,hit_into_play,14,Bo Bichette flies out to right fielder Mitch Haniger.,3,2,2,9,2,0.58,1.36
 1314,2021-06-29,666182,623167,,blocked_ball,13,Bo Bichette flies out to right fielder Mitch Haniger.,2,2,2,8,2,-0.81,0.55
@@ -1339,20 +1339,20 @@
 1337,2021-06-27,666182,605347,,foul,2,Bo Bichette lines out to right fielder Austin Hays.,0,1,0,2,3,0.18,2.82
 1338,2021-06-27,666182,605347,,swinging_strike,14,Bo Bichette lines out to right fielder Austin Hays.,0,0,0,1,3,0.83,1.23
 1339,2021-06-27,666182,669330,field_out,hit_into_play,9,Bo Bichette flies out to left fielder DJ Stewart.,3,2,1,8,6,0.62,2.05
-1340,2021-06-27,666182,605347,single,hit_into_play,4,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,3,2,1,9,1,-0.68,2.5
-1341,2021-06-27,666182,669330,,foul,4,Bo Bichette flies out to left fielder DJ Stewart.,3,2,1,7,6,-0.31,2.66
-1342,2021-06-27,666182,669330,,foul,14,Bo Bichette flies out to left fielder DJ Stewart.,3,2,1,6,6,1.05,1.79
-1343,2021-06-27,666182,605347,,foul,12,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,3,2,1,8,1,0.08,3.56
-1344,2021-06-27,666182,669330,,foul,4,Bo Bichette flies out to left fielder DJ Stewart.,3,1,1,5,6,-0.46,2.26
-1345,2021-06-27,666182,605347,,foul,5,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,3,2,1,7,1,-0.04,2.15
+1340,2021-06-27,666182,669330,,foul,4,Bo Bichette flies out to left fielder DJ Stewart.,3,2,1,7,6,-0.31,2.66
+1341,2021-06-27,666182,605347,single,hit_into_play,4,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,3,2,1,9,1,-0.68,2.5
+1342,2021-06-27,666182,605347,,foul,12,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,3,2,1,8,1,0.08,3.56
+1343,2021-06-27,666182,669330,,foul,14,Bo Bichette flies out to left fielder DJ Stewart.,3,2,1,6,6,1.05,1.79
+1344,2021-06-27,666182,605347,,foul,5,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,3,2,1,7,1,-0.04,2.15
+1345,2021-06-27,666182,669330,,foul,4,Bo Bichette flies out to left fielder DJ Stewart.,3,1,1,5,6,-0.46,2.26
 1346,2021-06-27,666182,669330,,foul,12,Bo Bichette flies out to left fielder DJ Stewart.,3,0,1,4,6,0.98,2.46
 1347,2021-06-27,666182,605347,,ball,14,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,2,2,1,6,1,1.68,1.84
 1348,2021-06-27,666182,605347,,foul,14,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,2,2,1,5,1,1.11,2.42
 1349,2021-06-27,666182,669330,,ball,14,Bo Bichette flies out to left fielder DJ Stewart.,2,0,1,3,6,0.35,1.44
-1350,2021-06-27,666182,669330,,ball,14,Bo Bichette flies out to left fielder DJ Stewart.,1,0,1,2,6,0.25,1.56
-1351,2021-06-27,666182,605347,,ball,14,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,1,2,1,4,1,1.13,2.57
-1352,2021-06-27,666182,669330,,ball,3,Bo Bichette flies out to left fielder DJ Stewart.,0,0,1,1,6,0.77,3.39
-1353,2021-06-27,666182,605347,,called_strike,6,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,1,1,1,3,1,0.45,2.52
+1350,2021-06-27,666182,605347,,ball,14,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,1,2,1,4,1,1.13,2.57
+1351,2021-06-27,666182,669330,,ball,14,Bo Bichette flies out to left fielder DJ Stewart.,1,0,1,2,6,0.25,1.56
+1352,2021-06-27,666182,605347,,called_strike,6,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,1,1,1,3,1,0.45,2.52
+1353,2021-06-27,666182,669330,,ball,3,Bo Bichette flies out to left fielder DJ Stewart.,0,0,1,1,6,0.77,3.39
 1354,2021-06-27,666182,605347,,ball,13,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,0,1,1,2,1,-0.01,1.52
 1355,2021-06-27,666182,605347,,called_strike,11,Bo Bichette singles on a line drive to center fielder Ryan McKenna.,0,0,1,1,1,-0.84,3.03
 1356,2021-06-26,666182,669211,double,hit_into_play,2,Bo Bichette doubles (17) on a sharp line drive to right fielder Anthony Santander.,0,1,1,2,5,0.11,2.95
@@ -1375,8 +1375,8 @@
 1373,2021-06-25,666182,622253,field_out,hit_into_play,1,"Bo Bichette grounds out, second baseman Pat Valaika to first baseman Ryan Mountcastle.   Marcus Semien to 3rd.",0,0,0,1,7,-0.76,3.09
 1374,2021-06-25,666182,518774,field_out,hit_into_play,6,"Bo Bichette grounds out sharply, third baseman Maikel Franco to first baseman Ryan Mountcastle.",1,1,1,3,1,0.55,2.14
 1375,2021-06-25,666182,518774,,called_strike,6,"Bo Bichette grounds out sharply, third baseman Maikel Franco to first baseman Ryan Mountcastle.",1,0,1,2,1,0.56,2.78
-1376,2021-06-25,666182,518774,,ball,11,"Bo Bichette grounds out sharply, third baseman Maikel Franco to first baseman Ryan Mountcastle.",0,0,1,1,1,-1.41,3.32
-1377,2021-06-25,666182,642121,walk,ball,11,Bo Bichette walks.,3,0,0,4,10,-0.73,3.92
+1376,2021-06-25,666182,642121,walk,ball,11,Bo Bichette walks.,3,0,0,4,10,-0.73,3.92
+1377,2021-06-25,666182,518774,,ball,11,"Bo Bichette grounds out sharply, third baseman Maikel Franco to first baseman Ryan Mountcastle.",0,0,1,1,1,-1.41,3.32
 1378,2021-06-25,666182,642121,,blocked_ball,14,Bo Bichette walks.,2,0,0,3,10,0.23,0.62
 1379,2021-06-25,666182,642121,,ball,14,Bo Bichette walks.,1,0,0,2,10,1.42,2.06
 1380,2021-06-25,666182,642121,,ball,11,Bo Bichette walks.,0,0,0,1,10,-0.25,4.33
@@ -1393,10 +1393,10 @@
 1391,2021-06-24,666182,665152,,foul,2,Bo Bichette walks.   Marcus Semien to 2nd.,3,1,0,5,1,0.07,2.98
 1392,2021-06-24,666182,665152,,ball,11,Bo Bichette walks.   Marcus Semien to 2nd.,2,1,0,4,1,-1.27,3.44
 1393,2021-06-24,666182,665152,,called_strike,2,Bo Bichette walks.   Marcus Semien to 2nd.,2,0,0,3,1,0.2,3.24
-1394,2021-06-24,666182,665152,,blocked_ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,1,0,0,2,1,1.33,-1.0
-1395,2021-06-24,666182,592644,field_out,hit_into_play,14,"Bo Bichette grounds out, pitcher Adam Plutko to first baseman Ryan Mountcastle.",0,1,0,2,2,1.04,1.6
-1396,2021-06-24,666182,592644,,foul,3,"Bo Bichette grounds out, pitcher Adam Plutko to first baseman Ryan Mountcastle.",0,0,0,1,2,0.38,3.3
-1397,2021-06-24,666182,665152,,ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,0,0,0,1,1,0.26,1.05
+1394,2021-06-24,666182,592644,field_out,hit_into_play,14,"Bo Bichette grounds out, pitcher Adam Plutko to first baseman Ryan Mountcastle.",0,1,0,2,2,1.04,1.6
+1395,2021-06-24,666182,665152,,blocked_ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,1,0,0,2,1,1.33,-1.0
+1396,2021-06-24,666182,665152,,ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,0,0,0,1,1,0.26,1.05
+1397,2021-06-24,666182,592644,,foul,3,"Bo Bichette grounds out, pitcher Adam Plutko to first baseman Ryan Mountcastle.",0,0,0,1,2,0.38,3.3
 1398,2021-06-23,666182,669432,single,hit_into_play,13,Bo Bichette singles on a line drive to left fielder Jesus Sanchez.   Marcus Semien scores.,1,0,0,2,5,-1.02,2.25
 1399,2021-06-23,666182,669432,,ball,3,Bo Bichette singles on a line drive to left fielder Jesus Sanchez.   Marcus Semien scores.,0,0,0,1,5,0.53,3.68
 1400,2021-06-23,666182,669432,walk,ball,13,Bo Bichette walks.   Marcus Semien to 2nd.,3,0,2,4,2,-1.12,2.19
@@ -1449,19 +1449,19 @@
 1447,2021-06-19,666182,665152,,foul,11,Bo Bichette called out on strikes.,2,1,0,4,1,-0.15,3.8
 1448,2021-06-19,666182,669330,single,hit_into_play,14,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,9,9,0.92,1.82
 1449,2021-06-19,666182,665152,,ball,11,Bo Bichette called out on strikes.,1,1,0,3,1,-0.97,3.95
-1450,2021-06-19,666182,669330,,foul,3,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,8,9,0.77,3.33
-1451,2021-06-19,666182,665152,,ball,11,Bo Bichette called out on strikes.,0,1,0,2,1,-1.42,2.79
-1452,2021-06-19,666182,665152,,swinging_strike,5,Bo Bichette called out on strikes.,0,0,0,1,1,0.04,2.21
-1453,2021-06-19,666182,669330,,foul,6,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,7,9,0.43,2.55
+1450,2021-06-19,666182,665152,,ball,11,Bo Bichette called out on strikes.,0,1,0,2,1,-1.42,2.79
+1451,2021-06-19,666182,669330,,foul,3,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,8,9,0.77,3.33
+1452,2021-06-19,666182,669330,,foul,6,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,7,9,0.43,2.55
+1453,2021-06-19,666182,665152,,swinging_strike,5,Bo Bichette called out on strikes.,0,0,0,1,1,0.04,2.21
 1454,2021-06-19,666182,669330,,foul,6,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,6,9,0.76,2.63
-1455,2021-06-19,666182,669330,,foul,14,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,5,9,1.03,0.8
-1456,2021-06-19,666182,640451,field_out,hit_into_play,14,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,2,0,4,8,0.44,1.16
-1457,2021-06-19,666182,669330,,foul,6,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,4,9,0.57,2.21
-1458,2021-06-19,666182,640451,,foul,12,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,2,0,3,8,0.5,4.04
-1459,2021-06-19,666182,640451,,foul,5,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,1,0,2,8,0.15,2.76
-1460,2021-06-19,666182,669330,,foul,11,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,1,2,3,9,-0.35,3.54
-1461,2021-06-19,666182,640451,,foul,6,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,0,0,1,8,0.75,2.61
-1462,2021-06-19,666182,669330,,foul,8,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,0,2,2,9,-0.27,1.85
+1455,2021-06-19,666182,640451,field_out,hit_into_play,14,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,2,0,4,8,0.44,1.16
+1456,2021-06-19,666182,669330,,foul,14,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,5,9,1.03,0.8
+1457,2021-06-19,666182,640451,,foul,12,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,2,0,3,8,0.5,4.04
+1458,2021-06-19,666182,669330,,foul,6,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,2,2,4,9,0.57,2.21
+1459,2021-06-19,666182,669330,,foul,11,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,1,2,3,9,-0.35,3.54
+1460,2021-06-19,666182,640451,,foul,5,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,1,0,2,8,0.15,2.76
+1461,2021-06-19,666182,669330,,foul,8,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,1,0,2,2,9,-0.27,1.85
+1462,2021-06-19,666182,640451,,foul,6,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",0,0,0,1,8,0.75,2.61
 1463,2021-06-19,666182,669330,,ball,12,Bo Bichette singles on a fly ball to right fielder Anthony Santander.   Santiago Espinal scores.    Lourdes Gurriel Jr.  scores.    Marcus Semien to 3rd.,0,0,2,1,9,1.55,2.8
 1464,2021-06-18,666182,664045,field_out,hit_into_play,8,"Bo Bichette grounds out, third baseman Maikel Franco to first baseman Trey Mancini.",1,1,0,3,4,0.03,1.84
 1465,2021-06-18,666182,664045,,ball,11,"Bo Bichette grounds out, third baseman Maikel Franco to first baseman Trey Mancini.",0,1,0,2,4,-0.99,3.19
@@ -1472,8 +1472,8 @@
 1470,2021-06-18,666182,640451,,foul,5,"Bo Bichette grounds out, first baseman Trey Mancini to pitcher Hunter Harvey.",2,2,2,5,8,0.05,2.52
 1471,2021-06-18,666182,640451,,ball,13,"Bo Bichette grounds out, first baseman Trey Mancini to pitcher Hunter Harvey.",1,2,2,4,8,0.0,1.08
 1472,2021-06-18,666182,640451,,foul,2,"Bo Bichette grounds out, first baseman Trey Mancini to pitcher Hunter Harvey.",1,1,2,3,8,-0.25,3.09
-1473,2021-06-18,666182,669330,field_out,hit_into_play,8,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",2,2,0,7,6,0.19,2.02
-1474,2021-06-18,666182,640451,,foul,5,"Bo Bichette grounds out, first baseman Trey Mancini to pitcher Hunter Harvey.",1,0,2,2,8,0.24,2.5
+1473,2021-06-18,666182,640451,,foul,5,"Bo Bichette grounds out, first baseman Trey Mancini to pitcher Hunter Harvey.",1,0,2,2,8,0.24,2.5
+1474,2021-06-18,666182,669330,field_out,hit_into_play,8,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",2,2,0,7,6,0.19,2.02
 1475,2021-06-18,666182,669330,,foul,12,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",2,2,0,6,6,1.02,2.87
 1476,2021-06-18,666182,640451,,ball,9,"Bo Bichette grounds out, first baseman Trey Mancini to pitcher Hunter Harvey.",0,0,2,1,8,0.61,1.6
 1477,2021-06-18,666182,669330,,ball,12,"Bo Bichette grounds out, shortstop Freddy Galvis to first baseman Trey Mancini.",1,2,0,5,6,0.01,4.78
@@ -1539,8 +1539,8 @@
 1537,2021-06-14,666182,598264,strikeout,called_strike,1,Bo Bichette called out on strikes.,2,2,1,5,9,-0.74,3.26
 1538,2021-06-14,666182,598264,,called_strike,12,Bo Bichette called out on strikes.,2,1,1,4,9,0.9,3.32
 1539,2021-06-14,666182,598264,,foul,2,Bo Bichette called out on strikes.,2,0,1,3,9,0.24,3.29
-1540,2021-06-14,666182,598264,,ball,14,Bo Bichette called out on strikes.,1,0,1,2,9,1.74,0.94
-1541,2021-06-14,666182,543135,field_out,hit_into_play,14,"Bo Bichette grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,1,1,2,1,0.88,1.3
+1540,2021-06-14,666182,543135,field_out,hit_into_play,14,"Bo Bichette grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,1,1,2,1,0.88,1.3
+1541,2021-06-14,666182,598264,,ball,14,Bo Bichette called out on strikes.,1,0,1,2,9,1.74,0.94
 1542,2021-06-14,666182,598264,,ball,14,Bo Bichette called out on strikes.,0,0,1,1,9,2.44,2.05
 1543,2021-06-14,666182,543135,,swinging_strike,9,"Bo Bichette grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,0,1,1,1,0.31,1.76
 1544,2021-06-13,666182,543901,double,hit_into_play,4,Bo Bichette doubles (14) on a fly ball to left fielder J.  D. Martinez.,0,0,2,1,7,-0.33,2.39
@@ -1584,8 +1584,8 @@
 1582,2021-06-11,666182,572070,,called_strike,9,Bo Bichette singles on a sharp ground ball to center fielder Enrique Hernandez.   Reese McGuire scores.    Bo Bichette to 2nd.,0,1,2,2,2,0.58,1.87
 1583,2021-06-11,666182,572070,,swinging_strike,12,Bo Bichette singles on a sharp ground ball to center fielder Enrique Hernandez.   Reese McGuire scores.    Bo Bichette to 2nd.,0,0,2,1,2,0.02,3.58
 1584,2021-06-11,666182,676477,strikeout,swinging_strike,12,Bo Bichette strikes out swinging.,1,2,1,5,8,1.09,3.12
-1585,2021-06-11,666182,572070,force_out,hit_into_play,11,"Bo Bichette grounds into a force out, shortstop Marwin Gonzalez to second baseman Christian Arroyo.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",0,2,0,3,1,-0.91,2.58
-1586,2021-06-11,666182,676477,,foul,12,Bo Bichette strikes out swinging.,1,2,1,4,8,0.65,3.57
+1585,2021-06-11,666182,676477,,foul,12,Bo Bichette strikes out swinging.,1,2,1,4,8,0.65,3.57
+1586,2021-06-11,666182,572070,force_out,hit_into_play,11,"Bo Bichette grounds into a force out, shortstop Marwin Gonzalez to second baseman Christian Arroyo.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",0,2,0,3,1,-0.91,2.58
 1587,2021-06-11,666182,572070,,foul,2,"Bo Bichette grounds into a force out, shortstop Marwin Gonzalez to second baseman Christian Arroyo.   Marcus Semien out at 2nd.    Bo Bichette to 1st.",0,1,0,2,1,0.24,3.19
 1588,2021-06-11,666182,676477,,swinging_strike,8,Bo Bichette strikes out swinging.,1,1,1,3,8,0.14,1.87
 1589,2021-06-11,666182,676477,,called_strike,6,Bo Bichette strikes out swinging.,1,0,0,2,8,0.3,2.41
@@ -1600,12 +1600,12 @@
 1598,2021-06-10,666182,572971,field_out,hit_into_play,9,Bo Bichette pops out to first baseman Jose Abreu.,0,1,0,2,4,0.77,1.79
 1599,2021-06-10,666182,572971,,swinging_strike,13,Bo Bichette pops out to first baseman Jose Abreu.,0,0,0,1,4,-1.02,1.53
 1600,2021-06-10,666182,605359,strikeout,swinging_strike,8,Bo Bichette strikes out swinging.,2,2,2,5,7,-0.18,1.82
-1601,2021-06-10,666182,605359,,ball,14,Bo Bichette strikes out swinging.,1,2,2,4,7,0.7,1.27
-1602,2021-06-10,666182,572971,field_out,hit_into_play,8,Bo Bichette flies out to right fielder Leury Garcia.,1,2,1,4,1,-0.05,2.1
-1603,2021-06-10,666182,572971,,ball,13,Bo Bichette flies out to right fielder Leury Garcia.,0,2,1,3,1,-1.17,1.69
-1604,2021-06-10,666182,605359,,foul,8,Bo Bichette strikes out swinging.,1,1,2,3,7,0.1,2.05
-1605,2021-06-10,666182,605359,,foul,4,Bo Bichette strikes out swinging.,1,0,2,2,7,-0.7,2.17
-1606,2021-06-10,666182,572971,,foul,13,Bo Bichette flies out to right fielder Leury Garcia.,0,1,1,2,1,-1.16,2.3
+1601,2021-06-10,666182,572971,field_out,hit_into_play,8,Bo Bichette flies out to right fielder Leury Garcia.,1,2,1,4,1,-0.05,2.1
+1602,2021-06-10,666182,605359,,ball,14,Bo Bichette strikes out swinging.,1,2,2,4,7,0.7,1.27
+1603,2021-06-10,666182,605359,,foul,8,Bo Bichette strikes out swinging.,1,1,2,3,7,0.1,2.05
+1604,2021-06-10,666182,572971,,ball,13,Bo Bichette flies out to right fielder Leury Garcia.,0,2,1,3,1,-1.17,1.69
+1605,2021-06-10,666182,572971,,foul,13,Bo Bichette flies out to right fielder Leury Garcia.,0,1,1,2,1,-1.16,2.3
+1606,2021-06-10,666182,605359,,foul,4,Bo Bichette strikes out swinging.,1,0,2,2,7,-0.7,2.17
 1607,2021-06-10,666182,572971,,foul,14,Bo Bichette flies out to right fielder Leury Garcia.,0,0,1,1,1,0.94,1.96
 1608,2021-06-10,666182,605359,,ball,14,Bo Bichette strikes out swinging.,0,0,2,1,7,1.11,2.17
 1609,2021-06-09,666182,458681,field_out,hit_into_play,8,"Bo Bichette grounds out sharply, second baseman Nick Madrigal to first baseman Jose Abreu.",0,0,0,1,6,-0.06,1.84
@@ -1652,8 +1652,8 @@
 1650,2021-06-06,666182,677651,field_out,hit_into_play,14,"Bo Bichette grounds out, pitcher Luis Garcia to first baseman Taylor Jones.",0,0,2,1,5,1.27,2.34
 1651,2021-06-06,666182,677651,field_out,hit_into_play,12,"Bo Bichette grounds out, second baseman Jose Altuve to first baseman Taylor Jones.   Marcus Semien to 2nd.",0,0,1,1,3,0.48,3.62
 1652,2021-06-06,666182,677651,field_out,hit_into_play,14,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Taylor Jones.",2,2,1,6,1,1.2,2.02
-1653,2021-06-06,666182,592773,single,hit_into_play,1,Bo Bichette singles on a line drive to right fielder Kyle Tucker.   Marcus Semien to 2nd.,0,1,1,2,8,-0.68,3.14
-1654,2021-06-06,666182,677651,,ball,14,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Taylor Jones.",1,2,1,5,1,2.27,0.58
+1653,2021-06-06,666182,677651,,ball,14,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Taylor Jones.",1,2,1,5,1,2.27,0.58
+1654,2021-06-06,666182,592773,single,hit_into_play,1,Bo Bichette singles on a line drive to right fielder Kyle Tucker.   Marcus Semien to 2nd.,0,1,1,2,8,-0.68,3.14
 1655,2021-06-06,666182,677651,,foul,12,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Taylor Jones.",1,2,1,4,1,1.11,2.88
 1656,2021-06-06,666182,592773,,called_strike,1,Bo Bichette singles on a line drive to right fielder Kyle Tucker.   Marcus Semien to 2nd.,0,0,1,1,8,-0.38,3.39
 1657,2021-06-06,666182,677651,,swinging_strike,11,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Taylor Jones.",1,1,1,3,1,-0.29,3.64
@@ -1693,18 +1693,18 @@
 1691,2021-06-02,666182,554340,triple,hit_into_play,12,Bo Bichette triples (1) on a ground ball to right fielder Adam Duvall.   Jonathan Davis scores.    Marcus Semien scores.,1,2,0,4,9,0.1,3.94
 1692,2021-06-02,666182,554340,,foul,5,Bo Bichette triples (1) on a ground ball to right fielder Adam Duvall.   Jonathan Davis scores.    Marcus Semien scores.,1,1,0,3,9,-0.16,2.74
 1693,2021-06-02,666182,542914,,ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,2,2,1,6,7,0.35,1.11
-1694,2021-06-02,666182,542914,,ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,1,2,1,5,7,0.04,1.25
-1695,2021-06-02,666182,669622,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,1,2,0,5,5,1.13,1.64
+1694,2021-06-02,666182,669622,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,1,2,0,5,5,1.13,1.64
+1695,2021-06-02,666182,542914,,ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,1,2,1,5,7,0.04,1.25
 1696,2021-06-02,666182,554340,,foul,1,Bo Bichette triples (1) on a ground ball to right fielder Adam Duvall.   Jonathan Davis scores.    Marcus Semien scores.,1,0,0,2,9,-0.58,2.88
-1697,2021-06-02,666182,542914,,foul,5,Bo Bichette walks.   Marcus Semien to 2nd.,1,2,1,4,7,-0.08,2.19
-1698,2021-06-02,666182,554340,,ball,14,Bo Bichette triples (1) on a ground ball to right fielder Adam Duvall.   Jonathan Davis scores.    Marcus Semien scores.,0,0,0,1,9,0.88,1.87
-1699,2021-06-02,666182,669622,,foul,12,Bo Bichette strikes out swinging.,1,2,0,4,5,0.93,2.65
+1697,2021-06-02,666182,669622,,foul,12,Bo Bichette strikes out swinging.,1,2,0,4,5,0.93,2.65
+1698,2021-06-02,666182,542914,,foul,5,Bo Bichette walks.   Marcus Semien to 2nd.,1,2,1,4,7,-0.08,2.19
+1699,2021-06-02,666182,554340,,ball,14,Bo Bichette triples (1) on a ground ball to right fielder Adam Duvall.   Jonathan Davis scores.    Marcus Semien scores.,0,0,0,1,9,0.88,1.87
 1700,2021-06-02,666182,641154,strikeout,foul_tip,6,Bo Bichette strikes out on a foul tip.,2,2,1,6,1,0.42,2.57
 1701,2021-06-02,666182,542914,,blocked_ball,14,Bo Bichette walks.   Marcus Semien to 2nd.,0,2,1,3,7,1.24,-0.07
 1702,2021-06-02,666182,669622,,ball,11,Bo Bichette strikes out swinging.,0,2,0,3,5,-0.69,4.25
-1703,2021-06-02,666182,542914,,foul,3,Bo Bichette walks.   Marcus Semien to 2nd.,0,1,1,2,7,0.39,3.12
-1704,2021-06-02,666182,669622,,foul,11,Bo Bichette strikes out swinging.,0,1,0,2,5,-0.9,3.01
-1705,2021-06-02,666182,641154,,foul,13,Bo Bichette strikes out on a foul tip.,2,2,1,5,1,-1.19,1.72
+1703,2021-06-02,666182,641154,,foul,13,Bo Bichette strikes out on a foul tip.,2,2,1,5,1,-1.19,1.72
+1704,2021-06-02,666182,542914,,foul,3,Bo Bichette walks.   Marcus Semien to 2nd.,0,1,1,2,7,0.39,3.12
+1705,2021-06-02,666182,669622,,foul,11,Bo Bichette strikes out swinging.,0,1,0,2,5,-0.9,3.01
 1706,2021-06-02,666182,641154,,ball,12,Bo Bichette strikes out on a foul tip.,1,2,1,4,1,0.99,4.57
 1707,2021-06-02,666182,669622,,called_strike,4,Bo Bichette strikes out swinging.,0,0,0,1,5,-0.5,2.8
 1708,2021-06-02,666182,542914,,called_strike,14,Bo Bichette walks.   Marcus Semien to 2nd.,0,0,1,1,7,0.98,2.15
@@ -1774,8 +1774,8 @@
 1772,2021-05-28,666182,680704,,ball,12,Bo Bichette called out on strikes.,0,0,2,1,5,1.3,3.22
 1773,2021-05-28,666182,664208,strikeout,called_strike,1,Bo Bichette called out on strikes.,3,2,1,6,4,-0.76,2.91
 1774,2021-05-28,666182,664208,,called_strike,7,Bo Bichette called out on strikes.,3,1,1,5,4,-0.66,1.72
-1775,2021-05-28,666182,669212,field_out,hit_into_play,9,"Bo Bichette grounds out softly, pitcher Eli Morgan to first baseman Yu Chang.   Marcus Semien to 2nd.",3,1,0,5,1,0.45,1.93
-1776,2021-05-28,666182,664208,,ball,14,Bo Bichette called out on strikes.,2,1,1,4,4,0.72,1.39
+1775,2021-05-28,666182,664208,,ball,14,Bo Bichette called out on strikes.,2,1,1,4,4,0.72,1.39
+1776,2021-05-28,666182,669212,field_out,hit_into_play,9,"Bo Bichette grounds out softly, pitcher Eli Morgan to first baseman Yu Chang.   Marcus Semien to 2nd.",3,1,0,5,1,0.45,1.93
 1777,2021-05-28,666182,669212,,ball,3,"Bo Bichette grounds out softly, pitcher Eli Morgan to first baseman Yu Chang.   Marcus Semien to 2nd.",2,1,0,4,1,0.74,3.45
 1778,2021-05-28,666182,664208,,ball,12,Bo Bichette called out on strikes.,1,1,1,3,4,1.28,3.22
 1779,2021-05-28,666182,669212,,ball,14,"Bo Bichette grounds out softly, pitcher Eli Morgan to first baseman Yu Chang.   Marcus Semien to 2nd.",1,1,0,3,1,0.39,0.98
@@ -1794,20 +1794,20 @@
 1792,2021-05-27,666182,593334,,ball,14,Bo Bichette homers (10) on a fly ball to left field.,0,1,2,2,3,0.32,0.82
 1793,2021-05-27,666182,593334,,swinging_strike,14,Bo Bichette homers (10) on a fly ball to left field.,0,0,2,1,3,1.26,1.42
 1794,2021-05-27,666182,642528,strikeout,called_strike,8,Bo Bichette called out on strikes.,3,2,2,8,5,0.14,1.72
-1795,2021-05-27,666182,642528,,blocked_ball,14,Bo Bichette called out on strikes.,2,2,2,7,5,0.08,0.49
-1796,2021-05-27,666182,593334,field_out,hit_into_play,4,Bo Bichette flies out to center fielder Brett Gardner.,3,2,1,6,1,-0.48,2.73
+1795,2021-05-27,666182,593334,field_out,hit_into_play,4,Bo Bichette flies out to center fielder Brett Gardner.,3,2,1,6,1,-0.48,2.73
+1796,2021-05-27,666182,642528,,blocked_ball,14,Bo Bichette called out on strikes.,2,2,2,7,5,0.08,0.49
 1797,2021-05-27,666182,642528,,foul,5,Bo Bichette called out on strikes.,2,2,2,6,5,0.13,2.36
 1798,2021-05-27,666182,593334,,ball,14,Bo Bichette flies out to center fielder Brett Gardner.,2,2,1,5,1,1.01,1.23
 1799,2021-05-27,666182,593334,,foul_tip,13,Bo Bichette flies out to center fielder Brett Gardner.,2,1,1,4,1,-0.14,1.11
-1800,2021-05-27,666182,656756,field_out,hit_into_play,1,Bo Bichette lines out to center fielder Estevan Florial.,0,1,1,2,1,-0.61,3.08
-1801,2021-05-27,666182,642528,,foul,11,Bo Bichette called out on strikes.,2,2,2,5,5,-1.05,2.74
-1802,2021-05-27,666182,642528,,ball,14,Bo Bichette called out on strikes.,1,2,2,4,5,0.97,2.06
+1800,2021-05-27,666182,642528,,foul,11,Bo Bichette called out on strikes.,2,2,2,5,5,-1.05,2.74
+1801,2021-05-27,666182,656756,field_out,hit_into_play,1,Bo Bichette lines out to center fielder Estevan Florial.,0,1,1,2,1,-0.61,3.08
+1802,2021-05-27,666182,593334,,foul,4,Bo Bichette flies out to center fielder Brett Gardner.,2,0,1,3,1,-0.53,2.6
 1803,2021-05-27,666182,656756,,foul,12,Bo Bichette lines out to center fielder Estevan Florial.,0,0,1,1,1,0.91,3.13
-1804,2021-05-27,666182,593334,,foul,4,Bo Bichette flies out to center fielder Brett Gardner.,2,0,1,3,1,-0.53,2.6
+1804,2021-05-27,666182,642528,,ball,14,Bo Bichette called out on strikes.,1,2,2,4,5,0.97,2.06
 1805,2021-05-27,666182,642528,,foul,1,Bo Bichette called out on strikes.,1,1,2,3,5,-0.44,3.14
 1806,2021-05-27,666182,593334,,ball,14,Bo Bichette flies out to center fielder Brett Gardner.,1,0,1,2,1,0.81,1.26
-1807,2021-05-27,666182,642528,,foul_tip,11,Bo Bichette called out on strikes.,1,0,2,2,5,-0.81,3.55
-1808,2021-05-27,666182,593334,,ball,14,Bo Bichette flies out to center fielder Brett Gardner.,0,0,1,1,1,1.08,0.89
+1807,2021-05-27,666182,593334,,ball,14,Bo Bichette flies out to center fielder Brett Gardner.,0,0,1,1,1,1.08,0.89
+1808,2021-05-27,666182,642528,,foul_tip,11,Bo Bichette called out on strikes.,1,0,2,2,5,-0.81,3.55
 1809,2021-05-27,666182,642528,,ball,11,Bo Bichette called out on strikes.,0,0,2,1,5,-1.29,3.46
 1810,2021-05-25,666182,650633,field_out,hit_into_play,11,"Bo Bichette grounds out softly, third baseman Gio Urshela to first baseman Luke Voit.",1,1,1,3,6,-1.44,2.63
 1811,2021-05-25,666182,650633,,ball,13,"Bo Bichette grounds out softly, third baseman Gio Urshela to first baseman Luke Voit.",0,1,1,2,6,-0.65,1.17
@@ -1836,8 +1836,8 @@
 1834,2021-05-24,666182,543521,,swinging_strike,14,Bo Bichette strikes out swinging.,2,1,1,4,8,0.3,1.11
 1835,2021-05-24,666182,543521,,ball,14,Bo Bichette strikes out swinging.,1,1,1,3,8,1.1,2.41
 1836,2021-05-24,666182,543521,,ball,14,Bo Bichette strikes out swinging.,0,1,1,2,8,1.04,0.96
-1837,2021-05-24,666182,543521,,foul,5,Bo Bichette strikes out swinging.,0,0,1,1,8,-0.06,2.79
-1838,2021-05-24,666182,605488,single,hit_into_play,14,Bo Bichette singles on a ground ball to third baseman Joey Wendle.,2,2,1,5,10,1.28,1.89
+1837,2021-05-24,666182,605488,single,hit_into_play,14,Bo Bichette singles on a ground ball to third baseman Joey Wendle.,2,2,1,5,10,1.28,1.89
+1838,2021-05-24,666182,543521,,foul,5,Bo Bichette strikes out swinging.,0,0,1,1,8,-0.06,2.79
 1839,2021-05-24,666182,605488,,foul,12,Bo Bichette singles on a ground ball to third baseman Joey Wendle.,2,1,1,4,10,0.54,3.76
 1840,2021-05-24,666182,605488,,called_strike,14,Bo Bichette singles on a ground ball to third baseman Joey Wendle.,2,0,1,3,10,0.88,1.47
 1841,2021-05-24,666182,605488,,ball,12,Bo Bichette singles on a ground ball to third baseman Joey Wendle.,1,0,1,2,10,1.33,3.15
@@ -1877,15 +1877,15 @@
 1875,2021-05-21,666182,607192,,foul,2,"Bo Bichette grounds out, shortstop Joey Wendle to first baseman Yandy Diaz.",0,0,0,1,5,-0.21,3.04
 1876,2021-05-21,666182,607192,field_out,hit_into_play,3,"Bo Bichette grounds out, shortstop Joey Wendle to first baseman Yandy Diaz.",0,1,2,2,2,0.57,2.81
 1877,2021-05-21,666182,607192,,called_strike,6,"Bo Bichette grounds out, shortstop Joey Wendle to first baseman Yandy Diaz.",0,0,2,1,2,0.47,2.57
-1878,2021-05-21,666182,657044,field_out,hit_into_play,8,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.   Marcus Semien to 3rd.",0,1,0,2,10,-0.17,1.78
-1879,2021-05-21,666182,552640,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,1,2,0,4,7,1.16,1.56
-1880,2021-05-21,666182,650895,field_out,hit_into_play,4,"Bo Bichette grounds out, third baseman Yandy Diaz to first baseman Ji-Man Choi.",2,0,0,3,12,-0.76,2.8
-1881,2021-05-21,666182,657044,,foul,14,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.   Marcus Semien to 3rd.",0,0,0,1,10,1.32,2.11
-1882,2021-05-21,666182,650895,,ball,11,"Bo Bichette grounds out, third baseman Yandy Diaz to first baseman Ji-Man Choi.",1,0,0,2,12,-0.11,3.85
-1883,2021-05-21,666182,552640,,swinging_strike,13,Bo Bichette strikes out swinging.,1,1,0,3,7,-1.13,1.91
+1878,2021-05-21,666182,552640,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,1,2,0,4,7,1.16,1.56
+1879,2021-05-21,666182,650895,field_out,hit_into_play,4,"Bo Bichette grounds out, third baseman Yandy Diaz to first baseman Ji-Man Choi.",2,0,0,3,12,-0.76,2.8
+1880,2021-05-21,666182,657044,field_out,hit_into_play,8,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.   Marcus Semien to 3rd.",0,1,0,2,10,-0.17,1.78
+1881,2021-05-21,666182,552640,,swinging_strike,13,Bo Bichette strikes out swinging.,1,1,0,3,7,-1.13,1.91
+1882,2021-05-21,666182,657044,,foul,14,"Bo Bichette grounds out sharply, second baseman Brandon Lowe to first baseman Ji-Man Choi.   Marcus Semien to 3rd.",0,0,0,1,10,1.32,2.11
+1883,2021-05-21,666182,650895,,ball,11,"Bo Bichette grounds out, third baseman Yandy Diaz to first baseman Ji-Man Choi.",1,0,0,2,12,-0.11,3.85
 1884,2021-05-21,666182,552640,,ball,13,Bo Bichette strikes out swinging.,0,1,0,2,7,-0.33,1.35
-1885,2021-05-21,666182,607192,walk,ball,11,Bo Bichette walks.   Marcus Semien to 3rd.  Marcus Semien steals (8) 3rd base.   Marcus Semien to 3rd.,3,0,0,4,1,-1.49,4.15
-1886,2021-05-21,666182,650895,,ball,1,"Bo Bichette grounds out, third baseman Yandy Diaz to first baseman Ji-Man Choi.",0,0,0,1,12,-0.58,3.63
+1885,2021-05-21,666182,650895,,ball,1,"Bo Bichette grounds out, third baseman Yandy Diaz to first baseman Ji-Man Choi.",0,0,0,1,12,-0.58,3.63
+1886,2021-05-21,666182,607192,walk,ball,11,Bo Bichette walks.   Marcus Semien to 3rd.  Marcus Semien steals (8) 3rd base.   Marcus Semien to 3rd.,3,0,0,4,1,-1.49,4.15
 1887,2021-05-21,666182,607192,,ball,11,Bo Bichette walks.   Marcus Semien to 3rd.  Marcus Semien steals (8) 3rd base.   Marcus Semien to 3rd.,2,0,0,3,1,-0.05,4.13
 1888,2021-05-21,666182,552640,,foul,6,Bo Bichette strikes out swinging.,0,0,0,1,7,0.38,2.72
 1889,2021-05-21,666182,607192,,ball,11,Bo Bichette walks.   Marcus Semien to 3rd.  Marcus Semien steals (8) 3rd base.   Marcus Semien to 3rd.,1,0,0,2,1,-0.86,4.2
@@ -1982,8 +1982,8 @@
 1980,2021-05-14,666182,621237,,called_strike,5,Bo Bichette walks.,3,0,1,4,8,-0.05,2.37
 1981,2021-05-14,666182,621237,,ball,11,Bo Bichette walks.,2,0,1,3,8,-0.49,4.11
 1982,2021-05-14,666182,621237,,ball,13,Bo Bichette walks.,1,0,1,2,8,-0.79,0.01
-1983,2021-05-14,666182,592826,field_error,hit_into_play,6,Bo Bichette reaches on a fielding error by shortstop Nick Maton.,0,0,1,1,1,0.32,2.23
-1984,2021-05-14,666182,621237,,ball,14,Bo Bichette walks.,0,0,1,1,8,0.43,0.84
+1983,2021-05-14,666182,621237,,ball,14,Bo Bichette walks.,0,0,1,1,8,0.43,0.84
+1984,2021-05-14,666182,592826,field_error,hit_into_play,6,Bo Bichette reaches on a fielding error by shortstop Nick Maton.,0,0,1,1,1,0.32,2.23
 1985,2021-05-13,666182,450203,single,hit_into_play,5,Bo Bichette singles on a sharp line drive to center fielder Ronald Acuna.   Reese McGuire scores.,1,2,2,4,5,0.24,2.33
 1986,2021-05-13,666182,450203,,swinging_strike_blocked,14,Bo Bichette singles on a sharp line drive to center fielder Ronald Acuna.   Reese McGuire scores.,1,1,2,3,5,0.7,0.41
 1987,2021-05-13,666182,450203,,ball,14,Bo Bichette singles on a sharp line drive to center fielder Ronald Acuna.   Reese McGuire scores.,0,1,2,2,5,1.62,1.68
@@ -1995,11 +1995,11 @@
 1993,2021-05-13,666182,450203,grounded_into_double_play,hit_into_play,8,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",3,2,0,6,1,-0.1,1.67
 1994,2021-05-13,666182,450203,,called_strike,9,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",3,1,0,5,1,0.47,1.76
 1995,2021-05-13,666182,455119,field_out,hit_into_play,9,Bo Bichette flies out to left fielder Marcell Ozuna.,1,2,1,4,7,0.3,1.59
-1996,2021-05-13,666182,450203,,ball,13,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",2,1,0,4,1,-0.47,1.19
-1997,2021-05-13,666182,455119,,foul,5,Bo Bichette flies out to left fielder Marcell Ozuna.,1,1,1,3,7,0.2,2.48
-1998,2021-05-13,666182,519293,double,hit_into_play,3,Bo Bichette doubles (8) on a sharp line drive to right fielder Austin Riley.   Danny Jansen scores.    Marcus Semien scores.,0,0,0,1,9,0.6,3.01
-1999,2021-05-13,666182,455119,,ball,12,Bo Bichette flies out to left fielder Marcell Ozuna.,0,1,1,2,7,0.91,3.44
-2000,2021-05-13,666182,450203,,called_strike,3,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",2,0,0,3,1,0.29,3.06
+1996,2021-05-13,666182,519293,double,hit_into_play,3,Bo Bichette doubles (8) on a sharp line drive to right fielder Austin Riley.   Danny Jansen scores.    Marcus Semien scores.,0,0,0,1,9,0.6,3.01
+1997,2021-05-13,666182,450203,,ball,13,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",2,1,0,4,1,-0.47,1.19
+1998,2021-05-13,666182,455119,,foul,5,Bo Bichette flies out to left fielder Marcell Ozuna.,1,1,1,3,7,0.2,2.48
+1999,2021-05-13,666182,450203,,called_strike,3,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",2,0,0,3,1,0.29,3.06
+2000,2021-05-13,666182,455119,,ball,12,Bo Bichette flies out to left fielder Marcell Ozuna.,0,1,1,2,7,0.91,3.44
 2001,2021-05-13,666182,455119,,swinging_strike,2,Bo Bichette flies out to left fielder Marcell Ozuna.,0,0,1,1,7,0.08,3.32
 2002,2021-05-13,666182,450203,,ball,14,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",1,0,0,2,1,2.16,1.65
 2003,2021-05-13,666182,450203,,ball,14,"Bo Bichette grounds into a double play, second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",0,0,0,1,1,0.23,1.45
@@ -2024,17 +2024,17 @@
 2022,2021-05-11,666182,669060,grounded_into_double_play,hit_into_play,8,"Bo Bichette grounds into a double play, third baseman Austin Riley to second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",0,1,1,2,3,0.16,1.62
 2023,2021-05-11,666182,669060,,called_strike,3,"Bo Bichette grounds into a double play, third baseman Austin Riley to second baseman Ozzie Albies to first baseman Freddie Freeman.   Marcus Semien out at 2nd.    Bo Bichette out at 1st.",0,0,1,1,3,0.64,3.21
 2024,2021-05-11,666182,621345,single,hit_into_play,5,Bo Bichette singles on a sharp line drive to left fielder Marcell Ozuna.   Jonathan Davis to 3rd.    Marcus Semien to 2nd.,3,0,0,4,8,-0.19,2.51
-2025,2021-05-11,666182,592145,strikeout,swinging_strike,13,Bo Bichette strikes out swinging.,3,2,1,6,9,-0.85,1.64
-2026,2021-05-11,666182,621345,,ball,12,Bo Bichette singles on a sharp line drive to left fielder Marcell Ozuna.   Jonathan Davis to 3rd.    Marcus Semien to 2nd.,2,0,0,3,8,1.63,3.97
-2027,2021-05-11,666182,592145,,foul,4,Bo Bichette strikes out swinging.,3,1,1,5,9,-0.58,2.6
-2028,2021-05-11,666182,621345,,ball,11,Bo Bichette singles on a sharp line drive to left fielder Marcell Ozuna.   Jonathan Davis to 3rd.    Marcus Semien to 2nd.,1,0,0,2,8,-1.13,3.27
+2025,2021-05-11,666182,621345,,ball,12,Bo Bichette singles on a sharp line drive to left fielder Marcell Ozuna.   Jonathan Davis to 3rd.    Marcus Semien to 2nd.,2,0,0,3,8,1.63,3.97
+2026,2021-05-11,666182,592145,strikeout,swinging_strike,13,Bo Bichette strikes out swinging.,3,2,1,6,9,-0.85,1.64
+2027,2021-05-11,666182,621345,,ball,11,Bo Bichette singles on a sharp line drive to left fielder Marcell Ozuna.   Jonathan Davis to 3rd.    Marcus Semien to 2nd.,1,0,0,2,8,-1.13,3.27
+2028,2021-05-11,666182,592145,,foul,4,Bo Bichette strikes out swinging.,3,1,1,5,9,-0.58,2.6
 2029,2021-05-11,666182,592145,,called_strike,8,Bo Bichette strikes out swinging.,3,0,1,4,9,-0.23,2.1
 2030,2021-05-11,666182,669060,strikeout,swinging_strike,12,Bo Bichette strikes out swinging.,1,2,1,4,1,0.19,4.32
 2031,2021-05-11,666182,621345,,ball,11,Bo Bichette singles on a sharp line drive to left fielder Marcell Ozuna.   Jonathan Davis to 3rd.    Marcus Semien to 2nd.,0,0,0,1,8,-0.75,4.57
-2032,2021-05-11,666182,592145,,ball,7,Bo Bichette strikes out swinging.,2,0,1,3,9,-0.78,1.83
-2033,2021-05-11,666182,669060,,foul,7,Bo Bichette strikes out swinging.,1,1,1,3,1,-0.63,1.42
-2034,2021-05-11,666182,669060,,ball,13,Bo Bichette strikes out swinging.,0,1,1,2,1,-1.76,1.63
-2035,2021-05-11,666182,592145,,ball,12,Bo Bichette strikes out swinging.,1,0,1,2,9,1.77,4.39
+2032,2021-05-11,666182,669060,,foul,7,Bo Bichette strikes out swinging.,1,1,1,3,1,-0.63,1.42
+2033,2021-05-11,666182,592145,,ball,7,Bo Bichette strikes out swinging.,2,0,1,3,9,-0.78,1.83
+2034,2021-05-11,666182,592145,,ball,12,Bo Bichette strikes out swinging.,1,0,1,2,9,1.77,4.39
+2035,2021-05-11,666182,669060,,ball,13,Bo Bichette strikes out swinging.,0,1,1,2,1,-1.76,1.63
 2036,2021-05-11,666182,669060,,foul,2,Bo Bichette strikes out swinging.,0,0,1,1,1,-0.24,3.44
 2037,2021-05-11,666182,592145,,blocked_ball,13,Bo Bichette strikes out swinging.,0,0,1,1,9,-1.14,1.03
 2038,2021-05-09,666182,425844,double,hit_into_play,6,Bo Bichette doubles (7) on a sharp line drive to center fielder Myles Straw.   Reese McGuire scores.    Marcus Semien scores.,1,1,0,3,5,0.3,2.52
@@ -2048,8 +2048,8 @@
 2046,2021-05-09,666182,425844,,ball,14,Bo Bichette strikes out swinging.,1,2,1,4,1,2.66,0.59
 2047,2021-05-09,666182,592773,field_out,hit_into_play,1,"Bo Bichette grounds out, shortstop Robel Garcia to first baseman Yuli Gurriel.",1,1,1,3,7,-0.7,2.92
 2048,2021-05-09,666182,425844,,called_strike,9,Bo Bichette strikes out swinging.,1,1,1,3,1,0.7,1.7
-2049,2021-05-09,666182,425844,,foul,5,Bo Bichette strikes out swinging.,1,0,1,2,1,0.26,2.56
-2050,2021-05-09,666182,592773,,ball,14,"Bo Bichette grounds out, shortstop Robel Garcia to first baseman Yuli Gurriel.",0,1,1,2,7,1.08,2.24
+2049,2021-05-09,666182,592773,,ball,14,"Bo Bichette grounds out, shortstop Robel Garcia to first baseman Yuli Gurriel.",0,1,1,2,7,1.08,2.24
+2050,2021-05-09,666182,425844,,foul,5,Bo Bichette strikes out swinging.,1,0,1,2,1,0.26,2.56
 2051,2021-05-09,666182,592773,,swinging_strike,2,"Bo Bichette grounds out, shortstop Robel Garcia to first baseman Yuli Gurriel.",0,0,1,1,7,0.05,3.16
 2052,2021-05-09,666182,425844,,ball,14,Bo Bichette strikes out swinging.,0,0,1,1,1,1.35,2.18
 2053,2021-05-08,666182,664299,strikeout,swinging_strike_blocked,14,Bo Bichette strikes out swinging.,1,2,0,4,5,1.37,0.74
@@ -2064,12 +2064,12 @@
 2062,2021-05-08,666182,668687,,ball,14,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",2,2,2,7,7,0.65,0.65
 2063,2021-05-08,666182,668687,,foul,12,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",2,2,2,6,7,0.02,3.99
 2064,2021-05-08,666182,668687,,foul,6,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",2,2,2,5,7,0.57,2.46
-2065,2021-05-08,666182,668687,,ball,12,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,2,2,4,7,1.21,4.02
-2066,2021-05-08,666182,501925,field_out,hit_into_play,14,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",2,1,2,4,9,0.97,1.81
+2065,2021-05-08,666182,501925,field_out,hit_into_play,14,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",2,1,2,4,9,0.97,1.81
+2066,2021-05-08,666182,668687,,ball,12,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,2,2,4,7,1.21,4.02
 2067,2021-05-08,666182,501925,,ball,12,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",1,1,2,3,9,1.22,3.14
 2068,2021-05-08,666182,668687,,called_strike,7,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,1,2,3,7,-0.37,1.73
-2069,2021-05-08,666182,501925,,called_strike,5,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",1,0,2,2,9,-0.12,2.83
-2070,2021-05-08,666182,668687,,foul,4,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,0,2,2,7,-0.58,2.79
+2069,2021-05-08,666182,668687,,foul,4,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,0,2,2,7,-0.58,2.79
+2070,2021-05-08,666182,501925,,called_strike,5,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",1,0,2,2,9,-0.12,2.83
 2071,2021-05-08,666182,501925,,ball,12,"Bo Bichette grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,0,2,1,9,1.23,3.02
 2072,2021-05-08,666182,668687,,ball,12,"Bo Bichette grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,2,1,7,0.79,4.59
 2073,2021-05-08,666182,664299,strikeout,called_strike,13,Bo Bichette called out on strikes.,0,2,1,3,1,-0.2,1.49
@@ -2188,10 +2188,10 @@
 2186,2021-05-01,666182,592426,,ball,14,Bo Bichette walks.,1,0,1,2,7,0.26,0.93
 2187,2021-05-01,666182,592426,,ball,14,Bo Bichette walks.,0,0,1,1,7,1.24,1.38
 2188,2021-05-01,666182,450203,single,hit_into_play,14,Bo Bichette singles on a line drive to center fielder Cristian Pache.,0,2,1,3,1,0.96,1.68
-2189,2021-05-01,666182,450203,,foul,2,Bo Bichette singles on a line drive to center fielder Cristian Pache.,0,1,1,2,1,0.02,3.27
-2190,2021-05-01,666182,518858,field_out,hit_into_play,14,Bo Bichette lines out to shortstop Dansby Swanson.,1,2,0,4,10,0.91,2.17
-2191,2021-05-01,666182,518858,,foul,3,Bo Bichette lines out to shortstop Dansby Swanson.,1,1,0,3,10,0.34,2.91
-2192,2021-05-01,666182,450203,,called_strike,11,Bo Bichette singles on a line drive to center fielder Cristian Pache.,0,0,1,1,1,-0.99,2.87
+2189,2021-05-01,666182,518858,field_out,hit_into_play,14,Bo Bichette lines out to shortstop Dansby Swanson.,1,2,0,4,10,0.91,2.17
+2190,2021-05-01,666182,450203,,foul,2,Bo Bichette singles on a line drive to center fielder Cristian Pache.,0,1,1,2,1,0.02,3.27
+2191,2021-05-01,666182,450203,,called_strike,11,Bo Bichette singles on a line drive to center fielder Cristian Pache.,0,0,1,1,1,-0.99,2.87
+2192,2021-05-01,666182,518858,,foul,3,Bo Bichette lines out to shortstop Dansby Swanson.,1,1,0,3,10,0.34,2.91
 2193,2021-05-01,666182,518858,,foul,2,Bo Bichette lines out to shortstop Dansby Swanson.,1,0,0,2,10,0.01,3.29
 2194,2021-05-01,666182,518858,,ball,14,Bo Bichette lines out to shortstop Dansby Swanson.,0,0,0,1,10,1.35,1.91
 2195,2021-04-30,666182,592767,strikeout,swinging_strike_blocked,14,Bo Bichette strikes out swinging.,0,2,1,4,4,0.39,0.63
@@ -2268,8 +2268,8 @@
 2266,2021-04-24,666182,642232,walk,ball,12,Bo Bichette walks.   Cavan Biggio to 2nd.,3,0,2,4,2,1.53,3.79
 2267,2021-04-24,666182,552640,field_out,hit_into_play,4,"Bo Bichette grounds out, shortstop Willy Adames to first baseman Yandy Diaz.   Cavan Biggio to 3rd.",2,2,1,5,9,-0.33,2.24
 2268,2021-04-24,666182,642232,,ball,12,Bo Bichette walks.   Cavan Biggio to 2nd.,2,0,2,3,2,2.08,2.9
-2269,2021-04-24,666182,642232,,ball,12,Bo Bichette walks.   Cavan Biggio to 2nd.,1,0,2,2,2,1.3,3.07
-2270,2021-04-24,666182,552640,,blocked_ball,14,"Bo Bichette grounds out, shortstop Willy Adames to first baseman Yandy Diaz.   Cavan Biggio to 3rd.",1,2,1,4,9,0.97,-0.64
+2269,2021-04-24,666182,552640,,blocked_ball,14,"Bo Bichette grounds out, shortstop Willy Adames to first baseman Yandy Diaz.   Cavan Biggio to 3rd.",1,2,1,4,9,0.97,-0.64
+2270,2021-04-24,666182,642232,,ball,12,Bo Bichette walks.   Cavan Biggio to 2nd.,1,0,2,2,2,1.3,3.07
 2271,2021-04-24,666182,642232,,ball,12,Bo Bichette walks.   Cavan Biggio to 2nd.,0,0,2,1,2,1.27,3.63
 2272,2021-04-24,666182,552640,,foul,8,"Bo Bichette grounds out, shortstop Willy Adames to first baseman Yandy Diaz.   Cavan Biggio to 3rd.",1,1,1,3,9,0.09,2.08
 2273,2021-04-24,666182,552640,,blocked_ball,14,"Bo Bichette grounds out, shortstop Willy Adames to first baseman Yandy Diaz.   Cavan Biggio to 3rd.",0,1,1,2,9,0.19,0.47
@@ -2278,8 +2278,8 @@
 2276,2021-04-24,666182,657044,,foul,11,Bo Bichette called out on strikes.,3,2,2,6,7,-1.21,2.9
 2277,2021-04-24,666182,641703,strikeout,swinging_strike,14,Bo Bichette strikes out swinging.,0,2,0,3,1,0.9,2.28
 2278,2021-04-24,666182,657044,,foul,5,Bo Bichette called out on strikes.,3,1,2,5,7,-0.11,2.34
-2279,2021-04-24,666182,657044,,ball,13,Bo Bichette called out on strikes.,2,1,2,4,7,-1.06,2.06
-2280,2021-04-24,666182,641703,,foul,3,Bo Bichette strikes out swinging.,0,1,0,2,1,0.43,2.81
+2279,2021-04-24,666182,641703,,foul,3,Bo Bichette strikes out swinging.,0,1,0,2,1,0.43,2.81
+2280,2021-04-24,666182,657044,,ball,13,Bo Bichette called out on strikes.,2,1,2,4,7,-1.06,2.06
 2281,2021-04-24,666182,657044,,ball,14,Bo Bichette called out on strikes.,1,1,2,3,7,1.14,2.38
 2282,2021-04-24,666182,641703,,called_strike,5,Bo Bichette strikes out swinging.,0,0,0,1,1,0.04,2.54
 2283,2021-04-24,666182,657044,,foul,13,Bo Bichette called out on strikes.,1,0,2,2,7,-0.28,1.32
@@ -2291,8 +2291,8 @@
 2289,2021-04-23,666182,607192,field_out,hit_into_play,2,Bo Bichette lines out to right fielder Manuel Margot.,0,2,1,3,2,0.16,3.38
 2290,2021-04-23,666182,607192,,swinging_strike,6,Bo Bichette lines out to right fielder Manuel Margot.,0,1,1,2,2,0.35,2.59
 2291,2021-04-23,666182,607192,,called_strike,9,Bo Bichette lines out to right fielder Manuel Margot.,0,0,1,1,2,0.37,1.84
-2292,2021-04-23,666182,607192,strikeout,called_strike,9,Bo Bichette called out on strikes.,3,2,1,8,1,0.4,1.96
-2293,2021-04-23,666182,607391,field_out,hit_into_play,5,Bo Bichette lines out to left fielder Randy Arozarena.,1,1,2,3,7,0.0,2.48
+2292,2021-04-23,666182,607391,field_out,hit_into_play,5,Bo Bichette lines out to left fielder Randy Arozarena.,1,1,2,3,7,0.0,2.48
+2293,2021-04-23,666182,607192,strikeout,called_strike,9,Bo Bichette called out on strikes.,3,2,1,8,1,0.4,1.96
 2294,2021-04-23,666182,607192,,ball,14,Bo Bichette called out on strikes.,2,2,1,7,1,1.86,0.14
 2295,2021-04-23,666182,607391,,ball,11,Bo Bichette lines out to left fielder Randy Arozarena.,0,1,2,2,7,-1.37,3.15
 2296,2021-04-23,666182,607391,,called_strike,3,Bo Bichette lines out to left fielder Randy Arozarena.,0,0,2,1,7,0.5,2.95
@@ -2309,11 +2309,11 @@
 2307,2021-04-21,666182,572070,hit_by_pitch,hit_by_pitch,11,Bo Bichette hit by pitch.    Cavan Biggio to 2nd.,1,2,0,5,1,-1.72,4.29
 2308,2021-04-21,666182,572070,,foul,3,Bo Bichette hit by pitch.    Cavan Biggio to 2nd.,1,2,0,4,1,0.31,2.92
 2309,2021-04-21,666182,572070,,ball,11,Bo Bichette hit by pitch.    Cavan Biggio to 2nd.,0,2,0,3,1,-0.08,4.53
-2310,2021-04-21,666182,572070,,swinging_strike_blocked,14,Bo Bichette hit by pitch.    Cavan Biggio to 2nd.,0,1,0,2,1,0.39,0.19
-2311,2021-04-21,666182,570488,strikeout,called_strike,9,Bo Bichette called out on strikes.,3,2,0,6,7,0.67,1.62
-2312,2021-04-21,666182,572070,,called_strike,13,Bo Bichette hit by pitch.    Cavan Biggio to 2nd.,0,0,0,1,1,-1.04,2.47
-2313,2021-04-21,666182,657031,single,hit_into_play,8,Bo Bichette singles on a ground ball to pitcher Josh Taylor.,0,0,1,1,9,-0.15,1.52
-2314,2021-04-21,666182,570488,,swinging_strike,13,Bo Bichette called out on strikes.,3,1,0,5,7,-1.22,2.41
+2310,2021-04-21,666182,570488,strikeout,called_strike,9,Bo Bichette called out on strikes.,3,2,0,6,7,0.67,1.62
+2311,2021-04-21,666182,572070,,swinging_strike_blocked,14,Bo Bichette hit by pitch.    Cavan Biggio to 2nd.,0,1,0,2,1,0.39,0.19
+2312,2021-04-21,666182,570488,,swinging_strike,13,Bo Bichette called out on strikes.,3,1,0,5,7,-1.22,2.41
+2313,2021-04-21,666182,572070,,called_strike,13,Bo Bichette hit by pitch.    Cavan Biggio to 2nd.,0,0,0,1,1,-1.04,2.47
+2314,2021-04-21,666182,657031,single,hit_into_play,8,Bo Bichette singles on a ground ball to pitcher Josh Taylor.,0,0,1,1,9,-0.15,1.52
 2315,2021-04-21,666182,570488,,ball,14,Bo Bichette called out on strikes.,2,1,0,4,7,1.42,2.03
 2316,2021-04-21,666182,570488,,called_strike,9,Bo Bichette called out on strikes.,2,0,0,3,7,0.73,2.21
 2317,2021-04-21,666182,570488,,ball,11,Bo Bichette called out on strikes.,1,0,0,2,7,-1.32,3.62
@@ -2328,8 +2328,8 @@
 2326,2021-04-20,666182,493603,,called_strike,6,Bo Bichette strikes out swinging.,2,1,2,4,8,0.76,2.24
 2327,2021-04-20,666182,493603,,ball,14,Bo Bichette strikes out swinging.,1,1,2,3,8,1.86,1.88
 2328,2021-04-20,666182,493603,,swinging_strike,14,Bo Bichette strikes out swinging.,1,0,2,2,8,1.04,1.3
-2329,2021-04-20,666182,493603,,ball,14,Bo Bichette strikes out swinging.,0,0,2,1,8,1.73,1.97
-2330,2021-04-20,666182,593958,strikeout,called_strike,7,Bo Bichette called out on strikes.,3,2,1,8,1,-0.75,2.06
+2329,2021-04-20,666182,593958,strikeout,called_strike,7,Bo Bichette called out on strikes.,3,2,1,8,1,-0.75,2.06
+2330,2021-04-20,666182,493603,,ball,14,Bo Bichette strikes out swinging.,0,0,2,1,8,1.73,1.97
 2331,2021-04-20,666182,593958,,ball,14,Bo Bichette called out on strikes.,2,2,1,7,1,0.17,0.2
 2332,2021-04-20,666182,593958,,foul,12,Bo Bichette called out on strikes.,2,2,1,6,1,0.04,3.67
 2333,2021-04-20,666182,593958,,foul,5,Bo Bichette called out on strikes.,2,2,1,5,1,0.24,2.75
@@ -2348,10 +2348,10 @@
 2346,2021-04-18,666182,622251,field_out,hit_into_play,7,"Bo Bichette grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",2,1,1,4,8,-0.72,1.57
 2347,2021-04-18,666182,663903,,ball,13,Bo Bichette called out on strikes.,1,1,1,3,1,-0.19,1.21
 2348,2021-04-18,666182,622251,,swinging_strike,4,"Bo Bichette grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",2,0,1,3,8,-0.51,2.25
-2349,2021-04-18,666182,663903,,ball,11,Bo Bichette called out on strikes.,0,1,1,2,1,-1.93,3.28
-2350,2021-04-18,666182,622251,,ball,14,"Bo Bichette grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",1,0,1,2,8,0.89,1.6
-2351,2021-04-18,666182,622251,,ball,11,"Bo Bichette grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",0,0,1,1,8,-1.66,3.39
-2352,2021-04-18,666182,663903,,called_strike,9,Bo Bichette called out on strikes.,0,0,1,1,1,0.55,1.64
+2349,2021-04-18,666182,622251,,ball,14,"Bo Bichette grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",1,0,1,2,8,0.89,1.6
+2350,2021-04-18,666182,663903,,ball,11,Bo Bichette called out on strikes.,0,1,1,2,1,-1.93,3.28
+2351,2021-04-18,666182,663903,,called_strike,9,Bo Bichette called out on strikes.,0,0,1,1,1,0.55,1.64
+2352,2021-04-18,666182,622251,,ball,11,"Bo Bichette grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",0,0,1,1,8,-1.66,3.39
 2353,2021-04-17,666182,501985,strikeout,swinging_strike,12,Bo Bichette strikes out swinging.,3,2,2,8,5,0.09,3.62
 2354,2021-04-17,666182,501985,,foul,8,Bo Bichette strikes out swinging.,3,2,2,7,5,-0.17,1.56
 2355,2021-04-17,666182,501985,,ball,12,Bo Bichette strikes out swinging.,2,2,2,6,5,1.91,4.04
@@ -2470,8 +2470,8 @@
 2468,2021-04-10,666182,500779,,blocked_ball,13,Bo Bichette walks.   Jonathan Davis scores.    Danny Jansen to 3rd.    Josh Palacios to 2nd.,0,0,1,1,2,-0.55,0.91
 2469,2021-04-10,666182,642545,double,hit_into_play,4,Bo Bichette doubles (2) on a line drive to left fielder Justin Upton.   Josh Palacios scores.    Marcus Semien scores.,1,1,1,3,3,-0.49,2.49
 2470,2021-04-10,666182,642545,,ball,14,Bo Bichette doubles (2) on a line drive to left fielder Justin Upton.   Josh Palacios scores.    Marcus Semien scores.,0,1,1,2,3,1.05,1.7
-2471,2021-04-10,666182,642545,,called_strike,5,Bo Bichette doubles (2) on a line drive to left fielder Justin Upton.   Josh Palacios scores.    Marcus Semien scores.,0,0,1,1,3,0.22,2.61
-2472,2021-04-10,666182,448855,field_out,hit_into_play,3,Bo Bichette flies out to center fielder Juan Lagares.,1,1,1,3,6,0.44,3.1
+2471,2021-04-10,666182,448855,field_out,hit_into_play,3,Bo Bichette flies out to center fielder Juan Lagares.,1,1,1,3,6,0.44,3.1
+2472,2021-04-10,666182,642545,,called_strike,5,Bo Bichette doubles (2) on a line drive to left fielder Justin Upton.   Josh Palacios scores.    Marcus Semien scores.,0,0,1,1,3,0.22,2.61
 2473,2021-04-10,666182,448855,,called_strike,8,Bo Bichette flies out to center fielder Juan Lagares.,1,0,1,2,6,0.27,2.36
 2474,2021-04-10,666182,448855,,ball,1,Bo Bichette flies out to center fielder Juan Lagares.,0,0,1,1,6,-0.32,3.58
 2475,2021-04-10,666182,500779,field_out,hit_into_play,3,"Bo Bichette grounds out, second baseman David Fletcher to first baseman Albert Pujols.",0,1,1,2,1,0.44,3.1
@@ -2515,8 +2515,8 @@
 2513,2021-04-08,666182,594577,,called_strike,4,Bo Bichette flies out to right fielder Dexter Fowler.,3,0,0,4,8,-0.58,2.54
 2514,2021-04-08,666182,594577,,ball,14,Bo Bichette flies out to right fielder Dexter Fowler.,2,0,0,3,8,1.27,2.39
 2515,2021-04-08,666182,594577,,ball,14,Bo Bichette flies out to right fielder Dexter Fowler.,1,0,0,2,8,1.69,1.51
-2516,2021-04-08,666182,594577,,ball,12,Bo Bichette flies out to right fielder Dexter Fowler.,0,0,0,1,8,0.85,3.44
-2517,2021-04-08,666182,642083,single,hit_into_play,11,Bo Bichette singles on a soft ground ball to pitcher Aaron Slegers.,0,0,1,1,6,-1.12,2.84
+2516,2021-04-08,666182,642083,single,hit_into_play,11,Bo Bichette singles on a soft ground ball to pitcher Aaron Slegers.,0,0,1,1,6,-1.12,2.84
+2517,2021-04-08,666182,594577,,ball,12,Bo Bichette flies out to right fielder Dexter Fowler.,0,0,0,1,8,0.85,3.44
 2518,2021-04-07,666182,502043,field_out,hit_into_play,6,"Bo Bichette grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",1,0,0,2,6,0.55,2.3
 2519,2021-04-07,666182,502043,,ball,14,"Bo Bichette grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,0,1,6,1.22,1.21
 2520,2021-04-07,666182,502043,field_out,hit_into_play,4,Bo Bichette grounds out to first baseman Nate Lowe.,3,2,2,6,3,-0.44,2.38
@@ -2586,8 +2586,8 @@
 2584,2021-04-03,666182,642528,,called_strike,7,Bo Bichette strikes out swinging.,3,1,1,5,5,-0.66,1.88
 2585,2021-04-03,666182,642528,,ball,12,Bo Bichette strikes out swinging.,2,1,1,4,5,0.86,4.17
 2586,2021-04-03,666182,642528,,ball,13,Bo Bichette strikes out swinging.,1,1,1,3,5,-0.4,1.33
-2587,2021-04-03,666182,446372,grounded_into_double_play,hit_into_play,3,"Bo Bichette grounds into a double play, third baseman Gio Urshela to second baseman DJ LeMahieu to first baseman Jay Bruce.   Marcus Semien to 3rd.    Cavan Biggio out at 2nd.    Bo Bichette out at 1st.",0,0,0,1,1,0.74,2.9
-2588,2021-04-03,666182,642528,,foul,4,Bo Bichette strikes out swinging.,1,0,1,2,5,-0.64,2.77
+2587,2021-04-03,666182,642528,,foul,4,Bo Bichette strikes out swinging.,1,0,1,2,5,-0.64,2.77
+2588,2021-04-03,666182,446372,grounded_into_double_play,hit_into_play,3,"Bo Bichette grounds into a double play, third baseman Gio Urshela to second baseman DJ LeMahieu to first baseman Jay Bruce.   Marcus Semien to 3rd.    Cavan Biggio out at 2nd.    Bo Bichette out at 1st.",0,0,0,1,1,0.74,2.9
 2589,2021-04-03,666182,642528,,ball,14,Bo Bichette strikes out swinging.,0,0,1,1,5,0.85,1.09
 2590,2021-04-03,666182,503285,single,hit_into_play,14,Bo Bichette singles on a pop up to first baseman DJ LeMahieu.,0,1,0,2,8,1.11,1.32
 2591,2021-04-03,666182,503285,,swinging_strike,5,Bo Bichette singles on a pop up to first baseman DJ LeMahieu.,0,0,0,1,8,0.22,2.23
@@ -2605,6 +2605,6 @@
 2603,2021-04-01,666182,543037,,ball,14,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to first baseman Jay Bruce.",2,2,2,5,1,1.98,0.54
 2604,2021-04-01,666182,543037,,ball,11,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to first baseman Jay Bruce.",1,2,2,4,1,-1.17,3.96
 2605,2021-04-01,666182,543037,,ball,14,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to first baseman Jay Bruce.",0,2,2,3,1,1.87,0.92
-2606,2021-04-01,666182,543037,,called_strike,14,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to first baseman Jay Bruce.",0,1,2,2,1,0.91,2.59
-2607,2021-04-01,666182,642528,field_out,hit_into_play,8,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to pitcher Jonathan Loaisiga.",0,0,2,1,8,-0.1,1.89
+2606,2021-04-01,666182,642528,field_out,hit_into_play,8,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to pitcher Jonathan Loaisiga.",0,0,2,1,8,-0.1,1.89
+2607,2021-04-01,666182,543037,,called_strike,14,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to first baseman Jay Bruce.",0,1,2,2,1,0.91,2.59
 2608,2021-04-01,666182,543037,,called_strike,2,"Bo Bichette grounds out sharply, second baseman DJ LeMahieu to first baseman Jay Bruce.",0,0,2,1,1,-0.02,3.02

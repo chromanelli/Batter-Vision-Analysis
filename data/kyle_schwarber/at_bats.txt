@@ -9,5 +9,6 @@ VISION REPORT: kyle_schwarber (2021-04-01 thru 2021-10-04)
      kyle_schwarber saw 941 strikes and 1045 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4401
+VISION SCORE METRIC B (VSA - SO%): 0.1704
 Average PA Length: 4.1975 (1977/471)
 Batting Avg: 0.266

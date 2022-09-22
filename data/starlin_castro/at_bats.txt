@@ -9,5 +9,6 @@ VISION REPORT: starlin_castro (2021-04-01 thru 2021-10-04)
      starlin_castro saw 660 strikes and 632 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3591
+VISION SCORE METRIC B (VSA - SO%): 0.1799
 Average PA Length: 3.7168 (1286/346)
 Batting Avg: 0.283

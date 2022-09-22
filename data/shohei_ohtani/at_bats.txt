@@ -9,5 +9,6 @@ VISION REPORT: shohei_ohtani (2021-04-01 thru 2021-10-04)
      shohei_ohtani saw 1125 strikes and 1469 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4348
+VISION SCORE METRIC B (VSA - SO%): 0.1391
 Average PA Length: 4.0235 (2571/639)
 Batting Avg: 0.257

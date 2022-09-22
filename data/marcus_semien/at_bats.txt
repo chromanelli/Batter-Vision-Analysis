@@ -9,5 +9,6 @@ VISION REPORT: marcus_semien (2021-04-01 thru 2021-10-04)
      marcus_semien saw 1440 strikes and 1483 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4848
+VISION SCORE METRIC B (VSA - SO%): 0.2831
 Average PA Length: 4.0166 (2908/724)
 Batting Avg: 0.265

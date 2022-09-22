@@ -9,5 +9,6 @@ VISION REPORT: dansby_swanson (2021-04-01 thru 2021-10-04)
      dansby_swanson saw 1282 strikes and 1296 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4686
+VISION SCORE METRIC B (VSA - SO%): 0.2128
 Average PA Length: 3.9265 (2564/653)
 Batting Avg: 0.248

@@ -9,5 +9,6 @@ VISION REPORT: joey_votto (2021-04-01 thru 2021-10-04)
      joey_votto saw 1068 strikes and 1164 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4651
+VISION SCORE METRIC B (VSA - SO%): 0.2268
 Average PA Length: 4.1820 (2229/533)
 Batting Avg: 0.266

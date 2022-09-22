@@ -9,5 +9,6 @@ VISION REPORT: max_muncy (2021-04-01 thru 2021-10-04)
      max_muncy saw 1195 strikes and 1239 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4478
+VISION SCORE METRIC B (VSA - SO%): 0.2451
 Average PA Length: 4.0794 (2415/592)
 Batting Avg: 0.250

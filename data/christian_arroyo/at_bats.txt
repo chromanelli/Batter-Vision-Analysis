@@ -9,5 +9,6 @@ VISION REPORT: christian_arroyo (2021-04-01 thru 2021-10-04)
      christian_arroyo saw 327 strikes and 369 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3966
+VISION SCORE METRIC B (VSA - SO%): 0.1535
 Average PA Length: 3.7845 (685/181)
 Batting Avg: 0.262

@@ -9,5 +9,6 @@ VISION REPORT: yordan_alvarez (2021-04-01 thru 2021-10-04)
      yordan_alvarez saw 1128 strikes and 1269 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3784
+VISION SCORE METRIC B (VSA - SO%): 0.1359
 Average PA Length: 3.9833 (2382/598)
 Batting Avg: 0.278

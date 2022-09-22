@@ -21,10 +21,10 @@
 19,2021-10-01,669256,669212,,ball,11,Nick Solak singles on a ground ball to center fielder Myles Straw.   Andy Ibanez scores.,0,1,1,2,2,-1.0,3.26
 20,2021-10-01,669256,669212,,called_strike,9,Nick Solak singles on a ground ball to center fielder Myles Straw.   Andy Ibanez scores.,0,0,1,1,2,0.71,1.68
 21,2021-10-01,669256,453284,single,hit_into_play,7,Nick Solak singles on a fly ball to left fielder Oscar Mercado.,0,2,1,3,9,-0.6,1.67
-22,2021-10-01,669256,675916,strikeout,foul_tip,6,Nick Solak strikes out on a foul tip.,3,2,0,6,7,0.64,2.52
-23,2021-10-01,669256,453284,,foul,12,Nick Solak singles on a fly ball to left fielder Oscar Mercado.,0,1,1,2,9,0.85,2.94
-24,2021-10-01,669256,453284,,called_strike,5,Nick Solak singles on a fly ball to left fielder Oscar Mercado.,0,0,1,1,9,-0.01,2.2
-25,2021-10-01,669256,675916,,swinging_strike,4,Nick Solak strikes out on a foul tip.,3,1,0,5,7,-0.32,2.24
+22,2021-10-01,669256,453284,,foul,12,Nick Solak singles on a fly ball to left fielder Oscar Mercado.,0,1,1,2,9,0.85,2.94
+23,2021-10-01,669256,675916,strikeout,foul_tip,6,Nick Solak strikes out on a foul tip.,3,2,0,6,7,0.64,2.52
+24,2021-10-01,669256,675916,,swinging_strike,4,Nick Solak strikes out on a foul tip.,3,1,0,5,7,-0.32,2.24
+25,2021-10-01,669256,453284,,called_strike,5,Nick Solak singles on a fly ball to left fielder Oscar Mercado.,0,0,1,1,9,-0.01,2.2
 26,2021-10-01,669256,675916,,called_strike,5,Nick Solak strikes out on a foul tip.,3,0,0,4,7,-0.18,2.22
 27,2021-10-01,669256,675916,,ball,14,Nick Solak strikes out on a foul tip.,2,0,0,3,7,0.37,1.12
 28,2021-10-01,669256,675916,,ball,11,Nick Solak strikes out on a foul tip.,1,0,0,2,7,-0.31,3.88
@@ -44,8 +44,8 @@
 42,2021-09-30,669256,623474,,ball,14,Nick Solak walks.,0,0,1,1,8,0.67,1.16
 43,2021-09-28,669256,676050,force_out,hit_into_play,4,"Nick Solak grounds into a force out, third baseman Jack Mayfield to second baseman David Fletcher.   Nathaniel Lowe out at 2nd.",0,2,2,3,1,-0.77,2.44
 44,2021-09-28,669256,676050,,foul,1,"Nick Solak grounds into a force out, third baseman Jack Mayfield to second baseman David Fletcher.   Nathaniel Lowe out at 2nd.",0,1,2,2,1,-0.63,2.91
-45,2021-09-28,669256,623474,field_out,hit_into_play,2,"Nick Solak grounds out, second baseman David Fletcher to first baseman Jared Walsh.",2,2,2,5,7,0.21,3.43
-46,2021-09-28,669256,676050,,called_strike,6,"Nick Solak grounds into a force out, third baseman Jack Mayfield to second baseman David Fletcher.   Nathaniel Lowe out at 2nd.",0,0,2,1,1,0.4,2.1
+45,2021-09-28,669256,676050,,called_strike,6,"Nick Solak grounds into a force out, third baseman Jack Mayfield to second baseman David Fletcher.   Nathaniel Lowe out at 2nd.",0,0,2,1,1,0.4,2.1
+46,2021-09-28,669256,623474,field_out,hit_into_play,2,"Nick Solak grounds out, second baseman David Fletcher to first baseman Jared Walsh.",2,2,2,5,7,0.21,3.43
 47,2021-09-28,669256,623474,,swinging_strike,14,"Nick Solak grounds out, second baseman David Fletcher to first baseman Jared Walsh.",2,1,2,4,7,1.07,1.67
 48,2021-09-28,669256,623474,,ball,12,"Nick Solak grounds out, second baseman David Fletcher to first baseman Jared Walsh.",1,1,2,3,7,1.56,2.61
 49,2021-09-28,669256,623474,,ball,14,"Nick Solak grounds out, second baseman David Fletcher to first baseman Jared Walsh.",0,1,2,2,7,1.04,1.01
@@ -61,10 +61,10 @@
 59,2021-09-28,669256,661383,,called_strike,1,Nick Solak singles on a ground ball to shortstop Luis Rengifo.,1,0,0,2,3,-0.72,3.23
 60,2021-09-28,669256,661383,,ball,14,Nick Solak singles on a ground ball to shortstop Luis Rengifo.,0,0,0,1,3,1.44,2.22
 61,2021-09-25,669256,595939,field_out,hit_into_play,11,Nick Solak lines out to shortstop Pat Valaika.,2,2,0,5,2,-0.92,3.14
-62,2021-09-25,669256,607216,field_out,hit_into_play,11,Nick Solak flies out to right fielder Anthony Santander in foul territory.,1,2,0,4,7,-0.18,4.15
-63,2021-09-25,669256,595939,,foul,1,Nick Solak lines out to shortstop Pat Valaika.,2,1,0,4,2,-0.34,2.84
-64,2021-09-25,669256,607216,,foul,14,Nick Solak flies out to right fielder Anthony Santander in foul territory.,1,1,0,3,7,1.04,1.67
-65,2021-09-25,669256,595939,,ball,11,Nick Solak lines out to shortstop Pat Valaika.,1,1,0,3,2,-2.24,3.3
+62,2021-09-25,669256,595939,,foul,1,Nick Solak lines out to shortstop Pat Valaika.,2,1,0,4,2,-0.34,2.84
+63,2021-09-25,669256,607216,field_out,hit_into_play,11,Nick Solak flies out to right fielder Anthony Santander in foul territory.,1,2,0,4,7,-0.18,4.15
+64,2021-09-25,669256,595939,,ball,11,Nick Solak lines out to shortstop Pat Valaika.,1,1,0,3,2,-2.24,3.3
+65,2021-09-25,669256,607216,,foul,14,Nick Solak flies out to right fielder Anthony Santander in foul territory.,1,1,0,3,7,1.04,1.67
 66,2021-09-25,669256,595939,,ball,11,Nick Solak lines out to shortstop Pat Valaika.,0,1,0,2,2,-1.25,3.63
 67,2021-09-25,669256,607216,,ball,14,Nick Solak flies out to right fielder Anthony Santander in foul territory.,0,1,0,2,7,0.92,1.27
 68,2021-09-25,669256,595939,,called_strike,7,Nick Solak lines out to shortstop Pat Valaika.,0,0,0,1,2,-0.5,1.81
@@ -87,15 +87,15 @@
 85,2021-09-24,669256,622253,single,hit_into_play,5,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",3,2,1,6,6,-0.25,2.22
 86,2021-09-24,669256,622253,,ball,14,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",2,2,1,5,6,0.79,0.94
 87,2021-09-24,669256,622253,,swinging_strike,8,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",2,1,1,4,6,0.24,1.76
-88,2021-09-24,669256,621098,force_out,hit_into_play,5,"Nick Solak grounds into a force out, shortstop Richie Martin to second baseman Pat Valaika.   Andy Ibanez scores.    Adolis Garcia to 3rd.    Nathaniel Lowe out at 2nd.    Nick Solak to 1st.",1,2,1,4,9,-0.14,2.69
+88,2021-09-24,669256,642121,double,hit_into_play,13,Nick Solak doubles (18) on a ground ball to left fielder Austin Hays.,1,2,2,4,8,-1.04,1.62
 89,2021-09-24,669256,622253,,called_strike,1,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",2,0,1,3,6,-0.46,2.84
-90,2021-09-24,669256,642121,double,hit_into_play,13,Nick Solak doubles (18) on a ground ball to left fielder Austin Hays.,1,2,2,4,8,-1.04,1.62
-91,2021-09-24,669256,642121,,foul,6,Nick Solak doubles (18) on a ground ball to left fielder Austin Hays.,1,1,2,3,8,0.4,2.54
-92,2021-09-24,669256,622253,,ball,14,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",1,0,1,2,6,0.92,1.78
-93,2021-09-24,669256,621098,,swinging_strike,14,"Nick Solak grounds into a force out, shortstop Richie Martin to second baseman Pat Valaika.   Andy Ibanez scores.    Adolis Garcia to 3rd.    Nathaniel Lowe out at 2nd.    Nick Solak to 1st.",1,1,1,3,9,0.96,2.32
-94,2021-09-24,669256,621098,,ball,13,"Nick Solak grounds into a force out, shortstop Richie Martin to second baseman Pat Valaika.   Andy Ibanez scores.    Adolis Garcia to 3rd.    Nathaniel Lowe out at 2nd.    Nick Solak to 1st.",0,1,1,2,9,-1.38,2.26
+90,2021-09-24,669256,621098,force_out,hit_into_play,5,"Nick Solak grounds into a force out, shortstop Richie Martin to second baseman Pat Valaika.   Andy Ibanez scores.    Adolis Garcia to 3rd.    Nathaniel Lowe out at 2nd.    Nick Solak to 1st.",1,2,1,4,9,-0.14,2.69
+91,2021-09-24,669256,622253,,ball,14,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",1,0,1,2,6,0.92,1.78
+92,2021-09-24,669256,621098,,swinging_strike,14,"Nick Solak grounds into a force out, shortstop Richie Martin to second baseman Pat Valaika.   Andy Ibanez scores.    Adolis Garcia to 3rd.    Nathaniel Lowe out at 2nd.    Nick Solak to 1st.",1,1,1,3,9,0.96,2.32
+93,2021-09-24,669256,642121,,foul,6,Nick Solak doubles (18) on a ground ball to left fielder Austin Hays.,1,1,2,3,8,0.4,2.54
+94,2021-09-24,669256,622253,,ball,11,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",0,0,1,1,6,-1.48,2.78
 95,2021-09-24,669256,642121,,called_strike,2,Nick Solak doubles (18) on a ground ball to left fielder Austin Hays.,1,0,2,2,8,0.24,2.93
-96,2021-09-24,669256,622253,,ball,11,"Nick Solak singles on a ground ball to right fielder Ryan McKenna, deflected by second baseman Pat Valaika.   Nathaniel Lowe to 2nd.",0,0,1,1,6,-1.48,2.78
+96,2021-09-24,669256,621098,,ball,13,"Nick Solak grounds into a force out, shortstop Richie Martin to second baseman Pat Valaika.   Andy Ibanez scores.    Adolis Garcia to 3rd.    Nathaniel Lowe out at 2nd.    Nick Solak to 1st.",0,1,1,2,9,-1.38,2.26
 97,2021-09-24,669256,642121,,ball,12,Nick Solak doubles (18) on a ground ball to left fielder Austin Hays.,0,0,2,1,8,1.15,2.9
 98,2021-09-24,669256,621098,,called_strike,12,"Nick Solak grounds into a force out, shortstop Richie Martin to second baseman Pat Valaika.   Andy Ibanez scores.    Adolis Garcia to 3rd.    Nathaniel Lowe out at 2nd.    Nick Solak to 1st.",0,0,1,1,9,0.02,3.52
 99,2021-09-23,669256,675912,field_out,hit_into_play,5,Nick Solak lines out to center fielder Cedric Mullins.,1,0,1,2,4,-0.22,2.2
@@ -239,8 +239,8 @@
 237,2021-09-14,669256,425844,field_out,hit_into_play,9,"Nick Solak grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,0,2,1,3,0.51,1.53
 238,2021-09-14,669256,425844,strikeout,called_strike,4,Nick Solak called out on strikes.,0,2,2,3,1,-0.74,2.29
 239,2021-09-14,669256,425844,,called_strike,6,Nick Solak called out on strikes.,0,1,2,2,1,0.78,2.11
-240,2021-09-14,669256,425844,,called_strike,6,Nick Solak called out on strikes.,0,0,2,1,1,0.55,2.41
-241,2021-09-14,669256,642130,field_out,hit_into_play,7,Nick Solak pops out to second baseman Jose Altuve on the infield fly rule.,2,2,1,5,7,-0.8,1.99
+240,2021-09-14,669256,642130,field_out,hit_into_play,7,Nick Solak pops out to second baseman Jose Altuve on the infield fly rule.,2,2,1,5,7,-0.8,1.99
+241,2021-09-14,669256,425844,,called_strike,6,Nick Solak called out on strikes.,0,0,2,1,1,0.55,2.41
 242,2021-09-14,669256,642130,,ball,11,Nick Solak pops out to second baseman Jose Altuve on the infield fly rule.,1,2,1,4,7,-0.54,4.31
 243,2021-09-14,669256,642130,,foul,1,Nick Solak pops out to second baseman Jose Altuve on the infield fly rule.,1,1,1,3,7,-0.46,3.41
 244,2021-09-14,669256,642130,,foul,11,Nick Solak pops out to second baseman Jose Altuve on the infield fly rule.,1,0,1,2,7,-1.14,2.85
@@ -303,8 +303,8 @@
 301,2021-09-10,669256,621112,field_out,hit_into_play,14,"Nick Solak grounds out, third baseman Matt Chapman to first baseman Matt Olson.",1,2,0,4,2,0.37,0.89
 302,2021-09-10,669256,621112,,foul,9,"Nick Solak grounds out, third baseman Matt Chapman to first baseman Matt Olson.",1,1,0,3,2,0.46,1.46
 303,2021-09-10,669256,518617,field_out,hit_into_play,3,Nick Solak flies out to center fielder Starling Marte.,3,2,2,6,8,0.4,3.29
-304,2021-09-10,669256,518617,,ball,12,Nick Solak flies out to center fielder Starling Marte.,2,2,2,5,8,1.09,2.94
-305,2021-09-10,669256,621112,,called_strike,14,"Nick Solak grounds out, third baseman Matt Chapman to first baseman Matt Olson.",1,0,0,2,2,0.35,1.3
+304,2021-09-10,669256,621112,,called_strike,14,"Nick Solak grounds out, third baseman Matt Chapman to first baseman Matt Olson.",1,0,0,2,2,0.35,1.3
+305,2021-09-10,669256,518617,,ball,12,Nick Solak flies out to center fielder Starling Marte.,2,2,2,5,8,1.09,2.94
 306,2021-09-10,669256,518617,,called_strike,1,Nick Solak flies out to center fielder Starling Marte.,2,1,2,4,8,-0.36,2.95
 307,2021-09-10,669256,621112,,ball,11,"Nick Solak grounds out, third baseman Matt Chapman to first baseman Matt Olson.",0,0,0,1,2,-1.25,2.47
 308,2021-09-10,669256,518617,,ball,11,Nick Solak flies out to center fielder Starling Marte.,1,1,2,3,8,-0.92,3.94
@@ -320,12 +320,12 @@
 318,2021-09-08,669256,607188,single,hit_into_play,14,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,16,6,1.56,1.78
 319,2021-09-08,669256,596133,,foul,5,Nick Solak strikes out swinging.,2,1,2,4,2,0.09,2.3
 320,2021-09-08,669256,607188,,foul,4,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,15,6,-0.36,2.3
-321,2021-09-08,669256,607188,,foul,2,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,14,6,-0.16,2.86
-322,2021-09-08,669256,596133,,ball,13,Nick Solak strikes out swinging.,1,1,2,3,2,-1.35,0.72
+321,2021-09-08,669256,596133,,ball,13,Nick Solak strikes out swinging.,1,1,2,3,2,-1.35,0.72
+322,2021-09-08,669256,607188,,foul,2,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,14,6,-0.16,2.86
 323,2021-09-08,669256,596133,,ball,11,Nick Solak strikes out swinging.,0,1,2,2,2,-1.06,2.59
 324,2021-09-08,669256,607188,,foul,12,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,13,6,0.71,3.54
-325,2021-09-08,669256,596133,,called_strike,12,Nick Solak strikes out swinging.,0,0,2,1,2,0.9,2.7
-326,2021-09-08,669256,607188,,foul,8,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,12,6,-0.19,2.04
+325,2021-09-08,669256,607188,,foul,8,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,12,6,-0.19,2.04
+326,2021-09-08,669256,596133,,called_strike,12,Nick Solak strikes out swinging.,0,0,2,1,2,0.9,2.7
 327,2021-09-08,669256,607188,,foul,4,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,3,2,1,11,6,-0.41,2.66
 328,2021-09-08,669256,607188,,ball,14,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,2,2,1,10,6,1.65,1.38
 329,2021-09-08,669256,607188,,foul,4,Nick Solak singles on a ground ball to third baseman Josh VanMeter.   Nathaniel Lowe to 2nd.,2,2,1,9,6,-0.83,2.66
@@ -375,8 +375,8 @@
 373,2021-09-06,669256,642545,,ball,11,Nick Solak lines out to center fielder Brandon Marsh.,0,0,0,1,4,-1.13,2.51
 374,2021-09-06,669256,681806,field_out,hit_into_play,5,Nick Solak lines out to center fielder Brandon Marsh.,2,2,0,7,9,0.19,2.62
 375,2021-09-06,669256,681806,,ball,11,Nick Solak lines out to center fielder Brandon Marsh.,1,2,0,6,9,-0.46,4.14
-376,2021-09-06,669256,642545,grounded_into_double_play,hit_into_play,5,"Nick Solak grounds into a double play, shortstop Luis Rengifo to second baseman David Fletcher to first baseman Jared Walsh.   Nathaniel Lowe out at 2nd.    Nick Solak out at 1st.",0,1,1,2,1,-0.24,2.76
-377,2021-09-06,669256,681806,,foul,1,Nick Solak lines out to center fielder Brandon Marsh.,1,2,0,5,9,-0.53,2.89
+376,2021-09-06,669256,681806,,foul,1,Nick Solak lines out to center fielder Brandon Marsh.,1,2,0,5,9,-0.53,2.89
+377,2021-09-06,669256,642545,grounded_into_double_play,hit_into_play,5,"Nick Solak grounds into a double play, shortstop Luis Rengifo to second baseman David Fletcher to first baseman Jared Walsh.   Nathaniel Lowe out at 2nd.    Nick Solak out at 1st.",0,1,1,2,1,-0.24,2.76
 378,2021-09-06,669256,681806,,foul,2,Nick Solak lines out to center fielder Brandon Marsh.,1,2,0,4,9,0.0,3.23
 379,2021-09-06,669256,642545,,called_strike,5,"Nick Solak grounds into a double play, shortstop Luis Rengifo to second baseman David Fletcher to first baseman Jared Walsh.   Nathaniel Lowe out at 2nd.    Nick Solak out at 1st.",0,0,1,1,1,-0.26,2.15
 380,2021-09-06,669256,681806,,foul,2,Nick Solak lines out to center fielder Brandon Marsh.,1,1,0,3,9,-0.08,3.17
@@ -391,8 +391,8 @@
 389,2021-09-05,669256,676083,field_out,hit_into_play,9,Nick Solak flies out to second baseman David Fletcher.,1,0,1,2,2,0.54,1.94
 390,2021-09-05,669256,676083,,ball,11,Nick Solak flies out to second baseman David Fletcher.,0,0,1,1,2,-0.69,4.85
 391,2021-09-05,669256,502593,strikeout,swinging_strike,13,Nick Solak strikes out swinging.,1,2,1,4,5,-0.89,0.9
-392,2021-09-05,669256,667725,field_out,hit_into_play,5,"Nick Solak grounds out, second baseman David Fletcher to first baseman Phil Gosselin.",1,2,1,4,7,-0.1,2.55
-393,2021-09-05,669256,502593,,foul,13,Nick Solak strikes out swinging.,1,1,1,3,5,-0.93,1.89
+392,2021-09-05,669256,502593,,foul,13,Nick Solak strikes out swinging.,1,1,1,3,5,-0.93,1.89
+393,2021-09-05,669256,667725,field_out,hit_into_play,5,"Nick Solak grounds out, second baseman David Fletcher to first baseman Phil Gosselin.",1,2,1,4,7,-0.1,2.55
 394,2021-09-05,669256,502593,,ball,14,Nick Solak strikes out swinging.,0,1,1,2,5,0.33,1.49
 395,2021-09-05,669256,667725,,foul,13,"Nick Solak grounds out, second baseman David Fletcher to first baseman Phil Gosselin.",1,1,1,3,7,-0.89,1.69
 396,2021-09-05,669256,667725,,ball,14,"Nick Solak grounds out, second baseman David Fletcher to first baseman Phil Gosselin.",0,1,1,2,7,1.51,1.56
@@ -427,8 +427,8 @@
 425,2021-09-01,669256,596112,,called_strike,11,Nick Solak flies out to right fielder Raimel Tapia.,3,1,2,5,5,-0.58,3.32
 426,2021-09-01,669256,596112,,called_strike,12,Nick Solak flies out to right fielder Raimel Tapia.,3,0,2,4,5,0.14,3.32
 427,2021-09-01,669256,596112,,ball,11,Nick Solak flies out to right fielder Raimel Tapia.,2,0,2,3,5,-0.75,3.57
-428,2021-09-01,669256,596112,,blocked_ball,14,Nick Solak flies out to right fielder Raimel Tapia.,1,0,2,2,5,1.66,1.29
-429,2021-09-01,669256,641386,field_out,hit_into_play,9,Nick Solak pops out to second baseman Brendan Rodgers.,2,1,1,4,3,0.45,2.0
+428,2021-09-01,669256,641386,field_out,hit_into_play,9,Nick Solak pops out to second baseman Brendan Rodgers.,2,1,1,4,3,0.45,2.0
+429,2021-09-01,669256,596112,,blocked_ball,14,Nick Solak flies out to right fielder Raimel Tapia.,1,0,2,2,5,1.66,1.29
 430,2021-09-01,669256,641386,,ball,14,Nick Solak pops out to second baseman Brendan Rodgers.,1,1,1,3,3,1.16,2.22
 431,2021-09-01,669256,596112,,ball,14,Nick Solak flies out to right fielder Raimel Tapia.,0,0,2,1,5,0.44,0.91
 432,2021-09-01,669256,641386,,ball,11,Nick Solak pops out to second baseman Brendan Rodgers.,0,1,1,2,3,-0.77,3.05
@@ -454,12 +454,12 @@
 452,2021-08-31,669256,596295,,ball,13,Nick Solak walks.,0,0,0,1,2,-0.69,1.0
 453,2021-08-31,669256,622075,field_out,hit_into_play,3,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",1,2,1,5,5,0.71,3.12
 454,2021-08-31,669256,622075,,foul,11,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",1,2,1,4,5,-0.16,3.75
-455,2021-08-31,669256,453268,single,hit_into_play,2,Nick Solak singles on a line drive to right fielder Charlie Blackmon.,1,1,0,3,8,-0.26,2.88
-456,2021-08-31,669256,622075,,swinging_strike,4,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",1,1,1,3,5,-0.5,2.64
-457,2021-08-31,669256,622075,,ball,14,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",0,1,1,2,5,2.43,1.12
-458,2021-08-31,669256,453268,,called_strike,2,Nick Solak singles on a line drive to right fielder Charlie Blackmon.,1,0,0,2,8,-0.17,3.46
-459,2021-08-31,669256,453268,,ball,12,Nick Solak singles on a line drive to right fielder Charlie Blackmon.,0,0,0,1,8,3.02,2.59
-460,2021-08-31,669256,622075,,called_strike,8,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",0,0,1,1,5,-0.22,1.75
+455,2021-08-31,669256,622075,,swinging_strike,4,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",1,1,1,3,5,-0.5,2.64
+456,2021-08-31,669256,453268,single,hit_into_play,2,Nick Solak singles on a line drive to right fielder Charlie Blackmon.,1,1,0,3,8,-0.26,2.88
+457,2021-08-31,669256,453268,,called_strike,2,Nick Solak singles on a line drive to right fielder Charlie Blackmon.,1,0,0,2,8,-0.17,3.46
+458,2021-08-31,669256,622075,,ball,14,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",0,1,1,2,5,2.43,1.12
+459,2021-08-31,669256,622075,,called_strike,8,"Nick Solak grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.   Adolis Garcia scores.    Nathaniel Lowe to 2nd.",0,0,1,1,5,-0.22,1.75
+460,2021-08-31,669256,453268,,ball,12,Nick Solak singles on a line drive to right fielder Charlie Blackmon.,0,0,0,1,8,3.02,2.59
 461,2021-08-30,669256,608566,home_run,hit_into_play,3,Nick Solak homers (11) on a fly ball to right center field.    DJ Peters scores.,0,1,2,2,6,0.74,2.84
 462,2021-08-30,669256,608566,,called_strike,5,Nick Solak homers (11) on a fly ball to right center field.    DJ Peters scores.,0,0,2,1,6,-0.23,2.54
 463,2021-08-30,669256,608566,strikeout,swinging_strike_blocked,14,Nick Solak strikes out swinging.,1,2,2,4,4,0.33,0.18
@@ -477,8 +477,8 @@
 475,2021-08-29,669256,425844,,called_strike,8,Nick Solak singles on a sharp line drive to center fielder Jake Meyers.,0,0,2,1,3,0.26,1.8
 476,2021-08-29,669256,425844,field_out,hit_into_play,14,"Nick Solak grounds out, shortstop Aledmys Diaz to first baseman Yuli Gurriel.",3,1,1,5,1,0.58,1.12
 477,2021-08-29,669256,425844,,ball,14,"Nick Solak grounds out, shortstop Aledmys Diaz to first baseman Yuli Gurriel.",2,1,1,4,1,1.16,1.18
-478,2021-08-29,669256,425844,,ball,14,"Nick Solak grounds out, shortstop Aledmys Diaz to first baseman Yuli Gurriel.",1,1,1,3,1,0.72,1.27
-479,2021-08-29,669256,664208,field_out,hit_into_play,9,Nick Solak lines out to center fielder Jake Meyers.,0,1,2,2,7,0.43,1.93
+478,2021-08-29,669256,664208,field_out,hit_into_play,9,Nick Solak lines out to center fielder Jake Meyers.,0,1,2,2,7,0.43,1.93
+479,2021-08-29,669256,425844,,ball,14,"Nick Solak grounds out, shortstop Aledmys Diaz to first baseman Yuli Gurriel.",1,1,1,3,1,0.72,1.27
 480,2021-08-29,669256,425844,,called_strike,9,"Nick Solak grounds out, shortstop Aledmys Diaz to first baseman Yuli Gurriel.",1,0,1,2,1,0.51,1.51
 481,2021-08-29,669256,664208,,called_strike,2,Nick Solak lines out to center fielder Jake Meyers.,0,0,2,1,7,0.2,2.81
 482,2021-08-29,669256,425844,,blocked_ball,14,"Nick Solak grounds out, shortstop Aledmys Diaz to first baseman Yuli Gurriel.",0,0,1,1,1,0.5,0.85
@@ -487,8 +487,8 @@
 485,2021-08-29,669256,642130,single,hit_into_play,1,Nick Solak singles on a line drive to center fielder Jake Meyers.   Nathaniel Lowe scores.,1,1,2,3,5,-0.5,2.97
 486,2021-08-29,669256,642130,,swinging_strike,1,Nick Solak singles on a line drive to center fielder Jake Meyers.   Nathaniel Lowe scores.,1,0,2,2,5,-0.37,3.33
 487,2021-08-29,669256,650556,,ball,11,Nick Solak walks.,1,0,0,2,5,-1.86,4.28
-488,2021-08-29,669256,650556,,ball,12,Nick Solak walks.,0,0,0,1,5,1.78,2.89
-489,2021-08-29,669256,642130,,ball,11,Nick Solak singles on a line drive to center fielder Jake Meyers.   Nathaniel Lowe scores.,0,0,2,1,5,-0.21,4.35
+488,2021-08-29,669256,642130,,ball,11,Nick Solak singles on a line drive to center fielder Jake Meyers.   Nathaniel Lowe scores.,0,0,2,1,5,-0.21,4.35
+489,2021-08-29,669256,650556,,ball,12,Nick Solak walks.,0,0,0,1,5,1.78,2.89
 490,2021-08-28,669256,664285,strikeout,swinging_strike,13,Nick Solak strikes out swinging.,3,2,0,7,7,-0.47,1.18
 491,2021-08-28,669256,664285,,ball,12,Nick Solak strikes out swinging.,2,2,0,6,7,2.0,3.09
 492,2021-08-28,669256,664285,,foul,12,Nick Solak strikes out swinging.,2,2,0,5,7,0.47,3.46
@@ -574,8 +574,8 @@
 572,2021-08-21,669256,527048,fielders_choice,hit_into_play,14,"Nick Solak reaches on a fielder's choice, fielded by third baseman Rafael Devers.   Yohel Pozo to 2nd.  Yohel Pozo advances to 2nd, on a fielding error by third baseman Rafael Devers.",0,1,2,2,8,1.17,2.07
 573,2021-08-21,669256,527048,,foul,9,"Nick Solak reaches on a fielder's choice, fielded by third baseman Rafael Devers.   Yohel Pozo to 2nd.  Yohel Pozo advances to 2nd, on a fielding error by third baseman Rafael Devers.",0,0,2,1,8,0.63,2.06
 574,2021-08-21,669256,572070,double,hit_into_play,1,Nick Solak doubles (13) on a fly ball to center fielder Alex Verdugo.,2,0,1,3,5,-0.29,2.84
-575,2021-08-21,669256,572070,,ball,11,Nick Solak doubles (13) on a fly ball to center fielder Alex Verdugo.,1,0,1,2,5,-0.83,4.14
-576,2021-08-21,669256,493603,field_out,hit_into_play,4,"Nick Solak grounds out, second baseman Enrique Hernandez to first baseman Bobby Dalbec.",1,2,0,4,7,-0.53,2.5
+575,2021-08-21,669256,493603,field_out,hit_into_play,4,"Nick Solak grounds out, second baseman Enrique Hernandez to first baseman Bobby Dalbec.",1,2,0,4,7,-0.53,2.5
+576,2021-08-21,669256,572070,,ball,11,Nick Solak doubles (13) on a fly ball to center fielder Alex Verdugo.,1,0,1,2,5,-0.83,4.14
 577,2021-08-21,669256,493603,,ball,14,"Nick Solak grounds out, second baseman Enrique Hernandez to first baseman Bobby Dalbec.",0,2,0,3,7,2.0,1.48
 578,2021-08-21,669256,572070,,ball,11,Nick Solak doubles (13) on a fly ball to center fielder Alex Verdugo.,0,0,1,1,5,-1.13,3.07
 579,2021-08-21,669256,493603,,foul,2,"Nick Solak grounds out, second baseman Enrique Hernandez to first baseman Bobby Dalbec.",0,1,0,2,7,-0.11,3.07
@@ -591,8 +591,8 @@
 589,2021-07-22,669256,571656,,ball,12,Nick Solak walks.   Andy Ibanez to 3rd.    David Dahl to 2nd.,1,2,2,5,6,1.46,2.5
 590,2021-07-22,669256,571656,,foul,7,Nick Solak walks.   Andy Ibanez to 3rd.    David Dahl to 2nd.,1,2,2,4,6,-0.59,1.99
 591,2021-07-22,669256,541640,field_out,hit_into_play,7,Nick Solak flies out to center fielder Akil Baddoo.,0,1,0,2,5,-0.72,1.88
-592,2021-07-22,669256,541640,,called_strike,11,Nick Solak flies out to center fielder Akil Baddoo.,0,0,0,1,5,-0.17,3.24
-593,2021-07-22,669256,571656,,foul,5,Nick Solak walks.   Andy Ibanez to 3rd.    David Dahl to 2nd.,1,1,2,3,6,-0.11,2.41
+592,2021-07-22,669256,571656,,foul,5,Nick Solak walks.   Andy Ibanez to 3rd.    David Dahl to 2nd.,1,1,2,3,6,-0.11,2.41
+593,2021-07-22,669256,541640,,called_strike,11,Nick Solak flies out to center fielder Akil Baddoo.,0,0,0,1,5,-0.17,3.24
 594,2021-07-22,669256,571656,,called_strike,12,Nick Solak walks.   Andy Ibanez to 3rd.    David Dahl to 2nd.,1,0,2,2,6,0.99,2.57
 595,2021-07-22,669256,571656,,ball,12,Nick Solak walks.   Andy Ibanez to 3rd.    David Dahl to 2nd.,0,0,2,1,6,1.13,2.19
 596,2021-07-21,669256,666159,field_out,hit_into_play,5,Nick Solak flies out to right fielder Robbie Grossman.,2,2,1,5,5,0.21,2.73
@@ -703,10 +703,10 @@
 701,2021-07-06,669256,570632,,ball,11,"Nick Solak grounds out softly, second baseman Willi Castro to first baseman Jonathan Schoop.",0,1,2,2,2,-1.73,2.92
 702,2021-07-06,669256,570632,,called_strike,4,"Nick Solak grounds out softly, second baseman Willi Castro to first baseman Jonathan Schoop.",0,0,2,1,2,-0.39,2.16
 703,2021-07-06,669256,641729,field_out,hit_into_play,1,Nick Solak pops out to first baseman Jonathan Schoop in foul territory.,0,2,2,3,7,-0.44,2.87
-704,2021-07-06,669256,571656,field_out,hit_into_play,8,"Nick Solak grounds out, third baseman Jeimer Candelario to first baseman Jonathan Schoop.",2,2,0,7,6,-0.11,2.01
-705,2021-07-06,669256,641729,,foul,5,Nick Solak pops out to first baseman Jonathan Schoop in foul territory.,0,1,2,2,7,-0.04,2.43
-706,2021-07-06,669256,571656,,foul,8,"Nick Solak grounds out, third baseman Jeimer Candelario to first baseman Jonathan Schoop.",2,2,0,6,6,0.25,1.7
-707,2021-07-06,669256,641729,,swinging_strike,3,Nick Solak pops out to first baseman Jonathan Schoop in foul territory.,0,0,2,1,7,0.44,2.92
+704,2021-07-06,669256,641729,,foul,5,Nick Solak pops out to first baseman Jonathan Schoop in foul territory.,0,1,2,2,7,-0.04,2.43
+705,2021-07-06,669256,571656,field_out,hit_into_play,8,"Nick Solak grounds out, third baseman Jeimer Candelario to first baseman Jonathan Schoop.",2,2,0,7,6,-0.11,2.01
+706,2021-07-06,669256,641729,,swinging_strike,3,Nick Solak pops out to first baseman Jonathan Schoop in foul territory.,0,0,2,1,7,0.44,2.92
+707,2021-07-06,669256,571656,,foul,8,"Nick Solak grounds out, third baseman Jeimer Candelario to first baseman Jonathan Schoop.",2,2,0,6,6,0.25,1.7
 708,2021-07-06,669256,571656,,ball,14,"Nick Solak grounds out, third baseman Jeimer Candelario to first baseman Jonathan Schoop.",1,2,0,5,6,1.45,0.8
 709,2021-07-06,669256,571656,,foul,11,"Nick Solak grounds out, third baseman Jeimer Candelario to first baseman Jonathan Schoop.",1,2,0,4,6,-0.4,3.62
 710,2021-07-06,669256,571656,,called_strike,14,"Nick Solak grounds out, third baseman Jeimer Candelario to first baseman Jonathan Schoop.",1,1,0,3,6,0.86,1.82
@@ -742,14 +742,14 @@
 740,2021-07-03,669256,670990,field_out,hit_into_play,6,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",3,2,2,7,7,0.55,2.59
 741,2021-07-03,669256,606160,strikeout,swinging_strike,13,Nick Solak strikes out swinging.,2,2,0,5,5,-1.06,1.89
 742,2021-07-03,669256,670990,,foul,5,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",3,2,2,6,7,0.09,2.72
-743,2021-07-03,669256,670990,,ball,11,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",2,2,2,5,7,-0.25,3.65
-744,2021-07-03,669256,606160,,ball,12,Nick Solak strikes out swinging.,1,2,0,4,5,1.2,3.17
-745,2021-07-03,669256,606160,,foul,5,Nick Solak strikes out swinging.,1,1,0,3,5,-0.04,2.44
-746,2021-07-03,669256,670990,,called_strike,6,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",2,1,2,4,7,0.76,2.69
+743,2021-07-03,669256,606160,,ball,12,Nick Solak strikes out swinging.,1,2,0,4,5,1.2,3.17
+744,2021-07-03,669256,670990,,ball,11,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",2,2,2,5,7,-0.25,3.65
+745,2021-07-03,669256,670990,,called_strike,6,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",2,1,2,4,7,0.76,2.69
+746,2021-07-03,669256,606160,,foul,5,Nick Solak strikes out swinging.,1,1,0,3,5,-0.04,2.44
 747,2021-07-03,669256,670990,,ball,12,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",1,1,2,3,7,0.86,3.86
 748,2021-07-03,669256,606160,,ball,1,Nick Solak strikes out swinging.,0,1,0,2,5,-0.43,3.28
-749,2021-07-03,669256,606160,,swinging_strike,4,Nick Solak strikes out swinging.,0,0,0,1,5,-0.79,2.69
-750,2021-07-03,669256,670990,,ball,11,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",0,1,2,2,7,-1.52,3.34
+749,2021-07-03,669256,670990,,ball,11,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",0,1,2,2,7,-1.52,3.34
+750,2021-07-03,669256,606160,,swinging_strike,4,Nick Solak strikes out swinging.,0,0,0,1,5,-0.79,2.69
 751,2021-07-03,669256,670990,,swinging_strike,4,"Nick Solak grounds out, second baseman Dylan Moore to first baseman Jake Bauers.",0,0,2,1,7,-0.44,2.49
 752,2021-07-02,669256,669302,force_out,hit_into_play,8,"Nick Solak grounds into a force out, third baseman Ty France to second baseman Shed Long Jr.  Jonah Heim out at 2nd.    Nick Solak to 1st.",0,1,0,2,5,0.16,1.97
 753,2021-07-02,669256,669302,,called_strike,8,"Nick Solak grounds into a force out, third baseman Ty France to second baseman Shed Long Jr.  Jonah Heim out at 2nd.    Nick Solak to 1st.",0,0,0,1,5,0.09,1.93
@@ -777,10 +777,10 @@
 775,2021-07-01,669256,640455,,foul,6,Nick Solak strikes out swinging.,0,1,0,2,4,0.74,2.18
 776,2021-07-01,669256,640455,,swinging_strike,3,Nick Solak strikes out swinging.,0,0,0,1,4,0.45,2.91
 777,2021-07-01,669256,572143,grounded_into_double_play,hit_into_play,2,"Nick Solak grounds into a double play, second baseman Chad Pinder to shortstop Elvis Andrus to first baseman Frank Schwindel.   Nate Lowe out at 2nd.    Nick Solak out at 1st.",2,0,1,3,9,-0.27,3.22
-778,2021-07-01,669256,640455,single,hit_into_play,13,Nick Solak singles on a ground ball to shortstop Elvis Andrus.,2,2,1,6,2,-0.91,2.14
-779,2021-07-01,669256,572143,,ball,11,"Nick Solak grounds into a double play, second baseman Chad Pinder to shortstop Elvis Andrus to first baseman Frank Schwindel.   Nate Lowe out at 2nd.    Nick Solak out at 1st.",1,0,1,2,9,-0.41,3.73
-780,2021-07-01,669256,572143,,ball,11,"Nick Solak grounds into a double play, second baseman Chad Pinder to shortstop Elvis Andrus to first baseman Frank Schwindel.   Nate Lowe out at 2nd.    Nick Solak out at 1st.",0,0,1,1,9,-1.02,3.19
-781,2021-07-01,669256,640455,,foul,8,Nick Solak singles on a ground ball to shortstop Elvis Andrus.,2,2,1,5,2,0.25,1.68
+778,2021-07-01,669256,572143,,ball,11,"Nick Solak grounds into a double play, second baseman Chad Pinder to shortstop Elvis Andrus to first baseman Frank Schwindel.   Nate Lowe out at 2nd.    Nick Solak out at 1st.",1,0,1,2,9,-0.41,3.73
+779,2021-07-01,669256,640455,single,hit_into_play,13,Nick Solak singles on a ground ball to shortstop Elvis Andrus.,2,2,1,6,2,-0.91,2.14
+780,2021-07-01,669256,640455,,foul,8,Nick Solak singles on a ground ball to shortstop Elvis Andrus.,2,2,1,5,2,0.25,1.68
+781,2021-07-01,669256,572143,,ball,11,"Nick Solak grounds into a double play, second baseman Chad Pinder to shortstop Elvis Andrus to first baseman Frank Schwindel.   Nate Lowe out at 2nd.    Nick Solak out at 1st.",0,0,1,1,9,-1.02,3.19
 782,2021-07-01,669256,640455,,ball,11,Nick Solak singles on a ground ball to shortstop Elvis Andrus.,1,2,1,4,2,-0.74,3.68
 783,2021-07-01,669256,640455,,swinging_strike,6,Nick Solak singles on a ground ball to shortstop Elvis Andrus.,1,1,1,3,2,0.64,2.53
 784,2021-07-01,669256,640455,,called_strike,8,Nick Solak singles on a ground ball to shortstop Elvis Andrus.,1,0,1,2,2,-0.01,1.89
@@ -929,8 +929,8 @@
 927,2021-06-18,669256,621244,single,hit_into_play,14,"Nick Solak singles on a ground ball to left fielder Trevor Larnach, deflected by shortstop Jorge Polanco.   Isiah Kiner-Falefa scores.    Joey Gallo to 2nd.",0,2,2,4,1,0.89,1.55
 928,2021-06-18,669256,621244,,foul,14,"Nick Solak singles on a ground ball to left fielder Trevor Larnach, deflected by shortstop Jorge Polanco.   Isiah Kiner-Falefa scores.    Joey Gallo to 2nd.",0,2,2,3,1,1.08,0.75
 929,2021-06-18,669256,621244,,foul_tip,11,"Nick Solak singles on a ground ball to left fielder Trevor Larnach, deflected by shortstop Jorge Polanco.   Isiah Kiner-Falefa scores.    Joey Gallo to 2nd.",0,1,2,2,1,-1.57,3.06
-930,2021-06-18,669256,621244,,called_strike,2,"Nick Solak singles on a ground ball to left fielder Trevor Larnach, deflected by shortstop Jorge Polanco.   Isiah Kiner-Falefa scores.    Joey Gallo to 2nd.",0,0,2,1,1,-0.15,2.4
-931,2021-06-18,669256,660896,strikeout,swinging_strike,2,Nick Solak strikes out swinging.,1,2,2,5,7,0.01,3.32
+930,2021-06-18,669256,660896,strikeout,swinging_strike,2,Nick Solak strikes out swinging.,1,2,2,5,7,0.01,3.32
+931,2021-06-18,669256,621244,,called_strike,2,"Nick Solak singles on a ground ball to left fielder Trevor Larnach, deflected by shortstop Jorge Polanco.   Isiah Kiner-Falefa scores.    Joey Gallo to 2nd.",0,0,2,1,1,-0.15,2.4
 932,2021-06-18,669256,660896,,foul,11,Nick Solak strikes out swinging.,1,2,2,4,7,-1.04,2.85
 933,2021-06-18,669256,660896,,swinging_strike,4,Nick Solak strikes out swinging.,1,1,2,3,7,-0.69,2.5
 934,2021-06-18,669256,660896,,foul,11,Nick Solak strikes out swinging.,1,0,2,2,7,-1.09,2.59
@@ -1003,8 +1003,8 @@
 1001,2021-06-11,669256,477132,,ball,12,Nick Solak strikes out swinging.,0,1,2,2,4,1.05,4.34
 1002,2021-06-11,669256,477132,,called_strike,1,Nick Solak strikes out swinging.,0,0,2,1,4,-0.55,2.72
 1003,2021-06-11,669256,477132,strikeout,swinging_strike_blocked,13,Nick Solak strikes out swinging.,0,2,1,3,2,-1.36,0.16
-1004,2021-06-11,669256,669952,single,hit_into_play,2,Nick Solak singles on a line drive to center fielder Chris Taylor.   Eli White to 3rd.    Joey Gallo to 2nd.,3,2,1,6,8,-0.08,3.21
-1005,2021-06-11,669256,477132,,swinging_strike,13,Nick Solak strikes out swinging.,0,1,1,2,2,-0.81,0.7
+1004,2021-06-11,669256,477132,,swinging_strike,13,Nick Solak strikes out swinging.,0,1,1,2,2,-0.81,0.7
+1005,2021-06-11,669256,669952,single,hit_into_play,2,Nick Solak singles on a line drive to center fielder Chris Taylor.   Eli White to 3rd.    Joey Gallo to 2nd.,3,2,1,6,8,-0.08,3.21
 1006,2021-06-11,669256,669952,,ball,11,Nick Solak singles on a line drive to center fielder Chris Taylor.   Eli White to 3rd.    Joey Gallo to 2nd.,2,2,1,5,8,-1.5,2.68
 1007,2021-06-11,669256,477132,,called_strike,13,Nick Solak strikes out swinging.,0,0,1,1,2,-0.91,1.46
 1008,2021-06-11,669256,669952,,foul,6,Nick Solak singles on a line drive to center fielder Chris Taylor.   Eli White to 3rd.    Joey Gallo to 2nd.,2,1,1,4,8,0.37,2.74
@@ -1165,8 +1165,8 @@
 1163,2021-05-28,669256,641871,double,hit_into_play,14,Nick Solak doubles (9) on a sharp line drive to center fielder Kyle Lewis.,2,1,2,4,8,0.88,2.37
 1164,2021-05-28,669256,641871,,ball,12,Nick Solak doubles (9) on a sharp line drive to center fielder Kyle Lewis.,1,1,2,3,8,1.25,2.95
 1165,2021-05-28,669256,641871,,foul_tip,2,Nick Solak doubles (9) on a sharp line drive to center fielder Kyle Lewis.,1,0,2,2,8,-0.06,3.37
-1166,2021-05-28,669256,641871,,ball,9,Nick Solak doubles (9) on a sharp line drive to center fielder Kyle Lewis.,0,0,2,1,8,0.82,1.43
-1167,2021-05-28,669256,656954,field_out,hit_into_play,5,Nick Solak flies out to left fielder Jarred Kelenic.,2,2,1,6,1,-0.21,2.1
+1166,2021-05-28,669256,656954,field_out,hit_into_play,5,Nick Solak flies out to left fielder Jarred Kelenic.,2,2,1,6,1,-0.21,2.1
+1167,2021-05-28,669256,641871,,ball,9,Nick Solak doubles (9) on a sharp line drive to center fielder Kyle Lewis.,0,0,2,1,8,0.82,1.43
 1168,2021-05-28,669256,656954,,foul,13,Nick Solak flies out to left fielder Jarred Kelenic.,2,2,1,5,1,-1.28,1.96
 1169,2021-05-28,669256,656954,,swinging_strike,13,Nick Solak flies out to left fielder Jarred Kelenic.,2,1,1,4,1,-0.52,1.3
 1170,2021-05-28,669256,656954,,called_strike,8,Nick Solak flies out to left fielder Jarred Kelenic.,2,0,1,3,1,-0.13,1.91
@@ -1198,10 +1198,10 @@
 1196,2021-05-26,669256,656288,,foul,8,Nick Solak strikes out swinging.   Willie Calhoun to 2nd.  Wild pitch by pitcher Griffin Canning.,2,2,0,5,1,0.19,1.99
 1197,2021-05-26,669256,656288,,ball,11,Nick Solak strikes out swinging.   Willie Calhoun to 2nd.  Wild pitch by pitcher Griffin Canning.,1,2,0,4,1,-1.08,4.48
 1198,2021-05-26,669256,656288,,called_strike,14,Nick Solak strikes out swinging.   Willie Calhoun to 2nd.  Wild pitch by pitcher Griffin Canning.,1,1,0,3,1,0.9,1.99
-1199,2021-05-26,669256,656288,,blocked_ball,14,Nick Solak strikes out swinging.   Willie Calhoun to 2nd.  Wild pitch by pitcher Griffin Canning.,0,1,0,2,1,0.37,0.3
-1200,2021-05-26,669256,628452,field_out,hit_into_play,1,"Nick Solak grounds out, second baseman Jose Rojas to first baseman Jared Walsh.",1,2,2,4,8,-0.3,3.33
-1201,2021-05-26,669256,656288,,called_strike,7,Nick Solak strikes out swinging.   Willie Calhoun to 2nd.  Wild pitch by pitcher Griffin Canning.,0,0,0,1,1,-0.63,1.6
-1202,2021-05-26,669256,628452,,ball,6,"Nick Solak grounds out, second baseman Jose Rojas to first baseman Jared Walsh.",0,2,2,3,8,0.76,2.45
+1199,2021-05-26,669256,628452,field_out,hit_into_play,1,"Nick Solak grounds out, second baseman Jose Rojas to first baseman Jared Walsh.",1,2,2,4,8,-0.3,3.33
+1200,2021-05-26,669256,656288,,blocked_ball,14,Nick Solak strikes out swinging.   Willie Calhoun to 2nd.  Wild pitch by pitcher Griffin Canning.,0,1,0,2,1,0.37,0.3
+1201,2021-05-26,669256,628452,,ball,6,"Nick Solak grounds out, second baseman Jose Rojas to first baseman Jared Walsh.",0,2,2,3,8,0.76,2.45
+1202,2021-05-26,669256,656288,,called_strike,7,Nick Solak strikes out swinging.   Willie Calhoun to 2nd.  Wild pitch by pitcher Griffin Canning.,0,0,0,1,1,-0.63,1.6
 1203,2021-05-26,669256,628452,,swinging_strike,14,"Nick Solak grounds out, second baseman Jose Rojas to first baseman Jared Walsh.",0,1,2,2,8,1.02,1.18
 1204,2021-05-26,669256,628452,,foul,1,"Nick Solak grounds out, second baseman Jose Rojas to first baseman Jared Walsh.",0,0,2,1,8,-0.57,3.39
 1205,2021-05-25,669256,571760,field_out,hit_into_play,6,Nick Solak flies out to right fielder Taylor Ward.,2,1,2,4,5,0.44,2.68
@@ -1216,16 +1216,16 @@
 1214,2021-05-25,669256,519326,field_out,hit_into_play,2,Nick Solak lines out to center fielder Juan Lagares.,0,2,2,3,9,-0.2,3.05
 1215,2021-05-25,669256,519326,,swinging_strike,5,Nick Solak lines out to center fielder Juan Lagares.,0,1,2,2,9,-0.12,2.22
 1216,2021-05-25,669256,519326,,called_strike,4,Nick Solak lines out to center fielder Juan Lagares.,0,0,2,1,9,-0.55,2.25
-1217,2021-05-25,669256,642083,strikeout,swinging_strike,11,Nick Solak strikes out swinging.,2,2,2,5,7,-1.09,3.35
-1218,2021-05-25,669256,571760,field_out,hit_into_play,14,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",2,2,1,6,1,0.36,1.0
+1217,2021-05-25,669256,571760,field_out,hit_into_play,14,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",2,2,1,6,1,0.36,1.0
+1218,2021-05-25,669256,642083,strikeout,swinging_strike,11,Nick Solak strikes out swinging.,2,2,2,5,7,-1.09,3.35
 1219,2021-05-25,669256,642083,,ball,11,Nick Solak strikes out swinging.,1,2,2,4,7,-0.94,4.48
 1220,2021-05-25,669256,571760,,foul,12,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",2,2,1,5,1,1.69,3.02
-1221,2021-05-25,669256,571760,,ball,12,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",1,2,1,4,1,0.4,4.41
-1222,2021-05-25,669256,642083,,foul,5,Nick Solak strikes out swinging.,1,1,2,3,7,0.16,2.63
+1221,2021-05-25,669256,642083,,foul,5,Nick Solak strikes out swinging.,1,1,2,3,7,0.16,2.63
+1222,2021-05-25,669256,571760,,ball,12,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",1,2,1,4,1,0.4,4.41
 1223,2021-05-25,669256,571760,,swinging_strike,9,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",1,1,1,3,1,0.77,2.05
 1224,2021-05-25,669256,642083,,ball,14,Nick Solak strikes out swinging.,0,1,2,2,7,1.42,1.38
-1225,2021-05-25,669256,571760,,ball,12,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",0,1,1,2,1,0.68,4.28
-1226,2021-05-25,669256,642083,,called_strike,2,Nick Solak strikes out swinging.,0,0,2,1,7,0.11,3.21
+1225,2021-05-25,669256,642083,,called_strike,2,Nick Solak strikes out swinging.,0,0,2,1,7,0.11,3.21
+1226,2021-05-25,669256,571760,,ball,12,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",0,1,1,2,1,0.68,4.28
 1227,2021-05-25,669256,571760,,called_strike,2,"Nick Solak grounds out, third baseman Anthony Rendon to first baseman Jared Walsh.",0,0,1,1,1,0.15,3.02
 1228,2021-05-23,669256,664299,strikeout,swinging_strike,14,Nick Solak strikes out swinging.,1,2,1,5,5,1.82,1.31
 1229,2021-05-23,669256,664299,,blocked_ball,14,Nick Solak strikes out swinging.,0,2,1,4,5,2.32,0.4
@@ -1237,11 +1237,11 @@
 1235,2021-05-23,669256,664299,,called_strike,2,"Nick Solak grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",1,0,0,2,4,-0.22,2.7
 1236,2021-05-23,669256,664299,,ball,14,"Nick Solak grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,0,0,1,4,1.2,1.86
 1237,2021-05-23,669256,664299,strikeout,swinging_strike,2,Nick Solak strikes out swinging.,1,2,0,5,1,0.07,3.27
-1238,2021-05-23,669256,519151,field_out,hit_into_play,5,"Nick Solak grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",2,2,2,5,9,0.1,2.5
-1239,2021-05-23,669256,664299,,foul,6,Nick Solak strikes out swinging.,1,2,0,4,1,0.43,2.59
-1240,2021-05-23,669256,519151,,ball,11,"Nick Solak grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,2,2,4,9,-0.2,3.98
-1241,2021-05-23,669256,650556,double,hit_into_play,8,Nick Solak doubles (8) on a fly ball to center fielder Myles Straw.   Willie Calhoun scores.,1,1,0,3,7,0.23,2.0
-1242,2021-05-23,669256,664299,,swinging_strike,12,Nick Solak strikes out swinging.,1,1,0,3,1,0.09,3.84
+1238,2021-05-23,669256,664299,,foul,6,Nick Solak strikes out swinging.,1,2,0,4,1,0.43,2.59
+1239,2021-05-23,669256,519151,field_out,hit_into_play,5,"Nick Solak grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",2,2,2,5,9,0.1,2.5
+1240,2021-05-23,669256,650556,double,hit_into_play,8,Nick Solak doubles (8) on a fly ball to center fielder Myles Straw.   Willie Calhoun scores.,1,1,0,3,7,0.23,2.0
+1241,2021-05-23,669256,664299,,swinging_strike,12,Nick Solak strikes out swinging.,1,1,0,3,1,0.09,3.84
+1242,2021-05-23,669256,519151,,ball,11,"Nick Solak grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,2,2,4,9,-0.2,3.98
 1243,2021-05-23,669256,650556,,ball,14,Nick Solak doubles (8) on a fly ball to center fielder Myles Straw.   Willie Calhoun scores.,0,1,0,2,7,1.45,1.34
 1244,2021-05-23,669256,519151,,swinging_strike,8,"Nick Solak grounds out sharply, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,1,2,3,9,0.17,1.96
 1245,2021-05-23,669256,664299,,ball,12,Nick Solak strikes out swinging.,0,1,0,2,1,1.01,3.55
@@ -1262,8 +1262,8 @@
 1260,2021-05-22,669256,621121,walk,ball,11,Nick Solak walks.   Willie Calhoun to 2nd.,3,1,0,5,1,-0.75,3.77
 1261,2021-05-22,669256,621121,,called_strike,11,Nick Solak walks.   Willie Calhoun to 2nd.,3,0,0,4,1,-0.71,3.41
 1262,2021-05-22,669256,621121,,ball,11,Nick Solak walks.   Willie Calhoun to 2nd.,2,0,0,3,1,-1.49,5.22
-1263,2021-05-22,669256,656232,hit_by_pitch,hit_by_pitch,11,Nick Solak hit by pitch.,2,0,2,3,6,-1.65,3.81
-1264,2021-05-22,669256,621121,,ball,11,Nick Solak walks.   Willie Calhoun to 2nd.,1,0,0,2,1,-1.19,3.78
+1263,2021-05-22,669256,621121,,ball,11,Nick Solak walks.   Willie Calhoun to 2nd.,1,0,0,2,1,-1.19,3.78
+1264,2021-05-22,669256,656232,hit_by_pitch,hit_by_pitch,11,Nick Solak hit by pitch.,2,0,2,3,6,-1.65,3.81
 1265,2021-05-22,669256,656232,,ball,11,Nick Solak hit by pitch.,1,0,2,2,6,-1.61,2.93
 1266,2021-05-22,669256,621121,,ball,12,Nick Solak walks.   Willie Calhoun to 2nd.,0,0,0,1,1,0.39,3.44
 1267,2021-05-22,669256,656232,,ball,14,Nick Solak hit by pitch.,0,0,2,1,6,1.88,-0.42
@@ -1279,8 +1279,8 @@
 1277,2021-05-21,669256,656232,,called_strike,6,Nick Solak strikes out swinging.,0,0,1,1,7,0.31,2.39
 1278,2021-05-21,669256,663959,field_out,hit_into_play,2,Nick Solak flies out to right fielder Kyle Tucker.,1,2,1,4,1,0.08,2.85
 1279,2021-05-21,669256,663959,,foul,6,Nick Solak flies out to right fielder Kyle Tucker.,1,1,1,3,1,0.68,2.54
-1280,2021-05-21,669256,663959,,ball,12,Nick Solak flies out to right fielder Kyle Tucker.,0,1,1,2,1,1.24,3.33
-1281,2021-05-21,669256,650556,field_out,hit_into_play,1,Nick Solak flies out to center fielder Myles Straw.   Willie Calhoun to 3rd.,2,1,0,4,10,-0.55,3.11
+1280,2021-05-21,669256,650556,field_out,hit_into_play,1,Nick Solak flies out to center fielder Myles Straw.   Willie Calhoun to 3rd.,2,1,0,4,10,-0.55,3.11
+1281,2021-05-21,669256,663959,,ball,12,Nick Solak flies out to right fielder Kyle Tucker.,0,1,1,2,1,1.24,3.33
 1282,2021-05-21,669256,650556,,ball,12,Nick Solak flies out to center fielder Myles Straw.   Willie Calhoun to 3rd.,1,1,0,3,10,1.48,2.99
 1283,2021-05-21,669256,663959,,called_strike,3,Nick Solak flies out to right fielder Kyle Tucker.,0,0,1,1,1,0.59,2.71
 1284,2021-05-21,669256,650556,,ball,14,Nick Solak flies out to center fielder Myles Straw.   Willie Calhoun to 3rd.,0,1,0,2,10,0.92,1.68
@@ -1376,8 +1376,8 @@
 1374,2021-05-15,669256,519151,,called_strike,14,Nick Solak flies out to right fielder Kyle Tucker in foul territory.,0,1,1,2,9,0.92,2.28
 1375,2021-05-15,669256,519151,,foul_tip,3,Nick Solak flies out to right fielder Kyle Tucker in foul territory.,0,0,1,1,9,0.38,2.79
 1376,2021-05-15,669256,677651,triple,hit_into_play,4,Nick Solak triples (1) on a fly ball to left fielder Aledmys Diaz.,1,1,1,3,1,-0.76,2.41
-1377,2021-05-15,669256,677651,,called_strike,1,Nick Solak triples (1) on a fly ball to left fielder Aledmys Diaz.,1,0,1,2,1,-0.49,2.77
-1378,2021-05-15,669256,592773,single,hit_into_play,13,Nick Solak singles on a sharp line drive to left fielder Aledmys Diaz.,1,2,0,5,8,-0.84,2.21
+1377,2021-05-15,669256,592773,single,hit_into_play,13,Nick Solak singles on a sharp line drive to left fielder Aledmys Diaz.,1,2,0,5,8,-0.84,2.21
+1378,2021-05-15,669256,677651,,called_strike,1,Nick Solak triples (1) on a fly ball to left fielder Aledmys Diaz.,1,0,1,2,1,-0.49,2.77
 1379,2021-05-15,669256,592773,,ball,12,Nick Solak singles on a sharp line drive to left fielder Aledmys Diaz.,0,2,0,4,8,0.99,3.38
 1380,2021-05-15,669256,677651,,ball,12,Nick Solak triples (1) on a fly ball to left fielder Aledmys Diaz.,0,0,1,1,1,0.3,4.24
 1381,2021-05-15,669256,592773,,foul,13,Nick Solak singles on a sharp line drive to left fielder Aledmys Diaz.,0,2,0,3,8,-0.89,2.06
@@ -1417,8 +1417,8 @@
 1415,2021-05-13,669256,592773,strikeout,swinging_strike,11,Nick Solak strikes out swinging.,0,2,0,3,8,-0.8,3.48
 1416,2021-05-13,669256,592773,,foul,11,Nick Solak strikes out swinging.,0,1,0,2,8,-0.98,2.47
 1417,2021-05-13,669256,664299,strikeout,swinging_strike,3,Nick Solak strikes out swinging.,2,2,0,5,1,0.44,3.16
-1418,2021-05-13,669256,664299,,ball,12,Nick Solak strikes out swinging.,1,2,0,4,1,1.12,3.17
-1419,2021-05-13,669256,592773,,called_strike,3,Nick Solak strikes out swinging.,0,0,0,1,8,0.4,2.61
+1418,2021-05-13,669256,592773,,called_strike,3,Nick Solak strikes out swinging.,0,0,0,1,8,0.4,2.61
+1419,2021-05-13,669256,664299,,ball,12,Nick Solak strikes out swinging.,1,2,0,4,1,1.12,3.17
 1420,2021-05-13,669256,664299,,swinging_strike,12,Nick Solak strikes out swinging.,1,1,0,3,1,1.16,2.69
 1421,2021-05-13,669256,664299,,called_strike,4,Nick Solak strikes out swinging.,1,0,0,2,1,-0.76,2.33
 1422,2021-05-13,669256,664299,,ball,12,Nick Solak strikes out swinging.,0,0,0,1,1,0.99,3.46
@@ -1478,23 +1478,23 @@
 1476,2021-05-08,669256,608716,,foul,4,Nick Solak flies out to center fielder Kyle Lewis.,1,0,1,2,7,-0.56,2.5
 1477,2021-05-08,669256,676684,field_out,hit_into_play,4,Nick Solak pops out to first baseman Evan White in foul territory.,3,1,2,5,5,-0.66,2.62
 1478,2021-05-08,669256,667465,,foul,7,Nick Solak strikes out swinging.,1,2,1,5,8,-0.75,1.92
-1479,2021-05-08,669256,608716,,blocked_ball,14,Nick Solak flies out to center fielder Kyle Lewis.,0,0,1,1,7,0.26,0.71
-1480,2021-05-08,669256,676684,,called_strike,2,Nick Solak pops out to first baseman Evan White in foul territory.,3,0,2,4,5,0.16,2.58
-1481,2021-05-08,669256,664714,strikeout,swinging_strike,13,Nick Solak strikes out swinging.,2,2,0,7,4,-0.96,2.24
-1482,2021-05-08,669256,667465,,foul,7,Nick Solak strikes out swinging.,1,2,1,4,8,-0.4,2.01
-1483,2021-05-08,669256,664714,,foul,7,Nick Solak strikes out swinging.,2,2,0,6,4,-0.73,2.0
-1484,2021-05-08,669256,667465,,ball,12,Nick Solak strikes out swinging.,0,2,1,3,8,2.2,2.65
+1479,2021-05-08,669256,676684,,called_strike,2,Nick Solak pops out to first baseman Evan White in foul territory.,3,0,2,4,5,0.16,2.58
+1480,2021-05-08,669256,664714,strikeout,swinging_strike,13,Nick Solak strikes out swinging.,2,2,0,7,4,-0.96,2.24
+1481,2021-05-08,669256,667465,,foul,7,Nick Solak strikes out swinging.,1,2,1,4,8,-0.4,2.01
+1482,2021-05-08,669256,608716,,blocked_ball,14,Nick Solak flies out to center fielder Kyle Lewis.,0,0,1,1,7,0.26,0.71
+1483,2021-05-08,669256,667465,,ball,12,Nick Solak strikes out swinging.,0,2,1,3,8,2.2,2.65
+1484,2021-05-08,669256,664714,,foul,7,Nick Solak strikes out swinging.,2,2,0,6,4,-0.73,2.0
 1485,2021-05-08,669256,676684,,ball,11,Nick Solak pops out to first baseman Evan White in foul territory.,2,0,2,3,5,-0.19,3.39
-1486,2021-05-08,669256,657024,grounded_into_double_play,hit_into_play,7,"Nick Solak grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Evan White.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",1,2,0,5,1,-0.77,1.88
-1487,2021-05-08,669256,667465,,swinging_strike,7,Nick Solak strikes out swinging.,0,1,1,2,8,-0.42,1.76
+1486,2021-05-08,669256,664714,,ball,14,Nick Solak strikes out swinging.,1,2,0,5,4,1.8,0.94
+1487,2021-05-08,669256,657024,grounded_into_double_play,hit_into_play,7,"Nick Solak grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Evan White.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",1,2,0,5,1,-0.77,1.88
 1488,2021-05-08,669256,676684,,ball,12,Nick Solak pops out to first baseman Evan White in foul territory.,1,0,2,2,5,1.27,2.91
-1489,2021-05-08,669256,664714,,ball,14,Nick Solak strikes out swinging.,1,2,0,5,4,1.8,0.94
-1490,2021-05-08,669256,657024,,foul,7,"Nick Solak grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Evan White.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",1,2,0,4,1,-0.33,2.02
-1491,2021-05-08,669256,676684,,ball,12,Nick Solak pops out to first baseman Evan White in foul territory.,0,0,2,1,5,0.47,3.65
-1492,2021-05-08,669256,664714,,ball,11,Nick Solak strikes out swinging.,0,2,0,4,4,-0.62,3.87
-1493,2021-05-08,669256,667465,,called_strike,2,Nick Solak strikes out swinging.,0,0,1,1,8,-0.07,2.87
-1494,2021-05-08,669256,664714,,foul,14,Nick Solak strikes out swinging.,0,2,0,3,4,0.25,1.11
-1495,2021-05-08,669256,657024,,ball,12,"Nick Solak grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Evan White.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",0,2,0,3,1,1.41,2.63
+1489,2021-05-08,669256,667465,,swinging_strike,7,Nick Solak strikes out swinging.,0,1,1,2,8,-0.42,1.76
+1490,2021-05-08,669256,676684,,ball,12,Nick Solak pops out to first baseman Evan White in foul territory.,0,0,2,1,5,0.47,3.65
+1491,2021-05-08,669256,667465,,called_strike,2,Nick Solak strikes out swinging.,0,0,1,1,8,-0.07,2.87
+1492,2021-05-08,669256,657024,,foul,7,"Nick Solak grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Evan White.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",1,2,0,4,1,-0.33,2.02
+1493,2021-05-08,669256,664714,,ball,11,Nick Solak strikes out swinging.,0,2,0,4,4,-0.62,3.87
+1494,2021-05-08,669256,657024,,ball,12,"Nick Solak grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Evan White.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",0,2,0,3,1,1.41,2.63
+1495,2021-05-08,669256,664714,,foul,14,Nick Solak strikes out swinging.,0,2,0,3,4,0.25,1.11
 1496,2021-05-08,669256,657024,,called_strike,5,"Nick Solak grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Evan White.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",0,1,0,2,1,0.07,2.31
 1497,2021-05-08,669256,664714,,swinging_strike,9,Nick Solak strikes out swinging.,0,1,0,2,4,0.29,2.02
 1498,2021-05-08,669256,664714,,foul,7,Nick Solak strikes out swinging.,0,0,0,1,4,-0.61,1.82
@@ -1515,12 +1515,12 @@
 1513,2021-05-07,669256,623167,,foul,3,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,1,2,0,6,1,0.71,3.22
 1514,2021-05-07,669256,623167,,foul,13,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,1,2,0,5,1,-0.93,1.94
 1515,2021-05-07,669256,623167,,ball,14,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,0,2,0,4,1,0.87,0.77
-1516,2021-05-07,669256,664948,single,hit_into_play,6,Nick Solak singles on a line drive to right fielder Mitch Haniger.,0,2,0,3,8,0.8,2.48
-1517,2021-05-07,669256,623167,,foul,5,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,0,2,0,3,1,0.19,2.74
-1518,2021-05-07,669256,664948,,foul,13,Nick Solak singles on a line drive to right fielder Mitch Haniger.,0,1,0,2,8,-0.57,1.31
-1519,2021-05-07,669256,623167,,foul,14,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,0,1,0,2,1,0.17,1.32
-1520,2021-05-07,669256,623167,,called_strike,9,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,0,0,0,1,1,0.38,1.87
-1521,2021-05-07,669256,664948,,foul,5,Nick Solak singles on a line drive to right fielder Mitch Haniger.,0,0,0,1,8,-0.27,2.57
+1516,2021-05-07,669256,623167,,foul,5,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,0,2,0,3,1,0.19,2.74
+1517,2021-05-07,669256,664948,single,hit_into_play,6,Nick Solak singles on a line drive to right fielder Mitch Haniger.,0,2,0,3,8,0.8,2.48
+1518,2021-05-07,669256,623167,,foul,14,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,0,1,0,2,1,0.17,1.32
+1519,2021-05-07,669256,664948,,foul,13,Nick Solak singles on a line drive to right fielder Mitch Haniger.,0,1,0,2,8,-0.57,1.31
+1520,2021-05-07,669256,664948,,foul,5,Nick Solak singles on a line drive to right fielder Mitch Haniger.,0,0,0,1,8,-0.27,2.57
+1521,2021-05-07,669256,623167,,called_strike,9,Nick Solak doubles (4) on a sharp line drive to left fielder Taylor Trammell.   Willie Calhoun scores.,0,0,0,1,1,0.38,1.87
 1522,2021-05-06,669256,501381,field_out,hit_into_play,8,"Nick Solak grounds out, third baseman Willians Astudillo to first baseman Miguel Sano.",3,1,2,5,5,-0.16,1.86
 1523,2021-05-06,669256,501381,,ball,14,"Nick Solak grounds out, third baseman Willians Astudillo to first baseman Miguel Sano.",2,1,2,4,5,2.02,-1.82
 1524,2021-05-06,669256,501381,,ball,14,"Nick Solak grounds out, third baseman Willians Astudillo to first baseman Miguel Sano.",1,1,2,3,5,1.51,0.35
@@ -1528,8 +1528,8 @@
 1526,2021-05-06,669256,501381,,foul,7,"Nick Solak grounds out, third baseman Willians Astudillo to first baseman Miguel Sano.",0,0,2,1,5,-0.43,2.03
 1527,2021-05-06,669256,501381,field_out,hit_into_play,13,Nick Solak lines out sharply to left fielder Kyle Garlick.,0,1,1,2,3,-0.02,1.34
 1528,2021-05-06,669256,501381,,called_strike,5,Nick Solak lines out sharply to left fielder Kyle Garlick.,0,0,1,1,3,0.12,2.22
-1529,2021-05-06,669256,570663,field_out,hit_into_play,8,Nick Solak flies out to right fielder Max Kepler.,2,0,2,3,7,0.2,2.07
-1530,2021-05-06,669256,608648,grounded_into_double_play,hit_into_play,9,"Nick Solak grounds into a double play, shortstop Andrelton Simmons to second baseman Jorge Polanco to first baseman Miguel Sano.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",0,1,0,2,10,0.53,1.73
+1529,2021-05-06,669256,608648,grounded_into_double_play,hit_into_play,9,"Nick Solak grounds into a double play, shortstop Andrelton Simmons to second baseman Jorge Polanco to first baseman Miguel Sano.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",0,1,0,2,10,0.53,1.73
+1530,2021-05-06,669256,570663,field_out,hit_into_play,8,Nick Solak flies out to right fielder Max Kepler.,2,0,2,3,7,0.2,2.07
 1531,2021-05-06,669256,570663,,ball,14,Nick Solak flies out to right fielder Max Kepler.,1,0,2,2,7,0.24,0.72
 1532,2021-05-06,669256,608648,,called_strike,14,"Nick Solak grounds into a double play, shortstop Andrelton Simmons to second baseman Jorge Polanco to first baseman Miguel Sano.   Willie Calhoun out at 2nd.    Nick Solak out at 1st.",0,0,0,1,10,1.03,1.98
 1533,2021-05-06,669256,570663,,ball,14,Nick Solak flies out to right fielder Max Kepler.,0,0,2,1,7,0.67,0.72
@@ -1674,8 +1674,8 @@
 1672,2021-04-28,669256,502171,,foul,13,Nick Solak doubles (3) on a fly ball to right fielder Scott Schebler.,2,1,1,4,1,-1.3,2.35
 1673,2021-04-28,669256,502171,,ball,13,Nick Solak doubles (3) on a fly ball to right fielder Scott Schebler.,1,1,1,3,1,-1.47,1.92
 1674,2021-04-28,669256,594577,hit_by_pitch,hit_by_pitch,11,Nick Solak hit by pitch.,0,1,1,2,8,-1.69,3.29
-1675,2021-04-28,669256,502171,,ball,14,Nick Solak doubles (3) on a fly ball to right fielder Scott Schebler.,0,1,1,2,1,0.91,0.2
-1676,2021-04-28,669256,594577,,called_strike,3,Nick Solak hit by pitch.,0,0,1,1,8,0.38,2.8
+1675,2021-04-28,669256,594577,,called_strike,3,Nick Solak hit by pitch.,0,0,1,1,8,0.38,2.8
+1676,2021-04-28,669256,502171,,ball,14,Nick Solak doubles (3) on a fly ball to right fielder Scott Schebler.,0,1,1,2,1,0.91,0.2
 1677,2021-04-28,669256,502171,,called_strike,8,Nick Solak doubles (3) on a fly ball to right fielder Scott Schebler.,0,0,1,1,1,0.25,1.95
 1678,2021-04-27,669256,500779,single,hit_into_play,14,Nick Solak singles on a ground ball to center fielder Mike Trout.,1,2,2,4,3,1.05,2.09
 1679,2021-04-27,669256,500779,,ball,12,Nick Solak singles on a ground ball to center fielder Mike Trout.,0,2,2,3,3,0.39,4.44
@@ -1708,8 +1708,8 @@
 1706,2021-04-26,669256,453265,field_out,hit_into_play,14,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Jose Rojas.",0,2,0,3,9,1.37,1.22
 1707,2021-04-26,669256,642083,,swinging_strike,13,Nick Solak called out on strikes.  Adolis Garcia steals (1) 2nd base.,0,1,1,2,6,-0.88,1.52
 1708,2021-04-26,669256,453265,,foul,14,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Jose Rojas.",0,1,0,2,9,1.64,2.15
-1709,2021-04-26,669256,642083,,foul_tip,8,Nick Solak called out on strikes.  Adolis Garcia steals (1) 2nd base.,0,0,1,1,6,-0.05,1.87
-1710,2021-04-26,669256,453265,,called_strike,7,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Jose Rojas.",0,0,0,1,9,-0.46,1.55
+1709,2021-04-26,669256,453265,,called_strike,7,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Jose Rojas.",0,0,0,1,9,-0.46,1.55
+1710,2021-04-26,669256,642083,,foul_tip,8,Nick Solak called out on strikes.  Adolis Garcia steals (1) 2nd base.,0,0,1,1,6,-0.05,1.87
 1711,2021-04-25,669256,656629,single,hit_into_play,2,Nick Solak singles on a ground ball to shortstop Tim Anderson.,2,1,0,4,5,0.11,2.9
 1712,2021-04-25,669256,656629,,ball,14,Nick Solak singles on a ground ball to shortstop Tim Anderson.,1,1,0,3,5,0.73,0.89
 1713,2021-04-25,669256,656629,,ball,12,Nick Solak singles on a ground ball to shortstop Tim Anderson.,0,1,0,2,5,0.05,3.46
@@ -1742,10 +1742,10 @@
 1740,2021-04-23,669256,656302,,called_strike,9,Nick Solak homers (5) on a fly ball to left field.   Nate Lowe scores.,0,0,1,1,4,0.3,1.73
 1741,2021-04-23,669256,656302,field_out,hit_into_play,3,Nick Solak flies out to right fielder Adam Eaton.,0,1,2,2,1,0.42,3.08
 1742,2021-04-23,669256,521230,strikeout,swinging_strike,12,Nick Solak strikes out swinging.,1,2,2,4,9,1.35,2.44
-1743,2021-04-23,669256,656302,,swinging_strike,14,Nick Solak flies out to right fielder Adam Eaton.,0,0,2,1,1,1.39,0.98
-1744,2021-04-23,669256,605359,field_out,hit_into_play,14,"Nick Solak grounds out, pitcher Evan Marshall to first baseman Jose Abreu.",2,2,2,6,5,0.94,2.17
-1745,2021-04-23,669256,605359,,foul,5,"Nick Solak grounds out, pitcher Evan Marshall to first baseman Jose Abreu.",2,2,2,5,5,-0.24,2.28
-1746,2021-04-23,669256,521230,,swinging_strike,2,Nick Solak strikes out swinging.,1,1,2,3,9,0.25,3.05
+1743,2021-04-23,669256,605359,field_out,hit_into_play,14,"Nick Solak grounds out, pitcher Evan Marshall to first baseman Jose Abreu.",2,2,2,6,5,0.94,2.17
+1744,2021-04-23,669256,656302,,swinging_strike,14,Nick Solak flies out to right fielder Adam Eaton.,0,0,2,1,1,1.39,0.98
+1745,2021-04-23,669256,521230,,swinging_strike,2,Nick Solak strikes out swinging.,1,1,2,3,9,0.25,3.05
+1746,2021-04-23,669256,605359,,foul,5,"Nick Solak grounds out, pitcher Evan Marshall to first baseman Jose Abreu.",2,2,2,5,5,-0.24,2.28
 1747,2021-04-23,669256,605359,,foul,4,"Nick Solak grounds out, pitcher Evan Marshall to first baseman Jose Abreu.",2,1,2,4,5,-0.83,2.24
 1748,2021-04-23,669256,521230,,called_strike,9,Nick Solak strikes out swinging.,1,0,2,2,9,0.63,1.77
 1749,2021-04-23,669256,521230,,ball,12,Nick Solak strikes out swinging.,0,0,2,1,9,0.34,4.13
@@ -1790,10 +1790,10 @@
 1788,2021-04-20,669256,660271,,swinging_strike,9,Nick Solak strikes out swinging.,0,0,1,1,1,0.68,1.44
 1789,2021-04-20,669256,656288,home_run,hit_into_play,9,Nick Solak homers (4) on a fly ball to left center field.,1,1,0,3,6,0.4,1.67
 1790,2021-04-20,669256,594577,walk,ball,11,Nick Solak walks.,3,1,0,5,8,-0.01,3.82
-1791,2021-04-20,669256,656288,,swinging_strike,8,Nick Solak homers (4) on a fly ball to left center field.,1,0,0,2,6,0.21,1.71
-1792,2021-04-20,669256,594577,,ball,11,Nick Solak walks.,2,1,0,4,8,-0.44,3.62
-1793,2021-04-20,669256,594577,,ball,14,Nick Solak walks.,1,1,0,3,8,1.13,0.56
-1794,2021-04-20,669256,656288,,ball,12,Nick Solak homers (4) on a fly ball to left center field.,0,0,0,1,6,0.57,3.62
+1791,2021-04-20,669256,594577,,ball,11,Nick Solak walks.,2,1,0,4,8,-0.44,3.62
+1792,2021-04-20,669256,656288,,swinging_strike,8,Nick Solak homers (4) on a fly ball to left center field.,1,0,0,2,6,0.21,1.71
+1793,2021-04-20,669256,656288,,ball,12,Nick Solak homers (4) on a fly ball to left center field.,0,0,0,1,6,0.57,3.62
+1794,2021-04-20,669256,594577,,ball,14,Nick Solak walks.,1,1,0,3,8,1.13,0.56
 1795,2021-04-20,669256,594577,,ball,11,Nick Solak walks.,0,1,0,2,8,-0.68,4.22
 1796,2021-04-20,669256,594577,,called_strike,6,Nick Solak walks.,0,0,0,1,8,0.52,2.57
 1797,2021-04-19,669256,605164,single,hit_into_play,5,Nick Solak singles on a ground ball to right fielder Jared Walsh.   Joey Gallo scores.    Nate Lowe to 2nd.  Fielding error by right fielder Jared Walsh.,0,1,0,2,6,-0.1,2.35
@@ -1806,8 +1806,8 @@
 1804,2021-04-19,669256,592222,field_error,hit_into_play,8,Nick Solak reaches on a fielding error by third baseman Luis Rengifo.,1,1,2,3,7,0.2,1.85
 1805,2021-04-19,669256,605164,field_out,hit_into_play,11,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Albert Pujols.",1,1,0,3,2,-1.07,2.88
 1806,2021-04-19,669256,592222,,called_strike,12,Nick Solak reaches on a fielding error by third baseman Luis Rengifo.,1,0,2,2,7,1.13,2.33
-1807,2021-04-19,669256,605164,,called_strike,8,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Albert Pujols.",1,0,0,2,2,-0.01,1.79
-1808,2021-04-19,669256,592222,,ball,14,Nick Solak reaches on a fielding error by third baseman Luis Rengifo.,0,0,2,1,7,1.36,2.17
+1807,2021-04-19,669256,592222,,ball,14,Nick Solak reaches on a fielding error by third baseman Luis Rengifo.,0,0,2,1,7,1.36,2.17
+1808,2021-04-19,669256,605164,,called_strike,8,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Albert Pujols.",1,0,0,2,2,-0.01,1.79
 1809,2021-04-19,669256,605164,,blocked_ball,14,"Nick Solak grounds out, shortstop Jose Iglesias to first baseman Albert Pujols.",0,0,0,1,2,0.11,0.69
 1810,2021-04-18,669256,607644,single,hit_into_play,3,Nick Solak singles on a ground ball to third baseman Maikel Franco.,0,0,0,1,6,0.44,3.02
 1811,2021-04-18,669256,607644,field_error,hit_into_play,1,Nick Solak reaches on a fielding error by third baseman Maikel Franco.,1,1,0,3,4,-0.44,3.0
@@ -1898,10 +1898,10 @@
 1896,2021-04-13,669256,642232,,ball,11,Nick Solak doubles (1) on a sharp line drive to left fielder Austin Meadows.   Jose Trevino scores.    Nate Lowe scores.    Adolis Garcia scores.,0,1,0,2,4,-0.86,3.64
 1897,2021-04-13,669256,642232,,called_strike,2,Nick Solak doubles (1) on a sharp line drive to left fielder Austin Meadows.   Jose Trevino scores.    Nate Lowe scores.    Adolis Garcia scores.,0,0,0,1,4,-0.21,3.1
 1898,2021-04-13,669256,670950,single,hit_into_play,4,Nick Solak singles on a sharp line drive to left fielder Austin Meadows.,2,0,0,3,8,-0.38,2.5
-1899,2021-04-13,669256,670950,,ball,14,Nick Solak singles on a sharp line drive to left fielder Austin Meadows.,1,0,0,2,8,1.02,1.49
-1900,2021-04-13,669256,642232,field_out,hit_into_play,14,Nick Solak lines out to left fielder Austin Meadows.,0,2,0,3,2,0.42,1.2
-1901,2021-04-13,669256,642232,,foul,14,Nick Solak lines out to left fielder Austin Meadows.,0,1,0,2,2,1.47,1.9
-1902,2021-04-13,669256,670950,,ball,14,Nick Solak singles on a sharp line drive to left fielder Austin Meadows.,0,0,0,1,8,1.08,0.52
+1899,2021-04-13,669256,642232,field_out,hit_into_play,14,Nick Solak lines out to left fielder Austin Meadows.,0,2,0,3,2,0.42,1.2
+1900,2021-04-13,669256,670950,,ball,14,Nick Solak singles on a sharp line drive to left fielder Austin Meadows.,1,0,0,2,8,1.02,1.49
+1901,2021-04-13,669256,670950,,ball,14,Nick Solak singles on a sharp line drive to left fielder Austin Meadows.,0,0,0,1,8,1.08,0.52
+1902,2021-04-13,669256,642232,,foul,14,Nick Solak lines out to left fielder Austin Meadows.,0,1,0,2,2,1.47,1.9
 1903,2021-04-13,669256,642232,,called_strike,2,Nick Solak lines out to left fielder Austin Meadows.,0,0,0,1,2,0.13,3.17
 1904,2021-04-12,669256,607192,force_out,hit_into_play,8,"Nick Solak grounds into a force out, second baseman Brandon Lowe to shortstop Willy Adames.   Jose Trevino out at 2nd.    Nick Solak to 1st.",3,2,1,6,8,0.23,1.46
 1905,2021-04-12,669256,607192,,ball,12,"Nick Solak grounds into a force out, second baseman Brandon Lowe to shortstop Willy Adames.   Jose Trevino out at 2nd.    Nick Solak to 1st.",2,2,1,5,8,0.01,3.99
@@ -2035,19 +2035,19 @@
 2033,2021-04-01,669256,641745,,ball,11,"Nick Solak grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.   David Dahl to 3rd.    Joey Gallo to 2nd.",0,0,0,1,2,-0.85,3.66
 2034,2021-04-01,669256,641745,single,hit_into_play,4,Nick Solak singles on a soft ground ball to pitcher Brad Keller.   Isiah Kiner-Falefa scores.    David Dahl to 3rd.    Joey Gallo to 2nd.,3,1,0,5,1,-0.57,2.69
 2035,2021-04-01,669256,641745,,ball,13,Nick Solak singles on a soft ground ball to pitcher Brad Keller.   Isiah Kiner-Falefa scores.    David Dahl to 3rd.    Joey Gallo to 2nd.,2,1,0,4,1,-0.11,1.06
-2036,2021-04-01,669256,672578,strikeout,swinging_strike,11,Nick Solak strikes out swinging.,2,2,0,5,3,-1.08,3.17
+2036,2021-04-01,669256,605130,strikeout,swinging_strike,14,Nick Solak strikes out swinging.,1,2,0,5,8,1.38,1.18
 2037,2021-04-01,669256,641745,,called_strike,11,Nick Solak singles on a soft ground ball to pitcher Brad Keller.   Isiah Kiner-Falefa scores.    David Dahl to 3rd.    Joey Gallo to 2nd.,2,0,0,3,1,-1.08,2.87
-2038,2021-04-01,669256,605130,strikeout,swinging_strike,14,Nick Solak strikes out swinging.,1,2,0,5,8,1.38,1.18
+2038,2021-04-01,669256,672578,strikeout,swinging_strike,11,Nick Solak strikes out swinging.,2,2,0,5,3,-1.08,3.17
 2039,2021-04-01,669256,641745,,ball,11,Nick Solak singles on a soft ground ball to pitcher Brad Keller.   Isiah Kiner-Falefa scores.    David Dahl to 3rd.    Joey Gallo to 2nd.,1,0,0,2,1,-0.73,3.57
-2040,2021-04-01,669256,605130,,foul,7,Nick Solak strikes out swinging.,1,2,0,4,8,-0.55,2.04
-2041,2021-04-01,669256,672578,,blocked_ball,14,Nick Solak strikes out swinging.,1,2,0,4,3,0.37,-0.46
+2040,2021-04-01,669256,672578,,blocked_ball,14,Nick Solak strikes out swinging.,1,2,0,4,3,0.37,-0.46
+2041,2021-04-01,669256,605130,,foul,7,Nick Solak strikes out swinging.,1,2,0,4,8,-0.55,2.04
 2042,2021-04-01,669256,641745,,ball,11,Nick Solak singles on a soft ground ball to pitcher Brad Keller.   Isiah Kiner-Falefa scores.    David Dahl to 3rd.    Joey Gallo to 2nd.,0,0,0,1,1,-0.47,3.58
-2043,2021-04-01,669256,605130,,ball,14,Nick Solak strikes out swinging.,0,2,0,3,8,1.01,1.95
-2044,2021-04-01,669256,672578,,ball,14,Nick Solak strikes out swinging.,0,2,0,3,3,1.17,2.16
+2043,2021-04-01,669256,672578,,ball,14,Nick Solak strikes out swinging.,0,2,0,3,3,1.17,2.16
+2044,2021-04-01,669256,605130,,ball,14,Nick Solak strikes out swinging.,0,2,0,3,8,1.01,1.95
 2045,2021-04-01,669256,672578,,swinging_strike,14,Nick Solak strikes out swinging.,0,1,0,2,3,0.64,1.2
 2046,2021-04-01,669256,605130,,foul,13,Nick Solak strikes out swinging.,0,1,0,2,8,-1.43,2.07
-2047,2021-04-01,669256,605130,,called_strike,2,Nick Solak strikes out swinging.,0,0,0,1,8,0.27,2.97
-2048,2021-04-01,669256,672578,,swinging_strike,1,Nick Solak strikes out swinging.,0,0,0,1,3,-0.58,2.98
+2047,2021-04-01,669256,672578,,swinging_strike,1,Nick Solak strikes out swinging.,0,0,0,1,3,-0.58,2.98
+2048,2021-04-01,669256,605130,,called_strike,2,Nick Solak strikes out swinging.,0,0,0,1,8,0.27,2.97
 2049,2021-04-01,669256,534910,hit_by_pitch,hit_by_pitch,11,Nick Solak hit by pitch.,1,0,1,2,6,-2.24,3.67
 2050,2021-04-01,669256,451584,strikeout,called_strike,9,Nick Solak called out on strikes.,0,2,1,3,9,0.6,1.68
 2051,2021-04-01,669256,534910,,ball,8,Nick Solak hit by pitch.,0,0,1,1,6,0.19,1.56

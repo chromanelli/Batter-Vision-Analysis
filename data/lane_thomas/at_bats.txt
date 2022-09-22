@@ -9,5 +9,6 @@ VISION REPORT: lane_thomas (2021-04-01 thru 2021-10-04)
      lane_thomas saw 563 strikes and 552 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3865
+VISION SCORE METRIC B (VSA - SO%): 0.1479
 Average PA Length: 4.2235 (1115/264)
 Batting Avg: 0.235

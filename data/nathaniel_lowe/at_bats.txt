@@ -9,5 +9,6 @@ VISION REPORT: nathaniel_lowe (2021-04-01 thru 2021-10-04)
      nathaniel_lowe saw 1351 strikes and 1340 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4277
+VISION SCORE METRIC B (VSA - SO%): 0.1754
 Average PA Length: 4.1386 (2657/642)
 Batting Avg: 0.264
