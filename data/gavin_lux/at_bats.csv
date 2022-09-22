@@ -1,0 +1,1442 @@
+,game_date,batter,pitcher,events,description,zone,des,balls,strikes,outs_when_up,pitch_number,inning,plate_x,plate_z
+0,2021-10-03,666158,596057,walk,ball,14,Gavin Lux walks.,3,2,2,6,8,1.14,1.7
+1,2021-10-03,666158,596057,,ball,14,Gavin Lux walks.,2,2,2,5,8,0.86,1.31
+2,2021-10-03,666158,596057,,called_strike,1,Gavin Lux walks.,2,1,2,4,8,-0.51,3.08
+3,2021-10-03,666158,596057,,ball,7,Gavin Lux walks.,1,1,2,3,8,-0.35,1.47
+4,2021-10-03,666158,596057,,foul,3,Gavin Lux walks.,1,0,2,2,8,0.79,3.28
+5,2021-10-03,666158,596057,,ball,13,Gavin Lux walks.,0,0,2,1,8,-0.94,0.92
+6,2021-10-03,666158,623352,strikeout,swinging_strike,5,Gavin Lux strikes out swinging.,3,2,0,8,7,0.11,2.19
+7,2021-10-03,666158,623352,,foul,3,Gavin Lux strikes out swinging.,3,2,0,7,7,0.63,3.35
+8,2021-10-03,666158,623352,,ball,13,Gavin Lux strikes out swinging.,2,2,0,6,7,-1.73,1.82
+9,2021-10-03,666158,623352,,foul,2,Gavin Lux strikes out swinging.,2,2,0,5,7,-0.11,3.12
+10,2021-10-03,666158,623352,,called_strike,4,Gavin Lux strikes out swinging.,2,1,0,4,7,-0.79,2.55
+11,2021-10-03,666158,623352,,ball,11,Gavin Lux strikes out swinging.,1,1,0,3,7,-1.63,3.44
+12,2021-10-03,666158,623352,,foul_tip,1,Gavin Lux strikes out swinging.,1,0,0,2,7,-0.41,3.43
+13,2021-10-03,666158,623352,,ball,11,Gavin Lux strikes out swinging.,0,0,0,1,7,-1.05,3.09
+14,2021-09-29,666158,677960,field_out,hit_into_play,12,Gavin Lux pops out to catcher Victor Caratini in foul territory.,2,1,2,4,3,0.42,3.82
+15,2021-09-29,666158,677960,,foul,4,Gavin Lux pops out to catcher Victor Caratini in foul territory.,2,0,2,3,3,-0.61,2.5
+16,2021-09-29,666158,677960,,ball,13,Gavin Lux pops out to catcher Victor Caratini in foul territory.,1,0,2,2,3,-1.3,1.93
+17,2021-09-29,666158,677960,,ball,12,Gavin Lux pops out to catcher Victor Caratini in foul territory.,0,0,2,1,3,0.82,3.94
+18,2021-09-29,666158,677960,field_out,hit_into_play,6,Gavin Lux lines out to third baseman Manny Machado.,0,1,2,2,1,0.8,2.55
+19,2021-09-29,666158,677960,,called_strike,4,Gavin Lux lines out to third baseman Manny Machado.,0,0,2,1,1,-0.73,2.37
+20,2021-09-28,666158,506433,single,hit_into_play,9,Gavin Lux singles on a line drive to left fielder Adam Frazier.   Justin Turner to 2nd.,2,2,1,5,2,0.42,1.98
+21,2021-09-28,666158,506433,,called_strike,7,Gavin Lux singles on a line drive to left fielder Adam Frazier.   Justin Turner to 2nd.,2,1,1,4,2,-0.79,1.77
+22,2021-09-28,666158,506433,,ball,11,Gavin Lux singles on a line drive to left fielder Adam Frazier.   Justin Turner to 2nd.,1,1,1,3,2,-0.33,3.95
+23,2021-09-28,666158,506433,,swinging_strike,5,Gavin Lux singles on a line drive to left fielder Adam Frazier.   Justin Turner to 2nd.,1,0,1,2,2,0.19,2.26
+24,2021-09-28,666158,506433,,ball,14,Gavin Lux singles on a line drive to left fielder Adam Frazier.   Justin Turner to 2nd.,0,0,1,1,2,0.04,1.13
+25,2021-09-28,666158,663753,field_out,hit_into_play,2,Gavin Lux flies out to left fielder Adam Frazier.,0,2,2,3,5,0.25,3.35
+26,2021-09-28,666158,663753,,foul,5,Gavin Lux flies out to left fielder Adam Frazier.,0,1,2,2,5,0.28,2.76
+27,2021-09-28,666158,642770,field_error,hit_into_play,4,Gavin Lux reaches on a fielding error by third baseman Manny Machado.   Will Smith to 2nd.,1,1,2,3,7,-0.41,2.38
+28,2021-09-28,666158,663753,,called_strike,8,Gavin Lux flies out to left fielder Adam Frazier.,0,0,2,1,5,0.03,1.86
+29,2021-09-28,666158,642770,,ball,12,Gavin Lux reaches on a fielding error by third baseman Manny Machado.   Will Smith to 2nd.,0,1,2,2,7,1.82,3.11
+30,2021-09-28,666158,642770,,foul,4,Gavin Lux reaches on a fielding error by third baseman Manny Machado.   Will Smith to 2nd.,0,0,2,1,7,-0.56,2.69
+31,2021-09-26,666158,650668,field_out,hit_into_play,5,Gavin Lux pops out to third baseman Ildemaro Vargas.,2,0,2,3,1,-0.19,2.19
+32,2021-09-26,666158,650668,,ball,14,Gavin Lux pops out to third baseman Ildemaro Vargas.,1,0,2,2,1,1.22,1.56
+33,2021-09-26,666158,650668,,ball,14,Gavin Lux pops out to third baseman Ildemaro Vargas.,0,0,2,1,1,1.62,1.86
+34,2021-09-26,666158,642203,field_out,hit_into_play,5,Gavin Lux pops out to shortstop Geraldo Perdomo on the infield fly rule.,3,2,0,7,8,0.25,2.65
+35,2021-09-26,666158,642203,,blocked_ball,14,Gavin Lux pops out to shortstop Geraldo Perdomo on the infield fly rule.,2,2,0,6,8,0.85,0.37
+36,2021-09-26,666158,642203,,foul,1,Gavin Lux pops out to shortstop Geraldo Perdomo on the infield fly rule.,2,2,0,5,8,-0.36,3.14
+37,2021-09-26,666158,642203,,ball,11,Gavin Lux pops out to shortstop Geraldo Perdomo on the infield fly rule.,1,2,0,4,8,-1.14,2.89
+38,2021-09-26,666158,642203,,foul,5,Gavin Lux pops out to shortstop Geraldo Perdomo on the infield fly rule.,1,1,0,3,8,0.27,2.65
+39,2021-09-26,666158,642203,,foul,5,Gavin Lux pops out to shortstop Geraldo Perdomo on the infield fly rule.,1,0,0,2,8,-0.25,2.3
+40,2021-09-26,666158,642203,,ball,11,Gavin Lux pops out to shortstop Geraldo Perdomo on the infield fly rule.,0,0,0,1,8,-1.01,2.6
+41,2021-09-26,666158,664092,single,hit_into_play,8,Gavin Lux singles on a sharp line drive to center fielder Daulton Varsho.   AJ Pollock to 2nd.,2,1,0,4,6,0.16,1.99
+42,2021-09-26,666158,664092,,blocked_ball,14,Gavin Lux singles on a sharp line drive to center fielder Daulton Varsho.   AJ Pollock to 2nd.,1,1,0,3,6,1.22,0.52
+43,2021-09-26,666158,664092,,ball,14,Gavin Lux singles on a sharp line drive to center fielder Daulton Varsho.   AJ Pollock to 2nd.,0,1,0,2,6,0.06,1.09
+44,2021-09-26,666158,664092,,called_strike,1,Gavin Lux singles on a sharp line drive to center fielder Daulton Varsho.   AJ Pollock to 2nd.,0,0,0,1,6,-0.44,2.88
+45,2021-09-26,666158,592761,field_out,hit_into_play,3,Gavin Lux grounds out to first baseman Christian Walker.,0,1,2,2,3,0.56,3.41
+46,2021-09-26,666158,592761,,called_strike,6,Gavin Lux grounds out to first baseman Christian Walker.,0,0,2,1,3,0.77,2.38
+47,2021-09-25,666158,668678,field_out,hit_into_play,2,Gavin Lux flies out to center fielder Jake McCarthy.,2,1,0,4,5,-0.27,3.09
+48,2021-09-25,666158,668678,,ball,13,Gavin Lux flies out to center fielder Jake McCarthy.,1,1,0,3,5,-0.21,0.77
+49,2021-09-25,666158,668678,,called_strike,12,Gavin Lux flies out to center fielder Jake McCarthy.,1,0,0,2,5,0.33,3.54
+50,2021-09-25,666158,668678,,ball,11,Gavin Lux flies out to center fielder Jake McCarthy.,0,0,0,1,5,-1.87,3.42
+51,2021-09-25,666158,668678,field_out,hit_into_play,2,Gavin Lux grounds out sharply to first baseman Christian Walker.,1,0,0,2,3,0.25,3.24
+52,2021-09-25,666158,668678,,ball,12,Gavin Lux grounds out sharply to first baseman Christian Walker.,0,0,0,1,3,0.53,5.01
+53,2021-09-24,666158,528748,walk,ball,12,Gavin Lux walks.,3,2,0,7,5,1.12,2.39
+54,2021-09-24,666158,528748,,foul,8,Gavin Lux walks.,3,2,0,6,5,0.07,1.79
+55,2021-09-24,666158,528748,,ball,13,Gavin Lux walks.,2,2,0,5,5,-0.39,0.58
+56,2021-09-24,666158,528748,,foul,5,Gavin Lux walks.,2,1,0,4,5,0.16,2.4
+57,2021-09-24,666158,528748,,ball,12,Gavin Lux walks.,1,1,0,3,5,1.43,2.4
+58,2021-09-24,666158,528748,,ball,11,Gavin Lux walks.,0,1,0,2,5,-1.54,3.79
+59,2021-09-24,666158,528748,,called_strike,9,Gavin Lux walks.,0,0,0,1,5,0.71,1.53
+60,2021-09-24,666158,528748,field_out,hit_into_play,8,Gavin Lux flies out to right fielder Kole Calhoun.,1,1,0,3,2,0.06,1.59
+61,2021-09-24,666158,528748,,ball,11,Gavin Lux flies out to right fielder Kole Calhoun.,0,1,0,2,2,-0.39,4.32
+62,2021-09-24,666158,528748,,called_strike,4,Gavin Lux flies out to right fielder Kole Calhoun.,0,0,0,1,2,-0.62,2.47
+63,2021-09-24,666158,461325,walk,ball,11,Gavin Lux walks.   Justin Turner to 2nd.,3,0,2,4,8,-1.14,2.86
+64,2021-09-24,666158,461325,,ball,13,Gavin Lux walks.   Justin Turner to 2nd.,2,0,2,3,8,-1.6,1.96
+65,2021-09-24,666158,461325,,ball,13,Gavin Lux walks.   Justin Turner to 2nd.,1,0,2,2,8,-1.15,2.27
+66,2021-09-24,666158,461325,,ball,7,Gavin Lux walks.   Justin Turner to 2nd.,0,0,2,1,8,-0.53,1.46
+67,2021-09-24,666158,573009,strikeout,called_strike,7,Gavin Lux called out on strikes.,1,2,2,4,6,-0.4,1.87
+68,2021-09-24,666158,573009,,swinging_strike,6,Gavin Lux called out on strikes.,1,1,2,3,6,0.39,2.33
+69,2021-09-24,666158,573009,,called_strike,1,Gavin Lux called out on strikes.,1,0,2,2,6,-0.34,2.99
+70,2021-09-24,666158,573009,,ball,13,Gavin Lux called out on strikes.,0,0,2,1,6,-0.91,1.4
+71,2021-09-23,666158,607536,field_out,hit_into_play,9,Gavin Lux grounds out sharply to first baseman C.  J. Cron.,0,1,2,2,6,0.7,1.93
+72,2021-09-23,666158,607536,,foul,9,Gavin Lux grounds out sharply to first baseman C.  J. Cron.,0,0,2,1,6,0.67,1.96
+73,2021-09-23,666158,607536,single,hit_into_play,7,Gavin Lux singles on a line drive to shortstop Trevor Story.,0,2,1,3,4,-0.31,1.54
+74,2021-09-23,666158,607536,,foul,6,Gavin Lux singles on a line drive to shortstop Trevor Story.,0,1,1,2,4,0.7,2.45
+75,2021-09-23,666158,607536,,called_strike,2,Gavin Lux singles on a line drive to shortstop Trevor Story.,0,0,1,1,4,-0.06,2.9
+76,2021-09-23,666158,607536,single,hit_into_play,6,Gavin Lux singles on a ground ball to right fielder Sam Hilliard.   Austin Barnes to 2nd.,2,1,0,4,2,0.65,2.31
+77,2021-09-23,666158,607536,,ball,13,Gavin Lux singles on a ground ball to right fielder Sam Hilliard.   Austin Barnes to 2nd.,1,1,0,3,2,-1.34,1.79
+78,2021-09-23,666158,607536,,called_strike,3,Gavin Lux singles on a ground ball to right fielder Sam Hilliard.   Austin Barnes to 2nd.,1,0,0,2,2,0.43,3.0
+79,2021-09-23,666158,607536,,ball,3,Gavin Lux singles on a ground ball to right fielder Sam Hilliard.   Austin Barnes to 2nd.,0,0,0,1,2,0.66,3.42
+80,2021-09-23,666158,656458,walk,ball,13,Gavin Lux walks.,3,1,2,5,10,-0.1,1.36
+81,2021-09-23,666158,656458,,ball,13,Gavin Lux walks.,2,1,2,4,10,-2.06,2.31
+82,2021-09-23,666158,656458,,foul,2,Gavin Lux walks.,2,0,2,3,10,-0.13,3.2
+83,2021-09-23,666158,656458,,ball,11,Gavin Lux walks.,1,0,2,2,10,-1.39,2.77
+84,2021-09-23,666158,656458,,ball,13,Gavin Lux walks.,0,0,2,1,10,-0.07,0.18
+85,2021-09-23,666158,608032,strikeout,called_strike,1,Gavin Lux called out on strikes.,2,2,0,5,9,-0.78,3.28
+86,2021-09-23,666158,608032,,ball,14,Gavin Lux called out on strikes.,1,2,0,4,9,0.94,-0.13
+87,2021-09-23,666158,608032,,swinging_strike,1,Gavin Lux called out on strikes.,1,1,0,3,9,-0.47,3.01
+88,2021-09-23,666158,608032,,ball,14,Gavin Lux called out on strikes.,0,1,0,2,9,1.37,0.74
+89,2021-09-23,666158,608032,,called_strike,11,Gavin Lux called out on strikes.,0,0,0,1,9,-0.85,2.66
+90,2021-09-22,666158,608566,double,hit_into_play,2,Gavin Lux doubles (12) on a ground ball to left fielder Raimel Tapia.   Justin Turner scores.,2,2,2,5,4,-0.09,3.45
+91,2021-09-22,666158,608566,,ball,14,Gavin Lux doubles (12) on a ground ball to left fielder Raimel Tapia.   Justin Turner scores.,1,2,2,4,4,1.14,0.46
+92,2021-09-22,666158,608566,,ball,9,Gavin Lux doubles (12) on a ground ball to left fielder Raimel Tapia.   Justin Turner scores.,0,2,2,3,4,0.62,1.48
+93,2021-09-22,666158,608566,,swinging_strike,14,Gavin Lux doubles (12) on a ground ball to left fielder Raimel Tapia.   Justin Turner scores.,0,1,2,2,4,0.1,1.4
+94,2021-09-22,666158,608566,,foul,4,Gavin Lux doubles (12) on a ground ball to left fielder Raimel Tapia.   Justin Turner scores.,0,0,2,1,4,-0.61,2.32
+95,2021-09-22,666158,608566,fielders_choice,hit_into_play,8,"Gavin Lux reaches on a fielder's choice, fielded by first baseman C.  J. Cron.   Will Smith to 2nd.  Will Smith advances to 2nd, on a fielding error by first baseman C.  J. Cron.",0,0,1,1,2,0.08,2.17
+96,2021-09-22,666158,453268,field_out,hit_into_play,4,Gavin Lux lines out to left fielder Raimel Tapia.,0,0,2,1,8,-0.63,2.19
+97,2021-09-22,666158,642068,strikeout,called_strike,13,Gavin Lux called out on strikes.,0,2,0,3,6,-0.88,2.22
+98,2021-09-22,666158,642068,,swinging_strike,9,Gavin Lux called out on strikes.,0,1,0,2,6,0.79,1.72
+99,2021-09-22,666158,642068,,called_strike,7,Gavin Lux called out on strikes.,0,0,0,1,6,-0.65,1.68
+100,2021-09-21,666158,622608,field_out,hit_into_play,4,"Gavin Lux grounds out sharply, shortstop Trevor Story to first baseman C.  J. Cron.",2,2,2,5,6,-0.61,2.31
+101,2021-09-21,666158,622608,,ball,13,"Gavin Lux grounds out sharply, shortstop Trevor Story to first baseman C.  J. Cron.",1,2,2,4,6,-1.09,1.78
+102,2021-09-21,666158,622608,,foul,6,"Gavin Lux grounds out sharply, shortstop Trevor Story to first baseman C.  J. Cron.",1,1,2,3,6,0.36,2.1
+103,2021-09-21,666158,622608,,called_strike,4,"Gavin Lux grounds out sharply, shortstop Trevor Story to first baseman C.  J. Cron.",1,0,2,2,6,-0.72,2.38
+104,2021-09-21,666158,622608,,ball,11,"Gavin Lux grounds out sharply, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,2,1,6,-1.82,2.91
+105,2021-09-21,666158,622608,single,hit_into_play,2,Gavin Lux singles on a ground ball to left fielder Ryan Vilade.,1,2,2,4,5,-0.01,3.08
+106,2021-09-21,666158,622608,,ball,14,Gavin Lux singles on a ground ball to left fielder Ryan Vilade.,0,2,2,3,5,1.11,0.98
+107,2021-09-21,666158,622608,,swinging_strike,7,Gavin Lux singles on a ground ball to left fielder Ryan Vilade.,0,1,2,2,5,-0.66,1.49
+108,2021-09-21,666158,622608,,called_strike,13,Gavin Lux singles on a ground ball to left fielder Ryan Vilade.,0,0,2,1,5,-1.0,2.06
+109,2021-09-21,666158,622608,field_out,hit_into_play,8,"Gavin Lux grounds out sharply, shortstop Trevor Story to first baseman C.  J. Cron.",1,0,0,2,3,-0.15,1.98
+110,2021-09-21,666158,622608,,ball,11,"Gavin Lux grounds out sharply, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,0,1,3,-1.22,3.46
+111,2021-09-21,666158,608032,single,hit_into_play,1,Gavin Lux singles on a line drive to left fielder Sam Hilliard.,0,1,2,2,9,-0.74,2.9
+112,2021-09-21,666158,608032,,foul,6,Gavin Lux singles on a line drive to left fielder Sam Hilliard.,0,0,2,1,9,0.29,2.66
+113,2021-09-19,666158,489119,single,hit_into_play,8,Gavin Lux singles on a ground ball to center fielder Jose Barrero.   Chris Taylor scores.,0,0,2,1,3,0.06,2.08
+114,2021-09-19,666158,489119,home_run,hit_into_play,5,Gavin Lux homers (7) on a line drive to right center field.    Chris Taylor scores.,2,2,1,6,2,0.01,2.31
+115,2021-09-19,666158,489119,,blocked_ball,13,Gavin Lux homers (7) on a line drive to right center field.    Chris Taylor scores.,1,2,1,5,2,-1.01,0.32
+116,2021-09-19,666158,489119,,blocked_ball,13,Gavin Lux homers (7) on a line drive to right center field.    Chris Taylor scores.,0,2,1,4,2,-2.15,0.05
+117,2021-09-19,666158,489119,,foul,13,Gavin Lux homers (7) on a line drive to right center field.    Chris Taylor scores.,0,2,1,3,2,-0.99,1.3
+118,2021-09-19,666158,489119,,foul,7,Gavin Lux homers (7) on a line drive to right center field.    Chris Taylor scores.,0,1,1,2,2,-0.77,1.54
+119,2021-09-19,666158,489119,,called_strike,7,Gavin Lux homers (7) on a line drive to right center field.    Chris Taylor scores.,0,0,1,1,2,-0.76,1.56
+120,2021-09-19,666158,607237,grounded_into_double_play,hit_into_play,4,"Gavin Lux grounds into a double play, pitcher Amir Garrett to shortstop Kyle Farmer to first baseman Tyler Stephenson.   Will Smith out at 2nd.    Gavin Lux out at 1st.",0,1,1,2,8,-0.53,2.66
+121,2021-09-19,666158,607237,,called_strike,8,"Gavin Lux grounds into a double play, pitcher Amir Garrett to shortstop Kyle Farmer to first baseman Tyler Stephenson.   Will Smith out at 2nd.    Gavin Lux out at 1st.",0,0,1,1,8,-0.07,1.84
+122,2021-09-19,666158,458677,single,hit_into_play,4,Gavin Lux singles on a ground ball to second baseman Jonathan India.,2,1,0,4,6,-0.29,2.25
+123,2021-09-19,666158,458677,,called_strike,13,Gavin Lux singles on a ground ball to second baseman Jonathan India.,2,0,0,3,6,-1.06,2.13
+124,2021-09-19,666158,458677,,ball,13,Gavin Lux singles on a ground ball to second baseman Jonathan India.,1,0,0,2,6,-0.32,0.97
+125,2021-09-19,666158,458677,,ball,13,Gavin Lux singles on a ground ball to second baseman Jonathan India.,0,0,0,1,6,-2.1,1.71
+126,2021-09-18,666158,543243,walk,ball,11,Gavin Lux walks.,3,1,2,5,6,-0.06,3.66
+127,2021-09-18,666158,543243,,ball,12,Gavin Lux walks.,2,1,2,4,6,0.02,4.34
+128,2021-09-18,666158,543243,,foul,14,Gavin Lux walks.,2,0,2,3,6,1.23,2.31
+129,2021-09-18,666158,543243,,ball,12,Gavin Lux walks.,1,0,2,2,6,1.93,2.85
+130,2021-09-18,666158,543243,,ball,12,Gavin Lux walks.,0,0,2,1,6,0.34,3.7
+131,2021-09-18,666158,543243,triple,hit_into_play,8,Gavin Lux triples (4) on a line drive to right fielder Nick Castellanos.   Justin Turner scores.    Chris Taylor scores.,0,0,0,1,5,-0.12,1.57
+132,2021-09-18,666158,543243,field_out,hit_into_play,12,Gavin Lux flies out to right fielder Nick Castellanos.,0,1,0,2,3,0.38,3.64
+133,2021-09-18,666158,543243,,foul,6,Gavin Lux flies out to right fielder Nick Castellanos.,0,0,0,1,3,0.55,2.65
+134,2021-09-18,666158,607237,field_out,hit_into_play,3,"Gavin Lux grounds out, first baseman Joey Votto to pitcher Amir Garrett.",1,0,0,2,9,0.59,3.21
+135,2021-09-18,666158,607237,,ball,12,"Gavin Lux grounds out, first baseman Joey Votto to pitcher Amir Garrett.",0,0,0,1,9,1.11,3.68
+136,2021-09-15,666158,518876,single,hit_into_play,5,Gavin Lux singles on a sharp line drive to right fielder Daulton Varsho.   Will Smith scores.,0,0,1,1,4,-0.01,2.28
+137,2021-09-15,666158,518876,single,hit_into_play,14,Gavin Lux singles on a line drive to right fielder Daulton Varsho.   Justin Turner scores.    Will Smith to 3rd.    Cody Bellinger to 2nd.,0,0,1,1,2,1.0,1.9
+138,2021-09-15,666158,642203,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,1,2,2,4,7,-0.98,1.35
+139,2021-09-15,666158,642203,,ball,11,Gavin Lux strikes out swinging.,0,2,2,3,7,-0.88,3.21
+140,2021-09-15,666158,642203,,foul,1,Gavin Lux strikes out swinging.,0,1,2,2,7,-0.48,3.31
+141,2021-09-15,666158,642203,,swinging_strike,8,Gavin Lux strikes out swinging.,0,0,2,1,7,-0.17,1.61
+142,2021-09-15,666158,664092,field_out,hit_into_play,5,Gavin Lux flies out to left fielder Henry Ramos.,1,1,2,3,5,0.24,2.29
+143,2021-09-15,666158,664092,,foul,5,Gavin Lux flies out to left fielder Henry Ramos.,1,0,2,2,5,0.16,2.78
+144,2021-09-15,666158,664092,,ball,11,Gavin Lux flies out to left fielder Henry Ramos.,0,0,2,1,5,-1.67,3.56
+145,2021-09-14,666158,596133,strikeout,swinging_strike,8,Gavin Lux strikes out swinging.,2,2,0,6,4,0.08,1.6
+146,2021-09-14,666158,596133,,ball,14,Gavin Lux strikes out swinging.,1,2,0,5,4,0.0,0.67
+147,2021-09-14,666158,596133,,foul,3,Gavin Lux strikes out swinging.,1,2,0,4,4,0.35,3.29
+148,2021-09-14,666158,596133,,swinging_strike,7,Gavin Lux strikes out swinging.,1,1,0,3,4,-0.35,1.86
+149,2021-09-14,666158,596133,,ball,14,Gavin Lux strikes out swinging.,0,1,0,2,4,0.38,0.07
+150,2021-09-14,666158,596133,,called_strike,6,Gavin Lux strikes out swinging.,0,0,0,1,4,0.79,2.48
+151,2021-09-14,666158,596133,strikeout,called_strike,2,Gavin Lux called out on strikes.,0,2,1,3,2,0.15,3.23
+152,2021-09-14,666158,596133,,foul,8,Gavin Lux called out on strikes.,0,1,1,2,2,-0.24,1.92
+153,2021-09-14,666158,596133,,called_strike,6,Gavin Lux called out on strikes.,0,0,1,1,2,0.82,2.51
+154,2021-09-14,666158,607188,field_out,hit_into_play,9,"D-backs challenged (play at 1st), call on the field was overturned: Gavin Lux grounds out, first baseman Pavin Smith to pitcher Jake Faria.   Cody Bellinger to 2nd.",0,0,0,1,6,0.36,1.65
+155,2021-09-14,666158,461325,field_out,hit_into_play,6,Gavin Lux flies out to right fielder Henry Ramos.,1,2,0,4,8,0.68,2.76
+156,2021-09-14,666158,461325,,foul,2,Gavin Lux flies out to right fielder Henry Ramos.,1,1,0,3,8,-0.14,3.01
+157,2021-09-14,666158,461325,,foul,5,Gavin Lux flies out to right fielder Henry Ramos.,1,0,0,2,8,-0.21,2.36
+158,2021-09-14,666158,461325,,ball,14,Gavin Lux flies out to right fielder Henry Ramos.,0,0,0,1,8,0.17,0.29
+159,2021-09-13,666158,668678,walk,ball,11,Gavin Lux walks.,3,2,1,6,6,-1.31,2.42
+160,2021-09-13,666158,668678,,ball,14,Gavin Lux walks.,2,2,1,5,6,0.29,1.19
+161,2021-09-13,666158,668678,,ball,14,Gavin Lux walks.,1,2,1,4,6,0.13,0.05
+162,2021-09-13,666158,668678,,foul,2,Gavin Lux walks.,1,1,1,3,6,0.23,3.39
+163,2021-09-13,666158,668678,,called_strike,9,Gavin Lux walks.,1,0,1,2,6,0.29,1.72
+164,2021-09-13,666158,668678,,ball,11,Gavin Lux walks.,0,0,1,1,6,-1.25,2.68
+165,2021-09-13,666158,668678,single,hit_into_play,7,Gavin Lux singles on a ground ball to right fielder Jake McCarthy.,0,0,0,1,4,-0.62,2.01
+166,2021-09-13,666158,670087,field_error,hit_into_play,11,Gavin Lux reaches on a fielding error by third baseman Josh VanMeter.   Cody Bellinger to 3rd.,1,1,2,3,7,-0.91,3.09
+167,2021-09-13,666158,670087,,swinging_strike,8,Gavin Lux reaches on a fielding error by third baseman Josh VanMeter.   Cody Bellinger to 3rd.,1,0,2,2,7,-0.15,2.02
+168,2021-09-13,666158,670087,,ball,12,Gavin Lux reaches on a fielding error by third baseman Josh VanMeter.   Cody Bellinger to 3rd.,0,0,2,1,7,0.77,4.03
+169,2021-09-13,666158,668678,field_out,hit_into_play,7,"Gavin Lux grounds out sharply, pitcher Zac Gallen to first baseman Christian Walker.",3,1,2,5,1,-0.64,1.95
+170,2021-09-13,666158,668678,,ball,13,"Gavin Lux grounds out sharply, pitcher Zac Gallen to first baseman Christian Walker.",2,1,2,4,1,-0.43,1.14
+171,2021-09-13,666158,668678,,ball,14,"Gavin Lux grounds out sharply, pitcher Zac Gallen to first baseman Christian Walker.",1,1,2,3,1,0.14,0.87
+172,2021-09-13,666158,668678,,ball,11,"Gavin Lux grounds out sharply, pitcher Zac Gallen to first baseman Christian Walker.",0,1,2,2,1,-1.4,2.51
+173,2021-09-13,666158,668678,,called_strike,6,"Gavin Lux grounds out sharply, pitcher Zac Gallen to first baseman Christian Walker.",0,0,2,1,1,0.44,2.59
+174,2021-09-12,666158,622503,single,hit_into_play,7,Gavin Lux singles on a ground ball to third baseman Manny Machado.,1,2,0,4,3,-0.65,1.67
+175,2021-09-12,666158,622503,,swinging_strike,7,Gavin Lux singles on a ground ball to third baseman Manny Machado.,1,1,0,3,3,-0.76,1.67
+176,2021-09-12,666158,622503,,ball,11,Gavin Lux singles on a ground ball to third baseman Manny Machado.,0,1,0,2,3,-1.46,3.01
+177,2021-09-12,666158,613534,hit_by_pitch,hit_by_pitch,14,Gavin Lux hit by pitch.,3,2,0,7,8,1.85,0.64
+178,2021-09-12,666158,613534,,ball,12,Gavin Lux hit by pitch.,2,2,0,6,8,1.46,2.44
+179,2021-09-12,666158,622503,,foul,13,Gavin Lux singles on a ground ball to third baseman Manny Machado.,0,0,0,1,3,-0.85,1.74
+180,2021-09-12,666158,613534,,foul,9,Gavin Lux hit by pitch.,2,2,0,5,8,0.57,1.64
+181,2021-09-12,666158,677960,single,hit_into_play,5,Gavin Lux singles on a line drive to center fielder Trent Grisham.,1,0,0,2,7,0.14,2.31
+182,2021-09-12,666158,613534,,foul,5,Gavin Lux hit by pitch.,2,1,0,4,8,0.16,2.74
+183,2021-09-12,666158,613534,,called_strike,13,Gavin Lux hit by pitch.,2,0,0,3,8,-1.0,2.38
+184,2021-09-12,666158,677960,,ball,13,Gavin Lux singles on a line drive to center fielder Trent Grisham.,0,0,0,1,7,-1.35,-0.63
+185,2021-09-12,666158,613534,,ball,13,Gavin Lux hit by pitch.,1,0,0,2,8,-1.23,2.31
+186,2021-09-12,666158,613534,,ball,11,Gavin Lux hit by pitch.,0,0,0,1,8,-1.51,2.4
+187,2021-09-12,666158,572955,,ball,14,Pierce Johnson intentionally walks Gavin Lux.   Will Smith to 3rd.    Cody Bellinger to 2nd.,1,0,2,2,4,0.87,1.22
+188,2021-09-12,666158,572955,,ball,14,Pierce Johnson intentionally walks Gavin Lux.   Will Smith to 3rd.    Cody Bellinger to 2nd.,0,0,2,1,4,1.05,1.55
+189,2021-09-11,666158,663978,single,hit_into_play,4,Gavin Lux singles on a ground ball to center fielder Trent Grisham.,3,2,2,7,5,-0.64,2.61
+190,2021-09-11,666158,663978,,ball,11,Gavin Lux singles on a ground ball to center fielder Trent Grisham.,2,2,2,6,5,-1.13,4.14
+191,2021-09-11,666158,663978,,foul,5,Gavin Lux singles on a ground ball to center fielder Trent Grisham.,2,2,2,5,5,0.13,2.78
+192,2021-09-11,666158,663978,,foul,8,Gavin Lux singles on a ground ball to center fielder Trent Grisham.,2,1,2,4,5,0.28,2.18
+193,2021-09-11,666158,663978,,foul,5,Gavin Lux singles on a ground ball to center fielder Trent Grisham.,2,0,2,3,5,0.27,2.55
+194,2021-09-11,666158,663978,,ball,14,Gavin Lux singles on a ground ball to center fielder Trent Grisham.,1,0,2,2,5,0.76,1.23
+195,2021-09-11,666158,663978,,ball,14,Gavin Lux singles on a ground ball to center fielder Trent Grisham.,0,0,2,1,5,1.85,1.95
+196,2021-09-11,666158,663978,double,hit_into_play,7,Gavin Lux doubles (11) on a line drive to left fielder Tommy Pham.   Cody Bellinger scores.,1,2,0,6,3,-0.28,1.94
+197,2021-09-11,666158,663978,,foul,8,Gavin Lux doubles (11) on a line drive to left fielder Tommy Pham.   Cody Bellinger scores.,1,2,0,5,3,-0.14,1.83
+198,2021-09-11,666158,663978,,ball,14,Gavin Lux doubles (11) on a line drive to left fielder Tommy Pham.   Cody Bellinger scores.,0,2,0,4,3,0.13,0.96
+199,2021-09-11,666158,663978,,foul,12,Gavin Lux doubles (11) on a line drive to left fielder Tommy Pham.   Cody Bellinger scores.,0,2,0,3,3,0.31,3.83
+200,2021-09-11,666158,663978,,foul,2,Gavin Lux doubles (11) on a line drive to left fielder Tommy Pham.   Cody Bellinger scores.,0,1,0,2,3,-0.09,3.42
+201,2021-09-11,666158,663978,,called_strike,5,Gavin Lux doubles (11) on a line drive to left fielder Tommy Pham.   Cody Bellinger scores.,0,0,0,1,3,-0.21,2.11
+202,2021-09-10,666158,605397,field_out,hit_into_play,5,Gavin Lux lines out to first baseman Jurickson Profar.   Will Smith to 2nd.  Throwing error by first baseman Jurickson Profar.,3,2,1,6,6,0.15,2.58
+203,2021-09-10,666158,605397,,foul,8,Gavin Lux lines out to first baseman Jurickson Profar.   Will Smith to 2nd.  Throwing error by first baseman Jurickson Profar.,3,1,1,5,6,0.1,2.06
+204,2021-09-10,666158,605397,,called_strike,2,Gavin Lux lines out to first baseman Jurickson Profar.   Will Smith to 2nd.  Throwing error by first baseman Jurickson Profar.,3,0,1,4,6,0.03,3.29
+205,2021-09-10,666158,605397,,ball,13,Gavin Lux lines out to first baseman Jurickson Profar.   Will Smith to 2nd.  Throwing error by first baseman Jurickson Profar.,2,0,1,3,6,-1.31,2.44
+206,2021-09-10,666158,605397,,ball,14,Gavin Lux lines out to first baseman Jurickson Profar.   Will Smith to 2nd.  Throwing error by first baseman Jurickson Profar.,1,0,1,2,6,0.36,1.15
+207,2021-09-10,666158,605397,,ball,11,Gavin Lux lines out to first baseman Jurickson Profar.   Will Smith to 2nd.  Throwing error by first baseman Jurickson Profar.,0,0,1,1,6,-1.0,2.69
+208,2021-09-10,666158,605397,strikeout,swinging_strike_blocked,14,Gavin Lux strikes out swinging.,1,2,0,4,4,0.03,1.0
+209,2021-09-10,666158,605397,,swinging_strike,7,Gavin Lux strikes out swinging.,1,1,0,3,4,-0.41,1.84
+210,2021-09-10,666158,605397,,blocked_ball,14,Gavin Lux strikes out swinging.,0,1,0,2,4,1.08,0.66
+211,2021-09-10,666158,605397,,swinging_strike,14,Gavin Lux strikes out swinging.,0,0,0,1,4,0.84,1.89
+212,2021-09-10,666158,605397,walk,ball,14,Gavin Lux walks.,3,0,2,4,2,0.75,1.07
+213,2021-09-10,666158,605397,,ball,13,Gavin Lux walks.,2,0,2,3,2,-0.16,1.37
+214,2021-09-10,666158,605397,,ball,13,Gavin Lux walks.,1,0,2,2,2,-0.33,0.77
+215,2021-09-10,666158,605397,,blocked_ball,14,Gavin Lux walks.,0,0,2,1,2,1.01,1.03
+216,2021-08-25,666158,547176,field_out,hit_into_play,2,Gavin Lux flies out to right fielder Fernando Tatis.,3,2,2,8,16,-0.12,3.18
+217,2021-08-25,666158,547176,,foul,1,Gavin Lux flies out to right fielder Fernando Tatis.,3,2,2,7,16,-0.47,3.26
+218,2021-08-25,666158,547176,,ball,13,Gavin Lux flies out to right fielder Fernando Tatis.,2,2,2,6,16,-0.71,0.57
+219,2021-08-25,666158,547176,,foul,11,Gavin Lux flies out to right fielder Fernando Tatis.,2,2,2,5,16,-0.39,3.98
+220,2021-08-25,666158,547176,,foul,5,Gavin Lux flies out to right fielder Fernando Tatis.,2,1,2,4,16,0.08,2.28
+221,2021-08-25,666158,547176,,ball,13,Gavin Lux flies out to right fielder Fernando Tatis.,1,1,2,3,16,-1.79,2.17
+222,2021-08-25,666158,547176,,ball,13,Gavin Lux flies out to right fielder Fernando Tatis.,0,1,2,2,16,-1.84,1.33
+223,2021-08-25,666158,547176,,swinging_strike,7,Gavin Lux flies out to right fielder Fernando Tatis.,0,0,2,1,16,-0.6,1.99
+224,2021-08-18,666158,664141,field_out,hit_into_play,2,Gavin Lux lines out to first baseman Colin Moran.,0,1,1,2,4,0.12,3.09
+225,2021-08-18,666158,664141,,swinging_strike,8,Gavin Lux lines out to first baseman Colin Moran.,0,0,1,1,4,0.21,1.94
+226,2021-08-18,666158,664918,field_out,hit_into_play,4,Gavin Lux pops out to third baseman Ke'Bryan Hayes.,2,2,1,5,7,-0.77,2.34
+227,2021-08-18,666158,664918,,called_strike,1,Gavin Lux pops out to third baseman Ke'Bryan Hayes.,2,1,1,4,7,-0.7,2.93
+228,2021-08-18,666158,664918,,ball,11,Gavin Lux pops out to third baseman Ke'Bryan Hayes.,1,1,1,3,7,-1.3,3.36
+229,2021-08-18,666158,664918,,foul,12,Gavin Lux pops out to third baseman Ke'Bryan Hayes.,1,0,1,2,7,0.06,3.65
+230,2021-08-18,666158,664918,,ball,12,Gavin Lux pops out to third baseman Ke'Bryan Hayes.,0,0,1,1,7,1.14,3.71
+231,2021-08-18,666158,664141,field_out,hit_into_play,4,Gavin Lux flies out to third baseman Ke'Bryan Hayes in foul territory.,1,0,0,2,2,-0.48,2.6
+232,2021-08-18,666158,664141,,ball,12,Gavin Lux flies out to third baseman Ke'Bryan Hayes in foul territory.,0,0,0,1,2,0.04,4.09
+233,2021-08-18,666158,607455,walk,ball,13,Gavin Lux walks.   Billy McKinney to 2nd.,3,0,2,4,5,-1.4,1.6
+234,2021-08-18,666158,607455,,ball,11,Gavin Lux walks.   Billy McKinney to 2nd.,2,0,2,3,5,-0.84,2.41
+235,2021-08-18,666158,607455,,ball,11,Gavin Lux walks.   Billy McKinney to 2nd.,1,0,2,2,5,-1.01,2.78
+236,2021-08-18,666158,607455,,blocked_ball,14,Gavin Lux walks.   Billy McKinney to 2nd.,0,0,2,1,5,0.3,0.6
+237,2021-08-17,666158,640444,field_out,hit_into_play,7,"Gavin Lux grounds out, first baseman Yoshi Tsutsugo to pitcher Wil Crowe.",0,2,0,3,4,-0.6,1.8
+238,2021-08-17,666158,640444,,foul_tip,14,"Gavin Lux grounds out, first baseman Yoshi Tsutsugo to pitcher Wil Crowe.",0,1,0,2,4,0.1,1.22
+239,2021-08-17,666158,640444,,called_strike,1,"Gavin Lux grounds out, first baseman Yoshi Tsutsugo to pitcher Wil Crowe.",0,0,0,1,4,-0.44,3.24
+240,2021-08-17,666158,640444,strikeout,swinging_strike,11,Gavin Lux strikes out swinging.,2,2,0,7,2,-0.8,3.91
+241,2021-08-17,666158,640444,,foul,13,Gavin Lux strikes out swinging.,2,2,0,6,2,-0.17,1.4
+242,2021-08-17,666158,640444,,ball,11,Gavin Lux strikes out swinging.,1,2,0,5,2,-1.31,3.98
+243,2021-08-17,666158,640444,,foul,5,Gavin Lux strikes out swinging.,1,2,0,4,2,-0.16,2.27
+244,2021-08-17,666158,640444,,swinging_strike,11,Gavin Lux strikes out swinging.,1,1,0,3,2,-0.48,4.29
+245,2021-08-17,666158,640444,,called_strike,8,Gavin Lux strikes out swinging.,1,0,0,2,2,-0.12,1.53
+246,2021-08-17,666158,640444,,ball,13,Gavin Lux strikes out swinging.,0,0,0,1,2,-0.94,2.26
+247,2021-08-17,666158,664074,field_out,hit_into_play,13,"Gavin Lux grounds out, second baseman Rodolfo Castro to first baseman Yoshi Tsutsugo.",0,1,0,2,6,-1.08,2.0
+248,2021-08-17,666158,664074,,swinging_strike,14,"Gavin Lux grounds out, second baseman Rodolfo Castro to first baseman Yoshi Tsutsugo.",0,0,0,1,6,1.1,1.72
+249,2021-07-18,666158,592351,field_out,hit_into_play,3,Gavin Lux pops out to third baseman Ryan McMahon.,0,1,0,2,7,0.6,3.22
+250,2021-07-18,666158,592351,,foul,2,Gavin Lux pops out to third baseman Ryan McMahon.,0,0,0,1,7,-0.16,2.99
+251,2021-07-18,666158,592351,strikeout,called_strike,9,Gavin Lux called out on strikes.,2,2,0,5,4,0.64,1.95
+252,2021-07-18,666158,592351,,foul,2,Gavin Lux called out on strikes.,2,1,0,4,4,-0.25,3.1
+253,2021-07-18,666158,592351,,foul,9,Gavin Lux called out on strikes.,2,0,0,3,4,0.64,1.88
+254,2021-07-18,666158,592351,,ball,14,Gavin Lux called out on strikes.,1,0,0,2,4,0.71,1.32
+255,2021-07-18,666158,592351,,ball,11,Gavin Lux called out on strikes.,0,0,0,1,4,-1.39,2.78
+256,2021-07-18,666158,592351,field_out,hit_into_play,3,"Gavin Lux grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.",1,2,2,4,2,0.68,3.01
+257,2021-07-18,666158,592351,,foul,8,"Gavin Lux grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.",1,1,2,3,2,-0.08,1.96
+258,2021-07-18,666158,592351,,called_strike,4,"Gavin Lux grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.",1,0,2,2,2,-0.4,2.4
+259,2021-07-18,666158,592351,,ball,12,"Gavin Lux grounds out, third baseman Ryan McMahon to first baseman C.  J. Cron.",0,0,2,1,2,0.23,4.18
+260,2021-07-18,666158,453268,field_out,hit_into_play,4,"Gavin Lux grounds out, second baseman Brendan Rodgers to first baseman C.  J. Cron.",2,2,1,5,9,-0.32,2.23
+261,2021-07-18,666158,453268,,ball,13,"Gavin Lux grounds out, second baseman Brendan Rodgers to first baseman C.  J. Cron.",1,2,1,4,9,-0.31,1.48
+262,2021-07-18,666158,453268,,swinging_strike,14,"Gavin Lux grounds out, second baseman Brendan Rodgers to first baseman C.  J. Cron.",1,1,1,3,9,0.52,0.97
+263,2021-07-18,666158,453268,,called_strike,13,"Gavin Lux grounds out, second baseman Brendan Rodgers to first baseman C.  J. Cron.",1,0,1,2,9,-0.94,2.23
+264,2021-07-18,666158,453268,,ball,13,"Gavin Lux grounds out, second baseman Brendan Rodgers to first baseman C.  J. Cron.",0,0,1,1,9,-1.21,2.14
+265,2021-07-17,666158,641755,strikeout,swinging_strike,5,Gavin Lux strikes out swinging.,1,2,1,5,9,-0.15,2.35
+266,2021-07-17,666158,641755,,ball,13,Gavin Lux strikes out swinging.,0,2,1,4,9,-0.83,0.32
+267,2021-07-17,666158,641755,,foul,4,Gavin Lux strikes out swinging.,0,2,1,3,9,-0.51,2.86
+268,2021-07-17,666158,641755,,swinging_strike,8,Gavin Lux strikes out swinging.,0,1,1,2,9,0.22,1.64
+269,2021-07-17,666158,641755,,foul,4,Gavin Lux strikes out swinging.,0,0,1,1,9,-0.51,2.47
+270,2021-07-16,666158,592346,field_out,hit_into_play,5,Gavin Lux grounds out to first baseman C.  J. Cron.,1,1,2,3,3,0.18,2.29
+271,2021-07-16,666158,592346,,ball,12,Gavin Lux grounds out to first baseman C.  J. Cron.,0,1,2,2,3,1.36,3.03
+272,2021-07-16,666158,592346,,foul,6,Gavin Lux grounds out to first baseman C.  J. Cron.,0,0,2,1,3,0.5,2.42
+273,2021-07-16,666158,592346,field_out,hit_into_play,8,Gavin Lux lines out sharply to shortstop Trevor Story.,0,1,2,2,1,-0.15,1.92
+274,2021-07-16,666158,592346,,called_strike,7,Gavin Lux lines out sharply to shortstop Trevor Story.,0,0,2,1,1,-0.58,1.77
+275,2021-07-16,666158,665733,strikeout,called_strike,11,Gavin Lux called out on strikes.,1,2,2,5,6,-0.86,2.9
+276,2021-07-16,666158,665733,,foul,1,Gavin Lux called out on strikes.,1,2,2,4,6,-0.54,2.96
+277,2021-07-16,666158,664875,single,hit_into_play,5,Gavin Lux singles on a sharp ground ball to center fielder Garrett Hampson.   AJ Pollock to 2nd.,0,1,0,2,5,-0.08,2.67
+278,2021-07-16,666158,665733,,foul,4,Gavin Lux called out on strikes.,1,1,2,3,6,-0.8,2.8
+279,2021-07-16,666158,664875,,foul,9,Gavin Lux singles on a sharp ground ball to center fielder Garrett Hampson.   AJ Pollock to 2nd.,0,0,0,1,5,0.37,2.06
+280,2021-07-16,666158,665733,,called_strike,7,Gavin Lux called out on strikes.,1,0,2,2,6,-0.41,1.67
+281,2021-07-16,666158,665733,,ball,13,Gavin Lux called out on strikes.,0,0,2,1,6,-1.05,0.6
+282,2021-07-16,666158,656458,field_out,hit_into_play,4,Gavin Lux flies out to center fielder Garrett Hampson.,1,1,0,3,9,-0.43,2.31
+283,2021-07-16,666158,656458,,ball,12,Gavin Lux flies out to center fielder Garrett Hampson.,0,1,0,2,9,0.09,3.6
+284,2021-07-16,666158,656458,,swinging_strike,2,Gavin Lux flies out to center fielder Garrett Hampson.,0,0,0,1,9,0.11,3.24
+285,2021-07-11,666158,518876,strikeout,swinging_strike_blocked,13,Gavin Lux strikes out swinging.,2,2,1,5,5,-0.15,0.7
+286,2021-07-11,666158,518876,,foul,5,Gavin Lux strikes out swinging.,2,1,1,4,5,-0.23,2.74
+287,2021-07-11,666158,518876,,ball,14,Gavin Lux strikes out swinging.,1,1,1,3,5,1.03,2.25
+288,2021-07-11,666158,518876,,foul,7,Gavin Lux strikes out swinging.,1,0,1,2,5,-0.72,2.15
+289,2021-07-11,666158,518876,,ball,14,Gavin Lux strikes out swinging.,0,0,1,1,5,1.21,2.38
+290,2021-07-11,666158,518876,field_out,hit_into_play,11,Gavin Lux flies out to left fielder David Peralta.,0,2,0,3,3,-1.03,2.63
+291,2021-07-11,666158,518876,,foul,9,Gavin Lux flies out to left fielder David Peralta.,0,1,0,2,3,0.44,1.85
+292,2021-07-11,666158,518876,,foul,2,Gavin Lux flies out to left fielder David Peralta.,0,0,0,1,3,0.14,3.51
+293,2021-07-10,666158,622065,field_out,hit_into_play,5,"Gavin Lux grounds out sharply, second baseman Andrew Young to first baseman Pavin Smith.",0,1,1,2,7,-0.11,2.19
+294,2021-07-10,666158,622065,,foul,13,"Gavin Lux grounds out sharply, second baseman Andrew Young to first baseman Pavin Smith.",0,0,1,1,7,-1.09,1.98
+295,2021-07-10,666158,676840,strikeout,swinging_strike,8,Gavin Lux strikes out swinging.,3,2,0,7,4,0.24,1.66
+296,2021-07-10,666158,676840,,foul,9,Gavin Lux strikes out swinging.,3,2,0,6,4,0.77,1.8
+297,2021-07-10,666158,676840,,ball,14,Gavin Lux strikes out swinging.,2,2,0,5,4,0.97,2.15
+298,2021-07-10,666158,676840,,called_strike,6,Gavin Lux strikes out swinging.,2,1,0,4,4,0.46,2.15
+299,2021-07-10,666158,676840,,foul,8,Gavin Lux strikes out swinging.,2,0,0,3,4,0.13,1.82
+300,2021-07-10,666158,676840,,ball,12,Gavin Lux strikes out swinging.,1,0,0,2,4,0.02,3.35
+301,2021-07-10,666158,676840,,ball,11,Gavin Lux strikes out swinging.,0,0,0,1,4,-1.5,3.7
+302,2021-07-10,666158,607179,triple,hit_into_play,9,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,3,2,0,8,8,0.35,2.1
+303,2021-07-10,666158,607179,,foul,3,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,3,2,0,7,8,0.7,3.36
+304,2021-07-10,666158,607179,,foul,6,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,3,2,0,6,8,0.46,2.41
+305,2021-07-10,666158,607179,,called_strike,11,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,3,1,0,5,8,-0.85,3.04
+306,2021-07-10,666158,622065,field_out,hit_into_play,5,Gavin Lux flies out to right fielder Kole Calhoun.,0,0,0,1,6,0.25,2.62
+307,2021-07-10,666158,607179,,called_strike,5,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,3,0,0,4,8,-0.12,2.45
+308,2021-07-10,666158,607179,,ball,12,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,2,0,0,3,8,0.73,3.44
+309,2021-07-10,666158,607179,,blocked_ball,14,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,1,0,0,2,8,1.29,0.22
+310,2021-07-10,666158,607179,,ball,14,Gavin Lux triples (3) on a ground ball to right fielder Daulton Varsho.   Austin Barnes scores.    Matt Beaty scores.    Mookie Betts scores.,0,0,0,1,8,1.16,1.43
+311,2021-07-09,666158,642203,walk,blocked_ball,14,Gavin Lux walks.,3,1,0,5,5,0.97,0.56
+312,2021-07-09,666158,642203,,called_strike,8,Gavin Lux walks.,3,0,0,4,5,0.26,2.12
+313,2021-07-09,666158,642203,,ball,11,Gavin Lux walks.,2,0,0,3,5,-2.15,2.85
+314,2021-07-09,666158,642203,,ball,13,Gavin Lux walks.,1,0,0,2,5,-2.14,1.35
+315,2021-07-09,666158,642203,,ball,14,Gavin Lux walks.,0,0,0,1,5,1.23,1.79
+316,2021-07-09,666158,642203,field_out,hit_into_play,6,Gavin Lux pops out to shortstop Nick Ahmed.,1,1,2,3,2,0.76,2.63
+317,2021-07-09,666158,642203,,foul,5,Gavin Lux pops out to shortstop Nick Ahmed.,1,0,2,2,2,-0.26,2.33
+318,2021-07-09,666158,642203,,ball,12,Gavin Lux pops out to shortstop Nick Ahmed.,0,0,2,1,2,1.72,3.23
+319,2021-07-09,666158,573009,field_out,hit_into_play,12,Gavin Lux grounds out softly to first baseman Christian Walker.,1,1,2,3,6,1.21,2.82
+320,2021-07-09,666158,573009,,swinging_strike,5,Gavin Lux grounds out softly to first baseman Christian Walker.,1,0,2,2,6,0.08,2.87
+321,2021-07-09,666158,573009,,ball,12,Gavin Lux grounds out softly to first baseman Christian Walker.,0,0,2,1,6,1.04,3.42
+322,2021-07-09,666158,465657,strikeout,swinging_strike,5,Gavin Lux strikes out swinging.,1,2,1,5,9,-0.13,2.61
+323,2021-07-09,666158,465657,,ball,11,Gavin Lux strikes out swinging.,0,2,1,4,9,-1.83,3.55
+324,2021-07-09,666158,465657,,foul,2,Gavin Lux strikes out swinging.,0,2,1,3,9,0.16,3.26
+325,2021-07-09,666158,465657,,swinging_strike,11,Gavin Lux strikes out swinging.,0,1,1,2,9,-0.16,3.88
+326,2021-07-09,666158,465657,,called_strike,4,Gavin Lux strikes out swinging.,0,0,1,1,9,-0.69,2.43
+327,2021-07-08,666158,645261,single,hit_into_play,13,Gavin Lux singles on a ground ball to first baseman Jesus Aguilar.   Chris Taylor to 3rd.,1,2,2,4,4,-0.84,2.12
+328,2021-07-08,666158,645261,,ball,12,Gavin Lux singles on a ground ball to first baseman Jesus Aguilar.   Chris Taylor to 3rd.,0,2,2,3,4,0.26,3.49
+329,2021-07-08,666158,645261,,called_strike,5,Gavin Lux singles on a ground ball to first baseman Jesus Aguilar.   Chris Taylor to 3rd.,0,1,2,2,4,0.2,2.79
+330,2021-07-08,666158,645261,,foul,13,Gavin Lux singles on a ground ball to first baseman Jesus Aguilar.   Chris Taylor to 3rd.,0,0,2,1,4,-0.35,1.41
+331,2021-07-08,666158,663734,field_out,hit_into_play,5,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,2,2,5,9,-0.1,2.47
+332,2021-07-08,666158,663734,,foul,4,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,2,2,4,9,-0.46,2.3
+333,2021-07-08,666158,663734,,foul,4,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,2,2,3,9,-0.72,2.44
+334,2021-07-08,666158,663734,,called_strike,8,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,1,2,2,9,0.22,1.86
+335,2021-07-08,666158,663734,,foul,6,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,0,2,1,9,0.38,2.18
+336,2021-07-08,666158,645261,field_out,hit_into_play,5,"Gavin Lux grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,0,1,3,2,0.12,2.45
+337,2021-07-08,666158,645261,,ball,11,"Gavin Lux grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,0,1,2,2,-1.11,3.5
+338,2021-07-08,666158,645261,,ball,14,"Gavin Lux grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,1,1,2,0.13,0.23
+339,2021-07-08,666158,663734,hit_by_pitch,hit_by_pitch,14,Gavin Lux hit by pitch.,1,1,2,3,7,2.18,0.53
+340,2021-07-08,666158,663734,,swinging_strike,9,Gavin Lux hit by pitch.,1,0,2,2,7,0.44,1.82
+341,2021-07-08,666158,663734,,ball,14,Gavin Lux hit by pitch.,0,0,2,1,7,1.3,1.08
+342,2021-07-08,666158,605276,walk,ball,12,Gavin Lux walks.,3,0,2,4,5,0.94,3.07
+343,2021-07-08,666158,605276,,ball,11,Gavin Lux walks.,2,0,2,3,5,-0.34,3.94
+344,2021-07-08,666158,605276,,ball,13,Gavin Lux walks.,1,0,2,2,5,-1.28,2.11
+345,2021-07-08,666158,605276,,blocked_ball,14,Gavin Lux walks.,0,0,2,1,5,0.7,-0.04
+346,2021-07-07,666158,656548,strikeout,called_strike,8,Gavin Lux called out on strikes.,1,2,1,4,7,-0.17,1.78
+347,2021-07-07,666158,656548,,ball,14,Gavin Lux called out on strikes.,0,2,1,3,7,0.44,0.96
+348,2021-07-07,666158,656548,,foul,8,Gavin Lux called out on strikes.,0,1,1,2,7,0.06,1.71
+349,2021-07-07,666158,656548,,swinging_strike,4,Gavin Lux called out on strikes.,0,0,1,1,7,-0.53,2.4
+350,2021-07-07,666158,656548,strikeout,called_strike,2,Gavin Lux called out on strikes.,2,2,0,5,5,0.02,3.21
+351,2021-07-07,666158,656548,,ball,13,Gavin Lux called out on strikes.,1,2,0,4,5,-1.3,1.27
+352,2021-07-07,666158,656548,,called_strike,2,Gavin Lux called out on strikes.,1,1,0,3,5,-0.14,3.23
+353,2021-07-07,666158,656548,,swinging_strike,14,Gavin Lux called out on strikes.,1,0,0,2,5,0.0,1.1
+354,2021-07-07,666158,656548,,ball,11,Gavin Lux called out on strikes.,0,0,0,1,5,-0.7,5.17
+355,2021-07-07,666158,669622,strikeout,swinging_strike,6,Gavin Lux strikes out swinging.,2,2,2,6,9,0.64,2.67
+356,2021-07-07,666158,669622,,ball,13,Gavin Lux strikes out swinging.,1,2,2,5,9,-1.7,0.99
+357,2021-07-07,666158,669622,,ball,11,Gavin Lux strikes out swinging.,0,2,2,4,9,-1.35,2.6
+358,2021-07-07,666158,669622,,foul,1,Gavin Lux strikes out swinging.,0,2,2,3,9,-0.64,3.24
+359,2021-07-07,666158,669622,,called_strike,1,Gavin Lux strikes out swinging.,0,1,2,2,9,-0.48,3.22
+360,2021-07-07,666158,669622,,called_strike,2,Gavin Lux strikes out swinging.,0,0,2,1,9,0.0,2.93
+361,2021-07-06,666158,641154,strikeout,swinging_strike_blocked,13,Gavin Lux strikes out swinging.,3,2,0,6,4,-1.58,1.08
+362,2021-07-06,666158,641154,,ball,11,Gavin Lux strikes out swinging.,2,2,0,5,4,-0.46,3.66
+363,2021-07-06,666158,641154,,ball,13,Gavin Lux strikes out swinging.,1,2,0,4,4,-0.29,1.35
+364,2021-07-06,666158,641154,,ball,13,Gavin Lux strikes out swinging.,0,2,0,3,4,-0.57,0.91
+365,2021-07-06,666158,641154,,called_strike,4,Gavin Lux strikes out swinging.,0,1,0,2,4,-0.39,2.4
+366,2021-07-06,666158,641154,,foul,6,Gavin Lux strikes out swinging.,0,0,0,1,4,0.75,2.49
+367,2021-07-06,666158,641154,field_error,hit_into_play,8,Gavin Lux reaches on a throwing error by first baseman Jesus Aguilar.,1,2,2,4,2,-0.01,1.99
+368,2021-07-06,666158,641154,,ball,13,Gavin Lux reaches on a throwing error by first baseman Jesus Aguilar.,0,2,2,3,2,-2.37,2.21
+369,2021-07-06,666158,641154,,foul,2,Gavin Lux reaches on a throwing error by first baseman Jesus Aguilar.,0,1,2,2,2,-0.21,3.17
+370,2021-07-06,666158,641154,,foul,14,Gavin Lux reaches on a throwing error by first baseman Jesus Aguilar.,0,0,2,1,2,0.94,2.37
+371,2021-07-06,666158,542914,field_out,hit_into_play,2,Gavin Lux lines out to left fielder Jesus Sanchez.,1,2,1,4,6,0.21,3.06
+372,2021-07-06,666158,542914,,ball,12,Gavin Lux lines out to left fielder Jesus Sanchez.,0,2,1,3,6,0.89,3.81
+373,2021-07-06,666158,542914,,foul,9,Gavin Lux lines out to left fielder Jesus Sanchez.,0,1,1,2,6,0.44,1.79
+374,2021-07-06,666158,542914,,called_strike,4,Gavin Lux lines out to left fielder Jesus Sanchez.,0,0,1,1,6,-0.4,2.17
+375,2021-07-06,666158,542947,strikeout,swinging_strike,8,Gavin Lux strikes out swinging.,2,2,1,5,8,0.2,2.04
+376,2021-07-06,666158,542947,,ball,13,Gavin Lux strikes out swinging.,1,2,1,4,8,-0.01,1.34
+377,2021-07-06,666158,542947,,ball,13,Gavin Lux strikes out swinging.,0,2,1,3,8,-1.9,1.21
+378,2021-07-06,666158,542947,,called_strike,8,Gavin Lux strikes out swinging.,0,1,1,2,8,-0.14,1.83
+379,2021-07-06,666158,542947,,called_strike,9,Gavin Lux strikes out swinging.,0,0,1,1,8,0.35,1.77
+380,2021-07-06,666158,605276,single,hit_into_play,7,Gavin Lux singles on a line drive to center fielder Starling Marte.   Chris Taylor to 2nd.,1,1,1,3,10,-0.78,1.87
+381,2021-07-06,666158,605276,,called_strike,7,Gavin Lux singles on a line drive to center fielder Starling Marte.   Chris Taylor to 2nd.,1,0,1,2,10,-0.38,1.96
+382,2021-07-06,666158,605276,,ball,12,Gavin Lux singles on a line drive to center fielder Starling Marte.   Chris Taylor to 2nd.,0,0,1,1,10,0.86,3.37
+383,2021-07-05,666158,669432,field_out,hit_into_play,8,"Gavin Lux grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Garrett Cooper.",3,1,0,5,4,-0.04,1.92
+384,2021-07-05,666158,669432,,ball,13,"Gavin Lux grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Garrett Cooper.",2,1,0,4,4,-1.13,1.32
+385,2021-07-05,666158,669432,,foul,5,"Gavin Lux grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Garrett Cooper.",2,0,0,3,4,0.16,2.26
+386,2021-07-05,666158,669432,,ball,13,"Gavin Lux grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Garrett Cooper.",1,0,0,2,4,-1.21,1.71
+387,2021-07-05,666158,669432,,ball,14,"Gavin Lux grounds out sharply, second baseman Jazz Chisholm Jr.  to first baseman Garrett Cooper.",0,0,0,1,4,0.47,1.01
+388,2021-07-05,666158,669432,single,hit_into_play,9,Gavin Lux singles on a line drive to center fielder Starling Marte.   Will Smith to 3rd.,3,2,2,6,2,0.29,1.98
+389,2021-07-05,666158,669432,,ball,13,Gavin Lux singles on a line drive to center fielder Starling Marte.   Will Smith to 3rd.,2,2,2,5,2,-1.66,1.69
+390,2021-07-05,666158,669432,,called_strike,2,Gavin Lux singles on a line drive to center fielder Starling Marte.   Will Smith to 3rd.,2,1,2,4,2,0.1,2.89
+391,2021-07-05,666158,669432,,ball,12,Gavin Lux singles on a line drive to center fielder Starling Marte.   Will Smith to 3rd.,1,1,2,3,2,1.11,3.94
+392,2021-07-05,666158,669432,,swinging_strike,13,Gavin Lux singles on a line drive to center fielder Starling Marte.   Will Smith to 3rd.,1,0,2,2,2,-0.58,1.39
+393,2021-07-05,666158,669432,,ball,11,Gavin Lux singles on a line drive to center fielder Starling Marte.   Will Smith to 3rd.,0,0,2,1,2,-1.63,2.71
+394,2021-07-05,666158,595345,field_out,hit_into_play,8,Gavin Lux flies out to third baseman Joe Panik.,0,1,2,2,6,-0.24,2.15
+395,2021-07-05,666158,595345,,foul,3,Gavin Lux flies out to third baseman Joe Panik.,0,0,2,1,6,0.36,3.46
+396,2021-07-05,666158,605276,walk,ball,12,Gavin Lux walks.   Matt Beaty scores.    Will Smith to 3rd.    Max Muncy to 2nd.,3,1,0,5,8,1.31,2.69
+397,2021-07-05,666158,605276,,called_strike,5,Gavin Lux walks.   Matt Beaty scores.    Will Smith to 3rd.    Max Muncy to 2nd.,3,0,0,4,8,0.08,2.34
+398,2021-07-05,666158,605276,,ball,14,Gavin Lux walks.   Matt Beaty scores.    Will Smith to 3rd.    Max Muncy to 2nd.,2,0,0,3,8,1.17,1.96
+399,2021-07-05,666158,605276,,ball,12,Gavin Lux walks.   Matt Beaty scores.    Will Smith to 3rd.    Max Muncy to 2nd.,1,0,0,2,8,1.62,2.59
+400,2021-07-05,666158,605276,,ball,11,Gavin Lux walks.   Matt Beaty scores.    Will Smith to 3rd.    Max Muncy to 2nd.,0,0,0,1,8,-0.9,3.58
+401,2021-07-04,666158,605452,double,hit_into_play,4,Gavin Lux doubles (10) on a sharp line drive to center fielder Victor Robles.,1,1,0,3,7,-0.63,2.56
+402,2021-07-04,666158,605452,,ball,13,Gavin Lux doubles (10) on a sharp line drive to center fielder Victor Robles.,0,1,0,2,7,-0.22,0.91
+403,2021-07-04,666158,605452,,called_strike,5,Gavin Lux doubles (10) on a sharp line drive to center fielder Victor Robles.,0,0,0,1,7,-0.03,2.69
+404,2021-07-04,666158,605452,single,hit_into_play,2,Gavin Lux singles on a line drive to left fielder Yadiel Hernandez.   Zach McKinstry to 2nd.,1,1,2,3,4,-0.06,3.15
+405,2021-07-04,666158,605452,,foul,7,Gavin Lux singles on a line drive to left fielder Yadiel Hernandez.   Zach McKinstry to 2nd.,1,0,2,2,4,-0.46,2.11
+406,2021-07-04,666158,605452,,ball,14,Gavin Lux singles on a line drive to left fielder Yadiel Hernandez.   Zach McKinstry to 2nd.,0,0,2,1,4,1.02,1.62
+407,2021-07-04,666158,605452,field_out,hit_into_play,4,"Gavin Lux grounds out sharply, third baseman Starlin Castro to first baseman Josh Bell.",3,2,2,6,2,-0.59,2.77
+408,2021-07-04,666158,605452,,ball,13,"Gavin Lux grounds out sharply, third baseman Starlin Castro to first baseman Josh Bell.",2,2,2,5,2,-0.22,1.13
+409,2021-07-04,666158,605452,,foul,2,"Gavin Lux grounds out sharply, third baseman Starlin Castro to first baseman Josh Bell.",2,1,2,4,2,-0.15,3.05
+410,2021-07-04,666158,605452,,ball,12,"Gavin Lux grounds out sharply, third baseman Starlin Castro to first baseman Josh Bell.",1,1,2,3,2,0.16,3.6
+411,2021-07-04,666158,605452,,swinging_strike,2,"Gavin Lux grounds out sharply, third baseman Starlin Castro to first baseman Josh Bell.",1,0,2,2,2,0.02,3.09
+412,2021-07-04,666158,605452,,ball,11,"Gavin Lux grounds out sharply, third baseman Starlin Castro to first baseman Josh Bell.",0,0,2,1,2,-1.57,3.22
+413,2021-07-04,666158,593833,single,hit_into_play,7,Gavin Lux singles on a line drive to right fielder Juan Soto.,0,1,0,2,9,-0.69,2.13
+414,2021-07-04,666158,593833,,called_strike,7,Gavin Lux singles on a line drive to right fielder Juan Soto.,0,0,0,1,9,-0.75,2.03
+415,2021-07-03,666158,502179,double,hit_into_play,8,Gavin Lux doubles (9) on a line drive to right fielder Juan Soto.   Cody Bellinger scores.,1,1,2,3,4,-0.14,2.17
+416,2021-07-03,666158,502179,,swinging_strike,2,Gavin Lux doubles (9) on a line drive to right fielder Juan Soto.   Cody Bellinger scores.,1,0,2,2,4,-0.03,3.28
+417,2021-07-03,666158,502179,,ball,12,Gavin Lux doubles (9) on a line drive to right fielder Juan Soto.   Cody Bellinger scores.,0,0,2,1,4,1.1,4.11
+418,2021-07-03,666158,502179,field_out,hit_into_play,6,Gavin Lux flies out to right fielder Juan Soto.,2,1,2,4,2,0.35,2.26
+419,2021-07-03,666158,502179,,ball,13,Gavin Lux flies out to right fielder Juan Soto.,1,1,2,3,2,-0.34,0.4
+420,2021-07-03,666158,502179,,ball,13,Gavin Lux flies out to right fielder Juan Soto.,0,1,2,2,2,-1.27,2.03
+421,2021-07-03,666158,502179,,called_strike,7,Gavin Lux flies out to right fielder Juan Soto.,0,0,2,1,2,-0.33,1.91
+422,2021-07-03,666158,593833,strikeout,swinging_strike,11,Gavin Lux strikes out swinging.,0,2,1,3,6,-0.33,4.1
+423,2021-07-03,666158,593833,,swinging_strike,11,Gavin Lux strikes out swinging.,0,1,1,2,6,-0.76,3.84
+424,2021-07-03,666158,593833,,foul,3,Gavin Lux strikes out swinging.,0,0,1,1,6,0.43,3.12
+425,2021-07-03,666158,641851,walk,ball,14,Gavin Lux walks.,3,1,0,5,9,0.06,1.17
+426,2021-07-03,666158,641851,,ball,14,Gavin Lux walks.,2,1,0,4,9,1.79,0.6
+427,2021-07-03,666158,641851,,ball,8,Gavin Lux walks.,1,1,0,3,9,-0.14,1.65
+428,2021-07-03,666158,641851,,ball,9,Gavin Lux walks.,0,1,0,2,9,0.78,2.07
+429,2021-07-03,666158,641851,,foul,11,Gavin Lux walks.,0,0,0,1,9,-0.98,3.34
+430,2021-07-02,666158,453286,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,1,2,0,7,5,0.22,1.22
+431,2021-07-02,666158,453286,,foul,2,Gavin Lux strikes out swinging.,1,2,0,6,5,-0.01,3.4
+432,2021-07-02,666158,453286,,foul,7,Gavin Lux strikes out swinging.,1,2,0,5,5,-0.28,1.8
+433,2021-07-02,666158,453286,,foul,13,Gavin Lux strikes out swinging.,1,2,0,4,5,-0.33,1.34
+434,2021-07-02,666158,453286,,ball,13,Gavin Lux strikes out swinging.,0,2,0,3,5,-0.5,0.68
+435,2021-07-02,666158,453286,,foul,5,Gavin Lux strikes out swinging.,0,1,0,2,5,-0.15,2.63
+436,2021-07-02,666158,453286,,foul,2,Gavin Lux strikes out swinging.,0,0,0,1,5,0.22,3.16
+437,2021-07-02,666158,453286,field_out,hit_into_play,9,Gavin Lux lines out to center fielder Victor Robles.,1,1,1,3,2,0.31,1.86
+438,2021-07-02,666158,453286,,swinging_strike,6,Gavin Lux lines out to center fielder Victor Robles.,1,0,1,2,2,0.39,2.43
+439,2021-07-02,666158,453286,,ball,14,Gavin Lux lines out to center fielder Victor Robles.,0,0,1,1,2,1.1,1.95
+440,2021-06-29,666158,592332,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,2,2,0,5,4,-0.9,1.2
+441,2021-06-29,666158,592332,,foul,5,Gavin Lux strikes out swinging.,2,1,0,4,4,-0.11,2.24
+442,2021-06-29,666158,592332,,called_strike,8,Gavin Lux strikes out swinging.,2,0,0,3,4,0.27,1.81
+443,2021-06-29,666158,592332,,ball,13,Gavin Lux strikes out swinging.,1,0,0,2,4,-1.72,2.21
+444,2021-06-29,666158,592332,,ball,11,Gavin Lux strikes out swinging.,0,0,0,1,4,-1.33,4.53
+445,2021-06-29,666158,592332,field_out,hit_into_play,9,Gavin Lux grounds out to first baseman LaMonte Wade.,0,1,2,2,1,0.7,1.96
+446,2021-06-29,666158,592332,,called_strike,6,Gavin Lux grounds out to first baseman LaMonte Wade.,0,0,2,1,1,0.6,2.68
+447,2021-06-29,666158,501625,field_out,hit_into_play,7,"Gavin Lux grounds out sharply, shortstop Brandon Crawford to first baseman Darin Ruf.",0,0,0,1,6,-0.61,2.14
+448,2021-06-28,666158,543101,single,hit_into_play,4,Gavin Lux singles on a line drive to left fielder Alex Dickerson.,0,0,1,1,4,-0.75,2.45
+449,2021-06-28,666158,543101,field_out,hit_into_play,4,"Gavin Lux grounds out sharply, shortstop Brandon Crawford to first baseman LaMonte Wade.",0,1,1,2,2,-0.77,2.26
+450,2021-06-28,666158,543101,,called_strike,1,"Gavin Lux grounds out sharply, shortstop Brandon Crawford to first baseman LaMonte Wade.",0,0,1,1,2,-0.48,3.45
+451,2021-06-28,666158,606424,field_out,hit_into_play,5,Gavin Lux flies out to center fielder Steven Duggar.,0,0,0,1,7,-0.25,2.53
+452,2021-06-27,666158,640470,single,hit_into_play,5,Gavin Lux singles on a sharp ground ball to right fielder Kris Bryant.,0,0,1,1,3,-0.24,2.27
+453,2021-06-27,666158,640470,walk,blocked_ball,14,Gavin Lux walks.   Matt Beaty to 3rd.    Chris Taylor to 2nd.,3,2,0,7,2,0.56,0.23
+454,2021-06-27,666158,640470,,ball,11,Gavin Lux walks.   Matt Beaty to 3rd.    Chris Taylor to 2nd.,2,2,0,6,2,-0.88,3.64
+455,2021-06-27,666158,640470,,blocked_ball,14,Gavin Lux walks.   Matt Beaty to 3rd.    Chris Taylor to 2nd.,1,2,0,5,2,1.53,0.12
+456,2021-06-27,666158,667297,force_out,hit_into_play,8,"Gavin Lux grounds into a force out, third baseman Eric Sogard to shortstop Javier Baez.   Chris Taylor out at 2nd.    Gavin Lux to 1st.",1,1,0,3,5,-0.13,2.11
+457,2021-06-27,666158,640470,,blocked_ball,14,Gavin Lux walks.   Matt Beaty to 3rd.    Chris Taylor to 2nd.,0,2,0,4,2,1.91,0.26
+458,2021-06-27,666158,667297,,swinging_strike,1,"Gavin Lux grounds into a force out, third baseman Eric Sogard to shortstop Javier Baez.   Chris Taylor out at 2nd.    Gavin Lux to 1st.",1,0,0,2,5,-0.71,2.93
+459,2021-06-27,666158,640470,,foul,5,Gavin Lux walks.   Matt Beaty to 3rd.    Chris Taylor to 2nd.,0,2,0,3,2,-0.1,2.61
+460,2021-06-27,666158,667297,,ball,11,"Gavin Lux grounds into a force out, third baseman Eric Sogard to shortstop Javier Baez.   Chris Taylor out at 2nd.    Gavin Lux to 1st.",0,0,0,1,5,-1.07,3.06
+461,2021-06-27,666158,640470,,called_strike,8,Gavin Lux walks.   Matt Beaty to 3rd.    Chris Taylor to 2nd.,0,1,0,2,2,-0.21,1.8
+462,2021-06-27,666158,640470,,foul,4,Gavin Lux walks.   Matt Beaty to 3rd.    Chris Taylor to 2nd.,0,0,0,1,2,-0.3,2.25
+463,2021-06-27,666158,571521,strikeout,called_strike,8,Gavin Lux called out on strikes.,0,2,2,3,7,0.02,2.09
+464,2021-06-27,666158,571521,,foul,5,Gavin Lux called out on strikes.,0,1,2,2,7,-0.14,2.38
+465,2021-06-27,666158,571521,,foul,1,Gavin Lux called out on strikes.,0,0,2,1,7,-0.37,3.13
+466,2021-06-26,666158,621219,field_out,hit_into_play,7,Gavin Lux lines out sharply to center fielder Jake Marisnick.,2,1,2,4,3,-0.42,2.07
+467,2021-06-26,666158,621219,,ball,14,Gavin Lux lines out sharply to center fielder Jake Marisnick.,1,1,2,3,3,0.33,1.14
+468,2021-06-26,666158,621219,,ball,14,Gavin Lux lines out sharply to center fielder Jake Marisnick.,0,1,2,2,3,0.22,1.11
+469,2021-06-26,666158,621219,,called_strike,8,Gavin Lux lines out sharply to center fielder Jake Marisnick.,0,0,2,1,3,0.25,1.71
+470,2021-06-26,666158,621219,field_out,hit_into_play,7,"Gavin Lux grounds out, second baseman Sergio Alcantara to first baseman Anthony Rizzo.",2,1,2,4,1,-0.63,1.76
+471,2021-06-26,666158,621219,,ball,14,"Gavin Lux grounds out, second baseman Sergio Alcantara to first baseman Anthony Rizzo.",1,1,2,3,1,0.06,0.31
+472,2021-06-26,666158,621219,,called_strike,8,"Gavin Lux grounds out, second baseman Sergio Alcantara to first baseman Anthony Rizzo.",1,0,2,2,1,-0.17,1.98
+473,2021-06-26,666158,621219,,ball,14,"Gavin Lux grounds out, second baseman Sergio Alcantara to first baseman Anthony Rizzo.",0,0,2,1,1,0.59,0.53
+474,2021-06-26,666158,623364,strikeout,called_strike,1,Gavin Lux called out on strikes.,2,2,0,5,6,-0.57,3.15
+475,2021-06-26,666158,623364,,ball,12,Gavin Lux called out on strikes.,1,2,0,4,6,1.12,4.58
+476,2021-06-26,666158,623364,,ball,12,Gavin Lux called out on strikes.,0,2,0,3,6,0.06,3.82
+477,2021-06-26,666158,623364,,called_strike,2,Gavin Lux called out on strikes.,0,1,0,2,6,-0.08,2.94
+478,2021-06-26,666158,623364,,called_strike,1,Gavin Lux called out on strikes.,0,0,0,1,6,-0.5,3.29
+479,2021-06-26,666158,571521,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,3,2,1,6,8,-0.13,0.95
+480,2021-06-26,666158,571521,,ball,13,Gavin Lux strikes out swinging.,2,2,1,5,8,-1.72,-0.5
+481,2021-06-26,666158,571521,,ball,13,Gavin Lux strikes out swinging.,1,2,1,4,8,-2.07,-0.63
+482,2021-06-26,666158,571521,,foul,11,Gavin Lux strikes out swinging.,1,1,1,3,8,0.0,3.7
+483,2021-06-26,666158,571521,,foul,4,Gavin Lux strikes out swinging.,1,0,1,2,8,-0.66,2.62
+484,2021-06-26,666158,571521,,ball,13,Gavin Lux strikes out swinging.,0,0,1,1,8,-1.02,1.33
+485,2021-06-25,666158,453562,field_out,hit_into_play,7,"Gavin Lux grounds out sharply, first baseman Anthony Rizzo to pitcher Jake Arrieta.",2,2,2,6,5,-0.38,1.65
+486,2021-06-25,666158,453562,,foul,8,"Gavin Lux grounds out sharply, first baseman Anthony Rizzo to pitcher Jake Arrieta.",2,2,2,5,5,-0.2,1.58
+487,2021-06-25,666158,453562,,called_strike,4,"Gavin Lux grounds out sharply, first baseman Anthony Rizzo to pitcher Jake Arrieta.",2,1,2,4,5,-0.73,2.15
+488,2021-06-25,666158,453562,,ball,14,"Gavin Lux grounds out sharply, first baseman Anthony Rizzo to pitcher Jake Arrieta.",1,1,2,3,5,1.7,1.29
+489,2021-06-25,666158,453562,,ball,14,"Gavin Lux grounds out sharply, first baseman Anthony Rizzo to pitcher Jake Arrieta.",0,1,2,2,5,1.16,1.95
+490,2021-06-25,666158,453562,,called_strike,8,"Gavin Lux grounds out sharply, first baseman Anthony Rizzo to pitcher Jake Arrieta.",0,0,2,1,5,0.2,1.69
+491,2021-06-25,666158,453562,strikeout,swinging_strike,11,Gavin Lux strikes out swinging.,3,2,0,6,4,-0.93,3.43
+492,2021-06-25,666158,453562,,ball,13,Gavin Lux strikes out swinging.,2,2,0,5,4,-1.65,2.29
+493,2021-06-25,666158,453562,,foul,6,Gavin Lux strikes out swinging.,2,1,0,4,4,0.6,2.81
+494,2021-06-25,666158,453562,,ball,11,Gavin Lux strikes out swinging.,1,1,0,3,4,-1.46,3.73
+495,2021-06-25,666158,453562,,ball,14,Gavin Lux strikes out swinging.,0,1,0,2,4,0.66,0.9
+496,2021-06-25,666158,453562,,foul,4,Gavin Lux strikes out swinging.,0,0,0,1,4,-0.36,2.21
+497,2021-06-25,666158,453562,field_out,hit_into_play,5,"Gavin Lux grounds out, first baseman Anthony Rizzo to shortstop Javier Baez to first baseman Anthony Rizzo.   Cody Bellinger scores.",2,0,1,3,2,0.18,2.39
+498,2021-06-25,666158,453562,,ball,9,"Gavin Lux grounds out, first baseman Anthony Rizzo to shortstop Javier Baez to first baseman Anthony Rizzo.   Cody Bellinger scores.",1,0,1,2,2,0.29,1.55
+499,2021-06-25,666158,453562,,ball,13,"Gavin Lux grounds out, first baseman Anthony Rizzo to shortstop Javier Baez to first baseman Anthony Rizzo.   Cody Bellinger scores.",0,0,1,1,2,-0.06,1.05
+500,2021-06-25,666158,572193,walk,ball,14,Gavin Lux walks.,3,2,0,8,8,1.12,1.43
+501,2021-06-25,666158,572193,,foul,1,Gavin Lux walks.,3,2,0,7,8,-0.59,3.13
+502,2021-06-25,666158,572193,,ball,12,Gavin Lux walks.,2,2,0,6,8,1.35,2.6
+503,2021-06-25,666158,572193,,ball,14,Gavin Lux walks.,1,2,0,5,8,0.29,0.68
+504,2021-06-25,666158,572193,,foul,13,Gavin Lux walks.,1,2,0,4,8,-0.52,0.9
+505,2021-06-25,666158,572193,,called_strike,8,Gavin Lux walks.,1,1,0,3,8,-0.25,2.03
+506,2021-06-25,666158,572193,,called_strike,5,Gavin Lux walks.,1,0,0,2,8,-0.23,2.32
+507,2021-06-25,666158,572193,,ball,14,Gavin Lux walks.,0,0,0,1,8,0.32,1.34
+508,2021-06-24,666158,605200,field_out,hit_into_play,4,Gavin Lux grounds out to first baseman Anthony Rizzo.,0,1,2,2,4,-0.72,2.19
+509,2021-06-24,666158,605200,,swinging_strike,11,Gavin Lux grounds out to first baseman Anthony Rizzo.,0,0,2,1,4,-1.39,2.61
+510,2021-06-24,666158,605200,walk,ball,12,Gavin Lux walks.,3,2,1,7,2,0.21,3.69
+511,2021-06-24,666158,605200,,foul,8,Gavin Lux walks.,3,2,1,6,2,-0.21,2.08
+512,2021-06-24,666158,605200,,ball,11,Gavin Lux walks.,2,2,1,5,2,-0.8,4.67
+513,2021-06-24,666158,605200,,ball,14,Gavin Lux walks.,1,2,1,4,2,0.34,0.39
+514,2021-06-24,666158,605200,,swinging_strike,7,Gavin Lux walks.,1,1,1,3,2,-0.32,1.65
+515,2021-06-24,666158,605200,,ball,13,Gavin Lux walks.,0,1,1,2,2,-0.52,1.46
+516,2021-06-24,666158,605200,,foul,9,Gavin Lux walks.,0,0,1,1,2,0.36,1.5
+517,2021-06-24,666158,572193,walk,ball,14,Gavin Lux walks.,3,0,2,4,7,0.6,0.94
+518,2021-06-24,666158,572193,,ball,13,Gavin Lux walks.,2,0,2,3,7,-1.33,2.17
+519,2021-06-24,666158,572193,,ball,14,Gavin Lux walks.,1,0,2,2,7,0.39,1.39
+520,2021-06-24,666158,572193,,ball,14,Gavin Lux walks.,0,0,2,1,7,0.88,1.32
+521,2021-06-23,666158,605397,field_out,hit_into_play,5,"Gavin Lux grounds out sharply, pitcher Joe Musgrove to first baseman Eric Hosmer.",0,0,2,1,4,-0.16,2.73
+522,2021-06-23,666158,605397,field_out,hit_into_play,2,Gavin Lux flies out to center fielder Trent Grisham.,1,1,2,3,2,0.0,2.89
+523,2021-06-23,666158,605397,,foul,5,Gavin Lux flies out to center fielder Trent Grisham.,1,0,2,2,2,-0.08,2.37
+524,2021-06-23,666158,605397,,ball,14,Gavin Lux flies out to center fielder Trent Grisham.,0,0,2,1,2,0.47,0.49
+525,2021-06-23,666158,453343,walk,ball,12,Gavin Lux walks.,3,1,1,5,9,0.33,3.53
+526,2021-06-23,666158,453343,,ball,13,Gavin Lux walks.,2,1,1,4,9,-0.5,0.7
+527,2021-06-23,666158,453343,,ball,14,Gavin Lux walks.,1,1,1,3,9,1.01,2.05
+528,2021-06-23,666158,453343,,foul,8,Gavin Lux walks.,1,0,1,2,9,0.19,1.52
+529,2021-06-23,666158,453343,,ball,11,Gavin Lux walks.,0,0,1,1,9,-0.63,3.48
+530,2021-06-23,666158,489334,field_out,hit_into_play,7,"Gavin Lux grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",1,1,1,3,7,-0.52,2.06
+531,2021-06-23,666158,489334,,foul,2,"Gavin Lux grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",1,0,1,2,7,0.15,3.02
+532,2021-06-23,666158,489334,,ball,13,"Gavin Lux grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",0,0,1,1,7,-1.61,2.15
+533,2021-06-22,666158,622503,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,3,2,2,6,7,-0.34,1.12
+534,2021-06-22,666158,622503,,ball,14,Gavin Lux strikes out swinging.,2,2,2,5,7,1.22,1.97
+535,2021-06-22,666158,622503,,ball,12,Gavin Lux strikes out swinging.,1,2,2,4,7,0.17,4.14
+536,2021-06-22,666158,622503,,foul,7,Gavin Lux strikes out swinging.,1,1,2,3,7,-0.37,2.0
+537,2021-06-22,666158,622503,,ball,14,Gavin Lux strikes out swinging.,0,1,2,2,7,0.37,0.11
+538,2021-06-22,666158,622503,,called_strike,11,Gavin Lux strikes out swinging.,0,0,2,1,7,-0.84,2.86
+539,2021-06-22,666158,453343,field_out,hit_into_play,6,"Gavin Lux grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",1,1,1,3,9,0.56,2.21
+540,2021-06-22,666158,453343,,ball,13,"Gavin Lux grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",0,1,1,2,9,-0.62,1.37
+541,2021-06-22,666158,453343,,called_strike,8,"Gavin Lux grounds out, shortstop Fernando Tatis Jr.  to first baseman Eric Hosmer.",0,0,1,1,9,-0.1,2.05
+542,2021-06-21,666158,506433,field_error,hit_into_play,8,Gavin Lux reaches on a fielding error by first baseman Jake Cronenworth.,2,1,2,4,6,0.25,1.62
+543,2021-06-21,666158,506433,,ball,11,Gavin Lux reaches on a fielding error by first baseman Jake Cronenworth.,1,1,2,3,6,-1.29,2.81
+544,2021-06-21,666158,506433,,ball,14,Gavin Lux reaches on a fielding error by first baseman Jake Cronenworth.,0,1,2,2,6,1.04,2.49
+545,2021-06-21,666158,506433,,swinging_strike,2,Gavin Lux reaches on a fielding error by first baseman Jake Cronenworth.,0,0,2,1,6,-0.04,3.44
+546,2021-06-21,666158,506433,field_out,hit_into_play,8,Gavin Lux grounds out to first baseman Jake Cronenworth.,0,2,2,3,3,-0.15,1.48
+547,2021-06-21,666158,506433,,called_strike,9,Gavin Lux grounds out to first baseman Jake Cronenworth.,0,1,2,2,3,0.76,1.92
+548,2021-06-21,666158,506433,,foul,9,Gavin Lux grounds out to first baseman Jake Cronenworth.,0,0,2,1,3,0.37,1.95
+549,2021-06-21,666158,506433,walk,blocked_ball,14,Gavin Lux walks.,3,2,1,7,1,0.59,0.56
+550,2021-06-21,666158,506433,,foul,7,Gavin Lux walks.,3,2,1,6,1,-0.31,1.77
+551,2021-06-21,666158,506433,,foul,9,Gavin Lux walks.,3,1,1,5,1,0.71,1.72
+552,2021-06-21,666158,506433,,ball,14,Gavin Lux walks.,2,1,1,4,1,1.04,1.16
+553,2021-06-21,666158,506433,,ball,14,Gavin Lux walks.,1,1,1,3,1,0.64,0.65
+554,2021-06-21,666158,506433,,foul,8,Gavin Lux walks.,1,0,1,2,1,-0.22,1.83
+555,2021-06-21,666158,506433,,ball,4,Gavin Lux walks.,0,0,1,1,1,-0.81,2.45
+556,2021-06-21,666158,489334,field_out,hit_into_play,8,Gavin Lux lines out to right fielder Wil Myers.,1,1,0,3,8,0.07,1.75
+557,2021-06-21,666158,489334,,ball,13,Gavin Lux lines out to right fielder Wil Myers.,0,1,0,2,8,-0.33,1.37
+558,2021-06-21,666158,489334,,called_strike,9,Gavin Lux lines out to right fielder Wil Myers.,0,0,0,1,8,0.31,1.94
+559,2021-06-20,666158,622065,field_out,hit_into_play,7,Gavin Lux pops out to third baseman Eduardo Escobar in foul territory.,0,1,1,2,3,-0.77,2.0
+560,2021-06-20,666158,622065,,foul,4,Gavin Lux pops out to third baseman Eduardo Escobar in foul territory.,0,0,1,1,3,-0.54,2.31
+561,2021-06-20,666158,656686,strikeout,swinging_strike,11,Gavin Lux strikes out swinging.,2,2,1,5,6,-1.87,2.57
+562,2021-06-20,666158,656686,,swinging_strike,13,Gavin Lux strikes out swinging.,2,1,1,4,6,-0.93,1.81
+563,2021-06-20,666158,656686,,called_strike,4,Gavin Lux strikes out swinging.,2,0,1,3,6,-0.82,2.68
+564,2021-06-20,666158,656686,,ball,13,Gavin Lux strikes out swinging.,1,0,1,2,6,-1.03,1.44
+565,2021-06-20,666158,656686,,ball,13,Gavin Lux strikes out swinging.,0,0,1,1,6,-1.97,1.51
+566,2021-06-20,666158,622065,single,hit_into_play,5,Gavin Lux singles on a ground ball to center fielder Ketel Marte.,0,0,1,1,2,-0.26,2.4
+567,2021-06-20,666158,656686,walk,ball,11,Gavin Lux walks.,3,1,0,5,5,-1.09,2.85
+568,2021-06-20,666158,656686,,ball,13,Gavin Lux walks.,2,1,0,4,5,-1.31,1.59
+569,2021-06-20,666158,656686,,called_strike,9,Gavin Lux walks.,2,0,0,3,5,0.52,1.72
+570,2021-06-20,666158,656686,,ball,11,Gavin Lux walks.,1,0,0,2,5,-1.45,2.96
+571,2021-06-20,666158,656686,,ball,13,Gavin Lux walks.,0,0,0,1,5,-0.69,1.06
+572,2021-06-20,666158,488748,field_out,hit_into_play,2,Gavin Lux flies out to left fielder David Peralta in foul territory.,2,2,2,5,8,-0.22,3.22
+573,2021-06-20,666158,488748,,foul,6,Gavin Lux flies out to left fielder David Peralta in foul territory.,2,1,2,4,8,0.65,2.88
+574,2021-06-20,666158,488748,,ball,13,Gavin Lux flies out to left fielder David Peralta in foul territory.,1,1,2,3,8,-1.47,0.5
+575,2021-06-20,666158,488748,,ball,13,Gavin Lux flies out to left fielder David Peralta in foul territory.,0,1,2,2,8,-0.43,1.38
+576,2021-06-20,666158,488748,,swinging_strike,4,Gavin Lux flies out to left fielder David Peralta in foul territory.,0,0,2,1,8,-0.48,2.83
+577,2021-06-19,666158,676840,field_out,hit_into_play,5,Gavin Lux flies out to center fielder Ketel Marte.,0,0,2,1,4,-0.1,2.55
+578,2021-06-19,666158,676840,single,hit_into_play,1,Gavin Lux singles on a sharp line drive to left fielder David Peralta.   Zach McKinstry scores.    Mookie Betts to 2nd.,1,1,2,3,2,-0.49,3.01
+579,2021-06-19,666158,676840,,called_strike,9,Gavin Lux singles on a sharp line drive to left fielder David Peralta.   Zach McKinstry scores.    Mookie Betts to 2nd.,1,0,2,2,2,0.73,1.73
+580,2021-06-19,666158,676840,,ball,14,Gavin Lux singles on a sharp line drive to left fielder David Peralta.   Zach McKinstry scores.    Mookie Betts to 2nd.,0,0,2,1,2,0.71,1.11
+581,2021-06-19,666158,656464,walk,ball,13,Gavin Lux walks.   Zach McKinstry to 3rd.    Mookie Betts to 2nd.,3,2,2,6,6,-0.51,1.01
+582,2021-06-19,666158,607188,strikeout,swinging_strike_blocked,14,Gavin Lux strikes out swinging.,1,2,2,4,7,0.36,0.6
+583,2021-06-19,666158,607188,,ball,14,Gavin Lux strikes out swinging.,0,2,2,3,7,0.57,1.21
+584,2021-06-19,666158,656464,,called_strike,8,Gavin Lux walks.   Zach McKinstry to 3rd.    Mookie Betts to 2nd.,3,1,2,5,6,0.04,2.15
+585,2021-06-19,666158,607188,,foul,2,Gavin Lux strikes out swinging.,0,1,2,2,7,-0.17,3.44
+586,2021-06-19,666158,656464,,ball,11,Gavin Lux walks.   Zach McKinstry to 3rd.    Mookie Betts to 2nd.,2,1,2,4,6,-1.24,3.74
+587,2021-06-19,666158,656464,,ball,13,Gavin Lux walks.   Zach McKinstry to 3rd.    Mookie Betts to 2nd.,1,1,2,3,6,-1.05,1.35
+588,2021-06-19,666158,607188,,foul,8,Gavin Lux strikes out swinging.,0,0,2,1,7,-0.17,1.55
+589,2021-06-19,666158,656464,,ball,11,Gavin Lux walks.   Zach McKinstry to 3rd.    Mookie Betts to 2nd.,0,1,2,2,6,-0.96,3.39
+590,2021-06-19,666158,656464,,foul,4,Gavin Lux walks.   Zach McKinstry to 3rd.    Mookie Betts to 2nd.,0,0,2,1,6,-0.35,2.69
+591,2021-06-19,666158,676840,strikeout,swinging_strike,7,Gavin Lux strikes out swinging.,1,2,0,4,1,-0.44,1.53
+592,2021-06-19,666158,676840,,called_strike,14,Gavin Lux strikes out swinging.,1,1,0,3,1,0.4,1.35
+593,2021-06-19,666158,676840,,swinging_strike,9,Gavin Lux strikes out swinging.,1,0,0,2,1,0.3,1.96
+594,2021-06-19,666158,676840,,blocked_ball,13,Gavin Lux strikes out swinging.,0,0,0,1,1,-0.25,0.59
+595,2021-06-18,666158,592761,strikeout,called_strike,7,Gavin Lux called out on strikes.,2,2,1,10,5,-0.82,2.0
+596,2021-06-18,666158,592761,,foul,8,Gavin Lux called out on strikes.,2,2,1,9,5,-0.1,2.13
+597,2021-06-18,666158,592761,,foul,2,Gavin Lux called out on strikes.,2,2,1,8,5,0.19,3.18
+598,2021-06-18,666158,592761,,foul,11,Gavin Lux called out on strikes.,2,2,1,7,5,-0.37,3.76
+599,2021-06-18,666158,592761,,foul,1,Gavin Lux called out on strikes.,2,2,1,6,5,-0.6,3.09
+600,2021-06-18,666158,592761,,ball,12,Gavin Lux called out on strikes.,1,2,1,5,5,0.53,4.36
+601,2021-06-18,666158,592761,,foul,1,Gavin Lux called out on strikes.,1,2,1,4,5,-0.65,3.5
+602,2021-06-18,666158,592761,,ball,13,Gavin Lux called out on strikes.,0,2,1,3,5,-1.68,0.61
+603,2021-06-18,666158,592761,,called_strike,7,Gavin Lux called out on strikes.,0,1,1,2,5,-0.6,1.91
+604,2021-06-18,666158,592761,,called_strike,7,Gavin Lux called out on strikes.,0,0,1,1,5,-0.79,1.85
+605,2021-06-18,666158,592761,field_out,hit_into_play,13,"Gavin Lux grounds out, second baseman Eduardo Escobar to first baseman Christian Walker.",0,2,0,3,3,-0.43,1.29
+606,2021-06-18,666158,592761,,swinging_strike,13,"Gavin Lux grounds out, second baseman Eduardo Escobar to first baseman Christian Walker.",0,1,0,2,3,-0.66,1.01
+607,2021-06-18,666158,592761,,called_strike,8,"Gavin Lux grounds out, second baseman Eduardo Escobar to first baseman Christian Walker.",0,0,0,1,3,-0.18,1.7
+608,2021-06-18,666158,465657,field_out,hit_into_play,6,Gavin Lux flies out to right fielder Josh Rojas.,3,2,2,10,9,0.28,2.37
+609,2021-06-18,666158,465657,,foul,4,Gavin Lux flies out to right fielder Josh Rojas.,3,2,2,9,9,-0.65,2.87
+610,2021-06-18,666158,465657,,foul,4,Gavin Lux flies out to right fielder Josh Rojas.,3,2,2,8,9,-0.6,2.47
+611,2021-06-18,666158,465657,,foul,4,Gavin Lux flies out to right fielder Josh Rojas.,3,2,2,7,9,-0.64,2.59
+612,2021-06-18,666158,465657,,ball,11,Gavin Lux flies out to right fielder Josh Rojas.,2,2,2,6,9,-1.8,4.48
+613,2021-06-18,666158,465657,,foul,11,Gavin Lux flies out to right fielder Josh Rojas.,2,2,2,5,9,-0.28,3.93
+614,2021-06-18,666158,465657,,blocked_ball,14,Gavin Lux flies out to right fielder Josh Rojas.,1,2,2,4,9,0.58,0.43
+615,2021-06-18,666158,465657,,called_strike,11,Gavin Lux flies out to right fielder Josh Rojas.,1,1,2,3,9,-1.01,2.51
+616,2021-06-18,666158,465657,,called_strike,7,Gavin Lux flies out to right fielder Josh Rojas.,1,0,2,2,9,-0.59,1.9
+617,2021-06-18,666158,465657,,ball,13,Gavin Lux flies out to right fielder Josh Rojas.,0,0,2,1,9,-1.12,1.7
+618,2021-06-18,666158,573009,walk,ball,11,Gavin Lux walks.,3,1,0,5,8,-1.09,3.24
+619,2021-06-18,666158,573009,,ball,11,Gavin Lux walks.,2,1,0,4,8,-1.06,3.34
+620,2021-06-18,666158,573009,,ball,13,Gavin Lux walks.,1,1,0,3,8,-0.98,1.8
+621,2021-06-18,666158,573009,,called_strike,6,Gavin Lux walks.,1,0,0,2,8,0.54,2.83
+622,2021-06-18,666158,573009,,ball,1,Gavin Lux walks.,0,0,0,1,8,-0.78,2.82
+623,2021-06-16,666158,554430,single,hit_into_play,4,Gavin Lux singles on a sharp ground ball to left fielder Andrew McCutchen.,0,2,1,3,5,-0.57,2.64
+624,2021-06-16,666158,554430,,foul,14,Gavin Lux singles on a sharp ground ball to left fielder Andrew McCutchen.,0,1,1,2,5,0.99,2.34
+625,2021-06-16,666158,554430,,called_strike,7,Gavin Lux singles on a sharp ground ball to left fielder Andrew McCutchen.,0,0,1,1,5,-0.54,1.96
+626,2021-06-16,666158,554430,walk,ball,11,Gavin Lux walks.,3,1,1,5,3,-0.83,2.99
+627,2021-06-16,666158,554430,,ball,13,Gavin Lux walks.,2,1,1,4,3,-0.25,1.24
+628,2021-06-16,666158,554430,,ball,12,Gavin Lux walks.,1,1,1,3,3,0.3,4.08
+629,2021-06-16,666158,554430,,ball,11,Gavin Lux walks.,0,1,1,2,3,-1.59,3.64
+630,2021-06-16,666158,554430,,called_strike,4,Gavin Lux walks.,0,0,1,1,3,-0.8,2.32
+631,2021-06-16,666158,554430,single,hit_into_play,5,Gavin Lux singles on a line drive to left fielder Andrew McCutchen.   Mookie Betts to 2nd.,0,0,0,1,1,-0.03,2.53
+632,2021-06-16,666158,621237,strikeout,swinging_strike,9,Gavin Lux strikes out swinging.,2,2,1,5,7,0.8,2.09
+633,2021-06-16,666158,621237,,called_strike,4,Gavin Lux strikes out swinging.,2,1,1,4,7,-0.38,2.34
+634,2021-06-16,666158,621237,,called_strike,1,Gavin Lux strikes out swinging.,2,0,1,3,7,-0.45,3.09
+635,2021-06-16,666158,621237,,ball,13,Gavin Lux strikes out swinging.,1,0,1,2,7,-0.72,0.62
+636,2021-06-16,666158,621237,,ball,11,Gavin Lux strikes out swinging.,0,0,1,1,7,-1.0,3.69
+637,2021-06-15,666158,621107,field_out,hit_into_play,7,"Gavin Lux grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,0,1,5,-0.4,1.83
+638,2021-06-15,666158,621107,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,1,2,0,5,3,0.35,1.01
+639,2021-06-15,666158,621107,,foul,13,Gavin Lux strikes out swinging.,1,2,0,4,3,-0.94,2.3
+640,2021-06-15,666158,621107,,ball,14,Gavin Lux strikes out swinging.,0,2,0,3,3,1.19,2.38
+641,2021-06-15,666158,621107,,called_strike,9,Gavin Lux strikes out swinging.,0,1,0,2,3,0.29,1.72
+642,2021-06-15,666158,621107,,called_strike,7,Gavin Lux strikes out swinging.,0,0,0,1,3,-0.6,2.04
+643,2021-06-15,666158,605151,strikeout,called_strike,8,Gavin Lux called out on strikes.,1,2,2,4,8,0.13,2.05
+644,2021-06-15,666158,605151,,foul_tip,4,Gavin Lux called out on strikes.,1,1,2,3,8,-0.39,2.53
+645,2021-06-15,666158,605151,,called_strike,7,Gavin Lux called out on strikes.,1,0,2,2,8,-0.44,1.99
+646,2021-06-15,666158,605151,,ball,13,Gavin Lux called out on strikes.,0,0,2,1,8,-1.55,2.22
+647,2021-06-15,666158,624133,walk,ball,13,Gavin Lux walks.,3,2,0,6,7,-1.3,1.79
+648,2021-06-15,666158,624133,,foul,9,Gavin Lux walks.,3,1,0,5,7,0.4,2.06
+649,2021-06-15,666158,624133,,called_strike,5,Gavin Lux walks.,3,0,0,4,7,-0.18,2.36
+650,2021-06-15,666158,624133,,ball,14,Gavin Lux walks.,2,0,0,3,7,0.28,1.16
+651,2021-06-15,666158,624133,,ball,14,Gavin Lux walks.,1,0,0,2,7,0.17,1.36
+652,2021-06-15,666158,624133,,ball,13,Gavin Lux walks.,0,0,0,1,7,-1.43,0.47
+653,2021-06-15,666158,621107,single,hit_into_play,13,Gavin Lux singles on a ground ball to shortstop Luke Williams.,1,0,1,2,1,-0.97,2.22
+654,2021-06-15,666158,621107,,ball,13,Gavin Lux singles on a ground ball to shortstop Luke Williams.,0,0,1,1,1,-1.31,2.44
+655,2021-06-14,666158,675921,force_out,hit_into_play,7,"Gavin Lux grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Mookie Betts out at 2nd.    Gavin Lux to 1st.",2,2,0,5,4,-0.58,2.09
+656,2021-06-14,666158,675921,,called_strike,4,"Gavin Lux grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Mookie Betts out at 2nd.    Gavin Lux to 1st.",2,1,0,4,4,-0.49,2.72
+657,2021-06-14,666158,675921,,ball,11,"Gavin Lux grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Mookie Betts out at 2nd.    Gavin Lux to 1st.",1,1,0,3,4,-0.87,3.91
+658,2021-06-14,666158,675921,,blocked_ball,14,"Gavin Lux grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Mookie Betts out at 2nd.    Gavin Lux to 1st.",0,1,0,2,4,0.38,0.06
+659,2021-06-14,666158,675921,,foul,6,"Gavin Lux grounds into a force out, shortstop Ronald Torreyes to second baseman Jean Segura.   Mookie Betts out at 2nd.    Gavin Lux to 1st.",0,0,0,1,4,0.56,2.84
+660,2021-06-14,666158,675921,field_out,hit_into_play,4,Gavin Lux flies out to center fielder Odubel Herrera.,0,1,1,2,1,-0.49,2.88
+661,2021-06-14,666158,663559,strikeout,called_strike,2,Gavin Lux called out on strikes.,0,2,1,3,6,-0.21,2.89
+662,2021-06-14,666158,675921,,called_strike,7,Gavin Lux flies out to center fielder Odubel Herrera.,0,0,1,1,1,-0.61,2.11
+663,2021-06-14,666158,663559,,swinging_strike,2,Gavin Lux called out on strikes.,0,1,1,2,6,-0.05,3.56
+664,2021-06-14,666158,663559,,called_strike,7,Gavin Lux called out on strikes.,0,0,1,1,6,-0.47,1.95
+665,2021-06-13,666158,641540,strikeout,called_strike,3,Gavin Lux called out on strikes.,1,2,2,5,4,0.55,2.9
+666,2021-06-13,666158,641540,,foul,11,Gavin Lux called out on strikes.,1,2,2,4,4,-0.83,3.12
+667,2021-06-13,666158,641540,,ball,14,Gavin Lux called out on strikes.,0,2,2,3,4,1.28,-1.08
+668,2021-06-13,666158,641540,,foul,7,Gavin Lux called out on strikes.,0,1,2,2,4,-0.79,2.11
+669,2021-06-13,666158,641540,,foul,14,Gavin Lux called out on strikes.,0,0,2,1,4,0.36,1.46
+670,2021-06-13,666158,641540,single,hit_into_play,3,Gavin Lux singles on a fly ball to center fielder Adolis Garcia.,1,1,0,3,3,0.47,2.91
+671,2021-06-13,666158,641540,,foul,7,Gavin Lux singles on a fly ball to center fielder Adolis Garcia.,1,0,0,2,3,-0.8,1.71
+672,2021-06-13,666158,641540,,ball,11,Gavin Lux singles on a fly ball to center fielder Adolis Garcia.,0,0,0,1,3,-2.0,4.76
+673,2021-06-13,666158,667463,field_out,hit_into_play,6,"Gavin Lux grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.   Mookie Betts to 2nd.",1,2,0,4,7,0.47,2.25
+674,2021-06-13,666158,667463,,ball,13,"Gavin Lux grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.   Mookie Betts to 2nd.",0,2,0,3,7,-0.84,1.28
+675,2021-06-13,666158,667463,,swinging_strike,13,"Gavin Lux grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.   Mookie Betts to 2nd.",0,1,0,2,7,-0.67,1.27
+676,2021-06-13,666158,667463,,called_strike,8,"Gavin Lux grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.   Mookie Betts to 2nd.",0,0,0,1,7,-0.27,1.76
+677,2021-06-13,666158,641540,double,hit_into_play,5,Gavin Lux doubles (8) on a sharp line drive to center fielder Adolis Garcia.   Mookie Betts scores.,3,1,0,5,1,-0.06,2.19
+678,2021-06-13,666158,641540,,ball,11,Gavin Lux doubles (8) on a sharp line drive to center fielder Adolis Garcia.   Mookie Betts scores.,2,1,0,4,1,-1.68,3.44
+679,2021-06-13,666158,641540,,ball,14,Gavin Lux doubles (8) on a sharp line drive to center fielder Adolis Garcia.   Mookie Betts scores.,1,1,0,3,1,1.59,2.44
+680,2021-06-13,666158,641540,,ball,12,Gavin Lux doubles (8) on a sharp line drive to center fielder Adolis Garcia.   Mookie Betts scores.,0,1,0,2,1,0.12,3.82
+681,2021-06-13,666158,641540,,foul,4,Gavin Lux doubles (8) on a sharp line drive to center fielder Adolis Garcia.   Mookie Betts scores.,0,0,0,1,1,-0.38,2.31
+682,2021-06-11,666158,592314,double,hit_into_play,5,Gavin Lux doubles (7) on a sharp line drive to center fielder Adolis Garcia.   Will Smith scores.,0,0,1,1,3,-0.08,2.2
+683,2021-06-11,666158,592314,home_run,hit_into_play,4,Gavin Lux homers (6) on a fly ball to center field.   Cody Bellinger scores.    Chris Taylor scores.,0,1,1,2,1,-0.45,2.76
+684,2021-06-11,666158,592314,,called_strike,4,Gavin Lux homers (6) on a fly ball to center field.   Cody Bellinger scores.    Chris Taylor scores.,0,0,1,1,1,-0.52,2.6
+685,2021-06-11,666158,676969,field_out,hit_into_play,4,"Gavin Lux grounds out, pitcher Brett de Geus to first baseman Nate Lowe.",1,2,2,6,5,-0.34,2.44
+686,2021-06-11,666158,676969,,foul,2,"Gavin Lux grounds out, pitcher Brett de Geus to first baseman Nate Lowe.",1,2,2,5,5,-0.13,3.29
+687,2021-06-11,666158,676969,,foul,14,"Gavin Lux grounds out, pitcher Brett de Geus to first baseman Nate Lowe.",1,2,2,4,5,0.8,1.34
+688,2021-06-11,666158,660365,walk,ball,13,Gavin Lux walks.   Chris Taylor to 2nd.,3,1,2,5,4,-0.35,0.99
+689,2021-06-11,666158,676969,,blocked_ball,14,"Gavin Lux grounds out, pitcher Brett de Geus to first baseman Nate Lowe.",0,2,2,3,5,0.05,0.06
+690,2021-06-11,666158,676969,,called_strike,6,"Gavin Lux grounds out, pitcher Brett de Geus to first baseman Nate Lowe.",0,1,2,2,5,0.31,2.24
+691,2021-06-11,666158,660365,,blocked_ball,13,Gavin Lux walks.   Chris Taylor to 2nd.,2,1,2,4,4,-0.62,0.59
+692,2021-06-11,666158,676969,,called_strike,8,"Gavin Lux grounds out, pitcher Brett de Geus to first baseman Nate Lowe.",0,0,2,1,5,-0.1,1.63
+693,2021-06-11,666158,660365,,foul,2,Gavin Lux walks.   Chris Taylor to 2nd.,2,0,2,3,4,-0.19,3.27
+694,2021-06-11,666158,660365,,ball,11,Gavin Lux walks.   Chris Taylor to 2nd.,1,0,2,2,4,-1.08,2.55
+695,2021-06-11,666158,660365,,blocked_ball,13,Gavin Lux walks.   Chris Taylor to 2nd.,0,0,2,1,4,-0.97,-0.04
+696,2021-06-11,666158,518586,field_out,hit_into_play,5,Gavin Lux lines out sharply to right fielder Joey Gallo.,0,0,1,1,8,-0.01,2.71
+697,2021-06-10,666158,656605,force_out,hit_into_play,7,"Gavin Lux grounds into a force out, first baseman Erik Gonzalez to shortstop Kevin Newman.   Cody Bellinger to 3rd.    Matt Beaty out at 2nd.    Gavin Lux to 1st.",3,2,1,6,3,-0.32,1.62
+698,2021-06-10,666158,656605,,called_strike,4,"Gavin Lux grounds into a force out, first baseman Erik Gonzalez to shortstop Kevin Newman.   Cody Bellinger to 3rd.    Matt Beaty out at 2nd.    Gavin Lux to 1st.",3,1,1,5,3,-0.29,2.22
+699,2021-06-10,666158,656605,,ball,14,"Gavin Lux grounds into a force out, first baseman Erik Gonzalez to shortstop Kevin Newman.   Cody Bellinger to 3rd.    Matt Beaty out at 2nd.    Gavin Lux to 1st.",2,1,1,4,3,1.2,2.33
+700,2021-06-10,666158,656605,,swinging_strike,6,"Gavin Lux grounds into a force out, first baseman Erik Gonzalez to shortstop Kevin Newman.   Cody Bellinger to 3rd.    Matt Beaty out at 2nd.    Gavin Lux to 1st.",2,0,1,3,3,0.31,2.66
+701,2021-06-10,666158,656605,,ball,11,"Gavin Lux grounds into a force out, first baseman Erik Gonzalez to shortstop Kevin Newman.   Cody Bellinger to 3rd.    Matt Beaty out at 2nd.    Gavin Lux to 1st.",1,0,1,2,3,-0.96,4.34
+702,2021-06-10,666158,656605,,ball,11,"Gavin Lux grounds into a force out, first baseman Erik Gonzalez to shortstop Kevin Newman.   Cody Bellinger to 3rd.    Matt Beaty out at 2nd.    Gavin Lux to 1st.",0,0,1,1,3,-1.5,5.21
+703,2021-06-10,666158,621249,walk,ball,11,Gavin Lux walks.   Matt Beaty to 3rd.    Zach McKinstry to 2nd.,3,2,1,6,7,-2.57,2.79
+704,2021-06-10,666158,621249,,ball,9,Gavin Lux walks.   Matt Beaty to 3rd.    Zach McKinstry to 2nd.,2,2,1,5,7,0.78,1.97
+705,2021-06-10,666158,621249,,ball,11,Gavin Lux walks.   Matt Beaty to 3rd.    Zach McKinstry to 2nd.,1,2,1,4,7,-1.25,3.93
+706,2021-06-10,666158,621249,,ball,11,Gavin Lux walks.   Matt Beaty to 3rd.    Zach McKinstry to 2nd.,0,2,1,3,7,-1.76,3.37
+707,2021-06-10,666158,621249,,foul,5,Gavin Lux walks.   Matt Beaty to 3rd.    Zach McKinstry to 2nd.,0,1,1,2,7,-0.03,2.19
+708,2021-06-10,666158,621249,,called_strike,9,Gavin Lux walks.   Matt Beaty to 3rd.    Zach McKinstry to 2nd.,0,0,1,1,7,0.5,1.62
+709,2021-06-10,666158,656605,single,hit_into_play,4,Gavin Lux singles on a ground ball to left fielder Ka'ai Tom.,0,1,1,2,2,-0.58,2.76
+710,2021-06-10,666158,656605,,called_strike,2,Gavin Lux singles on a ground ball to left fielder Ka'ai Tom.,0,0,1,1,2,0.17,3.31
+711,2021-06-10,666158,592741,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,0,2,2,3,5,-1.08,0.91
+712,2021-06-10,666158,592741,,foul,8,Gavin Lux strikes out swinging.,0,1,2,2,5,-0.05,1.62
+713,2021-06-10,666158,592741,,called_strike,5,Gavin Lux strikes out swinging.,0,0,2,1,5,0.05,2.44
+714,2021-06-09,666158,542881,field_out,hit_into_play,14,Gavin Lux flies out to right fielder Gregory Polanco.,1,2,2,4,6,0.87,2.41
+715,2021-06-09,666158,542881,,foul,9,Gavin Lux flies out to right fielder Gregory Polanco.,1,1,2,3,6,0.34,2.13
+716,2021-06-09,666158,542881,,ball,11,Gavin Lux flies out to right fielder Gregory Polanco.,0,1,2,2,6,-0.85,2.59
+717,2021-06-09,666158,542881,,called_strike,8,Gavin Lux flies out to right fielder Gregory Polanco.,0,0,2,1,6,-0.27,1.62
+718,2021-06-09,666158,542881,field_out,hit_into_play,7,Gavin Lux flies out to left fielder Ka'ai Tom.,0,0,2,1,4,-0.44,1.76
+719,2021-06-09,666158,542881,walk,ball,13,Gavin Lux walks.,3,2,2,7,2,-0.95,2.06
+720,2021-06-09,666158,542881,,ball,13,Gavin Lux walks.,2,2,2,6,2,-1.35,1.45
+721,2021-06-09,666158,542881,,ball,13,Gavin Lux walks.,1,2,2,5,2,-1.54,1.5
+722,2021-06-09,666158,542881,,foul,4,Gavin Lux walks.,1,2,2,4,2,-0.53,2.35
+723,2021-06-09,666158,542881,,called_strike,9,Gavin Lux walks.,1,1,2,3,2,0.68,1.78
+724,2021-06-09,666158,542881,,called_strike,5,Gavin Lux walks.,1,0,2,2,2,-0.03,2.11
+725,2021-06-09,666158,542881,,ball,12,Gavin Lux walks.,0,0,2,1,2,0.95,2.89
+726,2021-06-09,666158,607572,field_out,hit_into_play,13,"Gavin Lux grounds out, second baseman Adam Frazier to first baseman Phillip Evans.",0,0,2,1,8,-0.28,1.45
+727,2021-06-08,666158,664141,single,hit_into_play,2,"Gavin Lux singles on a line drive to right fielder Gregory Polanco.   Gavin Lux to 3rd.  Gavin Lux advances to 3rd, on a fielding error by right fielder Gregory Polanco.",0,1,1,2,5,0.14,3.37
+728,2021-06-08,666158,664141,,called_strike,9,"Gavin Lux singles on a line drive to right fielder Gregory Polanco.   Gavin Lux to 3rd.  Gavin Lux advances to 3rd, on a fielding error by right fielder Gregory Polanco.",0,0,1,1,5,0.32,1.94
+729,2021-06-08,666158,664141,strikeout,called_strike,6,Gavin Lux called out on strikes.,1,2,2,4,2,0.41,2.59
+730,2021-06-08,666158,664141,,foul,9,Gavin Lux called out on strikes.,1,1,2,3,2,0.68,1.82
+731,2021-06-08,666158,664141,,ball,14,Gavin Lux called out on strikes.,0,1,2,2,2,1.53,1.56
+732,2021-06-08,666158,664141,,called_strike,5,Gavin Lux called out on strikes.,0,0,2,1,2,-0.08,2.35
+733,2021-06-08,666158,621249,field_out,hit_into_play,7,"Gavin Lux grounds out, second baseman Adam Frazier to first baseman Colin Moran.",0,1,2,2,8,-0.68,1.5
+734,2021-06-08,666158,621249,,foul,2,"Gavin Lux grounds out, second baseman Adam Frazier to first baseman Colin Moran.",0,0,2,1,8,-0.04,2.97
+735,2021-06-08,666158,608717,field_out,hit_into_play,11,"Gavin Lux grounds out, second baseman Adam Frazier to first baseman Colin Moran.",0,0,1,1,6,-0.95,2.64
+736,2021-06-06,666158,608331,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,1,2,2,5,5,-1.1,1.76
+737,2021-06-06,666158,608331,,ball,7,Gavin Lux strikes out swinging.,0,2,2,4,5,-0.51,1.73
+738,2021-06-06,666158,608331,,foul,8,Gavin Lux strikes out swinging.,0,2,2,3,5,0.14,1.78
+739,2021-06-06,666158,608331,,foul,14,Gavin Lux strikes out swinging.,0,1,2,2,5,0.1,0.67
+740,2021-06-06,666158,608331,,called_strike,13,Gavin Lux strikes out swinging.,0,0,2,1,5,-0.87,1.74
+741,2021-06-06,666158,608331,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,2,2,1,5,3,-1.11,1.45
+742,2021-06-06,666158,608331,,ball,1,Gavin Lux strikes out swinging.,1,2,1,4,3,-0.36,3.5
+743,2021-06-06,666158,608331,,swinging_strike,9,Gavin Lux strikes out swinging.,1,1,1,3,3,0.69,1.64
+744,2021-06-06,666158,608331,,ball,13,Gavin Lux strikes out swinging.,0,1,1,2,3,-0.98,1.69
+745,2021-06-06,666158,608331,,called_strike,1,Gavin Lux strikes out swinging.,0,0,1,1,3,-0.32,2.94
+746,2021-06-06,666158,621345,field_out,hit_into_play,8,Gavin Lux flies out to left fielder Abraham Almonte.,2,1,1,4,7,-0.07,2.16
+747,2021-06-06,666158,621345,,ball,11,Gavin Lux flies out to left fielder Abraham Almonte.,1,1,1,3,7,-1.76,3.17
+748,2021-06-06,666158,621345,,called_strike,9,Gavin Lux flies out to left fielder Abraham Almonte.,1,0,1,2,7,0.6,1.52
+749,2021-06-06,666158,621345,,ball,3,Gavin Lux flies out to left fielder Abraham Almonte.,0,0,1,1,7,0.45,3.37
+750,2021-06-05,666158,450203,single,hit_into_play,8,Gavin Lux singles on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.    Matt Beaty to 2nd.,1,1,0,3,4,-0.14,2.06
+751,2021-06-05,666158,450203,,blocked_ball,14,Gavin Lux singles on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.    Matt Beaty to 2nd.,0,1,0,2,4,0.81,0.59
+752,2021-06-05,666158,450203,,called_strike,5,Gavin Lux singles on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.    Matt Beaty to 2nd.,0,0,0,1,4,-0.27,2.3
+753,2021-06-05,666158,450203,field_out,hit_into_play,8,"Gavin Lux grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",1,2,0,4,2,0.03,1.88
+754,2021-06-05,666158,450203,,called_strike,9,"Gavin Lux grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",1,1,0,3,2,0.71,2.1
+755,2021-06-05,666158,450203,,swinging_strike,4,"Gavin Lux grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",1,0,0,2,2,-0.56,2.61
+756,2021-06-05,666158,450203,,ball,14,"Gavin Lux grounds out, third baseman Austin Riley to first baseman Freddie Freeman.",0,0,0,1,2,1.58,1.51
+757,2021-06-05,666158,621345,field_out,hit_into_play,4,Gavin Lux pops out to shortstop Dansby Swanson.,0,1,0,2,6,-0.42,2.29
+758,2021-06-05,666158,621345,,called_strike,4,Gavin Lux pops out to shortstop Dansby Swanson.,0,0,0,1,6,-0.72,2.55
+759,2021-06-05,666158,455119,field_out,hit_into_play,4,Gavin Lux flies out to left fielder Ehire Adrianza.,0,2,0,3,8,-0.75,2.23
+760,2021-06-05,666158,455119,,foul,1,Gavin Lux flies out to left fielder Ehire Adrianza.,0,1,0,2,8,-0.41,3.06
+761,2021-06-05,666158,455119,,foul,4,Gavin Lux flies out to left fielder Ehire Adrianza.,0,0,0,1,8,-0.78,2.31
+762,2021-06-04,666158,666120,double,hit_into_play,6,Gavin Lux doubles (6) on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.,3,2,1,7,5,0.3,2.5
+763,2021-06-04,666158,666120,,foul,11,Gavin Lux doubles (6) on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.,3,2,1,6,5,-0.7,3.73
+764,2021-06-04,666158,666120,,swinging_strike,4,Gavin Lux doubles (6) on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.,3,1,1,5,5,-0.53,2.82
+765,2021-06-04,666158,666120,,called_strike,1,Gavin Lux doubles (6) on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.,3,0,1,4,5,-0.35,3.01
+766,2021-06-04,666158,666120,,ball,11,Gavin Lux doubles (6) on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.,2,0,1,3,5,-0.85,3.05
+767,2021-06-04,666158,666120,,blocked_ball,13,Gavin Lux doubles (6) on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.,1,0,1,2,5,-0.47,0.43
+768,2021-06-04,666158,666120,,ball,13,Gavin Lux doubles (6) on a sharp line drive to right fielder Ronald Acuna.   Chris Taylor to 3rd.,0,0,1,1,5,-1.39,1.83
+769,2021-06-04,666158,666120,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,0,2,0,3,3,-0.39,0.85
+770,2021-06-04,666158,666120,,foul,5,Gavin Lux strikes out swinging.,0,1,0,2,3,-0.02,2.25
+771,2021-06-04,666158,666120,,called_strike,3,Gavin Lux strikes out swinging.,0,0,0,1,3,0.4,2.94
+772,2021-06-04,666158,594795,walk,ball,13,Gavin Lux walks.,3,2,2,7,5,-0.2,1.48
+773,2021-06-04,666158,594795,,foul,2,Gavin Lux walks.,3,2,2,6,5,-0.08,3.48
+774,2021-06-04,666158,594795,,ball,13,Gavin Lux walks.,2,2,2,5,5,-0.45,1.24
+775,2021-06-04,666158,594795,,ball,11,Gavin Lux walks.,1,2,2,4,5,-0.74,3.76
+776,2021-06-04,666158,650828,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,1,2,0,4,8,0.28,1.16
+777,2021-06-04,666158,594795,,blocked_ball,14,Gavin Lux walks.,0,2,2,3,5,0.02,0.22
+778,2021-06-04,666158,594795,,foul,5,Gavin Lux walks.,0,1,2,2,5,0.24,2.23
+779,2021-06-04,666158,650828,,swinging_strike,8,Gavin Lux strikes out swinging.,1,1,0,3,8,0.0,1.82
+780,2021-06-04,666158,650828,,called_strike,2,Gavin Lux strikes out swinging.,1,0,0,2,8,-0.15,2.77
+781,2021-06-04,666158,594795,,called_strike,12,Gavin Lux walks.,0,0,2,1,5,0.78,3.42
+782,2021-06-04,666158,650828,,ball,14,Gavin Lux strikes out swinging.,0,0,0,1,8,0.94,1.66
+783,2021-06-02,666158,658551,field_error,hit_into_play,4,Gavin Lux reaches on a fielding error by second baseman Tommy Edman.,2,2,0,6,8,-0.63,2.48
+784,2021-06-02,666158,658551,,foul,4,Gavin Lux reaches on a fielding error by second baseman Tommy Edman.,2,2,0,5,8,-0.47,2.49
+785,2021-06-02,666158,658551,,foul,5,Gavin Lux reaches on a fielding error by second baseman Tommy Edman.,2,1,0,4,8,0.16,2.53
+786,2021-06-02,666158,658551,,ball,13,Gavin Lux reaches on a fielding error by second baseman Tommy Edman.,1,1,0,3,8,-0.93,2.21
+787,2021-06-02,666158,658551,,foul,4,Gavin Lux reaches on a fielding error by second baseman Tommy Edman.,1,0,0,2,8,-0.36,2.36
+788,2021-06-02,666158,658551,,ball,13,Gavin Lux reaches on a fielding error by second baseman Tommy Edman.,0,0,0,1,8,-1.36,0.95
+789,2021-06-02,666158,676220,strikeout,foul_tip,14,Gavin Lux strikes out on a foul tip.,3,2,2,8,5,0.04,1.2
+790,2021-06-02,666158,676220,,ball,14,Gavin Lux strikes out on a foul tip.,2,2,2,7,5,1.75,1.03
+791,2021-06-02,666158,676220,,foul,3,Gavin Lux strikes out on a foul tip.,2,2,2,6,5,0.35,2.9
+792,2021-06-02,666158,676220,,ball,12,Gavin Lux strikes out on a foul tip.,1,2,2,5,5,0.51,4.2
+793,2021-06-02,666158,643778,walk,ball,14,Gavin Lux walks.   Chris Taylor to 2nd.,3,1,1,5,4,0.55,1.41
+794,2021-06-02,666158,676220,,blocked_ball,13,Gavin Lux strikes out on a foul tip.,0,2,2,4,5,-0.3,0.94
+795,2021-06-02,666158,643778,,called_strike,13,Gavin Lux walks.   Chris Taylor to 2nd.,3,0,1,4,4,-0.42,1.53
+796,2021-06-02,666158,593372,single,hit_into_play,5,Gavin Lux singles on a sharp fly ball to center fielder Dylan Carlson.   Cody Bellinger scores.    Chris Taylor to 3rd.    Gavin Lux to 2nd.  Throwing error by shortstop Edmundo Sosa.,0,0,0,1,1,0.18,2.29
+797,2021-06-02,666158,643778,,ball,14,Gavin Lux walks.   Chris Taylor to 2nd.,2,0,1,3,4,0.49,1.34
+798,2021-06-02,666158,676220,,foul,1,Gavin Lux strikes out on a foul tip.,0,2,2,3,5,-0.66,3.33
+799,2021-06-02,666158,676220,,swinging_strike,2,Gavin Lux strikes out on a foul tip.,0,1,2,2,5,-0.06,3.31
+800,2021-06-02,666158,643778,,ball,13,Gavin Lux walks.   Chris Taylor to 2nd.,1,0,1,2,4,-0.26,1.47
+801,2021-06-02,666158,676220,,called_strike,6,Gavin Lux strikes out on a foul tip.,0,0,2,1,5,0.79,2.74
+802,2021-06-02,666158,643778,,blocked_ball,14,Gavin Lux walks.   Chris Taylor to 2nd.,0,0,1,1,4,0.54,0.85
+803,2021-06-02,666158,663765,field_out,hit_into_play,7,"Gavin Lux grounds out, second baseman Tommy Edman to first baseman Paul Goldschmidt.",0,0,0,1,2,-0.33,2.07
+804,2021-06-01,666158,607231,field_out,hit_into_play,6,Gavin Lux flies out to center fielder Dylan Carlson.,0,0,2,1,6,0.78,2.36
+805,2021-06-01,666158,607231,field_out,hit_into_play,4,Gavin Lux lines out to center fielder Dylan Carlson.,0,0,1,1,4,-0.69,2.29
+806,2021-06-01,666158,606149,field_out,hit_into_play,8,Gavin Lux flies out to center fielder Dylan Carlson.,2,2,2,5,8,-0.28,1.83
+807,2021-06-01,666158,606149,,foul_tip,6,Gavin Lux flies out to center fielder Dylan Carlson.,2,1,2,4,8,0.3,2.61
+808,2021-06-01,666158,606149,,called_strike,11,Gavin Lux flies out to center fielder Dylan Carlson.,2,0,2,3,8,-0.84,2.73
+809,2021-06-01,666158,606149,,ball,11,Gavin Lux flies out to center fielder Dylan Carlson.,1,0,2,2,8,-1.2,3.77
+810,2021-06-01,666158,606149,,ball,11,Gavin Lux flies out to center fielder Dylan Carlson.,0,0,2,1,8,-1.63,4.51
+811,2021-06-01,666158,607231,field_out,hit_into_play,2,Gavin Lux pops out to second baseman Tommy Edman.,1,1,0,3,2,-0.09,3.12
+812,2021-06-01,666158,607231,,called_strike,1,Gavin Lux pops out to second baseman Tommy Edman.,1,0,0,2,2,-0.8,3.29
+813,2021-06-01,666158,607231,,ball,11,Gavin Lux pops out to second baseman Tommy Edman.,0,0,0,1,2,-1.03,5.28
+814,2021-05-31,666158,656427,strikeout,called_strike,13,Gavin Lux called out on strikes.,2,2,2,5,4,-0.9,1.63
+815,2021-05-31,666158,656427,,swinging_strike,6,Gavin Lux called out on strikes.,2,1,2,4,4,0.58,2.23
+816,2021-05-31,666158,656427,,ball,11,Gavin Lux called out on strikes.,1,1,2,3,4,-1.85,3.1
+817,2021-05-31,666158,656427,,ball,14,Gavin Lux called out on strikes.,0,1,2,2,4,0.55,0.39
+818,2021-05-31,666158,656427,,foul,3,Gavin Lux called out on strikes.,0,0,2,1,4,0.81,3.33
+819,2021-05-31,666158,594965,home_run,hit_into_play,5,Gavin Lux homers (5) on a fly ball to center field.,0,1,1,2,8,-0.21,2.5
+820,2021-05-31,666158,594965,,called_strike,7,Gavin Lux homers (5) on a fly ball to center field.,0,0,1,1,8,-0.47,1.94
+821,2021-05-31,666158,656427,home_run,hit_into_play,2,Gavin Lux homers (4) on a fly ball to right center field.,1,0,1,2,2,-0.27,3.04
+822,2021-05-31,666158,656427,,ball,11,Gavin Lux homers (4) on a fly ball to right center field.,0,0,1,1,2,-1.33,3.88
+823,2021-05-31,666158,650893,strikeout,called_strike,1,Gavin Lux called out on strikes.,0,2,1,3,6,-0.65,2.97
+824,2021-05-31,666158,650893,,swinging_strike,11,Gavin Lux called out on strikes.,0,1,1,2,6,-0.29,3.96
+825,2021-05-31,666158,650893,,swinging_strike,3,Gavin Lux called out on strikes.,0,0,1,1,6,0.79,3.54
+826,2021-05-30,666158,592332,field_out,hit_into_play,8,Gavin Lux flies out to right fielder Austin Slater.,1,0,1,2,4,-0.01,1.73
+827,2021-05-30,666158,592332,,ball,12,Gavin Lux flies out to right fielder Austin Slater.,0,0,1,1,4,0.82,3.62
+828,2021-05-30,666158,592332,double,hit_into_play,5,Gavin Lux doubles (5) on a sharp line drive to center fielder Steven Duggar.,0,1,1,2,2,-0.07,2.67
+829,2021-05-30,666158,592332,,called_strike,9,Gavin Lux doubles (5) on a sharp line drive to center fielder Steven Duggar.,0,0,1,1,2,0.28,2.27
+830,2021-05-30,666158,606424,field_out,hit_into_play,3,Gavin Lux pops out to shortstop Mauricio Dubon.,3,1,0,5,7,0.78,3.32
+831,2021-05-30,666158,606424,,blocked_ball,13,Gavin Lux pops out to shortstop Mauricio Dubon.,2,1,0,4,7,-1.55,0.61
+832,2021-05-30,666158,606424,,ball,13,Gavin Lux pops out to shortstop Mauricio Dubon.,1,1,0,3,7,-0.96,1.35
+833,2021-05-30,666158,606424,,called_strike,7,Gavin Lux pops out to shortstop Mauricio Dubon.,1,0,0,2,7,-0.44,2.03
+834,2021-05-30,666158,606424,,ball,13,Gavin Lux pops out to shortstop Mauricio Dubon.,0,0,0,1,7,-1.45,1.36
+835,2021-05-30,666158,459429,strikeout,called_strike,7,Gavin Lux called out on strikes.,0,2,0,3,9,-0.61,1.96
+836,2021-05-30,666158,459429,,foul,5,Gavin Lux called out on strikes.,0,1,0,2,9,0.22,2.72
+837,2021-05-30,666158,459429,,called_strike,8,Gavin Lux called out on strikes.,0,0,0,1,9,0.11,2.13
+838,2021-05-29,666158,657277,field_out,hit_into_play,4,"Gavin Lux grounds out, shortstop Brandon Crawford to first baseman Wilmer Flores.",0,0,2,1,5,-0.52,2.48
+839,2021-05-29,666158,657277,field_out,hit_into_play,8,Gavin Lux grounds out to first baseman Wilmer Flores.,2,0,2,3,2,-0.23,2.15
+840,2021-05-29,666158,657277,,ball,1,Gavin Lux grounds out to first baseman Wilmer Flores.,1,0,2,2,2,-0.81,3.09
+841,2021-05-29,666158,657277,,ball,11,Gavin Lux grounds out to first baseman Wilmer Flores.,0,0,2,1,2,-1.09,3.73
+842,2021-05-29,666158,605538,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,3,2,0,6,9,0.35,1.45
+843,2021-05-29,666158,605538,,called_strike,11,Gavin Lux strikes out swinging.,3,1,0,5,9,-0.87,3.27
+844,2021-05-29,666158,605538,,ball,11,Gavin Lux strikes out swinging.,2,1,0,4,9,-1.97,3.44
+845,2021-05-29,666158,605538,,ball,14,Gavin Lux strikes out swinging.,1,1,0,3,9,1.91,0.21
+846,2021-05-29,666158,605538,,called_strike,13,Gavin Lux strikes out swinging.,1,0,0,2,9,-0.39,1.43
+847,2021-05-29,666158,605538,,ball,11,Gavin Lux strikes out swinging.,0,0,0,1,9,-1.24,3.46
+848,2021-05-29,666158,501625,field_out,hit_into_play,4,Gavin Lux lines out to center fielder Mauricio Dubon.,1,2,1,4,7,-0.68,2.3
+849,2021-05-29,666158,501625,,foul,5,Gavin Lux lines out to center fielder Mauricio Dubon.,1,1,1,3,7,-0.06,2.22
+850,2021-05-29,666158,657277,hit_by_pitch,hit_by_pitch,14,Gavin Lux hit by pitch.,1,2,0,4,1,1.86,0.76
+851,2021-05-29,666158,501625,,ball,11,Gavin Lux lines out to center fielder Mauricio Dubon.,0,1,1,2,7,-1.17,2.9
+852,2021-05-29,666158,657277,,foul,8,Gavin Lux hit by pitch.,1,1,0,3,1,-0.09,1.97
+853,2021-05-29,666158,657277,,foul,2,Gavin Lux hit by pitch.,1,0,0,2,1,-0.21,2.91
+854,2021-05-29,666158,501625,,called_strike,5,Gavin Lux lines out to center fielder Mauricio Dubon.,0,0,1,1,7,0.13,2.26
+855,2021-05-29,666158,657277,,ball,11,Gavin Lux hit by pitch.,0,0,0,1,1,-0.89,3.8
+856,2021-05-28,666158,543101,field_out,hit_into_play,8,Gavin Lux flies out sharply to center fielder Steven Duggar.   Justin Turner to 3rd.,1,2,1,4,5,0.15,1.9
+857,2021-05-28,666158,543101,,ball,14,Gavin Lux flies out sharply to center fielder Steven Duggar.   Justin Turner to 3rd.,0,2,1,3,5,0.69,1.06
+858,2021-05-28,666158,543101,,foul,11,Gavin Lux flies out sharply to center fielder Steven Duggar.   Justin Turner to 3rd.,0,1,1,2,5,-0.4,3.62
+859,2021-05-28,666158,543101,,foul,4,Gavin Lux flies out sharply to center fielder Steven Duggar.   Justin Turner to 3rd.,0,0,1,1,5,-0.33,2.49
+860,2021-05-28,666158,543101,field_out,hit_into_play,13,Gavin Lux grounds out to first baseman LaMonte Wade.,2,1,2,4,3,-1.09,2.22
+861,2021-05-28,666158,543101,,swinging_strike,13,Gavin Lux grounds out to first baseman LaMonte Wade.,2,0,2,3,3,-0.42,1.37
+862,2021-05-28,666158,543101,,ball,12,Gavin Lux grounds out to first baseman LaMonte Wade.,1,0,2,2,3,1.0,4.29
+863,2021-05-28,666158,543101,,ball,11,Gavin Lux grounds out to first baseman LaMonte Wade.,0,0,2,1,3,-1.41,3.83
+864,2021-05-28,666158,641793,force_out,hit_into_play,1,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",3,2,1,6,7,-0.4,2.99
+865,2021-05-28,666158,643511,force_out,hit_into_play,5,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Justin Turner to 3rd.    Will Smith out at 2nd.    Gavin Lux to 1st.",0,2,1,3,9,0.12,2.55
+866,2021-05-28,666158,643511,,foul,11,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Justin Turner to 3rd.    Will Smith out at 2nd.    Gavin Lux to 1st.",0,1,1,2,9,-1.11,2.61
+867,2021-05-28,666158,641793,,foul,5,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",3,1,1,5,7,-0.26,2.75
+868,2021-05-28,666158,643511,,called_strike,13,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Justin Turner to 3rd.    Will Smith out at 2nd.    Gavin Lux to 1st.",0,0,1,1,9,-0.89,2.41
+869,2021-05-28,666158,641793,,ball,14,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",2,1,1,4,7,0.24,1.52
+870,2021-05-28,666158,641793,,ball,13,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",1,1,1,3,7,-1.06,1.51
+871,2021-05-28,666158,543101,field_out,hit_into_play,5,Gavin Lux flies out sharply to left fielder Alex Dickerson.,0,0,0,1,2,-0.14,2.53
+872,2021-05-28,666158,641793,,foul,5,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",1,0,1,2,7,-0.15,2.23
+873,2021-05-28,666158,641793,,ball,13,"Gavin Lux grounds into a force out, first baseman LaMonte Wade to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",0,0,1,1,7,-0.46,1.28
+874,2021-05-26,666158,677651,field_out,hit_into_play,5,Gavin Lux flies out to left fielder Aledmys Diaz.,0,0,0,1,4,-0.08,2.63
+875,2021-05-26,666158,677651,field_out,hit_into_play,8,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,2,1,5,2,-0.09,1.87
+876,2021-05-26,666158,677651,,ball,13,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,2,1,4,2,-1.0,2.33
+877,2021-05-26,666158,677651,,foul,2,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,2,1,3,2,-0.21,3.1
+878,2021-05-26,666158,677651,,foul,8,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,1,1,2,2,-0.15,2.07
+879,2021-05-26,666158,677651,,called_strike,9,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,1,1,2,0.7,1.96
+880,2021-05-26,666158,650556,walk,ball,14,Gavin Lux walks.,3,1,2,5,9,1.97,0.97
+881,2021-05-26,666158,650556,,ball,14,Gavin Lux walks.,2,1,2,4,9,0.45,1.35
+882,2021-05-26,666158,650556,,ball,11,Gavin Lux walks.,1,1,2,3,9,-0.18,5.4
+883,2021-05-26,666158,650556,,called_strike,7,Gavin Lux walks.,1,0,2,2,9,-0.78,2.1
+884,2021-05-26,666158,650556,,ball,14,Gavin Lux walks.,0,0,2,1,9,1.1,0.27
+885,2021-05-26,666158,548384,field_out,hit_into_play,9,Gavin Lux lines out to right fielder Kyle Tucker.,0,0,0,1,7,0.3,1.72
+886,2021-05-25,666158,425844,field_out,hit_into_play,4,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",3,1,1,5,5,-0.4,2.33
+887,2021-05-25,666158,425844,,ball,11,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",2,1,1,4,5,-1.79,3.54
+888,2021-05-25,666158,425844,,ball,11,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,1,1,3,5,-1.61,2.5
+889,2021-05-25,666158,425844,,called_strike,13,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",1,0,1,2,5,-0.92,2.34
+890,2021-05-25,666158,425844,,ball,11,"Gavin Lux grounds out, second baseman Jose Altuve to first baseman Yuli Gurriel.",0,0,1,1,5,-1.38,2.98
+891,2021-05-25,666158,668687,force_out,hit_into_play,5,"Astros challenged (play at 1st), call on the field was upheld: Gavin Lux grounds into a force out, second baseman Jose Altuve to shortstop Carlos Correa.   Max Muncy scores.    Chris Taylor to 3rd.    DJ Peters out at 2nd.    Gavin Lux to 1st.",3,2,1,7,9,0.0,2.78
+892,2021-05-25,666158,668687,,foul,14,"Astros challenged (play at 1st), call on the field was upheld: Gavin Lux grounds into a force out, second baseman Jose Altuve to shortstop Carlos Correa.   Max Muncy scores.    Chris Taylor to 3rd.    DJ Peters out at 2nd.    Gavin Lux to 1st.",3,2,1,6,9,1.05,1.86
+893,2021-05-25,666158,668687,,ball,11,"Astros challenged (play at 1st), call on the field was upheld: Gavin Lux grounds into a force out, second baseman Jose Altuve to shortstop Carlos Correa.   Max Muncy scores.    Chris Taylor to 3rd.    DJ Peters out at 2nd.    Gavin Lux to 1st.",2,2,1,5,9,-1.07,3.22
+894,2021-05-25,666158,668687,,swinging_strike,9,"Astros challenged (play at 1st), call on the field was upheld: Gavin Lux grounds into a force out, second baseman Jose Altuve to shortstop Carlos Correa.   Max Muncy scores.    Chris Taylor to 3rd.    DJ Peters out at 2nd.    Gavin Lux to 1st.",2,1,1,4,9,0.75,2.05
+895,2021-05-25,666158,668687,,ball,14,"Astros challenged (play at 1st), call on the field was upheld: Gavin Lux grounds into a force out, second baseman Jose Altuve to shortstop Carlos Correa.   Max Muncy scores.    Chris Taylor to 3rd.    DJ Peters out at 2nd.    Gavin Lux to 1st.",1,1,1,3,9,0.14,1.19
+896,2021-05-25,666158,668687,,swinging_strike_blocked,14,"Astros challenged (play at 1st), call on the field was upheld: Gavin Lux grounds into a force out, second baseman Jose Altuve to shortstop Carlos Correa.   Max Muncy scores.    Chris Taylor to 3rd.    DJ Peters out at 2nd.    Gavin Lux to 1st.",1,0,1,2,9,0.21,-0.01
+897,2021-05-25,666158,668687,,ball,11,"Astros challenged (play at 1st), call on the field was upheld: Gavin Lux grounds into a force out, second baseman Jose Altuve to shortstop Carlos Correa.   Max Muncy scores.    Chris Taylor to 3rd.    DJ Peters out at 2nd.    Gavin Lux to 1st.",0,0,1,1,9,-1.05,2.58
+898,2021-05-25,666158,660600,walk,ball,11,Gavin Lux walks.   Will Smith to 3rd.    Chris Taylor to 2nd.,3,1,2,5,8,-0.94,3.3
+899,2021-05-25,666158,660600,,called_strike,11,Gavin Lux walks.   Will Smith to 3rd.    Chris Taylor to 2nd.,3,0,2,4,8,-0.13,3.64
+900,2021-05-25,666158,660600,,ball,11,Gavin Lux walks.   Will Smith to 3rd.    Chris Taylor to 2nd.,2,0,2,3,8,-0.97,3.47
+901,2021-05-25,666158,660600,,ball,14,Gavin Lux walks.   Will Smith to 3rd.    Chris Taylor to 2nd.,1,0,2,2,8,0.97,1.1
+902,2021-05-25,666158,660600,,ball,14,Gavin Lux walks.   Will Smith to 3rd.    Chris Taylor to 2nd.,0,0,2,1,8,0.9,1.38
+903,2021-05-25,666158,425844,strikeout,swinging_strike_blocked,13,Gavin Lux strikes out swinging.,1,2,0,4,3,-0.3,0.68
+904,2021-05-25,666158,425844,,ball,11,Gavin Lux strikes out swinging.,0,2,0,3,3,-1.21,3.4
+905,2021-05-25,666158,425844,,foul,4,Gavin Lux strikes out swinging.,0,1,0,2,3,-0.36,2.41
+906,2021-05-25,666158,425844,,foul,8,Gavin Lux strikes out swinging.,0,0,0,1,3,0.08,1.86
+907,2021-05-25,666158,501925,single,hit_into_play,7,Gavin Lux singles on a sharp line drive to left fielder Chas McCormick.,3,2,0,7,7,-0.7,2.05
+908,2021-05-25,666158,501925,,ball,14,Gavin Lux singles on a sharp line drive to left fielder Chas McCormick.,2,2,0,6,7,0.88,2.38
+909,2021-05-25,666158,501925,,foul,13,Gavin Lux singles on a sharp line drive to left fielder Chas McCormick.,2,2,0,5,7,-1.29,2.29
+910,2021-05-25,666158,501925,,foul,4,Gavin Lux singles on a sharp line drive to left fielder Chas McCormick.,2,1,0,4,7,-0.34,2.82
+911,2021-05-25,666158,501925,,ball,14,Gavin Lux singles on a sharp line drive to left fielder Chas McCormick.,1,1,0,3,7,1.5,2.04
+912,2021-05-25,666158,501925,,ball,13,Gavin Lux singles on a sharp line drive to left fielder Chas McCormick.,0,1,0,2,7,-1.87,1.62
+913,2021-05-25,666158,501925,,called_strike,12,Gavin Lux singles on a sharp line drive to left fielder Chas McCormick.,0,0,0,1,7,0.68,3.36
+914,2021-05-23,666158,543101,home_run,hit_into_play,5,Gavin Lux hits a grand slam (3) to center field.   Chris Taylor scores.    DJ Peters scores.    Julio Urias scores.,0,1,2,2,3,0.09,2.56
+915,2021-05-23,666158,543101,,called_strike,5,Gavin Lux hits a grand slam (3) to center field.   Chris Taylor scores.    DJ Peters scores.    Julio Urias scores.,0,0,2,1,3,-0.04,2.5
+916,2021-05-23,666158,543101,strikeout,called_strike,6,Gavin Lux called out on strikes.,0,2,2,3,2,0.56,2.48
+917,2021-05-23,666158,543101,,swinging_strike,12,Gavin Lux called out on strikes.,0,1,2,2,2,0.19,3.82
+918,2021-05-23,666158,543101,,foul,9,Gavin Lux called out on strikes.,0,0,2,1,2,0.45,1.96
+919,2021-05-23,666158,607374,field_out,hit_into_play,13,"Gavin Lux grounds out sharply, second baseman Donovan Solano to first baseman Darin Ruf.",1,1,1,3,8,-0.91,2.44
+920,2021-05-23,666158,607374,,ball,13,"Gavin Lux grounds out sharply, second baseman Donovan Solano to first baseman Darin Ruf.",0,1,1,2,8,-1.87,2.17
+921,2021-05-23,666158,670056,strikeout,called_strike,13,Gavin Lux called out on strikes.,1,2,0,4,6,-0.86,2.26
+922,2021-05-23,666158,607374,,swinging_strike,13,"Gavin Lux grounds out sharply, second baseman Donovan Solano to first baseman Darin Ruf.",0,0,1,1,8,-0.65,1.2
+923,2021-05-23,666158,670056,,ball,11,Gavin Lux called out on strikes.,0,2,0,3,6,-1.07,2.82
+924,2021-05-23,666158,670056,,called_strike,7,Gavin Lux called out on strikes.,0,1,0,2,6,-0.34,2.12
+925,2021-05-23,666158,670056,,foul,6,Gavin Lux called out on strikes.,0,0,0,1,6,0.35,2.83
+926,2021-05-23,666158,543101,single,hit_into_play,4,Gavin Lux singles on a sharp line drive to left fielder Mike Tauchman.,0,0,0,1,1,-0.68,2.29
+927,2021-05-22,666158,431148,field_out,hit_into_play,6,"Gavin Lux grounds out, first baseman Brandon Belt to pitcher Scott Kazmir.",0,1,0,2,2,0.56,2.82
+928,2021-05-22,666158,431148,,called_strike,8,"Gavin Lux grounds out, first baseman Brandon Belt to pitcher Scott Kazmir.",0,0,0,1,2,0.01,1.68
+929,2021-05-22,666158,607374,single,hit_into_play,13,Gavin Lux singles on a fly ball to center fielder Steven Duggar.,0,0,0,1,7,-0.94,1.84
+930,2021-05-22,666158,501625,force_out,hit_into_play,8,"Gavin Lux grounds into a force out, second baseman Mauricio Dubon to shortstop Brandon Crawford.   Max Muncy to 3rd.    Sheldon Neuse out at 2nd.    Gavin Lux to 1st.",1,1,0,3,8,0.1,2.08
+931,2021-05-22,666158,501625,,ball,13,"Gavin Lux grounds into a force out, second baseman Mauricio Dubon to shortstop Brandon Crawford.   Max Muncy to 3rd.    Sheldon Neuse out at 2nd.    Gavin Lux to 1st.",0,1,0,2,8,-1.49,1.95
+932,2021-05-22,666158,501625,,foul,12,"Gavin Lux grounds into a force out, second baseman Mauricio Dubon to shortstop Brandon Crawford.   Max Muncy to 3rd.    Sheldon Neuse out at 2nd.    Gavin Lux to 1st.",0,0,0,1,8,1.07,2.58
+933,2021-05-22,666158,606424,field_out,hit_into_play,6,"Gavin Lux grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",0,2,0,3,5,0.75,2.7
+934,2021-05-22,666158,606424,,called_strike,6,"Gavin Lux grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",0,1,0,2,5,0.59,2.42
+935,2021-05-22,666158,606424,,called_strike,3,"Gavin Lux grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",0,0,0,1,5,0.47,3.24
+936,2021-05-21,666158,622072,double,hit_into_play,4,Gavin Lux doubles (4) on a line drive to center fielder Mike Tauchman.,1,2,1,4,6,-0.34,2.18
+937,2021-05-21,666158,622072,,foul,12,Gavin Lux doubles (4) on a line drive to center fielder Mike Tauchman.,1,1,1,3,6,0.91,3.12
+938,2021-05-21,666158,622072,,called_strike,13,Gavin Lux doubles (4) on a line drive to center fielder Mike Tauchman.,1,0,1,2,6,-1.06,1.56
+939,2021-05-21,666158,622072,,ball,11,Gavin Lux doubles (4) on a line drive to center fielder Mike Tauchman.,0,0,1,1,6,-1.55,2.76
+940,2021-05-21,666158,622072,single,hit_into_play,5,"Gavin Lux singles on a ground ball to shortstop Brandon Crawford, deflected by pitcher Alex Wood.",2,2,1,6,4,0.01,2.28
+941,2021-05-21,666158,622072,,ball,13,"Gavin Lux singles on a ground ball to shortstop Brandon Crawford, deflected by pitcher Alex Wood.",1,2,1,5,4,-1.73,0.9
+942,2021-05-21,666158,622072,,foul,9,"Gavin Lux singles on a ground ball to shortstop Brandon Crawford, deflected by pitcher Alex Wood.",1,2,1,4,4,0.62,1.71
+943,2021-05-21,666158,622072,,foul,13,"Gavin Lux singles on a ground ball to shortstop Brandon Crawford, deflected by pitcher Alex Wood.",1,1,1,3,4,-0.68,1.42
+944,2021-05-21,666158,622072,,called_strike,13,"Gavin Lux singles on a ground ball to shortstop Brandon Crawford, deflected by pitcher Alex Wood.",1,0,1,2,4,-1.03,1.78
+945,2021-05-21,666158,622072,,ball,13,"Gavin Lux singles on a ground ball to shortstop Brandon Crawford, deflected by pitcher Alex Wood.",0,0,1,1,4,-1.15,1.83
+946,2021-05-21,666158,622072,force_out,hit_into_play,13,"Gavin Lux grounds into a force out, third baseman Evan Longoria to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",0,1,0,2,2,-1.03,1.73
+947,2021-05-21,666158,622072,,called_strike,4,"Gavin Lux grounds into a force out, third baseman Evan Longoria to shortstop Brandon Crawford.   Will Smith out at 2nd.    Gavin Lux to 1st.",0,0,0,1,2,-0.65,2.46
+948,2021-05-21,666158,670056,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,1,2,1,4,8,-1.3,2.08
+949,2021-05-21,666158,670056,,ball,13,Gavin Lux strikes out swinging.,0,2,1,3,8,-1.24,2.22
+950,2021-05-21,666158,670056,,foul,3,Gavin Lux strikes out swinging.,0,1,1,2,8,0.56,3.34
+951,2021-05-21,666158,670056,,called_strike,4,Gavin Lux strikes out swinging.,0,0,1,1,8,-0.57,2.48
+952,2021-05-20,666158,518876,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,3,2,1,7,5,0.53,1.3
+953,2021-05-20,666158,518876,,foul,5,Gavin Lux strikes out swinging.,3,2,1,6,5,0.15,2.71
+954,2021-05-20,666158,518876,,foul,1,Gavin Lux strikes out swinging.,3,1,1,5,5,-0.68,3.03
+955,2021-05-20,666158,518876,,ball,11,Gavin Lux strikes out swinging.,2,1,1,4,5,-2.6,4.15
+956,2021-05-20,666158,518876,,foul,9,Gavin Lux strikes out swinging.,2,0,1,3,5,0.29,1.58
+957,2021-05-20,666158,518876,,ball,11,Gavin Lux strikes out swinging.,1,0,1,2,5,-1.42,2.55
+958,2021-05-20,666158,518876,,ball,13,Gavin Lux strikes out swinging.,0,0,1,1,5,-0.06,0.82
+959,2021-05-20,666158,518876,strikeout,swinging_strike,9,Gavin Lux strikes out swinging.,1,2,2,4,2,0.31,2.13
+960,2021-05-20,666158,518876,,called_strike,13,Gavin Lux strikes out swinging.,1,1,2,3,2,-0.39,1.46
+961,2021-05-20,666158,518876,,ball,14,Gavin Lux strikes out swinging.,0,1,2,2,2,0.86,1.26
+962,2021-05-20,666158,518876,,called_strike,8,Gavin Lux strikes out swinging.,0,0,2,1,2,-0.23,2.05
+963,2021-05-20,666158,465657,strikeout,called_strike,7,Gavin Lux called out on strikes.,0,2,0,3,8,-0.37,2.0
+964,2021-05-20,666158,465657,,swinging_strike,12,Gavin Lux called out on strikes.,0,1,0,2,8,0.15,3.89
+965,2021-05-20,666158,465657,,called_strike,1,Gavin Lux called out on strikes.,0,0,0,1,8,-0.34,3.19
+966,2021-05-19,666158,676840,field_error,hit_into_play,4,Gavin Lux reaches on a fielding error by first baseman Pavin Smith.,0,1,0,2,5,-0.3,2.22
+967,2021-05-19,666158,676840,,called_strike,13,Gavin Lux reaches on a fielding error by first baseman Pavin Smith.,0,0,0,1,5,-0.93,2.36
+968,2021-05-19,666158,676840,field_out,hit_into_play,5,Gavin Lux flies out to left fielder David Peralta.,0,0,2,1,2,0.02,2.75
+969,2021-05-19,666158,592761,single,hit_into_play,13,Gavin Lux singles on a ground ball to right fielder Josh Rojas.,0,1,2,2,8,-0.48,1.41
+970,2021-05-19,666158,592761,,swinging_strike,4,Gavin Lux singles on a ground ball to right fielder Josh Rojas.,0,0,2,1,8,-0.49,2.23
+971,2021-05-19,666158,573009,walk,ball,12,Gavin Lux walks.   Chris Taylor to 2nd.,3,1,0,5,7,1.07,3.95
+972,2021-05-19,666158,573009,,called_strike,4,Gavin Lux walks.   Chris Taylor to 2nd.,3,0,0,4,7,-0.5,2.52
+973,2021-05-19,666158,573009,,ball,11,Gavin Lux walks.   Chris Taylor to 2nd.,2,0,0,3,7,-1.84,3.33
+974,2021-05-19,666158,573009,,ball,11,Gavin Lux walks.   Chris Taylor to 2nd.,1,0,0,2,7,-1.03,3.86
+975,2021-05-19,666158,573009,,ball,1,Gavin Lux walks.   Chris Taylor to 2nd.,0,0,0,1,7,-0.72,3.05
+976,2021-05-18,666158,656686,strikeout,swinging_strike,11,Gavin Lux strikes out swinging.,3,2,1,7,4,-1.02,3.25
+977,2021-05-18,666158,656686,,foul,8,Gavin Lux strikes out swinging.,3,2,1,6,4,0.08,2.11
+978,2021-05-18,666158,656686,,called_strike,5,Gavin Lux strikes out swinging.,3,1,1,5,4,-0.23,2.21
+979,2021-05-18,666158,656686,,ball,11,Gavin Lux strikes out swinging.,2,1,1,4,4,-1.93,2.99
+980,2021-05-18,666158,656686,,blocked_ball,14,Gavin Lux strikes out swinging.,1,1,1,3,4,0.5,0.24
+981,2021-05-18,666158,656686,,foul,3,Gavin Lux strikes out swinging.,1,0,1,2,4,0.46,2.91
+982,2021-05-18,666158,656686,,ball,1,Gavin Lux strikes out swinging.,0,0,1,1,4,-0.82,3.2
+983,2021-05-18,666158,656686,field_out,hit_into_play,5,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",3,2,2,8,2,-0.21,2.33
+984,2021-05-18,666158,656686,,foul,13,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",3,2,2,7,2,-0.18,1.27
+985,2021-05-18,666158,656686,,ball,14,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",2,2,2,6,2,0.64,1.26
+986,2021-05-18,666158,656686,,ball,14,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",1,2,2,5,2,0.31,0.85
+987,2021-05-18,666158,656686,,ball,14,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",0,2,2,4,2,0.34,0.8
+988,2021-05-18,666158,656686,,foul,11,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",0,2,2,3,2,-0.91,2.77
+989,2021-05-18,666158,656686,,called_strike,1,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",0,1,2,2,2,-0.59,2.83
+990,2021-05-18,666158,656686,,called_strike,2,"Gavin Lux grounds out, first baseman Pavin Smith to pitcher Corbin Martin.",0,0,2,1,2,-0.02,3.3
+991,2021-05-18,666158,656464,home_run,hit_into_play,6,Gavin Lux hits a grand slam (2) to right field.   Chris Taylor scores.    Will Smith scores.    DJ Peters scores.,0,2,2,4,7,0.46,2.61
+992,2021-05-18,666158,656464,,foul,5,Gavin Lux hits a grand slam (2) to right field.   Chris Taylor scores.    Will Smith scores.    DJ Peters scores.,0,2,2,3,7,-0.05,2.84
+993,2021-05-18,666158,656464,,swinging_strike,13,Gavin Lux hits a grand slam (2) to right field.   Chris Taylor scores.    Will Smith scores.    DJ Peters scores.,0,1,2,2,7,-0.35,1.35
+994,2021-05-18,666158,656464,,called_strike,13,Gavin Lux hits a grand slam (2) to right field.   Chris Taylor scores.    Will Smith scores.    DJ Peters scores.,0,0,2,1,7,-1.02,2.1
+995,2021-05-18,666158,622065,single,hit_into_play,5,Gavin Lux singles on a sharp line drive to left fielder David Peralta.,1,0,2,2,6,-0.27,2.37
+996,2021-05-18,666158,622065,,ball,13,Gavin Lux singles on a sharp line drive to left fielder David Peralta.,0,0,2,1,6,-1.2,1.88
+997,2021-05-17,666158,518516,walk,ball,12,Gavin Lux walks.,3,2,1,6,4,0.76,3.92
+998,2021-05-17,666158,518516,,ball,13,Gavin Lux walks.,2,2,1,5,4,-1.82,1.71
+999,2021-05-17,666158,518516,,called_strike,11,Gavin Lux walks.,2,1,1,4,4,-1.02,3.01
+1000,2021-05-17,666158,518516,,foul,2,Gavin Lux walks.,2,0,1,3,4,0.17,3.03
+1001,2021-05-17,666158,518516,,ball,11,Gavin Lux walks.,1,0,1,2,4,-0.84,3.28
+1002,2021-05-17,666158,518516,,ball,11,Gavin Lux walks.,0,0,1,1,4,-1.05,3.43
+1003,2021-05-17,666158,592761,double,hit_into_play,5,Gavin Lux doubles (3) on a sharp line drive to center fielder Tim Locastro.   Sheldon Neuse to 3rd.,1,0,2,2,6,-0.04,2.27
+1004,2021-05-17,666158,592761,,ball,12,Gavin Lux doubles (3) on a sharp line drive to center fielder Tim Locastro.   Sheldon Neuse to 3rd.,0,0,2,1,6,0.3,4.36
+1005,2021-05-17,666158,518516,field_out,hit_into_play,2,Gavin Lux flies out to center fielder Tim Locastro.,2,1,1,4,2,-0.09,3.49
+1006,2021-05-17,666158,518516,,ball,11,Gavin Lux flies out to center fielder Tim Locastro.,1,1,1,3,2,-0.66,3.39
+1007,2021-05-17,666158,518516,,called_strike,11,Gavin Lux flies out to center fielder Tim Locastro.,1,0,1,2,2,-0.89,2.63
+1008,2021-05-17,666158,518516,,ball,12,Gavin Lux flies out to center fielder Tim Locastro.,0,0,1,1,2,0.74,4.27
+1009,2021-05-17,666158,664199,single,hit_into_play,2,Gavin Lux singles on a line drive to right fielder Josh Rojas.   Will Smith scores.,2,2,2,5,8,0.08,3.31
+1010,2021-05-17,666158,664199,,blocked_ball,14,Gavin Lux singles on a line drive to right fielder Josh Rojas.   Will Smith scores.,1,2,2,4,8,1.16,0.84
+1011,2021-05-17,666158,664199,,foul,12,Gavin Lux singles on a line drive to right fielder Josh Rojas.   Will Smith scores.,1,1,2,3,8,0.31,3.98
+1012,2021-05-17,666158,664199,,called_strike,9,Gavin Lux singles on a line drive to right fielder Josh Rojas.   Will Smith scores.,1,0,2,2,8,0.54,1.85
+1013,2021-05-17,666158,664199,,ball,12,Gavin Lux singles on a line drive to right fielder Josh Rojas.   Will Smith scores.,0,0,2,1,8,0.18,4.13
+1014,2021-05-16,666158,641154,walk,ball,12,Gavin Lux walks.,3,2,2,8,3,1.49,2.74
+1015,2021-05-16,666158,641154,,foul,4,Gavin Lux walks.,3,2,2,7,3,-0.46,2.78
+1016,2021-05-16,666158,641154,,ball,14,Gavin Lux walks.,2,2,2,6,3,0.08,0.6
+1017,2021-05-16,666158,641154,,foul,12,Gavin Lux walks.,2,2,2,5,3,0.34,3.62
+1018,2021-05-16,666158,641154,,ball,14,Gavin Lux walks.,1,2,2,4,3,0.64,0.02
+1019,2021-05-16,666158,641154,,called_strike,11,Gavin Lux walks.,1,1,2,3,3,-0.99,2.7
+1020,2021-05-16,666158,641154,,ball,12,Gavin Lux walks.,0,1,2,2,3,0.14,3.59
+1021,2021-05-16,666158,641154,,called_strike,4,Gavin Lux walks.,0,0,2,1,3,-0.39,2.63
+1022,2021-05-16,666158,641154,field_out,hit_into_play,3,Gavin Lux lines out to left fielder Corey Dickerson.,1,0,2,2,1,0.29,2.89
+1023,2021-05-16,666158,641154,,ball,14,Gavin Lux lines out to left fielder Corey Dickerson.,0,0,2,1,1,1.33,2.01
+1024,2021-05-16,666158,571670,single,hit_into_play,2,Gavin Lux singles on a line drive to center fielder Magneuris Sierra.   Matt Beaty to 3rd.,1,1,2,3,8,-0.1,2.9
+1025,2021-05-16,666158,542947,field_out,hit_into_play,9,Gavin Lux grounds out to first baseman Garrett Cooper.,3,2,0,8,6,0.32,1.9
+1026,2021-05-16,666158,571670,,ball,12,Gavin Lux singles on a line drive to center fielder Magneuris Sierra.   Matt Beaty to 3rd.,0,1,2,2,8,0.28,4.02
+1027,2021-05-16,666158,542947,,foul,6,Gavin Lux grounds out to first baseman Garrett Cooper.,3,2,0,7,6,0.78,2.52
+1028,2021-05-16,666158,571670,,called_strike,11,Gavin Lux singles on a line drive to center fielder Magneuris Sierra.   Matt Beaty to 3rd.,0,0,2,1,8,-0.59,3.52
+1029,2021-05-16,666158,542947,,ball,13,Gavin Lux grounds out to first baseman Garrett Cooper.,2,2,0,6,6,-2.66,0.42
+1030,2021-05-16,666158,542947,,foul,14,Gavin Lux grounds out to first baseman Garrett Cooper.,2,2,0,5,6,0.85,2.24
+1031,2021-05-16,666158,542947,,ball,13,Gavin Lux grounds out to first baseman Garrett Cooper.,1,2,0,4,6,-3.27,0.53
+1032,2021-05-16,666158,542947,,swinging_strike,8,Gavin Lux grounds out to first baseman Garrett Cooper.,1,1,0,3,6,-0.07,1.53
+1033,2021-05-16,666158,542947,,swinging_strike,9,Gavin Lux grounds out to first baseman Garrett Cooper.,1,0,0,2,6,0.49,1.94
+1034,2021-05-16,666158,542947,,ball,13,Gavin Lux grounds out to first baseman Garrett Cooper.,0,0,0,1,6,-1.14,1.71
+1035,2021-05-15,666158,666129,walk,ball,13,Gavin Lux walks.   Chris Taylor to 3rd.    Luke Raley to 2nd.,3,0,0,4,8,-0.42,1.37
+1036,2021-05-15,666158,666129,,ball,11,Gavin Lux walks.   Chris Taylor to 3rd.    Luke Raley to 2nd.,2,0,0,3,8,-0.66,3.75
+1037,2021-05-15,666158,666129,,ball,13,Gavin Lux walks.   Chris Taylor to 3rd.    Luke Raley to 2nd.,1,0,0,2,8,-0.18,1.23
+1038,2021-05-15,666158,666129,,ball,11,Gavin Lux walks.   Chris Taylor to 3rd.    Luke Raley to 2nd.,0,0,0,1,8,-0.16,4.28
+1039,2021-05-15,666158,656548,strikeout,swinging_strike_blocked,13,Gavin Lux strikes out swinging.,2,2,2,5,2,-1.38,0.91
+1040,2021-05-15,666158,656548,,called_strike,3,Gavin Lux strikes out swinging.,2,1,2,4,2,0.34,3.19
+1041,2021-05-15,666158,656548,,called_strike,6,Gavin Lux strikes out swinging.,2,0,2,3,2,0.72,2.49
+1042,2021-05-15,666158,656548,,ball,11,Gavin Lux strikes out swinging.,1,0,2,2,2,-0.74,3.91
+1043,2021-05-15,666158,656548,,ball,12,Gavin Lux strikes out swinging.,0,0,2,1,2,0.22,4.11
+1044,2021-05-15,666158,446321,field_out,hit_into_play,9,"Gavin Lux grounds out, second baseman Jon Berti to first baseman Jesus Aguilar.   Max Muncy scores.    Will Smith to 3rd.    Chris Taylor to 2nd.",0,1,1,2,4,0.51,2.04
+1045,2021-05-15,666158,666129,strikeout,swinging_strike,5,Gavin Lux strikes out swinging.,2,2,0,7,6,-0.18,2.72
+1046,2021-05-15,666158,446321,,foul,4,"Gavin Lux grounds out, second baseman Jon Berti to first baseman Jesus Aguilar.   Max Muncy scores.    Will Smith to 3rd.    Chris Taylor to 2nd.",0,0,1,1,4,-0.76,2.7
+1047,2021-05-15,666158,666129,,ball,13,Gavin Lux strikes out swinging.,1,2,0,6,6,-0.22,-0.03
+1048,2021-05-15,666158,666129,,foul,13,Gavin Lux strikes out swinging.,1,2,0,5,6,-0.29,1.13
+1049,2021-05-15,666158,666129,,foul,4,Gavin Lux strikes out swinging.,1,2,0,4,6,-0.35,2.36
+1050,2021-05-15,666158,666129,,foul,5,Gavin Lux strikes out swinging.,1,1,0,3,6,-0.19,2.77
+1051,2021-05-15,666158,666129,,ball,13,Gavin Lux strikes out swinging.,0,1,0,2,6,-1.18,2.02
+1052,2021-05-15,666158,666129,,foul,2,Gavin Lux strikes out swinging.,0,0,0,1,6,0.07,3.41
+1053,2021-05-14,666158,645261,double,hit_into_play,8,Gavin Lux doubles (2) on a sharp line drive to left fielder Adam Duvall.   Chris Taylor to 3rd.,1,1,0,3,2,-0.27,1.78
+1054,2021-05-14,666158,645261,,blocked_ball,14,Gavin Lux doubles (2) on a sharp line drive to left fielder Adam Duvall.   Chris Taylor to 3rd.,0,1,0,2,2,0.17,0.61
+1055,2021-05-14,666158,645261,,called_strike,2,Gavin Lux doubles (2) on a sharp line drive to left fielder Adam Duvall.   Chris Taylor to 3rd.,0,0,0,1,2,-0.15,3.21
+1056,2021-05-14,666158,595928,field_out,hit_into_play,4,Gavin Lux flies out to left fielder Adam Duvall.,0,1,0,2,5,-0.32,2.76
+1057,2021-05-14,666158,595928,,swinging_strike,14,Gavin Lux flies out to left fielder Adam Duvall.,0,0,0,1,5,0.97,1.3
+1058,2021-05-14,666158,647315,field_out,hit_into_play,7,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",1,1,2,3,2,-0.69,1.66
+1059,2021-05-14,666158,647315,,ball,13,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,1,2,2,2,-0.04,0.66
+1060,2021-05-14,666158,647315,,called_strike,8,"Gavin Lux grounds out, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,0,2,1,2,0.16,1.95
+1061,2021-05-14,666158,446321,field_out,hit_into_play,6,Gavin Lux lines out to pitcher Ross Detwiler.   Justin Turner scores.    Max Muncy to 3rd.  Throwing error by pitcher Ross Detwiler.,2,1,0,4,7,0.41,2.28
+1062,2021-05-14,666158,446321,,called_strike,1,Gavin Lux lines out to pitcher Ross Detwiler.   Justin Turner scores.    Max Muncy to 3rd.  Throwing error by pitcher Ross Detwiler.,2,0,0,3,7,-0.36,3.27
+1063,2021-05-14,666158,446321,,ball,11,Gavin Lux lines out to pitcher Ross Detwiler.   Justin Turner scores.    Max Muncy to 3rd.  Throwing error by pitcher Ross Detwiler.,1,0,0,2,7,-1.72,2.49
+1064,2021-05-14,666158,446321,,ball,14,Gavin Lux lines out to pitcher Ross Detwiler.   Justin Turner scores.    Max Muncy to 3rd.  Throwing error by pitcher Ross Detwiler.,0,0,0,1,7,0.8,1.37
+1065,2021-05-12,666158,643290,field_out,hit_into_play,4,"Gavin Lux grounds out sharply, third baseman Kyle Seager to first baseman Evan White.",2,2,0,5,3,-0.83,2.37
+1066,2021-05-12,666158,643290,,foul,7,"Gavin Lux grounds out sharply, third baseman Kyle Seager to first baseman Evan White.",2,1,0,4,3,-0.49,1.96
+1067,2021-05-12,666158,643290,,called_strike,8,"Gavin Lux grounds out sharply, third baseman Kyle Seager to first baseman Evan White.",2,0,0,3,3,-0.06,1.52
+1068,2021-05-12,666158,643290,,ball,14,"Gavin Lux grounds out sharply, third baseman Kyle Seager to first baseman Evan White.",1,0,0,2,3,0.94,2.02
+1069,2021-05-12,666158,643290,,ball,13,"Gavin Lux grounds out sharply, third baseman Kyle Seager to first baseman Evan White.",0,0,0,1,3,-0.93,1.3
+1070,2021-05-12,666158,667465,single,hit_into_play,5,Gavin Lux singles on a ground ball to shortstop J.  P. Crawford.   AJ Pollock to 2nd.,2,2,2,5,7,0.01,2.61
+1071,2021-05-12,666158,667465,,ball,14,Gavin Lux singles on a ground ball to shortstop J.  P. Crawford.   AJ Pollock to 2nd.,1,2,2,4,7,1.29,2.45
+1072,2021-05-12,666158,667465,,blocked_ball,13,Gavin Lux singles on a ground ball to shortstop J.  P. Crawford.   AJ Pollock to 2nd.,0,2,2,3,7,-2.54,-0.02
+1073,2021-05-12,666158,667465,,called_strike,8,Gavin Lux singles on a ground ball to shortstop J.  P. Crawford.   AJ Pollock to 2nd.,0,1,2,2,7,0.11,1.93
+1074,2021-05-12,666158,667465,,called_strike,14,Gavin Lux singles on a ground ball to shortstop J.  P. Crawford.   AJ Pollock to 2nd.,0,0,2,1,7,0.01,1.52
+1075,2021-05-12,666158,608638,single,hit_into_play,4,Gavin Lux singles on a line drive to center fielder Kyle Lewis.   Chris Taylor scores.    Matt Beaty to 2nd.,0,2,2,3,5,-0.57,2.4
+1076,2021-05-12,666158,608638,,swinging_strike,14,Gavin Lux singles on a line drive to center fielder Kyle Lewis.   Chris Taylor scores.    Matt Beaty to 2nd.,0,1,2,2,5,0.86,1.33
+1077,2021-05-12,666158,676684,fielders_choice_out,hit_into_play,5,"Gavin Lux reaches on a fielder's choice out, first baseman Evan White to catcher Tom Murphy.   Will Smith out at home.    Matt Beaty to 3rd.",1,0,1,2,4,-0.2,2.35
+1078,2021-05-12,666158,608638,,swinging_strike,14,Gavin Lux singles on a line drive to center fielder Kyle Lewis.   Chris Taylor scores.    Matt Beaty to 2nd.,0,0,2,1,5,0.91,1.73
+1079,2021-05-12,666158,676684,,ball,11,"Gavin Lux reaches on a fielder's choice out, first baseman Evan White to catcher Tom Murphy.   Will Smith out at home.    Matt Beaty to 3rd.",0,0,1,1,4,-0.46,3.89
+1080,2021-05-11,666158,579328,single,hit_into_play,14,Gavin Lux singles on a ground ball to third baseman Kyle Seager.   Chris Taylor to 2nd.,1,2,1,4,7,1.01,2.1
+1081,2021-05-11,666158,579328,,foul,2,Gavin Lux singles on a ground ball to third baseman Kyle Seager.   Chris Taylor to 2nd.,1,1,1,3,7,0.14,3.15
+1082,2021-05-11,666158,579328,,ball,13,Gavin Lux singles on a ground ball to third baseman Kyle Seager.   Chris Taylor to 2nd.,0,1,1,2,7,-1.14,1.98
+1083,2021-05-11,666158,579328,,foul,8,Gavin Lux singles on a ground ball to third baseman Kyle Seager.   Chris Taylor to 2nd.,0,0,1,1,7,-0.18,1.73
+1084,2021-05-11,666158,579328,strikeout,swinging_strike_blocked,14,Gavin Lux strikes out swinging.,0,2,0,3,5,0.64,0.93
+1085,2021-05-11,666158,579328,,foul,1,Gavin Lux strikes out swinging.,0,1,0,2,5,-0.45,3.48
+1086,2021-05-11,666158,579328,,swinging_strike,11,Gavin Lux strikes out swinging.,0,0,0,1,5,-0.03,3.61
+1087,2021-05-11,666158,579328,field_out,hit_into_play,8,Gavin Lux lines out to right fielder Mitch Haniger.,2,2,2,7,2,-0.19,1.58
+1088,2021-05-11,666158,579328,,foul,5,Gavin Lux lines out to right fielder Mitch Haniger.,2,2,2,6,2,0.26,2.55
+1089,2021-05-11,666158,579328,,foul,8,Gavin Lux lines out to right fielder Mitch Haniger.,2,2,2,5,2,0.21,2.0
+1090,2021-05-11,666158,579328,,blocked_ball,13,Gavin Lux lines out to right fielder Mitch Haniger.,1,2,2,4,2,-0.39,0.12
+1091,2021-05-11,666158,579328,,swinging_strike,5,Gavin Lux lines out to right fielder Mitch Haniger.,1,1,2,3,2,0.22,2.25
+1092,2021-05-11,666158,579328,,foul,12,Gavin Lux lines out to right fielder Mitch Haniger.,1,0,2,2,2,1.15,3.32
+1093,2021-05-11,666158,579328,,ball,12,Gavin Lux lines out to right fielder Mitch Haniger.,0,0,2,1,2,1.12,3.57
+1094,2021-05-11,666158,606160,home_run,hit_into_play,5,Gavin Lux homers (1) on a fly ball to right center field.    Chris Taylor scores.    Matt Beaty scores.,1,0,2,2,8,0.15,2.23
+1095,2021-05-11,666158,606160,,ball,14,Gavin Lux homers (1) on a fly ball to right center field.    Chris Taylor scores.    Matt Beaty scores.,0,0,2,1,8,1.09,1.1
+1096,2021-05-09,666158,500779,field_out,hit_into_play,12,Gavin Lux grounds out softly to first baseman Jared Walsh.,2,0,1,3,4,1.56,3.01
+1097,2021-05-09,666158,500779,,ball,14,Gavin Lux grounds out softly to first baseman Jared Walsh.,1,0,1,2,4,0.01,1.2
+1098,2021-05-09,666158,500779,,ball,12,Gavin Lux grounds out softly to first baseman Jared Walsh.,0,0,1,1,4,1.65,3.67
+1099,2021-05-09,666158,500779,field_error,hit_into_play,9,Gavin Lux reaches on a fielding error by first baseman Jared Walsh.,1,1,2,3,2,0.83,1.84
+1100,2021-05-09,666158,500779,,ball,13,Gavin Lux reaches on a fielding error by first baseman Jared Walsh.,0,1,2,2,2,-0.97,0.98
+1101,2021-05-09,666158,500779,,foul,9,Gavin Lux reaches on a fielding error by first baseman Jared Walsh.,0,0,2,1,2,0.42,2.07
+1102,2021-05-09,666158,628452,strikeout,swinging_strike,1,Gavin Lux strikes out swinging.,0,2,0,3,9,-0.58,3.37
+1103,2021-05-09,666158,628452,,foul_tip,3,Gavin Lux strikes out swinging.,0,1,0,2,9,0.56,3.26
+1104,2021-05-09,666158,592222,field_out,hit_into_play,5,Gavin Lux flies out sharply to center fielder Mike Trout.   Chris Taylor to 3rd.,0,0,1,1,6,0.16,2.49
+1105,2021-05-09,666158,628452,,swinging_strike,13,Gavin Lux strikes out swinging.,0,0,0,1,9,-0.82,1.36
+1106,2021-05-08,666158,605164,field_out,hit_into_play,13,Gavin Lux flies out to center fielder Mike Trout.,2,2,0,5,3,-1.05,2.09
+1107,2021-05-08,666158,605164,,foul,3,Gavin Lux flies out to center fielder Mike Trout.,2,1,0,4,3,0.7,2.9
+1108,2021-05-08,666158,605164,,foul,6,Gavin Lux flies out to center fielder Mike Trout.,2,0,0,3,3,0.43,2.74
+1109,2021-05-08,666158,605164,,ball,11,Gavin Lux flies out to center fielder Mike Trout.,1,0,0,2,3,-1.38,2.94
+1110,2021-05-08,666158,605164,,ball,11,Gavin Lux flies out to center fielder Mike Trout.,0,0,0,1,3,-1.19,3.0
+1111,2021-05-08,666158,448855,single,hit_into_play,7,Gavin Lux singles on a ground ball to pitcher Junior Guerra.   Matt Beaty to 2nd.,2,2,1,6,8,-0.49,2.04
+1112,2021-05-08,666158,448855,,foul,2,Gavin Lux singles on a ground ball to pitcher Junior Guerra.   Matt Beaty to 2nd.,2,2,1,5,8,0.15,3.11
+1113,2021-05-08,666158,448855,,foul,6,Gavin Lux singles on a ground ball to pitcher Junior Guerra.   Matt Beaty to 2nd.,2,1,1,4,8,0.38,2.58
+1114,2021-05-08,666158,570240,field_out,hit_into_play,4,Gavin Lux flies out to left fielder Justin Upton.,1,2,0,4,5,-0.7,2.5
+1115,2021-05-08,666158,570240,,called_strike,3,Gavin Lux flies out to left fielder Justin Upton.,1,1,0,3,5,0.72,2.85
+1116,2021-05-08,666158,448855,,foul,12,Gavin Lux singles on a ground ball to pitcher Junior Guerra.   Matt Beaty to 2nd.,2,0,1,3,8,0.27,3.78
+1117,2021-05-08,666158,570240,,swinging_strike,8,Gavin Lux flies out to left fielder Justin Upton.,1,0,0,2,5,-0.18,1.6
+1118,2021-05-08,666158,448855,,ball,12,Gavin Lux singles on a ground ball to pitcher Junior Guerra.   Matt Beaty to 2nd.,1,0,1,2,8,1.7,3.24
+1119,2021-05-08,666158,570240,,ball,11,Gavin Lux flies out to left fielder Justin Upton.,0,0,0,1,5,-0.61,4.18
+1120,2021-05-08,666158,448855,,ball,12,Gavin Lux singles on a ground ball to pitcher Junior Guerra.   Matt Beaty to 2nd.,0,0,1,1,8,0.52,4.31
+1121,2021-05-08,666158,592222,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,2,2,1,7,6,0.92,1.56
+1122,2021-05-08,666158,592222,,foul,9,Gavin Lux strikes out swinging.,2,2,1,6,6,0.44,2.04
+1123,2021-05-08,666158,592222,,foul,2,Gavin Lux strikes out swinging.,2,2,1,5,6,-0.17,2.93
+1124,2021-05-08,666158,592222,,ball,13,Gavin Lux strikes out swinging.,1,2,1,4,6,-0.33,0.11
+1125,2021-05-08,666158,592222,,called_strike,5,Gavin Lux strikes out swinging.,1,1,1,3,6,0.1,2.26
+1126,2021-05-08,666158,592222,,swinging_strike,13,Gavin Lux strikes out swinging.,1,0,1,2,6,-0.57,1.3
+1127,2021-05-08,666158,592222,,ball,13,Gavin Lux strikes out swinging.,0,0,1,1,6,-1.12,1.67
+1128,2021-05-07,666158,656288,single,hit_into_play,2,Gavin Lux singles on a line drive to right fielder Taylor Ward.,0,0,1,1,5,0.25,3.53
+1129,2021-05-07,666158,663776,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,0,2,0,3,9,-0.96,1.37
+1130,2021-05-07,666158,663776,,called_strike,2,Gavin Lux strikes out swinging.,0,1,0,2,9,-0.13,3.09
+1131,2021-05-07,666158,663776,,called_strike,4,Gavin Lux strikes out swinging.,0,0,0,1,9,-0.75,2.32
+1132,2021-05-07,666158,656288,field_out,hit_into_play,12,Gavin Lux pops out to second baseman David Fletcher.,0,2,2,4,2,0.59,3.8
+1133,2021-05-07,666158,656288,,foul,3,Gavin Lux pops out to second baseman David Fletcher.,0,2,2,3,2,0.65,3.56
+1134,2021-05-07,666158,656288,,foul,5,Gavin Lux pops out to second baseman David Fletcher.,0,1,2,2,2,0.21,2.26
+1135,2021-05-07,666158,656288,,called_strike,11,Gavin Lux pops out to second baseman David Fletcher.,0,0,2,1,2,-0.95,3.21
+1136,2021-05-07,666158,663776,strikeout,swinging_strike,6,Gavin Lux strikes out swinging.,0,2,0,3,7,0.48,2.25
+1137,2021-05-07,666158,663776,,called_strike,2,Gavin Lux strikes out swinging.,0,1,0,2,7,-0.09,2.96
+1138,2021-05-07,666158,663776,,foul,12,Gavin Lux strikes out swinging.,0,0,0,1,7,1.25,3.15
+1139,2021-05-05,666158,640470,double,hit_into_play,4,Gavin Lux doubles (1) on a fly ball to left fielder Joc Pederson.   Chris Taylor scores.,1,1,1,3,5,-0.63,2.19
+1140,2021-05-05,666158,640470,,called_strike,13,Gavin Lux doubles (1) on a fly ball to left fielder Joc Pederson.   Chris Taylor scores.,1,0,1,2,5,-0.98,1.8
+1141,2021-05-05,666158,640470,,ball,12,Gavin Lux doubles (1) on a fly ball to left fielder Joc Pederson.   Chris Taylor scores.,0,0,1,1,5,1.49,2.5
+1142,2021-05-05,666158,640470,field_out,hit_into_play,5,"Gavin Lux grounds out, first baseman Kris Bryant to pitcher Adbert Alzolay.",2,1,0,4,3,-0.22,2.54
+1143,2021-05-05,666158,640470,,ball,11,"Gavin Lux grounds out, first baseman Kris Bryant to pitcher Adbert Alzolay.",1,1,0,3,3,-1.2,2.64
+1144,2021-05-05,666158,640470,,foul,5,"Gavin Lux grounds out, first baseman Kris Bryant to pitcher Adbert Alzolay.",1,0,0,2,3,0.12,2.42
+1145,2021-05-05,666158,640470,,ball,11,"Gavin Lux grounds out, first baseman Kris Bryant to pitcher Adbert Alzolay.",0,0,0,1,3,-1.4,2.71
+1146,2021-05-05,666158,621219,single,hit_into_play,7,Gavin Lux singles on a line drive to right fielder Jason Heyward.   Matt Beaty to 2nd.,0,0,2,1,11,-0.39,1.78
+1147,2021-05-05,666158,518886,field_out,hit_into_play,6,Gavin Lux pops out to third baseman Matt Duffy.,3,2,1,7,9,0.5,2.43
+1148,2021-05-05,666158,518886,,ball,11,Gavin Lux pops out to third baseman Matt Duffy.,2,2,1,6,9,-1.51,4.66
+1149,2021-05-05,666158,518886,,ball,11,Gavin Lux pops out to third baseman Matt Duffy.,1,2,1,5,9,-2.05,3.84
+1150,2021-05-05,666158,518886,,ball,14,Gavin Lux pops out to third baseman Matt Duffy.,0,2,1,4,9,2.31,0.31
+1151,2021-05-05,666158,518886,,foul,7,Gavin Lux pops out to third baseman Matt Duffy.,0,2,1,3,9,-0.7,2.06
+1152,2021-05-05,666158,518886,,foul_tip,1,Gavin Lux pops out to third baseman Matt Duffy.,0,1,1,2,9,-0.64,2.97
+1153,2021-05-05,666158,572193,field_out,hit_into_play,5,Gavin Lux lines out sharply to right fielder Jason Heyward.,0,1,0,2,7,0.11,2.41
+1154,2021-05-05,666158,518886,,called_strike,4,Gavin Lux pops out to third baseman Matt Duffy.,0,0,1,1,9,-0.29,2.6
+1155,2021-05-05,666158,572193,,foul_bunt,5,Gavin Lux lines out sharply to right fielder Jason Heyward.,0,0,0,1,7,0.23,2.4
+1156,2021-05-04,666158,543294,force_out,hit_into_play,4,"Gavin Lux grounds into a force out, shortstop Javier Baez to third baseman David Bote.   Chris Taylor out at 2nd.",2,0,2,3,6,-0.41,2.27
+1157,2021-05-04,666158,543294,,ball,13,"Gavin Lux grounds into a force out, shortstop Javier Baez to third baseman David Bote.   Chris Taylor out at 2nd.",1,0,2,2,6,-1.42,2.07
+1158,2021-05-04,666158,543294,,ball,14,"Gavin Lux grounds into a force out, shortstop Javier Baez to third baseman David Bote.   Chris Taylor out at 2nd.",0,0,2,1,6,1.1,1.57
+1159,2021-05-04,666158,543294,single,hit_into_play,11,Gavin Lux singles on a line drive to left fielder Matt Duffy.,0,0,2,1,4,-0.9,2.7
+1160,2021-05-04,666158,624522,field_out,hit_into_play,7,"Gavin Lux grounds out, shortstop Eric Sogard to first baseman Anthony Rizzo.",0,2,0,3,3,-0.79,2.06
+1161,2021-05-04,666158,624522,,called_strike,1,"Gavin Lux grounds out, shortstop Eric Sogard to first baseman Anthony Rizzo.",0,1,0,2,3,-0.82,2.88
+1162,2021-05-04,666158,624522,,called_strike,1,"Gavin Lux grounds out, shortstop Eric Sogard to first baseman Anthony Rizzo.",0,0,0,1,3,-0.61,2.91
+1163,2021-05-04,666158,543294,single,hit_into_play,7,Gavin Lux singles on a ground ball to shortstop Javier Baez.   Max Muncy to 2nd.,1,1,2,3,2,-0.82,1.53
+1164,2021-05-04,666158,543294,,blocked_ball,14,Gavin Lux singles on a ground ball to shortstop Javier Baez.   Max Muncy to 2nd.,0,1,2,2,2,1.24,-1.43
+1165,2021-05-04,666158,543294,,called_strike,13,Gavin Lux singles on a ground ball to shortstop Javier Baez.   Max Muncy to 2nd.,0,0,2,1,2,-1.0,1.69
+1166,2021-05-04,666158,572193,field_out,hit_into_play,13,"Gavin Lux grounds out, shortstop Eric Sogard to first baseman Anthony Rizzo.",1,2,2,4,5,-1.19,2.41
+1167,2021-05-04,666158,572193,,ball,11,"Gavin Lux grounds out, shortstop Eric Sogard to first baseman Anthony Rizzo.",0,2,2,3,5,-1.89,5.38
+1168,2021-05-04,666158,572193,,foul,3,"Gavin Lux grounds out, shortstop Eric Sogard to first baseman Anthony Rizzo.",0,1,2,2,5,0.69,3.22
+1169,2021-05-04,666158,572193,,called_strike,11,"Gavin Lux grounds out, shortstop Eric Sogard to first baseman Anthony Rizzo.",0,0,2,1,5,-0.93,3.01
+1170,2021-05-04,666158,596027,field_out,hit_into_play,8,"Gavin Lux grounds out softly, third baseman David Bote to first baseman Anthony Rizzo.   Edwin Rios to 3rd.",1,0,0,2,8,0.15,1.83
+1171,2021-05-04,666158,596027,,ball,13,"Gavin Lux grounds out softly, third baseman David Bote to first baseman Anthony Rizzo.   Edwin Rios to 3rd.",0,0,0,1,8,-1.42,1.65
+1172,2021-05-02,666158,676424,field_out,hit_into_play,2,"Gavin Lux grounds out, second baseman Keston Hiura to first baseman Daniel Vogelbach.",2,1,2,4,4,-0.05,3.14
+1173,2021-05-02,666158,676424,,blocked_ball,14,"Gavin Lux grounds out, second baseman Keston Hiura to first baseman Daniel Vogelbach.",1,1,2,3,4,0.1,0.56
+1174,2021-05-02,666158,676424,,foul,12,"Gavin Lux grounds out, second baseman Keston Hiura to first baseman Daniel Vogelbach.",1,0,2,2,4,0.02,3.87
+1175,2021-05-02,666158,676424,,ball,11,"Gavin Lux grounds out, second baseman Keston Hiura to first baseman Daniel Vogelbach.",0,0,2,1,4,-0.32,3.77
+1176,2021-05-02,666158,676424,single,hit_into_play,13,Gavin Lux singles on a line drive to right fielder Avisail Garcia.,1,2,0,4,3,-0.87,2.15
+1177,2021-05-02,666158,676424,,ball,11,Gavin Lux singles on a line drive to right fielder Avisail Garcia.,0,2,0,3,3,-3.25,4.95
+1178,2021-05-02,666158,676424,,foul,7,Gavin Lux singles on a line drive to right fielder Avisail Garcia.,0,1,0,2,3,-0.29,2.09
+1179,2021-05-02,666158,676424,,called_strike,1,Gavin Lux singles on a line drive to right fielder Avisail Garcia.,0,0,0,1,3,-0.53,3.07
+1180,2021-05-02,666158,519455,single,hit_into_play,5,"Dodgers challenged (play at 1st), call on the field was overturned: Gavin Lux singles on a ground ball to first baseman Daniel Vogelbach.   Matt Beaty scores.    AJ Pollock to 3rd.",1,0,1,2,8,-0.06,2.21
+1181,2021-05-02,666158,519455,,ball,11,"Dodgers challenged (play at 1st), call on the field was overturned: Gavin Lux singles on a ground ball to first baseman Daniel Vogelbach.   Matt Beaty scores.    AJ Pollock to 3rd.",0,0,1,1,8,-1.15,2.74
+1182,2021-05-02,666158,676424,walk,ball,12,Gavin Lux walks.,3,2,2,6,1,1.26,3.21
+1183,2021-05-02,666158,676424,,foul,1,Gavin Lux walks.,3,1,2,5,1,-0.6,3.03
+1184,2021-05-02,666158,676424,,ball,13,Gavin Lux walks.,2,1,2,4,1,-0.37,1.22
+1185,2021-05-02,666158,676424,,ball,13,Gavin Lux walks.,1,1,2,3,1,-0.93,2.22
+1186,2021-05-02,666158,519455,field_out,hit_into_play,7,"Gavin Lux grounds out sharply, second baseman Keston Hiura to first baseman Daniel Vogelbach.",2,0,1,3,6,-0.31,1.98
+1187,2021-05-02,666158,676424,,foul,9,Gavin Lux walks.,1,0,2,2,1,0.8,1.87
+1188,2021-05-02,666158,676424,,ball,11,Gavin Lux walks.,0,0,2,1,1,-1.52,3.5
+1189,2021-05-02,666158,519455,,ball,13,"Gavin Lux grounds out sharply, second baseman Keston Hiura to first baseman Daniel Vogelbach.",1,0,1,2,6,-2.1,1.83
+1190,2021-05-02,666158,519455,,ball,11,"Gavin Lux grounds out sharply, second baseman Keston Hiura to first baseman Daniel Vogelbach.",0,0,1,1,6,-1.26,2.78
+1191,2021-05-01,666158,605540,strikeout,foul_tip,3,Gavin Lux strikes out on a foul tip.,1,2,2,4,6,0.38,3.04
+1192,2021-05-01,666158,605540,,foul,2,Gavin Lux strikes out on a foul tip.,1,1,2,3,6,-0.2,3.41
+1193,2021-05-01,666158,605540,,swinging_strike,2,Gavin Lux strikes out on a foul tip.,1,0,2,2,6,-0.11,3.53
+1194,2021-05-01,666158,605540,,ball,14,Gavin Lux strikes out on a foul tip.,0,0,2,1,6,0.07,0.72
+1195,2021-05-01,666158,605540,field_out,hit_into_play,5,"Gavin Lux grounds out, second baseman Kolten Wong to first baseman Daniel Vogelbach.",2,2,2,5,4,-0.25,2.2
+1196,2021-05-01,666158,605540,,ball,14,"Gavin Lux grounds out, second baseman Kolten Wong to first baseman Daniel Vogelbach.",1,2,2,4,4,0.9,0.95
+1197,2021-05-01,666158,605540,,foul,14,"Gavin Lux grounds out, second baseman Kolten Wong to first baseman Daniel Vogelbach.",1,1,2,3,4,0.02,1.0
+1198,2021-05-01,666158,605540,,called_strike,6,"Gavin Lux grounds out, second baseman Kolten Wong to first baseman Daniel Vogelbach.",1,0,2,2,4,0.3,2.67
+1199,2021-05-01,666158,605540,,ball,13,"Gavin Lux grounds out, second baseman Kolten Wong to first baseman Daniel Vogelbach.",0,0,2,1,4,-1.1,1.58
+1200,2021-05-01,666158,605540,field_out,hit_into_play,9,Gavin Lux flies out to center fielder Jackie Bradley Jr.,1,1,2,3,2,0.35,2.08
+1201,2021-05-01,666158,605540,,foul_tip,5,Gavin Lux flies out to center fielder Jackie Bradley Jr.,1,0,2,2,2,-0.26,2.36
+1202,2021-05-01,666158,605540,,ball,11,Gavin Lux flies out to center fielder Jackie Bradley Jr.,0,0,2,1,2,-0.92,2.67
+1203,2021-04-30,666158,642547,strikeout,called_strike,14,Gavin Lux called out on strikes.,2,2,1,9,5,0.55,1.36
+1204,2021-04-30,666158,642547,,foul,7,Gavin Lux called out on strikes.,2,2,1,8,5,-0.54,2.09
+1205,2021-04-30,666158,642547,,foul,2,Gavin Lux called out on strikes.,2,2,1,7,5,-0.23,3.13
+1206,2021-04-30,666158,642547,,foul,7,Gavin Lux called out on strikes.,2,2,1,6,5,-0.55,2.07
+1207,2021-04-30,666158,642547,,foul,6,Gavin Lux called out on strikes.,2,2,1,5,5,0.44,2.73
+1208,2021-04-30,666158,642547,,ball,14,Gavin Lux called out on strikes.,1,2,1,4,5,1.9,-1.04
+1209,2021-04-30,666158,642547,,ball,11,Gavin Lux called out on strikes.,0,2,1,3,5,-0.8,3.68
+1210,2021-04-30,666158,642547,,swinging_strike,4,Gavin Lux called out on strikes.,0,1,1,2,5,-0.29,2.71
+1211,2021-04-30,666158,642547,,called_strike,11,Gavin Lux called out on strikes.,0,0,1,1,5,-0.86,2.91
+1212,2021-04-30,666158,642547,strikeout,swinging_strike,4,Gavin Lux strikes out swinging.,2,2,2,5,2,-0.81,2.73
+1213,2021-04-30,666158,642547,,ball,13,Gavin Lux strikes out swinging.,1,2,2,4,2,-0.46,0.94
+1214,2021-04-30,666158,642547,,foul,13,Gavin Lux strikes out swinging.,1,1,2,3,2,-0.1,1.32
+1215,2021-04-30,666158,642547,,foul,11,Gavin Lux strikes out swinging.,1,0,2,2,2,-0.4,3.73
+1216,2021-04-30,666158,642547,,ball,13,Gavin Lux strikes out swinging.,0,0,2,1,2,-1.55,2.15
+1217,2021-04-30,666158,656420,field_out,hit_into_play,4,Gavin Lux flies out to left fielder Billy McKinney.,0,0,0,1,8,-0.5,2.47
+1218,2021-04-28,666158,543243,strikeout,called_strike,6,Gavin Lux called out on strikes.,3,2,2,6,5,0.64,2.37
+1219,2021-04-28,666158,543243,,ball,13,Gavin Lux called out on strikes.,2,2,2,5,5,-0.61,0.79
+1220,2021-04-28,666158,543243,,swinging_strike,13,Gavin Lux called out on strikes.,2,1,2,4,5,-0.04,1.26
+1221,2021-04-28,666158,543243,,ball,12,Gavin Lux called out on strikes.,1,1,2,3,5,1.05,3.61
+1222,2021-04-28,666158,543243,,swinging_strike,14,Gavin Lux called out on strikes.,1,0,2,2,5,1.17,2.21
+1223,2021-04-28,666158,543243,,ball,14,Gavin Lux called out on strikes.,0,0,2,1,5,1.53,0.02
+1224,2021-04-28,666158,543243,strikeout,called_strike,3,Gavin Lux called out on strikes.,1,2,1,4,3,0.44,3.08
+1225,2021-04-28,666158,543243,,swinging_strike,13,Gavin Lux called out on strikes.,1,1,1,3,3,-0.22,0.66
+1226,2021-04-28,666158,543243,,swinging_strike,7,Gavin Lux called out on strikes.,1,0,1,2,3,-0.32,1.91
+1227,2021-04-28,666158,607219,walk,ball,11,Gavin Lux walks.,3,1,2,5,8,-1.24,3.6
+1228,2021-04-28,666158,607219,,ball,11,Gavin Lux walks.,2,1,2,4,8,-1.14,3.25
+1229,2021-04-28,666158,543243,,ball,13,Gavin Lux called out on strikes.,0,0,1,1,3,-0.93,1.48
+1230,2021-04-28,666158,607219,,ball,12,Gavin Lux walks.,1,1,2,3,8,0.57,4.23
+1231,2021-04-28,666158,607219,,ball,11,Gavin Lux walks.,0,1,2,2,8,-0.15,4.05
+1232,2021-04-28,666158,607219,,foul,5,Gavin Lux walks.,0,0,2,1,8,-0.26,2.51
+1233,2021-04-28,666158,543243,field_out,hit_into_play,3,Gavin Lux flies out to right fielder Nick Castellanos.,0,2,0,3,1,0.4,3.21
+1234,2021-04-28,666158,543243,,swinging_strike,14,Gavin Lux flies out to right fielder Nick Castellanos.,0,1,0,2,1,1.05,1.82
+1235,2021-04-28,666158,543243,,swinging_strike,12,Gavin Lux flies out to right fielder Nick Castellanos.,0,0,0,1,1,0.85,3.57
+1236,2021-04-28,666158,607219,field_out,hit_into_play,2,Gavin Lux flies out to center fielder Tyler Naquin.,1,0,0,2,8,-0.03,3.54
+1237,2021-04-28,666158,607219,,ball,11,Gavin Lux flies out to center fielder Tyler Naquin.,0,0,0,1,8,-1.15,5.25
+1238,2021-04-27,666158,656546,field_out,hit_into_play,1,"Gavin Lux grounds out, third baseman Mike Moustakas to first baseman Joey Votto.",0,1,1,2,4,-0.81,2.91
+1239,2021-04-27,666158,656546,,swinging_strike,6,"Gavin Lux grounds out, third baseman Mike Moustakas to first baseman Joey Votto.",0,0,1,1,4,0.62,2.2
+1240,2021-04-27,666158,656546,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,2,2,1,5,2,1.0,1.39
+1241,2021-04-27,666158,656546,,foul,4,Gavin Lux strikes out swinging.,2,1,1,4,2,-0.32,2.62
+1242,2021-04-27,666158,656546,,ball,11,Gavin Lux strikes out swinging.,1,1,1,3,2,-0.44,4.55
+1243,2021-04-27,666158,656546,,called_strike,6,Gavin Lux strikes out swinging.,1,0,1,2,2,0.82,2.49
+1244,2021-04-27,666158,656546,,ball,14,Gavin Lux strikes out swinging.,0,0,1,1,2,1.55,0.97
+1245,2021-04-27,666158,592254,strikeout,swinging_strike,1,Gavin Lux strikes out swinging.,1,2,0,4,6,-0.39,2.92
+1246,2021-04-27,666158,592254,,foul,11,Gavin Lux strikes out swinging.,1,1,0,3,6,-1.0,2.74
+1247,2021-04-27,666158,592254,,ball,12,Gavin Lux strikes out swinging.,0,1,0,2,6,0.86,2.59
+1248,2021-04-27,666158,592254,,foul,5,Gavin Lux strikes out swinging.,0,0,0,1,6,0.24,2.73
+1249,2021-04-27,666158,592390,field_out,hit_into_play,2,Gavin Lux pops out to third baseman Mike Moustakas in foul territory.,1,1,0,3,8,0.15,2.88
+1250,2021-04-27,666158,592390,,called_strike,8,Gavin Lux pops out to third baseman Mike Moustakas in foul territory.,1,0,0,2,8,0.1,1.91
+1251,2021-04-27,666158,592390,,ball,12,Gavin Lux pops out to third baseman Mike Moustakas in foul territory.,0,0,0,1,8,1.04,4.32
+1252,2021-04-26,666158,641816,single,hit_into_play,8,Gavin Lux singles on a sharp ground ball to right fielder Nick Castellanos.   Chris Taylor scores.    Max Muncy to 3rd.,0,1,2,2,4,0.16,1.99
+1253,2021-04-26,666158,641816,,called_strike,6,Gavin Lux singles on a sharp ground ball to right fielder Nick Castellanos.   Chris Taylor scores.    Max Muncy to 3rd.,0,0,2,1,4,0.42,2.53
+1254,2021-04-26,666158,641816,field_out,hit_into_play,7,"Gavin Lux grounds out, first baseman Alex Blandino to pitcher Tyler Mahle.",0,1,1,2,2,-0.65,1.93
+1255,2021-04-26,666158,641816,,foul_tip,2,"Gavin Lux grounds out, first baseman Alex Blandino to pitcher Tyler Mahle.",0,0,1,1,2,0.0,3.13
+1256,2021-04-26,666158,608371,strikeout,swinging_strike,11,Gavin Lux strikes out swinging.,1,2,2,5,6,-0.09,4.12
+1257,2021-04-26,666158,608371,,foul,8,Gavin Lux strikes out swinging.,1,2,2,4,6,-0.02,1.8
+1258,2021-04-26,666158,608371,,swinging_strike,14,Gavin Lux strikes out swinging.,1,1,2,3,6,1.37,0.82
+1259,2021-04-26,666158,622088,strikeout,swinging_strike,7,Gavin Lux strikes out swinging.,2,2,2,6,8,-0.34,1.66
+1260,2021-04-26,666158,608371,,ball,1,Gavin Lux strikes out swinging.,0,1,2,2,6,-0.8,3.26
+1261,2021-04-26,666158,622088,,foul,4,Gavin Lux strikes out swinging.,2,2,2,5,8,-0.42,2.78
+1262,2021-04-26,666158,608371,,called_strike,4,Gavin Lux strikes out swinging.,0,0,2,1,6,-0.48,2.62
+1263,2021-04-26,666158,622088,,ball,11,Gavin Lux strikes out swinging.,1,2,2,4,8,-0.85,4.12
+1264,2021-04-26,666158,622088,,ball,14,Gavin Lux strikes out swinging.,0,2,2,3,8,1.27,0.99
+1265,2021-04-26,666158,622088,,foul,8,Gavin Lux strikes out swinging.,0,1,2,2,8,0.03,1.51
+1266,2021-04-26,666158,622088,,swinging_strike,14,Gavin Lux strikes out swinging.,0,0,2,1,8,0.45,1.18
+1267,2021-04-14,666158,592351,field_out,hit_into_play,8,Gavin Lux flies out to right fielder Charlie Blackmon.,0,1,1,2,3,0.21,1.74
+1268,2021-04-14,666158,592351,,swinging_strike,14,Gavin Lux flies out to right fielder Charlie Blackmon.,0,0,1,1,3,0.8,1.02
+1269,2021-04-14,666158,592351,sac_fly,hit_into_play,11,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,3,2,1,10,1,-1.04,2.72
+1270,2021-04-14,666158,592351,,blocked_ball,14,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,2,2,1,9,1,0.8,-0.09
+1271,2021-04-14,666158,592351,,blocked_ball,14,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,1,2,1,8,1,0.34,0.74
+1272,2021-04-14,666158,592351,,foul,6,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,1,2,1,7,1,0.67,2.38
+1273,2021-04-14,666158,592351,,foul,4,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,1,2,1,6,1,-0.41,2.61
+1274,2021-04-14,666158,592351,,foul,9,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,1,2,1,5,1,0.37,1.68
+1275,2021-04-14,666158,592351,,foul,8,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,1,2,1,4,1,0.13,1.54
+1276,2021-04-14,666158,622075,strikeout,swinging_strike_blocked,13,Gavin Lux strikes out swinging.,3,2,2,6,5,-0.55,0.62
+1277,2021-04-14,666158,592351,,ball,9,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,0,2,1,3,1,0.45,1.68
+1278,2021-04-14,666158,622075,,swinging_strike,14,Gavin Lux strikes out swinging.,3,1,2,5,5,0.66,0.96
+1279,2021-04-14,666158,592351,,foul,9,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,0,1,1,2,1,0.44,2.13
+1280,2021-04-14,666158,622075,,called_strike,2,Gavin Lux strikes out swinging.,3,0,2,4,5,-0.05,3.08
+1281,2021-04-14,666158,592351,,called_strike,4,Gavin Lux out on a sacrifice fly to left fielder Raimel Tapia.   Corey Seager scores.,0,0,1,1,1,-0.77,2.53
+1282,2021-04-14,666158,622075,,ball,14,Gavin Lux strikes out swinging.,2,0,2,3,5,1.79,1.63
+1283,2021-04-14,666158,622075,,ball,14,Gavin Lux strikes out swinging.,1,0,2,2,5,1.1,1.13
+1284,2021-04-14,666158,622075,,ball,14,Gavin Lux strikes out swinging.,0,0,2,1,5,1.6,1.25
+1285,2021-04-13,666158,622608,single,hit_into_play,5,Gavin Lux singles on a ground ball to center fielder Garrett Hampson.   Corey Seager scores.    Will Smith to 3rd.,2,1,2,4,3,0.02,2.55
+1286,2021-04-13,666158,622608,,foul,4,Gavin Lux singles on a ground ball to center fielder Garrett Hampson.   Corey Seager scores.    Will Smith to 3rd.,2,0,2,3,3,-0.44,2.52
+1287,2021-04-13,666158,622608,,ball,12,Gavin Lux singles on a ground ball to center fielder Garrett Hampson.   Corey Seager scores.    Will Smith to 3rd.,1,0,2,2,3,1.12,2.48
+1288,2021-04-13,666158,622608,,blocked_ball,14,Gavin Lux singles on a ground ball to center fielder Garrett Hampson.   Corey Seager scores.    Will Smith to 3rd.,0,0,2,1,3,1.34,0.76
+1289,2021-04-13,666158,468504,strikeout,swinging_strike,4,Gavin Lux strikes out swinging.,3,2,2,6,4,-0.5,2.85
+1290,2021-04-13,666158,468504,,foul,7,Gavin Lux strikes out swinging.,3,1,2,5,4,-0.5,1.54
+1291,2021-04-13,666158,468504,,ball,11,Gavin Lux strikes out swinging.,2,1,2,4,4,-0.32,3.72
+1292,2021-04-13,666158,468504,,called_strike,4,Gavin Lux strikes out swinging.,2,0,2,3,4,-0.72,2.4
+1293,2021-04-13,666158,468504,,ball,13,Gavin Lux strikes out swinging.,1,0,2,2,4,-0.48,0.96
+1294,2021-04-13,666158,468504,,ball,13,Gavin Lux strikes out swinging.,0,0,2,1,4,-0.57,1.09
+1295,2021-04-13,666158,622608,field_out,hit_into_play,4,Gavin Lux flies out to left fielder Raimel Tapia.,3,1,2,5,1,-0.29,2.32
+1296,2021-04-13,666158,622608,,ball,14,Gavin Lux flies out to left fielder Raimel Tapia.,2,1,2,4,1,0.65,0.93
+1297,2021-04-13,666158,622608,,ball,11,Gavin Lux flies out to left fielder Raimel Tapia.,1,1,2,3,1,-0.84,2.9
+1298,2021-04-13,666158,622608,,ball,13,Gavin Lux flies out to left fielder Raimel Tapia.,0,1,2,2,1,-0.49,1.24
+1299,2021-04-13,666158,622608,,foul,7,Gavin Lux flies out to left fielder Raimel Tapia.,0,0,2,1,1,-0.57,1.82
+1300,2021-04-13,666158,596112,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,1,2,2,4,6,1.11,0.88
+1301,2021-04-13,666158,596112,,called_strike,6,Gavin Lux strikes out swinging.,1,1,2,3,6,0.36,2.28
+1302,2021-04-13,666158,596112,,ball,11,Gavin Lux strikes out swinging.,0,1,2,2,6,-1.55,2.74
+1303,2021-04-13,666158,596112,,foul,5,Gavin Lux strikes out swinging.,0,0,2,1,6,0.25,2.59
+1304,2021-04-11,666158,453286,double_play,hit_into_play,5,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",3,2,0,8,6,-0.06,2.7
+1305,2021-04-11,666158,453286,,ball,13,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",2,2,0,7,6,-1.69,2.15
+1306,2021-04-11,666158,453286,,blocked_ball,14,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",1,2,0,6,6,1.02,0.67
+1307,2021-04-11,666158,453286,,foul,12,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",1,2,0,5,6,0.48,3.95
+1308,2021-04-11,666158,453286,,foul,9,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",1,2,0,4,6,0.38,1.61
+1309,2021-04-11,666158,453286,,swinging_strike,11,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",1,1,0,3,6,-0.24,4.13
+1310,2021-04-11,666158,453286,,foul,8,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",1,0,0,2,6,-0.27,1.71
+1311,2021-04-11,666158,453286,,ball,11,"Gavin Lux lines into an unassisted double play, first baseman Ryan Zimmerman.   Matt Beaty out at 1st.",0,0,0,1,6,-1.38,2.95
+1312,2021-04-11,666158,453286,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,2,2,1,5,3,1.1,1.8
+1313,2021-04-11,666158,453286,,ball,12,Gavin Lux strikes out swinging.,1,2,1,4,3,1.14,2.84
+1314,2021-04-11,666158,453286,,swinging_strike,13,Gavin Lux strikes out swinging.,1,1,1,3,3,-0.8,1.26
+1315,2021-04-11,666158,453286,,ball,14,Gavin Lux strikes out swinging.,0,1,1,2,3,0.72,0.92
+1316,2021-04-11,666158,453286,,called_strike,8,Gavin Lux strikes out swinging.,0,0,1,1,3,0.26,1.77
+1317,2021-04-11,666158,543272,field_out,hit_into_play,6,Gavin Lux grounds out to first baseman Ryan Zimmerman.,2,2,1,5,8,0.63,2.25
+1318,2021-04-11,666158,543272,,foul,6,Gavin Lux grounds out to first baseman Ryan Zimmerman.,2,1,1,4,8,0.38,2.59
+1319,2021-04-11,666158,543272,,ball,13,Gavin Lux grounds out to first baseman Ryan Zimmerman.,1,1,1,3,8,-0.12,0.87
+1320,2021-04-11,666158,543272,,called_strike,4,Gavin Lux grounds out to first baseman Ryan Zimmerman.,1,0,1,2,8,-0.45,2.28
+1321,2021-04-11,666158,543272,,ball,13,Gavin Lux grounds out to first baseman Ryan Zimmerman.,0,0,1,1,8,-1.31,1.38
+1322,2021-04-11,666158,453286,field_out,hit_into_play,5,Gavin Lux pops out to shortstop Trea Turner.,0,0,0,1,1,0.03,2.85
+1323,2021-04-10,666158,571578,strikeout,called_strike,7,Gavin Lux called out on strikes.,3,2,0,6,4,-0.44,1.93
+1324,2021-04-10,666158,571578,,ball,11,Gavin Lux called out on strikes.,2,2,0,5,4,-1.17,3.08
+1325,2021-04-10,666158,571578,,ball,12,Gavin Lux called out on strikes.,1,2,0,4,4,0.35,4.32
+1326,2021-04-10,666158,571578,,ball,13,Gavin Lux called out on strikes.,0,2,0,3,4,-1.23,2.03
+1327,2021-04-10,666158,571578,,foul,5,Gavin Lux called out on strikes.,0,1,0,2,4,-0.1,2.47
+1328,2021-04-10,666158,571578,,called_strike,7,Gavin Lux called out on strikes.,0,0,0,1,4,-0.72,1.75
+1329,2021-04-10,666158,571578,force_out,hit_into_play,4,"Gavin Lux grounds into a force out, third baseman Starlin Castro to catcher Yan Gomes.   Will Smith out at home.    Max Muncy to 3rd.    AJ Pollock to 2nd.    Gavin Lux to 1st.",3,2,0,6,2,-0.57,2.79
+1330,2021-04-10,666158,571578,,ball,13,"Gavin Lux grounds into a force out, third baseman Starlin Castro to catcher Yan Gomes.   Will Smith out at home.    Max Muncy to 3rd.    AJ Pollock to 2nd.    Gavin Lux to 1st.",2,2,0,5,2,-1.41,1.85
+1331,2021-04-10,666158,571578,,swinging_strike_blocked,13,"Gavin Lux grounds into a force out, third baseman Starlin Castro to catcher Yan Gomes.   Will Smith out at home.    Max Muncy to 3rd.    AJ Pollock to 2nd.    Gavin Lux to 1st.",2,1,0,4,2,-1.2,0.83
+1332,2021-04-10,666158,571578,,ball,13,"Gavin Lux grounds into a force out, third baseman Starlin Castro to catcher Yan Gomes.   Will Smith out at home.    Max Muncy to 3rd.    AJ Pollock to 2nd.    Gavin Lux to 1st.",1,1,0,3,2,-0.81,1.25
+1333,2021-04-10,666158,571578,,ball,13,"Gavin Lux grounds into a force out, third baseman Starlin Castro to catcher Yan Gomes.   Will Smith out at home.    Max Muncy to 3rd.    AJ Pollock to 2nd.    Gavin Lux to 1st.",0,1,0,2,2,-1.5,1.95
+1334,2021-04-10,666158,571578,,called_strike,7,"Gavin Lux grounds into a force out, third baseman Starlin Castro to catcher Yan Gomes.   Will Smith out at home.    Max Muncy to 3rd.    AJ Pollock to 2nd.    Gavin Lux to 1st.",0,0,0,1,2,-0.43,1.74
+1335,2021-04-10,666158,640448,strikeout,called_strike,9,Gavin Lux called out on strikes.,1,2,2,4,7,0.28,1.79
+1336,2021-04-10,666158,640448,,swinging_strike,4,Gavin Lux called out on strikes.,1,1,2,3,7,-0.32,2.75
+1337,2021-04-10,666158,640448,,ball,14,Gavin Lux called out on strikes.,0,1,2,2,7,0.01,1.33
+1338,2021-04-10,666158,640448,,called_strike,11,Gavin Lux called out on strikes.,0,0,2,1,7,-0.84,3.03
+1339,2021-04-10,666158,621348,field_out,hit_into_play,7,Gavin Lux lines out to left fielder Andrew Stevenson.,0,1,0,2,6,-0.72,1.91
+1340,2021-04-10,666158,621348,,called_strike,7,Gavin Lux lines out to left fielder Andrew Stevenson.,0,0,0,1,6,-0.4,1.61
+1341,2021-04-09,666158,605452,field_out,hit_into_play,5,Gavin Lux pops out to third baseman Starlin Castro in foul territory.,0,0,0,1,5,-0.25,2.67
+1342,2021-04-09,666158,605452,field_out,hit_into_play,4,Gavin Lux flies out to left fielder Andrew Stevenson.,3,1,1,5,2,-0.81,2.24
+1343,2021-04-09,666158,605452,,called_strike,11,Gavin Lux flies out to left fielder Andrew Stevenson.,3,0,1,4,2,-0.88,2.86
+1344,2021-04-09,666158,605452,,ball,11,Gavin Lux flies out to left fielder Andrew Stevenson.,2,0,1,3,2,-1.53,2.5
+1345,2021-04-09,666158,605452,,ball,11,Gavin Lux flies out to left fielder Andrew Stevenson.,1,0,1,2,2,-1.01,3.33
+1346,2021-04-09,666158,605452,,ball,12,Gavin Lux flies out to left fielder Andrew Stevenson.,0,0,1,1,2,0.02,4.17
+1347,2021-04-09,666158,593833,field_out,hit_into_play,7,"Gavin Lux grounds out sharply, shortstop Trea Turner to first baseman Ryan Zimmerman.",0,0,1,1,7,-0.36,2.08
+1348,2021-04-07,666158,666200,field_out,hit_into_play,4,"Gavin Lux grounds out, shortstop Elvis Andrus to first baseman Mitch Moreland.",1,1,1,3,4,-0.28,2.51
+1349,2021-04-07,666158,666200,,called_strike,7,"Gavin Lux grounds out, shortstop Elvis Andrus to first baseman Mitch Moreland.",1,0,1,2,4,-0.4,1.66
+1350,2021-04-07,666158,666200,,ball,11,"Gavin Lux grounds out, shortstop Elvis Andrus to first baseman Mitch Moreland.",0,0,1,1,4,-1.0,3.18
+1351,2021-04-07,666158,666200,single,hit_into_play,2,Gavin Lux singles on a line drive to left fielder Seth Brown.,1,2,0,4,2,0.2,3.4
+1352,2021-04-07,666158,666200,,called_strike,4,Gavin Lux singles on a line drive to left fielder Seth Brown.,1,1,0,3,2,-0.72,2.66
+1353,2021-04-07,666158,666200,,ball,1,Gavin Lux singles on a line drive to left fielder Seth Brown.,0,1,0,2,2,-0.78,3.4
+1354,2021-04-07,666158,666200,,called_strike,7,Gavin Lux singles on a line drive to left fielder Seth Brown.,0,0,0,1,2,-0.75,1.91
+1355,2021-04-07,666158,518617,strikeout,swinging_strike,13,Gavin Lux strikes out swinging.,0,2,0,3,8,-1.51,1.31
+1356,2021-04-07,666158,433589,field_out,hit_into_play,4,Gavin Lux flies out sharply to center fielder Ramon Laureano.,2,0,0,3,10,-0.59,2.82
+1357,2021-04-07,666158,433589,,ball,14,Gavin Lux flies out sharply to center fielder Ramon Laureano.,1,0,0,2,10,0.34,1.42
+1358,2021-04-07,666158,518617,,foul,3,Gavin Lux strikes out swinging.,0,1,0,2,8,0.49,3.2
+1359,2021-04-07,666158,518617,,called_strike,4,Gavin Lux strikes out swinging.,0,0,0,1,8,-0.4,2.29
+1360,2021-04-07,666158,592473,field_out,hit_into_play,14,Gavin Lux grounds out to first baseman Mitch Moreland.   Max Muncy to 3rd.    Austin Barnes to 2nd.,0,0,1,1,6,0.84,2.4
+1361,2021-04-07,666158,433589,,ball,11,Gavin Lux flies out sharply to center fielder Ramon Laureano.,0,0,0,1,10,-1.73,3.69
+1362,2021-04-06,666158,605135,grounded_into_double_play,hit_into_play,5,"Gavin Lux grounds into a double play, second baseman Tony Kemp to third baseman Matt Chapman to first baseman Mitch Moreland.   AJ Pollock out at 2nd.    Gavin Lux out at 1st.",0,1,1,2,5,0.23,2.49
+1363,2021-04-06,666158,605135,,called_strike,9,"Gavin Lux grounds into a double play, second baseman Tony Kemp to third baseman Matt Chapman to first baseman Mitch Moreland.   AJ Pollock out at 2nd.    Gavin Lux out at 1st.",0,0,1,1,5,0.37,2.04
+1364,2021-04-06,666158,605135,field_out,hit_into_play,3,Gavin Lux pops out to third baseman Matt Chapman.,1,1,1,3,3,0.51,3.09
+1365,2021-04-06,666158,605135,,foul,1,Gavin Lux pops out to third baseman Matt Chapman.,1,0,1,2,3,-0.44,2.96
+1366,2021-04-06,666158,605135,,ball,11,Gavin Lux pops out to third baseman Matt Chapman.,0,0,1,1,3,-0.61,3.29
+1367,2021-04-06,666158,605135,walk,ball,14,Gavin Lux walks.   Edwin Rios to 2nd.,3,1,0,5,2,0.89,1.58
+1368,2021-04-06,666158,605135,,ball,14,Gavin Lux walks.   Edwin Rios to 2nd.,2,1,0,4,2,1.22,1.13
+1369,2021-04-06,666158,605135,,ball,11,Gavin Lux walks.   Edwin Rios to 2nd.,1,1,0,3,2,-1.57,2.98
+1370,2021-04-06,666158,605135,,ball,12,Gavin Lux walks.   Edwin Rios to 2nd.,0,1,0,2,2,0.84,3.51
+1371,2021-04-06,666158,605135,,swinging_strike,6,Gavin Lux walks.   Edwin Rios to 2nd.,0,0,0,1,2,0.7,2.23
+1372,2021-04-06,666158,433589,single,hit_into_play,2,Gavin Lux singles on a sharp line drive to center fielder Ramon Laureano.,1,1,2,3,8,-0.25,3.06
+1373,2021-04-06,666158,433589,,swinging_strike,12,Gavin Lux singles on a sharp line drive to center fielder Ramon Laureano.,1,0,2,2,8,0.16,3.6
+1374,2021-04-06,666158,433589,,ball,11,Gavin Lux singles on a sharp line drive to center fielder Ramon Laureano.,0,0,2,1,8,-1.21,3.35
+1375,2021-04-04,666158,596295,field_out,hit_into_play,5,"Gavin Lux grounds out sharply, second baseman Chris Owings to first baseman C.  J. Cron.",1,1,2,3,3,0.05,2.86
+1376,2021-04-04,666158,596295,,ball,12,"Gavin Lux grounds out sharply, second baseman Chris Owings to first baseman C.  J. Cron.",0,1,2,2,3,0.96,3.58
+1377,2021-04-04,666158,596295,,called_strike,1,"Gavin Lux grounds out sharply, second baseman Chris Owings to first baseman C.  J. Cron.",0,0,2,1,3,-0.63,3.24
+1378,2021-04-04,666158,592346,force_out,hit_into_play,8,"Gavin Lux grounds into a force out, fielded by shortstop Trevor Story.   Chris Taylor out at 2nd.    Gavin Lux to 1st.",0,1,0,2,6,0.2,1.83
+1379,2021-04-04,666158,592346,,called_strike,4,"Gavin Lux grounds into a force out, fielded by shortstop Trevor Story.   Chris Taylor out at 2nd.    Gavin Lux to 1st.",0,0,0,1,6,-0.53,2.45
+1380,2021-04-04,666158,596295,sac_fly_double_play,hit_into_play,3,"Gavin Lux flies into a sacrifice double play, right fielder Charlie Blackmon to third baseman Ryan McMahon.   Justin Turner scores.    Max Muncy out at 3rd.",2,1,1,4,1,0.49,3.47
+1381,2021-04-04,666158,596295,,ball,11,"Gavin Lux flies into a sacrifice double play, right fielder Charlie Blackmon to third baseman Ryan McMahon.   Justin Turner scores.    Max Muncy out at 3rd.",1,1,1,3,1,-0.43,4.22
+1382,2021-04-04,666158,596295,,foul,5,"Gavin Lux flies into a sacrifice double play, right fielder Charlie Blackmon to third baseman Ryan McMahon.   Justin Turner scores.    Max Muncy out at 3rd.",1,0,1,2,1,0.19,2.86
+1383,2021-04-04,666158,596295,,ball,13,"Gavin Lux flies into a sacrifice double play, right fielder Charlie Blackmon to third baseman Ryan McMahon.   Justin Turner scores.    Max Muncy out at 3rd.",0,0,1,1,1,-1.1,2.02
+1384,2021-04-04,666158,596112,single,hit_into_play,8,Gavin Lux singles on a sharp ground ball to center fielder Garrett Hampson.,0,0,2,1,8,0.2,1.95
+1385,2021-04-03,666158,592351,strikeout,swinging_strike,14,Gavin Lux strikes out swinging.,1,2,2,5,5,1.05,1.04
+1386,2021-04-03,666158,592351,,foul,3,Gavin Lux strikes out swinging.,1,2,2,4,5,0.46,3.16
+1387,2021-04-03,666158,592351,,called_strike,1,Gavin Lux strikes out swinging.,1,1,2,3,5,-0.62,3.16
+1388,2021-04-03,666158,592351,,called_strike,8,Gavin Lux strikes out swinging.,1,0,2,2,5,-0.19,1.57
+1389,2021-04-03,666158,592351,,ball,11,Gavin Lux strikes out swinging.,0,0,2,1,5,-0.17,3.91
+1390,2021-04-03,666158,592351,field_out,hit_into_play,8,Gavin Lux lines out to shortstop Trevor Story.,0,1,1,2,3,-0.23,1.76
+1391,2021-04-03,666158,592351,,foul,2,Gavin Lux lines out to shortstop Trevor Story.,0,0,1,1,3,0.11,2.99
+1392,2021-04-03,666158,571710,walk,ball,14,Gavin Lux walks.,3,2,2,7,8,2.01,0.58
+1393,2021-04-03,666158,571710,,foul,13,Gavin Lux walks.,3,2,2,6,8,-0.84,2.38
+1394,2021-04-03,666158,571710,,ball,13,Gavin Lux walks.,2,2,2,5,8,-2.26,2.43
+1395,2021-04-03,666158,571710,,ball,13,Gavin Lux walks.,1,2,2,4,8,-0.19,1.25
+1396,2021-04-03,666158,571710,,foul,8,Gavin Lux walks.,1,1,2,3,8,0.07,1.96
+1397,2021-04-03,666158,571710,,swinging_strike,9,Gavin Lux walks.,1,0,2,2,8,0.39,1.57
+1398,2021-04-03,666158,571710,,ball,14,Gavin Lux walks.,0,0,2,1,8,1.63,1.57
+1399,2021-04-03,666158,592351,strikeout,foul_tip,3,Gavin Lux strikes out on a foul tip.,1,2,0,4,1,0.45,3.32
+1400,2021-04-03,666158,592351,,foul,5,Gavin Lux strikes out on a foul tip.,1,1,0,3,1,-0.03,2.64
+1401,2021-04-03,666158,641755,triple,hit_into_play,6,Gavin Lux triples (2) on a sharp line drive to right fielder Charlie Blackmon.,2,0,0,3,7,0.47,2.71
+1402,2021-04-03,666158,641755,,ball,12,Gavin Lux triples (2) on a sharp line drive to right fielder Charlie Blackmon.,1,0,0,2,7,1.32,3.12
+1403,2021-04-03,666158,592351,,ball,12,Gavin Lux strikes out on a foul tip.,0,1,0,2,1,1.1,2.77
+1404,2021-04-03,666158,592351,,called_strike,1,Gavin Lux strikes out on a foul tip.,0,0,0,1,1,-0.72,2.96
+1405,2021-04-03,666158,641755,,ball,14,Gavin Lux triples (2) on a sharp line drive to right fielder Charlie Blackmon.,0,0,0,1,7,1.06,-0.16
+1406,2021-04-02,666158,622608,single,hit_into_play,4,Gavin Lux singles on a ground ball to first baseman C.  J. Cron.,2,0,0,3,4,-0.6,2.63
+1407,2021-04-02,666158,622608,,ball,14,Gavin Lux singles on a ground ball to first baseman C.  J. Cron.,1,0,0,2,4,0.95,1.28
+1408,2021-04-02,666158,622608,,ball,12,Gavin Lux singles on a ground ball to first baseman C.  J. Cron.,0,0,0,1,4,0.96,3.57
+1409,2021-04-02,666158,468504,triple,hit_into_play,7,Gavin Lux triples (1) on a line drive to center fielder Chris Owings.   Will Smith scores.,1,2,1,5,5,-0.28,1.65
+1410,2021-04-02,666158,468504,,foul,8,Gavin Lux triples (1) on a line drive to center fielder Chris Owings.   Will Smith scores.,1,2,1,4,5,-0.24,1.5
+1411,2021-04-02,666158,622608,field_out,hit_into_play,5,"Gavin Lux grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",3,2,0,6,2,-0.13,2.55
+1412,2021-04-02,666158,468504,,swinging_strike,7,Gavin Lux triples (1) on a line drive to center fielder Chris Owings.   Will Smith scores.,1,1,1,3,5,-0.77,1.96
+1413,2021-04-02,666158,622608,,ball,14,"Gavin Lux grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",2,2,0,5,2,0.89,0.9
+1414,2021-04-02,666158,468504,,foul,7,Gavin Lux triples (1) on a line drive to center fielder Chris Owings.   Will Smith scores.,1,0,1,2,5,-0.48,1.78
+1415,2021-04-02,666158,641386,strikeout,swinging_strike,12,Gavin Lux strikes out swinging.,3,2,0,7,7,0.19,4.07
+1416,2021-04-02,666158,641386,,foul,4,Gavin Lux strikes out swinging.,3,2,0,6,7,-0.47,2.82
+1417,2021-04-02,666158,468504,,ball,13,Gavin Lux triples (1) on a line drive to center fielder Chris Owings.   Will Smith scores.,0,0,1,1,5,-1.05,1.58
+1418,2021-04-02,666158,622608,,ball,14,"Gavin Lux grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,2,0,4,2,1.94,1.65
+1419,2021-04-02,666158,622608,,called_strike,13,"Gavin Lux grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,1,0,3,2,-0.88,1.69
+1420,2021-04-02,666158,641386,,ball,8,Gavin Lux strikes out swinging.,2,2,0,5,7,-0.21,1.53
+1421,2021-04-02,666158,641386,,called_strike,4,Gavin Lux strikes out swinging.,2,1,0,4,7,-0.43,2.46
+1422,2021-04-02,666158,622608,,foul,8,"Gavin Lux grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,0,0,2,2,-0.13,1.74
+1423,2021-04-02,666158,622608,,ball,14,"Gavin Lux grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,0,1,2,0.44,1.18
+1424,2021-04-02,666158,641386,,swinging_strike,2,Gavin Lux strikes out swinging.,2,0,0,3,7,0.24,3.59
+1425,2021-04-02,666158,608032,field_out,hit_into_play,5,Gavin Lux flies out to center fielder Sam Hilliard.,1,0,2,2,8,0.18,2.76
+1426,2021-04-02,666158,641386,,ball,13,Gavin Lux strikes out swinging.,1,0,0,2,7,-1.09,2.2
+1427,2021-04-02,666158,608032,,blocked_ball,14,Gavin Lux flies out to center fielder Sam Hilliard.,0,0,2,1,8,0.38,-0.27
+1428,2021-04-02,666158,641386,,ball,13,Gavin Lux strikes out swinging.,0,0,0,1,7,-1.83,1.64
+1429,2021-04-01,666158,608566,strikeout,called_strike,11,Gavin Lux called out on strikes.,0,2,2,4,3,-0.64,3.43
+1430,2021-04-01,666158,608566,,foul,8,Gavin Lux called out on strikes.,0,2,2,3,3,0.12,1.94
+1431,2021-04-01,666158,608566,,swinging_strike_blocked,14,Gavin Lux called out on strikes.,0,1,2,2,3,0.43,0.53
+1432,2021-04-01,666158,608566,,called_strike,1,Gavin Lux called out on strikes.,0,0,2,1,3,-0.73,2.9
+1433,2021-04-01,666158,608566,grounded_into_double_play,hit_into_play,4,"Gavin Lux grounds into a double play, third baseman Josh Fuentes to second baseman Chris Owings to first baseman C.  J. Cron.   Chris Taylor out at 2nd.    Gavin Lux out at 1st.",1,0,0,2,2,-0.38,2.34
+1434,2021-04-01,666158,608566,,ball,11,"Gavin Lux grounds into a double play, third baseman Josh Fuentes to second baseman Chris Owings to first baseman C.  J. Cron.   Chris Taylor out at 2nd.    Gavin Lux out at 1st.",0,0,0,1,2,-1.14,3.6
+1435,2021-04-01,666158,592346,single,hit_into_play,9,Gavin Lux singles on a line drive to right fielder Charlie Blackmon.   Cody Bellinger scores.,1,0,2,2,5,0.43,2.1
+1436,2021-04-01,666158,592346,,blocked_ball,14,Gavin Lux singles on a line drive to right fielder Charlie Blackmon.   Cody Bellinger scores.,0,0,2,1,5,1.8,0.35
+1437,2021-04-01,666158,622075,single,hit_into_play,6,Gavin Lux singles on a ground ball to shortstop Trevor Story.,1,2,1,4,7,0.8,2.83
+1438,2021-04-01,666158,622075,,swinging_strike,14,Gavin Lux singles on a ground ball to shortstop Trevor Story.,1,1,1,3,7,0.03,0.79
+1439,2021-04-01,666158,622075,,called_strike,11,Gavin Lux singles on a ground ball to shortstop Trevor Story.,1,0,1,2,7,-1.04,2.9
+1440,2021-04-01,666158,622075,,ball,11,Gavin Lux singles on a ground ball to shortstop Trevor Story.,0,0,1,1,7,-2.53,3.54

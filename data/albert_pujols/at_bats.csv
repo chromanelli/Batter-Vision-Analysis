@@ -1,0 +1,1124 @@
+,game_date,batter,pitcher,events,description,zone,des,balls,strikes,outs_when_up,pitch_number,inning,plate_x,plate_z
+0,2021-10-03,405395,623352,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,1,2,2,4,7,0.93,3.15
+1,2021-10-03,405395,623352,,foul,4,Albert Pujols strikes out swinging.,1,1,2,3,7,-0.65,2.59
+2,2021-10-03,405395,623352,,called_strike,6,Albert Pujols strikes out swinging.,1,0,2,2,7,0.43,2.66
+3,2021-10-03,405395,623352,,ball,14,Albert Pujols strikes out swinging.,0,0,2,1,7,1.0,1.28
+4,2021-10-03,405395,608718,field_out,hit_into_play,2,Albert Pujols lines out sharply to left fielder Tyrone Taylor.,2,1,0,4,6,-0.03,3.21
+5,2021-10-03,405395,608718,,ball,11,Albert Pujols lines out sharply to left fielder Tyrone Taylor.,1,1,0,3,6,-0.26,4.79
+6,2021-10-03,405395,676879,strikeout,swinging_strike_blocked,13,Albert Pujols strikes out swinging.,1,2,0,4,5,-0.45,0.81
+7,2021-10-03,405395,676879,,foul,8,Albert Pujols strikes out swinging.,1,1,0,3,5,0.12,2.04
+8,2021-10-03,405395,608718,,called_strike,2,Albert Pujols lines out sharply to left fielder Tyrone Taylor.,1,0,0,2,6,-0.03,3.21
+9,2021-10-03,405395,608718,,ball,11,Albert Pujols lines out sharply to left fielder Tyrone Taylor.,0,0,0,1,6,-0.68,5.26
+10,2021-10-03,405395,676879,,called_strike,4,Albert Pujols strikes out swinging.,1,0,0,2,5,-0.75,2.72
+11,2021-10-03,405395,676879,,ball,12,Albert Pujols strikes out swinging.,0,0,0,1,5,0.37,3.74
+12,2021-10-01,405395,641778,single,hit_into_play,8,Albert Pujols singles on a sharp ground ball to shortstop Willy Adames.   Austin Barnes to 2nd.,1,1,1,3,5,-0.03,1.91
+13,2021-10-01,405395,641778,,ball,12,Albert Pujols singles on a sharp ground ball to shortstop Willy Adames.   Austin Barnes to 2nd.,0,1,1,2,5,0.61,3.75
+14,2021-10-01,405395,641778,,called_strike,4,Albert Pujols singles on a sharp ground ball to shortstop Willy Adames.   Austin Barnes to 2nd.,0,0,1,1,5,-0.52,2.4
+15,2021-09-29,405395,657612,field_out,hit_into_play,9,Albert Pujols flies out to right fielder Wil Myers.,1,0,2,2,6,0.33,2.14
+16,2021-09-29,405395,657612,,ball,11,Albert Pujols flies out to right fielder Wil Myers.,0,0,2,1,6,-0.92,3.1
+17,2021-09-26,405395,573009,strikeout,swinging_strike,14,Albert Pujols strikes out swinging.,1,2,2,4,6,1.74,1.49
+18,2021-09-26,405395,573009,,foul,13,Albert Pujols strikes out swinging.,1,1,2,3,6,0.0,1.43
+19,2021-09-26,405395,573009,,foul,14,Albert Pujols strikes out swinging.,1,0,2,2,6,0.93,2.11
+20,2021-09-26,405395,573009,,ball,14,Albert Pujols strikes out swinging.,0,0,2,1,6,1.59,2.11
+21,2021-09-25,405395,573009,grounded_into_double_play,hit_into_play,5,"Albert Pujols grounds into a double play, third baseman Josh Rojas to second baseman Ketel Marte to first baseman Christian Walker.   Chris Taylor out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,7,0.01,2.22
+22,2021-09-25,405395,573009,,called_strike,8,"Albert Pujols grounds into a double play, third baseman Josh Rojas to second baseman Ketel Marte to first baseman Christian Walker.   Chris Taylor out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,7,-0.12,1.78
+23,2021-09-23,405395,608032,field_out,hit_into_play,14,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,2,1,3,9,1.01,2.3
+24,2021-09-23,405395,608032,,swinging_strike,9,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,1,1,2,9,0.65,2.0
+25,2021-09-23,405395,608032,,called_strike,6,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,1,1,9,0.28,2.25
+26,2021-09-22,405395,656458,field_out,hit_into_play,5,Albert Pujols flies out to right fielder Charlie Blackmon.,1,0,1,2,9,-0.25,2.3
+27,2021-09-22,405395,656458,,ball,12,Albert Pujols flies out to right fielder Charlie Blackmon.,0,0,1,1,9,1.11,3.59
+28,2021-09-21,405395,468504,single,hit_into_play,9,Albert Pujols singles on a sharp ground ball to center fielder Garrett Hampson.   Gavin Lux scores.,0,1,1,2,10,0.55,1.81
+29,2021-09-21,405395,468504,,called_strike,7,Albert Pujols singles on a sharp ground ball to center fielder Garrett Hampson.   Gavin Lux scores.,0,0,1,1,10,-0.38,1.77
+30,2021-09-19,405395,489119,walk,ball,12,Albert Pujols walks.,3,0,1,4,3,1.09,3.1
+31,2021-09-19,405395,489119,,ball,13,Albert Pujols walks.,2,0,1,3,3,-0.69,0.22
+32,2021-09-19,405395,489119,,ball,13,Albert Pujols walks.,1,0,1,2,3,-0.1,1.19
+33,2021-09-19,405395,489119,,ball,13,Albert Pujols walks.,0,0,1,1,3,-1.04,1.92
+34,2021-09-19,405395,489119,field_out,hit_into_play,2,"Albert Pujols grounds out, pitcher Wade Miley to first baseman Tyler Stephenson.",0,1,2,2,1,-0.09,3.13
+35,2021-09-19,405395,489119,,called_strike,5,"Albert Pujols grounds out, pitcher Wade Miley to first baseman Tyler Stephenson.",0,0,2,1,1,-0.08,2.45
+36,2021-09-19,405395,663574,field_out,hit_into_play,2,Albert Pujols pops out to first baseman Tyler Stephenson in foul territory.,1,0,0,2,5,0.15,3.03
+37,2021-09-19,405395,663574,,ball,14,Albert Pujols pops out to first baseman Tyler Stephenson in foul territory.,0,0,0,1,5,0.95,1.72
+38,2021-09-19,405395,605521,field_out,hit_into_play,6,"Albert Pujols grounds out, second baseman Jonathan India to first baseman Tyler Stephenson.",0,0,1,1,7,0.29,2.59
+39,2021-09-18,405395,607237,single,hit_into_play,8,Albert Pujols singles on a line drive to third baseman Mike Moustakas.   Austin Barnes to 2nd.,0,1,1,2,9,-0.08,1.75
+40,2021-09-18,405395,607237,,called_strike,5,Albert Pujols singles on a line drive to third baseman Mike Moustakas.   Austin Barnes to 2nd.,0,0,1,1,9,0.15,2.14
+41,2021-09-17,405395,547179,field_out,hit_into_play,2,Albert Pujols lines out sharply to center fielder Delino DeShields.,0,1,2,2,9,0.01,3.39
+42,2021-09-17,405395,547179,,swinging_strike_blocked,14,Albert Pujols lines out sharply to center fielder Delino DeShields.,0,0,2,1,9,0.98,-0.11
+43,2021-09-15,405395,598287,field_out,hit_into_play,14,"Albert Pujols grounds out, shortstop Josh Rojas to first baseman Christian Walker.",2,2,0,5,8,1.11,1.9
+44,2021-09-15,405395,598287,,ball,14,"Albert Pujols grounds out, shortstop Josh Rojas to first baseman Christian Walker.",1,2,0,4,8,1.76,0.92
+45,2021-09-15,405395,598287,,ball,14,"Albert Pujols grounds out, shortstop Josh Rojas to first baseman Christian Walker.",0,2,0,3,8,2.62,2.19
+46,2021-09-15,405395,598287,,foul,9,"Albert Pujols grounds out, shortstop Josh Rojas to first baseman Christian Walker.",0,1,0,2,8,0.72,1.99
+47,2021-09-15,405395,598287,,called_strike,9,"Albert Pujols grounds out, shortstop Josh Rojas to first baseman Christian Walker.",0,0,0,1,8,0.46,1.96
+48,2021-09-14,405395,461325,single,hit_into_play,5,Albert Pujols singles on a line drive to right fielder Henry Ramos.,1,1,1,3,8,-0.16,2.31
+49,2021-09-14,405395,461325,,foul,6,Albert Pujols singles on a line drive to right fielder Henry Ramos.,1,0,1,2,8,0.44,2.45
+50,2021-09-14,405395,461325,,ball,14,Albert Pujols singles on a line drive to right fielder Henry Ramos.,0,0,1,1,8,2.07,2.36
+51,2021-09-09,405395,519008,walk,blocked_ball,14,Albert Pujols walks.,3,1,2,5,7,0.94,0.75
+52,2021-09-09,405395,519008,,called_strike,8,Albert Pujols walks.,3,0,2,4,7,0.0,1.87
+53,2021-09-09,405395,519008,,ball,13,Albert Pujols walks.,2,0,2,3,7,-1.04,1.84
+54,2021-09-09,405395,519008,,ball,14,Albert Pujols walks.,1,0,2,2,7,1.24,1.07
+55,2021-09-09,405395,519008,,ball,14,Albert Pujols walks.,0,0,2,1,7,0.55,1.48
+56,2021-09-08,405395,425794,field_out,hit_into_play,6,"Albert Pujols grounds out sharply, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",2,1,0,4,8,0.68,2.86
+57,2021-09-08,405395,425794,,ball,14,"Albert Pujols grounds out sharply, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",1,1,0,3,8,1.35,1.83
+58,2021-09-08,405395,425794,,ball,14,"Albert Pujols grounds out sharply, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",0,1,0,2,8,1.41,2.43
+59,2021-09-08,405395,425794,,called_strike,3,"Albert Pujols grounds out sharply, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",0,0,0,1,8,0.69,3.16
+60,2021-09-08,405395,425794,field_out,hit_into_play,14,"Albert Pujols grounds out, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",3,2,1,6,5,0.99,1.32
+61,2021-09-08,405395,425794,,ball,14,"Albert Pujols grounds out, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",2,2,1,5,5,1.95,1.29
+62,2021-09-08,405395,425794,,foul,6,"Albert Pujols grounds out, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",2,1,1,4,5,0.42,2.2
+63,2021-09-08,405395,425794,,called_strike,6,"Albert Pujols grounds out, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",2,0,1,3,5,0.57,2.57
+64,2021-09-08,405395,425794,,ball,11,"Albert Pujols grounds out, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",1,0,1,2,5,-0.96,3.34
+65,2021-09-08,405395,425794,,ball,14,"Albert Pujols grounds out, shortstop Edmundo Sosa to first baseman Paul Goldschmidt.",0,0,1,1,5,1.24,1.86
+66,2021-09-08,405395,425794,field_out,hit_into_play,9,"Albert Pujols grounds out, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",1,0,1,2,2,0.55,1.99
+67,2021-09-08,405395,425794,,ball,12,"Albert Pujols grounds out, third baseman Nolan Arenado to first baseman Paul Goldschmidt.",0,0,1,1,2,1.52,2.8
+68,2021-09-07,405395,457918,field_out,hit_into_play,9,Albert Pujols lines out sharply to center fielder Harrison Bader.,1,1,1,3,5,0.38,2.04
+69,2021-09-07,405395,457918,,ball,13,Albert Pujols lines out sharply to center fielder Harrison Bader.,0,1,1,2,5,-0.45,-0.63
+70,2021-09-07,405395,457918,,called_strike,6,Albert Pujols lines out sharply to center fielder Harrison Bader.,0,0,1,1,5,0.67,2.5
+71,2021-09-07,405395,457918,field_out,hit_into_play,12,Albert Pujols flies out to center fielder Harrison Bader.,1,0,2,2,3,1.0,2.6
+72,2021-09-07,405395,457918,,ball,14,Albert Pujols flies out to center fielder Harrison Bader.,0,0,2,1,3,1.19,1.85
+73,2021-09-07,405395,457918,home_run,hit_into_play,8,Albert Pujols homers (17) on a line drive to left field.,2,1,2,4,1,0.18,1.79
+74,2021-09-07,405395,457918,,ball,14,Albert Pujols homers (17) on a line drive to left field.,1,1,2,3,1,0.34,0.71
+75,2021-09-07,405395,457918,,foul,8,Albert Pujols homers (17) on a line drive to left field.,1,0,2,2,1,0.25,2.02
+76,2021-09-07,405395,457918,,ball,12,Albert Pujols homers (17) on a line drive to left field.,0,0,2,1,1,1.43,2.83
+77,2021-09-07,405395,676831,field_out,hit_into_play,3,Albert Pujols flies out to right fielder Dylan Carlson.,2,0,0,3,8,0.45,3.31
+78,2021-09-07,405395,676831,,ball,14,Albert Pujols flies out to right fielder Dylan Carlson.,1,0,0,2,8,1.0,2.23
+79,2021-09-07,405395,676831,,ball,12,Albert Pujols flies out to right fielder Dylan Carlson.,0,0,0,1,8,0.94,4.12
+80,2021-09-05,405395,459429,home_run,hit_into_play,5,Albert Pujols homers (16) on a fly ball to center field.   Austin Barnes scores.,1,0,0,2,9,-0.11,2.47
+81,2021-09-05,405395,459429,,ball,12,Albert Pujols homers (16) on a fly ball to center field.   Austin Barnes scores.,0,0,0,1,9,1.38,4.11
+82,2021-09-04,405395,669674,sac_fly,hit_into_play,12,Albert Pujols out on a sacrifice fly to right fielder LaMonte Wade.   Cody Bellinger scores.,0,2,1,3,9,0.88,3.57
+83,2021-09-04,405395,669674,,foul,2,Albert Pujols out on a sacrifice fly to right fielder LaMonte Wade.   Cody Bellinger scores.,0,1,1,2,9,-0.21,3.08
+84,2021-09-04,405395,669674,,called_strike,5,Albert Pujols out on a sacrifice fly to right fielder LaMonte Wade.   Cody Bellinger scores.,0,0,1,1,9,0.08,2.32
+85,2021-09-03,405395,459429,field_out,hit_into_play,12,"Albert Pujols grounds out, first baseman Brandon Belt to pitcher Jake McGee.",0,2,2,3,9,0.96,2.87
+86,2021-09-03,405395,459429,,foul,2,"Albert Pujols grounds out, first baseman Brandon Belt to pitcher Jake McGee.",0,1,2,2,9,-0.07,3.47
+87,2021-09-03,405395,459429,,called_strike,2,"Albert Pujols grounds out, first baseman Brandon Belt to pitcher Jake McGee.",0,0,2,1,9,0.16,3.16
+88,2021-08-29,405395,608032,strikeout,swinging_strike,8,Albert Pujols strikes out swinging.,1,2,1,4,9,0.05,1.98
+89,2021-08-29,405395,608032,,called_strike,6,Albert Pujols strikes out swinging.,1,1,1,3,9,0.57,2.79
+90,2021-08-29,405395,608032,,foul,14,Albert Pujols strikes out swinging.,1,0,1,2,9,0.83,2.51
+91,2021-08-29,405395,608032,,ball,12,Albert Pujols strikes out swinging.,0,0,1,1,9,0.53,3.89
+92,2021-08-27,405395,607536,field_out,hit_into_play,5,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",2,2,2,5,6,-0.19,2.33
+93,2021-08-27,405395,607536,,swinging_strike,13,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",2,1,2,4,6,-0.31,1.2
+94,2021-08-27,405395,607536,,called_strike,5,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",2,0,2,3,6,0.1,2.63
+95,2021-08-27,405395,607536,,ball,14,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",1,0,2,2,6,1.38,1.81
+96,2021-08-27,405395,607536,,ball,13,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",0,0,2,1,6,-0.71,1.49
+97,2021-08-27,405395,607536,field_out,hit_into_play,8,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",2,1,1,4,4,-0.15,2.15
+98,2021-08-27,405395,607536,,called_strike,1,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",2,0,1,3,4,-0.32,3.09
+99,2021-08-27,405395,607536,,ball,14,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",1,0,1,2,4,0.78,1.51
+100,2021-08-27,405395,607536,,ball,12,"Albert Pujols grounds out, shortstop Brendan Rodgers to first baseman C.  J. Cron.",0,0,1,1,4,2.06,3.32
+101,2021-08-27,405395,607536,strikeout,swinging_strike_blocked,13,Albert Pujols strikes out swinging.,1,2,0,4,2,-0.14,0.71
+102,2021-08-27,405395,607536,,foul,13,Albert Pujols strikes out swinging.,1,1,0,3,2,-1.25,2.4
+103,2021-08-27,405395,607536,,ball,13,Albert Pujols strikes out swinging.,0,1,0,2,2,-1.47,1.54
+104,2021-08-27,405395,607536,,called_strike,2,Albert Pujols strikes out swinging.,0,0,0,1,2,0.01,3.38
+105,2021-08-25,405395,543339,strikeout,called_strike,14,Albert Pujols called out on strikes.,2,2,2,5,8,0.99,1.73
+106,2021-08-25,405395,543339,,ball,14,Albert Pujols called out on strikes.,1,2,2,4,8,1.31,0.73
+107,2021-08-25,405395,543339,,ball,14,Albert Pujols called out on strikes.,0,2,2,3,8,1.34,1.16
+108,2021-08-25,405395,543339,,swinging_strike,14,Albert Pujols called out on strikes.,0,1,2,2,8,0.86,1.59
+109,2021-08-25,405395,543339,,swinging_strike,14,Albert Pujols called out on strikes.,0,0,2,1,8,1.0,2.05
+110,2021-08-24,405395,547176,field_out,hit_into_play,12,"Albert Pujols grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",1,1,0,3,6,1.37,3.02
+111,2021-08-24,405395,547176,,called_strike,6,"Albert Pujols grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",1,0,0,2,6,0.54,2.61
+112,2021-08-24,405395,547176,,ball,12,"Albert Pujols grounds out, second baseman Adam Frazier to first baseman Eric Hosmer.",0,0,0,1,6,1.49,3.47
+113,2021-08-21,405395,448179,field_out,hit_into_play,11,"Albert Pujols grounds out softly, second baseman Jeff McNeil to first baseman Pete Alonso.",3,2,2,6,3,-0.88,2.55
+114,2021-08-21,405395,448179,,called_strike,7,"Albert Pujols grounds out softly, second baseman Jeff McNeil to first baseman Pete Alonso.",3,1,2,5,3,-0.57,1.95
+115,2021-08-21,405395,448179,,called_strike,6,"Albert Pujols grounds out softly, second baseman Jeff McNeil to first baseman Pete Alonso.",3,0,2,4,3,0.55,3.06
+116,2021-08-21,405395,448179,,ball,12,"Albert Pujols grounds out softly, second baseman Jeff McNeil to first baseman Pete Alonso.",2,0,2,3,3,0.37,3.74
+117,2021-08-21,405395,448179,,ball,12,"Albert Pujols grounds out softly, second baseman Jeff McNeil to first baseman Pete Alonso.",1,0,2,2,3,1.08,3.15
+118,2021-08-21,405395,448179,,ball,3,"Albert Pujols grounds out softly, second baseman Jeff McNeil to first baseman Pete Alonso.",0,0,2,1,3,0.63,3.41
+119,2021-08-21,405395,448179,home_run,hit_into_play,5,Albert Pujols homers (15) on a fly ball to center field.,0,0,1,1,1,-0.16,2.25
+120,2021-08-18,405395,665854,walk,ball,13,Albert Pujols walks.,3,2,1,6,8,-0.63,0.96
+121,2021-08-18,405395,665854,,ball,14,Albert Pujols walks.,2,2,1,5,8,0.8,-0.91
+122,2021-08-18,405395,665854,,called_strike,13,Albert Pujols walks.,2,1,1,4,8,-0.83,2.14
+123,2021-08-18,405395,665854,,called_strike,14,Albert Pujols walks.,2,0,1,3,8,0.9,1.61
+124,2021-08-18,405395,665854,,ball,14,Albert Pujols walks.,1,0,1,2,8,1.73,0.02
+125,2021-08-18,405395,665854,,ball,14,Albert Pujols walks.,0,0,1,1,8,0.25,1.46
+126,2021-08-16,405395,643230,field_out,hit_into_play,12,Albert Pujols pops out to first baseman Colin Moran on the infield fly rule.,3,0,1,4,6,1.15,3.22
+127,2021-08-16,405395,643230,,ball,12,Albert Pujols pops out to first baseman Colin Moran on the infield fly rule.,2,0,1,3,6,1.51,3.23
+128,2021-08-16,405395,643230,,ball,13,Albert Pujols pops out to first baseman Colin Moran on the infield fly rule.,1,0,1,2,6,-0.02,1.01
+129,2021-08-16,405395,643230,,ball,14,Albert Pujols pops out to first baseman Colin Moran on the infield fly rule.,0,0,1,1,6,2.07,2.32
+130,2021-08-16,405395,643230,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,1,2,1,4,4,1.09,3.28
+131,2021-08-16,405395,643230,,swinging_strike,6,Albert Pujols strikes out swinging.,1,1,1,3,4,0.81,2.36
+132,2021-08-16,405395,643230,,swinging_strike,2,Albert Pujols strikes out swinging.,1,0,1,2,4,-0.22,3.13
+133,2021-08-16,405395,643230,,ball,12,Albert Pujols strikes out swinging.,0,0,1,1,4,1.22,3.25
+134,2021-08-16,405395,643230,grounded_into_double_play,hit_into_play,9,"Albert Pujols grounds into a double play, third baseman Ke'Bryan Hayes to second baseman Rodolfo Castro to first baseman Colin Moran.   Trea Turner out at 2nd.    Albert Pujols out at 1st.",3,2,1,6,1,0.37,1.99
+135,2021-08-16,405395,643230,,blocked_ball,14,"Albert Pujols grounds into a double play, third baseman Ke'Bryan Hayes to second baseman Rodolfo Castro to first baseman Colin Moran.   Trea Turner out at 2nd.    Albert Pujols out at 1st.",2,2,1,5,1,0.54,0.63
+136,2021-08-16,405395,643230,,ball,12,"Albert Pujols grounds into a double play, third baseman Ke'Bryan Hayes to second baseman Rodolfo Castro to first baseman Colin Moran.   Trea Turner out at 2nd.    Albert Pujols out at 1st.",1,2,1,4,1,1.5,2.95
+137,2021-08-16,405395,643230,,called_strike,8,"Albert Pujols grounds into a double play, third baseman Ke'Bryan Hayes to second baseman Rodolfo Castro to first baseman Colin Moran.   Trea Turner out at 2nd.    Albert Pujols out at 1st.",1,1,1,3,1,-0.24,1.92
+138,2021-08-16,405395,643230,,ball,14,"Albert Pujols grounds into a double play, third baseman Ke'Bryan Hayes to second baseman Rodolfo Castro to first baseman Colin Moran.   Trea Turner out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,1,1.5,1.87
+139,2021-08-16,405395,643230,,called_strike,9,"Albert Pujols grounds into a double play, third baseman Ke'Bryan Hayes to second baseman Rodolfo Castro to first baseman Colin Moran.   Trea Turner out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,1,0.71,2.05
+140,2021-08-12,405395,624133,strikeout,swinging_strike,3,Albert Pujols strikes out swinging.,2,2,0,7,4,0.73,3.45
+141,2021-08-12,405395,624133,,foul,14,Albert Pujols strikes out swinging.,2,2,0,6,4,0.54,1.21
+142,2021-08-12,405395,624133,,foul,7,Albert Pujols strikes out swinging.,2,2,0,5,4,-0.78,2.14
+143,2021-08-12,405395,624133,,ball,14,Albert Pujols strikes out swinging.,1,2,0,4,4,0.21,0.91
+144,2021-08-12,405395,624133,,ball,13,Albert Pujols strikes out swinging.,0,2,0,3,4,-0.24,1.15
+145,2021-08-12,405395,624133,,foul_tip,3,Albert Pujols strikes out swinging.,0,1,0,2,4,0.82,3.13
+146,2021-08-12,405395,624133,,called_strike,6,Albert Pujols strikes out swinging.,0,0,0,1,4,0.34,2.69
+147,2021-08-12,405395,624133,single,hit_into_play,8,Albert Pujols singles on a sharp line drive to right fielder Bryce Harper.,1,0,2,2,1,0.14,1.66
+148,2021-08-12,405395,624133,,ball,14,Albert Pujols singles on a sharp line drive to right fielder Bryce Harper.,0,0,2,1,1,1.49,2.52
+149,2021-08-12,405395,660853,force_out,hit_into_play,8,"Albert Pujols grounds into a force out, third baseman Ronald Torreyes to second baseman Jean Segura.   Max Muncy out at 2nd.",0,0,2,1,5,-0.09,2.05
+150,2021-08-11,405395,661440,single,hit_into_play,1,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols singles on a line drive to left fielder Andrew McCutchen.   AJ Pollock to 3rd.",0,2,2,5,9,-0.55,3.19
+151,2021-08-11,405395,661440,,foul,7,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols singles on a line drive to left fielder Andrew McCutchen.   AJ Pollock to 3rd.",0,2,2,4,9,-0.81,2.11
+152,2021-08-11,405395,661440,,foul,2,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols singles on a line drive to left fielder Andrew McCutchen.   AJ Pollock to 3rd.",0,2,2,3,9,-0.1,3.35
+153,2021-08-11,405395,661440,,called_strike,3,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols singles on a line drive to left fielder Andrew McCutchen.   AJ Pollock to 3rd.",0,1,2,2,9,0.46,3.31
+154,2021-08-11,405395,661440,,swinging_strike,14,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols singles on a line drive to left fielder Andrew McCutchen.   AJ Pollock to 3rd.",0,0,2,1,9,0.81,1.39
+155,2021-08-10,405395,661440,strikeout,called_strike,8,Albert Pujols called out on strikes.,3,2,1,6,8,0.14,1.57
+156,2021-08-10,405395,661440,,foul,1,Albert Pujols called out on strikes.,3,1,1,5,8,-0.6,3.29
+157,2021-08-10,405395,661440,,ball,11,Albert Pujols called out on strikes.,2,1,1,4,8,-1.03,2.77
+158,2021-08-10,405395,661440,,ball,11,Albert Pujols called out on strikes.,1,1,1,3,8,-1.56,4.58
+159,2021-08-10,405395,661440,,foul,9,Albert Pujols called out on strikes.,1,0,1,2,8,0.41,2.11
+160,2021-08-10,405395,661440,,ball,14,Albert Pujols called out on strikes.,0,0,1,1,8,1.39,1.83
+161,2021-08-08,405395,672282,field_out,hit_into_play,7,"Albert Pujols grounds out softly, pitcher Reid Detmers to first baseman Phil Gosselin.",0,0,2,1,4,-0.43,2.14
+162,2021-08-08,405395,672282,home_run,hit_into_play,4,Albert Pujols homers (9) on a fly ball to left center field.   AJ Pollock scores.,3,0,2,4,2,-0.4,2.48
+163,2021-08-08,405395,672282,,ball,11,Albert Pujols homers (9) on a fly ball to left center field.   AJ Pollock scores.,2,0,2,3,2,-0.32,3.96
+164,2021-08-08,405395,672282,,ball,11,Albert Pujols homers (9) on a fly ball to left center field.   AJ Pollock scores.,1,0,2,2,2,-1.85,2.77
+165,2021-08-08,405395,672282,,ball,13,Albert Pujols homers (9) on a fly ball to left center field.   AJ Pollock scores.,0,0,2,1,2,-0.92,0.68
+166,2021-08-08,405395,572125,field_out,hit_into_play,8,Albert Pujols flies out to center fielder Brandon Marsh.,0,2,2,3,8,-0.07,1.85
+167,2021-08-08,405395,572125,,swinging_strike,13,Albert Pujols flies out to center fielder Brandon Marsh.,0,1,2,2,8,-0.7,0.46
+168,2021-08-08,405395,572125,,called_strike,2,Albert Pujols flies out to center fielder Brandon Marsh.,0,0,2,1,8,-0.24,3.19
+169,2021-08-07,405395,650671,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,3,2,0,6,7,1.35,3.66
+170,2021-08-07,405395,650671,,foul_tip,5,Albert Pujols strikes out swinging.,3,1,0,5,7,0.13,2.56
+171,2021-08-07,405395,650671,,ball,14,Albert Pujols strikes out swinging.,2,1,0,4,7,2.19,2.38
+172,2021-08-07,405395,650671,,ball,14,Albert Pujols strikes out swinging.,1,1,0,3,7,0.96,1.64
+173,2021-08-07,405395,650671,,ball,13,Albert Pujols strikes out swinging.,0,1,0,2,7,-0.68,0.44
+174,2021-08-07,405395,650671,,called_strike,14,Albert Pujols strikes out swinging.,0,0,0,1,7,0.62,1.5
+175,2021-08-06,405395,663776,field_out,hit_into_play,4,"Albert Pujols grounds out, shortstop Jose Iglesias to first baseman Phil Gosselin.   Max Muncy to 3rd.",1,2,0,4,5,-0.6,2.34
+176,2021-08-06,405395,663776,,foul,2,"Albert Pujols grounds out, shortstop Jose Iglesias to first baseman Phil Gosselin.   Max Muncy to 3rd.",1,1,0,3,5,-0.24,3.46
+177,2021-08-06,405395,663776,,called_strike,4,"Albert Pujols grounds out, shortstop Jose Iglesias to first baseman Phil Gosselin.   Max Muncy to 3rd.",1,0,0,2,5,-0.82,2.91
+178,2021-08-06,405395,663776,,ball,12,"Albert Pujols grounds out, shortstop Jose Iglesias to first baseman Phil Gosselin.   Max Muncy to 3rd.",0,0,0,1,5,1.07,4.48
+179,2021-08-06,405395,663776,single,hit_into_play,5,Albert Pujols singles on a line drive to right fielder Jo Adell.   Justin Turner to 2nd.,1,1,2,3,3,-0.12,2.36
+180,2021-08-06,405395,663776,,called_strike,14,Albert Pujols singles on a line drive to right fielder Jo Adell.   Justin Turner to 2nd.,1,0,2,2,3,1.03,2.34
+181,2021-08-06,405395,663776,,ball,3,Albert Pujols singles on a line drive to right fielder Jo Adell.   Justin Turner to 2nd.,0,0,2,1,3,0.67,3.64
+182,2021-08-06,405395,663776,field_out,hit_into_play,9,"Albert Pujols grounds out, third baseman Jack Mayfield to first baseman Phil Gosselin.   Mookie Betts scores.    Justin Turner to 3rd.",0,0,1,1,1,0.49,2.18
+183,2021-08-06,405395,628452,strikeout,swinging_strike,14,Albert Pujols strikes out swinging.,0,2,0,3,10,1.47,0.88
+184,2021-08-06,405395,628452,,swinging_strike,14,Albert Pujols strikes out swinging.,0,1,0,2,10,0.72,1.28
+185,2021-08-06,405395,628452,,foul,7,Albert Pujols strikes out swinging.,0,0,0,1,10,-0.82,1.59
+186,2021-08-06,405395,681810,field_out,hit_into_play,14,"Albert Pujols grounds out, third baseman Jack Mayfield to first baseman Phil Gosselin.",0,2,2,3,7,0.9,2.15
+187,2021-08-06,405395,681810,,called_strike,9,"Albert Pujols grounds out, third baseman Jack Mayfield to first baseman Phil Gosselin.",0,1,2,2,7,0.49,1.87
+188,2021-08-06,405395,681810,,called_strike,7,"Albert Pujols grounds out, third baseman Jack Mayfield to first baseman Phil Gosselin.",0,0,2,1,7,-0.45,1.99
+189,2021-08-01,405395,592761,double,hit_into_play,8,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,3,2,2,10,2,0.03,1.77
+190,2021-08-01,405395,592761,,foul,12,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,3,2,2,9,2,0.01,3.89
+191,2021-08-01,405395,592761,,foul,1,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,3,2,2,8,2,-0.6,3.05
+192,2021-08-01,405395,592761,,foul,13,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,3,2,2,7,2,-0.98,2.4
+193,2021-08-01,405395,592761,,blocked_ball,13,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,2,2,2,6,2,-1.53,0.3
+194,2021-08-01,405395,592761,,foul,7,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,2,2,2,5,2,-0.82,1.5
+195,2021-08-01,405395,592761,,foul,12,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,2,1,2,4,2,0.09,3.7
+196,2021-08-01,405395,592761,,ball,12,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,1,1,2,3,2,0.16,4.01
+197,2021-08-01,405395,592761,,foul,7,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,1,0,2,2,2,-0.76,1.83
+198,2021-08-01,405395,592761,,ball,12,Albert Pujols doubles (3) on a sharp line drive to left fielder Daulton Varsho.   Billy McKinney scores.    Chris Taylor scores.    Justin Turner scores.,0,0,2,1,2,0.94,4.05
+199,2021-08-01,405395,676840,field_out,hit_into_play,5,Albert Pujols grounds out to first baseman Christian Walker.,1,1,2,3,4,0.15,2.79
+200,2021-08-01,405395,676840,,called_strike,8,Albert Pujols grounds out to first baseman Christian Walker.,1,0,2,2,4,-0.09,1.95
+201,2021-08-01,405395,676840,,ball,12,Albert Pujols grounds out to first baseman Christian Walker.,0,0,2,1,4,1.36,2.78
+202,2021-08-01,405395,592761,walk,ball,12,Albert Pujols walks.   Mookie Betts to 2nd.,3,2,2,6,1,1.29,3.47
+203,2021-08-01,405395,592761,,blocked_ball,13,Albert Pujols walks.   Mookie Betts to 2nd.,2,2,2,5,1,-0.91,0.47
+204,2021-08-01,405395,592761,,called_strike,6,Albert Pujols walks.   Mookie Betts to 2nd.,2,1,2,4,1,0.65,2.38
+205,2021-08-01,405395,592761,,ball,13,Albert Pujols walks.   Mookie Betts to 2nd.,1,1,2,3,1,-0.48,1.0
+206,2021-08-01,405395,592761,,swinging_strike,11,Albert Pujols walks.   Mookie Betts to 2nd.,1,0,2,2,1,-0.49,3.89
+207,2021-08-01,405395,488748,strikeout,swinging_strike,13,Albert Pujols strikes out swinging.,1,2,2,4,7,-0.56,1.12
+208,2021-08-01,405395,488748,,foul,11,Albert Pujols strikes out swinging.,1,1,2,3,7,-0.94,2.77
+209,2021-08-01,405395,592761,,ball,14,Albert Pujols walks.   Mookie Betts to 2nd.,0,0,2,1,1,1.74,2.31
+210,2021-08-01,405395,488748,,called_strike,7,Albert Pujols strikes out swinging.,1,0,2,2,7,-0.56,1.65
+211,2021-08-01,405395,488748,,ball,14,Albert Pujols strikes out swinging.,0,0,2,1,7,1.06,2.22
+212,2021-08-01,405395,592233,hit_by_pitch,hit_by_pitch,11,Albert Pujols hit by pitch.,2,0,2,3,6,-2.18,3.82
+213,2021-08-01,405395,592407,walk,ball,14,Albert Pujols walks.,3,1,2,5,9,1.53,2.09
+214,2021-08-01,405395,592407,,ball,14,Albert Pujols walks.,2,1,2,4,9,0.9,1.56
+215,2021-08-01,405395,592233,,ball,13,Albert Pujols hit by pitch.,1,0,2,2,6,-1.21,2.42
+216,2021-08-01,405395,592407,,ball,14,Albert Pujols walks.,1,1,2,3,9,0.37,1.54
+217,2021-08-01,405395,592233,,ball,14,Albert Pujols hit by pitch.,0,0,2,1,6,1.36,2.1
+218,2021-08-01,405395,592407,,called_strike,3,Albert Pujols walks.,1,0,2,2,9,0.43,3.16
+219,2021-08-01,405395,592407,,ball,14,Albert Pujols walks.,0,0,2,1,9,1.23,2.04
+220,2021-07-31,405395,607188,single,hit_into_play,1,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,3,2,1,8,9,-0.71,3.58
+221,2021-07-31,405395,607188,,foul,7,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,3,2,1,7,9,-0.29,1.67
+222,2021-07-31,405395,607188,,ball,12,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,2,2,1,6,9,1.62,3.59
+223,2021-07-31,405395,607188,,foul,9,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,2,2,1,5,9,0.31,1.54
+224,2021-07-31,405395,607188,,ball,14,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,1,2,1,4,9,1.41,1.2
+225,2021-07-31,405395,607188,,foul,2,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,1,1,1,3,9,-0.18,3.2
+226,2021-07-31,405395,607188,,ball,3,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,0,1,1,2,9,0.63,3.12
+227,2021-07-31,405395,607188,,foul,12,Albert Pujols singles on a line drive to left fielder David Peralta.   AJ Pollock scores.,0,0,1,1,9,0.98,3.45
+228,2021-07-31,405395,488748,single,hit_into_play,14,Albert Pujols singles on a sharp line drive to left fielder David Peralta.   Will Smith scores.    AJ Pollock to 3rd.    Cody Bellinger to 2nd.,2,0,1,3,7,0.09,1.41
+229,2021-07-31,405395,488748,,ball,12,Albert Pujols singles on a sharp line drive to left fielder David Peralta.   Will Smith scores.    AJ Pollock to 3rd.    Cody Bellinger to 2nd.,1,0,1,2,7,1.49,4.81
+230,2021-07-31,405395,488748,,ball,12,Albert Pujols singles on a sharp line drive to left fielder David Peralta.   Will Smith scores.    AJ Pollock to 3rd.    Cody Bellinger to 2nd.,0,0,1,1,7,0.3,4.09
+231,2021-07-30,405395,676969,single,hit_into_play,12,Albert Pujols singles on a ground ball to center fielder Daulton Varsho.   Will Smith scores.    AJ Pollock to 3rd.,1,1,2,3,8,0.85,3.1
+232,2021-07-30,405395,676969,,ball,12,Albert Pujols singles on a ground ball to center fielder Daulton Varsho.   Will Smith scores.    AJ Pollock to 3rd.,0,1,2,2,8,0.32,3.76
+233,2021-07-30,405395,676969,,called_strike,5,Albert Pujols singles on a ground ball to center fielder Daulton Varsho.   Will Smith scores.    AJ Pollock to 3rd.,0,0,2,1,8,-0.23,2.76
+234,2021-07-29,405395,456501,strikeout,swinging_strike,3,Albert Pujols strikes out swinging.,2,2,0,6,5,0.77,2.91
+235,2021-07-29,405395,456501,,foul,8,Albert Pujols strikes out swinging.,2,2,0,5,5,-0.03,1.48
+236,2021-07-29,405395,456501,,blocked_ball,14,Albert Pujols strikes out swinging.,1,2,0,4,5,0.64,-0.05
+237,2021-07-29,405395,456501,,foul,6,Albert Pujols strikes out swinging.,1,1,0,3,5,0.44,2.49
+238,2021-07-29,405395,456501,,called_strike,6,Albert Pujols strikes out swinging.,1,0,0,2,5,0.51,2.26
+239,2021-07-29,405395,456501,,ball,2,Albert Pujols strikes out swinging.,0,0,0,1,5,0.15,3.42
+240,2021-07-29,405395,456501,grounded_into_double_play,hit_into_play,5,"Albert Pujols grounds into a double play, shortstop Brandon Crawford to second baseman Donovan Solano to first baseman Darin Ruf.   AJ Pollock out at 2nd.    Albert Pujols out at 1st.",3,0,1,4,2,0.18,2.72
+241,2021-07-29,405395,456501,,ball,11,"Albert Pujols grounds into a double play, shortstop Brandon Crawford to second baseman Donovan Solano to first baseman Darin Ruf.   AJ Pollock out at 2nd.    Albert Pujols out at 1st.",2,0,1,3,2,-1.04,2.76
+242,2021-07-29,405395,456501,,ball,14,"Albert Pujols grounds into a double play, shortstop Brandon Crawford to second baseman Donovan Solano to first baseman Darin Ruf.   AJ Pollock out at 2nd.    Albert Pujols out at 1st.",1,0,1,2,2,1.09,1.8
+243,2021-07-29,405395,456501,,ball,3,"Albert Pujols grounds into a double play, shortstop Brandon Crawford to second baseman Donovan Solano to first baseman Darin Ruf.   AJ Pollock out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,2,0.78,3.35
+244,2021-07-29,405395,608678,strikeout,swinging_strike,14,Albert Pujols strikes out swinging.,0,2,1,3,7,0.39,1.35
+245,2021-07-29,405395,608678,,swinging_strike,14,Albert Pujols strikes out swinging.,0,1,1,2,7,1.02,1.03
+246,2021-07-29,405395,608678,,called_strike,2,Albert Pujols strikes out swinging.,0,0,1,1,7,-0.18,2.89
+247,2021-07-24,405395,607536,grounded_into_double_play,hit_into_play,14,"Albert Pujols grounds into a double play, second baseman Garrett Hampson to shortstop Trevor Story to first baseman C.  J. Cron.   AJ Pollock out at 2nd.    Albert Pujols out at 1st.",0,2,1,3,6,1.22,1.84
+248,2021-07-24,405395,607536,,foul,2,"Albert Pujols grounds into a double play, second baseman Garrett Hampson to shortstop Trevor Story to first baseman C.  J. Cron.   AJ Pollock out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,6,0.19,3.31
+249,2021-07-24,405395,607536,,called_strike,2,"Albert Pujols grounds into a double play, second baseman Garrett Hampson to shortstop Trevor Story to first baseman C.  J. Cron.   AJ Pollock out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,6,0.15,3.03
+250,2021-07-24,405395,607536,field_out,hit_into_play,6,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",3,2,0,7,4,0.43,2.61
+251,2021-07-24,405395,607536,,ball,14,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",2,2,0,6,4,0.46,1.04
+252,2021-07-24,405395,607536,,foul,8,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",2,2,0,5,4,-0.18,1.9
+253,2021-07-24,405395,607536,,ball,13,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,2,0,4,4,-1.59,0.47
+254,2021-07-24,405395,607536,,called_strike,9,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,1,0,3,4,0.37,1.74
+255,2021-07-24,405395,607536,,called_strike,2,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,0,0,2,4,-0.02,3.17
+256,2021-07-24,405395,607536,,ball,14,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,0,1,4,1.34,2.23
+257,2021-07-24,405395,607536,field_out,hit_into_play,1,Albert Pujols flies out to center fielder Sam Hilliard.,0,0,2,1,1,-0.46,3.54
+258,2021-07-23,405395,641755,strikeout,swinging_strike,14,Albert Pujols strikes out swinging.,1,2,2,4,6,1.3,2.38
+259,2021-07-23,405395,641755,,ball,11,Albert Pujols strikes out swinging.,0,2,2,3,6,-0.6,5.33
+260,2021-07-23,405395,641755,,foul,3,Albert Pujols strikes out swinging.,0,1,2,2,6,0.37,3.57
+261,2021-07-23,405395,641755,,foul,5,Albert Pujols strikes out swinging.,0,0,2,1,6,0.17,2.43
+262,2021-07-22,405395,501625,field_out,hit_into_play,14,"Albert Pujols grounds out, shortstop Thairo Estrada to first baseman Darin Ruf.",0,1,2,2,8,1.0,1.86
+263,2021-07-22,405395,501625,,called_strike,8,"Albert Pujols grounds out, shortstop Thairo Estrada to first baseman Darin Ruf.",0,0,2,1,8,-0.09,1.94
+264,2021-07-21,405395,657277,field_out,hit_into_play,1,"Albert Pujols grounds out, shortstop Thairo Estrada to first baseman Darin Ruf.",2,2,2,5,4,-0.6,2.93
+265,2021-07-21,405395,657277,,foul,2,"Albert Pujols grounds out, shortstop Thairo Estrada to first baseman Darin Ruf.",2,1,2,4,4,-0.13,3.03
+266,2021-07-21,405395,657277,,ball,14,"Albert Pujols grounds out, shortstop Thairo Estrada to first baseman Darin Ruf.",1,1,2,3,4,1.61,1.98
+267,2021-07-21,405395,657277,,called_strike,6,"Albert Pujols grounds out, shortstop Thairo Estrada to first baseman Darin Ruf.",1,0,2,2,4,0.48,2.25
+268,2021-07-21,405395,657277,,ball,11,"Albert Pujols grounds out, shortstop Thairo Estrada to first baseman Darin Ruf.",0,0,2,1,4,-1.49,3.28
+269,2021-07-21,405395,657277,field_out,hit_into_play,7,"Albert Pujols grounds out, first baseman Darin Ruf to pitcher Logan Webb.",2,1,1,4,2,-0.52,1.96
+270,2021-07-21,405395,657277,,swinging_strike,9,"Albert Pujols grounds out, first baseman Darin Ruf to pitcher Logan Webb.",2,0,1,3,2,0.68,1.54
+271,2021-07-21,405395,657277,,ball,11,"Albert Pujols grounds out, first baseman Darin Ruf to pitcher Logan Webb.",1,0,1,2,2,-0.95,2.75
+272,2021-07-21,405395,657277,,ball,14,"Albert Pujols grounds out, first baseman Darin Ruf to pitcher Logan Webb.",0,0,1,1,2,1.66,0.54
+273,2021-07-21,405395,641793,field_out,hit_into_play,2,Albert Pujols flies out to right fielder Mike Yastrzemski.,2,1,0,4,7,0.04,3.08
+274,2021-07-21,405395,641793,,swinging_strike,14,Albert Pujols flies out to right fielder Mike Yastrzemski.,2,0,0,3,7,0.58,1.39
+275,2021-07-21,405395,641793,,ball,13,Albert Pujols flies out to right fielder Mike Yastrzemski.,1,0,0,2,7,-0.84,2.4
+276,2021-07-21,405395,641793,,ball,1,Albert Pujols flies out to right fielder Mike Yastrzemski.,0,0,0,1,7,-0.45,3.65
+277,2021-07-20,405395,622072,single,hit_into_play,14,Albert Pujols singles on a ground ball to right fielder Mike Yastrzemski.,0,2,2,3,5,1.12,2.42
+278,2021-07-20,405395,622072,,called_strike,4,Albert Pujols singles on a ground ball to right fielder Mike Yastrzemski.,0,1,2,2,5,-0.41,2.48
+279,2021-07-20,405395,622072,,swinging_strike,12,Albert Pujols singles on a ground ball to right fielder Mike Yastrzemski.,0,0,2,1,5,0.07,3.77
+280,2021-07-20,405395,622072,field_out,hit_into_play,4,"Albert Pujols grounds out, second baseman Donovan Solano to first baseman LaMonte Wade.",0,1,2,2,3,-0.29,2.69
+281,2021-07-20,405395,622072,,called_strike,8,"Albert Pujols grounds out, second baseman Donovan Solano to first baseman LaMonte Wade.",0,0,2,1,3,-0.13,1.9
+282,2021-07-20,405395,622072,grounded_into_double_play,hit_into_play,7,"Albert Pujols grounds into a double play, shortstop Thairo Estrada to second baseman Donovan Solano to first baseman LaMonte Wade.   Max Muncy out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,1,-0.31,1.98
+283,2021-07-20,405395,622072,,foul,11,"Albert Pujols grounds into a double play, shortstop Thairo Estrada to second baseman Donovan Solano to first baseman LaMonte Wade.   Max Muncy out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,1,-1.0,2.67
+284,2021-07-20,405395,606424,field_out,hit_into_play,6,"Albert Pujols grounds out sharply, shortstop Thairo Estrada to first baseman Darin Ruf.",0,2,0,3,7,0.42,2.82
+285,2021-07-20,405395,606424,,foul,6,"Albert Pujols grounds out sharply, shortstop Thairo Estrada to first baseman Darin Ruf.",0,1,0,2,7,0.77,2.37
+286,2021-07-20,405395,606424,,called_strike,8,"Albert Pujols grounds out sharply, shortstop Thairo Estrada to first baseman Darin Ruf.",0,0,0,1,7,-0.24,1.73
+287,2021-07-19,405395,459429,field_out,hit_into_play,11,"Albert Pujols grounds out softly, first baseman Darin Ruf to pitcher Jake McGee.",1,2,2,4,9,-1.08,2.97
+288,2021-07-19,405395,459429,,foul,12,"Albert Pujols grounds out softly, first baseman Darin Ruf to pitcher Jake McGee.",1,1,2,3,9,1.07,3.34
+289,2021-07-19,405395,459429,,foul,12,"Albert Pujols grounds out softly, first baseman Darin Ruf to pitcher Jake McGee.",1,0,2,2,9,1.08,2.98
+290,2021-07-19,405395,459429,,ball,14,"Albert Pujols grounds out softly, first baseman Darin Ruf to pitcher Jake McGee.",0,0,2,1,9,1.55,2.4
+291,2021-07-18,405395,453268,field_out,hit_into_play,7,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,0,2,2,9,-0.43,1.77
+292,2021-07-18,405395,453268,,ball,14,"Albert Pujols grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,2,1,9,1.6,0.25
+293,2021-07-17,405395,607536,single,hit_into_play,7,Albert Pujols singles on a fly ball to right fielder Charlie Blackmon.   Max Muncy to 3rd.,1,2,1,4,6,-0.47,1.81
+294,2021-07-17,405395,607536,,blocked_ball,13,Albert Pujols singles on a fly ball to right fielder Charlie Blackmon.   Max Muncy to 3rd.,0,2,1,3,6,-0.64,-0.35
+295,2021-07-17,405395,607536,,swinging_strike_blocked,13,Albert Pujols singles on a fly ball to right fielder Charlie Blackmon.   Max Muncy to 3rd.,0,1,1,2,6,-0.67,0.3
+296,2021-07-17,405395,607536,,foul,1,Albert Pujols singles on a fly ball to right fielder Charlie Blackmon.   Max Muncy to 3rd.,0,0,1,1,6,-0.47,3.45
+297,2021-07-17,405395,607536,field_out,hit_into_play,13,Albert Pujols lines out sharply to third baseman Ryan McMahon.,1,1,0,3,4,-0.31,1.48
+298,2021-07-17,405395,607536,,ball,13,Albert Pujols lines out sharply to third baseman Ryan McMahon.,0,1,0,2,4,-1.18,1.83
+299,2021-07-17,405395,607536,,called_strike,7,Albert Pujols lines out sharply to third baseman Ryan McMahon.,0,0,0,1,4,-0.49,2.23
+300,2021-07-17,405395,607536,field_out,hit_into_play,2,Albert Pujols pops out to first baseman C.  J. Cron.,1,0,1,2,1,-0.09,3.33
+301,2021-07-17,405395,607536,,ball,12,Albert Pujols pops out to first baseman C.  J. Cron.,0,0,1,1,1,1.42,3.88
+302,2021-07-17,405395,608032,field_out,hit_into_play,14,Albert Pujols flies out to right fielder Charlie Blackmon.,2,2,0,7,8,1.41,2.32
+303,2021-07-17,405395,608032,,foul,7,Albert Pujols flies out to right fielder Charlie Blackmon.,2,2,0,6,8,-0.38,2.16
+304,2021-07-17,405395,608032,,ball,11,Albert Pujols flies out to right fielder Charlie Blackmon.,1,2,0,5,8,-0.01,4.52
+305,2021-07-17,405395,608032,,foul,14,Albert Pujols flies out to right fielder Charlie Blackmon.,1,2,0,4,8,1.15,2.33
+306,2021-07-17,405395,573127,strikeout,swinging_strike,13,Albert Pujols strikes out swinging.,0,2,2,3,9,-0.65,1.08
+307,2021-07-17,405395,608032,,foul,11,Albert Pujols flies out to right fielder Charlie Blackmon.,1,1,0,3,8,-0.39,3.91
+308,2021-07-17,405395,573127,,foul,5,Albert Pujols strikes out swinging.,0,1,2,2,9,0.0,2.69
+309,2021-07-17,405395,608032,,ball,13,Albert Pujols flies out to right fielder Charlie Blackmon.,0,1,0,2,8,-1.43,2.33
+310,2021-07-17,405395,573127,,swinging_strike,13,Albert Pujols strikes out swinging.,0,0,2,1,9,-0.82,-1.02
+311,2021-07-17,405395,608032,,called_strike,1,Albert Pujols flies out to right fielder Charlie Blackmon.,0,0,0,1,8,-0.33,3.25
+312,2021-07-16,405395,656458,single,hit_into_play,6,"Albert Pujols singles on a ground ball to shortstop Trevor Story, deflected by pitcher Lucas Gilbreath.",2,0,1,3,9,0.76,2.42
+313,2021-07-16,405395,656458,,ball,11,"Albert Pujols singles on a ground ball to shortstop Trevor Story, deflected by pitcher Lucas Gilbreath.",1,0,1,2,9,-0.04,4.39
+314,2021-07-16,405395,656458,,ball,2,"Albert Pujols singles on a ground ball to shortstop Trevor Story, deflected by pitcher Lucas Gilbreath.",0,0,1,1,9,0.06,3.71
+315,2021-07-11,405395,573009,strikeout,swinging_strike_blocked,13,Albert Pujols strikes out swinging.,0,2,2,3,7,-1.26,0.55
+316,2021-07-11,405395,573009,,swinging_strike,6,Albert Pujols strikes out swinging.,0,1,2,2,7,0.56,2.19
+317,2021-07-11,405395,656266,single,hit_into_play,5,Albert Pujols singles on a ground ball to center fielder Daulton Varsho.,0,1,0,2,9,0.25,2.67
+318,2021-07-11,405395,656266,,called_strike,9,Albert Pujols singles on a ground ball to center fielder Daulton Varsho.,0,0,0,1,9,0.56,2.15
+319,2021-07-11,405395,573009,,called_strike,5,Albert Pujols strikes out swinging.,0,0,2,1,7,-0.21,2.17
+320,2021-07-10,405395,622065,home_run,hit_into_play,6,Albert Pujols homers (7) on a line drive to left center field.,0,1,2,2,7,0.38,2.44
+321,2021-07-10,405395,622065,,called_strike,6,Albert Pujols homers (7) on a line drive to left center field.,0,0,2,1,7,0.29,2.45
+322,2021-07-10,405395,676840,single,hit_into_play,14,Albert Pujols singles on a ground ball to right fielder Kole Calhoun.   Justin Turner to 2nd.,1,0,2,2,4,1.2,2.21
+323,2021-07-10,405395,676840,,ball,14,Albert Pujols singles on a ground ball to right fielder Kole Calhoun.   Justin Turner to 2nd.,0,0,2,1,4,1.64,1.27
+324,2021-07-10,405395,622065,force_out,hit_into_play,13,"Albert Pujols grounds into a force out, shortstop Nick Ahmed to second baseman Andrew Young.   Zach McKinstry out at 2nd.",1,1,2,3,6,-0.28,0.92
+325,2021-07-10,405395,622065,,swinging_strike,5,"Albert Pujols grounds into a force out, shortstop Nick Ahmed to second baseman Andrew Young.   Zach McKinstry out at 2nd.",1,0,2,2,6,0.03,2.7
+326,2021-07-10,405395,622065,,ball,12,"Albert Pujols grounds into a force out, shortstop Nick Ahmed to second baseman Andrew Young.   Zach McKinstry out at 2nd.",0,0,2,1,6,1.1,2.82
+327,2021-07-10,405395,592761,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,3,2,1,9,1,0.95,3.62
+328,2021-07-10,405395,592761,,foul,7,Albert Pujols strikes out swinging.,3,2,1,8,1,-0.51,1.74
+329,2021-07-10,405395,592761,,foul,14,Albert Pujols strikes out swinging.,3,2,1,7,1,1.63,2.36
+330,2021-07-10,405395,592761,,foul,11,Albert Pujols strikes out swinging.,3,2,1,6,1,-1.0,2.82
+331,2021-07-10,405395,592761,,foul,2,Albert Pujols strikes out swinging.,3,1,1,5,1,0.12,2.95
+332,2021-07-10,405395,592761,,ball,13,Albert Pujols strikes out swinging.,2,1,1,4,1,-1.54,2.27
+333,2021-07-10,405395,592761,,called_strike,4,Albert Pujols strikes out swinging.,2,0,1,3,1,-0.59,2.75
+334,2021-07-10,405395,592761,,blocked_ball,13,Albert Pujols strikes out swinging.,1,0,1,2,1,-0.85,-0.85
+335,2021-07-10,405395,592761,,ball,14,Albert Pujols strikes out swinging.,0,0,1,1,1,1.57,1.75
+336,2021-07-10,405395,676840,field_out,hit_into_play,8,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Christian Walker.",0,2,1,3,2,0.22,1.9
+337,2021-07-10,405395,676840,,foul,4,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Christian Walker.",0,1,1,2,2,-0.29,2.32
+338,2021-07-10,405395,676840,,called_strike,8,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Christian Walker.",0,0,1,1,2,-0.09,2.06
+339,2021-07-10,405395,502210,home_run,hit_into_play,2,Albert Pujols homers (8) on a fly ball to left center field.   Gavin Lux scores.,1,1,2,3,8,0.26,3.34
+340,2021-07-10,405395,502210,,called_strike,4,Albert Pujols homers (8) on a fly ball to left center field.   Gavin Lux scores.,1,0,2,2,8,-0.67,2.91
+341,2021-07-10,405395,502210,,ball,12,Albert Pujols homers (8) on a fly ball to left center field.   Gavin Lux scores.,0,0,2,1,8,1.45,4.88
+342,2021-07-07,405395,446321,single,hit_into_play,8,Albert Pujols singles on a sharp line drive to left fielder Jesus Sanchez.,1,1,2,3,3,-0.18,1.73
+343,2021-07-07,405395,446321,,ball,14,Albert Pujols singles on a sharp line drive to left fielder Jesus Sanchez.,0,1,2,2,3,0.72,1.24
+344,2021-07-07,405395,446321,,called_strike,6,Albert Pujols singles on a sharp line drive to left fielder Jesus Sanchez.,0,0,2,1,3,0.74,2.47
+345,2021-07-07,405395,446321,field_out,hit_into_play,9,Albert Pujols pops out to first baseman Jesus Aguilar in foul territory.,2,1,1,4,1,0.66,1.9
+346,2021-07-07,405395,446321,,swinging_strike,9,Albert Pujols pops out to first baseman Jesus Aguilar in foul territory.,2,0,1,3,1,0.64,1.98
+347,2021-07-07,405395,446321,,ball,14,Albert Pujols pops out to first baseman Jesus Aguilar in foul territory.,1,0,1,2,1,1.43,1.92
+348,2021-07-07,405395,446321,,ball,14,Albert Pujols pops out to first baseman Jesus Aguilar in foul territory.,0,0,1,1,1,0.92,1.35
+349,2021-07-06,405395,605276,grounded_into_double_play,hit_into_play,12,"Albert Pujols grounds into a double play, shortstop Miguel Rojas to second baseman Joe Panik to first baseman Jesus Aguilar.   Gavin Lux out at 2nd.    Albert Pujols out at 1st.",2,2,1,6,10,0.25,4.04
+350,2021-07-06,405395,605276,,ball,12,"Albert Pujols grounds into a double play, shortstop Miguel Rojas to second baseman Joe Panik to first baseman Jesus Aguilar.   Gavin Lux out at 2nd.    Albert Pujols out at 1st.",1,2,1,5,10,0.09,4.47
+351,2021-07-06,405395,605276,,foul,2,"Albert Pujols grounds into a double play, shortstop Miguel Rojas to second baseman Joe Panik to first baseman Jesus Aguilar.   Gavin Lux out at 2nd.    Albert Pujols out at 1st.",1,2,1,4,10,-0.01,3.03
+352,2021-07-06,405395,605276,,swinging_strike,5,"Albert Pujols grounds into a double play, shortstop Miguel Rojas to second baseman Joe Panik to first baseman Jesus Aguilar.   Gavin Lux out at 2nd.    Albert Pujols out at 1st.",1,1,1,3,10,0.2,2.55
+353,2021-07-06,405395,605276,,ball,12,"Albert Pujols grounds into a double play, shortstop Miguel Rojas to second baseman Joe Panik to first baseman Jesus Aguilar.   Gavin Lux out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,10,1.0,2.99
+354,2021-07-06,405395,605276,,called_strike,6,"Albert Pujols grounds into a double play, shortstop Miguel Rojas to second baseman Joe Panik to first baseman Jesus Aguilar.   Gavin Lux out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,10,0.42,2.12
+355,2021-07-05,405395,669432,field_out,hit_into_play,5,Albert Pujols flies out to right fielder Adam Duvall.,0,1,2,2,5,-0.25,2.22
+356,2021-07-05,405395,669432,,called_strike,6,Albert Pujols flies out to right fielder Adam Duvall.,0,0,2,1,5,0.77,2.65
+357,2021-07-05,405395,669432,strikeout,swinging_strike,2,Albert Pujols strikes out swinging.,0,2,1,3,3,0.2,3.26
+358,2021-07-05,405395,669432,,foul,13,Albert Pujols strikes out swinging.,0,1,1,2,3,-0.85,2.18
+359,2021-07-05,405395,669432,,foul,7,Albert Pujols strikes out swinging.,0,0,1,1,3,-0.6,1.73
+360,2021-07-05,405395,647315,single,hit_into_play,9,Albert Pujols singles on a line drive to center fielder Starling Marte.,1,1,0,3,8,0.6,2.01
+361,2021-07-05,405395,647315,,ball,14,Albert Pujols singles on a line drive to center fielder Starling Marte.,0,1,0,2,8,1.46,1.6
+362,2021-07-05,405395,647315,,swinging_strike,13,Albert Pujols singles on a line drive to center fielder Starling Marte.,0,0,0,1,8,-0.99,1.59
+363,2021-07-05,405395,669432,field_out,hit_into_play,13,Albert Pujols flies out to second baseman Jazz Chisholm Jr.,1,1,0,3,2,-0.84,2.49
+364,2021-07-05,405395,669432,,called_strike,5,Albert Pujols flies out to second baseman Jazz Chisholm Jr.,1,0,0,2,2,-0.16,2.51
+365,2021-07-05,405395,669432,,ball,14,Albert Pujols flies out to second baseman Jazz Chisholm Jr.,0,0,0,1,2,0.01,1.36
+366,2021-07-04,405395,605452,single,hit_into_play,8,Albert Pujols singles on a sharp line drive to left fielder Yadiel Hernandez.   Gavin Lux scores.,1,2,1,4,7,0.17,1.98
+367,2021-07-04,405395,605452,,called_strike,6,Albert Pujols singles on a sharp line drive to left fielder Yadiel Hernandez.   Gavin Lux scores.,1,1,1,3,7,0.81,2.86
+368,2021-07-04,405395,605452,,called_strike,14,Albert Pujols singles on a sharp line drive to left fielder Yadiel Hernandez.   Gavin Lux scores.,1,0,1,2,7,0.85,1.6
+369,2021-07-04,405395,605452,,ball,14,Albert Pujols singles on a sharp line drive to left fielder Yadiel Hernandez.   Gavin Lux scores.,0,0,1,1,7,1.7,1.21
+370,2021-07-03,405395,502179,sac_fly,hit_into_play,3,Albert Pujols out on a sacrifice fly to right fielder Juan Soto.   Justin Turner scores.    Cody Bellinger to 3rd.,1,2,1,5,4,0.82,3.6
+371,2021-07-03,405395,502179,,foul,14,Albert Pujols out on a sacrifice fly to right fielder Juan Soto.   Justin Turner scores.    Cody Bellinger to 3rd.,1,2,1,4,4,0.75,0.97
+372,2021-07-03,405395,502179,,swinging_strike,14,Albert Pujols out on a sacrifice fly to right fielder Juan Soto.   Justin Turner scores.    Cody Bellinger to 3rd.,1,1,1,3,4,0.65,1.24
+373,2021-07-03,405395,502179,,called_strike,9,Albert Pujols out on a sacrifice fly to right fielder Juan Soto.   Justin Turner scores.    Cody Bellinger to 3rd.,1,0,1,2,4,0.77,1.52
+374,2021-07-03,405395,502179,,ball,13,Albert Pujols out on a sacrifice fly to right fielder Juan Soto.   Justin Turner scores.    Cody Bellinger to 3rd.,0,0,1,1,4,-0.22,1.47
+375,2021-07-03,405395,502179,field_out,hit_into_play,5,Albert Pujols lines out sharply to shortstop Alcides Escobar.,0,0,1,1,2,-0.08,2.7
+376,2021-07-03,405395,608723,field_out,hit_into_play,9,Albert Pujols pops out to first baseman Ryan Zimmerman in foul territory.,0,0,2,1,8,0.76,1.93
+377,2021-07-03,405395,593833,fielders_choice,hit_into_play,2,"Albert Pujols reaches on a fielder's choice, fielded by shortstop Alcides Escobar.   Will Smith to 3rd.  Will Smith advances to 3rd, on a throwing error by second baseman Josh Harrison.",1,2,1,4,6,0.16,3.6
+378,2021-07-03,405395,593833,,swinging_strike,11,"Albert Pujols reaches on a fielder's choice, fielded by shortstop Alcides Escobar.   Will Smith to 3rd.  Will Smith advances to 3rd, on a throwing error by second baseman Josh Harrison.",1,1,1,3,6,-0.02,3.62
+379,2021-07-03,405395,593833,,foul,5,"Albert Pujols reaches on a fielder's choice, fielded by shortstop Alcides Escobar.   Will Smith to 3rd.  Will Smith advances to 3rd, on a throwing error by second baseman Josh Harrison.",1,0,1,2,6,-0.08,2.78
+380,2021-07-03,405395,593833,,ball,14,"Albert Pujols reaches on a fielder's choice, fielded by shortstop Alcides Escobar.   Will Smith to 3rd.  Will Smith advances to 3rd, on a throwing error by second baseman Josh Harrison.",0,0,1,1,6,2.34,1.17
+381,2021-07-02,405395,621348,single,hit_into_play,14,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,2,2,1,8,7,0.9,2.45
+382,2021-07-02,405395,621348,,foul,7,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,2,2,1,7,7,-0.74,1.64
+383,2021-07-02,405395,621348,,ball,12,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,1,2,1,6,7,1.96,3.43
+384,2021-07-02,405395,621348,,foul,12,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,1,2,1,5,7,1.7,2.56
+385,2021-07-02,405395,621348,,foul,7,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,1,2,1,4,7,-0.64,1.69
+386,2021-07-02,405395,543456,field_out,hit_into_play,6,Albert Pujols flies out to right fielder Juan Soto.,3,2,2,7,7,0.43,2.45
+387,2021-07-02,405395,621348,,swinging_strike,13,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,1,1,1,3,7,-0.76,1.28
+388,2021-07-02,405395,543456,,ball,12,Albert Pujols flies out to right fielder Juan Soto.,2,2,2,6,7,1.59,2.63
+389,2021-07-02,405395,621348,,called_strike,9,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,1,0,1,2,7,0.64,1.52
+390,2021-07-02,405395,543456,,foul,12,Albert Pujols flies out to right fielder Juan Soto.,2,2,2,5,7,1.25,2.76
+391,2021-07-02,405395,543456,,ball,13,Albert Pujols flies out to right fielder Juan Soto.,1,2,2,4,7,-1.12,-0.37
+392,2021-07-02,405395,621348,,ball,14,Albert Pujols singles on a ground ball to third baseman Starlin Castro.   Chris Taylor scores.,0,0,1,1,7,1.45,1.83
+393,2021-07-02,405395,543456,,foul,9,Albert Pujols flies out to right fielder Juan Soto.,1,1,2,3,7,0.78,1.49
+394,2021-07-02,405395,543456,,called_strike,9,Albert Pujols flies out to right fielder Juan Soto.,1,0,2,2,7,0.36,1.73
+395,2021-07-02,405395,543456,,ball,12,Albert Pujols flies out to right fielder Juan Soto.,0,0,2,1,7,1.24,2.77
+396,2021-07-01,405395,571578,field_out,hit_into_play,9,"Albert Pujols grounds out sharply, shortstop Starlin Castro to first baseman Josh Bell.",3,2,1,6,5,0.55,2.19
+397,2021-07-01,405395,571578,,foul,8,"Albert Pujols grounds out sharply, shortstop Starlin Castro to first baseman Josh Bell.",3,1,1,5,5,-0.11,1.95
+398,2021-07-01,405395,571578,,ball,13,"Albert Pujols grounds out sharply, shortstop Starlin Castro to first baseman Josh Bell.",2,1,1,4,5,-0.23,0.76
+399,2021-07-01,405395,571578,,ball,14,"Albert Pujols grounds out sharply, shortstop Starlin Castro to first baseman Josh Bell.",1,1,1,3,5,1.41,2.17
+400,2021-07-01,405395,571578,,called_strike,3,"Albert Pujols grounds out sharply, shortstop Starlin Castro to first baseman Josh Bell.",1,0,1,2,5,0.71,3.07
+401,2021-07-01,405395,571578,,ball,14,"Albert Pujols grounds out sharply, shortstop Starlin Castro to first baseman Josh Bell.",0,0,1,1,5,0.04,0.29
+402,2021-07-01,405395,571578,single,hit_into_play,14,Albert Pujols singles on a ground ball to right fielder Juan Soto.   Chris Taylor scores.    Justin Turner to 2nd.,2,2,1,5,4,1.26,1.95
+403,2021-07-01,405395,571578,,blocked_ball,14,Albert Pujols singles on a ground ball to right fielder Juan Soto.   Chris Taylor scores.    Justin Turner to 2nd.,1,2,1,4,4,0.18,0.67
+404,2021-07-01,405395,571578,,foul,14,Albert Pujols singles on a ground ball to right fielder Juan Soto.   Chris Taylor scores.    Justin Turner to 2nd.,1,1,1,3,4,0.81,1.27
+405,2021-07-01,405395,571578,,swinging_strike,3,Albert Pujols singles on a ground ball to right fielder Juan Soto.   Chris Taylor scores.    Justin Turner to 2nd.,1,0,1,2,4,0.73,3.33
+406,2021-07-01,405395,571578,,ball,14,Albert Pujols singles on a ground ball to right fielder Juan Soto.   Chris Taylor scores.    Justin Turner to 2nd.,0,0,1,1,4,0.56,1.15
+407,2021-07-01,405395,571578,field_out,hit_into_play,12,"Albert Pujols grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",2,2,0,6,2,1.42,3.39
+408,2021-07-01,405395,571578,,ball,13,"Albert Pujols grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",1,2,0,5,2,-0.66,-0.35
+409,2021-07-01,405395,571578,,foul,8,"Albert Pujols grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",1,2,0,4,2,0.22,1.49
+410,2021-07-01,405395,571578,,swinging_strike,6,"Albert Pujols grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",1,1,0,3,2,0.29,2.59
+411,2021-07-01,405395,571578,,ball,14,"Albert Pujols grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",0,1,0,2,2,1.16,1.45
+412,2021-07-01,405395,571578,,foul,14,"Albert Pujols grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",0,0,0,1,2,1.02,1.59
+413,2021-06-27,405395,571521,field_out,hit_into_play,4,"Albert Pujols grounds out, third baseman Eric Sogard to first baseman Patrick Wisdom.",0,2,0,3,7,-0.56,2.28
+414,2021-06-27,405395,571521,,foul,14,"Albert Pujols grounds out, third baseman Eric Sogard to first baseman Patrick Wisdom.",0,1,0,2,7,1.01,2.41
+415,2021-06-27,405395,571521,,called_strike,4,"Albert Pujols grounds out, third baseman Eric Sogard to first baseman Patrick Wisdom.",0,0,0,1,7,-0.59,2.69
+416,2021-06-24,405395,605200,field_out,hit_into_play,9,Albert Pujols lines out to shortstop Javier Baez.,0,1,0,2,4,0.6,1.87
+417,2021-06-24,405395,605200,,called_strike,14,Albert Pujols lines out to shortstop Javier Baez.,0,0,0,1,4,1.06,2.37
+418,2021-06-24,405395,605200,field_out,hit_into_play,14,"Albert Pujols grounds out, second baseman Eric Sogard to first baseman Anthony Rizzo.",2,1,2,4,1,1.08,2.08
+419,2021-06-24,405395,605200,,called_strike,6,"Albert Pujols grounds out, second baseman Eric Sogard to first baseman Anthony Rizzo.",2,0,2,3,1,0.63,2.42
+420,2021-06-24,405395,605200,,ball,14,"Albert Pujols grounds out, second baseman Eric Sogard to first baseman Anthony Rizzo.",1,0,2,2,1,1.38,2.4
+421,2021-06-24,405395,605200,,ball,14,"Albert Pujols grounds out, second baseman Eric Sogard to first baseman Anthony Rizzo.",0,0,2,1,1,1.37,1.89
+422,2021-06-24,405395,518886,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,1,2,1,4,9,0.94,2.97
+423,2021-06-24,405395,518886,,swinging_strike,14,Albert Pujols strikes out swinging.,1,1,1,3,9,1.2,2.45
+424,2021-06-24,405395,518886,,ball,13,Albert Pujols strikes out swinging.,0,1,1,2,9,-0.04,1.35
+425,2021-06-24,405395,518886,,called_strike,9,Albert Pujols strikes out swinging.,0,0,1,1,9,0.79,2.12
+426,2021-06-24,405395,572193,field_out,hit_into_play,8,Albert Pujols flies out to right fielder Jason Heyward.,2,2,0,7,7,-0.14,2.1
+427,2021-06-24,405395,572193,,foul,8,Albert Pujols flies out to right fielder Jason Heyward.,2,2,0,6,7,0.12,1.87
+428,2021-06-24,405395,572193,,foul,14,Albert Pujols flies out to right fielder Jason Heyward.,2,2,0,5,7,1.24,1.35
+429,2021-06-24,405395,572193,,ball,14,Albert Pujols flies out to right fielder Jason Heyward.,1,2,0,4,7,1.94,1.14
+430,2021-06-24,405395,572193,,ball,14,Albert Pujols flies out to right fielder Jason Heyward.,0,2,0,3,7,0.93,1.45
+431,2021-06-24,405395,572193,,foul,5,Albert Pujols flies out to right fielder Jason Heyward.,0,1,0,2,7,0.05,2.45
+432,2021-06-24,405395,572193,,called_strike,8,Albert Pujols flies out to right fielder Jason Heyward.,0,0,0,1,7,0.06,2.24
+433,2021-06-23,405395,453343,double_play,hit_into_play,8,"Albert Pujols lines into a double play, third baseman Manny Machado to second baseman Jake Cronenworth.   Will Smith out at 2nd.",2,2,1,5,9,-0.27,1.81
+434,2021-06-23,405395,453343,,ball,14,"Albert Pujols lines into a double play, third baseman Manny Machado to second baseman Jake Cronenworth.   Will Smith out at 2nd.",1,2,1,4,9,0.41,1.0
+435,2021-06-23,405395,453343,,ball,14,"Albert Pujols lines into a double play, third baseman Manny Machado to second baseman Jake Cronenworth.   Will Smith out at 2nd.",0,2,1,3,9,1.7,2.05
+436,2021-06-23,405395,453343,,swinging_strike_blocked,14,"Albert Pujols lines into a double play, third baseman Manny Machado to second baseman Jake Cronenworth.   Will Smith out at 2nd.",0,1,1,2,9,0.63,0.87
+437,2021-06-23,405395,453343,,called_strike,4,"Albert Pujols lines into a double play, third baseman Manny Machado to second baseman Jake Cronenworth.   Will Smith out at 2nd.",0,0,1,1,9,-0.57,2.32
+438,2021-06-22,405395,605483,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,1,2,2,4,5,1.19,3.38
+439,2021-06-22,405395,605483,,called_strike,14,Albert Pujols strikes out swinging.,1,1,2,3,5,1.02,2.05
+440,2021-06-22,405395,605483,,called_strike,9,Albert Pujols strikes out swinging.,1,0,2,2,5,0.77,1.78
+441,2021-06-22,405395,605483,,blocked_ball,14,Albert Pujols strikes out swinging.,0,0,2,1,5,0.46,0.49
+442,2021-06-22,405395,605483,force_out,hit_into_play,14,"Albert Pujols grounds into a force out, third baseman Manny Machado to shortstop Fernando Tatis Jr.  to second baseman Jake Cronenworth.   Justin Turner out at 2nd.    Albert Pujols to 1st.",2,2,0,5,4,0.18,1.31
+443,2021-06-22,405395,605483,,swinging_strike,13,"Albert Pujols grounds into a force out, third baseman Manny Machado to shortstop Fernando Tatis Jr.  to second baseman Jake Cronenworth.   Justin Turner out at 2nd.    Albert Pujols to 1st.",2,1,0,4,4,-0.11,1.11
+444,2021-06-22,405395,605483,,ball,12,"Albert Pujols grounds into a force out, third baseman Manny Machado to shortstop Fernando Tatis Jr.  to second baseman Jake Cronenworth.   Justin Turner out at 2nd.    Albert Pujols to 1st.",1,1,0,3,4,1.91,3.1
+445,2021-06-22,405395,605483,,swinging_strike,14,"Albert Pujols grounds into a force out, third baseman Manny Machado to shortstop Fernando Tatis Jr.  to second baseman Jake Cronenworth.   Justin Turner out at 2nd.    Albert Pujols to 1st.",1,0,0,2,4,0.58,1.37
+446,2021-06-22,405395,605483,,blocked_ball,13,"Albert Pujols grounds into a force out, third baseman Manny Machado to shortstop Fernando Tatis Jr.  to second baseman Jake Cronenworth.   Justin Turner out at 2nd.    Albert Pujols to 1st.",0,0,0,1,4,-0.14,0.17
+447,2021-06-22,405395,622503,single,hit_into_play,8,Albert Pujols singles on a sharp line drive to right fielder Wil Myers.   Chris Taylor to 3rd.    Justin Turner to 2nd.,1,0,0,2,8,0.15,1.63
+448,2021-06-22,405395,622503,,ball,13,Albert Pujols singles on a sharp line drive to right fielder Wil Myers.   Chris Taylor to 3rd.    Justin Turner to 2nd.,0,0,0,1,8,-0.98,2.28
+449,2021-06-22,405395,605483,walk,ball,13,Albert Pujols walks.,3,2,2,6,1,-0.23,1.13
+450,2021-06-22,405395,605483,,called_strike,3,Albert Pujols walks.,3,1,2,5,1,0.51,3.14
+451,2021-06-22,405395,605483,,foul,9,Albert Pujols walks.,3,0,2,4,1,0.41,2.09
+452,2021-06-22,405395,605483,,ball,12,Albert Pujols walks.,2,0,2,3,1,1.17,3.49
+453,2021-06-22,405395,605483,,blocked_ball,13,Albert Pujols walks.,1,0,2,2,1,-0.5,-0.15
+454,2021-06-22,405395,605483,,ball,12,Albert Pujols walks.,0,0,2,1,1,1.37,3.23
+455,2021-06-20,405395,622065,home_run,hit_into_play,13,Albert Pujols homers (6) on a fly ball to left field.   AJ Pollock scores.    Justin Turner scores.,1,2,1,4,3,-0.44,1.3
+456,2021-06-20,405395,622065,,foul,8,Albert Pujols homers (6) on a fly ball to left field.   AJ Pollock scores.    Justin Turner scores.,1,1,1,3,3,0.27,2.0
+457,2021-06-20,405395,622065,,ball,14,Albert Pujols homers (6) on a fly ball to left field.   AJ Pollock scores.    Justin Turner scores.,0,1,1,2,3,1.51,2.13
+458,2021-06-20,405395,622065,,called_strike,3,Albert Pujols homers (6) on a fly ball to left field.   AJ Pollock scores.    Justin Turner scores.,0,0,1,1,3,0.33,3.07
+459,2021-06-20,405395,656686,field_out,hit_into_play,2,Albert Pujols flies out to right fielder Josh Reddick.,1,1,2,3,5,0.15,3.17
+460,2021-06-20,405395,656686,,ball,12,Albert Pujols flies out to right fielder Josh Reddick.,0,1,2,2,5,1.51,2.75
+461,2021-06-20,405395,656686,,swinging_strike,9,Albert Pujols flies out to right fielder Josh Reddick.,0,0,2,1,5,0.73,1.7
+462,2021-06-20,405395,622065,single,hit_into_play,14,Albert Pujols singles on a ground ball to center fielder Ketel Marte.   Justin Turner to 2nd.,2,2,2,5,1,1.1,1.81
+463,2021-06-20,405395,622065,,foul,5,Albert Pujols singles on a ground ball to center fielder Ketel Marte.   Justin Turner to 2nd.,2,1,2,4,1,0.21,2.27
+464,2021-06-20,405395,656686,field_out,hit_into_play,14,Albert Pujols lines out to right fielder Josh Reddick.,0,1,0,2,4,0.87,2.12
+465,2021-06-20,405395,622065,,ball,13,Albert Pujols singles on a ground ball to center fielder Ketel Marte.   Justin Turner to 2nd.,1,1,2,3,1,-0.51,0.5
+466,2021-06-20,405395,622065,,called_strike,6,Albert Pujols singles on a ground ball to center fielder Ketel Marte.   Justin Turner to 2nd.,1,0,2,2,1,0.33,2.76
+467,2021-06-20,405395,656686,,called_strike,8,Albert Pujols lines out to right fielder Josh Reddick.,0,0,0,1,4,-0.13,2.23
+468,2021-06-20,405395,622065,,ball,13,Albert Pujols singles on a ground ball to center fielder Ketel Marte.   Justin Turner to 2nd.,0,0,2,1,1,-0.37,1.36
+469,2021-06-20,405395,573009,field_out,hit_into_play,5,Albert Pujols flies out to right fielder Josh Reddick.,0,1,2,2,7,0.04,2.32
+470,2021-06-20,405395,573009,,called_strike,2,Albert Pujols flies out to right fielder Josh Reddick.,0,0,2,1,7,-0.08,3.62
+471,2021-06-18,405395,592761,field_out,hit_into_play,11,Albert Pujols lines out softly to shortstop Nick Ahmed.,0,2,0,3,4,-1.08,3.11
+472,2021-06-18,405395,592761,,foul,11,Albert Pujols lines out softly to shortstop Nick Ahmed.,0,1,0,2,4,0.0,3.74
+473,2021-06-18,405395,592761,,called_strike,5,Albert Pujols lines out softly to shortstop Nick Ahmed.,0,0,0,1,4,0.06,2.3
+474,2021-06-18,405395,592761,grounded_into_double_play,hit_into_play,6,"Albert Pujols grounds into a double play, shortstop Nick Ahmed to second baseman Eduardo Escobar to first baseman Christian Walker.   Justin Turner out at 2nd.    Albert Pujols out at 1st.",2,1,1,4,1,0.76,2.24
+475,2021-06-18,405395,592761,,called_strike,8,"Albert Pujols grounds into a double play, shortstop Nick Ahmed to second baseman Eduardo Escobar to first baseman Christian Walker.   Justin Turner out at 2nd.    Albert Pujols out at 1st.",2,0,1,3,1,0.15,1.56
+476,2021-06-18,405395,592761,,ball,13,"Albert Pujols grounds into a double play, shortstop Nick Ahmed to second baseman Eduardo Escobar to first baseman Christian Walker.   Justin Turner out at 2nd.    Albert Pujols out at 1st.",1,0,1,2,1,-0.96,1.01
+477,2021-06-18,405395,592233,field_out,hit_into_play,13,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",3,2,2,6,8,-0.28,1.46
+478,2021-06-18,405395,592761,,ball,14,"Albert Pujols grounds into a double play, shortstop Nick Ahmed to second baseman Eduardo Escobar to first baseman Christian Walker.   Justin Turner out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,1,1.64,1.79
+479,2021-06-18,405395,592233,,ball,14,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",2,2,2,5,8,0.98,1.39
+480,2021-06-18,405395,592233,,blocked_ball,13,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",1,2,2,4,8,-0.84,0.34
+481,2021-06-18,405395,592233,,called_strike,4,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",1,1,2,3,8,-0.34,2.24
+482,2021-06-18,405395,592233,,called_strike,7,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",1,0,2,2,8,-0.63,2.04
+483,2021-06-18,405395,592233,,ball,14,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Christian Walker.",0,0,2,1,8,0.0,1.35
+484,2021-06-18,405395,598287,field_out,hit_into_play,1,"Albert Pujols grounds out sharply, third baseman Asdrubal Cabrera to first baseman Christian Walker.",0,1,0,2,7,-0.34,2.98
+485,2021-06-18,405395,598287,,called_strike,5,"Albert Pujols grounds out sharply, third baseman Asdrubal Cabrera to first baseman Christian Walker.",0,0,0,1,7,0.15,2.38
+486,2021-06-16,405395,621237,field_out,hit_into_play,7,Albert Pujols flies out to right fielder Brad Miller.,0,1,2,2,8,-0.63,2.13
+487,2021-06-16,405395,621237,,called_strike,1,Albert Pujols flies out to right fielder Brad Miller.,0,0,2,1,8,-0.66,2.71
+488,2021-06-15,405395,621107,field_out,hit_into_play,5,Albert Pujols flies out to right fielder Luke Williams.,1,0,1,2,4,0.14,2.67
+489,2021-06-15,405395,621107,,ball,13,Albert Pujols flies out to right fielder Luke Williams.,0,0,1,1,4,-0.16,1.4
+490,2021-06-15,405395,621107,field_out,hit_into_play,5,"Albert Pujols grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,0,1,2,2,-0.24,2.26
+491,2021-06-15,405395,621107,,ball,14,"Albert Pujols grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,1,1,2,0.85,2.11
+492,2021-06-15,405395,656322,single,hit_into_play,5,Albert Pujols singles on a ground ball to center fielder Odubel Herrera.,1,1,1,3,6,-0.24,2.76
+493,2021-06-15,405395,605151,single,hit_into_play,4,Albert Pujols singles on a ground ball to left fielder Andrew McCutchen.   Chris Taylor to 2nd.,0,1,0,2,8,-0.67,2.63
+494,2021-06-15,405395,656322,,foul_tip,6,Albert Pujols singles on a ground ball to center fielder Odubel Herrera.,1,0,1,2,6,0.68,2.69
+495,2021-06-15,405395,605151,,called_strike,4,Albert Pujols singles on a ground ball to left fielder Andrew McCutchen.   Chris Taylor to 2nd.,0,0,0,1,8,-0.46,3.0
+496,2021-06-15,405395,656322,,ball,14,Albert Pujols singles on a ground ball to center fielder Odubel Herrera.,0,0,1,1,6,1.74,0.95
+497,2021-06-14,405395,663559,single,hit_into_play,4,Albert Pujols singles on a line drive to left fielder Andrew McCutchen.,0,1,1,2,7,-0.58,2.78
+498,2021-06-14,405395,663559,,called_strike,9,Albert Pujols singles on a line drive to left fielder Andrew McCutchen.,0,0,1,1,7,0.36,1.85
+499,2021-06-13,405395,667463,strikeout,swinging_strike,14,Albert Pujols strikes out swinging.,3,2,2,6,6,0.09,1.36
+500,2021-06-13,405395,667463,,swinging_strike,12,Albert Pujols strikes out swinging.,3,1,2,5,6,0.92,2.7
+501,2021-06-13,405395,667463,,called_strike,8,Albert Pujols strikes out swinging.,3,0,2,4,6,0.09,1.64
+502,2021-06-13,405395,667463,,ball,14,Albert Pujols strikes out swinging.,2,0,2,3,6,0.73,1.45
+503,2021-06-13,405395,667463,,ball,14,Albert Pujols strikes out swinging.,1,0,2,2,6,1.52,1.84
+504,2021-06-13,405395,667463,,ball,14,Albert Pujols strikes out swinging.,0,0,2,1,6,0.94,1.8
+505,2021-06-12,405395,663465,force_out,hit_into_play,7,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",3,2,0,9,4,-0.28,1.61
+506,2021-06-12,405395,663465,,blocked_ball,13,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",2,2,0,8,4,-0.66,0.05
+507,2021-06-12,405395,663465,,foul,5,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",2,2,0,7,4,-0.22,2.37
+508,2021-06-12,405395,663465,,foul,9,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",2,2,0,6,4,0.71,1.96
+509,2021-06-12,405395,663465,,foul,12,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",2,2,0,5,4,0.85,2.58
+510,2021-06-12,405395,663465,,ball,12,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",1,2,0,4,4,0.89,4.25
+511,2021-06-12,405395,663465,,ball,12,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",0,2,0,3,4,0.28,3.51
+512,2021-06-12,405395,663465,,foul,8,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",0,1,0,2,4,0.14,1.59
+513,2021-06-12,405395,663465,,called_strike,6,"Rangers challenged (slide interference), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Eli White.   Justin Turner out at 2nd.    Albert Pujols to 1st.",0,0,0,1,4,0.62,2.61
+514,2021-06-12,405395,622250,field_out,hit_into_play,9,Albert Pujols flies out to right fielder Joey Gallo in foul territory.,1,2,2,6,8,0.68,2.02
+515,2021-06-12,405395,622250,,foul,4,Albert Pujols flies out to right fielder Joey Gallo in foul territory.,1,2,2,5,8,-0.54,2.32
+516,2021-06-12,405395,622250,,foul,14,Albert Pujols flies out to right fielder Joey Gallo in foul territory.,1,2,2,4,8,0.58,1.29
+517,2021-06-12,405395,622250,,foul,13,Albert Pujols flies out to right fielder Joey Gallo in foul territory.,1,1,2,3,8,-0.13,1.32
+518,2021-06-12,405395,622250,,ball,12,Albert Pujols flies out to right fielder Joey Gallo in foul territory.,0,1,2,2,8,1.29,4.58
+519,2021-06-12,405395,622250,,swinging_strike,14,Albert Pujols flies out to right fielder Joey Gallo in foul territory.,0,0,2,1,8,1.14,1.96
+520,2021-06-12,405395,663465,field_out,hit_into_play,9,"Albert Pujols grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",1,2,2,4,1,0.75,1.81
+521,2021-06-12,405395,663465,,foul,8,"Albert Pujols grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",1,1,2,3,1,0.16,1.54
+522,2021-06-12,405395,663465,,ball,14,"Albert Pujols grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,1,2,2,1,0.05,1.32
+523,2021-06-12,405395,663465,,called_strike,8,"Albert Pujols grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,2,1,1,0.27,1.89
+524,2021-06-12,405395,663770,strikeout,swinging_strike,11,Albert Pujols strikes out swinging.,1,2,1,4,6,-0.47,3.91
+525,2021-06-12,405395,663770,,called_strike,1,Albert Pujols strikes out swinging.,1,1,1,3,6,-0.61,3.01
+526,2021-06-12,405395,663770,,swinging_strike,6,Albert Pujols strikes out swinging.,1,0,1,2,6,0.51,2.25
+527,2021-06-12,405395,663770,,ball,12,Albert Pujols strikes out swinging.,0,0,1,1,6,0.03,3.87
+528,2021-06-11,405395,676969,field_out,hit_into_play,5,"Albert Pujols grounds out, third baseman Charlie Culberson to first baseman Nate Lowe.",2,2,2,5,6,-0.1,2.85
+529,2021-06-11,405395,676969,,blocked_ball,14,"Albert Pujols grounds out, third baseman Charlie Culberson to first baseman Nate Lowe.",1,2,2,4,6,1.48,0.95
+530,2021-06-11,405395,676969,,swinging_strike,14,"Albert Pujols grounds out, third baseman Charlie Culberson to first baseman Nate Lowe.",1,1,2,3,6,1.79,2.4
+531,2021-06-11,405395,676969,,called_strike,8,"Albert Pujols grounds out, third baseman Charlie Culberson to first baseman Nate Lowe.",1,0,2,2,6,-0.13,1.61
+532,2021-06-11,405395,676969,,ball,14,"Albert Pujols grounds out, third baseman Charlie Culberson to first baseman Nate Lowe.",0,0,2,1,6,0.85,1.5
+533,2021-06-11,405395,592314,field_out,hit_into_play,6,Albert Pujols flies out to right fielder Joey Gallo.,0,2,0,4,2,0.62,2.27
+534,2021-06-11,405395,592314,,foul,9,Albert Pujols flies out to right fielder Joey Gallo.,0,2,0,3,2,0.28,1.62
+535,2021-06-11,405395,592314,,swinging_strike,5,Albert Pujols flies out to right fielder Joey Gallo.,0,1,0,2,2,-0.03,2.42
+536,2021-06-11,405395,592314,,called_strike,6,Albert Pujols flies out to right fielder Joey Gallo.,0,0,0,1,2,0.35,2.79
+537,2021-06-11,405395,676969,single,hit_into_play,5,Albert Pujols singles on a ground ball to center fielder Adolis Garcia.   Mookie Betts to 2nd.,1,1,0,3,5,-0.11,2.23
+538,2021-06-11,405395,676969,,called_strike,9,Albert Pujols singles on a ground ball to center fielder Adolis Garcia.   Mookie Betts to 2nd.,1,0,0,2,5,0.38,1.97
+539,2021-06-11,405395,660365,home_run,hit_into_play,2,Albert Pujols homers (10) on a fly ball to left center field.,1,1,0,3,4,0.26,3.49
+540,2021-06-11,405395,660365,,ball,13,Albert Pujols homers (10) on a fly ball to left center field.,0,1,0,2,4,-1.64,1.21
+541,2021-06-11,405395,676969,,ball,14,Albert Pujols singles on a ground ball to center fielder Adolis Garcia.   Mookie Betts to 2nd.,0,0,0,1,5,1.11,1.79
+542,2021-06-11,405395,660365,,called_strike,2,Albert Pujols homers (10) on a fly ball to left center field.,0,0,0,1,4,-0.05,3.15
+543,2021-06-10,405395,605195,game_advisory,foul,11,Status Change - Delayed: Rain,2,0,1,3,8,-0.06,3.68
+544,2021-06-10,405395,605195,,ball,12,Status Change - Delayed: Rain,1,0,1,2,8,1.72,2.72
+545,2021-06-10,405395,605195,,ball,14,Status Change - Delayed: Rain,0,0,1,1,8,2.0,2.62
+546,2021-06-09,405395,542881,field_out,hit_into_play,13,"Albert Pujols grounds out, third baseman Ke'Bryan Hayes to first baseman Phillip Evans.",1,2,0,4,6,-0.28,1.4
+547,2021-06-09,405395,542881,,ball,12,"Albert Pujols grounds out, third baseman Ke'Bryan Hayes to first baseman Phillip Evans.",0,2,0,3,6,1.38,2.59
+548,2021-06-09,405395,542881,,swinging_strike,12,"Albert Pujols grounds out, third baseman Ke'Bryan Hayes to first baseman Phillip Evans.",0,1,0,2,6,0.31,3.69
+549,2021-06-09,405395,542881,,called_strike,3,"Albert Pujols grounds out, third baseman Ke'Bryan Hayes to first baseman Phillip Evans.",0,0,0,1,6,0.72,3.1
+550,2021-06-09,405395,542881,single,hit_into_play,4,Albert Pujols singles on a ground ball to right fielder Gregory Polanco.,1,2,2,5,3,-0.32,2.79
+551,2021-06-09,405395,542881,,ball,13,Albert Pujols singles on a ground ball to right fielder Gregory Polanco.,0,2,2,4,3,-1.15,1.91
+552,2021-06-09,405395,542881,,foul,6,Albert Pujols singles on a ground ball to right fielder Gregory Polanco.,0,2,2,3,3,0.52,2.47
+553,2021-06-09,405395,542881,,foul,11,Albert Pujols singles on a ground ball to right fielder Gregory Polanco.,0,1,2,2,3,-0.84,2.71
+554,2021-06-09,405395,542881,,called_strike,6,Albert Pujols singles on a ground ball to right fielder Gregory Polanco.,0,0,2,1,3,0.5,2.45
+555,2021-06-09,405395,605280,field_out,hit_into_play,14,"Albert Pujols grounds out sharply, third baseman Ke'Bryan Hayes to first baseman Phillip Evans.",0,1,2,2,7,0.88,2.05
+556,2021-06-09,405395,605280,,called_strike,5,"Albert Pujols grounds out sharply, third baseman Ke'Bryan Hayes to first baseman Phillip Evans.",0,0,2,1,7,-0.19,2.75
+557,2021-06-09,405395,542881,single,hit_into_play,8,Albert Pujols singles on a line drive to center fielder Bryan Reynolds.,0,1,2,2,1,0.09,1.96
+558,2021-06-09,405395,542881,,called_strike,8,Albert Pujols singles on a line drive to center fielder Bryan Reynolds.,0,0,2,1,1,-0.26,1.76
+559,2021-06-06,405395,608331,field_out,hit_into_play,1,Albert Pujols flies out to left fielder Abraham Almonte in foul territory.,2,1,2,4,6,-0.65,2.98
+560,2021-06-06,405395,608331,,ball,12,Albert Pujols flies out to left fielder Abraham Almonte in foul territory.,1,1,2,3,6,0.84,3.09
+561,2021-06-06,405395,608331,,blocked_ball,13,Albert Pujols flies out to left fielder Abraham Almonte in foul territory.,0,1,2,2,6,-0.83,0.84
+562,2021-06-06,405395,608331,,foul,2,Albert Pujols flies out to left fielder Abraham Almonte in foul territory.,0,0,2,1,6,0.22,3.15
+563,2021-06-06,405395,608331,single,hit_into_play,4,Albert Pujols singles on a fly ball to right fielder Ronald Acuna.   Justin Turner scores.,2,1,2,4,4,-0.73,2.56
+564,2021-06-06,405395,608331,,swinging_strike,13,Albert Pujols singles on a fly ball to right fielder Ronald Acuna.   Justin Turner scores.,2,0,2,3,4,-1.72,1.57
+565,2021-06-06,405395,608331,,ball,14,Albert Pujols singles on a fly ball to right fielder Ronald Acuna.   Justin Turner scores.,1,0,2,2,4,0.09,1.37
+566,2021-06-06,405395,608331,,ball,13,Albert Pujols singles on a fly ball to right fielder Ronald Acuna.   Justin Turner scores.,0,0,2,1,4,-1.46,0.92
+567,2021-06-06,405395,608331,field_out,hit_into_play,13,"Albert Pujols grounds out, third baseman Ehire Adrianza to first baseman Freddie Freeman.",2,2,0,6,2,-0.25,1.25
+568,2021-06-06,405395,608331,,ball,13,"Albert Pujols grounds out, third baseman Ehire Adrianza to first baseman Freddie Freeman.",1,2,0,5,2,-0.48,-0.23
+569,2021-06-06,405395,608331,,foul,7,"Albert Pujols grounds out, third baseman Ehire Adrianza to first baseman Freddie Freeman.",1,2,0,4,2,-0.57,1.63
+570,2021-06-06,405395,608331,,called_strike,2,"Albert Pujols grounds out, third baseman Ehire Adrianza to first baseman Freddie Freeman.",1,1,0,3,2,-0.18,3.0
+571,2021-06-06,405395,608331,,foul,12,"Albert Pujols grounds out, third baseman Ehire Adrianza to first baseman Freddie Freeman.",1,0,0,2,2,0.93,3.13
+572,2021-06-06,405395,608331,,ball,12,"Albert Pujols grounds out, third baseman Ehire Adrianza to first baseman Freddie Freeman.",0,0,0,1,2,0.28,3.65
+573,2021-06-06,405395,519293,home_run,hit_into_play,4,Albert Pujols homers (9) on a fly ball to left field.,2,0,0,3,9,-0.4,2.7
+574,2021-06-06,405395,519293,,ball,12,Albert Pujols homers (9) on a fly ball to left field.,1,0,0,2,9,0.21,4.02
+575,2021-06-06,405395,519293,,ball,12,Albert Pujols homers (9) on a fly ball to left field.,0,0,0,1,9,0.76,3.74
+576,2021-06-05,405395,621345,strikeout,called_strike,4,Albert Pujols called out on strikes.,1,2,1,4,6,-0.37,2.47
+577,2021-06-05,405395,621345,,ball,12,Albert Pujols called out on strikes.,0,2,1,3,6,2.01,4.31
+578,2021-06-05,405395,621345,,swinging_strike,6,Albert Pujols called out on strikes.,0,1,1,2,6,0.59,2.38
+579,2021-06-05,405395,621345,,called_strike,6,Albert Pujols called out on strikes.,0,0,1,1,6,0.35,2.65
+580,2021-06-05,405395,455119,field_out,hit_into_play,6,Albert Pujols flies out to center fielder Guillermo Heredia.,0,1,1,2,8,0.7,2.69
+581,2021-06-05,405395,455119,,foul,6,Albert Pujols flies out to center fielder Guillermo Heredia.,0,0,1,1,8,0.57,2.47
+582,2021-06-04,405395,594795,strikeout,called_strike,8,Albert Pujols called out on strikes.,2,2,1,5,6,-0.18,1.85
+583,2021-06-04,405395,594795,,blocked_ball,13,Albert Pujols called out on strikes.,1,2,1,4,6,-0.79,-0.19
+584,2021-06-04,405395,594795,,foul,12,Albert Pujols called out on strikes.,1,1,1,3,6,0.11,3.85
+585,2021-06-04,405395,594795,,foul,5,Albert Pujols called out on strikes.,1,0,1,2,6,0.04,2.81
+586,2021-06-04,405395,594795,,ball,11,Albert Pujols called out on strikes.,0,0,1,1,6,-1.36,3.61
+587,2021-06-04,405395,656794,walk,ball,13,Albert Pujols walks.   AJ Pollock to 3rd.    Julio Urias to 2nd.,3,2,2,6,5,-2.31,-0.97
+588,2021-06-04,405395,656794,,foul,5,Albert Pujols walks.   AJ Pollock to 3rd.    Julio Urias to 2nd.,3,1,2,5,5,0.21,2.81
+589,2021-06-04,405395,656794,,called_strike,12,Albert Pujols walks.   AJ Pollock to 3rd.    Julio Urias to 2nd.,3,0,2,4,5,0.93,2.85
+590,2021-06-04,405395,554431,field_out,hit_into_play,2,Albert Pujols pops out to first baseman Freddie Freeman in foul territory.,3,1,0,5,9,-0.1,3.36
+591,2021-06-04,405395,656794,,ball,12,Albert Pujols walks.   AJ Pollock to 3rd.    Julio Urias to 2nd.,2,0,2,3,5,1.19,3.03
+592,2021-06-04,405395,656794,,ball,14,Albert Pujols walks.   AJ Pollock to 3rd.    Julio Urias to 2nd.,1,0,2,2,5,1.58,1.81
+593,2021-06-04,405395,554431,,ball,12,Albert Pujols pops out to first baseman Freddie Freeman in foul territory.,2,1,0,4,9,0.76,4.22
+594,2021-06-04,405395,656794,,ball,12,Albert Pujols walks.   AJ Pollock to 3rd.    Julio Urias to 2nd.,0,0,2,1,5,1.78,3.79
+595,2021-06-04,405395,554431,,foul,6,Albert Pujols pops out to first baseman Freddie Freeman in foul territory.,2,0,0,3,9,0.34,2.59
+596,2021-06-04,405395,554431,,ball,13,Albert Pujols pops out to first baseman Freddie Freeman in foul territory.,1,0,0,2,9,-2.85,0.91
+597,2021-06-04,405395,554431,,ball,13,Albert Pujols pops out to first baseman Freddie Freeman in foul territory.,0,0,0,1,9,-2.1,-0.2
+598,2021-06-01,405395,607231,field_out,hit_into_play,5,Albert Pujols flies out to center fielder Dylan Carlson.,3,2,0,6,5,0.02,2.65
+599,2021-06-01,405395,607231,,ball,14,Albert Pujols flies out to center fielder Dylan Carlson.,2,2,0,5,5,0.57,1.18
+600,2021-06-01,405395,607231,,ball,14,Albert Pujols flies out to center fielder Dylan Carlson.,1,2,0,4,5,1.08,2.07
+601,2021-06-01,405395,607231,,ball,14,Albert Pujols flies out to center fielder Dylan Carlson.,0,2,0,3,5,0.89,0.27
+602,2021-06-01,405395,607231,,swinging_strike,8,Albert Pujols flies out to center fielder Dylan Carlson.,0,1,0,2,5,0.05,1.77
+603,2021-06-01,405395,607231,,called_strike,5,Albert Pujols flies out to center fielder Dylan Carlson.,0,0,0,1,5,0.26,2.5
+604,2021-06-01,405395,607231,field_out,hit_into_play,14,"Albert Pujols grounds out softly, third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Will Smith to 3rd.    Chris Taylor to 2nd.",1,2,1,4,2,0.22,1.15
+605,2021-06-01,405395,607231,,ball,14,"Albert Pujols grounds out softly, third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Will Smith to 3rd.    Chris Taylor to 2nd.",0,2,1,3,2,1.19,0.97
+606,2021-06-01,405395,607231,,swinging_strike,14,"Albert Pujols grounds out softly, third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Will Smith to 3rd.    Chris Taylor to 2nd.",0,1,1,2,2,0.25,0.97
+607,2021-06-01,405395,607231,,called_strike,6,"Albert Pujols grounds out softly, third baseman Nolan Arenado to first baseman Paul Goldschmidt.   Will Smith to 3rd.    Chris Taylor to 2nd.",0,0,1,1,2,0.58,2.24
+608,2021-06-01,405395,606149,walk,blocked_ball,14,Albert Pujols walks.,3,2,1,7,7,1.23,0.52
+609,2021-06-01,405395,606149,,ball,14,Albert Pujols walks.,2,2,1,6,7,0.72,0.19
+610,2021-06-01,405395,606149,,ball,13,Albert Pujols walks.,1,2,1,5,7,-0.5,1.27
+611,2021-06-01,405395,606149,,foul,12,Albert Pujols walks.,1,2,1,4,7,0.89,3.31
+612,2021-06-01,405395,606149,,foul_tip,9,Albert Pujols walks.,1,1,1,3,7,0.47,1.85
+613,2021-06-01,405395,606149,,ball,14,Albert Pujols walks.,0,1,1,2,7,0.99,0.63
+614,2021-06-01,405395,606149,,foul,9,Albert Pujols walks.,0,0,1,1,7,0.31,1.8
+615,2021-05-30,405395,592332,field_out,hit_into_play,13,Albert Pujols pops out to second baseman Donovan Solano.,1,2,2,4,4,-0.64,1.4
+616,2021-05-30,405395,592332,,foul,4,Albert Pujols pops out to second baseman Donovan Solano.,1,1,2,3,4,-0.46,2.28
+617,2021-05-30,405395,592332,,swinging_strike,11,Albert Pujols pops out to second baseman Donovan Solano.,1,0,2,2,4,0.0,3.85
+618,2021-05-30,405395,592332,,ball,14,Albert Pujols pops out to second baseman Donovan Solano.,0,0,2,1,4,0.53,1.38
+619,2021-05-30,405395,592332,strikeout,swinging_strike,9,Albert Pujols strikes out swinging.,0,2,1,3,2,0.76,1.57
+620,2021-05-30,405395,592332,,called_strike,5,Albert Pujols strikes out swinging.,0,1,1,2,2,0.08,2.61
+621,2021-05-30,405395,592332,,foul,2,Albert Pujols strikes out swinging.,0,0,1,1,2,0.02,3.11
+622,2021-05-30,405395,606424,force_out,hit_into_play,5,"Dodgers challenged (play at 1st), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Evan Longoria to second baseman Donovan Solano.   Cody Bellinger out at 2nd.    Albert Pujols to 1st.",0,2,1,3,7,0.11,2.52
+623,2021-05-30,405395,606424,,foul,14,"Dodgers challenged (play at 1st), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Evan Longoria to second baseman Donovan Solano.   Cody Bellinger out at 2nd.    Albert Pujols to 1st.",0,1,1,2,7,1.07,2.31
+624,2021-05-30,405395,606424,,called_strike,3,"Dodgers challenged (play at 1st), call on the field was upheld: Albert Pujols grounds into a force out, third baseman Evan Longoria to second baseman Donovan Solano.   Cody Bellinger out at 2nd.    Albert Pujols to 1st.",0,0,1,1,7,0.74,2.94
+625,2021-05-30,405395,459429,home_run,hit_into_play,2,Albert Pujols homers (8) on a fly ball to left field.   Cody Bellinger scores.,1,1,1,3,9,-0.23,2.99
+626,2021-05-30,405395,459429,,ball,12,Albert Pujols homers (8) on a fly ball to left field.   Cody Bellinger scores.,0,1,1,2,9,1.49,2.52
+627,2021-05-30,405395,459429,,foul,5,Albert Pujols homers (8) on a fly ball to left field.   Cody Bellinger scores.,0,0,1,1,9,0.19,2.3
+628,2021-05-29,405395,657277,field_out,hit_into_play,14,Albert Pujols lines out to pitcher Logan Webb.,1,2,1,4,4,1.23,1.77
+629,2021-05-29,405395,657277,,swinging_strike,14,Albert Pujols lines out to pitcher Logan Webb.,1,1,1,3,4,0.36,1.19
+630,2021-05-29,405395,657277,,ball,13,Albert Pujols lines out to pitcher Logan Webb.,0,1,1,2,4,-2.2,2.32
+631,2021-05-29,405395,657277,,called_strike,6,Albert Pujols lines out to pitcher Logan Webb.,0,0,1,1,4,0.59,2.27
+632,2021-05-29,405395,501625,home_run,hit_into_play,5,Albert Pujols homers (7) on a fly ball to left field.   Will Smith scores.,3,2,1,6,8,0.05,2.86
+633,2021-05-29,405395,501625,,foul,5,Albert Pujols homers (7) on a fly ball to left field.   Will Smith scores.,3,1,1,5,8,-0.17,2.55
+634,2021-05-29,405395,501625,,ball,13,Albert Pujols homers (7) on a fly ball to left field.   Will Smith scores.,2,1,1,4,8,-1.36,2.11
+635,2021-05-29,405395,501625,,ball,12,Albert Pujols homers (7) on a fly ball to left field.   Will Smith scores.,1,1,1,3,8,1.88,3.25
+636,2021-05-29,405395,657277,field_out,hit_into_play,6,Albert Pujols flies out to right fielder Mike Yastrzemski.,3,2,0,7,2,0.33,2.77
+637,2021-05-29,405395,501625,,foul,4,Albert Pujols homers (7) on a fly ball to left field.   Will Smith scores.,1,0,1,2,8,-0.58,2.66
+638,2021-05-29,405395,501625,,ball,13,Albert Pujols homers (7) on a fly ball to left field.   Will Smith scores.,0,0,1,1,8,-1.43,1.93
+639,2021-05-29,405395,657277,,foul,6,Albert Pujols flies out to right fielder Mike Yastrzemski.,3,2,0,6,2,0.33,2.47
+640,2021-05-29,405395,657277,,called_strike,2,Albert Pujols flies out to right fielder Mike Yastrzemski.,3,1,0,5,2,0.05,3.43
+641,2021-05-29,405395,657277,,ball,12,Albert Pujols flies out to right fielder Mike Yastrzemski.,2,1,0,4,2,1.24,3.08
+642,2021-05-29,405395,657277,,ball,11,Albert Pujols flies out to right fielder Mike Yastrzemski.,1,1,0,3,2,-1.52,2.9
+643,2021-05-29,405395,657277,,foul,4,Albert Pujols flies out to right fielder Mike Yastrzemski.,1,0,0,2,2,-0.37,2.44
+644,2021-05-29,405395,657277,,ball,11,Albert Pujols flies out to right fielder Mike Yastrzemski.,0,0,0,1,2,-0.62,3.52
+645,2021-05-29,405395,431148,double,hit_into_play,7,Albert Pujols doubles (2) on a sharp line drive to left fielder Steven Duggar.   Cody Bellinger scores.    Will Smith to 3rd.,0,0,1,1,6,-0.37,1.74
+646,2021-05-28,405395,643511,field_out,hit_into_play,5,Albert Pujols flies out to left fielder Mike Tauchman.,1,2,2,5,9,0.25,2.75
+647,2021-05-28,405395,643511,,foul,14,Albert Pujols flies out to left fielder Mike Tauchman.,1,2,2,4,9,0.39,1.4
+648,2021-05-28,405395,643511,,ball,12,Albert Pujols flies out to left fielder Mike Tauchman.,0,2,2,3,9,0.94,2.89
+649,2021-05-28,405395,643511,,foul,9,Albert Pujols flies out to left fielder Mike Tauchman.,0,1,2,2,9,0.57,1.99
+650,2021-05-28,405395,643511,,called_strike,6,Albert Pujols flies out to left fielder Mike Tauchman.,0,0,2,1,9,0.53,2.45
+651,2021-05-28,405395,670056,field_out,hit_into_play,2,Albert Pujols flies out to left fielder Alex Dickerson.,3,2,2,6,5,-0.12,3.57
+652,2021-05-28,405395,459429,walk,ball,11,Albert Pujols walks.,3,2,0,6,8,-0.45,4.14
+653,2021-05-28,405395,459429,,ball,11,Albert Pujols walks.,2,2,0,5,8,-0.47,4.03
+654,2021-05-28,405395,670056,,swinging_strike,1,Albert Pujols flies out to left fielder Alex Dickerson.,3,1,2,5,5,-0.3,3.41
+655,2021-05-28,405395,670056,,ball,12,Albert Pujols flies out to left fielder Alex Dickerson.,2,1,2,4,5,1.18,4.52
+656,2021-05-28,405395,459429,,ball,12,Albert Pujols walks.,1,2,0,4,8,1.53,4.1
+657,2021-05-28,405395,670056,,ball,12,Albert Pujols flies out to left fielder Alex Dickerson.,1,1,2,3,5,0.53,4.21
+658,2021-05-28,405395,459429,,ball,12,Albert Pujols walks.,0,2,0,3,8,0.59,4.21
+659,2021-05-28,405395,670056,,foul,3,Albert Pujols flies out to left fielder Alex Dickerson.,1,0,2,2,5,0.34,3.34
+660,2021-05-28,405395,459429,,foul,3,Albert Pujols walks.,0,1,0,2,8,0.41,3.29
+661,2021-05-28,405395,459429,,called_strike,1,Albert Pujols walks.,0,0,0,1,8,-0.31,3.16
+662,2021-05-28,405395,670056,,ball,3,Albert Pujols flies out to left fielder Alex Dickerson.,0,0,2,1,5,0.73,3.34
+663,2021-05-27,405395,622072,field_out,hit_into_play,6,Albert Pujols flies out to right fielder Mike Yastrzemski in foul territory.,0,0,0,1,6,0.8,2.33
+664,2021-05-27,405395,622072,field_out,hit_into_play,8,Albert Pujols lines out to shortstop Brandon Crawford.,1,1,1,3,4,-0.02,1.63
+665,2021-05-27,405395,622072,,called_strike,9,Albert Pujols lines out to shortstop Brandon Crawford.,1,0,1,2,4,0.38,2.11
+666,2021-05-27,405395,622072,,ball,13,Albert Pujols lines out to shortstop Brandon Crawford.,0,0,1,1,4,-0.98,1.95
+667,2021-05-27,405395,622072,double,hit_into_play,5,"Albert Pujols doubles (1) on a ground ball to left fielder Alex Dickerson, deflected by shortstop Brandon Crawford.",0,1,1,2,2,0.02,2.47
+668,2021-05-27,405395,622072,,swinging_strike,6,"Albert Pujols doubles (1) on a ground ball to left fielder Alex Dickerson, deflected by shortstop Brandon Crawford.",0,0,1,1,2,0.72,2.47
+669,2021-05-26,405395,650556,strikeout,swinging_strike,4,Albert Pujols strikes out swinging.,2,2,2,5,9,-0.59,2.51
+670,2021-05-26,405395,650556,,foul,4,Albert Pujols strikes out swinging.,2,1,2,4,9,-0.79,2.6
+671,2021-05-26,405395,650556,,called_strike,1,Albert Pujols strikes out swinging.,2,0,2,3,9,-0.36,3.15
+672,2021-05-26,405395,650556,,ball,11,Albert Pujols strikes out swinging.,1,0,2,2,9,-1.04,3.17
+673,2021-05-26,405395,650556,,blocked_ball,14,Albert Pujols strikes out swinging.,0,0,2,1,9,1.53,0.72
+674,2021-05-26,405395,548384,strikeout,swinging_strike_blocked,13,Albert Pujols strikes out swinging.,2,2,2,5,7,-0.9,0.92
+675,2021-05-26,405395,548384,,ball,12,Albert Pujols strikes out swinging.,1,2,2,4,7,1.33,4.36
+676,2021-05-26,405395,548384,,foul,5,Albert Pujols strikes out swinging.,1,1,2,3,7,-0.02,2.25
+677,2021-05-26,405395,548384,,ball,12,Albert Pujols strikes out swinging.,0,1,2,2,7,1.0,3.9
+678,2021-05-26,405395,548384,,called_strike,8,Albert Pujols strikes out swinging.,0,0,2,1,7,-0.18,1.67
+679,2021-05-25,405395,425844,strikeout,called_strike,7,Albert Pujols called out on strikes.,2,2,2,7,6,-0.48,1.99
+680,2021-05-25,405395,425844,,foul,11,Albert Pujols called out on strikes.,2,2,2,6,6,-0.28,4.1
+681,2021-05-25,405395,425844,,foul,8,Albert Pujols called out on strikes.,2,2,2,5,6,-0.08,1.85
+682,2021-05-25,405395,425844,,blocked_ball,13,Albert Pujols called out on strikes.,1,2,2,4,6,-0.62,0.02
+683,2021-05-25,405395,425844,,blocked_ball,14,Albert Pujols called out on strikes.,0,2,2,3,6,1.69,0.16
+684,2021-05-25,405395,425844,,foul,14,Albert Pujols called out on strikes.,0,1,2,2,6,1.44,1.61
+685,2021-05-25,405395,425844,,called_strike,9,Albert Pujols called out on strikes.,0,0,2,1,6,0.53,2.21
+686,2021-05-25,405395,425844,field_out,hit_into_play,5,Albert Pujols pops out to first baseman Yuli Gurriel.,3,1,0,5,5,0.16,2.6
+687,2021-05-25,405395,425844,,ball,14,Albert Pujols pops out to first baseman Yuli Gurriel.,2,1,0,4,5,0.19,1.01
+688,2021-05-25,405395,425844,,ball,14,Albert Pujols pops out to first baseman Yuli Gurriel.,1,1,0,3,5,0.98,1.22
+689,2021-05-25,405395,425844,,swinging_strike,5,Albert Pujols pops out to first baseman Yuli Gurriel.,1,0,0,2,5,0.16,2.58
+690,2021-05-25,405395,425844,,ball,13,Albert Pujols pops out to first baseman Yuli Gurriel.,0,0,0,1,5,-0.19,1.36
+691,2021-05-25,405395,660600,strikeout,swinging_strike,7,Albert Pujols strikes out swinging.,1,2,1,10,8,-0.74,1.66
+692,2021-05-25,405395,660600,,foul,11,Albert Pujols strikes out swinging.,1,2,1,9,8,-0.87,2.63
+693,2021-05-25,405395,660600,,foul,12,Albert Pujols strikes out swinging.,1,2,1,8,8,1.07,2.92
+694,2021-05-25,405395,660600,,foul,12,Albert Pujols strikes out swinging.,1,2,1,7,8,1.5,2.83
+695,2021-05-25,405395,660600,,ball,14,Albert Pujols strikes out swinging.,0,2,1,6,8,0.69,0.99
+696,2021-05-25,405395,660600,,foul,3,Albert Pujols strikes out swinging.,0,2,1,5,8,0.74,3.13
+697,2021-05-25,405395,425844,field_out,hit_into_play,8,"Albert Pujols grounds out sharply, third baseman Alex Bregman to first baseman Yuli Gurriel.",1,1,2,3,2,-0.03,1.83
+698,2021-05-25,405395,660600,,foul,12,Albert Pujols strikes out swinging.,0,2,1,4,8,1.12,2.72
+699,2021-05-25,405395,425844,,ball,14,"Albert Pujols grounds out sharply, third baseman Alex Bregman to first baseman Yuli Gurriel.",0,1,2,2,2,0.87,0.61
+700,2021-05-25,405395,660600,,foul,14,Albert Pujols strikes out swinging.,0,2,1,3,8,0.93,1.66
+701,2021-05-25,405395,425844,,foul,13,"Albert Pujols grounds out sharply, third baseman Alex Bregman to first baseman Yuli Gurriel.",0,0,2,1,2,-0.94,2.13
+702,2021-05-25,405395,660600,,foul,5,Albert Pujols strikes out swinging.,0,1,1,2,8,-0.03,2.34
+703,2021-05-25,405395,660600,,called_strike,5,Albert Pujols strikes out swinging.,0,0,1,1,8,-0.24,2.58
+704,2021-05-22,405395,431148,grounded_into_double_play,hit_into_play,11,"Albert Pujols grounds into a double play, third baseman Evan Longoria to second baseman Mauricio Dubon to first baseman Brandon Belt.   Max Muncy out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,4,-0.97,2.85
+705,2021-05-22,405395,431148,,called_strike,2,"Albert Pujols grounds into a double play, third baseman Evan Longoria to second baseman Mauricio Dubon to first baseman Brandon Belt.   Max Muncy out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,4,-0.21,2.82
+706,2021-05-22,405395,431148,field_out,hit_into_play,5,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",3,2,2,8,1,-0.2,2.28
+707,2021-05-22,405395,607374,field_out,hit_into_play,5,"Albert Pujols grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",2,2,2,5,6,-0.12,2.75
+708,2021-05-22,405395,431148,,ball,13,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",2,2,2,7,1,-0.62,0.48
+709,2021-05-22,405395,607374,,called_strike,3,"Albert Pujols grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",2,1,2,4,6,0.83,3.46
+710,2021-05-22,405395,431148,,foul,3,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",2,2,2,6,1,0.3,2.93
+711,2021-05-22,405395,431148,,foul,5,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",2,2,2,5,1,0.09,2.52
+712,2021-05-22,405395,607374,,ball,14,"Albert Pujols grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",1,1,2,3,6,0.84,1.08
+713,2021-05-22,405395,607374,,ball,11,"Albert Pujols grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",0,1,2,2,6,-1.18,3.95
+714,2021-05-22,405395,431148,,foul,13,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",2,1,2,4,1,-1.02,2.28
+715,2021-05-22,405395,431148,,called_strike,6,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",2,0,2,3,1,0.55,2.39
+716,2021-05-22,405395,607374,,called_strike,14,"Albert Pujols grounds out, third baseman Evan Longoria to first baseman Brandon Belt.",0,0,2,1,6,0.91,1.76
+717,2021-05-22,405395,431148,,ball,13,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",1,0,2,2,1,-0.44,1.04
+718,2021-05-22,405395,431148,,ball,12,"Albert Pujols grounds out sharply, third baseman Evan Longoria to first baseman Brandon Belt.",0,0,2,1,1,1.03,2.52
+719,2021-05-22,405395,501625,single,hit_into_play,4,Albert Pujols singles on a line drive to center fielder Steven Duggar.   Justin Turner scores.    Max Muncy to 2nd.,1,2,0,4,8,-0.8,2.62
+720,2021-05-22,405395,501625,,ball,13,Albert Pujols singles on a line drive to center fielder Steven Duggar.   Justin Turner scores.    Max Muncy to 2nd.,0,2,0,3,8,-2.21,2.0
+721,2021-05-22,405395,501625,,foul,2,Albert Pujols singles on a line drive to center fielder Steven Duggar.   Justin Turner scores.    Max Muncy to 2nd.,0,1,0,2,8,-0.18,3.06
+722,2021-05-22,405395,501625,,foul,6,Albert Pujols singles on a line drive to center fielder Steven Duggar.   Justin Turner scores.    Max Muncy to 2nd.,0,0,0,1,8,0.5,2.52
+723,2021-05-21,405395,622072,grounded_into_double_play,hit_into_play,7,"Albert Pujols grounds into a double play, shortstop Brandon Crawford to second baseman Donovan Solano to first baseman Brandon Belt.   Justin Turner out at 2nd.    Albert Pujols out at 1st.",1,1,1,3,5,-0.56,2.03
+724,2021-05-21,405395,622072,,ball,12,"Albert Pujols grounds into a double play, shortstop Brandon Crawford to second baseman Donovan Solano to first baseman Brandon Belt.   Justin Turner out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,5,0.72,3.41
+725,2021-05-21,405395,622072,,foul,1,"Albert Pujols grounds into a double play, shortstop Brandon Crawford to second baseman Donovan Solano to first baseman Brandon Belt.   Justin Turner out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,5,-0.37,3.03
+726,2021-05-21,405395,622072,field_out,hit_into_play,5,"Albert Pujols grounds out sharply, shortstop Brandon Crawford to first baseman Brandon Belt.",3,1,2,5,3,-0.18,2.43
+727,2021-05-21,405395,622072,,ball,14,"Albert Pujols grounds out sharply, shortstop Brandon Crawford to first baseman Brandon Belt.",2,1,2,4,3,1.25,1.68
+728,2021-05-21,405395,622072,,ball,14,"Albert Pujols grounds out sharply, shortstop Brandon Crawford to first baseman Brandon Belt.",1,1,2,3,3,1.28,1.76
+729,2021-05-21,405395,622072,,called_strike,8,"Albert Pujols grounds out sharply, shortstop Brandon Crawford to first baseman Brandon Belt.",1,0,2,2,3,-0.1,1.89
+730,2021-05-21,405395,622072,,ball,11,"Albert Pujols grounds out sharply, shortstop Brandon Crawford to first baseman Brandon Belt.",0,0,2,1,3,-1.33,2.5
+731,2021-05-21,405395,622072,force_out,hit_into_play,9,"Albert Pujols grounds into a force out, third baseman Evan Longoria to second baseman Donovan Solano.   Mookie Betts out at 2nd.",0,2,2,4,1,0.45,1.74
+732,2021-05-21,405395,622072,,foul,8,"Albert Pujols grounds into a force out, third baseman Evan Longoria to second baseman Donovan Solano.   Mookie Betts out at 2nd.",0,2,2,3,1,0.07,1.68
+733,2021-05-21,405395,622072,,foul,11,"Albert Pujols grounds into a force out, third baseman Evan Longoria to second baseman Donovan Solano.   Mookie Betts out at 2nd.",0,1,2,2,1,-0.96,2.57
+734,2021-05-21,405395,622072,,called_strike,1,"Albert Pujols grounds into a force out, third baseman Evan Longoria to second baseman Donovan Solano.   Mookie Betts out at 2nd.",0,0,2,1,1,-0.32,2.94
+735,2021-05-21,405395,670056,single,hit_into_play,12,Albert Pujols singles on a line drive to center fielder Mike Tauchman.,2,1,0,4,8,0.94,2.58
+736,2021-05-21,405395,670056,,ball,12,Albert Pujols singles on a line drive to center fielder Mike Tauchman.,1,1,0,3,8,0.19,3.75
+737,2021-05-21,405395,670056,,called_strike,2,Albert Pujols singles on a line drive to center fielder Mike Tauchman.,1,0,0,2,8,0.17,3.2
+738,2021-05-21,405395,670056,,ball,13,Albert Pujols singles on a line drive to center fielder Mike Tauchman.,0,0,0,1,8,-0.92,1.93
+739,2021-05-20,405395,518876,strikeout,called_strike,8,Albert Pujols called out on strikes.,0,2,1,3,7,0.23,1.66
+740,2021-05-20,405395,518876,,called_strike,6,Albert Pujols called out on strikes.,0,1,1,2,7,0.72,2.27
+741,2021-05-20,405395,518876,,called_strike,5,Albert Pujols called out on strikes.,0,0,1,1,7,-0.18,2.3
+742,2021-05-20,405395,518876,grounded_into_double_play,hit_into_play,8,"Albert Pujols grounds into a double play, shortstop Josh Rojas to second baseman Domingo Leyba to first baseman Pavin Smith.   Chris Taylor out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,4,-0.09,1.81
+743,2021-05-20,405395,518876,home_run,hit_into_play,6,Albert Pujols homers (6) on a fly ball to right center field.    Will Smith scores.,0,1,1,2,2,0.8,2.6
+744,2021-05-20,405395,518876,,called_strike,5,Albert Pujols homers (6) on a fly ball to right center field.    Will Smith scores.,0,0,1,1,2,-0.19,2.81
+745,2021-05-19,405395,573009,single,hit_into_play,6,"Albert Pujols singles on a fly ball to right fielder Josh Rojas, deflected by first baseman Pavin Smith.   Chris Taylor to 3rd.    Gavin Lux to 2nd.",0,2,0,4,7,0.29,2.57
+746,2021-05-19,405395,573009,,foul,7,"Albert Pujols singles on a fly ball to right fielder Josh Rojas, deflected by first baseman Pavin Smith.   Chris Taylor to 3rd.    Gavin Lux to 2nd.",0,2,0,3,7,-0.79,1.93
+747,2021-05-19,405395,573009,,called_strike,4,"Albert Pujols singles on a fly ball to right fielder Josh Rojas, deflected by first baseman Pavin Smith.   Chris Taylor to 3rd.    Gavin Lux to 2nd.",0,1,0,2,7,-0.41,2.72
+748,2021-05-19,405395,573009,,called_strike,5,"Albert Pujols singles on a fly ball to right fielder Josh Rojas, deflected by first baseman Pavin Smith.   Chris Taylor to 3rd.    Gavin Lux to 2nd.",0,0,0,1,7,-0.22,2.54
+749,2021-05-18,405395,656686,field_out,hit_into_play,5,"Albert Pujols grounds out sharply, shortstop Nick Ahmed to first baseman Pavin Smith.",1,0,0,2,4,0.0,2.42
+750,2021-05-18,405395,656686,,ball,12,"Albert Pujols grounds out sharply, shortstop Nick Ahmed to first baseman Pavin Smith.",0,0,0,1,4,1.86,2.81
+751,2021-05-18,405395,656686,field_out,hit_into_play,4,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Pavin Smith.",1,0,1,2,2,-0.59,2.71
+752,2021-05-18,405395,656686,,ball,12,"Albert Pujols grounds out, shortstop Nick Ahmed to first baseman Pavin Smith.",0,0,1,1,2,1.55,2.61
+753,2021-05-18,405395,656464,hit_by_pitch,hit_by_pitch,11,Albert Pujols hit by pitch.    Max Muncy scores.    Chris Taylor to 3rd.    Will Smith to 2nd.,0,0,1,1,7,-1.82,4.06
+754,2021-05-18,405395,622065,field_out,hit_into_play,6,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Pavin Smith.",3,2,0,7,6,0.72,2.84
+755,2021-05-18,405395,622065,,ball,13,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Pavin Smith.",2,2,0,6,6,-1.06,0.62
+756,2021-05-18,405395,622065,,foul,14,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Pavin Smith.",2,2,0,5,6,0.3,0.69
+757,2021-05-18,405395,622065,,foul_tip,6,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Pavin Smith.",2,1,0,4,6,0.54,2.24
+758,2021-05-18,405395,622065,,called_strike,7,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Pavin Smith.",2,0,0,3,6,-0.35,1.78
+759,2021-05-18,405395,622065,,ball,14,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Pavin Smith.",1,0,0,2,6,1.42,1.43
+760,2021-05-18,405395,622065,,ball,14,"Albert Pujols grounds out, third baseman Eduardo Escobar to first baseman Pavin Smith.",0,0,0,1,6,1.22,2.32
+761,2021-05-17,405395,518516,single,hit_into_play,9,Albert Pujols singles on a ground ball to center fielder Tim Locastro.   Mookie Betts scores.    Max Muncy to 2nd.,0,2,2,3,3,0.7,1.8
+762,2021-05-17,405395,518516,,called_strike,9,Albert Pujols singles on a ground ball to center fielder Tim Locastro.   Mookie Betts scores.    Max Muncy to 2nd.,0,1,2,2,3,0.31,2.1
+763,2021-05-17,405395,518516,,called_strike,2,Albert Pujols singles on a ground ball to center fielder Tim Locastro.   Mookie Betts scores.    Max Muncy to 2nd.,0,0,2,1,3,-0.12,3.1
+764,2021-05-17,405395,592761,strikeout,called_strike,4,Albert Pujols called out on strikes.,1,2,0,5,6,-0.79,2.8
+765,2021-05-17,405395,518516,field_out,hit_into_play,2,Albert Pujols flies out sharply to center fielder Tim Locastro.,0,0,2,1,1,-0.08,3.05
+766,2021-05-17,405395,592761,,foul,6,Albert Pujols called out on strikes.,1,2,0,4,6,0.48,2.88
+767,2021-05-17,405395,592761,,foul,5,Albert Pujols called out on strikes.,1,1,0,3,6,-0.24,2.76
+768,2021-05-17,405395,592761,,called_strike,6,Albert Pujols called out on strikes.,1,0,0,2,6,0.56,2.24
+769,2021-05-17,405395,592761,,ball,13,Albert Pujols called out on strikes.,0,0,0,1,6,-1.15,1.49
+770,2021-05-17,405395,664199,field_out,hit_into_play,6,Albert Pujols flies out to right fielder Josh Rojas in foul territory.,0,0,0,1,8,0.67,2.81
+771,2021-05-04,405395,663556,field_out,hit_into_play,3,Albert Pujols flies out to right fielder Manuel Margot.,1,2,2,4,4,0.61,2.91
+772,2021-05-04,405395,663556,,foul,7,Albert Pujols flies out to right fielder Manuel Margot.,1,1,2,3,4,-0.79,1.7
+773,2021-05-04,405395,663556,,called_strike,9,Albert Pujols flies out to right fielder Manuel Margot.,1,0,2,2,4,0.67,2.06
+774,2021-05-04,405395,663556,,ball,14,Albert Pujols flies out to right fielder Manuel Margot.,0,0,2,1,4,0.36,1.47
+775,2021-05-04,405395,672715,single,hit_into_play,1,Albert Pujols singles on a ground ball to left fielder Randy Arozarena.,2,1,1,4,7,-0.36,3.07
+776,2021-05-04,405395,672715,,foul,6,Albert Pujols singles on a ground ball to left fielder Randy Arozarena.,2,0,1,3,7,0.49,2.62
+777,2021-05-04,405395,672715,,ball,13,Albert Pujols singles on a ground ball to left fielder Randy Arozarena.,1,0,1,2,7,-0.88,1.88
+778,2021-05-04,405395,672715,,ball,11,Albert Pujols singles on a ground ball to left fielder Randy Arozarena.,0,0,1,1,7,-0.98,2.8
+779,2021-05-04,405395,663556,strikeout,swinging_strike,7,Albert Pujols strikes out swinging.,1,2,1,5,2,-0.45,1.86
+780,2021-05-04,405395,663556,,foul,11,Albert Pujols strikes out swinging.,1,2,1,4,2,-0.88,2.57
+781,2021-05-04,405395,663556,,ball,13,Albert Pujols strikes out swinging.,0,2,1,3,2,-1.13,0.29
+782,2021-05-04,405395,663556,,called_strike,9,Albert Pujols strikes out swinging.,0,1,1,2,2,0.41,1.57
+783,2021-05-04,405395,663556,,called_strike,4,Albert Pujols strikes out swinging.,0,0,1,1,2,-0.65,2.5
+784,2021-05-04,405395,519326,field_out,hit_into_play,2,Albert Pujols pops out to first baseman Yandy Diaz.,1,0,1,2,9,-0.18,3.49
+785,2021-05-04,405395,519326,,ball,11,Albert Pujols pops out to first baseman Yandy Diaz.,0,0,1,1,9,-0.34,3.83
+786,2021-05-03,405395,607192,field_out,hit_into_play,2,Albert Pujols flies out to left fielder Randy Arozarena.,2,2,0,5,5,0.1,3.3
+787,2021-05-03,405395,607192,,ball,11,Albert Pujols flies out to left fielder Randy Arozarena.,1,2,0,4,5,-1.1,4.59
+788,2021-05-03,405395,607192,,ball,14,Albert Pujols flies out to left fielder Randy Arozarena.,0,2,0,3,5,0.08,1.46
+789,2021-05-03,405395,607192,,swinging_strike,6,Albert Pujols flies out to left fielder Randy Arozarena.,0,1,0,2,5,0.76,2.23
+790,2021-05-03,405395,607192,,called_strike,3,Albert Pujols flies out to left fielder Randy Arozarena.,0,0,0,1,5,0.61,2.99
+791,2021-05-03,405395,607192,strikeout,swinging_strike_blocked,14,Albert Pujols strikes out swinging.  Justin Upton steals (1) 2nd base.,2,2,1,7,2,0.56,0.88
+792,2021-05-03,405395,607192,,foul,13,Albert Pujols strikes out swinging.  Justin Upton steals (1) 2nd base.,2,2,1,6,2,-0.89,2.19
+793,2021-05-03,405395,607192,,ball,14,Albert Pujols strikes out swinging.  Justin Upton steals (1) 2nd base.,1,2,1,5,2,0.38,1.38
+794,2021-05-03,405395,607192,,foul,3,Albert Pujols strikes out swinging.  Justin Upton steals (1) 2nd base.,1,2,1,4,2,0.81,3.06
+795,2021-05-03,405395,607192,,foul,9,Albert Pujols strikes out swinging.  Justin Upton steals (1) 2nd base.,1,1,1,3,2,0.79,1.9
+796,2021-05-03,405395,607192,,ball,12,Albert Pujols strikes out swinging.  Justin Upton steals (1) 2nd base.,0,1,1,2,2,1.72,3.21
+797,2021-05-03,405395,607192,,called_strike,6,Albert Pujols strikes out swinging.  Justin Upton steals (1) 2nd base.,0,0,1,1,2,0.37,2.64
+798,2021-05-03,405395,650895,grounded_into_double_play,hit_into_play,9,"Albert Pujols grounds into a double play, shortstop Willy Adames to second baseman Brandon Lowe to first baseman Mike Brosseau.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",2,2,1,5,9,0.58,2.02
+799,2021-05-03,405395,650895,,called_strike,5,"Albert Pujols grounds into a double play, shortstop Willy Adames to second baseman Brandon Lowe to first baseman Mike Brosseau.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",2,1,1,4,9,-0.07,2.38
+800,2021-05-03,405395,650895,,swinging_strike,12,"Albert Pujols grounds into a double play, shortstop Willy Adames to second baseman Brandon Lowe to first baseman Mike Brosseau.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",2,0,1,3,9,0.86,2.79
+801,2021-05-03,405395,650895,,ball,14,"Albert Pujols grounds into a double play, shortstop Willy Adames to second baseman Brandon Lowe to first baseman Mike Brosseau.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",1,0,1,2,9,1.89,1.59
+802,2021-05-03,405395,650895,,ball,14,"Albert Pujols grounds into a double play, shortstop Willy Adames to second baseman Brandon Lowe to first baseman Mike Brosseau.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,9,0.85,1.22
+803,2021-05-03,405395,605488,single,hit_into_play,6,Albert Pujols singles on a sharp line drive to left fielder Randy Arozarena.,1,0,0,2,7,0.31,2.43
+804,2021-05-03,405395,605488,,ball,1,Albert Pujols singles on a sharp line drive to left fielder Randy Arozarena.,0,0,0,1,7,-0.66,3.45
+805,2021-05-02,405395,656954,strikeout,swinging_strike,13,Albert Pujols strikes out swinging.,2,2,2,5,6,-0.64,0.9
+806,2021-05-02,405395,656954,,foul,3,Albert Pujols strikes out swinging.,2,1,2,4,6,0.52,3.15
+807,2021-05-02,405395,656954,,ball,12,Albert Pujols strikes out swinging.,1,1,2,3,6,1.12,4.07
+808,2021-05-02,405395,656954,,ball,14,Albert Pujols strikes out swinging.,0,1,2,2,6,1.23,1.91
+809,2021-05-02,405395,656954,,called_strike,1,Albert Pujols strikes out swinging.,0,0,2,1,6,-0.57,2.94
+810,2021-05-02,405395,656954,field_out,hit_into_play,5,Albert Pujols flies out to center fielder Kyle Lewis.,2,0,1,3,4,0.16,2.35
+811,2021-05-02,405395,656954,,ball,14,Albert Pujols flies out to center fielder Kyle Lewis.,1,0,1,2,4,1.02,1.88
+812,2021-05-02,405395,656954,,ball,13,Albert Pujols flies out to center fielder Kyle Lewis.,0,0,1,1,4,-1.27,-0.17
+813,2021-05-02,405395,656954,hit_by_pitch,hit_by_pitch,13,Albert Pujols hit by pitch.    Justin Upton to 2nd.,1,2,0,4,2,-2.21,0.15
+814,2021-05-02,405395,656954,,foul,4,Albert Pujols hit by pitch.    Justin Upton to 2nd.,1,1,0,3,2,-0.56,2.76
+815,2021-05-02,405395,656954,,foul,6,Albert Pujols hit by pitch.    Justin Upton to 2nd.,1,0,0,2,2,0.65,2.81
+816,2021-05-02,405395,656954,,ball,12,Albert Pujols hit by pitch.    Justin Upton to 2nd.,0,0,0,1,2,0.13,3.75
+817,2021-05-02,405395,606160,strikeout,called_strike,7,Albert Pujols called out on strikes.,0,2,1,4,9,-0.48,1.71
+818,2021-05-02,405395,606160,,foul,12,Albert Pujols called out on strikes.,0,2,1,3,9,1.08,2.79
+819,2021-05-02,405395,606160,,swinging_strike,12,Albert Pujols called out on strikes.,0,1,1,2,9,0.22,4.1
+820,2021-05-02,405395,606160,,called_strike,4,Albert Pujols called out on strikes.,0,0,1,1,9,-0.63,2.3
+821,2021-05-01,405395,667498,strikeout,swinging_strike,9,Albert Pujols strikes out swinging.,1,2,0,4,5,0.37,2.04
+822,2021-05-01,405395,667498,,called_strike,5,Albert Pujols strikes out swinging.,1,1,0,3,5,0.13,2.73
+823,2021-05-01,405395,667498,,ball,14,Albert Pujols strikes out swinging.,0,1,0,2,5,0.44,1.33
+824,2021-05-01,405395,667498,,called_strike,5,Albert Pujols strikes out swinging.,0,0,0,1,5,0.23,2.82
+825,2021-05-01,405395,664714,field_out,hit_into_play,6,Albert Pujols flies out to center fielder Kyle Lewis.,2,1,2,4,1,0.33,2.76
+826,2021-05-01,405395,664714,,called_strike,7,Albert Pujols flies out to center fielder Kyle Lewis.,2,0,2,3,1,-0.72,1.76
+827,2021-05-01,405395,664714,,ball,13,Albert Pujols flies out to center fielder Kyle Lewis.,1,0,2,2,1,-0.01,0.76
+828,2021-05-01,405395,664714,,ball,12,Albert Pujols flies out to center fielder Kyle Lewis.,0,0,2,1,1,1.33,2.83
+829,2021-05-01,405395,641871,grounded_into_double_play,hit_into_play,3,"Albert Pujols grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Ty France.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",1,1,1,3,7,0.68,3.36
+830,2021-05-01,405395,641871,,called_strike,14,"Albert Pujols grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Ty France.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",1,0,1,2,7,0.9,2.17
+831,2021-05-01,405395,641871,,ball,14,"Albert Pujols grounds into a double play, third baseman Kyle Seager to second baseman Dylan Moore to first baseman Ty France.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,7,0.94,1.48
+832,2021-05-01,405395,667498,field_out,hit_into_play,8,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",2,2,0,5,3,0.12,1.56
+833,2021-05-01,405395,667498,,ball,14,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",1,2,0,4,3,0.27,0.33
+834,2021-05-01,405395,667498,,ball,14,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",0,2,0,3,3,0.94,0.68
+835,2021-05-01,405395,667498,,swinging_strike,14,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",0,1,0,2,3,0.45,1.26
+836,2021-05-01,405395,667498,,foul,8,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",0,0,0,1,3,0.12,1.7
+837,2021-04-30,405395,623167,field_out,hit_into_play,8,Albert Pujols flies out to left fielder Sam Haggerty.,3,2,1,6,4,0.08,1.99
+838,2021-04-30,405395,623167,,foul,8,Albert Pujols flies out to left fielder Sam Haggerty.,3,1,1,5,4,0.18,1.77
+839,2021-04-30,405395,623167,,foul,1,Albert Pujols flies out to left fielder Sam Haggerty.,3,0,1,4,4,-0.31,3.4
+840,2021-04-30,405395,623167,,ball,14,Albert Pujols flies out to left fielder Sam Haggerty.,2,0,1,3,4,1.13,2.45
+841,2021-04-30,405395,623167,,ball,13,Albert Pujols flies out to left fielder Sam Haggerty.,1,0,1,2,4,0.0,1.27
+842,2021-04-30,405395,623167,,ball,12,Albert Pujols flies out to left fielder Sam Haggerty.,0,0,1,1,4,0.83,4.42
+843,2021-04-30,405395,623167,field_out,hit_into_play,12,Albert Pujols flies out to right fielder Mitch Haniger.,2,2,0,5,2,0.89,3.68
+844,2021-04-30,405395,623167,,foul,6,Albert Pujols flies out to right fielder Mitch Haniger.,2,1,0,4,2,0.56,2.77
+845,2021-04-30,405395,623167,,ball,12,Albert Pujols flies out to right fielder Mitch Haniger.,1,1,0,3,2,0.48,3.85
+846,2021-04-30,405395,623167,,ball,14,Albert Pujols flies out to right fielder Mitch Haniger.,0,1,0,2,2,1.43,0.86
+847,2021-04-30,405395,623167,,called_strike,1,Albert Pujols flies out to right fielder Mitch Haniger.,0,0,0,1,2,-0.28,3.45
+848,2021-04-30,405395,606160,field_out,hit_into_play,4,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",1,1,2,3,9,-0.53,2.53
+849,2021-04-30,405395,606160,,ball,14,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",0,1,2,2,9,1.21,1.82
+850,2021-04-30,405395,606160,,called_strike,13,"Albert Pujols grounds out, shortstop J.  P. Crawford to first baseman Ty France.",0,0,2,1,9,-1.01,1.82
+851,2021-04-30,405395,594987,field_out,hit_into_play,2,Albert Pujols pops out to first baseman Ty France in foul territory.,0,1,1,2,7,0.27,3.04
+852,2021-04-30,405395,594987,,called_strike,6,Albert Pujols pops out to first baseman Ty France in foul territory.,0,0,1,1,7,0.47,2.86
+853,2021-04-27,405395,592314,field_out,hit_into_play,14,"Albert Pujols grounds out softly, third baseman Charlie Culberson to first baseman Nate Lowe.",0,2,2,3,4,1.19,1.48
+854,2021-04-27,405395,592314,,swinging_strike,14,"Albert Pujols grounds out softly, third baseman Charlie Culberson to first baseman Nate Lowe.",0,1,2,2,4,0.05,1.03
+855,2021-04-27,405395,592314,,called_strike,14,"Albert Pujols grounds out softly, third baseman Charlie Culberson to first baseman Nate Lowe.",0,0,2,1,4,1.03,1.95
+856,2021-04-27,405395,592314,single,hit_into_play,8,Albert Pujols singles on a sharp ground ball to center fielder Eli White.   Jared Walsh scores.,2,2,1,5,2,0.23,1.66
+857,2021-04-27,405395,592314,,ball,12,Albert Pujols singles on a sharp ground ball to center fielder Eli White.   Jared Walsh scores.,1,2,1,4,2,2.0,2.39
+858,2021-04-27,405395,592314,,foul,5,Albert Pujols singles on a sharp ground ball to center fielder Eli White.   Jared Walsh scores.,1,1,1,3,2,-0.02,2.36
+859,2021-04-27,405395,592314,,called_strike,14,Albert Pujols singles on a sharp ground ball to center fielder Eli White.   Jared Walsh scores.,1,0,1,2,2,0.79,1.42
+860,2021-04-27,405395,592314,,ball,14,Albert Pujols singles on a sharp ground ball to center fielder Eli White.   Jared Walsh scores.,0,0,1,1,2,0.15,0.96
+861,2021-04-27,405395,570257,force_out,hit_into_play,14,"Albert Pujols grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Justin Upton out at 2nd.",1,2,2,4,8,1.16,1.98
+862,2021-04-27,405395,570257,,blocked_ball,14,"Albert Pujols grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Justin Upton out at 2nd.",0,2,2,3,8,0.38,0.9
+863,2021-04-27,405395,570257,,swinging_strike,12,"Albert Pujols grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Justin Upton out at 2nd.",0,1,2,2,8,0.85,3.0
+864,2021-04-27,405395,570257,,called_strike,14,"Albert Pujols grounds into a force out, shortstop Isiah Kiner-Falefa to second baseman Nick Solak.   Justin Upton out at 2nd.",0,0,2,1,8,0.97,2.17
+865,2021-04-27,405395,667463,field_out,hit_into_play,12,Albert Pujols flies out to center fielder Eli White.,1,2,1,4,6,1.2,2.83
+866,2021-04-27,405395,667463,,ball,12,Albert Pujols flies out to center fielder Eli White.,0,2,1,3,6,1.71,2.63
+867,2021-04-27,405395,667463,,swinging_strike,14,Albert Pujols flies out to center fielder Eli White.,0,1,1,2,6,1.05,2.06
+868,2021-04-27,405395,667463,,called_strike,12,Albert Pujols flies out to center fielder Eli White.,0,0,1,1,6,1.02,3.27
+869,2021-04-26,405395,543475,home_run,hit_into_play,6,Albert Pujols homers (5) on a fly ball to center field.,1,1,0,3,3,0.69,2.38
+870,2021-04-26,405395,543475,,called_strike,14,Albert Pujols homers (5) on a fly ball to center field.,1,0,0,2,3,1.03,1.63
+871,2021-04-26,405395,543475,,ball,14,Albert Pujols homers (5) on a fly ball to center field.,0,0,0,1,3,1.17,1.88
+872,2021-04-26,405395,660365,field_out,hit_into_play,7,"Albert Pujols grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",1,1,2,3,6,-0.34,2.07
+873,2021-04-26,405395,660365,,swinging_strike,13,"Albert Pujols grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",1,0,2,2,6,-0.11,0.99
+874,2021-04-26,405395,660365,,ball,13,"Albert Pujols grounds out, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,2,1,6,-1.02,0.96
+875,2021-04-26,405395,543475,field_out,hit_into_play,14,Albert Pujols lines out to right fielder Joey Gallo.,0,1,0,2,2,0.87,1.89
+876,2021-04-26,405395,543475,,called_strike,6,Albert Pujols lines out to right fielder Joey Gallo.,0,0,0,1,2,0.47,2.6
+877,2021-04-26,405395,622250,force_out,hit_into_play,8,"Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Nick Solak.   Justin Upton out at 2nd.",0,1,2,2,8,0.21,2.05
+878,2021-04-26,405395,622250,,called_strike,6,"Albert Pujols grounds into a force out, third baseman Brock Holt to second baseman Nick Solak.   Justin Upton out at 2nd.",0,0,2,1,8,0.37,2.74
+879,2021-04-26,405395,660365,field_out,hit_into_play,9,Albert Pujols flies out sharply to center fielder Adolis Garcia.,0,1,2,2,4,0.42,1.91
+880,2021-04-26,405395,660365,,called_strike,8,Albert Pujols flies out sharply to center fielder Adolis Garcia.,0,0,2,1,4,-0.08,1.8
+881,2021-04-25,405395,621121,walk,ball,14,Albert Pujols walks.,3,2,2,6,6,0.92,1.49
+882,2021-04-25,405395,621121,,foul_tip,7,Albert Pujols walks.,3,1,2,5,6,-0.35,1.54
+883,2021-04-25,405395,621121,,called_strike,8,Albert Pujols walks.,3,0,2,4,6,-0.09,1.6
+884,2021-04-25,405395,621121,,ball,13,Albert Pujols walks.,2,0,2,3,6,-0.06,1.01
+885,2021-04-25,405395,621121,,ball,12,Albert Pujols walks.,1,0,2,2,6,1.51,3.2
+886,2021-04-25,405395,621121,,ball,12,Albert Pujols walks.,0,0,2,1,6,1.22,3.16
+887,2021-04-25,405395,621121,hit_by_pitch,hit_by_pitch,13,Albert Pujols hit by pitch.,1,1,0,3,5,-3.29,2.45
+888,2021-04-25,405395,621121,,foul,1,Albert Pujols hit by pitch.,1,0,0,2,5,-0.5,2.97
+889,2021-04-25,405395,621121,,ball,12,Albert Pujols hit by pitch.,0,0,0,1,5,1.72,2.58
+890,2021-04-25,405395,621121,field_out,hit_into_play,6,Albert Pujols lines out to center fielder Myles Straw.,3,2,0,6,2,0.37,2.67
+891,2021-04-25,405395,621121,,ball,14,Albert Pujols lines out to center fielder Myles Straw.,2,2,0,5,2,1.19,1.44
+892,2021-04-25,405395,677651,field_out,hit_into_play,3,Albert Pujols pops out to second baseman Robel Garcia.,1,0,1,2,8,0.61,3.27
+893,2021-04-25,405395,621121,,ball,14,Albert Pujols lines out to center fielder Myles Straw.,1,2,0,4,2,0.7,1.22
+894,2021-04-25,405395,677651,,ball,14,Albert Pujols pops out to second baseman Robel Garcia.,0,0,1,1,8,1.0,1.82
+895,2021-04-25,405395,621121,,foul,4,Albert Pujols lines out to center fielder Myles Straw.,1,1,0,3,2,-0.66,2.67
+896,2021-04-25,405395,621121,,called_strike,8,Albert Pujols lines out to center fielder Myles Straw.,1,0,0,2,2,0.08,1.98
+897,2021-04-25,405395,621121,,ball,13,Albert Pujols lines out to center fielder Myles Straw.,0,0,0,1,2,-0.91,0.67
+898,2021-04-24,405395,592288,grounded_into_double_play,hit_into_play,14,"Albert Pujols grounds into a double play, third baseman Abraham Toro to second baseman Robel Garcia to first baseman Yuli Gurriel.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",1,1,0,3,7,0.62,1.27
+899,2021-04-24,405395,592288,,blocked_ball,14,"Albert Pujols grounds into a double play, third baseman Abraham Toro to second baseman Robel Garcia to first baseman Yuli Gurriel.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",0,1,0,2,7,0.2,0.76
+900,2021-04-24,405395,592288,,called_strike,5,"Albert Pujols grounds into a double play, third baseman Abraham Toro to second baseman Robel Garcia to first baseman Yuli Gurriel.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",0,0,0,1,7,0.01,2.46
+901,2021-04-24,405395,592288,field_out,hit_into_play,14,"Albert Pujols grounds out, first baseman Yuli Gurriel to pitcher Kent Emanuel.",0,1,1,2,4,0.94,2.12
+902,2021-04-24,405395,592288,,called_strike,12,"Albert Pujols grounds out, first baseman Yuli Gurriel to pitcher Kent Emanuel.",0,0,1,1,4,0.88,2.85
+903,2021-04-24,405395,592288,home_run,hit_into_play,7,Albert Pujols homers (4) on a fly ball to left field.,1,1,0,3,2,-0.33,2.06
+904,2021-04-24,405395,592288,,ball,12,Albert Pujols homers (4) on a fly ball to left field.,0,1,0,2,2,1.73,3.52
+905,2021-04-24,405395,592288,,called_strike,9,Albert Pujols homers (4) on a fly ball to left field.,0,0,0,1,2,0.58,2.12
+906,2021-04-23,405395,425844,strikeout,swinging_strike,13,Albert Pujols strikes out swinging.,2,2,2,5,5,-0.29,0.94
+907,2021-04-23,405395,425844,,swinging_strike,14,Albert Pujols strikes out swinging.,2,1,2,4,5,0.83,1.65
+908,2021-04-23,405395,425844,,called_strike,14,Albert Pujols strikes out swinging.,2,0,2,3,5,0.97,2.02
+909,2021-04-23,405395,425844,,blocked_ball,14,Albert Pujols strikes out swinging.,1,0,2,2,5,1.26,0.04
+910,2021-04-23,405395,425844,,ball,14,Albert Pujols strikes out swinging.,0,0,2,1,5,1.18,1.25
+911,2021-04-23,405395,425844,field_out,hit_into_play,6,Albert Pujols pops out to second baseman Aledmys Diaz.,2,2,0,5,4,0.54,2.29
+912,2021-04-23,405395,425844,,ball,14,Albert Pujols pops out to second baseman Aledmys Diaz.,1,2,0,4,4,1.07,0.98
+913,2021-04-23,405395,425844,,swinging_strike,9,Albert Pujols pops out to second baseman Aledmys Diaz.,1,1,0,3,4,0.79,1.93
+914,2021-04-23,405395,425844,,called_strike,14,Albert Pujols pops out to second baseman Aledmys Diaz.,1,0,0,2,4,0.98,1.52
+915,2021-04-23,405395,425844,,ball,14,Albert Pujols pops out to second baseman Aledmys Diaz.,0,0,0,1,4,1.24,1.21
+916,2021-04-23,405395,519151,single,hit_into_play,14,Albert Pujols singles on a line drive to center fielder Myles Straw.   David Fletcher scores.    Jared Walsh to 2nd.,0,1,2,2,10,1.2,1.4
+917,2021-04-23,405395,519151,,called_strike,1,Albert Pujols singles on a line drive to center fielder Myles Straw.   David Fletcher scores.    Jared Walsh to 2nd.,0,0,2,1,10,-0.32,2.93
+918,2021-04-23,405395,425844,field_out,hit_into_play,5,Albert Pujols flies out to left fielder Michael Brantley.,2,2,2,5,1,-0.26,2.57
+919,2021-04-23,405395,425844,,ball,14,Albert Pujols flies out to left fielder Michael Brantley.,1,2,2,4,1,1.5,1.83
+920,2021-04-23,405395,425844,,foul,14,Albert Pujols flies out to left fielder Michael Brantley.,1,1,2,3,1,0.93,1.56
+921,2021-04-23,405395,425844,,ball,12,Albert Pujols flies out to left fielder Michael Brantley.,0,1,2,2,1,1.34,2.54
+922,2021-04-23,405395,425844,,called_strike,9,Albert Pujols flies out to left fielder Michael Brantley.,0,0,2,1,1,0.54,1.66
+923,2021-04-23,405395,592773,strikeout,foul_tip,4,Albert Pujols strikes out on a foul tip.,1,2,2,4,8,-0.79,2.79
+924,2021-04-23,405395,592773,,ball,12,Albert Pujols strikes out on a foul tip.,0,2,2,3,8,1.02,5.18
+925,2021-04-23,405395,592773,,swinging_strike,3,Albert Pujols strikes out on a foul tip.,0,1,2,2,8,0.81,3.39
+926,2021-04-23,405395,592773,,called_strike,8,Albert Pujols strikes out on a foul tip.,0,0,2,1,8,-0.21,2.05
+927,2021-04-22,405395,664299,field_out,hit_into_play,9,Albert Pujols pops out to shortstop Carlos Correa.,3,2,1,7,4,0.31,1.95
+928,2021-04-22,405395,664299,,ball,12,Albert Pujols pops out to shortstop Carlos Correa.,2,2,1,6,4,1.82,3.05
+929,2021-04-22,405395,664299,,foul,11,Albert Pujols pops out to shortstop Carlos Correa.,2,2,1,5,4,-0.16,4.19
+930,2021-04-22,405395,664299,,blocked_ball,14,Albert Pujols pops out to shortstop Carlos Correa.,1,2,1,4,4,1.99,0.71
+931,2021-04-22,405395,664299,,swinging_strike,14,Albert Pujols pops out to shortstop Carlos Correa.,1,1,1,3,4,1.61,0.31
+932,2021-04-22,405395,664299,,swinging_strike,14,Albert Pujols pops out to shortstop Carlos Correa.,1,0,1,2,4,1.37,0.77
+933,2021-04-22,405395,664299,,blocked_ball,14,Albert Pujols pops out to shortstop Carlos Correa.,0,0,1,1,4,2.63,0.03
+934,2021-04-22,405395,664299,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,2,2,1,6,2,1.37,3.03
+935,2021-04-22,405395,664299,,foul,3,Albert Pujols strikes out swinging.,2,2,1,5,2,0.45,2.97
+936,2021-04-22,405395,664299,,ball,14,Albert Pujols strikes out swinging.,1,2,1,4,2,2.53,1.46
+937,2021-04-22,405395,664299,,ball,14,Albert Pujols strikes out swinging.,0,2,1,3,2,2.97,-0.67
+938,2021-04-22,405395,664299,,swinging_strike,14,Albert Pujols strikes out swinging.,0,1,1,2,2,1.73,1.21
+939,2021-04-22,405395,664299,,foul,6,Albert Pujols strikes out swinging.,0,0,1,1,2,0.47,2.36
+940,2021-04-22,405395,650556,home_run,hit_into_play,12,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols homers (3) on a fly ball to right field.    Justin Upton scores.",2,2,2,6,6,1.12,3.4
+941,2021-04-22,405395,650556,,ball,12,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols homers (3) on a fly ball to right field.    Justin Upton scores.",1,2,2,5,6,0.18,3.79
+942,2021-04-22,405395,650556,,blocked_ball,14,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols homers (3) on a fly ball to right field.    Justin Upton scores.",0,2,2,4,6,2.83,1.27
+943,2021-04-22,405395,650556,,foul,3,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols homers (3) on a fly ball to right field.    Justin Upton scores.",0,2,2,3,6,0.48,3.58
+944,2021-04-22,405395,650556,,foul,6,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols homers (3) on a fly ball to right field.    Justin Upton scores.",0,1,2,2,6,0.67,2.71
+945,2021-04-22,405395,650556,,foul,2,"Umpire reviewed (home run), call on the field was upheld: Albert Pujols homers (3) on a fly ball to right field.    Justin Upton scores.",0,0,2,1,6,0.11,2.94
+946,2021-04-22,405395,501925,strikeout,swinging_strike,13,Albert Pujols strikes out swinging.,3,2,1,6,8,-1.89,1.67
+947,2021-04-22,405395,501925,,swinging_strike_blocked,13,Albert Pujols strikes out swinging.,3,1,1,5,8,-0.18,1.09
+948,2021-04-22,405395,501925,,ball,14,Albert Pujols strikes out swinging.,2,1,1,4,8,2.18,1.9
+949,2021-04-22,405395,501925,,called_strike,5,Albert Pujols strikes out swinging.,2,0,1,3,8,-0.08,2.61
+950,2021-04-22,405395,501925,,ball,13,Albert Pujols strikes out swinging.,1,0,1,2,8,-1.23,2.04
+951,2021-04-22,405395,501925,,ball,13,Albert Pujols strikes out swinging.,0,0,1,1,8,-1.22,1.93
+952,2021-04-21,405395,453178,field_out,hit_into_play,8,Albert Pujols lines out sharply to left fielder Eli White.,2,1,0,4,9,-0.14,2.17
+953,2021-04-21,405395,453178,,ball,11,Albert Pujols lines out sharply to left fielder Eli White.,1,1,0,3,9,-1.76,3.48
+954,2021-04-21,405395,453178,,ball,12,Albert Pujols lines out sharply to left fielder Eli White.,0,1,0,2,9,1.7,3.31
+955,2021-04-21,405395,453178,,called_strike,12,Albert Pujols lines out sharply to left fielder Eli White.,0,0,0,1,9,0.91,2.59
+956,2021-04-20,405395,543475,field_out,hit_into_play,14,Albert Pujols lines out to right fielder Joey Gallo.,2,2,1,7,4,0.68,1.25
+957,2021-04-20,405395,543475,,foul,13,Albert Pujols lines out to right fielder Joey Gallo.,2,2,1,6,4,-0.71,1.37
+958,2021-04-20,405395,543475,,foul,6,Albert Pujols lines out to right fielder Joey Gallo.,2,2,1,5,4,0.35,2.2
+959,2021-04-20,405395,543475,,called_strike,14,Albert Pujols lines out to right fielder Joey Gallo.,2,1,1,4,4,0.93,2.22
+960,2021-04-20,405395,543475,,called_strike,5,Albert Pujols lines out to right fielder Joey Gallo.,2,0,1,3,4,-0.14,2.38
+961,2021-04-20,405395,543475,,ball,14,Albert Pujols lines out to right fielder Joey Gallo.,1,0,1,2,4,0.33,1.23
+962,2021-04-20,405395,543475,,ball,14,Albert Pujols lines out to right fielder Joey Gallo.,0,0,1,1,4,1.61,-0.24
+963,2021-04-20,405395,543475,field_out,hit_into_play,6,Albert Pujols pops out to first baseman Nate Lowe.,0,0,1,1,2,0.48,2.24
+964,2021-04-20,405395,621368,home_run,hit_into_play,6,Albert Pujols homers (2) on a fly ball to center field.,3,1,0,5,7,0.33,2.3
+965,2021-04-20,405395,621368,,ball,13,Albert Pujols homers (2) on a fly ball to center field.,2,1,0,4,7,-1.47,1.53
+966,2021-04-20,405395,621368,,ball,13,Albert Pujols homers (2) on a fly ball to center field.,1,1,0,3,7,-1.06,0.19
+967,2021-04-20,405395,676969,double_play,hit_into_play,13,"Albert Pujols pops into a double play, second baseman Nick Solak to shortstop Isiah Kiner-Falefa.   Justin Upton out at 2nd.",1,1,0,3,8,-0.84,2.13
+968,2021-04-20,405395,621368,,called_strike,6,Albert Pujols homers (2) on a fly ball to center field.,1,0,0,2,7,0.5,2.41
+969,2021-04-20,405395,676969,,ball,11,"Albert Pujols pops into a double play, second baseman Nick Solak to shortstop Isiah Kiner-Falefa.   Justin Upton out at 2nd.",0,1,0,2,8,-0.16,3.65
+970,2021-04-20,405395,676969,,called_strike,6,"Albert Pujols pops into a double play, second baseman Nick Solak to shortstop Isiah Kiner-Falefa.   Justin Upton out at 2nd.",0,0,0,1,8,0.3,2.22
+971,2021-04-20,405395,621368,,ball,12,Albert Pujols homers (2) on a fly ball to center field.,0,0,0,1,7,1.03,3.72
+972,2021-04-19,405395,685503,field_out,hit_into_play,8,"Albert Pujols grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",1,1,2,3,5,0.14,1.82
+973,2021-04-19,405395,685503,,called_strike,8,"Albert Pujols grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",1,0,2,2,5,0.1,1.62
+974,2021-04-19,405395,685503,,ball,14,"Albert Pujols grounds out sharply, shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.",0,0,2,1,5,0.85,1.37
+975,2021-04-19,405395,685503,grounded_into_double_play,hit_into_play,5,"Albert Pujols grounds into a double play, second baseman Nick Solak to shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",0,1,1,2,2,0.14,2.23
+976,2021-04-19,405395,685503,,called_strike,1,"Albert Pujols grounds into a double play, second baseman Nick Solak to shortstop Isiah Kiner-Falefa to first baseman Nate Lowe.   Jared Walsh out at 2nd.    Albert Pujols out at 1st.",0,0,1,1,2,-0.78,3.0
+977,2021-04-19,405395,453178,field_out,hit_into_play,2,Albert Pujols flies out to right fielder Joey Gallo.,0,1,1,2,9,0.23,3.47
+978,2021-04-19,405395,453178,,foul,6,Albert Pujols flies out to right fielder Joey Gallo.,0,0,1,1,9,0.42,2.28
+979,2021-04-19,405395,621129,single,hit_into_play,5,Albert Pujols singles on a sharp line drive to left fielder David Dahl.   Jared Walsh scores.,2,1,1,4,7,0.22,2.34
+980,2021-04-19,405395,621129,,foul,9,Albert Pujols singles on a sharp line drive to left fielder David Dahl.   Jared Walsh scores.,2,0,1,3,7,0.58,1.91
+981,2021-04-19,405395,621129,,ball,14,Albert Pujols singles on a sharp line drive to left fielder David Dahl.   Jared Walsh scores.,1,0,1,2,7,1.91,0.94
+982,2021-04-19,405395,621129,,ball,14,Albert Pujols singles on a sharp line drive to left fielder David Dahl.   Jared Walsh scores.,0,0,1,1,7,1.42,1.68
+983,2021-04-16,405395,626929,force_out,hit_into_play,6,"Albert Pujols grounds into a force out, fielded by second baseman Luis Arraez.   Jared Walsh out at 2nd.",0,2,2,3,4,0.42,2.24
+984,2021-04-16,405395,626929,,foul,4,"Albert Pujols grounds into a force out, fielded by second baseman Luis Arraez.   Jared Walsh out at 2nd.",0,1,2,2,4,-0.48,2.25
+985,2021-04-16,405395,626929,,called_strike,4,"Albert Pujols grounds into a force out, fielded by second baseman Luis Arraez.   Jared Walsh out at 2nd.",0,0,2,1,4,-0.57,2.76
+986,2021-04-16,405395,677976,field_out,hit_into_play,8,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",0,0,2,1,6,0.11,1.77
+987,2021-04-16,405395,626929,field_out,hit_into_play,6,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",3,2,2,7,2,0.8,2.75
+988,2021-04-16,405395,573204,single,hit_into_play,5,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,3,2,2,8,7,-0.14,2.37
+989,2021-04-16,405395,626929,,foul,7,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",3,2,2,6,2,-0.72,1.76
+990,2021-04-16,405395,573204,,ball,13,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,2,2,2,7,7,-1.61,0.43
+991,2021-04-16,405395,573204,,ball,13,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,1,2,2,6,7,-1.16,0.8
+992,2021-04-16,405395,626929,,ball,13,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",2,2,2,5,2,-0.66,1.44
+993,2021-04-16,405395,626929,,swinging_strike,13,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",2,1,2,4,2,-1.3,1.28
+994,2021-04-16,405395,573204,,ball,13,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,0,2,2,5,7,-0.18,0.4
+995,2021-04-16,405395,626929,,ball,7,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",1,1,2,3,2,-0.59,1.6
+996,2021-04-16,405395,573204,,foul,4,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,0,2,2,4,7,-0.57,2.28
+997,2021-04-16,405395,573204,,foul,5,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,0,2,2,3,7,-0.23,2.32
+998,2021-04-16,405395,626929,,called_strike,7,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",1,0,2,2,2,-0.63,1.95
+999,2021-04-16,405395,626929,,ball,13,"Albert Pujols grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",0,0,2,1,2,-0.09,1.44
+1000,2021-04-16,405395,573204,,called_strike,7,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,0,1,2,2,7,-0.73,2.06
+1001,2021-04-16,405395,573204,,foul,4,Albert Pujols singles on a sharp ground ball to left fielder Kyle Garlick.,0,0,2,1,7,-0.42,2.5
+1002,2021-04-14,405395,641745,hit_by_pitch,hit_by_pitch,11,Albert Pujols hit by pitch.,1,1,1,3,6,-1.66,3.39
+1003,2021-04-14,405395,641745,,called_strike,2,Albert Pujols hit by pitch.,1,0,1,2,6,-0.12,2.9
+1004,2021-04-14,405395,641745,,ball,11,Albert Pujols hit by pitch.,0,0,1,1,6,-1.75,3.84
+1005,2021-04-14,405395,641745,field_out,hit_into_play,8,"Albert Pujols grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",1,2,0,5,4,0.07,2.04
+1006,2021-04-14,405395,641745,,ball,14,"Albert Pujols grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",0,2,0,4,4,1.33,2.22
+1007,2021-04-14,405395,641745,,foul,14,"Albert Pujols grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",0,2,0,3,4,0.99,2.47
+1008,2021-04-14,405395,641745,,swinging_strike,14,"Albert Pujols grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",0,1,0,2,4,1.41,0.65
+1009,2021-04-14,405395,641745,,called_strike,8,"Albert Pujols grounds out, third baseman Hunter Dozier to first baseman Carlos Santana.",0,0,0,1,4,-0.09,2.11
+1010,2021-04-14,405395,622251,force_out,hit_into_play,4,"Albert Pujols flies into a force out, right fielder Jarrod Dyson to shortstop Nicky Lopez.   Mike Trout to 3rd.    Jared Walsh out at 2nd.    Albert Pujols to 1st.",0,0,1,1,8,-0.63,2.9
+1011,2021-04-14,405395,641745,field_out,hit_into_play,5,Albert Pujols flies out to left fielder Andrew Benintendi.,1,0,0,2,2,-0.12,2.71
+1012,2021-04-14,405395,641745,,ball,14,Albert Pujols flies out to left fielder Andrew Benintendi.,0,0,0,1,2,0.39,0.93
+1013,2021-04-13,405395,518633,single,hit_into_play,1,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,1,1,0,3,6,-0.29,2.9
+1014,2021-04-13,405395,518633,,ball,13,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,0,1,0,2,6,-0.16,0.85
+1015,2021-04-13,405395,518633,,called_strike,3,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,0,0,0,1,6,0.28,3.2
+1016,2021-04-13,405395,518633,field_out,hit_into_play,9,"Albert Pujols grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",3,1,2,5,3,0.49,1.89
+1017,2021-04-13,405395,518633,,ball,12,"Albert Pujols grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",2,1,2,4,3,1.21,2.83
+1018,2021-04-13,405395,518633,,swinging_strike,9,"Albert Pujols grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",2,0,2,3,3,0.64,1.83
+1019,2021-04-13,405395,518633,,ball,13,"Albert Pujols grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",1,0,2,2,3,-0.15,0.88
+1020,2021-04-13,405395,518633,,ball,13,"Albert Pujols grounds out, shortstop Nicky Lopez to first baseman Carlos Santana.",0,0,2,1,3,-1.33,-0.26
+1021,2021-04-13,405395,518813,walk,ball,14,Albert Pujols walks.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.,3,2,2,6,9,1.46,1.3
+1022,2021-04-13,405395,518813,,foul,8,Albert Pujols walks.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.,3,1,2,5,9,-0.27,1.65
+1023,2021-04-13,405395,518813,,blocked_ball,14,Albert Pujols walks.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.,2,1,2,4,9,0.65,1.07
+1024,2021-04-13,405395,518813,,blocked_ball,13,Albert Pujols walks.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.,1,1,2,3,9,-0.3,0.76
+1025,2021-04-13,405395,518813,,foul,8,Albert Pujols walks.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.,1,0,2,2,9,-0.02,1.68
+1026,2021-04-13,405395,518813,,ball,14,Albert Pujols walks.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.,0,0,2,1,9,0.26,1.21
+1027,2021-04-13,405395,518633,field_out,hit_into_play,7,Albert Pujols lines out to center fielder Michael A.   Taylor.,3,1,1,5,1,-0.32,2.0
+1028,2021-04-13,405395,518633,,foul,2,Albert Pujols lines out to center fielder Michael A.   Taylor.,3,0,1,4,1,0.17,3.11
+1029,2021-04-13,405395,518633,,ball,12,Albert Pujols lines out to center fielder Michael A.   Taylor.,2,0,1,3,1,0.93,3.42
+1030,2021-04-13,405395,518633,,ball,12,Albert Pujols lines out to center fielder Michael A.   Taylor.,1,0,1,2,1,1.35,2.52
+1031,2021-04-13,405395,518633,,ball,11,Albert Pujols lines out to center fielder Michael A.   Taylor.,0,0,1,1,1,-0.14,3.67
+1032,2021-04-13,405395,451584,single,hit_into_play,8,"Albert Pujols singles on a sharp ground ball to left fielder Andrew Benintendi, deflected by third baseman Hunter Dozier.",3,2,0,6,8,0.1,2.17
+1033,2021-04-13,405395,451584,,ball,14,"Albert Pujols singles on a sharp ground ball to left fielder Andrew Benintendi, deflected by third baseman Hunter Dozier.",2,2,0,5,8,0.59,-0.6
+1034,2021-04-13,405395,451584,,called_strike,1,"Albert Pujols singles on a sharp ground ball to left fielder Andrew Benintendi, deflected by third baseman Hunter Dozier.",2,1,0,4,8,-0.71,3.29
+1035,2021-04-13,405395,451584,,ball,14,"Albert Pujols singles on a sharp ground ball to left fielder Andrew Benintendi, deflected by third baseman Hunter Dozier.",1,1,0,3,8,1.45,1.04
+1036,2021-04-13,405395,451584,,ball,14,"Albert Pujols singles on a sharp ground ball to left fielder Andrew Benintendi, deflected by third baseman Hunter Dozier.",0,1,0,2,8,1.52,2.07
+1037,2021-04-13,405395,451584,,called_strike,4,"Albert Pujols singles on a sharp ground ball to left fielder Andrew Benintendi, deflected by third baseman Hunter Dozier.",0,0,0,1,8,-0.43,2.77
+1038,2021-04-12,405395,663903,single,hit_into_play,4,Albert Pujols singles on a ground ball to left fielder Andrew Benintendi.,2,1,0,4,5,-0.38,2.3
+1039,2021-04-12,405395,663903,,called_strike,5,Albert Pujols singles on a ground ball to left fielder Andrew Benintendi.,2,0,0,3,5,0.0,2.79
+1040,2021-04-12,405395,663903,,ball,12,Albert Pujols singles on a ground ball to left fielder Andrew Benintendi.,1,0,0,2,5,0.64,3.87
+1041,2021-04-12,405395,663903,,ball,12,Albert Pujols singles on a ground ball to left fielder Andrew Benintendi.,0,0,0,1,5,0.42,3.81
+1042,2021-04-12,405395,663903,strikeout,swinging_strike,14,Albert Pujols strikes out swinging.,0,2,1,3,2,1.91,1.81
+1043,2021-04-12,405395,663903,,swinging_strike,14,Albert Pujols strikes out swinging.,0,1,1,2,2,1.98,1.38
+1044,2021-04-12,405395,663903,,called_strike,9,Albert Pujols strikes out swinging.,0,0,1,1,2,0.71,2.27
+1045,2021-04-12,405395,623470,single,hit_into_play,4,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,3,2,0,9,8,-0.72,2.89
+1046,2021-04-12,405395,623470,,foul,5,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,3,2,0,8,8,0.1,2.27
+1047,2021-04-12,405395,623470,,foul,1,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,3,2,0,7,8,-0.4,3.12
+1048,2021-04-12,405395,623470,,ball,14,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,2,2,0,6,8,1.64,1.21
+1049,2021-04-12,405395,623470,,foul,9,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,2,2,0,5,8,0.43,2.11
+1050,2021-04-12,405395,623470,,ball,14,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,1,2,0,4,8,2.2,0.97
+1051,2021-04-12,405395,623470,,ball,14,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,0,2,0,3,8,1.92,1.69
+1052,2021-04-12,405395,623470,,swinging_strike,6,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,0,1,0,2,8,0.31,2.74
+1053,2021-04-12,405395,623470,,called_strike,9,Albert Pujols singles on a line drive to left fielder Andrew Benintendi.,0,0,0,1,8,0.45,1.88
+1054,2021-04-12,405395,605130,strikeout,swinging_strike,14,Albert Pujols strikes out swinging.,2,2,0,5,7,1.94,1.43
+1055,2021-04-12,405395,605130,,foul,5,Albert Pujols strikes out swinging.,2,1,0,4,7,0.14,2.62
+1056,2021-04-12,405395,605130,,ball,14,Albert Pujols strikes out swinging.,1,1,0,3,7,1.72,2.04
+1057,2021-04-12,405395,605130,,ball,14,Albert Pujols strikes out swinging.,0,1,0,2,7,2.0,1.36
+1058,2021-04-12,405395,605130,,called_strike,5,Albert Pujols strikes out swinging.,0,0,0,1,7,0.19,2.36
+1059,2021-04-10,405395,571927,single,hit_into_play,8,Albert Pujols singles on a line drive to center fielder Jonathan Davis.,0,1,2,2,6,-0.19,1.79
+1060,2021-04-10,405395,571927,,called_strike,13,Albert Pujols singles on a line drive to center fielder Jonathan Davis.,0,0,2,1,6,-0.03,1.53
+1061,2021-04-10,405395,571927,field_out,hit_into_play,2,"Albert Pujols grounds out sharply, shortstop Bo Bichette to first baseman Rowdy Tellez.",1,2,0,5,4,0.1,3.22
+1062,2021-04-10,405395,571927,,foul,8,"Albert Pujols grounds out sharply, shortstop Bo Bichette to first baseman Rowdy Tellez.",1,2,0,4,4,0.07,1.82
+1063,2021-04-10,405395,571927,,ball,13,"Albert Pujols grounds out sharply, shortstop Bo Bichette to first baseman Rowdy Tellez.",0,2,0,3,4,-0.49,1.07
+1064,2021-04-10,405395,571927,,foul,5,"Albert Pujols grounds out sharply, shortstop Bo Bichette to first baseman Rowdy Tellez.",0,1,0,2,4,-0.08,2.71
+1065,2021-04-10,405395,571927,,called_strike,7,"Albert Pujols grounds out sharply, shortstop Bo Bichette to first baseman Rowdy Tellez.",0,0,0,1,4,-0.4,1.78
+1066,2021-04-10,405395,543548,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,1,2,0,5,9,0.89,3.44
+1067,2021-04-10,405395,543548,,foul,14,Albert Pujols strikes out swinging.,1,2,0,4,9,0.32,1.45
+1068,2021-04-10,405395,543548,,ball,13,Albert Pujols strikes out swinging.,0,2,0,3,9,-1.42,1.6
+1069,2021-04-10,405395,543548,,foul,3,Albert Pujols strikes out swinging.,0,1,0,2,9,0.42,2.91
+1070,2021-04-10,405395,543548,,called_strike,9,Albert Pujols strikes out swinging.,0,0,0,1,9,0.3,2.12
+1071,2021-04-10,405395,571927,field_out,hit_into_play,9,"Albert Pujols grounds out, shortstop Bo Bichette to first baseman Rowdy Tellez.",0,2,2,4,1,0.48,1.49
+1072,2021-04-10,405395,571927,,foul,1,"Albert Pujols grounds out, shortstop Bo Bichette to first baseman Rowdy Tellez.",0,2,2,3,1,-0.63,3.47
+1073,2021-04-10,405395,571927,,foul,8,"Albert Pujols grounds out, shortstop Bo Bichette to first baseman Rowdy Tellez.",0,1,2,2,1,-0.27,1.66
+1074,2021-04-10,405395,571927,,called_strike,6,"Albert Pujols grounds out, shortstop Bo Bichette to first baseman Rowdy Tellez.",0,0,2,1,1,0.31,2.66
+1075,2021-04-06,405395,425844,field_out,hit_into_play,12,"Albert Pujols grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,1,1,2,6,1.0,2.91
+1076,2021-04-06,405395,425844,,called_strike,6,"Albert Pujols grounds out, shortstop Carlos Correa to first baseman Yuli Gurriel.",0,0,1,1,6,0.35,2.47
+1077,2021-04-06,405395,425844,field_out,hit_into_play,8,Albert Pujols lines out to left fielder Aledmys Diaz.,2,2,2,5,3,0.16,1.62
+1078,2021-04-06,405395,425844,,ball,14,Albert Pujols lines out to left fielder Aledmys Diaz.,1,2,2,4,3,0.12,0.61
+1079,2021-04-06,405395,425844,,swinging_strike,13,Albert Pujols lines out to left fielder Aledmys Diaz.,1,1,2,3,3,-0.41,0.99
+1080,2021-04-06,405395,425844,,called_strike,4,Albert Pujols lines out to left fielder Aledmys Diaz.,1,0,2,2,3,-0.56,2.45
+1081,2021-04-06,405395,425844,,ball,12,Albert Pujols lines out to left fielder Aledmys Diaz.,0,0,2,1,3,0.82,3.64
+1082,2021-04-06,405395,519151,strikeout,swinging_strike,12,Albert Pujols strikes out swinging.,0,2,0,3,9,1.42,2.99
+1083,2021-04-06,405395,519151,,swinging_strike,12,Albert Pujols strikes out swinging.,0,1,0,2,9,0.92,2.67
+1084,2021-04-06,405395,519151,,called_strike,14,Albert Pujols strikes out swinging.,0,0,0,1,9,0.93,2.22
+1085,2021-04-06,405395,425844,field_out,hit_into_play,6,Albert Pujols flies out to right fielder Kyle Tucker in foul territory.,1,1,1,3,1,0.66,2.59
+1086,2021-04-06,405395,425844,,ball,14,Albert Pujols flies out to right fielder Kyle Tucker in foul territory.,0,1,1,2,1,1.71,1.57
+1087,2021-04-06,405395,425844,,called_strike,9,Albert Pujols flies out to right fielder Kyle Tucker in foul territory.,0,0,1,1,1,0.77,2.0
+1088,2021-04-05,405395,677651,field_out,hit_into_play,8,Albert Pujols pops out to second baseman Jose Altuve on the infield fly rule.,1,1,0,3,4,-0.21,2.17
+1089,2021-04-05,405395,677651,,called_strike,5,Albert Pujols pops out to second baseman Jose Altuve on the infield fly rule.,1,0,0,2,4,0.2,2.47
+1090,2021-04-05,405395,677651,,ball,12,Albert Pujols pops out to second baseman Jose Altuve on the infield fly rule.,0,0,0,1,4,0.79,3.92
+1091,2021-04-05,405395,677651,field_out,hit_into_play,1,Albert Pujols lines out sharply to third baseman Alex Bregman.,0,0,1,1,2,-0.47,2.95
+1092,2021-04-05,405395,548384,field_out,hit_into_play,3,Albert Pujols lines out to left fielder Aledmys Diaz.,1,1,1,3,5,0.54,2.91
+1093,2021-04-05,405395,548384,,ball,12,Albert Pujols lines out to left fielder Aledmys Diaz.,0,1,1,2,5,0.32,4.33
+1094,2021-04-05,405395,548384,,called_strike,3,Albert Pujols lines out to left fielder Aledmys Diaz.,0,0,1,1,5,0.6,3.12
+1095,2021-04-05,405395,501925,single,hit_into_play,2,Albert Pujols singles on a line drive to right fielder Kyle Tucker.,2,2,0,5,8,0.25,2.94
+1096,2021-04-05,405395,501925,,ball,14,Albert Pujols singles on a line drive to right fielder Kyle Tucker.,1,2,0,4,8,1.38,2.1
+1097,2021-04-05,405395,501925,,swinging_strike,12,Albert Pujols singles on a line drive to right fielder Kyle Tucker.,1,1,0,3,8,1.15,3.09
+1098,2021-04-05,405395,501925,,ball,12,Albert Pujols singles on a line drive to right fielder Kyle Tucker.,0,1,0,2,8,0.9,3.85
+1099,2021-04-05,405395,501925,,called_strike,9,Albert Pujols singles on a line drive to right fielder Kyle Tucker.,0,0,0,1,8,0.56,1.75
+1100,2021-04-04,405395,676051,field_out,hit_into_play,5,"Albert Pujols grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",1,1,2,3,6,-0.13,2.29
+1101,2021-04-04,405395,676051,,called_strike,6,"Albert Pujols grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",1,0,2,2,6,0.39,2.49
+1102,2021-04-04,405395,676051,,ball,14,"Albert Pujols grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.",0,0,2,1,6,2.16,2.01
+1103,2021-04-02,405395,572971,home_run,hit_into_play,8,Albert Pujols homers (1) on a fly ball to center field.   Mike Trout scores.    Justin Upton scores.,0,1,1,2,4,-0.2,1.77
+1104,2021-04-02,405395,572971,,called_strike,1,Albert Pujols homers (1) on a fly ball to center field.   Mike Trout scores.    Justin Upton scores.,0,0,1,1,4,-0.77,3.22
+1105,2021-04-02,405395,572971,field_out,hit_into_play,12,Albert Pujols grounds out to first baseman Jose Abreu.,3,2,1,6,2,1.28,2.88
+1106,2021-04-02,405395,572971,,called_strike,9,Albert Pujols grounds out to first baseman Jose Abreu.,3,1,1,5,2,0.5,2.2
+1107,2021-04-02,405395,572971,,called_strike,9,Albert Pujols grounds out to first baseman Jose Abreu.,3,0,1,4,2,0.35,2.2
+1108,2021-04-02,405395,572971,,ball,14,Albert Pujols grounds out to first baseman Jose Abreu.,2,0,1,3,2,0.14,1.27
+1109,2021-04-02,405395,572971,,ball,12,Albert Pujols grounds out to first baseman Jose Abreu.,1,0,1,2,2,1.76,2.95
+1110,2021-04-02,405395,572971,,ball,14,Albert Pujols grounds out to first baseman Jose Abreu.,0,0,1,1,2,1.31,2.56
+1111,2021-04-02,405395,656629,field_out,hit_into_play,2,Albert Pujols pops out to shortstop Tim Anderson.,1,2,0,4,6,0.06,3.1
+1112,2021-04-02,405395,656629,,foul,12,Albert Pujols pops out to shortstop Tim Anderson.,1,1,0,3,6,0.25,4.07
+1113,2021-04-02,405395,656629,,called_strike,1,Albert Pujols pops out to shortstop Tim Anderson.,1,0,0,2,6,-0.52,3.28
+1114,2021-04-02,405395,656629,,ball,12,Albert Pujols pops out to shortstop Tim Anderson.,0,0,0,1,6,1.18,3.29
+1115,2021-04-01,405395,608337,field_out,hit_into_play,5,Albert Pujols flies out to center fielder Luis Robert.,0,1,2,2,4,0.03,2.39
+1116,2021-04-01,405395,608337,,swinging_strike,14,Albert Pujols flies out to center fielder Luis Robert.,0,0,2,1,4,0.28,1.36
+1117,2021-04-01,405395,608337,field_out,hit_into_play,3,Albert Pujols flies out to right fielder Adam Eaton.,0,2,2,3,2,0.37,3.2
+1118,2021-04-01,405395,608337,,swinging_strike,14,Albert Pujols flies out to right fielder Adam Eaton.,0,1,2,2,2,1.13,0.44
+1119,2021-04-01,405395,608337,,foul,6,Albert Pujols flies out to right fielder Adam Eaton.,0,0,2,1,2,0.55,2.68
+1120,2021-04-01,405395,607481,field_out,hit_into_play,9,"Albert Pujols grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.   Shohei Ohtani scores.    Mike Trout to 3rd.    Justin Upton to 2nd.",1,0,1,2,8,0.6,1.79
+1121,2021-04-01,405395,607481,,ball,3,"Albert Pujols grounds out, third baseman Yoan Moncada to first baseman Jose Abreu.   Shohei Ohtani scores.    Mike Trout to 3rd.    Justin Upton to 2nd.",0,0,1,1,8,0.73,3.44
+1122,2021-04-01,405395,676051,field_out,hit_into_play,1,Albert Pujols pops out to second baseman Nick Madrigal.,0,0,0,1,7,-0.47,3.15

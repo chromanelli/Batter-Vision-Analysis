@@ -1,0 +1,425 @@
+,game_date,batter,pitcher,events,description,zone,des,balls,strikes,outs_when_up,pitch_number,inning,plate_x,plate_z
+0,2021-08-29,622100,621368,strikeout,foul_tip,9,Taylor Jones strikes out on a foul tip.,3,2,1,6,6,0.41,2.09
+1,2021-08-29,622100,621368,,ball,14,Taylor Jones strikes out on a foul tip.,2,2,1,5,6,1.41,1.47
+2,2021-08-29,622100,621368,,ball,11,Taylor Jones strikes out on a foul tip.,1,2,1,4,6,-1.15,3.16
+3,2021-08-29,622100,621368,,swinging_strike,11,Taylor Jones strikes out on a foul tip.,1,1,1,3,6,-0.38,4.02
+4,2021-08-29,622100,621368,,ball,14,Taylor Jones strikes out on a foul tip.,0,1,1,2,6,1.11,2.25
+5,2021-08-29,622100,621368,,called_strike,14,Taylor Jones strikes out on a foul tip.,0,0,1,1,6,0.91,2.02
+6,2021-08-29,622100,605194,field_out,hit_into_play,13,Taylor Jones flies out to left fielder Jason Martin.,1,2,1,5,8,-0.31,1.59
+7,2021-08-29,622100,605194,,foul,4,Taylor Jones flies out to left fielder Jason Martin.,1,2,1,4,8,-0.4,2.9
+8,2021-08-29,622100,605194,,ball,14,Taylor Jones flies out to left fielder Jason Martin.,0,2,1,3,8,0.57,1.2
+9,2021-08-29,622100,605194,,swinging_strike,12,Taylor Jones flies out to left fielder Jason Martin.,0,1,1,2,8,1.06,2.92
+10,2021-08-29,622100,605194,,called_strike,14,Taylor Jones flies out to left fielder Jason Martin.,0,0,1,1,8,0.92,2.38
+11,2021-08-24,622100,663903,single,hit_into_play,4,Taylor Jones singles on a line drive to right fielder Jarrod Dyson.,3,2,0,6,4,-0.74,2.82
+12,2021-08-24,622100,663903,,ball,14,Taylor Jones singles on a line drive to right fielder Jarrod Dyson.,2,2,0,5,4,1.01,1.98
+13,2021-08-24,622100,663903,,ball,14,Taylor Jones singles on a line drive to right fielder Jarrod Dyson.,1,2,0,4,4,1.21,1.19
+14,2021-08-24,622100,663903,,called_strike,7,Taylor Jones singles on a line drive to right fielder Jarrod Dyson.,1,1,0,3,4,-0.5,2.11
+15,2021-08-24,622100,663903,,called_strike,6,Taylor Jones singles on a line drive to right fielder Jarrod Dyson.,1,0,0,2,4,0.77,3.08
+16,2021-08-24,622100,663903,,ball,14,Taylor Jones singles on a line drive to right fielder Jarrod Dyson.,0,0,0,1,4,1.13,0.91
+17,2021-08-24,622100,663903,single,hit_into_play,5,Taylor Jones singles on a sharp ground ball to right fielder Jarrod Dyson.,0,2,1,3,2,-0.02,2.52
+18,2021-08-24,622100,663903,,called_strike,6,Taylor Jones singles on a sharp ground ball to right fielder Jarrod Dyson.,0,1,1,2,2,0.59,2.82
+19,2021-08-24,622100,663903,,foul,6,Taylor Jones singles on a sharp ground ball to right fielder Jarrod Dyson.,0,0,1,1,2,0.79,2.49
+20,2021-08-24,622100,451584,strikeout,swinging_strike,2,Taylor Jones strikes out swinging.,1,2,1,4,8,-0.24,3.59
+21,2021-08-24,622100,451584,,foul,14,Taylor Jones strikes out swinging.,1,1,1,3,8,0.88,2.44
+22,2021-08-24,622100,451584,,ball,9,Taylor Jones strikes out swinging.,0,1,1,2,8,0.76,1.89
+23,2021-08-24,622100,429722,strikeout,swinging_strike,5,Taylor Jones strikes out swinging.,2,2,0,5,6,0.03,3.0
+24,2021-08-24,622100,451584,,called_strike,6,Taylor Jones strikes out swinging.,0,0,1,1,8,0.36,2.54
+25,2021-08-24,622100,429722,,ball,14,Taylor Jones strikes out swinging.,1,2,0,4,6,1.09,0.81
+26,2021-08-24,622100,429722,,foul,4,Taylor Jones strikes out swinging.,1,1,0,3,6,-0.55,2.78
+27,2021-08-24,622100,429722,,swinging_strike,9,Taylor Jones strikes out swinging.,1,0,0,2,6,0.74,2.27
+28,2021-08-24,622100,429722,,ball,14,Taylor Jones strikes out swinging.,0,0,0,1,6,1.41,2.32
+29,2021-08-23,622100,663738,strikeout,swinging_strike,13,Taylor Jones strikes out swinging.,1,2,0,4,5,-1.02,0.98
+30,2021-08-23,622100,663738,,ball,12,Taylor Jones strikes out swinging.,0,2,0,3,5,0.44,5.23
+31,2021-08-23,622100,663738,,foul,3,Taylor Jones strikes out swinging.,0,1,0,2,5,0.32,3.23
+32,2021-08-23,622100,663738,,called_strike,7,Taylor Jones strikes out swinging.,0,0,0,1,5,-0.52,1.89
+33,2021-08-23,622100,663738,single,hit_into_play,6,Taylor Jones singles on a ground ball to left fielder Andrew Benintendi.,1,2,0,4,3,0.46,2.39
+34,2021-08-23,622100,663738,,ball,12,Taylor Jones singles on a ground ball to left fielder Andrew Benintendi.,0,2,0,3,3,0.9,2.81
+35,2021-08-23,622100,663738,,swinging_strike,14,Taylor Jones singles on a ground ball to left fielder Andrew Benintendi.,0,1,0,2,3,1.15,2.47
+36,2021-08-23,622100,663738,,called_strike,8,Taylor Jones singles on a ground ball to left fielder Andrew Benintendi.,0,0,0,1,3,0.12,1.99
+37,2021-08-23,622100,622092,force_out,hit_into_play,8,"Taylor Jones grounds into a force out, shortstop Nicky Lopez to second baseman Whit Merrifield.   Jake Meyers out at 2nd.",0,0,2,1,8,0.2,2.18
+38,2021-08-23,622100,593619,grounded_into_double_play,hit_into_play,7,"Taylor Jones grounds into a double play, third baseman Emmanuel Rivera to second baseman Whit Merrifield to first baseman Carlos Santana.   Aledmys Diaz out at 2nd.    Taylor Jones out at 1st.",1,1,1,3,6,-0.49,1.85
+39,2021-08-23,622100,593619,,ball,14,"Taylor Jones grounds into a double play, third baseman Emmanuel Rivera to second baseman Whit Merrifield to first baseman Carlos Santana.   Aledmys Diaz out at 2nd.    Taylor Jones out at 1st.",0,1,1,2,6,0.38,1.44
+40,2021-08-23,622100,593619,,called_strike,13,"Taylor Jones grounds into a double play, third baseman Emmanuel Rivera to second baseman Whit Merrifield to first baseman Carlos Santana.   Aledmys Diaz out at 2nd.    Taylor Jones out at 1st.",0,0,1,1,6,-0.83,1.94
+41,2021-08-22,622100,542881,strikeout,swinging_strike,13,Taylor Jones strikes out swinging.,0,2,0,3,4,-0.96,2.0
+42,2021-08-22,622100,542881,,foul,8,Taylor Jones strikes out swinging.,0,1,0,2,4,-0.12,1.88
+43,2021-08-22,622100,542881,,foul,5,Taylor Jones strikes out swinging.,0,0,0,1,4,-0.19,2.61
+44,2021-08-22,622100,542881,double,hit_into_play,5,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,3,2,2,9,2,-0.01,2.72
+45,2021-08-22,622100,542881,,foul,6,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,3,2,2,8,2,0.52,2.97
+46,2021-08-22,622100,542881,,foul,8,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,3,2,2,7,2,-0.15,1.67
+47,2021-08-22,622100,542881,,ball,12,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,2,2,2,6,2,1.5,2.79
+48,2021-08-22,622100,542881,,foul,14,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,2,2,2,5,2,0.37,1.63
+49,2021-08-22,622100,542881,,ball,13,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,1,2,2,4,2,-1.15,2.4
+50,2021-08-22,622100,542881,,swinging_strike,9,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,1,1,2,3,2,0.41,2.2
+51,2021-08-22,622100,542881,,ball,14,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,0,1,2,2,2,0.66,0.98
+52,2021-08-22,622100,542881,,called_strike,8,Taylor Jones doubles (8) on a sharp ground ball to left fielder Dylan Moore.   Yuli Gurriel scores.,0,0,2,1,2,0.12,1.99
+53,2021-08-22,622100,608716,field_out,hit_into_play,7,Taylor Jones grounds out sharply to first baseman Ty France.,3,2,1,7,9,-0.69,2.36
+54,2021-08-22,622100,608716,,foul,12,Taylor Jones grounds out sharply to first baseman Ty France.,3,2,1,6,9,0.83,3.48
+55,2021-08-22,622100,608716,,ball,14,Taylor Jones grounds out sharply to first baseman Ty France.,2,2,1,5,9,1.01,0.71
+56,2021-08-22,622100,608716,,ball,12,Taylor Jones grounds out sharply to first baseman Ty France.,1,2,1,4,9,1.0,3.04
+57,2021-08-22,622100,608716,,swinging_strike,1,Taylor Jones grounds out sharply to first baseman Ty France.,1,1,1,3,9,-0.33,3.82
+58,2021-08-22,622100,608716,,ball,14,Taylor Jones grounds out sharply to first baseman Ty France.,0,1,1,2,9,1.84,1.33
+59,2021-08-22,622100,608716,,foul,8,Taylor Jones grounds out sharply to first baseman Ty France.,0,0,1,1,9,-0.17,1.82
+60,2021-08-22,622100,641871,single,hit_into_play,5,Taylor Jones singles on a sharp line drive to right fielder Mitch Haniger.   Jake Meyers to 2nd.,1,2,1,4,11,0.27,2.59
+61,2021-08-22,622100,641871,,ball,14,Taylor Jones singles on a sharp line drive to right fielder Mitch Haniger.   Jake Meyers to 2nd.,0,2,1,3,11,1.51,1.56
+62,2021-08-22,622100,641871,,swinging_strike,13,Taylor Jones singles on a sharp line drive to right fielder Mitch Haniger.   Jake Meyers to 2nd.,0,1,1,2,11,-0.94,2.23
+63,2021-08-22,622100,501925,strikeout,swinging_strike,13,Taylor Jones strikes out swinging.,0,2,1,3,6,-1.24,1.66
+64,2021-08-22,622100,641871,,foul,5,Taylor Jones singles on a sharp line drive to right fielder Mitch Haniger.   Jake Meyers to 2nd.,0,0,1,1,11,0.24,3.05
+65,2021-08-22,622100,501925,,swinging_strike,14,Taylor Jones strikes out swinging.,0,1,1,2,6,0.84,2.34
+66,2021-08-22,622100,501925,,called_strike,4,Taylor Jones strikes out swinging.,0,0,1,1,6,-0.33,2.37
+67,2021-08-21,622100,667498,field_out,hit_into_play,5,Taylor Jones pops out to first baseman Jake Bauers.,0,2,2,3,8,0.04,2.82
+68,2021-08-21,622100,667498,,foul,14,Taylor Jones pops out to first baseman Jake Bauers.,0,1,2,2,8,0.93,1.36
+69,2021-08-21,622100,667498,,swinging_strike,14,Taylor Jones pops out to first baseman Jake Bauers.,0,0,2,1,8,1.33,2.03
+70,2021-08-21,622100,669302,home_run,hit_into_play,7,Taylor Jones homers (2) on a fly ball to left center field.,0,1,0,2,4,-0.42,2.2
+71,2021-08-21,622100,669302,,called_strike,1,Taylor Jones homers (2) on a fly ball to left center field.,0,0,0,1,4,-0.68,3.06
+72,2021-08-21,622100,667498,triple,hit_into_play,5,Taylor Jones triples (1) on a sharp line drive to right fielder Mitch Haniger.   Yordan Alvarez scores.    Yuli Gurriel scores.,0,0,1,1,6,-0.11,2.56
+73,2021-08-21,622100,669302,field_out,hit_into_play,1,Taylor Jones flies out to right fielder Mitch Haniger.,0,0,1,1,2,-0.38,3.45
+74,2021-08-21,622100,667498,double,hit_into_play,11,Taylor Jones doubles (7) on a ground ball to left fielder Jake Fraley.   Michael Brantley scores.    Yuli Gurriel to 3rd.,3,2,2,6,5,-0.94,3.05
+75,2021-08-21,622100,667498,,ball,11,Taylor Jones doubles (7) on a ground ball to left fielder Jake Fraley.   Michael Brantley scores.    Yuli Gurriel to 3rd.,2,2,2,5,5,-0.95,5.12
+76,2021-08-21,622100,667498,,foul,8,Taylor Jones doubles (7) on a ground ball to left fielder Jake Fraley.   Michael Brantley scores.    Yuli Gurriel to 3rd.,2,1,2,4,5,0.14,2.3
+77,2021-08-21,622100,667498,,ball,13,Taylor Jones doubles (7) on a ground ball to left fielder Jake Fraley.   Michael Brantley scores.    Yuli Gurriel to 3rd.,1,1,2,3,5,-0.34,1.21
+78,2021-08-21,622100,667498,,called_strike,8,Taylor Jones doubles (7) on a ground ball to left fielder Jake Fraley.   Michael Brantley scores.    Yuli Gurriel to 3rd.,1,0,2,2,5,0.23,1.83
+79,2021-08-21,622100,667498,,ball,14,Taylor Jones doubles (7) on a ground ball to left fielder Jake Fraley.   Michael Brantley scores.    Yuli Gurriel to 3rd.,0,0,2,1,5,0.24,1.55
+80,2021-08-20,622100,670990,strikeout,swinging_strike,5,Taylor Jones strikes out swinging.,1,2,1,4,7,-0.14,2.38
+81,2021-08-20,622100,670990,,called_strike,8,Taylor Jones strikes out swinging.,1,1,1,3,7,-0.19,2.03
+82,2021-08-20,622100,670990,,ball,7,Taylor Jones strikes out swinging.,0,1,1,2,7,-0.6,1.6
+83,2021-08-20,622100,670990,,called_strike,5,Taylor Jones strikes out swinging.,0,0,1,1,7,0.23,2.27
+84,2021-08-19,622100,429722,sac_fly_double_play,hit_into_play,6,"Taylor Jones flies into a sacrifice double play, left fielder Andrew Benintendi to third baseman Hunter Dozier.   Carlos Correa scores.    Aledmys Diaz out at 3rd.",1,0,1,2,10,0.29,2.39
+85,2021-08-19,622100,429722,,ball,14,"Taylor Jones flies into a sacrifice double play, left fielder Andrew Benintendi to third baseman Hunter Dozier.   Carlos Correa scores.    Aledmys Diaz out at 3rd.",0,0,1,1,10,0.77,1.25
+86,2021-08-17,622100,663738,strikeout,swinging_strike,14,Taylor Jones strikes out swinging.,1,2,2,4,7,0.76,1.29
+87,2021-08-17,622100,663738,,ball,12,Taylor Jones strikes out swinging.,0,2,2,3,7,0.29,4.37
+88,2021-08-17,622100,663738,,foul,6,Taylor Jones strikes out swinging.,0,1,2,2,7,0.72,3.09
+89,2021-08-17,622100,663738,,swinging_strike,9,Taylor Jones strikes out swinging.,0,0,2,1,7,0.39,2.3
+90,2021-08-17,622100,663738,field_out,hit_into_play,2,Taylor Jones flies out to right fielder Hunter Dozier.,1,2,0,4,5,-0.05,3.38
+91,2021-08-17,622100,663738,,foul,2,Taylor Jones flies out to right fielder Hunter Dozier.,1,1,0,3,5,-0.17,3.75
+92,2021-08-17,622100,663738,,ball,14,Taylor Jones flies out to right fielder Hunter Dozier.,0,1,0,2,5,0.56,0.72
+93,2021-08-17,622100,663738,,swinging_strike,6,Taylor Jones flies out to right fielder Hunter Dozier.,0,0,0,1,5,0.74,2.85
+94,2021-08-17,622100,663738,strikeout,swinging_strike,14,Taylor Jones strikes out swinging.,1,2,2,4,2,0.83,1.04
+95,2021-08-17,622100,663738,,swinging_strike,14,Taylor Jones strikes out swinging.,1,1,2,3,2,0.79,1.44
+96,2021-08-17,622100,663738,,called_strike,7,Taylor Jones strikes out swinging.,1,0,2,2,2,-0.74,1.87
+97,2021-08-17,622100,663738,,ball,11,Taylor Jones strikes out swinging.,0,0,2,1,2,-1.39,3.21
+98,2021-08-16,622100,641394,double,hit_into_play,8,Taylor Jones doubles (6) on a line drive to left fielder Andrew Benintendi.,3,2,1,7,8,0.26,2.02
+99,2021-08-16,622100,641394,,ball,12,Taylor Jones doubles (6) on a line drive to left fielder Andrew Benintendi.,2,2,1,6,8,1.39,2.87
+100,2021-08-16,622100,641394,,foul,7,Taylor Jones doubles (6) on a line drive to left fielder Andrew Benintendi.,2,2,1,5,8,-0.7,1.94
+101,2021-08-16,622100,641394,,ball,12,Taylor Jones doubles (6) on a line drive to left fielder Andrew Benintendi.,1,2,1,4,8,1.37,2.82
+102,2021-08-16,622100,641394,,swinging_strike,6,Taylor Jones doubles (6) on a line drive to left fielder Andrew Benintendi.,1,1,1,3,8,0.68,3.06
+103,2021-08-16,622100,641394,,ball,13,Taylor Jones doubles (6) on a line drive to left fielder Andrew Benintendi.,0,1,1,2,8,-1.7,2.17
+104,2021-08-16,622100,641394,,swinging_strike,2,Taylor Jones doubles (6) on a line drive to left fielder Andrew Benintendi.,0,0,1,1,8,0.03,3.69
+105,2021-08-11,622100,622608,field_out,hit_into_play,5,Taylor Jones lines out sharply to center fielder Garrett Hampson.   Jake Meyers to 3rd.,2,1,0,4,6,0.01,2.6
+106,2021-08-11,622100,622608,,ball,14,Taylor Jones lines out sharply to center fielder Garrett Hampson.   Jake Meyers to 3rd.,1,1,0,3,6,0.97,1.56
+107,2021-08-11,622100,622608,,ball,13,Taylor Jones lines out sharply to center fielder Garrett Hampson.   Jake Meyers to 3rd.,0,1,0,2,6,-0.66,1.42
+108,2021-08-11,622100,622608,,called_strike,9,Taylor Jones lines out sharply to center fielder Garrett Hampson.   Jake Meyers to 3rd.,0,0,0,1,6,0.6,2.41
+109,2021-08-11,622100,622608,field_out,hit_into_play,5,"Taylor Jones grounds out, third baseman Taylor Motter to first baseman Connor Joe.",0,0,0,1,4,-0.24,2.88
+110,2021-08-11,622100,622608,single,hit_into_play,7,Taylor Jones singles on a sharp line drive to left fielder Sam Hilliard.,0,0,1,1,2,-0.3,1.83
+111,2021-08-11,622100,641755,field_out,hit_into_play,9,"Taylor Jones grounds out, second baseman Ryan McMahon to first baseman Connor Joe.",0,1,0,2,8,0.43,2.38
+112,2021-08-11,622100,641755,,called_strike,7,"Taylor Jones grounds out, second baseman Ryan McMahon to first baseman Connor Joe.",0,0,0,1,8,-0.4,2.23
+113,2021-08-10,622100,592351,double,hit_into_play,5,"Taylor Jones doubles (4) on a line drive to right fielder Charlie Blackmon.   Carlos Correa scores.    Chas McCormick scores.    Taylor Jones to 3rd.  Taylor Jones advances to 3rd, on a throwing error by right fielder Charlie Blackmon.",0,1,2,2,4,0.15,2.48
+114,2021-08-10,622100,592351,,called_strike,9,"Taylor Jones doubles (4) on a line drive to right fielder Charlie Blackmon.   Carlos Correa scores.    Chas McCormick scores.    Taylor Jones to 3rd.  Taylor Jones advances to 3rd, on a throwing error by right fielder Charlie Blackmon.",0,0,2,1,4,0.58,2.25
+115,2021-08-10,622100,592351,strikeout,swinging_strike,14,Taylor Jones strikes out swinging.,1,2,2,6,2,1.5,0.9
+116,2021-08-10,622100,592351,,foul,14,Taylor Jones strikes out swinging.,1,2,2,5,2,0.46,1.45
+117,2021-08-10,622100,592351,,ball,12,Taylor Jones strikes out swinging.,0,2,2,4,2,0.0,4.12
+118,2021-08-10,622100,592351,,foul,1,Taylor Jones strikes out swinging.,0,2,2,3,2,-0.33,3.85
+119,2021-08-10,622100,592351,,foul,9,Taylor Jones strikes out swinging.,0,1,2,2,2,0.7,1.66
+120,2021-08-10,622100,592351,,called_strike,2,Taylor Jones strikes out swinging.,0,0,2,1,2,-0.18,3.39
+121,2021-08-10,622100,622075,strikeout,called_strike,9,Taylor Jones called out on strikes.,2,2,1,5,8,0.71,1.87
+122,2021-08-10,622100,622075,,ball,14,Taylor Jones called out on strikes.,1,2,1,4,8,0.79,0.93
+123,2021-08-10,622100,622075,,ball,14,Taylor Jones called out on strikes.,0,2,1,3,8,1.23,0.44
+124,2021-08-10,622100,622075,,called_strike,13,Taylor Jones called out on strikes.,0,1,1,2,8,-0.05,1.38
+125,2021-08-10,622100,622075,,called_strike,8,Taylor Jones called out on strikes.,0,0,1,1,8,-0.26,2.28
+126,2021-08-10,622100,596112,double,hit_into_play,5,Taylor Jones doubles (5) on a line drive to left fielder Connor Joe.,0,0,1,1,6,-0.08,2.56
+127,2021-08-08,622100,628317,single,hit_into_play,14,"Astros challenged (play at 1st), call on the field was overturned: Taylor Jones singles on a ground ball to second baseman Jorge Polanco.   Yordan Alvarez scores.    Kyle Tucker to 3rd.  Throwing error by first baseman Miguel Sano.",1,1,2,3,4,0.55,1.41
+128,2021-08-08,622100,628317,,swinging_strike,14,"Astros challenged (play at 1st), call on the field was overturned: Taylor Jones singles on a ground ball to second baseman Jorge Polanco.   Yordan Alvarez scores.    Kyle Tucker to 3rd.  Throwing error by first baseman Miguel Sano.",1,0,2,2,4,0.4,1.41
+129,2021-08-08,622100,628317,,ball,14,"Astros challenged (play at 1st), call on the field was overturned: Taylor Jones singles on a ground ball to second baseman Jorge Polanco.   Yordan Alvarez scores.    Kyle Tucker to 3rd.  Throwing error by first baseman Miguel Sano.",0,0,2,1,4,1.45,1.99
+130,2021-08-08,622100,628317,field_out,hit_into_play,5,"Taylor Jones grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,1,1,2,0.09,2.52
+131,2021-08-08,622100,660896,field_out,hit_into_play,5,Taylor Jones pops out to shortstop Andrelton Simmons.,2,2,1,6,8,0.12,2.47
+132,2021-08-08,622100,660896,,foul,8,Taylor Jones pops out to shortstop Andrelton Simmons.,2,2,1,5,8,0.16,1.72
+133,2021-08-08,622100,660896,,ball,12,Taylor Jones pops out to shortstop Andrelton Simmons.,1,2,1,4,8,0.28,3.81
+134,2021-08-08,622100,660896,,ball,14,Taylor Jones pops out to shortstop Andrelton Simmons.,0,2,1,3,8,1.33,1.77
+135,2021-08-08,622100,660896,,swinging_strike,14,Taylor Jones pops out to shortstop Andrelton Simmons.,0,1,1,2,8,1.41,1.97
+136,2021-08-08,622100,660896,,called_strike,7,Taylor Jones pops out to shortstop Andrelton Simmons.,0,0,1,1,8,-0.48,1.69
+137,2021-08-08,622100,573668,single,hit_into_play,5,Taylor Jones singles on a ground ball to center fielder Rob Refsnyder.,0,0,1,1,6,-0.02,2.92
+138,2021-08-07,622100,501381,field_out,hit_into_play,9,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.",2,2,1,5,5,0.32,1.84
+139,2021-08-07,622100,501381,,ball,14,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.",1,2,1,4,5,1.06,1.15
+140,2021-08-07,622100,501381,,ball,14,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.",0,2,1,3,5,1.1,-0.04
+141,2021-08-07,622100,501381,,called_strike,9,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.",0,1,1,2,5,0.31,1.83
+142,2021-08-07,622100,501381,,called_strike,14,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Miguel Sano.",0,0,1,1,5,0.19,1.45
+143,2021-08-07,622100,501381,field_out,hit_into_play,8,Taylor Jones flies out to left fielder Trevor Larnach.,2,2,2,5,2,-0.11,1.81
+144,2021-08-07,622100,501381,,foul,1,Taylor Jones flies out to left fielder Trevor Larnach.,2,1,2,4,2,-0.31,3.4
+145,2021-08-07,622100,501381,,ball,14,Taylor Jones flies out to left fielder Trevor Larnach.,1,1,2,3,2,0.23,0.93
+146,2021-08-07,622100,501381,,foul,7,Taylor Jones flies out to left fielder Trevor Larnach.,1,0,2,2,2,-0.56,1.84
+147,2021-08-07,622100,501381,,ball,14,Taylor Jones flies out to left fielder Trevor Larnach.,0,0,2,1,2,0.62,1.29
+148,2021-08-07,622100,607231,strikeout,swinging_strike,12,Taylor Jones strikes out swinging.,0,2,1,5,7,0.99,3.48
+149,2021-08-07,622100,607231,,foul,14,Taylor Jones strikes out swinging.,0,2,1,4,7,1.02,1.43
+150,2021-08-07,622100,607231,,foul,5,Taylor Jones strikes out swinging.,0,2,1,3,7,0.18,2.94
+151,2021-08-07,622100,607231,,called_strike,8,Taylor Jones strikes out swinging.,0,1,1,2,7,0.11,1.76
+152,2021-08-07,622100,607231,,swinging_strike,14,Taylor Jones strikes out swinging.,0,0,1,1,7,0.16,1.61
+153,2021-08-06,622100,641927,field_out,hit_into_play,5,Taylor Jones lines out sharply to center fielder Rob Refsnyder.,0,0,1,1,4,0.09,2.91
+154,2021-08-06,622100,641927,home_run,hit_into_play,6,Taylor Jones homers (1) on a fly ball to right center field.    Chas McCormick scores.,0,0,2,1,2,0.54,3.03
+155,2021-08-06,622100,607231,field_out,hit_into_play,8,"Taylor Jones grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",2,2,2,6,6,0.27,2.16
+156,2021-08-06,622100,607231,,foul,4,"Taylor Jones grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",2,2,2,5,6,-0.79,2.87
+157,2021-08-06,622100,607231,,called_strike,9,"Taylor Jones grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",2,1,2,4,6,0.29,1.79
+158,2021-08-06,622100,607231,,ball,14,"Taylor Jones grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",1,1,2,3,6,0.91,0.89
+159,2021-08-06,622100,607231,,foul,13,"Taylor Jones grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",1,0,2,2,6,-0.98,2.44
+160,2021-08-06,622100,607231,,ball,14,"Taylor Jones grounds out, third baseman Josh Donaldson to first baseman Miguel Sano.",0,0,2,1,6,1.59,0.77
+161,2021-08-06,622100,573668,field_out,hit_into_play,11,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Mitch Garver.",0,2,1,3,11,-1.24,3.12
+162,2021-08-06,622100,573668,,called_strike,5,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Mitch Garver.",0,1,1,2,11,-0.02,2.86
+163,2021-08-06,622100,573668,,foul,13,"Taylor Jones grounds out, shortstop Andrelton Simmons to first baseman Mitch Garver.",0,0,1,1,11,-0.99,2.7
+164,2021-08-06,622100,517008,field_out,hit_into_play,6,Taylor Jones flies out to left fielder Brent Rooker.,2,2,0,6,9,0.56,2.5
+165,2021-08-06,622100,517008,,foul,5,Taylor Jones flies out to left fielder Brent Rooker.,2,2,0,5,9,0.2,2.88
+166,2021-08-06,622100,517008,,foul,13,Taylor Jones flies out to left fielder Brent Rooker.,2,1,0,4,9,-0.17,1.37
+167,2021-08-06,622100,517008,,called_strike,3,Taylor Jones flies out to left fielder Brent Rooker.,2,0,0,3,9,0.69,3.41
+168,2021-08-06,622100,517008,,ball,14,Taylor Jones flies out to left fielder Brent Rooker.,1,0,0,2,9,1.41,1.46
+169,2021-08-06,622100,517008,,ball,14,Taylor Jones flies out to left fielder Brent Rooker.,0,0,0,1,9,0.52,1.21
+170,2021-07-04,622100,615698,field_out,hit_into_play,13,"Taylor Jones grounds out sharply, third baseman Ernie Clement to first baseman Bobby Bradley.",1,1,0,3,5,-0.8,1.6
+171,2021-07-04,622100,615698,,ball,13,"Taylor Jones grounds out sharply, third baseman Ernie Clement to first baseman Bobby Bradley.",0,1,0,2,5,-1.11,1.62
+172,2021-07-04,622100,615698,,foul,11,"Taylor Jones grounds out sharply, third baseman Ernie Clement to first baseman Bobby Bradley.",0,0,0,1,5,-1.38,3.48
+173,2021-07-04,622100,615698,strikeout,called_strike,6,Taylor Jones called out on strikes.,3,2,0,6,3,0.58,2.77
+174,2021-07-04,622100,615698,,ball,13,Taylor Jones called out on strikes.,2,2,0,5,3,-0.41,1.12
+175,2021-07-04,622100,615698,,ball,14,Taylor Jones called out on strikes.,1,2,0,4,3,1.29,1.05
+176,2021-07-04,622100,615698,,called_strike,9,Taylor Jones called out on strikes.,1,1,0,3,3,0.68,1.84
+177,2021-07-04,622100,615698,,called_strike,1,Taylor Jones called out on strikes.,1,0,0,2,3,-0.57,3.53
+178,2021-07-04,622100,615698,,ball,11,Taylor Jones called out on strikes.,0,0,0,1,3,-0.69,3.75
+179,2021-07-04,622100,543766,field_out,hit_into_play,4,Taylor Jones flies out to right fielder Harold Ramirez.,3,1,2,5,8,-0.37,2.98
+180,2021-07-04,622100,543766,,ball,12,Taylor Jones flies out to right fielder Harold Ramirez.,2,1,2,4,8,1.31,3.13
+181,2021-07-04,622100,543766,,ball,12,Taylor Jones flies out to right fielder Harold Ramirez.,1,1,2,3,8,0.86,3.86
+182,2021-07-04,622100,543766,,foul,2,Taylor Jones flies out to right fielder Harold Ramirez.,1,0,2,2,8,-0.04,3.3
+183,2021-07-04,622100,543766,,blocked_ball,14,Taylor Jones flies out to right fielder Harold Ramirez.,0,0,2,1,8,1.25,0.62
+184,2021-07-04,622100,664208,field_out,hit_into_play,5,Taylor Jones flies out to left fielder Eddie Rosario.,1,1,2,3,6,-0.1,2.43
+185,2021-07-04,622100,664208,,ball,14,Taylor Jones flies out to left fielder Eddie Rosario.,0,1,2,2,6,1.45,1.47
+186,2021-07-04,622100,664208,,called_strike,6,Taylor Jones flies out to left fielder Eddie Rosario.,0,0,2,1,6,0.43,2.27
+187,2021-07-03,622100,669212,field_out,hit_into_play,9,Taylor Jones flies out to right fielder Harold Ramirez.,3,2,1,6,4,0.33,2.1
+188,2021-07-03,622100,669212,,ball,13,Taylor Jones flies out to right fielder Harold Ramirez.,2,2,1,5,4,-0.26,0.61
+189,2021-07-03,622100,669212,,ball,14,Taylor Jones flies out to right fielder Harold Ramirez.,1,2,1,4,4,1.95,1.72
+190,2021-07-03,622100,669212,,swinging_strike,7,Taylor Jones flies out to right fielder Harold Ramirez.,1,1,1,3,4,-0.72,1.98
+191,2021-07-03,622100,669212,,ball,14,Taylor Jones flies out to right fielder Harold Ramirez.,0,1,1,2,4,1.17,2.43
+192,2021-07-03,622100,669212,,swinging_strike,14,Taylor Jones flies out to right fielder Harold Ramirez.,0,0,1,1,4,1.33,1.14
+193,2021-07-03,622100,669212,strikeout,swinging_strike,13,Taylor Jones strikes out swinging.,2,2,0,5,2,-0.86,2.32
+194,2021-07-03,622100,669212,,called_strike,14,Taylor Jones strikes out swinging.,2,1,0,4,2,0.26,1.5
+195,2021-07-03,622100,669212,,ball,14,Taylor Jones strikes out swinging.,1,1,0,3,2,1.45,2.42
+196,2021-07-03,622100,669212,,foul,8,Taylor Jones strikes out swinging.,1,0,0,2,2,-0.03,1.79
+197,2021-07-03,622100,669212,,ball,11,Taylor Jones strikes out swinging.,0,0,0,1,2,-0.01,4.24
+198,2021-07-03,622100,453284,walk,ball,14,Taylor Jones walks.   Abraham Toro to 2nd.,3,2,2,7,6,0.08,1.23
+199,2021-07-03,622100,453284,,foul,9,Taylor Jones walks.   Abraham Toro to 2nd.,3,2,2,6,6,0.51,1.72
+200,2021-07-03,622100,453284,,blocked_ball,14,Taylor Jones walks.   Abraham Toro to 2nd.,2,2,2,5,6,1.18,0.43
+201,2021-07-03,622100,453284,,called_strike,7,Taylor Jones walks.   Abraham Toro to 2nd.,2,1,2,4,6,-0.65,2.22
+202,2021-07-03,622100,453284,,blocked_ball,14,Taylor Jones walks.   Abraham Toro to 2nd.,1,1,2,3,6,0.63,0.54
+203,2021-07-03,622100,453284,,ball,11,Taylor Jones walks.   Abraham Toro to 2nd.,0,1,2,2,6,-0.99,3.51
+204,2021-07-03,622100,453284,,swinging_strike,8,Taylor Jones walks.   Abraham Toro to 2nd.,0,0,2,1,6,-0.19,2.25
+205,2021-07-03,622100,675916,field_out,hit_into_play,14,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",2,2,2,6,8,0.81,1.21
+206,2021-07-03,622100,675916,,ball,14,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",1,2,2,5,8,1.09,1.28
+207,2021-07-03,622100,675916,,foul,3,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",1,2,2,4,8,0.52,3.31
+208,2021-07-03,622100,675916,,foul,5,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",1,1,2,3,8,-0.27,2.57
+209,2021-07-03,622100,675916,,blocked_ball,14,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",0,1,2,2,8,0.85,0.86
+210,2021-07-03,622100,675916,,called_strike,6,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",0,0,2,1,8,0.36,2.67
+211,2021-07-02,622100,656529,single,hit_into_play,9,Taylor Jones singles on a ground ball to right fielder Harold Ramirez.   Abraham Toro to 2nd.,1,1,2,3,3,0.5,1.75
+212,2021-07-02,622100,656529,,ball,3,Taylor Jones singles on a ground ball to right fielder Harold Ramirez.   Abraham Toro to 2nd.,0,1,2,2,3,0.51,3.6
+213,2021-07-02,622100,656529,,foul,4,Taylor Jones singles on a ground ball to right fielder Harold Ramirez.   Abraham Toro to 2nd.,0,0,2,1,3,-0.39,2.44
+214,2021-07-02,622100,656529,double,hit_into_play,2,Taylor Jones doubles (3) on a fly ball to right fielder Harold Ramirez.   Chas McCormick scores.,1,1,1,3,2,-0.26,3.33
+215,2021-07-02,622100,656529,,swinging_strike,7,Taylor Jones doubles (3) on a fly ball to right fielder Harold Ramirez.   Chas McCormick scores.,1,0,1,2,2,-0.64,1.99
+216,2021-07-02,622100,656529,,ball,13,Taylor Jones doubles (3) on a fly ball to right fielder Harold Ramirez.   Chas McCormick scores.,0,0,1,1,2,-0.16,1.28
+217,2021-07-02,622100,543766,grounded_into_double_play,hit_into_play,9,"Taylor Jones grounds into a double play, second baseman Cesar Hernandez to shortstop Amed Rosario to first baseman Bobby Bradley.   Abraham Toro to 3rd.    Chas McCormick out at 2nd.    Taylor Jones out at 1st.",2,2,0,6,8,0.33,1.88
+218,2021-07-02,622100,543766,,foul,11,"Taylor Jones grounds into a double play, second baseman Cesar Hernandez to shortstop Amed Rosario to first baseman Bobby Bradley.   Abraham Toro to 3rd.    Chas McCormick out at 2nd.    Taylor Jones out at 1st.",2,2,0,5,8,-0.3,3.93
+219,2021-07-02,622100,543766,,swinging_strike,2,"Taylor Jones grounds into a double play, second baseman Cesar Hernandez to shortstop Amed Rosario to first baseman Bobby Bradley.   Abraham Toro to 3rd.    Chas McCormick out at 2nd.    Taylor Jones out at 1st.",2,1,0,4,8,0.05,3.22
+220,2021-07-02,622100,543766,,blocked_ball,14,"Taylor Jones grounds into a double play, second baseman Cesar Hernandez to shortstop Amed Rosario to first baseman Bobby Bradley.   Abraham Toro to 3rd.    Chas McCormick out at 2nd.    Taylor Jones out at 1st.",1,1,0,3,8,1.66,0.2
+221,2021-07-02,622100,543766,,foul,6,"Taylor Jones grounds into a double play, second baseman Cesar Hernandez to shortstop Amed Rosario to first baseman Bobby Bradley.   Abraham Toro to 3rd.    Chas McCormick out at 2nd.    Taylor Jones out at 1st.",1,0,0,2,8,0.45,2.76
+222,2021-07-02,622100,543766,,ball,14,"Taylor Jones grounds into a double play, second baseman Cesar Hernandez to shortstop Amed Rosario to first baseman Bobby Bradley.   Abraham Toro to 3rd.    Chas McCormick out at 2nd.    Taylor Jones out at 1st.",0,0,0,1,8,0.49,1.06
+223,2021-07-02,622100,621295,field_out,hit_into_play,9,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",3,2,0,7,6,0.75,1.88
+224,2021-07-02,622100,621295,,foul,14,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",3,2,0,6,6,0.84,2.21
+225,2021-07-02,622100,621295,,ball,13,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",2,2,0,5,6,-1.07,2.33
+226,2021-07-02,622100,621295,,swinging_strike,8,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",2,1,0,4,6,-0.05,2.33
+227,2021-07-02,622100,621295,,called_strike,14,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",2,0,0,3,6,0.51,1.5
+228,2021-07-02,622100,621295,,ball,14,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",1,0,0,2,6,1.48,0.57
+229,2021-07-02,622100,621295,,ball,14,"Taylor Jones grounds out, shortstop Amed Rosario to first baseman Bobby Bradley.",0,0,0,1,6,0.76,1.49
+230,2021-06-23,622100,595263,field_out,hit_into_play,1,Taylor Jones pops out to shortstop Pat Valaika.,0,2,0,3,8,-0.81,3.18
+231,2021-06-23,622100,595263,,foul,7,Taylor Jones pops out to shortstop Pat Valaika.,0,1,0,2,8,-0.4,2.2
+232,2021-06-23,622100,595263,,foul,6,Taylor Jones pops out to shortstop Pat Valaika.,0,0,0,1,8,0.48,2.43
+233,2021-06-23,622100,622253,strikeout,called_strike,8,Taylor Jones called out on strikes.,2,2,1,7,9,0.24,1.52
+234,2021-06-23,622100,622253,,foul,8,Taylor Jones called out on strikes.,2,2,1,6,9,0.18,1.97
+235,2021-06-23,622100,622253,,foul,8,Taylor Jones called out on strikes.,2,2,1,5,9,0.03,2.28
+236,2021-06-23,622100,622253,,called_strike,2,Taylor Jones called out on strikes.,2,1,1,4,9,0.07,3.5
+237,2021-06-23,622100,622253,,ball,13,Taylor Jones called out on strikes.,1,1,1,3,9,-0.2,1.1
+238,2021-06-23,622100,622253,,ball,14,Taylor Jones called out on strikes.,0,1,1,2,9,0.81,1.6
+239,2021-06-23,622100,622253,,called_strike,9,Taylor Jones called out on strikes.,0,0,1,1,9,0.69,1.89
+240,2021-06-21,622100,669135,walk,ball,14,Taylor Jones walks.,3,0,2,4,8,0.93,0.8
+241,2021-06-21,622100,669135,,ball,14,Taylor Jones walks.,2,0,2,3,8,1.21,1.71
+242,2021-06-21,622100,669135,,ball,11,Taylor Jones walks.,1,0,2,2,8,-0.78,3.65
+243,2021-06-21,622100,669135,,ball,14,Taylor Jones walks.,0,0,2,1,8,0.09,1.42
+244,2021-06-20,622100,572971,double,hit_into_play,7,Taylor Jones doubles (2) on a sharp line drive to left fielder Andrew Vaughn.   Yordan Alvarez scores.    Abraham Toro to 3rd.,1,1,1,3,3,-0.79,1.91
+245,2021-06-20,622100,572971,,foul,4,Taylor Jones doubles (2) on a sharp line drive to left fielder Andrew Vaughn.   Yordan Alvarez scores.    Abraham Toro to 3rd.,1,0,1,2,3,-0.61,2.42
+246,2021-06-20,622100,572971,,ball,12,Taylor Jones doubles (2) on a sharp line drive to left fielder Andrew Vaughn.   Yordan Alvarez scores.    Abraham Toro to 3rd.,0,0,1,1,3,1.31,2.84
+247,2021-06-20,622100,641582,strikeout,swinging_strike,6,Taylor Jones strikes out swinging.,3,2,2,7,4,0.82,2.83
+248,2021-06-20,622100,641582,,ball,12,Taylor Jones strikes out swinging.,2,2,1,6,4,1.91,3.44
+249,2021-06-20,622100,641582,,foul,1,Taylor Jones strikes out swinging.,2,2,1,5,4,-0.67,3.39
+250,2021-06-20,622100,641582,,ball,12,Taylor Jones strikes out swinging.,1,2,1,4,4,1.34,3.6
+251,2021-06-20,622100,641582,,ball,12,Taylor Jones strikes out swinging.,0,2,1,3,4,0.15,3.66
+252,2021-06-20,622100,641582,,foul_tip,1,Taylor Jones strikes out swinging.,0,1,1,2,4,-0.43,3.84
+253,2021-06-20,622100,641582,,foul,2,Taylor Jones strikes out swinging.,0,0,1,1,4,0.09,3.15
+254,2021-06-20,622100,572971,force_out,hit_into_play,4,"Taylor Jones grounds into a force out, fielded by second baseman Danny Mendick.   Abraham Toro out at 2nd.",0,0,2,1,1,-0.52,3.07
+255,2021-06-20,622100,521230,field_out,hit_into_play,6,Taylor Jones flies out to right fielder Jake Lamb.,0,2,1,3,8,0.6,2.67
+256,2021-06-20,622100,521230,,foul,7,Taylor Jones flies out to right fielder Jake Lamb.,0,1,1,2,8,-0.56,2.12
+257,2021-06-20,622100,521230,,foul,3,Taylor Jones flies out to right fielder Jake Lamb.,0,0,1,1,8,0.64,3.14
+258,2021-06-20,622100,607481,single,hit_into_play,8,Taylor Jones singles on a ground ball to right fielder Jake Lamb.   Abraham Toro to 2nd.,0,0,0,1,6,0.08,2.18
+259,2021-06-13,622100,533167,field_out,hit_into_play,13,"Taylor Jones grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",1,2,0,5,9,-0.38,0.97
+260,2021-06-13,622100,533167,,ball,14,"Taylor Jones grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,2,0,4,9,1.01,0.33
+261,2021-06-13,622100,533167,,foul,6,"Taylor Jones grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,2,0,3,9,0.62,2.78
+262,2021-06-13,622100,533167,,swinging_strike,7,"Taylor Jones grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,1,0,2,9,-0.65,1.92
+263,2021-06-13,622100,533167,,swinging_strike,9,"Taylor Jones grounds out, second baseman Jorge Polanco to first baseman Miguel Sano.",0,0,0,1,9,0.36,2.1
+264,2021-06-10,622100,593958,strikeout,foul_tip,6,Taylor Jones strikes out on a foul tip.,3,2,1,6,4,0.74,2.86
+265,2021-06-10,622100,593958,,ball,12,Taylor Jones strikes out on a foul tip.,2,2,1,5,4,1.33,2.95
+266,2021-06-10,622100,593958,,called_strike,6,Taylor Jones strikes out on a foul tip.,2,1,1,4,4,0.69,2.34
+267,2021-06-10,622100,593958,,ball,14,Taylor Jones strikes out on a foul tip.,1,1,1,3,4,0.69,1.21
+268,2021-06-10,622100,593958,,foul,9,Taylor Jones strikes out on a foul tip.,1,0,1,2,4,0.54,2.19
+269,2021-06-10,622100,593958,,ball,12,Taylor Jones strikes out on a foul tip.,0,0,1,1,4,1.13,3.08
+270,2021-06-10,622100,593958,field_out,hit_into_play,9,"Taylor Jones grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,1,1,2,2,0.69,1.66
+271,2021-06-10,622100,593958,,called_strike,14,"Taylor Jones grounds out, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,0,1,1,2,0.92,1.98
+272,2021-06-10,622100,542882,field_out,hit_into_play,9,Taylor Jones flies out to right fielder Hunter Renfroe.,0,1,2,2,5,0.5,1.98
+273,2021-06-10,622100,542882,,foul,1,Taylor Jones flies out to right fielder Hunter Renfroe.,0,0,2,1,5,-0.51,3.23
+274,2021-06-10,622100,657031,strikeout,called_strike,9,Taylor Jones called out on strikes.,1,2,1,5,8,0.54,1.86
+275,2021-06-10,622100,657031,,ball,13,Taylor Jones called out on strikes.,0,2,1,4,8,-1.47,-0.76
+276,2021-06-10,622100,657031,,foul,13,Taylor Jones called out on strikes.,0,2,1,3,8,-0.87,2.75
+277,2021-06-10,622100,657031,,foul,4,Taylor Jones called out on strikes.,0,1,1,2,8,-0.69,2.62
+278,2021-06-10,622100,657031,,called_strike,5,Taylor Jones called out on strikes.,0,0,1,1,8,-0.07,2.46
+279,2021-06-06,622100,571927,strikeout,called_strike,11,Taylor Jones called out on strikes.,1,2,2,4,3,-0.85,2.98
+280,2021-06-06,622100,571927,,ball,11,Taylor Jones called out on strikes.,0,2,2,3,3,-0.28,3.81
+281,2021-06-06,622100,571927,,swinging_strike,14,Taylor Jones called out on strikes.,0,1,2,2,3,0.93,2.52
+282,2021-06-06,622100,571927,,called_strike,5,Taylor Jones called out on strikes.,0,0,2,1,3,-0.01,2.76
+283,2021-06-06,622100,606303,strikeout,swinging_strike,1,Taylor Jones strikes out swinging.,3,2,1,6,9,-0.46,3.69
+284,2021-06-06,622100,606303,,foul,13,Taylor Jones strikes out swinging.,3,1,1,5,9,-1.32,2.62
+285,2021-06-06,622100,606303,,called_strike,4,Taylor Jones strikes out swinging.,3,0,1,4,9,-0.65,2.92
+286,2021-06-06,622100,606303,,ball,13,Taylor Jones strikes out swinging.,2,0,1,3,9,-0.33,1.21
+287,2021-06-06,622100,606303,,ball,14,Taylor Jones strikes out swinging.,1,0,1,2,9,1.59,1.84
+288,2021-06-06,622100,606303,,ball,11,Taylor Jones strikes out swinging.,0,0,1,1,9,-1.52,4.7
+289,2021-06-06,622100,571927,double,hit_into_play,6,Taylor Jones doubles (1) on a sharp line drive to right fielder Teoscar Hernandez.,1,1,0,3,2,0.4,2.65
+290,2021-06-06,622100,571927,,ball,13,Taylor Jones doubles (1) on a sharp line drive to right fielder Teoscar Hernandez.,0,1,0,2,2,-0.61,1.48
+291,2021-06-06,622100,571927,,swinging_strike,6,Taylor Jones doubles (1) on a sharp line drive to right fielder Teoscar Hernandez.,0,0,0,1,2,0.32,2.52
+292,2021-06-06,622100,621593,strikeout,foul_tip,9,Taylor Jones strikes out on a foul tip.,1,2,2,4,5,0.76,2.05
+293,2021-06-06,622100,621593,,foul,13,Taylor Jones strikes out on a foul tip.,1,1,2,3,5,-1.02,2.38
+294,2021-06-06,622100,621593,,called_strike,14,Taylor Jones strikes out on a foul tip.,1,0,2,2,5,0.95,1.68
+295,2021-06-06,622100,605218,field_out,hit_into_play,4,Taylor Jones pops out to second baseman Marcus Semien.,0,1,1,2,7,-0.39,2.52
+296,2021-06-06,622100,621593,,ball,14,Taylor Jones strikes out on a foul tip.,0,0,2,1,5,0.7,1.05
+297,2021-06-06,622100,605218,,foul,7,Taylor Jones pops out to second baseman Marcus Semien.,0,0,1,1,7,-0.52,2.07
+298,2021-06-04,622100,676886,strikeout,swinging_strike,2,Taylor Jones strikes out swinging.,1,2,1,4,9,-0.23,3.59
+299,2021-06-04,622100,676886,,swinging_strike,2,Taylor Jones strikes out swinging.,1,1,1,3,9,-0.26,3.29
+300,2021-06-04,622100,676886,,swinging_strike,1,Taylor Jones strikes out swinging.,1,0,1,2,9,-0.53,3.72
+301,2021-06-04,622100,676886,,ball,11,Taylor Jones strikes out swinging.,0,0,1,1,9,-0.25,3.94
+302,2021-06-03,622100,527048,field_out,hit_into_play,13,Taylor Jones lines out to left fielder Alex Verdugo.,0,0,1,1,7,-0.47,1.32
+303,2021-06-03,622100,527048,strikeout,swinging_strike,13,Taylor Jones strikes out swinging.,1,2,0,4,5,-0.14,1.51
+304,2021-06-03,622100,527048,,swinging_strike,8,Taylor Jones strikes out swinging.,1,1,0,3,5,0.19,2.07
+305,2021-06-03,622100,527048,,called_strike,1,Taylor Jones strikes out swinging.,1,0,0,2,5,-0.33,3.32
+306,2021-06-03,622100,527048,,ball,13,Taylor Jones strikes out swinging.,0,0,0,1,5,-1.83,1.39
+307,2021-06-03,622100,527048,field_out,hit_into_play,7,Taylor Jones lines out sharply to second baseman Christian Arroyo.,1,2,2,4,2,-0.62,1.79
+308,2021-06-03,622100,527048,,swinging_strike,14,Taylor Jones lines out sharply to second baseman Christian Arroyo.,1,1,2,3,2,0.32,1.62
+309,2021-06-03,622100,527048,,called_strike,8,Taylor Jones lines out sharply to second baseman Christian Arroyo.,1,0,2,2,2,0.13,1.81
+310,2021-06-03,622100,527048,,ball,13,Taylor Jones lines out sharply to second baseman Christian Arroyo.,0,0,2,1,2,-1.63,1.24
+311,2021-06-03,622100,519443,field_out,hit_into_play,5,Taylor Jones lines out to center fielder Danny Santana.,2,2,1,5,9,-0.25,3.08
+312,2021-06-03,622100,519443,,ball,14,Taylor Jones lines out to center fielder Danny Santana.,1,2,1,4,9,0.59,0.4
+313,2021-06-03,622100,519443,,swinging_strike,13,Taylor Jones lines out to center fielder Danny Santana.,1,1,1,3,9,-0.07,1.32
+314,2021-06-03,622100,519443,,called_strike,4,Taylor Jones lines out to center fielder Danny Santana.,1,0,1,2,9,-0.55,2.61
+315,2021-06-03,622100,519443,,ball,11,Taylor Jones lines out to center fielder Danny Santana.,0,0,1,1,9,-0.65,4.45
+316,2021-05-31,622100,593958,single,hit_into_play,6,Taylor Jones singles on a sharp ground ball to right fielder Hunter Renfroe.,3,2,2,6,4,0.62,2.41
+317,2021-05-31,622100,593958,,ball,14,Taylor Jones singles on a sharp ground ball to right fielder Hunter Renfroe.,2,2,2,5,4,0.28,1.24
+318,2021-05-31,622100,593958,,ball,13,Taylor Jones singles on a sharp ground ball to right fielder Hunter Renfroe.,1,2,2,4,4,-1.56,0.34
+319,2021-05-31,622100,593958,,foul,4,Taylor Jones singles on a sharp ground ball to right fielder Hunter Renfroe.,1,1,2,3,4,-0.7,2.42
+320,2021-05-31,622100,593958,,called_strike,5,Taylor Jones singles on a sharp ground ball to right fielder Hunter Renfroe.,1,0,2,2,4,0.27,2.37
+321,2021-05-31,622100,593958,,ball,14,Taylor Jones singles on a sharp ground ball to right fielder Hunter Renfroe.,0,0,2,1,4,0.2,-0.32
+322,2021-05-31,622100,593958,sac_fly,hit_into_play,5,Taylor Jones out on a sacrifice fly to right fielder Hunter Renfroe.   Carlos Correa scores.    Kyle Tucker to 3rd.,3,2,0,6,2,-0.13,2.75
+323,2021-05-31,622100,593958,,ball,12,Taylor Jones out on a sacrifice fly to right fielder Hunter Renfroe.   Carlos Correa scores.    Kyle Tucker to 3rd.,2,2,0,5,2,0.65,4.38
+324,2021-05-31,622100,593958,,foul,2,Taylor Jones out on a sacrifice fly to right fielder Hunter Renfroe.   Carlos Correa scores.    Kyle Tucker to 3rd.,2,1,0,4,2,0.09,3.38
+325,2021-05-31,622100,593958,,swinging_strike,5,Taylor Jones out on a sacrifice fly to right fielder Hunter Renfroe.   Carlos Correa scores.    Kyle Tucker to 3rd.,2,0,0,3,2,0.0,3.03
+326,2021-05-31,622100,593958,,ball,13,Taylor Jones out on a sacrifice fly to right fielder Hunter Renfroe.   Carlos Correa scores.    Kyle Tucker to 3rd.,1,0,0,2,2,-1.04,2.31
+327,2021-05-31,622100,593958,,ball,13,Taylor Jones out on a sacrifice fly to right fielder Hunter Renfroe.   Carlos Correa scores.    Kyle Tucker to 3rd.,0,0,0,1,2,-2.0,1.59
+328,2021-05-31,622100,605155,walk,ball,14,Taylor Jones walks.,3,1,0,5,6,1.06,2.07
+329,2021-05-31,622100,605155,,ball,14,Taylor Jones walks.,2,1,0,4,6,1.31,0.74
+330,2021-05-31,622100,605155,,ball,14,Taylor Jones walks.,1,1,0,3,6,0.28,1.39
+331,2021-05-31,622100,605155,,foul,1,Taylor Jones walks.,1,0,0,2,6,-0.37,3.17
+332,2021-05-31,622100,605155,,ball,14,Taylor Jones walks.,0,0,0,1,6,0.23,1.12
+333,2021-05-31,622100,570488,field_out,hit_into_play,13,"Taylor Jones grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",0,0,0,1,7,-0.92,2.7
+334,2021-05-30,622100,605483,single,hit_into_play,14,Taylor Jones singles on a line drive to right fielder Wil Myers.   Aledmys Diaz scores.,1,1,2,3,3,1.11,2.75
+335,2021-05-30,622100,605483,,ball,11,Taylor Jones singles on a line drive to right fielder Wil Myers.   Aledmys Diaz scores.,0,1,2,2,3,-0.16,3.79
+336,2021-05-30,622100,605483,,called_strike,6,Taylor Jones singles on a line drive to right fielder Wil Myers.   Aledmys Diaz scores.,0,0,2,1,3,0.64,2.39
+337,2021-05-30,622100,605483,strikeout,swinging_strike,13,Taylor Jones strikes out swinging.,3,2,2,8,1,-0.78,1.24
+338,2021-05-30,622100,605483,,foul,4,Taylor Jones strikes out swinging.,3,2,2,7,1,-0.38,2.43
+339,2021-05-30,622100,605483,,ball,14,Taylor Jones strikes out swinging.,2,2,2,6,1,1.25,2.55
+340,2021-05-30,622100,605483,,ball,3,Taylor Jones strikes out swinging.,1,2,2,5,1,0.71,3.35
+341,2021-05-30,622100,605397,strikeout,swinging_strike,5,Taylor Jones strikes out swinging.,1,2,0,4,6,0.11,2.94
+342,2021-05-30,622100,605483,,foul,13,Taylor Jones strikes out swinging.,1,2,2,4,1,-0.52,1.14
+343,2021-05-30,622100,605397,,ball,14,Taylor Jones strikes out swinging.,0,2,0,3,6,0.84,1.49
+344,2021-05-30,622100,605483,,ball,13,Taylor Jones strikes out swinging.,0,2,2,3,1,-0.54,0.67
+345,2021-05-30,622100,605483,,swinging_strike,13,Taylor Jones strikes out swinging.,0,1,2,2,1,-1.09,0.59
+346,2021-05-30,622100,605397,,foul,9,Taylor Jones strikes out swinging.,0,1,0,2,6,0.77,1.78
+347,2021-05-30,622100,605397,,swinging_strike,6,Taylor Jones strikes out swinging.,0,0,0,1,6,0.4,2.87
+348,2021-05-30,622100,605483,,swinging_strike,13,Taylor Jones strikes out swinging.,0,0,2,1,1,-1.08,0.32
+349,2021-05-29,622100,506433,field_out,hit_into_play,14,Taylor Jones pops out to second baseman Jake Cronenworth.,0,0,0,1,5,0.18,1.51
+350,2021-05-29,622100,506433,grounded_into_double_play,hit_into_play,8,"Taylor Jones grounds into a double play, pitcher Yu Darvish to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa out at 2nd.    Taylor Jones out at 1st.",3,2,1,6,2,0.22,1.78
+351,2021-05-29,622100,506433,,ball,14,"Taylor Jones grounds into a double play, pitcher Yu Darvish to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa out at 2nd.    Taylor Jones out at 1st.",2,2,1,5,2,1.27,2.12
+352,2021-05-29,622100,506433,,foul,14,"Taylor Jones grounds into a double play, pitcher Yu Darvish to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa out at 2nd.    Taylor Jones out at 1st.",2,1,1,4,2,0.56,1.5
+353,2021-05-29,622100,506433,,ball,14,"Taylor Jones grounds into a double play, pitcher Yu Darvish to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa out at 2nd.    Taylor Jones out at 1st.",1,1,1,3,2,0.13,1.14
+354,2021-05-29,622100,506433,,called_strike,6,"Taylor Jones grounds into a double play, pitcher Yu Darvish to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa out at 2nd.    Taylor Jones out at 1st.",1,0,1,2,2,0.41,2.76
+355,2021-05-29,622100,506433,,ball,14,"Taylor Jones grounds into a double play, pitcher Yu Darvish to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa out at 2nd.    Taylor Jones out at 1st.",0,0,1,1,2,1.07,1.97
+356,2021-05-29,622100,573062,force_out,hit_into_play,13,"Taylor Jones grounds into a force out, pitcher Aaron Northcraft to second baseman Jake Cronenworth.   Carlos Correa to 3rd.    Aledmys Diaz out at 2nd.    Taylor Jones to 1st.",0,1,0,2,8,-0.71,1.57
+357,2021-05-29,622100,573062,,called_strike,9,"Taylor Jones grounds into a force out, pitcher Aaron Northcraft to second baseman Jake Cronenworth.   Carlos Correa to 3rd.    Aledmys Diaz out at 2nd.    Taylor Jones to 1st.",0,0,0,1,8,0.67,2.34
+358,2021-05-29,622100,622766,strikeout,foul_tip,6,Taylor Jones strikes out on a foul tip.,2,2,2,5,12,0.49,2.97
+359,2021-05-29,622100,622766,,ball,14,Taylor Jones strikes out on a foul tip.,1,2,2,4,12,0.84,1.23
+360,2021-05-29,622100,489334,single,hit_into_play,8,Taylor Jones singles on a sharp ground ball to left fielder Tommy Pham.,1,2,1,4,6,0.02,2.11
+361,2021-05-29,622100,622766,,swinging_strike,14,Taylor Jones strikes out on a foul tip.,1,1,2,3,12,0.03,0.96
+362,2021-05-29,622100,489334,,called_strike,9,Taylor Jones singles on a sharp ground ball to left fielder Tommy Pham.,1,1,1,3,6,0.58,1.81
+363,2021-05-29,622100,489334,,ball,14,Taylor Jones singles on a sharp ground ball to left fielder Tommy Pham.,0,1,1,2,6,1.2,1.87
+364,2021-05-29,622100,622766,,swinging_strike,14,Taylor Jones strikes out on a foul tip.,1,0,2,2,12,0.53,1.16
+365,2021-05-29,622100,622766,,ball,14,Taylor Jones strikes out on a foul tip.,0,0,2,1,12,0.6,1.07
+366,2021-05-29,622100,489334,,called_strike,6,Taylor Jones singles on a sharp ground ball to left fielder Tommy Pham.,0,0,1,1,6,0.66,2.36
+367,2021-05-29,622100,453343,grounded_into_double_play,hit_into_play,4,"Taylor Jones grounds into a double play, shortstop Ha-Seong Kim to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa to 3rd.    Aledmys Diaz out at 2nd.    Taylor Jones out at 1st.",2,1,0,4,10,-0.59,2.54
+368,2021-05-29,622100,453343,,ball,14,"Taylor Jones grounds into a double play, shortstop Ha-Seong Kim to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa to 3rd.    Aledmys Diaz out at 2nd.    Taylor Jones out at 1st.",1,1,0,3,10,1.33,1.33
+369,2021-05-29,622100,453343,,ball,11,"Taylor Jones grounds into a double play, shortstop Ha-Seong Kim to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa to 3rd.    Aledmys Diaz out at 2nd.    Taylor Jones out at 1st.",0,1,0,2,10,-1.45,2.86
+370,2021-05-29,622100,453343,,foul,8,"Taylor Jones grounds into a double play, shortstop Ha-Seong Kim to second baseman Jake Cronenworth to first baseman Eric Hosmer.   Carlos Correa to 3rd.    Aledmys Diaz out at 2nd.    Taylor Jones out at 1st.",0,0,0,1,10,0.09,2.04
+371,2021-05-26,622100,545333,field_out,hit_into_play,5,Taylor Jones pops out to second baseman Max Muncy.,1,2,2,4,6,0.24,2.5
+372,2021-05-26,622100,545333,,ball,14,Taylor Jones pops out to second baseman Max Muncy.,0,2,2,3,6,1.98,1.9
+373,2021-05-26,622100,545333,,swinging_strike,14,Taylor Jones pops out to second baseman Max Muncy.,0,1,2,2,6,1.6,0.96
+374,2021-05-26,622100,545333,,called_strike,9,Taylor Jones pops out to second baseman Max Muncy.,0,0,2,1,6,0.52,2.13
+375,2021-05-26,622100,545333,strikeout,swinging_strike,11,Taylor Jones strikes out swinging.,1,2,1,4,4,-0.09,3.94
+376,2021-05-26,622100,545333,,ball,14,Taylor Jones strikes out swinging.,0,2,1,3,4,1.45,-0.96
+377,2021-05-26,622100,545333,,swinging_strike,14,Taylor Jones strikes out swinging.,0,1,1,2,4,0.92,1.22
+378,2021-05-26,622100,545333,,called_strike,9,Taylor Jones strikes out swinging.,0,0,1,1,4,0.56,2.25
+379,2021-05-26,622100,545333,strikeout,swinging_strike,12,Taylor Jones strikes out swinging.,3,2,2,6,1,0.04,3.98
+380,2021-05-26,622100,545333,,ball,11,Taylor Jones strikes out swinging.,2,2,2,5,1,-0.6,4.37
+381,2021-05-26,622100,545333,,ball,11,Taylor Jones strikes out swinging.,1,2,2,4,1,-0.58,4.49
+382,2021-05-26,622100,545333,,foul,8,Taylor Jones strikes out swinging.,1,1,2,3,1,-0.04,2.23
+383,2021-05-26,622100,545333,,ball,14,Taylor Jones strikes out swinging.,0,1,2,2,1,1.25,2.1
+384,2021-05-26,622100,545333,,called_strike,9,Taylor Jones strikes out swinging.,0,0,2,1,1,0.44,1.58
+385,2021-05-26,622100,642701,grounded_into_double_play,hit_into_play,1,"Taylor Jones grounds into a double play, second baseman Max Muncy to first baseman Albert Pujols.   Yuli Gurriel to 3rd.    Carlos Correa out at 2nd.    Taylor Jones out at 1st.",0,2,0,3,8,-0.59,3.25
+386,2021-05-26,622100,642701,,foul,4,"Taylor Jones grounds into a double play, second baseman Max Muncy to first baseman Albert Pujols.   Yuli Gurriel to 3rd.    Carlos Correa out at 2nd.    Taylor Jones out at 1st.",0,1,0,2,8,-0.8,3.11
+387,2021-05-26,622100,642701,,foul,4,"Taylor Jones grounds into a double play, second baseman Max Muncy to first baseman Albert Pujols.   Yuli Gurriel to 3rd.    Carlos Correa out at 2nd.    Taylor Jones out at 1st.",0,0,0,1,8,-0.5,2.54
+388,2021-04-29,622100,579328,field_out,hit_into_play,5,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",2,1,1,4,5,-0.02,2.42
+389,2021-04-29,622100,579328,,ball,12,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",1,1,1,3,5,0.99,3.42
+390,2021-04-29,622100,579328,,called_strike,8,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",1,0,1,2,5,-0.19,1.63
+391,2021-04-29,622100,579328,,ball,3,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",0,0,1,1,5,0.61,3.83
+392,2021-04-29,622100,579328,field_out,hit_into_play,9,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",1,2,2,4,2,0.76,1.89
+393,2021-04-29,622100,579328,,swinging_strike,7,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",1,1,2,3,2,-0.59,1.94
+394,2021-04-29,622100,579328,,ball,13,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",0,1,2,2,2,-1.94,1.91
+395,2021-04-29,622100,579328,,swinging_strike,2,"Taylor Jones grounds out, third baseman Kyle Seager to first baseman Evan White.",0,0,2,1,2,-0.07,3.15
+396,2021-04-29,622100,664948,field_out,hit_into_play,14,"Taylor Jones grounds out, shortstop J.  P. Crawford to first baseman Evan White.",3,2,0,7,8,0.18,1.36
+397,2021-04-29,622100,664948,,ball,13,"Taylor Jones grounds out, shortstop J.  P. Crawford to first baseman Evan White.",2,2,0,6,8,-1.8,2.54
+398,2021-04-29,622100,664948,,foul,4,"Taylor Jones grounds out, shortstop J.  P. Crawford to first baseman Evan White.",2,2,0,5,8,-0.57,2.88
+399,2021-04-29,622100,664948,,foul,13,"Taylor Jones grounds out, shortstop J.  P. Crawford to first baseman Evan White.",2,1,0,4,8,-0.53,1.37
+400,2021-04-29,622100,664948,,ball,14,"Taylor Jones grounds out, shortstop J.  P. Crawford to first baseman Evan White.",1,1,0,3,8,1.54,2.24
+401,2021-04-29,622100,664948,,foul,4,"Taylor Jones grounds out, shortstop J.  P. Crawford to first baseman Evan White.",1,0,0,2,8,-0.31,2.38
+402,2021-04-29,622100,664948,,ball,13,"Taylor Jones grounds out, shortstop J.  P. Crawford to first baseman Evan White.",0,0,0,1,8,-1.87,2.09
+403,2021-04-17,622100,623167,field_out,hit_into_play,4,Taylor Jones flies out to right fielder Mitch Haniger.,0,0,2,1,6,-0.61,2.73
+404,2021-04-17,622100,623167,single,hit_into_play,9,Taylor Jones singles on a ground ball to center fielder Sam Haggerty.   Michael Brantley scores.    Abraham Toro to 2nd.,3,1,2,5,4,0.51,2.22
+405,2021-04-17,622100,623167,,ball,13,Taylor Jones singles on a ground ball to center fielder Sam Haggerty.   Michael Brantley scores.    Abraham Toro to 2nd.,2,1,2,4,4,-1.25,2.52
+406,2021-04-17,622100,623167,,ball,14,Taylor Jones singles on a ground ball to center fielder Sam Haggerty.   Michael Brantley scores.    Abraham Toro to 2nd.,1,1,2,3,4,1.19,0.94
+407,2021-04-17,622100,623167,,ball,13,Taylor Jones singles on a ground ball to center fielder Sam Haggerty.   Michael Brantley scores.    Abraham Toro to 2nd.,0,1,2,2,4,-1.32,2.37
+408,2021-04-17,622100,623167,,foul,5,Taylor Jones singles on a ground ball to center fielder Sam Haggerty.   Michael Brantley scores.    Abraham Toro to 2nd.,0,0,2,1,4,-0.15,2.52
+409,2021-04-17,622100,623167,field_out,hit_into_play,13,Taylor Jones lines out to center fielder Sam Haggerty.,1,1,2,3,2,-0.84,2.07
+410,2021-04-17,622100,623167,,foul,9,Taylor Jones lines out to center fielder Sam Haggerty.,1,0,2,2,2,0.34,2.22
+411,2021-04-17,622100,623167,,ball,13,Taylor Jones lines out to center fielder Sam Haggerty.,0,0,2,1,2,-0.43,0.69
+412,2021-04-17,622100,641871,strikeout,swinging_strike,11,Taylor Jones strikes out swinging.,2,2,0,5,9,-0.02,3.94
+413,2021-04-17,622100,641871,,foul_tip,4,Taylor Jones strikes out swinging.,2,1,0,4,9,-0.34,2.98
+414,2021-04-17,622100,641871,,foul,8,Taylor Jones strikes out swinging.,2,0,0,3,9,0.12,1.86
+415,2021-04-17,622100,641871,,ball,14,Taylor Jones strikes out swinging.,1,0,0,2,9,1.6,2.65
+416,2021-04-17,622100,641871,,ball,14,Taylor Jones strikes out swinging.,0,0,0,1,9,0.66,1.64
+417,2021-04-16,622100,579328,single,hit_into_play,8,Taylor Jones singles on a sharp ground ball to left fielder Jose Marmolejos.,0,0,0,1,7,0.12,1.67
+418,2021-04-16,622100,579328,walk,ball,13,Taylor Jones walks.   Carlos Correa to 2nd.,3,0,1,4,5,-0.13,1.37
+419,2021-04-16,622100,579328,,ball,1,Taylor Jones walks.   Carlos Correa to 2nd.,2,0,1,3,5,-0.65,3.76
+420,2021-04-16,622100,579328,,ball,12,Taylor Jones walks.   Carlos Correa to 2nd.,1,0,1,2,5,0.87,2.86
+421,2021-04-16,622100,579328,,ball,12,Taylor Jones walks.   Carlos Correa to 2nd.,0,0,1,1,5,0.99,2.87
+422,2021-04-16,622100,579328,field_out,hit_into_play,5,"Taylor Jones grounds out, second baseman Ty France to first baseman Evan White.",0,1,2,2,2,0.08,3.07
+423,2021-04-16,622100,579328,,called_strike,7,"Taylor Jones grounds out, second baseman Ty France to first baseman Evan White.",0,0,2,1,2,-0.56,2.03

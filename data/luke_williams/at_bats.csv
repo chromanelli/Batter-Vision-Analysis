@@ -1,0 +1,414 @@
+,game_date,batter,pitcher,events,description,zone,des,balls,strikes,outs_when_up,pitch_number,inning,plate_x,plate_z
+0,2021-09-24,663897,592741,strikeout,swinging_strike,14,Luke Williams strikes out swinging.,1,2,1,4,7,0.9,2.32
+1,2021-09-24,663897,592741,,ball,12,Luke Williams strikes out swinging.,0,2,1,3,7,0.92,3.31
+2,2021-09-24,663897,592741,,foul,7,Luke Williams strikes out swinging.,0,1,1,2,7,-0.52,1.56
+3,2021-09-24,663897,592741,,called_strike,4,Luke Williams strikes out swinging.,0,0,1,1,7,-0.29,2.14
+4,2021-09-21,663897,669330,field_out,hit_into_play,8,Luke Williams pops out to third baseman Kelvin Gutierrez.,1,1,0,3,9,-0.21,2.1
+5,2021-09-21,663897,669330,,foul,12,Luke Williams pops out to third baseman Kelvin Gutierrez.,1,0,0,2,9,0.96,2.56
+6,2021-09-21,663897,669330,,ball,12,Luke Williams pops out to third baseman Kelvin Gutierrez.,0,0,0,1,9,0.99,2.54
+7,2021-09-20,663897,607644,strikeout,foul_tip,5,Luke Williams strikes out on a foul tip.,2,2,0,5,6,0.26,2.49
+8,2021-09-20,663897,607644,,swinging_strike,5,Luke Williams strikes out on a foul tip.,2,1,0,4,6,-0.22,2.25
+9,2021-09-20,663897,607644,,ball,14,Luke Williams strikes out on a foul tip.,1,1,0,3,6,0.33,0.3
+10,2021-09-20,663897,607644,,ball,11,Luke Williams strikes out on a foul tip.,0,1,0,2,6,-0.82,4.82
+11,2021-09-20,663897,607644,,called_strike,7,Luke Williams strikes out on a foul tip.,0,0,0,1,6,-0.34,1.66
+12,2021-08-26,663897,676969,walk,ball,12,Luke Williams walks.,3,2,0,6,9,0.27,3.62
+13,2021-08-26,663897,676969,,ball,11,Luke Williams walks.,2,2,0,5,9,-0.71,4.41
+14,2021-08-26,663897,676969,,foul,12,Luke Williams walks.,2,1,0,4,9,0.88,2.59
+15,2021-08-26,663897,676969,,called_strike,11,Luke Williams walks.,2,0,0,3,9,-0.79,3.21
+16,2021-08-26,663897,676969,,ball,11,Luke Williams walks.,1,0,0,2,9,-1.51,3.08
+17,2021-08-26,663897,676969,,ball,12,Luke Williams walks.,0,0,0,1,9,1.17,2.6
+18,2021-08-25,663897,642232,field_out,hit_into_play,4,"Luke Williams grounds out, second baseman Brandon Lowe to first baseman Yandy Diaz.",0,0,2,1,4,-0.49,2.81
+19,2021-08-25,663897,642232,grounded_into_double_play,hit_into_play,8,"Luke Williams grounds into a double play, third baseman Joey Wendle to second baseman Brandon Lowe to first baseman Yandy Diaz.   Andrew McCutchen scores.    Freddy Galvis to 3rd.    Ronald Torreyes out at 2nd.    Luke Williams out at 1st.",1,1,0,3,2,0.06,1.64
+20,2021-08-25,663897,642232,,foul,13,"Luke Williams grounds into a double play, third baseman Joey Wendle to second baseman Brandon Lowe to first baseman Yandy Diaz.   Andrew McCutchen scores.    Freddy Galvis to 3rd.    Ronald Torreyes out at 2nd.    Luke Williams out at 1st.",1,0,0,2,2,-0.97,1.88
+21,2021-08-25,663897,642232,,ball,13,"Luke Williams grounds into a double play, third baseman Joey Wendle to second baseman Brandon Lowe to first baseman Yandy Diaz.   Andrew McCutchen scores.    Freddy Galvis to 3rd.    Ronald Torreyes out at 2nd.    Luke Williams out at 1st.",0,0,0,1,2,-1.71,1.68
+22,2021-08-22,663897,663753,field_out,hit_into_play,6,Luke Williams flies out to right fielder Fernando Tatis.,3,1,2,5,9,0.3,2.3
+23,2021-08-22,663897,663753,,ball,14,Luke Williams flies out to right fielder Fernando Tatis.,2,1,2,4,9,1.44,1.67
+24,2021-08-22,663897,663753,,ball,14,Luke Williams flies out to right fielder Fernando Tatis.,1,1,2,3,9,0.26,1.37
+25,2021-08-22,663897,663753,,called_strike,2,Luke Williams flies out to right fielder Fernando Tatis.,1,0,2,2,9,0.19,2.72
+26,2021-08-22,663897,663753,,ball,14,Luke Williams flies out to right fielder Fernando Tatis.,0,0,2,1,9,1.1,1.42
+27,2021-08-20,663897,605483,field_out,hit_into_play,3,Luke Williams flies out to center fielder Fernando Tatis.,0,2,0,3,5,0.64,2.99
+28,2021-08-20,663897,605483,,foul,2,Luke Williams flies out to center fielder Fernando Tatis.,0,1,0,2,5,0.02,3.34
+29,2021-08-20,663897,605483,,called_strike,6,Luke Williams flies out to center fielder Fernando Tatis.,0,0,0,1,5,0.34,2.18
+30,2021-08-20,663897,605483,field_out,hit_into_play,3,Luke Williams flies out to center fielder Fernando Tatis.,2,1,0,4,3,0.74,3.14
+31,2021-08-20,663897,605483,,ball,13,Luke Williams flies out to center fielder Fernando Tatis.,1,1,0,3,3,-0.41,0.09
+32,2021-08-20,663897,605483,,swinging_strike,14,Luke Williams flies out to center fielder Fernando Tatis.,1,0,0,2,3,0.36,1.05
+33,2021-08-20,663897,605483,,ball,14,Luke Williams flies out to center fielder Fernando Tatis.,0,0,0,1,3,0.27,0.21
+34,2021-08-20,663897,613534,single,hit_into_play,5,Luke Williams singles on a sharp ground ball to left fielder Tommy Pham.,1,1,2,3,7,0.06,2.21
+35,2021-08-20,663897,613534,,ball,11,Luke Williams singles on a sharp ground ball to left fielder Tommy Pham.,0,1,2,2,7,-1.23,2.35
+36,2021-08-20,663897,613534,,called_strike,1,Luke Williams singles on a sharp ground ball to left fielder Tommy Pham.,0,0,2,1,7,-0.35,2.7
+37,2021-08-19,663897,518516,single,hit_into_play,7,Luke Williams singles on a ground ball to third baseman Drew Ellis.   Ronald Torreyes to 3rd.,1,2,0,4,8,-0.29,1.93
+38,2021-08-19,663897,518516,,ball,14,Luke Williams singles on a ground ball to third baseman Drew Ellis.   Ronald Torreyes to 3rd.,0,2,0,3,8,1.58,1.03
+39,2021-08-19,663897,518516,,foul,1,Luke Williams singles on a ground ball to third baseman Drew Ellis.   Ronald Torreyes to 3rd.,0,1,0,2,8,-0.48,2.97
+40,2021-08-19,663897,518516,,called_strike,5,Luke Williams singles on a ground ball to third baseman Drew Ellis.   Ronald Torreyes to 3rd.,0,0,0,1,8,-0.24,2.17
+41,2021-08-19,663897,518516,walk,blocked_ball,13,Luke Williams walks.   Didi Gregorius to 2nd.,3,2,2,6,5,-0.91,0.38
+42,2021-08-19,663897,518516,,foul,7,Luke Williams walks.   Didi Gregorius to 2nd.,3,1,2,5,5,-0.64,2.06
+43,2021-08-19,663897,518516,,ball,12,Luke Williams walks.   Didi Gregorius to 2nd.,2,1,2,4,5,1.16,2.88
+44,2021-08-19,663897,518516,,foul,9,Luke Williams walks.   Didi Gregorius to 2nd.,2,0,2,3,5,0.33,2.03
+45,2021-08-19,663897,518516,,ball,14,Luke Williams walks.   Didi Gregorius to 2nd.,1,0,2,2,5,0.45,0.83
+46,2021-08-19,663897,518516,,ball,14,Luke Williams walks.   Didi Gregorius to 2nd.,0,0,2,1,5,2.22,2.05
+47,2021-08-19,663897,518516,field_out,hit_into_play,5,Luke Williams flies out to left fielder David Peralta.,1,2,0,4,3,-0.14,2.77
+48,2021-08-19,663897,518516,,foul,13,Luke Williams flies out to left fielder David Peralta.,1,1,0,3,3,-0.22,1.34
+49,2021-08-19,663897,518516,,ball,14,Luke Williams flies out to left fielder David Peralta.,0,1,0,2,3,1.09,2.23
+50,2021-08-19,663897,518516,,called_strike,5,Luke Williams flies out to left fielder David Peralta.,0,0,0,1,3,0.09,2.11
+51,2021-08-19,663897,664199,single,hit_into_play,2,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,2,2,1,8,9,0.04,3.06
+52,2021-08-19,663897,664199,,foul,12,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,2,2,1,7,9,0.89,3.26
+53,2021-08-19,663897,664199,,foul,9,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,2,2,1,6,9,0.81,1.47
+54,2021-08-19,663897,664199,,ball,12,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,1,2,1,5,9,0.83,3.2
+55,2021-08-19,663897,664199,,foul,12,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,1,2,1,4,9,0.86,2.9
+56,2021-08-19,663897,664199,,foul,6,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,1,1,1,3,9,0.42,2.52
+57,2021-08-19,663897,664199,,called_strike,11,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,1,0,1,2,9,-0.29,3.28
+58,2021-08-19,663897,664199,,blocked_ball,14,Luke Williams singles on a fly ball to center fielder Daulton Varsho.   Didi Gregorius to 3rd.    Ronald Torreyes to 2nd.,0,0,1,1,9,1.22,-0.1
+59,2021-08-15,663897,570666,field_out,hit_into_play,12,Luke Williams lines out to second baseman Jonathan India.,0,0,1,1,8,1.1,2.57
+60,2021-08-10,663897,660813,strikeout,foul_tip,2,Luke Williams strikes out on a foul tip.,2,2,2,5,7,0.06,2.84
+61,2021-08-10,663897,660813,,ball,11,Luke Williams strikes out on a foul tip.,1,2,2,4,7,-0.75,3.89
+62,2021-08-10,663897,660813,,swinging_strike,3,Luke Williams strikes out on a foul tip.,1,1,2,3,7,0.45,3.2
+63,2021-08-10,663897,660813,,foul,8,Luke Williams strikes out on a foul tip.,1,0,2,2,7,-0.22,2.03
+64,2021-08-10,663897,660813,,ball,14,Luke Williams strikes out on a foul tip.,0,0,2,1,7,0.95,1.98
+65,2021-08-08,663897,592836,single,hit_into_play,4,Luke Williams singles on a line drive to left fielder Dominic Smith.,1,1,1,3,5,-0.53,2.79
+66,2021-08-08,663897,592836,,called_strike,5,Luke Williams singles on a line drive to left fielder Dominic Smith.,1,0,1,2,5,-0.1,2.36
+67,2021-08-08,663897,592836,,ball,14,Luke Williams singles on a line drive to left fielder Dominic Smith.,0,0,1,1,5,1.47,1.36
+68,2021-08-08,663897,592836,walk,ball,14,Luke Williams walks.,3,2,2,6,2,1.32,1.38
+69,2021-08-08,663897,592836,,ball,14,Luke Williams walks.,2,2,2,5,2,1.15,2.15
+70,2021-08-08,663897,592836,,foul,9,Luke Williams walks.,2,1,2,4,2,0.4,2.13
+71,2021-08-08,663897,592836,,ball,14,Luke Williams walks.,1,1,2,3,2,1.78,1.99
+72,2021-08-08,663897,592836,,called_strike,1,Luke Williams walks.,1,0,2,2,2,-0.72,2.96
+73,2021-08-08,663897,592836,,ball,14,Luke Williams walks.,0,0,2,1,2,1.0,1.66
+74,2021-08-08,663897,543507,strikeout,swinging_strike,12,Luke Williams strikes out swinging.,0,2,0,4,8,0.87,3.41
+75,2021-08-08,663897,543507,,foul,6,Luke Williams strikes out swinging.,0,2,0,3,8,0.39,2.38
+76,2021-08-08,663897,543507,,called_strike,4,Luke Williams strikes out swinging.,0,1,0,2,8,-0.72,2.09
+77,2021-08-08,663897,543507,,called_strike,9,Luke Williams strikes out swinging.,0,0,0,1,8,0.53,1.52
+78,2021-08-07,663897,660546,field_out,hit_into_play,3,Luke Williams bunt pops out to pitcher Yennsy Diaz.,0,0,0,1,7,0.38,3.32
+79,2021-08-06,663897,621242,field_error,hit_into_play,4,Luke Williams reaches on a throwing error by shortstop Javier Baez.,1,0,1,2,8,-0.58,2.7
+80,2021-08-06,663897,621242,,ball,11,Luke Williams reaches on a throwing error by shortstop Javier Baez.,0,0,1,1,8,-1.29,3.39
+81,2021-08-03,663897,571578,field_out,hit_into_play,8,Luke Williams pops out to second baseman Adrian Sanchez.,0,0,1,1,7,0.19,1.77
+82,2021-08-03,663897,571578,field_out,hit_into_play,14,Luke Williams grounds out softly to pitcher Patrick Corbin.,0,1,1,2,5,0.92,1.43
+83,2021-08-03,663897,571578,,called_strike,7,Luke Williams grounds out softly to pitcher Patrick Corbin.,0,0,1,1,5,-0.77,1.85
+84,2021-08-03,663897,571578,field_out,hit_into_play,6,"Luke Williams bunt grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",0,1,0,2,3,0.42,2.3
+85,2021-08-03,663897,571578,,foul,8,"Luke Williams bunt grounds out, pitcher Patrick Corbin to first baseman Josh Bell.",0,0,0,1,3,0.24,1.74
+86,2021-08-02,663897,593833,strikeout,swinging_strike,11,Luke Williams strikes out swinging.,0,2,0,3,9,-0.99,3.33
+87,2021-08-02,663897,593833,,foul_bunt,1,Luke Williams strikes out swinging.,0,1,0,2,9,-0.65,2.84
+88,2021-08-02,663897,593833,,called_strike,8,Luke Williams strikes out swinging.,0,0,0,1,9,0.08,1.34
+89,2021-08-01,663897,683232,strikeout,swinging_strike,11,Luke Williams strikes out swinging.,0,2,1,4,8,-0.13,3.66
+90,2021-08-01,663897,683232,,foul,6,Luke Williams strikes out swinging.,0,2,1,3,8,0.79,2.21
+91,2021-08-01,663897,683232,,called_strike,8,Luke Williams strikes out swinging.,0,1,1,2,8,-0.1,1.67
+92,2021-08-01,663897,683232,,called_strike,5,Luke Williams strikes out swinging.,0,0,1,1,8,0.26,2.29
+93,2021-07-31,663897,592741,walk,ball,13,Luke Williams walks.   Travis Jankowski to 2nd.,3,2,2,9,7,-0.79,1.06
+94,2021-07-31,663897,592741,,foul,6,Luke Williams walks.   Travis Jankowski to 2nd.,3,2,2,8,7,0.31,2.29
+95,2021-07-31,663897,592741,,ball,7,Luke Williams walks.   Travis Jankowski to 2nd.,2,2,2,7,7,-0.56,1.71
+96,2021-07-31,663897,592741,,foul,12,Luke Williams walks.   Travis Jankowski to 2nd.,2,2,2,6,7,0.91,2.63
+97,2021-07-31,663897,592741,,foul,12,Luke Williams walks.   Travis Jankowski to 2nd.,2,2,2,5,7,0.89,3.18
+98,2021-07-31,663897,592741,,foul,5,Luke Williams walks.   Travis Jankowski to 2nd.,2,1,2,4,7,-0.17,2.15
+99,2021-07-31,663897,592741,,ball,14,Luke Williams walks.   Travis Jankowski to 2nd.,1,1,2,3,7,1.42,1.87
+100,2021-07-31,663897,592741,,ball,14,Luke Williams walks.   Travis Jankowski to 2nd.,0,1,2,2,7,1.25,2.12
+101,2021-07-31,663897,592741,,foul,5,Luke Williams walks.   Travis Jankowski to 2nd.,0,0,2,1,7,-0.27,2.51
+102,2021-07-30,663897,592741,force_out,hit_into_play,14,"Luke Williams grounds into a force out, shortstop Kevin Newman to second baseman Rodolfo Castro.   Odubel Herrera out at 2nd.",0,1,2,2,7,0.79,1.42
+103,2021-07-30,663897,592741,,called_strike,2,"Luke Williams grounds into a force out, shortstop Kevin Newman to second baseman Rodolfo Castro.   Odubel Herrera out at 2nd.",0,0,2,1,7,-0.13,2.84
+104,2021-07-29,663897,571578,strikeout,swinging_strike,1,Luke Williams strikes out swinging.,1,2,1,4,2,-0.42,3.52
+105,2021-07-29,663897,571578,,swinging_strike,3,Luke Williams strikes out swinging.,1,1,1,3,2,0.38,3.46
+106,2021-07-29,663897,571578,,foul,5,Luke Williams strikes out swinging.,1,0,1,2,2,0.2,2.55
+107,2021-07-29,663897,571578,,ball,12,Luke Williams strikes out swinging.,0,0,1,1,2,0.36,3.93
+108,2021-07-24,663897,592767,field_out,hit_into_play,7,"Luke Williams grounds out, pitcher Drew Smyly to first baseman Freddie Freeman.",1,1,2,3,2,-0.34,1.71
+109,2021-07-24,663897,592767,,ball,13,"Luke Williams grounds out, pitcher Drew Smyly to first baseman Freddie Freeman.",0,1,2,2,2,-0.89,1.34
+110,2021-07-24,663897,592767,,called_strike,6,"Luke Williams grounds out, pitcher Drew Smyly to first baseman Freddie Freeman.",0,0,2,1,2,0.44,2.05
+111,2021-07-23,663897,608331,walk,ball,12,Luke Williams walks.,3,2,1,6,4,1.64,4.89
+112,2021-07-23,663897,608331,,ball,11,Luke Williams walks.,2,2,1,5,4,-0.42,4.23
+113,2021-07-23,663897,608331,,foul,8,Luke Williams walks.,2,1,1,4,4,0.01,1.85
+114,2021-07-23,663897,608331,,called_strike,3,Luke Williams walks.,2,0,1,3,4,0.34,3.03
+115,2021-07-23,663897,608331,,ball,11,Luke Williams walks.,1,0,1,2,4,-1.09,2.92
+116,2021-07-23,663897,608331,,ball,12,Luke Williams walks.,0,0,1,1,4,0.93,2.32
+117,2021-07-23,663897,608331,force_out,hit_into_play,7,"Luke Williams grounds into a force out, third baseman Austin Riley to second baseman Ozzie Albies.   Ronald Torreyes out at 2nd.    Luke Williams to 1st.",1,2,0,6,2,-0.62,1.93
+118,2021-07-23,663897,608331,,foul,5,"Luke Williams grounds into a force out, third baseman Austin Riley to second baseman Ozzie Albies.   Ronald Torreyes out at 2nd.    Luke Williams to 1st.",1,2,0,5,2,-0.03,2.44
+119,2021-07-23,663897,608331,,foul,7,"Luke Williams grounds into a force out, third baseman Austin Riley to second baseman Ozzie Albies.   Ronald Torreyes out at 2nd.    Luke Williams to 1st.",1,2,0,4,2,-0.51,1.93
+120,2021-07-23,663897,608331,,foul_tip,1,"Luke Williams grounds into a force out, third baseman Austin Riley to second baseman Ozzie Albies.   Ronald Torreyes out at 2nd.    Luke Williams to 1st.",1,1,0,3,2,-0.69,3.37
+121,2021-07-23,663897,608331,,called_strike,1,"Luke Williams grounds into a force out, third baseman Austin Riley to second baseman Ozzie Albies.   Ronald Torreyes out at 2nd.    Luke Williams to 1st.",1,0,0,2,2,-0.64,2.92
+122,2021-07-23,663897,608331,,ball,12,"Luke Williams grounds into a force out, third baseman Austin Riley to second baseman Ozzie Albies.   Ronald Torreyes out at 2nd.    Luke Williams to 1st.",0,0,0,1,2,0.09,3.82
+123,2021-07-22,663897,445926,field_out,hit_into_play,7,"Luke Williams grounds out sharply, shortstop Dansby Swanson to first baseman Freddie Freeman.",0,1,1,2,9,-0.6,1.82
+124,2021-07-22,663897,445926,,called_strike,4,"Luke Williams grounds out sharply, shortstop Dansby Swanson to first baseman Freddie Freeman.",0,0,1,1,9,-0.3,2.37
+125,2021-07-21,663897,621139,strikeout,swinging_strike_blocked,14,"Luke Williams strikes out swinging, catcher Gary Sanchez to first baseman Chris Gittens.",2,2,1,5,10,0.41,0.31
+126,2021-07-21,663897,621139,,foul,1,"Luke Williams strikes out swinging, catcher Gary Sanchez to first baseman Chris Gittens.",2,1,1,4,10,-0.32,2.93
+127,2021-07-21,663897,458677,field_out,hit_into_play,8,"Luke Williams grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",3,2,2,6,6,-0.24,2.06
+128,2021-07-21,663897,656793,single,hit_into_play,7,Luke Williams singles on a ground ball to left fielder Brett Gardner.   Rhys Hoskins scores.    Didi Gregorius scores.    Ronald Torreyes to 2nd.,3,2,1,6,8,-0.44,1.71
+129,2021-07-21,663897,621139,,foul,14,"Luke Williams strikes out swinging, catcher Gary Sanchez to first baseman Chris Gittens.",2,0,1,3,10,0.97,2.07
+130,2021-07-21,663897,621139,,ball,11,"Luke Williams strikes out swinging, catcher Gary Sanchez to first baseman Chris Gittens.",1,0,1,2,10,-1.22,3.41
+131,2021-07-21,663897,656793,,ball,14,Luke Williams singles on a ground ball to left fielder Brett Gardner.   Rhys Hoskins scores.    Didi Gregorius scores.    Ronald Torreyes to 2nd.,2,2,1,5,8,1.03,0.72
+132,2021-07-21,663897,458677,,called_strike,5,"Luke Williams grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",3,1,2,5,6,-0.18,2.08
+133,2021-07-21,663897,458677,,ball,12,"Luke Williams grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",2,1,2,4,6,0.73,3.72
+134,2021-07-21,663897,621139,,ball,14,"Luke Williams strikes out swinging, catcher Gary Sanchez to first baseman Chris Gittens.",0,0,1,1,10,0.5,1.18
+135,2021-07-21,663897,656793,,foul,3,Luke Williams singles on a ground ball to left fielder Brett Gardner.   Rhys Hoskins scores.    Didi Gregorius scores.    Ronald Torreyes to 2nd.,2,1,1,4,8,0.73,2.96
+136,2021-07-21,663897,458677,,called_strike,3,"Luke Williams grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",2,0,2,3,6,0.58,2.61
+137,2021-07-21,663897,656793,,called_strike,8,Luke Williams singles on a ground ball to left fielder Brett Gardner.   Rhys Hoskins scores.    Didi Gregorius scores.    Ronald Torreyes to 2nd.,2,0,1,3,8,0.03,1.69
+138,2021-07-21,663897,458677,,blocked_ball,13,"Luke Williams grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",1,0,2,2,6,-1.51,0.66
+139,2021-07-21,663897,656793,,ball,9,Luke Williams singles on a ground ball to left fielder Brett Gardner.   Rhys Hoskins scores.    Didi Gregorius scores.    Ronald Torreyes to 2nd.,1,0,1,2,8,0.68,1.62
+140,2021-07-21,663897,656793,,ball,14,Luke Williams singles on a ground ball to left fielder Brett Gardner.   Rhys Hoskins scores.    Didi Gregorius scores.    Ronald Torreyes to 2nd.,0,0,1,1,8,1.08,1.13
+141,2021-07-21,663897,458677,,ball,11,"Luke Williams grounds out, shortstop Gleyber Torres to first baseman DJ LeMahieu.",0,0,2,1,6,-0.98,2.71
+142,2021-07-20,663897,502154,single,hit_into_play,14,Luke Williams singles on a line drive to right fielder Greg Allen.   Ronald Torreyes to 2nd.,1,2,1,4,8,1.03,2.37
+143,2021-07-20,663897,502154,,blocked_ball,13,Luke Williams singles on a line drive to right fielder Greg Allen.   Ronald Torreyes to 2nd.,0,2,1,3,8,-2.51,0.38
+144,2021-07-20,663897,476595,strikeout,swinging_strike_blocked,13,Luke Williams strikes out swinging.,0,2,2,3,6,-0.42,0.41
+145,2021-07-20,663897,502154,,foul,13,Luke Williams singles on a line drive to right fielder Greg Allen.   Ronald Torreyes to 2nd.,0,1,1,2,8,-1.08,1.52
+146,2021-07-20,663897,476595,,foul,11,Luke Williams strikes out swinging.,0,1,2,2,6,-1.1,2.83
+147,2021-07-20,663897,502154,,called_strike,12,Luke Williams singles on a line drive to right fielder Greg Allen.   Ronald Torreyes to 2nd.,0,0,1,1,8,0.91,2.38
+148,2021-07-20,663897,476595,,called_strike,11,Luke Williams strikes out swinging.,0,0,2,1,6,-0.55,3.38
+149,2021-07-18,663897,666129,single,hit_into_play,9,Luke Williams singles on a line drive to left fielder Magneuris Sierra.,1,0,0,2,4,0.55,1.9
+150,2021-07-18,663897,666129,,ball,12,Luke Williams singles on a line drive to left fielder Magneuris Sierra.,0,0,0,1,4,0.58,3.76
+151,2021-07-18,663897,666129,walk,ball,12,Luke Williams walks.   Ronald Torreyes to 2nd.,3,2,1,6,2,0.33,3.99
+152,2021-07-18,663897,666129,,foul,6,Luke Williams walks.   Ronald Torreyes to 2nd.,3,1,1,5,2,0.49,2.64
+153,2021-07-18,663897,666129,,ball,13,Luke Williams walks.   Ronald Torreyes to 2nd.,2,1,1,4,2,-1.38,1.37
+154,2021-07-18,663897,666129,,foul,1,Luke Williams walks.   Ronald Torreyes to 2nd.,2,0,1,3,2,-0.66,2.87
+155,2021-07-18,663897,666129,,blocked_ball,13,Luke Williams walks.   Ronald Torreyes to 2nd.,1,0,1,2,2,-0.86,0.26
+156,2021-07-18,663897,666129,,ball,13,Luke Williams walks.   Ronald Torreyes to 2nd.,0,0,1,1,2,-0.63,0.7
+157,2021-07-17,663897,542947,field_out,hit_into_play,6,Luke Williams flies out to right fielder Monte Harrison.,1,0,2,2,9,0.8,2.69
+158,2021-07-17,663897,542947,,ball,13,Luke Williams flies out to right fielder Monte Harrison.,0,0,2,1,9,-0.15,1.0
+159,2021-07-16,663897,656548,strikeout,called_strike,9,Luke Williams called out on strikes.,0,2,2,3,4,0.64,1.87
+160,2021-07-16,663897,656548,,foul,2,Luke Williams called out on strikes.,0,1,2,2,4,0.26,3.07
+161,2021-07-16,663897,656548,,called_strike,2,Luke Williams called out on strikes.,0,0,2,1,4,-0.02,3.0
+162,2021-07-16,663897,647315,strikeout,called_strike,11,Luke Williams called out on strikes.,0,2,2,3,6,-0.55,3.32
+163,2021-07-16,663897,647315,,foul,11,Luke Williams called out on strikes.,0,1,2,2,6,-1.37,3.03
+164,2021-07-16,663897,647315,,missed_bunt,13,Luke Williams called out on strikes.,0,0,2,1,6,-1.47,2.01
+165,2021-07-16,663897,595345,grounded_into_double_play,hit_into_play,4,"Luke Williams grounds into a double play, shortstop Miguel Rojas to first baseman Jesus Aguilar.   Jean Segura out at 2nd.    Luke Williams out at 1st.",1,2,1,4,4,-0.38,2.51
+166,2021-07-16,663897,595345,,swinging_strike,12,"Luke Williams grounds into a double play, shortstop Miguel Rojas to first baseman Jesus Aguilar.   Jean Segura out at 2nd.    Luke Williams out at 1st.",1,1,1,3,4,0.39,3.71
+167,2021-07-16,663897,595345,,called_strike,2,"Luke Williams grounds into a double play, shortstop Miguel Rojas to first baseman Jesus Aguilar.   Jean Segura out at 2nd.    Luke Williams out at 1st.",1,0,1,2,4,-0.07,3.04
+168,2021-07-16,663897,595345,,ball,12,"Luke Williams grounds into a double play, shortstop Miguel Rojas to first baseman Jesus Aguilar.   Jean Segura out at 2nd.    Luke Williams out at 1st.",0,0,1,1,4,1.84,3.63
+169,2021-07-16,663897,656548,field_error,hit_into_play,6,Luke Williams reaches on a fielding error by second baseman Jazz Chisholm Jr.,1,2,1,4,2,0.29,2.22
+170,2021-07-16,663897,656548,,swinging_strike,8,Luke Williams reaches on a fielding error by second baseman Jazz Chisholm Jr.,1,1,1,3,2,0.01,1.5
+171,2021-07-16,663897,656548,,called_strike,14,Luke Williams reaches on a fielding error by second baseman Jazz Chisholm Jr.,1,0,1,2,2,0.95,1.8
+172,2021-07-16,663897,656548,,ball,13,Luke Williams reaches on a fielding error by second baseman Jazz Chisholm Jr.,0,0,1,1,2,-0.31,0.57
+173,2021-07-16,663897,542947,single,hit_into_play,11,Luke Williams singles on a line drive to left fielder Magneuris Sierra.,0,1,0,2,7,-0.94,3.21
+174,2021-07-16,663897,542947,,called_strike,4,Luke Williams singles on a line drive to left fielder Magneuris Sierra.,0,0,0,1,7,-0.33,2.45
+175,2021-07-10,663897,527048,field_out,hit_into_play,4,"Luke Williams grounds out sharply, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",1,2,1,4,4,-0.35,2.66
+176,2021-07-10,663897,527048,,ball,11,"Luke Williams grounds out sharply, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,2,1,3,4,-0.9,3.39
+177,2021-07-10,663897,527048,,foul,4,"Luke Williams grounds out sharply, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,1,1,2,4,-0.51,2.27
+178,2021-07-10,663897,527048,,called_strike,9,"Luke Williams grounds out sharply, shortstop Xander Bogaerts to first baseman Bobby Dalbec.",0,0,1,1,4,0.78,1.59
+179,2021-07-10,663897,592169,strikeout,swinging_strike,8,Luke Williams strikes out swinging.,2,2,0,5,9,-0.1,1.77
+180,2021-07-10,663897,592169,,ball,11,Luke Williams strikes out swinging.,1,2,0,4,9,-0.98,3.36
+181,2021-07-10,663897,592169,,swinging_strike,6,Luke Williams strikes out swinging.,1,1,0,3,9,0.66,2.44
+182,2021-07-10,663897,592169,,called_strike,12,Luke Williams strikes out swinging.,1,0,0,2,9,0.94,2.5
+183,2021-07-10,663897,592169,,ball,11,Luke Williams strikes out swinging.,0,0,0,1,9,-1.15,3.19
+184,2021-07-10,663897,527048,field_out,hit_into_play,2,Luke Williams flies out to center fielder Enrique Hernandez.,0,0,0,1,2,0.22,2.87
+185,2021-07-10,663897,676477,force_out,hit_into_play,7,"Luke Williams grounds into a force out, third baseman Rafael Devers to second baseman Christian Arroyo.   Alec Bohm out at 2nd.    Luke Williams to 1st.",0,0,1,1,6,-0.42,1.95
+186,2021-07-10,663897,519443,walk,ball,14,Luke Williams walks.   Rhys Hoskins to 3rd.    Didi Gregorius to 2nd.,3,2,0,6,8,1.26,1.43
+187,2021-07-10,663897,519443,,ball,14,Luke Williams walks.   Rhys Hoskins to 3rd.    Didi Gregorius to 2nd.,2,2,0,5,8,0.45,1.29
+188,2021-07-10,663897,519443,,blocked_ball,14,Luke Williams walks.   Rhys Hoskins to 3rd.    Didi Gregorius to 2nd.,1,2,0,4,8,1.1,-0.43
+189,2021-07-10,663897,519443,,ball,12,Luke Williams walks.   Rhys Hoskins to 3rd.    Didi Gregorius to 2nd.,0,2,0,3,8,0.95,2.46
+190,2021-07-10,663897,519443,,foul,9,Luke Williams walks.   Rhys Hoskins to 3rd.    Didi Gregorius to 2nd.,0,1,0,2,8,0.7,1.56
+191,2021-07-10,663897,519443,,called_strike,3,Luke Williams walks.   Rhys Hoskins to 3rd.    Didi Gregorius to 2nd.,0,0,0,1,8,0.75,2.91
+192,2021-07-09,663897,650382,strikeout,foul_tip,11,Luke Williams strikes out on a foul tip.,2,2,0,6,8,-0.39,3.72
+193,2021-07-09,663897,650382,,ball,13,Luke Williams strikes out on a foul tip.,1,2,0,5,8,-1.65,0.14
+194,2021-07-09,663897,650382,,ball,13,Luke Williams strikes out on a foul tip.,0,2,0,4,8,-1.37,0.73
+195,2021-07-09,663897,650382,,foul,3,Luke Williams strikes out on a foul tip.,0,2,0,3,8,0.44,3.3
+196,2021-07-09,663897,650382,,foul,6,Luke Williams strikes out on a foul tip.,0,1,0,2,8,0.36,2.74
+197,2021-07-09,663897,650382,,called_strike,6,Luke Williams strikes out on a foul tip.,0,0,0,1,8,0.49,2.39
+198,2021-07-08,663897,605388,single,hit_into_play,9,"Luke Williams singles on a ground ball to center fielder Jake Marisnick, deflected by pitcher Adam Morgan.",1,0,1,2,9,0.53,1.82
+199,2021-07-08,663897,605388,,ball,13,"Luke Williams singles on a ground ball to center fielder Jake Marisnick, deflected by pitcher Adam Morgan.",0,0,1,1,9,-0.96,1.19
+200,2021-07-07,663897,605177,field_out,hit_into_play,8,Luke Williams flies out to center fielder Rafael Ortega.,3,2,0,6,7,0.03,1.61
+201,2021-07-07,663897,605177,,called_strike,12,Luke Williams flies out to center fielder Rafael Ortega.,3,1,0,5,7,0.48,3.07
+202,2021-07-07,663897,605177,,ball,13,Luke Williams flies out to center fielder Rafael Ortega.,2,1,0,4,7,-0.91,1.33
+203,2021-07-07,663897,605177,,foul,1,Luke Williams flies out to center fielder Rafael Ortega.,2,0,0,3,7,-0.48,3.04
+204,2021-07-07,663897,605177,,ball,13,Luke Williams flies out to center fielder Rafael Ortega.,1,0,0,2,7,-0.06,0.61
+205,2021-07-07,663897,605177,,ball,12,Luke Williams flies out to center fielder Rafael Ortega.,0,0,0,1,7,1.54,2.29
+206,2021-07-06,663897,623364,single,hit_into_play,5,Luke Williams singles on a ground ball to center fielder Jake Marisnick.,2,2,0,5,9,-0.19,2.67
+207,2021-07-06,663897,623364,,ball,11,Luke Williams singles on a ground ball to center fielder Jake Marisnick.,1,2,0,4,9,-1.45,2.43
+208,2021-07-06,663897,623364,,foul,4,Luke Williams singles on a ground ball to center fielder Jake Marisnick.,1,1,0,3,9,-0.69,2.54
+209,2021-07-06,663897,623364,,ball,13,Luke Williams singles on a ground ball to center fielder Jake Marisnick.,0,1,0,2,9,-0.94,1.33
+210,2021-07-06,663897,623364,,called_strike,4,Luke Williams singles on a ground ball to center fielder Jake Marisnick.,0,0,0,1,9,-0.56,2.54
+211,2021-07-04,663897,605483,strikeout,swinging_strike,13,Luke Williams strikes out swinging.,1,2,1,4,4,-0.79,0.89
+212,2021-07-04,663897,605483,,foul_tip,13,Luke Williams strikes out swinging.,1,1,1,3,4,-0.7,1.17
+213,2021-07-04,663897,605483,,ball,14,Luke Williams strikes out swinging.,0,1,1,2,4,0.16,0.99
+214,2021-07-04,663897,605483,,called_strike,6,Luke Williams strikes out swinging.,0,0,1,1,4,0.58,2.41
+215,2021-07-04,663897,605483,walk,ball,12,Luke Williams walks.   Rhys Hoskins to 2nd.,3,1,1,5,2,1.09,2.82
+216,2021-07-04,663897,605483,,called_strike,2,Luke Williams walks.   Rhys Hoskins to 2nd.,3,0,1,4,2,-0.11,2.84
+217,2021-07-04,663897,605483,,blocked_ball,14,Luke Williams walks.   Rhys Hoskins to 2nd.,2,0,1,3,2,0.21,0.78
+218,2021-07-04,663897,605483,,ball,12,Luke Williams walks.   Rhys Hoskins to 2nd.,1,0,1,2,2,1.07,2.63
+219,2021-07-04,663897,605483,,ball,14,Luke Williams walks.   Rhys Hoskins to 2nd.,0,0,1,1,2,0.17,1.06
+220,2021-07-02,663897,598286,field_out,hit_into_play,1,"Luke Williams grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",2,2,0,6,8,-0.5,2.85
+221,2021-07-02,663897,598286,,foul,8,"Luke Williams grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",2,2,0,5,8,-0.03,1.96
+222,2021-07-02,663897,598286,,called_strike,7,"Luke Williams grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",2,1,0,4,8,-0.78,1.85
+223,2021-07-02,663897,598286,,ball,12,"Luke Williams grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",1,1,0,3,8,1.86,2.6
+224,2021-07-02,663897,598286,,swinging_strike,14,"Luke Williams grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",1,0,0,2,8,1.45,1.67
+225,2021-07-02,663897,598286,,ball,13,"Luke Williams grounds out, third baseman Manny Machado to first baseman Eric Hosmer.",0,0,0,1,8,-0.37,0.78
+226,2021-06-30,663897,571670,single,hit_into_play,6,Luke Williams singles on a line drive to center fielder Starling Marte.,3,2,2,6,8,0.37,2.37
+227,2021-06-30,663897,571670,,foul,6,Luke Williams singles on a line drive to center fielder Starling Marte.,3,1,2,5,8,0.48,2.49
+228,2021-06-30,663897,571670,,ball,14,Luke Williams singles on a line drive to center fielder Starling Marte.,2,1,2,4,8,0.94,1.34
+229,2021-06-30,663897,571670,,foul,8,Luke Williams singles on a line drive to center fielder Starling Marte.,2,0,2,3,8,0.14,1.94
+230,2021-06-30,663897,571670,,ball,12,Luke Williams singles on a line drive to center fielder Starling Marte.,1,0,2,2,8,0.5,3.77
+231,2021-06-30,663897,571670,,ball,11,Luke Williams singles on a line drive to center fielder Starling Marte.,0,0,2,1,8,-0.16,3.98
+232,2021-06-30,663897,595345,field_out,hit_into_play,7,Luke Williams pops out to catcher Sandy Leon.,0,1,0,2,6,-0.64,2.04
+233,2021-06-30,663897,595345,,foul,5,Luke Williams pops out to catcher Sandy Leon.,0,0,0,1,6,0.13,2.45
+234,2021-06-29,663897,669432,field_out,hit_into_play,14,"Luke Williams grounds out, pitcher Trevor Rogers to first baseman Jesus Aguilar.",0,1,1,2,5,0.91,1.8
+235,2021-06-29,663897,669432,,called_strike,2,"Luke Williams grounds out, pitcher Trevor Rogers to first baseman Jesus Aguilar.",0,0,1,1,5,0.17,2.65
+236,2021-06-29,663897,669432,strikeout,foul_tip,3,Luke Williams strikes out on a foul tip.,3,2,2,6,2,0.46,3.28
+237,2021-06-29,663897,669432,,called_strike,8,Luke Williams strikes out on a foul tip.,3,1,2,5,2,0.25,1.79
+238,2021-06-29,663897,669432,,ball,12,Luke Williams strikes out on a foul tip.,2,1,2,4,2,0.07,4.1
+239,2021-06-29,663897,669432,,ball,14,Luke Williams strikes out on a foul tip.,1,1,2,3,2,0.49,0.94
+240,2021-06-29,663897,669432,,ball,14,Luke Williams strikes out on a foul tip.,0,1,2,2,2,1.58,1.98
+241,2021-06-29,663897,669432,,called_strike,2,Luke Williams strikes out on a foul tip.,0,0,2,1,2,-0.05,2.74
+242,2021-06-29,663897,669432,field_out,hit_into_play,4,"Luke Williams grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,1,0,2,1,-0.6,2.31
+243,2021-06-29,663897,669432,,called_strike,8,"Luke Williams grounds out, second baseman Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,0,1,1,-0.14,1.94
+244,2021-06-28,663897,489119,walk,ball,13,Luke Williams walks.   Alec Bohm to 2nd.,3,1,2,5,5,-1.02,1.01
+245,2021-06-28,663897,489119,,ball,13,Luke Williams walks.   Alec Bohm to 2nd.,2,1,2,4,5,-1.37,2.14
+246,2021-06-28,663897,489119,,called_strike,1,Luke Williams walks.   Alec Bohm to 2nd.,2,0,2,3,5,-0.68,3.08
+247,2021-06-28,663897,489119,,ball,13,Luke Williams walks.   Alec Bohm to 2nd.,1,0,2,2,5,-1.05,2.21
+248,2021-06-28,663897,489119,,ball,11,Luke Williams walks.   Alec Bohm to 2nd.,0,0,2,1,5,-0.41,3.72
+249,2021-06-28,663897,489119,single,hit_into_play,11,Luke Williams singles on a soft bunt ground ball to third baseman Eugenio Suarez.   Alec Bohm to 3rd.,0,0,0,1,4,-1.12,3.13
+250,2021-06-28,663897,592390,strikeout,foul_tip,14,Luke Williams strikes out on a foul tip.,2,2,2,5,7,0.95,2.31
+251,2021-06-28,663897,592390,,ball,14,Luke Williams strikes out on a foul tip.,1,2,2,4,7,1.96,1.19
+252,2021-06-28,663897,592390,,called_strike,9,Luke Williams strikes out on a foul tip.,1,1,2,3,7,0.66,1.47
+253,2021-06-28,663897,592390,,ball,14,Luke Williams strikes out on a foul tip.,0,1,2,2,7,1.77,1.47
+254,2021-06-28,663897,592390,,called_strike,6,Luke Williams strikes out on a foul tip.,0,0,2,1,7,0.46,2.44
+255,2021-06-28,663897,489119,field_out,hit_into_play,8,"Luke Williams grounds out sharply, third baseman Eugenio Suarez to first baseman Joey Votto.",1,0,0,2,2,-0.27,2.09
+256,2021-06-28,663897,489119,,ball,13,"Luke Williams grounds out sharply, third baseman Eugenio Suarez to first baseman Joey Votto.",0,0,0,1,2,-1.06,1.08
+257,2021-06-26,663897,594798,field_out,hit_into_play,14,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",3,2,2,8,6,1.03,2.03
+258,2021-06-26,663897,594798,,ball,14,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",2,2,2,7,6,1.55,0.72
+259,2021-06-26,663897,594798,,foul,14,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",2,2,2,6,6,1.09,1.54
+260,2021-06-26,663897,594798,,ball,14,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",1,2,2,5,6,1.65,1.28
+261,2021-06-26,663897,594798,,foul,3,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",1,2,2,4,6,0.48,3.09
+262,2021-06-26,663897,594798,,called_strike,8,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",1,1,2,3,6,0.05,1.53
+263,2021-06-26,663897,594798,,called_strike,9,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",1,0,2,2,6,0.6,1.85
+264,2021-06-26,663897,594798,,ball,12,"Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.",0,0,2,1,6,1.39,2.41
+265,2021-06-26,663897,594798,strikeout,swinging_strike_blocked,14,Luke Williams strikes out swinging.,3,2,2,6,4,1.45,0.87
+266,2021-06-26,663897,594798,,ball,14,Luke Williams strikes out swinging.,2,2,2,5,4,1.64,1.02
+267,2021-06-26,663897,594798,,swinging_strike,14,Luke Williams strikes out swinging.,2,1,2,4,4,1.1,1.37
+268,2021-06-26,663897,594798,,ball,14,Luke Williams strikes out swinging.,1,1,2,3,4,2.3,0.89
+269,2021-06-26,663897,594798,,called_strike,9,Luke Williams strikes out swinging.,1,0,2,2,4,0.8,1.7
+270,2021-06-26,663897,594798,,ball,9,Luke Williams strikes out swinging.,0,0,2,1,4,0.63,1.63
+271,2021-06-26,663897,594798,strikeout,swinging_strike,12,Luke Williams strikes out swinging.,1,2,1,4,2,0.98,3.24
+272,2021-06-26,663897,594798,,called_strike,14,Luke Williams strikes out swinging.,1,1,1,3,2,0.95,1.95
+273,2021-06-26,663897,594798,,swinging_strike,12,Luke Williams strikes out swinging.,1,0,1,2,2,0.93,2.67
+274,2021-06-26,663897,594798,,ball,14,Luke Williams strikes out swinging.,0,0,1,1,2,1.62,1.71
+275,2021-06-26,663897,621242,walk,ball,14,Luke Williams walks.   Andrew McCutchen to 3rd.  Wild pitch by pitcher Edwin Diaz.   Andrew McCutchen to 3rd.,3,2,0,7,9,3.05,-0.14
+276,2021-06-26,663897,621242,,foul,7,Luke Williams walks.   Andrew McCutchen to 3rd.  Wild pitch by pitcher Edwin Diaz.   Andrew McCutchen to 3rd.,3,2,0,6,9,-0.29,1.94
+277,2021-06-26,663897,621242,,ball,11,Luke Williams walks.   Andrew McCutchen to 3rd.  Wild pitch by pitcher Edwin Diaz.   Andrew McCutchen to 3rd.,2,2,0,5,9,-1.16,5.27
+278,2021-06-26,663897,621242,,foul_bunt,14,Luke Williams walks.   Andrew McCutchen to 3rd.  Wild pitch by pitcher Edwin Diaz.   Andrew McCutchen to 3rd.,2,1,0,4,9,1.19,1.38
+279,2021-06-26,663897,621242,,ball,14,Luke Williams walks.   Andrew McCutchen to 3rd.  Wild pitch by pitcher Edwin Diaz.   Andrew McCutchen to 3rd.,1,1,0,3,9,1.68,1.28
+280,2021-06-26,663897,621242,,called_strike,9,Luke Williams walks.   Andrew McCutchen to 3rd.  Wild pitch by pitcher Edwin Diaz.   Andrew McCutchen to 3rd.,1,0,0,2,9,0.74,1.63
+281,2021-06-26,663897,621242,,ball,11,Luke Williams walks.   Andrew McCutchen to 3rd.  Wild pitch by pitcher Edwin Diaz.   Andrew McCutchen to 3rd.,0,0,0,1,9,-1.01,3.05
+282,2021-06-25,663897,656849,field_out,hit_into_play,2,"Luke Williams bunt grounds out, pitcher David Peterson to first baseman Pete Alonso.",0,0,0,1,5,0.25,3.23
+283,2021-06-25,663897,656849,field_out,hit_into_play,4,"Luke Williams grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.",3,2,2,6,2,-0.74,2.51
+284,2021-06-25,663897,656849,,foul,5,"Luke Williams grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.",3,1,2,5,2,-0.16,2.22
+285,2021-06-25,663897,656849,,ball,12,"Luke Williams grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.",2,1,2,4,2,1.29,3.84
+286,2021-06-25,663897,656849,,ball,14,"Luke Williams grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.",1,1,2,3,2,0.2,0.97
+287,2021-06-25,663897,656849,,called_strike,7,"Luke Williams grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.",1,0,2,2,2,-0.55,1.69
+288,2021-06-25,663897,656849,,ball,8,"Luke Williams grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.",0,0,2,1,2,-0.19,1.44
+289,2021-06-25,663897,622098,field_out,hit_into_play,5,Luke Williams flies out to center fielder Kevin Pillar.   Ronald Torreyes to 3rd.,1,2,1,4,7,0.22,2.52
+290,2021-06-25,663897,622098,,ball,11,Luke Williams flies out to center fielder Kevin Pillar.   Ronald Torreyes to 3rd.,0,2,1,3,7,-0.73,4.29
+291,2021-06-25,663897,622098,,foul,4,Luke Williams flies out to center fielder Kevin Pillar.   Ronald Torreyes to 3rd.,0,1,1,2,7,-0.34,2.76
+292,2021-06-25,663897,543507,field_out,hit_into_play,5,"Luke Williams grounds out, catcher Patrick Mazeika to first baseman Pete Alonso.",1,0,0,2,7,-0.24,2.25
+293,2021-06-25,663897,543507,,ball,11,"Luke Williams grounds out, catcher Patrick Mazeika to first baseman Pete Alonso.",0,0,0,1,7,-0.49,4.32
+294,2021-06-25,663897,622098,,called_strike,12,Luke Williams flies out to center fielder Kevin Pillar.   Ronald Torreyes to 3rd.,0,0,1,1,7,0.34,3.24
+295,2021-06-23,663897,621348,single,hit_into_play,5,Luke Williams singles on a ground ball to right fielder Juan Soto.   Alec Bohm scores.    Ronald Torreyes to 2nd.,2,2,1,5,7,0.2,2.78
+296,2021-06-23,663897,621348,,foul,3,Luke Williams singles on a ground ball to right fielder Juan Soto.   Alec Bohm scores.    Ronald Torreyes to 2nd.,2,1,1,4,7,0.33,3.05
+297,2021-06-23,663897,621348,,foul,3,Luke Williams singles on a ground ball to right fielder Juan Soto.   Alec Bohm scores.    Ronald Torreyes to 2nd.,2,0,1,3,7,0.5,2.87
+298,2021-06-23,663897,621348,,ball,12,Luke Williams singles on a ground ball to right fielder Juan Soto.   Alec Bohm scores.    Ronald Torreyes to 2nd.,1,0,1,2,7,1.23,2.77
+299,2021-06-23,663897,621348,,ball,12,Luke Williams singles on a ground ball to right fielder Juan Soto.   Alec Bohm scores.    Ronald Torreyes to 2nd.,0,0,1,1,7,0.42,3.46
+300,2021-06-22,663897,608723,field_out,hit_into_play,9,"Luke Williams grounds out, first baseman Josh Bell to pitcher Austin Voth.",1,1,2,3,7,0.82,2.1
+301,2021-06-22,663897,608723,,foul,1,"Luke Williams grounds out, first baseman Josh Bell to pitcher Austin Voth.",1,0,2,2,7,-0.63,3.08
+302,2021-06-22,663897,608723,,ball,14,"Luke Williams grounds out, first baseman Josh Bell to pitcher Austin Voth.",0,0,2,1,7,0.66,0.83
+303,2021-06-20,663897,669674,field_out,hit_into_play,9,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",1,2,2,4,5,0.38,1.55
+304,2021-06-20,663897,669674,,foul,5,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",1,1,2,3,5,0.2,2.48
+305,2021-06-20,663897,669674,,ball,14,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,1,2,2,5,0.42,1.37
+306,2021-06-20,663897,669674,,called_strike,5,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,0,2,1,5,-0.1,2.35
+307,2021-06-20,663897,669674,field_out,hit_into_play,6,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,2,1,4,3,0.55,2.35
+308,2021-06-20,663897,669674,,foul,3,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,2,1,3,3,0.33,3.14
+309,2021-06-20,663897,669674,,foul_tip,14,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,1,1,2,3,0.04,1.19
+310,2021-06-20,663897,669674,,called_strike,2,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,0,1,1,3,-0.09,2.9
+311,2021-06-20,663897,669674,field_out,hit_into_play,4,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",2,2,0,5,1,-0.6,2.27
+312,2021-06-20,663897,669674,,swinging_strike,8,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",2,1,0,4,1,0.25,2.07
+313,2021-06-20,663897,642073,field_out,hit_into_play,5,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,0,1,1,8,-0.26,2.66
+314,2021-06-20,663897,669674,,ball,13,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",1,1,0,3,1,-0.93,-0.08
+315,2021-06-20,663897,669674,,foul,8,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",1,0,0,2,1,0.15,1.47
+316,2021-06-20,663897,669674,,ball,12,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,0,0,1,1,1.33,2.82
+317,2021-06-19,663897,622072,field_out,hit_into_play,13,"Luke Williams grounds out sharply, third baseman Jason Vosler to first baseman Brandon Belt.",2,2,0,5,3,-0.57,0.98
+318,2021-06-19,663897,622072,,ball,12,"Luke Williams grounds out sharply, third baseman Jason Vosler to first baseman Brandon Belt.",1,2,0,4,3,0.37,4.46
+319,2021-06-19,663897,622072,,foul_bunt,1,"Luke Williams grounds out sharply, third baseman Jason Vosler to first baseman Brandon Belt.",1,1,0,3,3,-0.59,3.03
+320,2021-06-19,663897,622072,,ball,13,"Luke Williams grounds out sharply, third baseman Jason Vosler to first baseman Brandon Belt.",0,1,0,2,3,-1.0,-0.26
+321,2021-06-19,663897,622072,,called_strike,4,"Luke Williams grounds out sharply, third baseman Jason Vosler to first baseman Brandon Belt.",0,0,0,1,3,-0.77,2.23
+322,2021-06-19,663897,669214,double,hit_into_play,4,Luke Williams doubles (4) on a line drive to left fielder LaMonte Wade.   Andrew McCutchen scores.    Alec Bohm to 3rd.,1,0,1,2,8,-0.75,2.71
+323,2021-06-19,663897,669214,,ball,12,Luke Williams doubles (4) on a line drive to left fielder LaMonte Wade.   Andrew McCutchen scores.    Alec Bohm to 3rd.,0,0,1,1,8,1.09,3.5
+324,2021-06-19,663897,622072,field_out,hit_into_play,4,Luke Williams pops out to second baseman Donovan Solano.,3,2,2,6,1,-0.61,2.5
+325,2021-06-19,663897,622072,,ball,11,Luke Williams pops out to second baseman Donovan Solano.,2,2,2,5,1,-1.03,2.31
+326,2021-06-19,663897,622072,,foul,4,Luke Williams pops out to second baseman Donovan Solano.,2,1,2,4,1,-0.29,2.27
+327,2021-06-19,663897,622072,,ball,12,Luke Williams pops out to second baseman Donovan Solano.,1,1,2,3,1,1.68,2.68
+328,2021-06-19,663897,622072,,ball,14,Luke Williams pops out to second baseman Donovan Solano.,0,1,2,2,1,1.49,1.83
+329,2021-06-19,663897,622072,,foul,6,Luke Williams pops out to second baseman Donovan Solano.,0,0,2,1,1,0.59,2.46
+330,2021-06-19,663897,642073,strikeout,swinging_strike,14,Luke Williams strikes out swinging.,1,2,2,4,5,1.02,1.97
+331,2021-06-19,663897,642073,,called_strike,12,Luke Williams strikes out swinging.,1,1,2,3,5,0.31,3.18
+332,2021-06-19,663897,642073,,foul,2,Luke Williams strikes out swinging.,1,0,2,2,5,-0.05,3.15
+333,2021-06-19,663897,669214,single,hit_into_play,6,Luke Williams singles on a ground ball to right fielder Mike Yastrzemski.   Alec Bohm to 2nd.,1,2,0,4,7,0.53,2.48
+334,2021-06-19,663897,642073,,ball,11,Luke Williams strikes out swinging.,0,0,2,1,5,-2.0,3.09
+335,2021-06-19,663897,669214,,foul,12,Luke Williams singles on a ground ball to right fielder Mike Yastrzemski.   Alec Bohm to 2nd.,1,1,0,3,7,1.11,2.67
+336,2021-06-19,663897,669214,,swinging_strike,13,Luke Williams singles on a ground ball to right fielder Mike Yastrzemski.   Alec Bohm to 2nd.,1,0,0,2,7,-1.19,2.05
+337,2021-06-19,663897,669214,,ball,7,Luke Williams singles on a ground ball to right fielder Mike Yastrzemski.   Alec Bohm to 2nd.,0,0,0,1,7,-0.7,1.46
+338,2021-06-18,663897,456501,field_out,hit_into_play,9,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,1,2,2,4,0.67,1.9
+339,2021-06-18,663897,456501,,foul,3,"Luke Williams grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",0,0,2,1,4,0.29,3.06
+340,2021-06-18,663897,456501,field_out,hit_into_play,11,Luke Williams lines out to shortstop Brandon Crawford.,0,1,2,2,2,-0.96,3.06
+341,2021-06-18,663897,456501,,called_strike,6,Luke Williams lines out to shortstop Brandon Crawford.,0,0,2,1,2,0.31,2.33
+342,2021-06-18,663897,608678,strikeout,swinging_strike,14,Luke Williams strikes out swinging.,2,2,2,5,7,1.08,0.81
+343,2021-06-18,663897,608678,,foul,6,Luke Williams strikes out swinging.,2,1,2,4,7,0.52,2.66
+344,2021-06-18,663897,608678,,called_strike,8,Luke Williams strikes out swinging.,2,0,2,3,7,0.07,1.64
+345,2021-06-18,663897,608678,,ball,14,Luke Williams strikes out swinging.,1,0,2,2,7,1.57,0.89
+346,2021-06-18,663897,608678,,ball,14,Luke Williams strikes out swinging.,0,0,2,1,7,1.87,1.42
+347,2021-06-16,663897,477132,single,hit_into_play,5,Luke Williams singles on a soft bunt ground ball to third baseman Zach McKinstry.,0,0,0,1,6,0.15,2.73
+348,2021-06-16,663897,477132,field_out,hit_into_play,7,Luke Williams lines out to center fielder Mookie Betts.,1,0,0,2,4,-0.46,1.92
+349,2021-06-16,663897,477132,,ball,12,Luke Williams lines out to center fielder Mookie Betts.,0,0,0,1,4,1.6,2.69
+350,2021-06-16,663897,641360,double,hit_into_play,8,Luke Williams doubles (3) on a line drive to center fielder Mookie Betts.,2,2,2,6,8,0.22,1.56
+351,2021-06-16,663897,641360,,foul,14,Luke Williams doubles (3) on a line drive to center fielder Mookie Betts.,2,2,2,5,8,0.96,2.25
+352,2021-06-16,663897,641360,,called_strike,9,Luke Williams doubles (3) on a line drive to center fielder Mookie Betts.,2,1,2,4,8,0.66,1.9
+353,2021-06-16,663897,641360,,ball,14,Luke Williams doubles (3) on a line drive to center fielder Mookie Betts.,1,1,2,3,8,0.41,0.91
+354,2021-06-16,663897,641360,,called_strike,5,Luke Williams doubles (3) on a line drive to center fielder Mookie Betts.,1,0,2,2,8,-0.15,2.3
+355,2021-06-16,663897,641360,,ball,12,Luke Williams doubles (3) on a line drive to center fielder Mookie Betts.,0,0,2,1,8,1.17,2.74
+356,2021-06-16,663897,477132,double,hit_into_play,4,Luke Williams doubles (2) on a sharp line drive to left fielder AJ Pollock.,1,1,1,3,2,-0.7,2.25
+357,2021-06-16,663897,477132,,ball,12,Luke Williams doubles (2) on a sharp line drive to left fielder AJ Pollock.,0,1,1,2,2,0.5,3.86
+358,2021-06-16,663897,477132,,called_strike,6,Luke Williams doubles (2) on a sharp line drive to left fielder AJ Pollock.,0,0,1,1,2,0.51,2.22
+359,2021-06-15,663897,628711,field_out,hit_into_play,5,Luke Williams flies out to right fielder Zach McKinstry.,0,2,1,3,6,0.12,2.68
+360,2021-06-15,663897,628711,,foul,6,Luke Williams flies out to right fielder Zach McKinstry.,0,1,1,2,6,0.8,2.66
+361,2021-06-15,663897,628711,,called_strike,12,Luke Williams flies out to right fielder Zach McKinstry.,0,0,1,1,6,0.88,2.42
+362,2021-06-15,663897,628711,field_error,hit_into_play,5,Luke Williams reaches on a throwing error by second baseman Chris Taylor.   Alec Bohm to 2nd.,2,2,0,5,5,0.2,2.82
+363,2021-06-15,663897,628711,,ball,9,Luke Williams reaches on a throwing error by second baseman Chris Taylor.   Alec Bohm to 2nd.,1,2,0,4,5,0.77,1.39
+364,2021-06-15,663897,628711,,foul,6,Luke Williams reaches on a throwing error by second baseman Chris Taylor.   Alec Bohm to 2nd.,1,1,0,3,5,0.62,2.36
+365,2021-06-15,663897,628711,,ball,14,Luke Williams reaches on a throwing error by second baseman Chris Taylor.   Alec Bohm to 2nd.,0,1,0,2,5,1.67,1.69
+366,2021-06-15,663897,628711,,foul,6,Luke Williams reaches on a throwing error by second baseman Chris Taylor.   Alec Bohm to 2nd.,0,0,0,1,5,0.77,2.6
+367,2021-06-15,663897,628711,single,hit_into_play,8,Luke Williams singles on a ground ball to right fielder Zach McKinstry.,0,1,2,2,2,-0.06,2.12
+368,2021-06-15,663897,628711,,called_strike,2,Luke Williams singles on a ground ball to right fielder Zach McKinstry.,0,0,2,1,2,-0.02,3.12
+369,2021-06-15,663897,641360,force_out,hit_into_play,4,"Luke Williams grounds into a force out, fielded by third baseman Justin Turner.   Travis Jankowski out at 3rd.",2,2,2,5,8,-0.55,2.59
+370,2021-06-15,663897,641360,,swinging_strike,1,"Luke Williams grounds into a force out, fielded by third baseman Justin Turner.   Travis Jankowski out at 3rd.",2,1,2,4,8,-0.31,3.16
+371,2021-06-15,663897,641360,,called_strike,2,"Luke Williams grounds into a force out, fielded by third baseman Justin Turner.   Travis Jankowski out at 3rd.",2,0,2,3,8,-0.11,3.08
+372,2021-06-15,663897,641360,,ball,14,"Luke Williams grounds into a force out, fielded by third baseman Justin Turner.   Travis Jankowski out at 3rd.",1,0,2,2,8,1.31,1.36
+373,2021-06-15,663897,641360,,blocked_ball,14,"Luke Williams grounds into a force out, fielded by third baseman Justin Turner.   Travis Jankowski out at 3rd.",0,0,2,1,8,2.18,0.17
+374,2021-06-14,663897,624647,single,hit_into_play,14,Luke Williams singles on a line drive to center fielder Mookie Betts.   Ronald Torreyes to 2nd.,2,2,2,5,6,0.59,1.31
+375,2021-06-14,663897,624647,,blocked_ball,14,Luke Williams singles on a line drive to center fielder Mookie Betts.   Ronald Torreyes to 2nd.,1,2,2,4,6,0.08,0.08
+376,2021-06-14,663897,624647,,foul,8,Luke Williams singles on a line drive to center fielder Mookie Betts.   Ronald Torreyes to 2nd.,1,1,2,3,6,0.24,2.09
+377,2021-06-14,663897,624647,,foul,6,Luke Williams singles on a line drive to center fielder Mookie Betts.   Ronald Torreyes to 2nd.,1,0,2,2,6,0.53,2.32
+378,2021-06-14,663897,624647,,ball,12,Luke Williams singles on a line drive to center fielder Mookie Betts.   Ronald Torreyes to 2nd.,0,0,2,1,6,1.86,3.14
+379,2021-06-12,663897,502154,strikeout,foul_tip,3,Luke Williams strikes out on a foul tip.,2,2,2,6,7,0.51,3.36
+380,2021-06-12,663897,502154,,ball,14,Luke Williams strikes out on a foul tip.,1,2,2,5,7,2.31,2.07
+381,2021-06-12,663897,502154,,foul,13,Luke Williams strikes out on a foul tip.,1,2,2,4,7,-1.12,1.52
+382,2021-06-12,663897,502154,,ball,14,Luke Williams strikes out on a foul tip.,0,2,2,3,7,0.58,0.42
+383,2021-06-12,663897,502154,,foul,14,Luke Williams strikes out on a foul tip.,0,1,2,2,7,0.34,1.3
+384,2021-06-12,663897,502154,,foul,6,Luke Williams strikes out on a foul tip.,0,0,2,1,7,0.82,2.32
+385,2021-06-10,663897,666120,field_out,hit_into_play,2,Luke Williams flies out to center fielder Ender Inciarte.,2,1,1,4,7,-0.04,3.24
+386,2021-06-10,663897,666120,,ball,14,Luke Williams flies out to center fielder Ender Inciarte.,1,1,1,3,7,1.68,-0.52
+387,2021-06-10,663897,666120,,ball,14,Luke Williams flies out to center fielder Ender Inciarte.,0,1,1,2,7,0.33,1.4
+388,2021-06-10,663897,666120,,called_strike,12,Luke Williams flies out to center fielder Ender Inciarte.,0,0,1,1,7,0.51,3.25
+389,2021-06-10,663897,666120,field_out,hit_into_play,5,Luke Williams pops out to second baseman Ozzie Albies.,2,1,2,4,4,0.05,2.19
+390,2021-06-10,663897,666120,,called_strike,12,Luke Williams pops out to second baseman Ozzie Albies.,2,0,2,3,4,0.91,2.66
+391,2021-06-10,663897,666120,,ball,12,Luke Williams pops out to second baseman Ozzie Albies.,1,0,2,2,4,0.41,3.97
+392,2021-06-10,663897,666120,,ball,12,Luke Williams pops out to second baseman Ozzie Albies.,0,0,2,1,4,0.99,3.54
+393,2021-06-10,663897,666120,single,hit_into_play,9,Luke Williams singles on a ground ball to shortstop Dansby Swanson.,0,1,1,2,2,0.53,2.03
+394,2021-06-10,663897,666120,,foul,6,Luke Williams singles on a ground ball to shortstop Dansby Swanson.,0,0,1,1,2,0.49,2.36
+395,2021-06-10,663897,592426,field_out,hit_into_play,5,"Luke Williams grounds out softly, third baseman Austin Riley to first baseman Freddie Freeman.",1,0,1,2,9,-0.07,2.18
+396,2021-06-10,663897,592426,,ball,12,"Luke Williams grounds out softly, third baseman Austin Riley to first baseman Freddie Freeman.",0,0,1,1,9,1.2,2.72
+397,2021-06-09,663897,656353,double,hit_into_play,11,Luke Williams doubles (1) on a sharp ground ball to left fielder Abraham Almonte.,0,1,1,2,4,-1.04,2.78
+398,2021-06-09,663897,656353,,called_strike,8,Luke Williams doubles (1) on a sharp ground ball to left fielder Abraham Almonte.,0,0,1,1,4,0.01,1.76
+399,2021-06-09,663897,656353,strikeout,swinging_strike,11,Luke Williams strikes out swinging.,2,2,0,6,2,-0.11,3.67
+400,2021-06-09,663897,656353,,foul,1,Luke Williams strikes out swinging.,2,2,0,5,2,-0.32,2.92
+401,2021-06-09,663897,656353,,ball,12,Luke Williams strikes out swinging.,1,2,0,4,2,0.78,3.51
+402,2021-06-09,663897,656353,,blocked_ball,13,Luke Williams strikes out swinging.,0,2,0,3,2,-1.21,0.31
+403,2021-06-09,663897,656353,,foul,11,Luke Williams strikes out swinging.,0,1,0,2,2,-0.2,3.77
+404,2021-06-09,663897,656353,,called_strike,13,Luke Williams strikes out swinging.,0,0,0,1,2,-0.91,2.0
+405,2021-06-09,663897,519293,home_run,hit_into_play,4,Luke Williams homers (1) on a line drive to left field.   Andrew McCutchen scores.,0,1,2,2,9,-0.49,2.15
+406,2021-06-09,663897,519293,,called_strike,11,Luke Williams homers (1) on a line drive to left field.   Andrew McCutchen scores.,0,0,2,1,9,-0.86,2.74
+407,2021-06-09,663897,554431,strikeout,swinging_strike,3,Luke Williams strikes out swinging.,2,2,0,5,7,0.42,3.42
+408,2021-06-09,663897,554431,,ball,12,Luke Williams strikes out swinging.,1,2,0,4,7,1.22,5.48
+409,2021-06-09,663897,554431,,foul,7,Luke Williams strikes out swinging.,1,1,0,3,7,-0.41,1.8
+410,2021-06-09,663897,554431,,called_strike,5,Luke Williams strikes out swinging.,1,0,0,2,7,-0.03,2.21
+411,2021-06-09,663897,554431,,ball,12,Luke Williams strikes out swinging.,0,0,0,1,7,1.0,3.3
+412,2021-06-08,663897,592767,single,hit_into_play,4,"Luke Williams singles on a bunt ground ball to pitcher Drew Smyly.   Luke Williams to 3rd.  Luke Williams advances to 3rd, on a throwing error by pitcher Drew Smyly.",0,0,0,1,5,-0.72,2.51

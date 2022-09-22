@@ -1,0 +1,1116 @@
+,game_date,batter,pitcher,events,description,zone,des,balls,strikes,outs_when_up,pitch_number,inning,plate_x,plate_z
+0,2021-10-03,657041,519242,walk,ball,13,Lane Thomas walks.,3,2,0,6,3,-0.5,1.29
+1,2021-10-03,657041,519242,,ball,11,Lane Thomas walks.,2,2,0,5,3,-1.37,3.39
+2,2021-10-03,657041,519242,,ball,13,Lane Thomas walks.,1,2,0,4,3,-0.74,1.21
+3,2021-10-03,657041,519242,,called_strike,14,Lane Thomas walks.,1,1,0,3,3,0.92,1.69
+4,2021-10-03,657041,519242,,ball,12,Lane Thomas walks.,0,1,0,2,3,0.86,3.66
+5,2021-10-03,657041,519242,,called_strike,12,Lane Thomas walks.,0,0,0,1,3,0.88,2.48
+6,2021-10-03,657041,617228,field_out,hit_into_play,8,"Lane Thomas grounds out sharply, second baseman Enrique Hernandez to first baseman Kyle Schwarber.",0,1,2,2,4,-0.11,1.92
+7,2021-10-03,657041,617228,,called_strike,3,"Lane Thomas grounds out sharply, second baseman Enrique Hernandez to first baseman Kyle Schwarber.",0,0,2,1,4,0.49,3.27
+8,2021-10-03,657041,519242,strikeout,swinging_strike,2,Lane Thomas strikes out swinging.,3,2,0,7,1,0.27,3.36
+9,2021-10-03,657041,601713,field_out,hit_into_play,4,Lane Thomas flies out to second baseman Jose Iglesias.,3,2,0,6,9,-0.35,2.62
+10,2021-10-03,657041,527048,field_out,hit_into_play,2,Lane Thomas flies out to right fielder Hunter Renfroe.,1,0,1,2,6,0.1,3.09
+11,2021-10-03,657041,519242,,foul,12,Lane Thomas strikes out swinging.,3,2,0,6,1,1.1,2.45
+12,2021-10-03,657041,519242,,ball,12,Lane Thomas strikes out swinging.,2,2,0,5,1,1.35,3.02
+13,2021-10-03,657041,601713,,foul,5,Lane Thomas flies out to second baseman Jose Iglesias.,3,1,0,5,9,-0.27,2.68
+14,2021-10-03,657041,527048,,ball,13,Lane Thomas flies out to right fielder Hunter Renfroe.,0,0,1,1,6,-0.25,1.31
+15,2021-10-03,657041,601713,,called_strike,9,Lane Thomas flies out to second baseman Jose Iglesias.,3,0,0,4,9,0.33,2.0
+16,2021-10-03,657041,519242,,swinging_strike,6,Lane Thomas strikes out swinging.,2,1,0,4,1,0.48,2.41
+17,2021-10-03,657041,519242,,ball,14,Lane Thomas strikes out swinging.,1,1,0,3,1,1.08,1.88
+18,2021-10-03,657041,601713,,ball,11,Lane Thomas flies out to second baseman Jose Iglesias.,2,0,0,3,9,-1.56,2.42
+19,2021-10-03,657041,601713,,ball,14,Lane Thomas flies out to second baseman Jose Iglesias.,1,0,0,2,9,1.47,1.93
+20,2021-10-03,657041,519242,,called_strike,12,Lane Thomas strikes out swinging.,1,0,0,2,1,0.93,2.81
+21,2021-10-03,657041,601713,,ball,14,Lane Thomas flies out to second baseman Jose Iglesias.,0,0,0,1,9,1.22,2.32
+22,2021-10-03,657041,519242,,ball,12,Lane Thomas strikes out swinging.,0,0,0,1,1,0.98,3.18
+23,2021-10-02,657041,656557,field_out,hit_into_play,9,"Lane Thomas grounds out, shortstop Xander Bogaerts to first baseman Kyle Schwarber.",1,2,0,4,4,0.31,1.85
+24,2021-10-02,657041,656557,,foul,13,"Lane Thomas grounds out, shortstop Xander Bogaerts to first baseman Kyle Schwarber.",1,1,0,3,4,-1.17,2.1
+25,2021-10-02,657041,656557,,called_strike,4,"Lane Thomas grounds out, shortstop Xander Bogaerts to first baseman Kyle Schwarber.",1,0,0,2,4,-0.71,2.3
+26,2021-10-02,657041,656557,,ball,11,"Lane Thomas grounds out, shortstop Xander Bogaerts to first baseman Kyle Schwarber.",0,0,0,1,4,-1.75,3.4
+27,2021-10-02,657041,570663,field_out,hit_into_play,3,Lane Thomas flies out to right fielder Hunter Renfroe.,0,2,2,3,9,0.54,3.24
+28,2021-10-02,657041,570663,,foul,4,Lane Thomas flies out to right fielder Hunter Renfroe.,0,1,2,2,9,-0.54,2.25
+29,2021-10-02,657041,570663,,called_strike,6,Lane Thomas flies out to right fielder Hunter Renfroe.,0,0,2,1,9,0.68,2.02
+30,2021-10-02,657041,572070,force_out,hit_into_play,9,"Lane Thomas grounds into a force out, second baseman Enrique Hernandez to shortstop Xander Bogaerts.   Gerardo Parra out at 2nd.",0,0,2,1,6,0.38,1.66
+31,2021-10-02,657041,493603,walk,ball,14,Lane Thomas walks.,3,2,1,6,8,1.58,1.93
+32,2021-10-02,657041,493603,,swinging_strike,14,Lane Thomas walks.,3,1,1,5,8,1.82,1.7
+33,2021-10-02,657041,493603,,blocked_ball,14,Lane Thomas walks.,2,1,1,4,8,1.73,0.65
+34,2021-10-02,657041,493603,,ball,14,Lane Thomas walks.,1,1,1,3,8,1.92,1.13
+35,2021-10-02,657041,493603,,ball,11,Lane Thomas walks.,0,1,1,2,8,-1.39,3.96
+36,2021-10-02,657041,493603,,called_strike,4,Lane Thomas walks.,0,0,1,1,8,-0.5,2.27
+37,2021-10-02,657041,656557,strikeout,swinging_strike,12,Lane Thomas strikes out swinging.,1,2,0,4,1,0.87,2.51
+38,2021-10-02,657041,656557,,ball,11,Lane Thomas strikes out swinging.,0,2,0,3,1,-0.1,3.82
+39,2021-10-02,657041,656557,,foul,2,Lane Thomas strikes out swinging.,0,1,0,2,1,0.07,3.44
+40,2021-10-02,657041,656557,,called_strike,5,Lane Thomas strikes out swinging.,0,0,0,1,1,-0.23,2.7
+41,2021-10-01,657041,593958,strikeout,swinging_strike,2,Lane Thomas strikes out swinging.,1,2,1,5,5,0.27,3.03
+42,2021-10-01,657041,593958,,foul,4,Lane Thomas strikes out swinging.,1,2,1,4,5,-0.74,2.26
+43,2021-10-01,657041,593958,,foul_tip,14,Lane Thomas strikes out swinging.,1,1,1,3,5,0.56,1.16
+44,2021-10-01,657041,593958,,ball,14,Lane Thomas strikes out swinging.,0,1,1,2,5,0.42,0.99
+45,2021-10-01,657041,593958,,called_strike,8,Lane Thomas strikes out swinging.,0,0,1,1,5,0.26,1.81
+46,2021-10-01,657041,593958,field_out,hit_into_play,8,"Lane Thomas grounds out sharply, third baseman Rafael Devers to first baseman Bobby Dalbec.",0,0,1,1,3,-0.17,1.82
+47,2021-10-01,657041,598264,field_out,hit_into_play,3,Lane Thomas pops out to second baseman Enrique Hernandez.,3,2,1,9,7,0.32,3.22
+48,2021-10-01,657041,598264,,foul,5,Lane Thomas pops out to second baseman Enrique Hernandez.,3,2,1,8,7,0.07,2.68
+49,2021-10-01,657041,598264,,foul,2,Lane Thomas pops out to second baseman Enrique Hernandez.,3,2,1,7,7,0.01,3.07
+50,2021-10-01,657041,598264,,foul,2,Lane Thomas pops out to second baseman Enrique Hernandez.,3,2,1,6,7,-0.01,2.92
+51,2021-10-01,657041,598264,,ball,14,Lane Thomas pops out to second baseman Enrique Hernandez.,2,2,1,5,7,0.71,1.12
+52,2021-10-01,657041,598264,,ball,14,Lane Thomas pops out to second baseman Enrique Hernandez.,1,2,1,4,7,0.18,-0.18
+53,2021-10-01,657041,598264,,called_strike,2,Lane Thomas pops out to second baseman Enrique Hernandez.,1,1,1,3,7,0.03,2.9
+54,2021-10-01,657041,570663,field_out,hit_into_play,9,Lane Thomas lines out to first baseman Bobby Dalbec.,3,2,0,6,9,0.74,1.95
+55,2021-10-01,657041,570663,,foul,4,Lane Thomas lines out to first baseman Bobby Dalbec.,3,1,0,5,9,-0.43,2.44
+56,2021-10-01,657041,598264,,ball,11,Lane Thomas pops out to second baseman Enrique Hernandez.,0,1,1,2,7,-0.31,4.05
+57,2021-10-01,657041,598264,,called_strike,2,Lane Thomas pops out to second baseman Enrique Hernandez.,0,0,1,1,7,0.24,2.75
+58,2021-10-01,657041,570663,,ball,14,Lane Thomas lines out to first baseman Bobby Dalbec.,2,1,0,4,9,1.07,2.04
+59,2021-10-01,657041,570663,,ball,14,Lane Thomas lines out to first baseman Bobby Dalbec.,1,1,0,3,9,1.08,1.59
+60,2021-10-01,657041,593958,double,hit_into_play,5,Lane Thomas doubles (15) on a sharp line drive to left fielder Kyle Schwarber.,0,1,0,2,1,-0.16,2.26
+61,2021-10-01,657041,570663,,called_strike,1,Lane Thomas lines out to first baseman Bobby Dalbec.,1,0,0,2,9,-0.32,3.34
+62,2021-10-01,657041,593958,,called_strike,9,Lane Thomas doubles (15) on a sharp line drive to left fielder Kyle Schwarber.,0,0,0,1,1,0.59,1.51
+63,2021-10-01,657041,570663,,ball,14,Lane Thomas lines out to first baseman Bobby Dalbec.,0,0,0,1,9,1.24,0.27
+64,2021-09-29,657041,663567,force_out,hit_into_play,7,"Lane Thomas grounds into a force out, shortstop Trevor Story to second baseman Brendan Rodgers.   Paolo Espino out at 2nd.    Lane Thomas to 1st.",0,0,0,1,2,-0.45,1.74
+65,2021-09-29,657041,453268,field_out,hit_into_play,5,Lane Thomas flies out to center fielder Sam Hilliard.,0,2,2,4,8,-0.16,2.16
+66,2021-09-29,657041,453268,,foul,2,Lane Thomas flies out to center fielder Sam Hilliard.,0,2,2,3,8,-0.18,2.99
+67,2021-09-29,657041,453268,,foul,6,Lane Thomas flies out to center fielder Sam Hilliard.,0,1,2,2,8,0.82,2.11
+68,2021-09-29,657041,453268,,called_strike,9,Lane Thomas flies out to center fielder Sam Hilliard.,0,0,2,1,8,0.46,1.63
+69,2021-09-29,657041,623485,single,hit_into_play,4,Lane Thomas singles on a sharp line drive to left fielder Raimel Tapia.   Yadiel Hernandez scores.    Luis Garcia scores.    Riley Adams to 2nd.,2,1,2,4,3,-0.61,2.5
+70,2021-09-29,657041,623485,,blocked_ball,13,Lane Thomas singles on a sharp line drive to left fielder Raimel Tapia.   Yadiel Hernandez scores.    Luis Garcia scores.    Riley Adams to 2nd.,1,1,2,3,3,-0.48,0.53
+71,2021-09-29,657041,468504,field_out,hit_into_play,5,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",2,1,0,4,6,-0.1,2.22
+72,2021-09-29,657041,623485,,called_strike,5,Lane Thomas singles on a sharp line drive to left fielder Raimel Tapia.   Yadiel Hernandez scores.    Luis Garcia scores.    Riley Adams to 2nd.,1,0,2,2,3,0.13,2.46
+73,2021-09-29,657041,468504,,ball,13,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,1,0,3,6,-0.61,0.7
+74,2021-09-29,657041,663567,double,hit_into_play,13,Lane Thomas doubles (14) on a sharp line drive to left fielder Raimel Tapia.,0,1,0,2,1,-0.84,2.38
+75,2021-09-29,657041,623485,,ball,14,Lane Thomas singles on a sharp line drive to left fielder Raimel Tapia.   Yadiel Hernandez scores.    Luis Garcia scores.    Riley Adams to 2nd.,0,0,2,1,3,1.18,1.72
+76,2021-09-29,657041,468504,,called_strike,4,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,0,0,2,6,-0.35,2.22
+77,2021-09-29,657041,468504,,ball,14,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,0,1,6,0.78,0.99
+78,2021-09-29,657041,663567,,called_strike,8,Lane Thomas doubles (14) on a sharp line drive to left fielder Raimel Tapia.,0,0,0,1,1,0.18,1.8
+79,2021-09-28,657041,607536,walk,ball,14,Lane Thomas walks.   Yadiel Hernandez scores.    Carter Kieboom to 3rd.    Josh Bell to 2nd.,3,2,2,6,7,1.32,2.18
+80,2021-09-28,657041,607536,,ball,12,Lane Thomas walks.   Yadiel Hernandez scores.    Carter Kieboom to 3rd.    Josh Bell to 2nd.,2,2,2,5,7,1.81,2.5
+81,2021-09-28,657041,607536,,blocked_ball,13,Lane Thomas walks.   Yadiel Hernandez scores.    Carter Kieboom to 3rd.    Josh Bell to 2nd.,1,2,2,4,7,-1.16,-0.12
+82,2021-09-28,657041,607536,,ball,12,Lane Thomas walks.   Yadiel Hernandez scores.    Carter Kieboom to 3rd.    Josh Bell to 2nd.,0,2,2,3,7,1.04,4.23
+83,2021-09-28,657041,607536,,foul,14,Lane Thomas walks.   Yadiel Hernandez scores.    Carter Kieboom to 3rd.    Josh Bell to 2nd.,0,1,2,2,7,0.29,1.22
+84,2021-09-28,657041,607536,,foul,8,Lane Thomas walks.   Yadiel Hernandez scores.    Carter Kieboom to 3rd.    Josh Bell to 2nd.,0,0,2,1,7,0.14,1.58
+85,2021-09-28,657041,607536,strikeout,called_strike,9,Lane Thomas called out on strikes.,0,2,2,3,5,0.76,1.87
+86,2021-09-28,657041,607536,,foul,1,Lane Thomas called out on strikes.,0,1,2,2,5,-0.43,3.43
+87,2021-09-28,657041,607536,,called_strike,9,Lane Thomas called out on strikes.,0,0,2,1,5,0.7,1.99
+88,2021-09-28,657041,607536,field_out,hit_into_play,11,Lane Thomas pops out to shortstop Trevor Story.,1,1,0,3,3,-0.93,2.88
+89,2021-09-28,657041,607536,,foul,1,Lane Thomas pops out to shortstop Trevor Story.,1,0,0,2,3,-0.55,2.81
+90,2021-09-28,657041,607536,,ball,9,Lane Thomas pops out to shortstop Trevor Story.,0,0,0,1,3,0.4,1.53
+91,2021-09-28,657041,607536,field_out,hit_into_play,5,Lane Thomas grounds out to first baseman C.  J. Cron.,0,2,0,3,1,0.24,2.17
+92,2021-09-28,657041,607536,,called_strike,1,Lane Thomas grounds out to first baseman C.  J. Cron.,0,1,0,2,1,-0.62,2.85
+93,2021-09-28,657041,607536,,called_strike,7,Lane Thomas grounds out to first baseman C.  J. Cron.,0,0,0,1,1,-0.28,1.78
+94,2021-09-27,657041,608566,double,hit_into_play,4,Lane Thomas doubles (13) on a sharp line drive to center fielder Sam Hilliard.,2,0,0,3,5,-0.47,2.19
+95,2021-09-27,657041,608566,,ball,14,Lane Thomas doubles (13) on a sharp line drive to center fielder Sam Hilliard.,1,0,0,2,5,1.52,2.2
+96,2021-09-27,657041,608566,,ball,14,Lane Thomas doubles (13) on a sharp line drive to center fielder Sam Hilliard.,0,0,0,1,5,1.22,1.87
+97,2021-09-27,657041,608566,field_out,hit_into_play,4,Lane Thomas grounds out to first baseman C.  J. Cron.,0,2,2,4,3,-0.66,2.75
+98,2021-09-27,657041,608566,,foul,4,Lane Thomas grounds out to first baseman C.  J. Cron.,0,2,2,3,3,-0.31,2.4
+99,2021-09-27,657041,608566,,called_strike,9,Lane Thomas grounds out to first baseman C.  J. Cron.,0,1,2,2,3,0.66,1.97
+100,2021-09-27,657041,608566,,called_strike,8,Lane Thomas grounds out to first baseman C.  J. Cron.,0,0,2,1,3,0.21,1.59
+101,2021-09-27,657041,608032,single,hit_into_play,11,Lane Thomas singles on a line drive to center fielder Sam Hilliard.   Carter Kieboom to 3rd.    Andrew Stevenson to 2nd.,1,0,0,2,9,-1.14,3.33
+102,2021-09-27,657041,608032,,ball,11,Lane Thomas singles on a line drive to center fielder Sam Hilliard.   Carter Kieboom to 3rd.    Andrew Stevenson to 2nd.,0,0,0,1,9,-0.74,3.91
+103,2021-09-27,657041,642068,field_out,hit_into_play,3,Lane Thomas flies out to center fielder Sam Hilliard.,0,1,0,2,7,0.46,3.18
+104,2021-09-27,657041,608566,field_out,hit_into_play,4,"Lane Thomas grounds out, second baseman Brendan Rodgers to first baseman C.  J. Cron.",0,1,0,2,1,-0.82,2.66
+105,2021-09-27,657041,608566,,called_strike,11,"Lane Thomas grounds out, second baseman Brendan Rodgers to first baseman C.  J. Cron.",0,0,0,1,1,-0.14,3.49
+106,2021-09-27,657041,642068,,called_strike,1,Lane Thomas flies out to center fielder Sam Hilliard.,0,0,0,1,7,-0.62,2.8
+107,2021-09-26,657041,641816,field_error,hit_into_play,4,Lane Thomas reaches on a fielding error by second baseman Jonathan India.   Carter Kieboom scores.,3,1,2,5,5,-0.3,2.25
+108,2021-09-26,657041,641816,,ball,14,Lane Thomas reaches on a fielding error by second baseman Jonathan India.   Carter Kieboom scores.,2,1,2,4,5,1.17,1.67
+109,2021-09-26,657041,641816,,ball,12,Lane Thomas reaches on a fielding error by second baseman Jonathan India.   Carter Kieboom scores.,1,1,2,3,5,1.53,2.67
+110,2021-09-26,657041,641816,,blocked_ball,14,Lane Thomas reaches on a fielding error by second baseman Jonathan India.   Carter Kieboom scores.,0,1,2,2,5,0.82,0.68
+111,2021-09-26,657041,641816,,swinging_strike,9,Lane Thomas reaches on a fielding error by second baseman Jonathan India.   Carter Kieboom scores.,0,0,2,1,5,0.82,1.72
+112,2021-09-26,657041,641816,strikeout,swinging_strike,11,Lane Thomas strikes out swinging.,2,2,1,5,3,-0.58,3.98
+113,2021-09-26,657041,641816,,foul,12,Lane Thomas strikes out swinging.,2,1,1,4,3,0.91,2.89
+114,2021-09-26,657041,641816,,ball,11,Lane Thomas strikes out swinging.,1,1,1,3,3,-0.05,4.01
+115,2021-09-26,657041,641816,,ball,11,Lane Thomas strikes out swinging.,0,1,1,2,3,-1.12,3.44
+116,2021-09-26,657041,641816,,called_strike,2,Lane Thomas strikes out swinging.,0,0,1,1,3,0.12,3.26
+117,2021-09-26,657041,656546,walk,ball,14,Lane Thomas walks.   Luis Garcia to 3rd.    Andrew Stevenson to 2nd.,3,2,2,7,9,1.24,1.94
+118,2021-09-26,657041,656546,,foul,8,Lane Thomas walks.   Luis Garcia to 3rd.    Andrew Stevenson to 2nd.,3,2,2,6,9,0.27,1.93
+119,2021-09-26,657041,656546,,ball,12,Lane Thomas walks.   Luis Garcia to 3rd.    Andrew Stevenson to 2nd.,2,2,2,5,9,0.34,4.52
+120,2021-09-26,657041,656546,,ball,14,Lane Thomas walks.   Luis Garcia to 3rd.    Andrew Stevenson to 2nd.,1,2,2,4,9,2.0,1.9
+121,2021-09-26,657041,656546,,foul,4,Lane Thomas walks.   Luis Garcia to 3rd.    Andrew Stevenson to 2nd.,1,1,2,3,9,-0.34,2.7
+122,2021-09-26,657041,656546,,blocked_ball,14,Lane Thomas walks.   Luis Garcia to 3rd.    Andrew Stevenson to 2nd.,0,1,2,2,9,2.25,0.37
+123,2021-09-26,657041,656546,,called_strike,6,Lane Thomas walks.   Luis Garcia to 3rd.    Andrew Stevenson to 2nd.,0,0,2,1,9,0.77,2.14
+124,2021-09-26,657041,664294,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,2,2,2,6,7,0.74,1.06
+125,2021-09-26,657041,664294,,ball,14,Lane Thomas strikes out swinging.,1,2,2,5,7,0.95,1.09
+126,2021-09-26,657041,664294,,foul,2,Lane Thomas strikes out swinging.,1,2,2,4,7,-0.1,3.09
+127,2021-09-26,657041,664294,,foul,2,Lane Thomas strikes out swinging.,1,1,2,3,7,-0.07,2.9
+128,2021-09-26,657041,664294,,called_strike,9,Lane Thomas strikes out swinging.,1,0,2,2,7,0.35,1.93
+129,2021-09-26,657041,664294,,ball,14,Lane Thomas strikes out swinging.,0,0,2,1,7,0.51,1.29
+130,2021-09-26,657041,641816,strikeout,called_strike,14,Lane Thomas called out on strikes.,3,2,0,7,1,0.87,1.76
+131,2021-09-26,657041,641816,,foul,5,Lane Thomas called out on strikes.,3,2,0,6,1,-0.12,2.3
+132,2021-09-26,657041,641816,,ball,11,Lane Thomas called out on strikes.,2,2,0,5,1,-0.45,3.85
+133,2021-09-26,657041,641816,,called_strike,6,Lane Thomas called out on strikes.,2,1,0,4,1,0.36,2.2
+134,2021-09-26,657041,641816,,ball,11,Lane Thomas called out on strikes.,1,1,0,3,1,-1.61,2.39
+135,2021-09-26,657041,641816,,called_strike,14,Lane Thomas called out on strikes.,1,0,0,2,1,0.94,1.87
+136,2021-09-26,657041,641816,,ball,14,Lane Thomas called out on strikes.,0,0,0,1,1,1.04,1.35
+137,2021-09-25,657041,661269,field_out,hit_into_play,5,Lane Thomas flies out to center fielder TJ Friedl.,1,1,2,3,2,-0.11,2.32
+138,2021-09-25,657041,661269,,ball,14,Lane Thomas flies out to center fielder TJ Friedl.,0,1,2,2,2,1.12,0.4
+139,2021-09-25,657041,661269,,swinging_strike,11,Lane Thomas flies out to center fielder TJ Friedl.,0,0,2,1,2,-0.41,3.76
+140,2021-09-25,657041,656546,force_out,hit_into_play,9,"Lane Thomas grounds into a force out, third baseman Eugenio Suarez to second baseman Jonathan India.   Yadiel Hernandez out at 2nd.",1,0,2,2,7,0.32,1.98
+141,2021-09-25,657041,656546,,ball,14,"Lane Thomas grounds into a force out, third baseman Eugenio Suarez to second baseman Jonathan India.   Yadiel Hernandez out at 2nd.",0,0,2,1,7,1.27,1.75
+142,2021-09-25,657041,663574,home_run,hit_into_play,3,Lane Thomas homers (7) on a fly ball to center field.,0,0,0,1,4,0.28,2.84
+143,2021-09-25,657041,608371,single,hit_into_play,9,Lane Thomas singles on a ground ball to center fielder TJ Friedl.,1,1,0,3,6,0.47,1.81
+144,2021-09-25,657041,661269,strikeout,swinging_strike,11,Lane Thomas strikes out swinging.,0,2,0,3,1,-0.16,3.68
+145,2021-09-25,657041,608371,,called_strike,5,Lane Thomas singles on a ground ball to center fielder TJ Friedl.,1,0,0,2,6,0.18,2.51
+146,2021-09-25,657041,661269,,foul,3,Lane Thomas strikes out swinging.,0,1,0,2,1,0.6,3.29
+147,2021-09-25,657041,608371,,ball,12,Lane Thomas singles on a ground ball to center fielder TJ Friedl.,0,0,0,1,6,1.08,2.91
+148,2021-09-25,657041,661269,,called_strike,1,Lane Thomas strikes out swinging.,0,0,0,1,1,-0.78,2.75
+149,2021-09-24,657041,543243,walk,ball,14,Lane Thomas walks.,3,2,2,6,4,1.57,1.0
+150,2021-09-24,657041,543243,,ball,14,Lane Thomas walks.,2,2,2,5,4,1.08,2.17
+151,2021-09-24,657041,543243,,called_strike,1,Lane Thomas walks.,2,1,2,4,4,-0.69,2.73
+152,2021-09-24,657041,543243,,ball,13,Lane Thomas walks.,1,1,2,3,4,-1.28,1.74
+153,2021-09-24,657041,543243,,ball,14,Lane Thomas walks.,0,1,2,2,4,1.84,1.65
+154,2021-09-24,657041,543243,,foul,8,Lane Thomas walks.,0,0,2,1,4,0.25,1.53
+155,2021-09-24,657041,543243,strikeout,called_strike,12,Lane Thomas called out on strikes.,2,2,2,5,2,0.89,2.67
+156,2021-09-24,657041,543243,,ball,14,Lane Thomas called out on strikes.,1,2,2,4,2,1.73,1.81
+157,2021-09-24,657041,543243,,swinging_strike,14,Lane Thomas called out on strikes.,1,1,2,3,2,0.9,1.15
+158,2021-09-24,657041,543243,,ball,14,Lane Thomas called out on strikes.,0,1,2,2,2,0.64,1.16
+159,2021-09-24,657041,543243,,foul,2,Lane Thomas called out on strikes.,0,0,2,1,2,0.24,3.09
+160,2021-09-24,657041,571710,double,hit_into_play,8,Lane Thomas doubles (12) on a sharp line drive to center fielder TJ Friedl.,3,2,2,6,9,0.16,1.68
+161,2021-09-24,657041,571710,,called_strike,7,Lane Thomas doubles (12) on a sharp line drive to center fielder TJ Friedl.,3,1,2,5,9,-0.77,1.82
+162,2021-09-24,657041,571710,,ball,12,Lane Thomas doubles (12) on a sharp line drive to center fielder TJ Friedl.,2,1,2,4,9,1.08,2.93
+163,2021-09-24,657041,571710,,ball,14,Lane Thomas doubles (12) on a sharp line drive to center fielder TJ Friedl.,1,1,2,3,9,0.34,1.12
+164,2021-09-24,657041,571710,,ball,12,Lane Thomas doubles (12) on a sharp line drive to center fielder TJ Friedl.,0,1,2,2,9,1.55,2.89
+165,2021-09-24,657041,571710,,called_strike,2,Lane Thomas doubles (12) on a sharp line drive to center fielder TJ Friedl.,0,0,2,1,9,-0.25,2.98
+166,2021-09-24,657041,605521,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,3,2,0,8,11,1.15,2.21
+167,2021-09-24,657041,605521,,ball,14,Lane Thomas strikes out swinging.,2,2,0,7,11,1.37,1.96
+168,2021-09-24,657041,543243,walk,ball,12,Lane Thomas walks.,3,2,0,6,1,0.19,3.83
+169,2021-09-24,657041,605521,,foul,5,Lane Thomas strikes out swinging.,2,2,0,6,11,-0.19,2.71
+170,2021-09-24,657041,543243,,ball,14,Lane Thomas walks.,2,2,0,5,1,0.48,0.24
+171,2021-09-24,657041,605521,,ball,12,Lane Thomas strikes out swinging.,1,2,0,5,11,1.42,4.64
+172,2021-09-24,657041,605521,,foul,2,Lane Thomas strikes out swinging.,1,2,0,4,11,0.1,3.06
+173,2021-09-24,657041,543243,,ball,14,Lane Thomas walks.,1,2,0,4,1,2.14,0.45
+174,2021-09-24,657041,543243,,foul,6,Lane Thomas walks.,1,1,0,3,1,0.33,2.34
+175,2021-09-24,657041,547179,field_out,hit_into_play,3,Lane Thomas flies out sharply to left fielder Max Schrock.,1,1,0,3,7,0.32,3.2
+176,2021-09-24,657041,605521,,foul,3,Lane Thomas strikes out swinging.,1,1,0,3,11,0.77,2.86
+177,2021-09-24,657041,543243,,called_strike,8,Lane Thomas walks.,1,0,0,2,1,0.23,1.75
+178,2021-09-24,657041,547179,,called_strike,1,Lane Thomas flies out sharply to left fielder Max Schrock.,1,0,0,2,7,-0.48,2.9
+179,2021-09-24,657041,605521,,ball,12,Lane Thomas strikes out swinging.,0,1,0,2,11,1.36,3.22
+180,2021-09-24,657041,605521,,swinging_strike,5,Lane Thomas strikes out swinging.,0,0,0,1,11,0.21,2.5
+181,2021-09-24,657041,543243,,ball,14,Lane Thomas walks.,0,0,0,1,1,1.1,0.64
+182,2021-09-24,657041,547179,,ball,11,Lane Thomas flies out sharply to left fielder Max Schrock.,0,0,0,1,7,-0.66,3.43
+183,2021-09-23,657041,622491,field_out,hit_into_play,4,"Lane Thomas grounds out, second baseman Jonathan India to first baseman Joey Votto.",0,0,1,1,5,-0.49,2.13
+184,2021-09-23,657041,622491,single,hit_into_play,7,Lane Thomas singles on a ground ball to third baseman Eugenio Suarez.,0,2,1,3,3,-0.47,1.48
+185,2021-09-23,657041,622491,,foul,5,Lane Thomas singles on a ground ball to third baseman Eugenio Suarez.,0,1,1,2,3,0.21,2.65
+186,2021-09-23,657041,622491,,called_strike,2,Lane Thomas singles on a ground ball to third baseman Eugenio Suarez.,0,0,1,1,3,-0.09,2.81
+187,2021-09-23,657041,605521,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,2,2,1,5,9,1.3,1.91
+188,2021-09-23,657041,605521,,foul_tip,5,Lane Thomas strikes out swinging.,2,1,1,4,9,-0.04,2.71
+189,2021-09-23,657041,605521,,ball,12,Lane Thomas strikes out swinging.,1,1,1,3,9,0.48,3.82
+190,2021-09-23,657041,605521,,foul_tip,1,Lane Thomas strikes out swinging.,1,0,1,2,9,-0.45,3.29
+191,2021-09-23,657041,570666,field_out,hit_into_play,4,Lane Thomas lines out to left fielder Delino DeShields.,1,2,0,5,7,-0.55,2.76
+192,2021-09-23,657041,605521,,ball,11,Lane Thomas strikes out swinging.,0,0,1,1,9,-0.95,3.62
+193,2021-09-23,657041,570666,,ball,14,Lane Thomas lines out to left fielder Delino DeShields.,0,2,0,4,7,0.57,1.27
+194,2021-09-23,657041,570666,,foul,14,Lane Thomas lines out to left fielder Delino DeShields.,0,2,0,3,7,1.0,2.21
+195,2021-09-23,657041,570666,,called_strike,6,Lane Thomas lines out to left fielder Delino DeShields.,0,1,0,2,7,0.44,2.52
+196,2021-09-23,657041,622491,field_out,hit_into_play,5,"Lane Thomas grounds out softly, third baseman Eugenio Suarez to first baseman Joey Votto.",1,0,0,2,1,-0.18,2.71
+197,2021-09-23,657041,570666,,called_strike,9,Lane Thomas lines out to left fielder Delino DeShields.,0,0,0,1,7,0.37,1.72
+198,2021-09-23,657041,622491,,ball,13,"Lane Thomas grounds out softly, third baseman Eugenio Suarez to first baseman Joey Votto.",0,0,0,1,1,-1.4,2.43
+199,2021-09-22,657041,622694,strikeout,swinging_strike,8,Lane Thomas strikes out swinging.,2,2,2,5,4,0.22,1.83
+200,2021-09-22,657041,622694,,ball,14,Lane Thomas strikes out swinging.,1,2,2,4,4,0.36,-1.06
+201,2021-09-22,657041,622694,,called_strike,8,Lane Thomas strikes out swinging.,1,1,2,3,4,-0.15,1.47
+202,2021-09-22,657041,622694,,ball,14,Lane Thomas strikes out swinging.,0,1,2,2,4,1.3,0.97
+203,2021-09-22,657041,622694,,called_strike,13,Lane Thomas strikes out swinging.,0,0,2,1,4,-0.04,1.28
+204,2021-09-22,657041,622694,strikeout,swinging_strike,11,Lane Thomas strikes out swinging.,1,2,2,4,2,-0.69,3.96
+205,2021-09-22,657041,622694,,foul,5,Lane Thomas strikes out swinging.,1,1,2,3,2,-0.08,2.63
+206,2021-09-22,657041,622694,,foul,9,Lane Thomas strikes out swinging.,1,0,2,2,2,0.3,1.66
+207,2021-09-22,657041,622694,,ball,14,Lane Thomas strikes out swinging.,0,0,2,1,2,0.69,1.28
+208,2021-09-22,657041,650347,double,hit_into_play,7,Lane Thomas doubles (11) on a sharp line drive to center fielder Bryan De La Cruz.,1,1,1,3,8,-0.33,1.88
+209,2021-09-22,657041,650347,,ball,14,Lane Thomas doubles (11) on a sharp line drive to center fielder Bryan De La Cruz.,0,1,1,2,8,1.44,1.46
+210,2021-09-22,657041,622694,strikeout,called_strike,5,Lane Thomas called out on strikes.,1,2,0,5,1,0.26,2.04
+211,2021-09-22,657041,605507,walk,ball,14,Lane Thomas walks.,3,0,0,4,7,1.82,1.27
+212,2021-09-22,657041,650347,,called_strike,9,Lane Thomas doubles (11) on a sharp line drive to center fielder Bryan De La Cruz.,0,0,1,1,8,0.55,1.48
+213,2021-09-22,657041,622694,,foul,3,Lane Thomas called out on strikes.,1,2,0,4,1,0.67,3.17
+214,2021-09-22,657041,622694,,swinging_strike,8,Lane Thomas called out on strikes.,1,1,0,3,1,0.15,1.87
+215,2021-09-22,657041,605507,,ball,14,Lane Thomas walks.,2,0,0,3,7,1.62,1.54
+216,2021-09-22,657041,605507,,ball,14,Lane Thomas walks.,1,0,0,2,7,2.17,1.84
+217,2021-09-22,657041,622694,,called_strike,14,Lane Thomas called out on strikes.,1,0,0,2,1,0.98,1.54
+218,2021-09-22,657041,605507,,ball,13,Lane Thomas walks.,0,0,0,1,7,-0.18,0.21
+219,2021-09-22,657041,622694,,ball,12,Lane Thomas called out on strikes.,0,0,0,1,1,0.88,2.55
+220,2021-09-21,657041,669432,field_out,hit_into_play,6,Lane Thomas pops out to first baseman Lewin Diaz in foul territory.,2,2,2,5,5,0.46,2.36
+221,2021-09-21,657041,669432,,foul,5,Lane Thomas pops out to first baseman Lewin Diaz in foul territory.,2,1,2,4,5,0.15,2.48
+222,2021-09-21,657041,669432,,ball,7,Lane Thomas pops out to first baseman Lewin Diaz in foul territory.,1,1,2,3,5,-0.48,1.44
+223,2021-09-21,657041,669432,,called_strike,2,Lane Thomas pops out to first baseman Lewin Diaz in foul territory.,1,0,2,2,5,-0.21,3.29
+224,2021-09-21,657041,669432,,ball,13,Lane Thomas pops out to first baseman Lewin Diaz in foul territory.,0,0,2,1,5,-0.91,0.68
+225,2021-09-21,657041,669432,force_out,hit_into_play,14,"Lane Thomas grounds into a force out, third baseman Eddy Alvarez to second baseman Jazz Chisholm.   Josh Rogers out at 2nd.    Lane Thomas to 1st.",0,1,0,2,3,0.85,1.33
+226,2021-09-21,657041,669432,,foul,8,"Lane Thomas grounds into a force out, third baseman Eddy Alvarez to second baseman Jazz Chisholm.   Josh Rogers out at 2nd.    Lane Thomas to 1st.",0,0,0,1,3,-0.14,1.71
+227,2021-09-21,657041,592865,walk,ball,14,Lane Thomas walks.,3,0,2,4,9,2.0,1.5
+228,2021-09-21,657041,592865,,ball,14,Lane Thomas walks.,2,0,2,3,9,2.04,1.7
+229,2021-09-21,657041,542914,strikeout,called_strike,6,Lane Thomas called out on strikes.,0,2,0,3,7,0.74,2.49
+230,2021-09-21,657041,592865,,blocked_ball,14,Lane Thomas walks.,1,0,2,2,9,0.95,-0.77
+231,2021-09-21,657041,592865,,ball,13,Lane Thomas walks.,0,0,2,1,9,-0.02,1.29
+232,2021-09-21,657041,542914,,called_strike,5,Lane Thomas called out on strikes.,0,1,0,2,7,-0.17,2.06
+233,2021-09-21,657041,542914,,foul,1,Lane Thomas called out on strikes.,0,0,0,1,7,-0.31,3.19
+234,2021-09-21,657041,669432,strikeout,swinging_strike,6,Lane Thomas strikes out swinging.,3,2,0,7,1,0.35,2.29
+235,2021-09-21,657041,669432,,ball,13,Lane Thomas strikes out swinging.,2,2,0,6,1,-0.38,0.85
+236,2021-09-21,657041,669432,,foul,12,Lane Thomas strikes out swinging.,2,2,0,5,1,0.53,3.61
+237,2021-09-21,657041,669432,,ball,14,Lane Thomas strikes out swinging.,1,2,0,4,1,1.85,1.46
+238,2021-09-21,657041,669432,,swinging_strike,3,Lane Thomas strikes out swinging.,1,1,0,3,1,0.31,3.49
+239,2021-09-21,657041,669432,,swinging_strike,2,Lane Thomas strikes out swinging.,1,0,0,2,1,0.16,2.94
+240,2021-09-21,657041,669432,,ball,8,Lane Thomas strikes out swinging.,0,0,0,1,1,0.27,1.55
+241,2021-09-20,657041,666200,field_out,hit_into_play,4,Lane Thomas flies out to right fielder Jesus Sanchez.,2,1,1,4,4,-0.31,2.49
+242,2021-09-20,657041,666200,,ball,12,Lane Thomas flies out to right fielder Jesus Sanchez.,1,1,1,3,4,1.34,2.92
+243,2021-09-20,657041,666200,,ball,13,Lane Thomas flies out to right fielder Jesus Sanchez.,0,1,1,2,4,-0.59,1.03
+244,2021-09-20,657041,666200,,called_strike,7,Lane Thomas flies out to right fielder Jesus Sanchez.,0,0,1,1,4,-0.52,1.49
+245,2021-09-20,657041,666200,home_run,hit_into_play,8,Lane Thomas homers (6) on a fly ball to center field.,3,2,2,7,2,0.13,1.89
+246,2021-09-20,657041,666200,,foul,2,Lane Thomas homers (6) on a fly ball to center field.,3,2,2,6,2,0.23,2.93
+247,2021-09-20,657041,666200,,ball,13,Lane Thomas homers (6) on a fly ball to center field.,2,2,2,5,2,-0.5,0.41
+248,2021-09-20,657041,666200,,ball,14,Lane Thomas homers (6) on a fly ball to center field.,1,2,2,4,2,0.54,0.67
+249,2021-09-20,657041,666200,,called_strike,12,Lane Thomas homers (6) on a fly ball to center field.,1,1,2,3,2,0.92,2.92
+250,2021-09-20,657041,666200,,swinging_strike,5,Lane Thomas homers (6) on a fly ball to center field.,1,0,2,2,2,-0.03,2.28
+251,2021-09-20,657041,666200,,ball,12,Lane Thomas homers (6) on a fly ball to center field.,0,0,2,1,2,1.14,2.69
+252,2021-09-20,657041,605507,field_out,hit_into_play,6,"Lane Thomas grounds out, third baseman Eddy Alvarez to first baseman Lewin Diaz.",2,1,2,4,7,0.4,2.24
+253,2021-09-20,657041,605507,,ball,11,"Lane Thomas grounds out, third baseman Eddy Alvarez to first baseman Lewin Diaz.",1,1,2,3,7,-1.15,2.82
+254,2021-09-20,657041,605507,,foul,6,"Lane Thomas grounds out, third baseman Eddy Alvarez to first baseman Lewin Diaz.",1,0,2,2,7,0.39,2.28
+255,2021-09-20,657041,605507,,ball,14,"Lane Thomas grounds out, third baseman Eddy Alvarez to first baseman Lewin Diaz.",0,0,2,1,7,2.82,0.04
+256,2021-09-20,657041,647315,field_out,hit_into_play,2,"Lane Thomas grounds out, pitcher Zach Pop to first baseman Lewin Diaz.",0,2,2,3,5,-0.25,3.37
+257,2021-09-20,657041,647315,,foul,13,"Lane Thomas grounds out, pitcher Zach Pop to first baseman Lewin Diaz.",0,1,2,2,5,-0.87,2.32
+258,2021-09-20,657041,647315,,called_strike,4,"Lane Thomas grounds out, pitcher Zach Pop to first baseman Lewin Diaz.",0,0,2,1,5,-0.76,2.43
+259,2021-09-20,657041,666200,walk,ball,12,Lane Thomas walks.,3,2,0,7,1,1.44,3.4
+260,2021-09-20,657041,666200,,foul,1,Lane Thomas walks.,3,2,0,6,1,-0.43,2.83
+261,2021-09-20,657041,666200,,ball,13,Lane Thomas walks.,2,2,0,5,1,-1.02,2.12
+262,2021-09-20,657041,666200,,ball,11,Lane Thomas walks.,1,2,0,4,1,-1.09,2.7
+263,2021-09-20,657041,571670,double,hit_into_play,9,Lane Thomas doubles (10) on a fly ball to right fielder Jesus Sanchez.   Luis Garcia to 3rd.,2,0,0,3,10,0.62,2.1
+264,2021-09-20,657041,666200,,called_strike,7,Lane Thomas walks.,1,1,0,3,1,-0.83,1.59
+265,2021-09-20,657041,666200,,foul,4,Lane Thomas walks.,1,0,0,2,1,-0.59,2.72
+266,2021-09-20,657041,571670,,ball,2,Lane Thomas doubles (10) on a fly ball to right fielder Jesus Sanchez.   Luis Garcia to 3rd.,1,0,0,2,10,0.1,3.3
+267,2021-09-20,657041,666200,,ball,14,Lane Thomas walks.,0,0,0,1,1,1.42,2.26
+268,2021-09-20,657041,571670,,ball,14,Lane Thomas doubles (10) on a fly ball to right fielder Jesus Sanchez.   Luis Garcia to 3rd.,0,0,0,1,10,0.27,1.41
+269,2021-09-19,657041,592351,strikeout,called_strike,7,Lane Thomas called out on strikes.,3,2,0,7,3,-0.59,1.41
+270,2021-09-19,657041,592351,,foul,11,Lane Thomas called out on strikes.,3,2,0,6,3,-1.53,2.62
+271,2021-09-19,657041,592351,,ball,14,Lane Thomas called out on strikes.,2,2,0,5,3,1.47,1.62
+272,2021-09-19,657041,592351,,called_strike,3,Lane Thomas called out on strikes.,2,1,0,4,3,0.33,2.73
+273,2021-09-19,657041,592351,,ball,13,Lane Thomas called out on strikes.,1,1,0,3,3,-0.12,0.45
+274,2021-09-19,657041,592351,,swinging_strike,9,Lane Thomas called out on strikes.,1,0,0,2,3,0.72,1.65
+275,2021-09-19,657041,592351,,ball,14,Lane Thomas called out on strikes.,0,0,0,1,3,1.45,0.91
+276,2021-09-19,657041,592351,field_out,hit_into_play,4,Lane Thomas flies out to center fielder Garrett Hampson.,1,2,0,5,1,-0.71,2.6
+277,2021-09-19,657041,592351,,foul,9,Lane Thomas flies out to center fielder Garrett Hampson.,1,2,0,4,1,0.54,1.94
+278,2021-09-19,657041,641755,field_out,hit_into_play,7,Lane Thomas pops out to first baseman C.  J. Cron.,1,2,0,4,7,-0.4,1.72
+279,2021-09-19,657041,641755,,called_strike,8,Lane Thomas pops out to first baseman C.  J. Cron.,1,1,0,3,7,-0.16,1.69
+280,2021-09-19,657041,592351,,ball,14,Lane Thomas flies out to center fielder Garrett Hampson.,0,2,0,3,1,1.63,1.92
+281,2021-09-19,657041,592351,,called_strike,14,Lane Thomas flies out to center fielder Garrett Hampson.,0,1,0,2,1,0.95,2.21
+282,2021-09-19,657041,641755,,ball,11,Lane Thomas pops out to first baseman C.  J. Cron.,0,1,0,2,7,-1.23,3.26
+283,2021-09-19,657041,623485,field_out,hit_into_play,2,Lane Thomas flies out to right fielder Charlie Blackmon.,0,1,0,2,5,0.05,2.82
+284,2021-09-19,657041,641755,,called_strike,4,Lane Thomas pops out to first baseman C.  J. Cron.,0,0,0,1,7,-0.34,2.05
+285,2021-09-19,657041,623485,,called_strike,8,Lane Thomas flies out to right fielder Charlie Blackmon.,0,0,0,1,5,-0.09,1.76
+286,2021-09-19,657041,592351,,called_strike,5,Lane Thomas flies out to center fielder Garrett Hampson.,0,0,0,1,1,0.24,2.14
+287,2021-09-18,657041,607536,single,hit_into_play,8,Lane Thomas singles on a line drive to center fielder Garrett Hampson.,0,0,0,1,6,-0.16,2.04
+288,2021-09-18,657041,607536,grounded_into_double_play,hit_into_play,12,"Lane Thomas grounds into a double play, second baseman Brendan Rodgers to shortstop Trevor Story to first baseman C.  J. Cron.   Patrick Corbin out at 2nd.    Lane Thomas out at 1st.",1,0,0,2,3,0.85,2.47
+289,2021-09-18,657041,607536,,ball,14,"Lane Thomas grounds into a double play, second baseman Brendan Rodgers to shortstop Trevor Story to first baseman C.  J. Cron.   Patrick Corbin out at 2nd.    Lane Thomas out at 1st.",0,0,0,1,3,0.21,0.93
+290,2021-09-18,657041,622075,strikeout,swinging_strike,11,Lane Thomas strikes out swinging.,3,2,1,6,7,-0.94,3.59
+291,2021-09-18,657041,622075,,foul,4,Lane Thomas strikes out swinging.,3,1,1,5,7,-0.49,2.41
+292,2021-09-18,657041,622075,,called_strike,8,Lane Thomas strikes out swinging.,3,0,1,4,7,-0.04,1.88
+293,2021-09-18,657041,622075,,ball,14,Lane Thomas strikes out swinging.,2,0,1,3,7,1.17,1.5
+294,2021-09-18,657041,622075,,ball,14,Lane Thomas strikes out swinging.,1,0,1,2,7,1.49,1.3
+295,2021-09-18,657041,622075,,blocked_ball,14,Lane Thomas strikes out swinging.,0,0,1,1,7,0.86,0.17
+296,2021-09-18,657041,607536,strikeout,called_strike,9,Lane Thomas called out on strikes.,2,2,0,5,1,0.41,1.82
+297,2021-09-18,657041,607536,,foul,6,Lane Thomas called out on strikes.,2,1,0,4,1,0.36,2.37
+298,2021-09-18,657041,607536,,ball,9,Lane Thomas called out on strikes.,1,1,0,3,1,0.81,1.52
+299,2021-09-18,657041,607536,,called_strike,9,Lane Thomas called out on strikes.,1,0,0,2,1,0.47,1.88
+300,2021-09-18,657041,607536,,ball,11,Lane Thomas called out on strikes.,0,0,0,1,1,-1.31,2.91
+301,2021-09-17,657041,608566,home_run,hit_into_play,2,Lane Thomas homers (5) on a fly ball to center field.   Carter Kieboom scores.    Luis Garcia scores.,0,1,2,2,4,-0.11,3.14
+302,2021-09-17,657041,608566,,swinging_strike,14,Lane Thomas homers (5) on a fly ball to center field.   Carter Kieboom scores.    Luis Garcia scores.,0,0,2,1,4,1.02,1.88
+303,2021-09-17,657041,608566,field_out,hit_into_play,6,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",3,2,2,6,2,0.57,2.26
+304,2021-09-17,657041,608566,,ball,11,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",2,2,2,5,2,-1.15,3.46
+305,2021-09-17,657041,608566,,foul,2,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",2,1,2,4,2,-0.16,2.89
+306,2021-09-17,657041,608566,,called_strike,6,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",2,0,2,3,2,0.35,2.37
+307,2021-09-17,657041,608566,,ball,11,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",1,0,2,2,2,-1.01,3.16
+308,2021-09-17,657041,608566,,ball,14,"Lane Thomas grounds out, shortstop Trevor Story to first baseman C.  J. Cron.",0,0,2,1,2,0.6,1.22
+309,2021-09-17,657041,608032,force_out,hit_into_play,2,"Lane Thomas grounds into a force out, second baseman Brendan Rodgers to shortstop Trevor Story.   Ryan Zimmerman out at 2nd.",1,2,2,4,9,0.0,3.12
+310,2021-09-17,657041,608032,,swinging_strike,2,"Lane Thomas grounds into a force out, second baseman Brendan Rodgers to shortstop Trevor Story.   Ryan Zimmerman out at 2nd.",1,1,2,3,9,-0.1,2.94
+311,2021-09-17,657041,608032,,foul,7,"Lane Thomas grounds into a force out, second baseman Brendan Rodgers to shortstop Trevor Story.   Ryan Zimmerman out at 2nd.",1,0,2,2,9,-0.5,2.08
+312,2021-09-17,657041,608032,,ball,12,"Lane Thomas grounds into a force out, second baseman Brendan Rodgers to shortstop Trevor Story.   Ryan Zimmerman out at 2nd.",0,0,2,1,9,1.13,3.52
+313,2021-09-17,657041,468504,walk,ball,14,Lane Thomas walks.,3,2,1,7,8,1.03,1.34
+314,2021-09-17,657041,468504,,foul,3,Lane Thomas walks.,3,2,1,6,8,0.67,2.92
+315,2021-09-17,657041,642068,single,hit_into_play,14,"Lane Thomas singles on a ground ball to shortstop Trevor Story.   Lane Thomas to 2nd.  Lane Thomas advances to 2nd, on a throwing error by shortstop Trevor Story.",1,2,2,4,6,0.96,1.31
+316,2021-09-17,657041,468504,,ball,12,Lane Thomas walks.,2,2,1,5,8,0.9,2.99
+317,2021-09-17,657041,642068,,foul,1,"Lane Thomas singles on a ground ball to shortstop Trevor Story.   Lane Thomas to 2nd.  Lane Thomas advances to 2nd, on a throwing error by shortstop Trevor Story.",1,1,2,3,6,-0.79,3.18
+318,2021-09-17,657041,468504,,foul,14,Lane Thomas walks.,2,1,1,4,8,1.03,1.98
+319,2021-09-17,657041,642068,,foul,4,"Lane Thomas singles on a ground ball to shortstop Trevor Story.   Lane Thomas to 2nd.  Lane Thomas advances to 2nd, on a throwing error by shortstop Trevor Story.",1,0,2,2,6,-0.43,2.32
+320,2021-09-17,657041,468504,,ball,14,Lane Thomas walks.,1,1,1,3,8,1.89,1.28
+321,2021-09-17,657041,642068,,ball,13,"Lane Thomas singles on a ground ball to shortstop Trevor Story.   Lane Thomas to 2nd.  Lane Thomas advances to 2nd, on a throwing error by shortstop Trevor Story.",0,0,2,1,6,-0.88,0.79
+322,2021-09-17,657041,468504,,swinging_strike,9,Lane Thomas walks.,1,0,1,2,8,0.39,1.74
+323,2021-09-17,657041,468504,,ball,14,Lane Thomas walks.,0,0,1,1,8,1.22,2.23
+324,2021-09-17,657041,608566,field_out,hit_into_play,7,Lane Thomas lines out to center fielder Garrett Hampson.,3,2,0,6,1,-0.32,1.59
+325,2021-09-17,657041,608566,,foul,6,Lane Thomas lines out to center fielder Garrett Hampson.,3,1,0,5,1,0.45,2.68
+326,2021-09-17,657041,608566,,ball,7,Lane Thomas lines out to center fielder Garrett Hampson.,2,1,0,4,1,-0.3,1.44
+327,2021-09-17,657041,608566,,called_strike,3,Lane Thomas lines out to center fielder Garrett Hampson.,2,0,0,3,1,0.29,2.99
+328,2021-09-17,657041,608566,,ball,12,Lane Thomas lines out to center fielder Garrett Hampson.,1,0,0,2,1,0.84,2.53
+329,2021-09-17,657041,608566,,ball,14,Lane Thomas lines out to center fielder Garrett Hampson.,0,0,0,1,1,0.96,1.26
+330,2021-09-15,657041,669432,single,hit_into_play,8,Lane Thomas singles on a line drive to center fielder Lewis Brinson.   Jordy Mercer scores.,0,0,2,1,4,0.04,1.84
+331,2021-09-15,657041,669432,field_out,hit_into_play,7,Lane Thomas lines out to center fielder Lewis Brinson.,0,2,2,3,2,-0.49,1.9
+332,2021-09-15,657041,669432,,called_strike,12,Lane Thomas lines out to center fielder Lewis Brinson.,0,1,2,2,2,0.87,2.4
+333,2021-09-15,657041,669432,,foul,5,Lane Thomas lines out to center fielder Lewis Brinson.,0,0,2,1,2,0.24,2.24
+334,2021-09-15,657041,542914,walk,ball,12,Lane Thomas walks.   Yadiel Hernandez scores.    Riley Adams to 3rd.    Ryan Zimmerman to 2nd.,3,1,2,5,7,1.23,2.36
+335,2021-09-15,657041,542914,,ball,14,Lane Thomas walks.   Yadiel Hernandez scores.    Riley Adams to 3rd.    Ryan Zimmerman to 2nd.,2,1,2,4,7,0.12,1.05
+336,2021-09-15,657041,542914,,ball,12,Lane Thomas walks.   Yadiel Hernandez scores.    Riley Adams to 3rd.    Ryan Zimmerman to 2nd.,1,1,2,3,7,0.48,3.66
+337,2021-09-15,657041,542914,,ball,12,Lane Thomas walks.   Yadiel Hernandez scores.    Riley Adams to 3rd.    Ryan Zimmerman to 2nd.,0,1,2,2,7,1.19,2.57
+338,2021-09-15,657041,542914,,called_strike,5,Lane Thomas walks.   Yadiel Hernandez scores.    Riley Adams to 3rd.    Ryan Zimmerman to 2nd.,0,0,2,1,7,-0.04,2.3
+339,2021-09-15,657041,647315,double,hit_into_play,1,Lane Thomas doubles (9) on a ground ball to left fielder Bryan De La Cruz.,2,0,0,3,6,-0.52,3.36
+340,2021-09-15,657041,647315,,ball,11,Lane Thomas doubles (9) on a ground ball to left fielder Bryan De La Cruz.,1,0,0,2,6,-0.3,4.24
+341,2021-09-15,657041,647315,,ball,11,Lane Thomas doubles (9) on a ground ball to left fielder Bryan De La Cruz.,0,0,0,1,6,-2.02,4.44
+342,2021-09-15,657041,669432,strikeout,called_strike,8,Lane Thomas called out on strikes.,3,2,0,9,1,-0.18,1.7
+343,2021-09-15,657041,571670,strikeout,swinging_strike,3,Lane Thomas strikes out swinging.,1,2,1,4,9,0.47,3.12
+344,2021-09-15,657041,669432,,ball,12,Lane Thomas called out on strikes.,2,2,0,8,1,2.47,3.34
+345,2021-09-15,657041,669432,,foul,14,Lane Thomas called out on strikes.,2,2,0,7,1,1.12,2.27
+346,2021-09-15,657041,571670,,called_strike,5,Lane Thomas strikes out swinging.,1,1,1,3,9,-0.09,2.31
+347,2021-09-15,657041,571670,,ball,14,Lane Thomas strikes out swinging.,0,1,1,2,9,0.08,1.38
+348,2021-09-15,657041,669432,,ball,12,Lane Thomas called out on strikes.,1,2,0,6,1,2.13,2.42
+349,2021-09-15,657041,669432,,foul,5,Lane Thomas called out on strikes.,1,2,0,5,1,-0.27,2.6
+350,2021-09-15,657041,571670,,called_strike,6,Lane Thomas strikes out swinging.,0,0,1,1,9,0.43,2.21
+351,2021-09-15,657041,669432,,foul,3,Lane Thomas called out on strikes.,1,2,0,4,1,0.5,3.05
+352,2021-09-15,657041,669432,,ball,14,Lane Thomas called out on strikes.,0,2,0,3,1,1.95,1.85
+353,2021-09-15,657041,669432,,called_strike,6,Lane Thomas called out on strikes.,0,1,0,2,1,0.71,2.2
+354,2021-09-15,657041,669432,,called_strike,7,Lane Thomas called out on strikes.,0,0,0,1,1,-0.73,1.96
+355,2021-09-14,657041,666200,single,hit_into_play,8,Lane Thomas singles on a line drive to left fielder Bryan De La Cruz.   Andrew Stevenson to 2nd.,0,0,1,1,5,0.25,1.92
+356,2021-09-14,657041,666200,double,hit_into_play,13,Lane Thomas doubles (8) on a fly ball to left fielder Bryan De La Cruz.,2,1,1,4,3,-0.16,1.39
+357,2021-09-14,657041,666200,,swinging_strike,13,Lane Thomas doubles (8) on a fly ball to left fielder Bryan De La Cruz.,2,0,1,3,3,-0.55,1.23
+358,2021-09-14,657041,666200,,ball,13,Lane Thomas doubles (8) on a fly ball to left fielder Bryan De La Cruz.,1,0,1,2,3,-1.31,1.79
+359,2021-09-14,657041,666200,,ball,13,Lane Thomas doubles (8) on a fly ball to left fielder Bryan De La Cruz.,0,0,1,1,3,-1.23,2.1
+360,2021-09-14,657041,592865,walk,blocked_ball,14,Lane Thomas walks.   Keibert Ruiz scores.    Luis Garcia to 3rd.    Jordy Mercer to 2nd.,3,1,0,5,8,1.28,0.31
+361,2021-09-14,657041,605507,field_out,hit_into_play,14,Lane Thomas grounds out to first baseman Lewin Diaz.,0,0,2,1,6,1.13,2.35
+362,2021-09-14,657041,592865,,ball,14,Lane Thomas walks.   Keibert Ruiz scores.    Luis Garcia to 3rd.    Jordy Mercer to 2nd.,2,1,0,4,8,1.06,1.34
+363,2021-09-14,657041,592865,,ball,14,Lane Thomas walks.   Keibert Ruiz scores.    Luis Garcia to 3rd.    Jordy Mercer to 2nd.,1,1,0,3,8,1.56,0.76
+364,2021-09-14,657041,666200,strikeout,swinging_strike,9,Lane Thomas strikes out swinging.,2,2,0,7,1,0.62,1.45
+365,2021-09-14,657041,592865,,foul,11,Lane Thomas walks.   Keibert Ruiz scores.    Luis Garcia to 3rd.    Jordy Mercer to 2nd.,1,0,0,2,8,-1.28,2.6
+366,2021-09-14,657041,592865,,ball,12,Lane Thomas walks.   Keibert Ruiz scores.    Luis Garcia to 3rd.    Jordy Mercer to 2nd.,0,0,0,1,8,0.56,4.91
+367,2021-09-14,657041,666200,,foul,8,Lane Thomas strikes out swinging.,2,2,0,6,1,-0.14,1.55
+368,2021-09-14,657041,666200,,ball,11,Lane Thomas strikes out swinging.,1,2,0,5,1,-0.59,3.58
+369,2021-09-14,657041,666200,,foul,5,Lane Thomas strikes out swinging.,1,2,0,4,1,0.13,2.45
+370,2021-09-14,657041,666200,,ball,12,Lane Thomas strikes out swinging.,0,2,0,3,1,0.94,4.43
+371,2021-09-14,657041,666200,,foul,5,Lane Thomas strikes out swinging.,0,1,0,2,1,-0.26,2.34
+372,2021-09-14,657041,666200,,called_strike,2,Lane Thomas strikes out swinging.,0,0,0,1,1,0.23,3.04
+373,2021-09-13,657041,645261,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,0,2,2,4,6,1.12,0.84
+374,2021-09-13,657041,645261,,foul,4,Lane Thomas strikes out swinging.,0,2,2,3,6,-0.79,2.42
+375,2021-09-13,657041,645261,,foul,13,Lane Thomas strikes out swinging.,0,1,2,2,6,-0.87,1.67
+376,2021-09-13,657041,645261,,called_strike,3,Lane Thomas strikes out swinging.,0,0,2,1,6,0.4,2.76
+377,2021-09-13,657041,645261,field_out,hit_into_play,5,Lane Thomas flies out to left fielder Lewis Brinson.,2,2,0,5,4,0.03,2.15
+378,2021-09-13,657041,645261,,ball,14,Lane Thomas flies out to left fielder Lewis Brinson.,1,2,0,4,4,0.52,0.83
+379,2021-09-13,657041,645261,,called_strike,11,Lane Thomas flies out to left fielder Lewis Brinson.,1,1,0,3,4,-0.9,3.01
+380,2021-09-13,657041,645261,,ball,14,Lane Thomas flies out to left fielder Lewis Brinson.,0,1,0,2,4,1.72,0.9
+381,2021-09-13,657041,645261,,foul,4,Lane Thomas flies out to left fielder Lewis Brinson.,0,0,0,1,4,-0.64,2.36
+382,2021-09-13,657041,571670,grounded_into_double_play,hit_into_play,5,"Lane Thomas grounds into a double play, third baseman Isan Diaz to second baseman Jazz Chisholm to first baseman Lewin Diaz.   Ryan Zimmerman out at 2nd.    Lane Thomas out at 1st.",0,1,0,2,9,-0.14,2.34
+383,2021-09-13,657041,571670,,called_strike,5,"Lane Thomas grounds into a double play, third baseman Isan Diaz to second baseman Jazz Chisholm to first baseman Lewin Diaz.   Ryan Zimmerman out at 2nd.    Lane Thomas out at 1st.",0,0,0,1,9,-0.25,2.39
+384,2021-09-13,657041,645261,strikeout,foul_tip,11,Lane Thomas strikes out on a foul tip.,1,2,0,4,1,-1.09,3.71
+385,2021-09-13,657041,645261,,ball,11,Lane Thomas strikes out on a foul tip.,0,2,0,3,1,-0.77,3.71
+386,2021-09-13,657041,645261,,swinging_strike,11,Lane Thomas strikes out on a foul tip.,0,1,0,2,1,-1.3,2.66
+387,2021-09-13,657041,645261,,called_strike,1,Lane Thomas strikes out on a foul tip.,0,0,0,1,1,-0.39,3.37
+388,2021-09-12,657041,669060,home_run,hit_into_play,6,Lane Thomas homers (4) on a fly ball to right field.    Adrian Sanchez scores.    Patrick Corbin scores.,0,1,2,2,4,0.42,2.37
+389,2021-09-12,657041,669060,,foul,13,Lane Thomas homers (4) on a fly ball to right field.    Adrian Sanchez scores.    Patrick Corbin scores.,0,0,2,1,4,-0.76,1.18
+390,2021-09-12,657041,669060,field_out,hit_into_play,13,"Lane Thomas grounds out, third baseman Ke'Bryan Hayes to first baseman Colin Moran.",2,2,0,6,3,-0.72,1.32
+391,2021-09-12,657041,669060,,foul,5,"Lane Thomas grounds out, third baseman Ke'Bryan Hayes to first baseman Colin Moran.",2,2,0,5,3,-0.26,2.17
+392,2021-09-12,657041,669060,,ball,14,"Lane Thomas grounds out, third baseman Ke'Bryan Hayes to first baseman Colin Moran.",1,2,0,4,3,0.26,1.28
+393,2021-09-12,657041,669060,,called_strike,5,"Lane Thomas grounds out, third baseman Ke'Bryan Hayes to first baseman Colin Moran.",1,1,0,3,3,0.05,2.67
+394,2021-09-12,657041,669060,,ball,13,"Lane Thomas grounds out, third baseman Ke'Bryan Hayes to first baseman Colin Moran.",0,1,0,2,3,-1.02,0.91
+395,2021-09-12,657041,669060,,called_strike,4,"Lane Thomas grounds out, third baseman Ke'Bryan Hayes to first baseman Colin Moran.",0,0,0,1,3,-0.49,2.25
+396,2021-09-12,657041,656818,field_out,hit_into_play,5,Lane Thomas flies out to center fielder Bryan Reynolds.,2,2,2,5,8,0.21,2.38
+397,2021-09-12,657041,656818,,foul,13,Lane Thomas flies out to center fielder Bryan Reynolds.,2,1,2,4,8,-0.98,1.55
+398,2021-09-12,657041,656818,,ball,11,Lane Thomas flies out to center fielder Bryan Reynolds.,1,1,2,3,8,-0.99,3.78
+399,2021-09-12,657041,656818,,ball,13,Lane Thomas flies out to center fielder Bryan Reynolds.,0,1,2,2,8,-0.58,1.3
+400,2021-09-12,657041,656818,,called_strike,3,Lane Thomas flies out to center fielder Bryan Reynolds.,0,0,2,1,8,0.4,3.16
+401,2021-09-12,657041,665854,double_play,hit_into_play,4,"Lane Thomas grounds into a double play, shortstop Kevin Newman to second baseman Wilmer Difo to third baseman Ke'Bryan Hayes to second baseman Wilmer Difo to pitcher Luis Oviedo.   Adrian Sanchez out at 3rd.    Patrick Corbin out at 2nd.    Lane Thomas to 1st.",0,0,0,1,6,-0.4,2.41
+402,2021-09-12,657041,669060,field_out,hit_into_play,4,Lane Thomas lines out to second baseman Wilmer Difo.,2,1,0,4,1,-0.6,2.32
+403,2021-09-12,657041,669060,,foul,5,Lane Thomas lines out to second baseman Wilmer Difo.,2,0,0,3,1,-0.14,2.71
+404,2021-09-12,657041,669060,,ball,6,Lane Thomas lines out to second baseman Wilmer Difo.,1,0,0,2,1,0.79,2.37
+405,2021-09-12,657041,669060,,ball,14,Lane Thomas lines out to second baseman Wilmer Difo.,0,0,0,1,1,1.22,1.45
+406,2021-09-11,657041,640444,field_out,hit_into_play,1,Lane Thomas pops out to catcher Michael Perez in foul territory.,3,2,2,9,3,-0.4,2.83
+407,2021-09-11,657041,640444,,blocked_ball,14,Lane Thomas pops out to catcher Michael Perez in foul territory.,2,2,2,8,3,0.58,0.44
+408,2021-09-11,657041,640444,,foul,8,Lane Thomas pops out to catcher Michael Perez in foul territory.,2,2,2,7,3,-0.13,1.93
+409,2021-09-11,657041,640444,,foul,13,Lane Thomas pops out to catcher Michael Perez in foul territory.,2,2,2,6,3,-0.43,1.3
+410,2021-09-11,657041,640444,,foul,6,Lane Thomas pops out to catcher Michael Perez in foul territory.,2,2,2,5,3,0.77,2.22
+411,2021-09-11,657041,640444,,blocked_ball,14,Lane Thomas pops out to catcher Michael Perez in foul territory.,1,2,2,4,3,2.13,0.02
+412,2021-09-11,657041,640444,,called_strike,7,Lane Thomas pops out to catcher Michael Perez in foul territory.,1,1,2,3,3,-0.41,1.98
+413,2021-09-11,657041,640444,,foul,13,Lane Thomas pops out to catcher Michael Perez in foul territory.,1,0,2,2,3,-0.97,1.99
+414,2021-09-11,657041,640444,,ball,13,Lane Thomas pops out to catcher Michael Perez in foul territory.,0,0,2,1,3,-0.56,1.08
+415,2021-09-11,657041,664918,field_out,hit_into_play,1,Lane Thomas flies out to center fielder Bryan Reynolds.,0,0,2,1,6,-0.49,2.94
+416,2021-09-11,657041,571946,walk,ball,13,Lane Thomas walks.,3,2,0,7,8,-0.73,1.33
+417,2021-09-11,657041,571946,,ball,11,Lane Thomas walks.,2,2,0,6,8,-0.8,4.02
+418,2021-09-11,657041,571946,,foul,14,Lane Thomas walks.,2,2,0,5,8,0.3,1.21
+419,2021-09-11,657041,571946,,called_strike,8,Lane Thomas walks.,2,1,0,4,8,-0.11,1.58
+420,2021-09-11,657041,571946,,called_strike,4,Lane Thomas walks.,2,0,0,3,8,-0.34,2.55
+421,2021-09-11,657041,571946,,ball,14,Lane Thomas walks.,1,0,0,2,8,0.19,0.69
+422,2021-09-11,657041,571946,,ball,14,Lane Thomas walks.,0,0,0,1,8,1.16,0.38
+423,2021-09-11,657041,640444,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,1,2,0,4,1,0.64,1.02
+424,2021-09-11,657041,640444,,ball,9,Lane Thomas strikes out swinging.,0,2,0,3,1,0.5,1.66
+425,2021-09-11,657041,607455,double,hit_into_play,9,Lane Thomas doubles (7) on a line drive to center fielder Bryan Reynolds.,0,2,0,3,5,0.52,1.96
+426,2021-09-11,657041,607455,,called_strike,12,Lane Thomas doubles (7) on a line drive to center fielder Bryan Reynolds.,0,1,0,2,5,0.85,2.84
+427,2021-09-11,657041,640444,,called_strike,8,Lane Thomas strikes out swinging.,0,1,0,2,1,-0.15,1.79
+428,2021-09-11,657041,607455,,called_strike,12,Lane Thomas doubles (7) on a line drive to center fielder Bryan Reynolds.,0,0,0,1,5,0.06,3.46
+429,2021-09-11,657041,640444,,called_strike,4,Lane Thomas strikes out swinging.,0,0,0,1,1,-0.36,2.26
+430,2021-09-10,657041,643230,single,hit_into_play,4,Lane Thomas singles on a sharp line drive to left fielder Anthony Alford.   Riley Adams scores.,3,2,2,7,2,-0.45,2.12
+431,2021-09-10,657041,643230,,ball,14,Lane Thomas singles on a sharp line drive to left fielder Anthony Alford.   Riley Adams scores.,2,2,2,6,2,1.06,1.73
+432,2021-09-10,657041,643230,,blocked_ball,13,Lane Thomas singles on a sharp line drive to left fielder Anthony Alford.   Riley Adams scores.,1,2,2,5,2,-0.49,0.63
+433,2021-09-10,657041,643230,,foul,2,Lane Thomas singles on a sharp line drive to left fielder Anthony Alford.   Riley Adams scores.,1,2,2,4,2,-0.17,3.21
+434,2021-09-10,657041,643230,,foul,5,Lane Thomas singles on a sharp line drive to left fielder Anthony Alford.   Riley Adams scores.,1,1,2,3,2,0.17,2.58
+435,2021-09-10,657041,664074,field_out,hit_into_play,9,Lane Thomas grounds out to first baseman Yoshi Tsutsugo.,2,2,1,6,5,0.83,1.48
+436,2021-09-10,657041,664074,,ball,14,Lane Thomas grounds out to first baseman Yoshi Tsutsugo.,1,2,1,5,5,0.03,0.6
+437,2021-09-10,657041,643230,,ball,13,Lane Thomas singles on a sharp line drive to left fielder Anthony Alford.   Riley Adams scores.,0,1,2,2,2,-0.06,0.59
+438,2021-09-10,657041,664074,,ball,14,Lane Thomas grounds out to first baseman Yoshi Tsutsugo.,0,2,1,4,5,1.31,-0.52
+439,2021-09-10,657041,643230,,called_strike,4,Lane Thomas singles on a sharp line drive to left fielder Anthony Alford.   Riley Adams scores.,0,0,2,1,2,-0.63,2.32
+440,2021-09-10,657041,664074,,foul,3,Lane Thomas grounds out to first baseman Yoshi Tsutsugo.,0,2,1,3,5,0.58,2.98
+441,2021-09-10,657041,664074,,foul,6,Lane Thomas grounds out to first baseman Yoshi Tsutsugo.,0,1,1,2,5,0.76,2.41
+442,2021-09-10,657041,664074,,called_strike,12,Lane Thomas grounds out to first baseman Yoshi Tsutsugo.,0,0,1,1,5,0.96,2.85
+443,2021-09-10,657041,683232,walk,ball,12,Lane Thomas walks.,3,2,0,7,8,0.59,4.2
+444,2021-09-10,657041,683232,,foul,6,Lane Thomas walks.,3,2,0,6,8,0.66,2.7
+445,2021-09-10,657041,683232,,foul_tip,12,Lane Thomas walks.,3,1,0,5,8,0.21,3.5
+446,2021-09-10,657041,683232,,ball,14,Lane Thomas walks.,2,1,0,4,8,1.32,1.69
+447,2021-09-10,657041,683232,,called_strike,9,Lane Thomas walks.,2,0,0,3,8,0.71,1.84
+448,2021-09-10,657041,683232,,ball,14,Lane Thomas walks.,1,0,0,2,8,0.62,-0.05
+449,2021-09-10,657041,643230,field_error,hit_into_play,5,Lane Thomas reaches on a throwing error by shortstop Cole Tucker.,0,0,0,1,1,-0.12,2.65
+450,2021-09-10,657041,683232,,ball,12,Lane Thomas walks.,0,0,0,1,8,0.25,3.87
+451,2021-09-09,657041,660623,walk,ball,14,Lane Thomas walks.,3,1,2,5,5,1.41,2.37
+452,2021-09-09,657041,660623,,called_strike,8,Lane Thomas walks.,3,0,2,4,5,0.02,2.07
+453,2021-09-09,657041,660623,,ball,14,Lane Thomas walks.,2,0,2,3,5,1.37,0.74
+454,2021-09-09,657041,660623,,ball,11,Lane Thomas walks.,1,0,2,2,5,-1.48,2.99
+455,2021-09-09,657041,660623,,ball,11,Lane Thomas walks.,0,0,2,1,5,-1.45,2.84
+456,2021-09-09,657041,660623,strikeout,called_strike,14,Lane Thomas called out on strikes.,2,2,0,5,3,0.91,2.25
+457,2021-09-09,657041,660623,,called_strike,12,Lane Thomas called out on strikes.,2,1,0,4,3,0.53,3.7
+458,2021-09-09,657041,660623,,ball,14,Lane Thomas called out on strikes.,1,1,0,3,3,0.82,1.12
+459,2021-09-09,657041,660623,,ball,12,Lane Thomas called out on strikes.,0,1,0,2,3,0.07,4.54
+460,2021-09-09,657041,660623,,foul,2,Lane Thomas called out on strikes.,0,0,0,1,3,0.11,2.87
+461,2021-09-09,657041,592426,single,hit_into_play,8,Lane Thomas singles on a sharp ground ball to left fielder Adam Duvall.   Luis Garcia scores.,0,0,1,1,7,-0.15,2.08
+462,2021-09-09,657041,660623,walk,ball,14,Lane Thomas walks.,3,2,0,6,1,1.13,1.83
+463,2021-09-09,657041,660623,,ball,14,Lane Thomas walks.,2,2,0,5,1,0.95,1.84
+464,2021-09-09,657041,660623,,ball,12,Lane Thomas walks.,1,2,0,4,1,0.29,3.99
+465,2021-09-09,657041,660623,,ball,14,Lane Thomas walks.,0,2,0,3,1,1.0,0.56
+466,2021-09-09,657041,660623,,swinging_strike,8,Lane Thomas walks.,0,1,0,2,1,0.02,2.03
+467,2021-09-09,657041,660623,,called_strike,3,Lane Thomas walks.,0,0,0,1,1,0.63,3.43
+468,2021-09-09,657041,519293,triple,hit_into_play,8,Lane Thomas triples (2) on a sharp fly ball to center fielder Joc Pederson.,0,0,0,1,9,0.05,2.06
+469,2021-09-08,657041,657053,strikeout,swinging_strike,11,Lane Thomas strikes out swinging.,3,2,0,6,3,-1.48,2.57
+470,2021-09-08,657041,657053,,foul,6,Lane Thomas strikes out swinging.,3,1,0,5,3,0.8,2.38
+471,2021-09-08,657041,657053,,called_strike,8,Lane Thomas strikes out swinging.,3,0,0,4,3,-0.01,1.59
+472,2021-09-08,657041,657053,,ball,14,Lane Thomas strikes out swinging.,2,0,0,3,3,0.84,0.97
+473,2021-09-08,657041,657053,,ball,14,Lane Thomas strikes out swinging.,1,0,0,2,3,0.75,1.18
+474,2021-09-08,657041,657053,,ball,14,Lane Thomas strikes out swinging.,0,0,0,1,3,2.0,2.25
+475,2021-09-08,657041,657097,field_out,hit_into_play,5,Lane Thomas pops out to first baseman Freddie Freeman.,1,1,2,3,4,-0.15,2.22
+476,2021-09-08,657041,657097,,ball,14,Lane Thomas pops out to first baseman Freddie Freeman.,0,1,2,2,4,0.56,0.91
+477,2021-09-08,657041,657097,,called_strike,8,Lane Thomas pops out to first baseman Freddie Freeman.,0,0,2,1,4,-0.25,1.93
+478,2021-09-08,657041,650828,walk,ball,14,Lane Thomas walks.,3,2,0,8,9,0.6,1.19
+479,2021-09-08,657041,650828,,ball,11,Lane Thomas walks.,2,2,0,7,9,-1.0,3.16
+480,2021-09-08,657041,650828,,ball,14,Lane Thomas walks.,1,2,0,6,9,1.99,0.72
+481,2021-09-08,657041,650828,,foul,8,Lane Thomas walks.,1,2,0,5,9,0.16,1.68
+482,2021-09-08,657041,650828,,foul,5,Lane Thomas walks.,1,2,0,4,9,0.19,2.35
+483,2021-09-08,657041,650828,,ball,11,Lane Thomas walks.,0,2,0,3,9,-1.02,4.4
+484,2021-09-08,657041,593144,field_out,hit_into_play,5,"Lane Thomas grounds out, second baseman Ozzie Albies to first baseman Freddie Freeman.",1,1,0,3,7,-0.16,2.41
+485,2021-09-08,657041,657053,field_error,hit_into_play,8,Lane Thomas reaches on a throwing error by third baseman Austin Riley.,1,1,0,3,1,-0.11,2.0
+486,2021-09-08,657041,593144,,foul,1,"Lane Thomas grounds out, second baseman Ozzie Albies to first baseman Freddie Freeman.",1,0,0,2,7,-0.39,3.17
+487,2021-09-08,657041,657053,,ball,14,Lane Thomas reaches on a throwing error by third baseman Austin Riley.,0,1,0,2,1,0.8,0.85
+488,2021-09-08,657041,650828,,foul,4,Lane Thomas walks.,0,1,0,2,9,-0.51,2.43
+489,2021-09-08,657041,657053,,called_strike,6,Lane Thomas reaches on a throwing error by third baseman Austin Riley.,0,0,0,1,1,0.42,2.62
+490,2021-09-08,657041,593144,,ball,14,"Lane Thomas grounds out, second baseman Ozzie Albies to first baseman Freddie Freeman.",0,0,0,1,7,1.75,1.54
+491,2021-09-08,657041,650828,,called_strike,9,Lane Thomas walks.,0,0,0,1,9,0.46,2.15
+492,2021-09-07,657041,608331,field_out,hit_into_play,9,"Lane Thomas grounds out, shortstop Dansby Swanson to first baseman Freddie Freeman.",3,2,2,7,4,0.28,1.71
+493,2021-09-07,657041,608331,,foul,6,"Lane Thomas grounds out, shortstop Dansby Swanson to first baseman Freddie Freeman.",3,2,2,6,4,0.36,2.78
+494,2021-09-07,657041,608331,,called_strike,8,"Lane Thomas grounds out, shortstop Dansby Swanson to first baseman Freddie Freeman.",3,1,2,5,4,0.25,2.07
+495,2021-09-07,657041,608331,,called_strike,4,"Lane Thomas grounds out, shortstop Dansby Swanson to first baseman Freddie Freeman.",3,0,2,4,4,-0.35,2.54
+496,2021-09-07,657041,608331,,ball,12,"Lane Thomas grounds out, shortstop Dansby Swanson to first baseman Freddie Freeman.",2,0,2,3,4,0.84,3.53
+497,2021-09-07,657041,608331,,ball,12,"Lane Thomas grounds out, shortstop Dansby Swanson to first baseman Freddie Freeman.",1,0,2,2,4,0.77,3.75
+498,2021-09-07,657041,608331,,ball,13,"Lane Thomas grounds out, shortstop Dansby Swanson to first baseman Freddie Freeman.",0,0,2,1,4,-1.65,1.21
+499,2021-09-07,657041,608331,strikeout,swinging_strike,2,Lane Thomas strikes out swinging.,2,2,2,5,2,0.03,3.24
+500,2021-09-07,657041,608331,,called_strike,2,Lane Thomas strikes out swinging.,2,1,2,4,2,0.11,2.72
+501,2021-09-07,657041,608331,,ball,12,Lane Thomas strikes out swinging.,1,1,2,3,2,0.23,3.82
+502,2021-09-07,657041,608331,,ball,12,Lane Thomas strikes out swinging.,0,1,2,2,2,0.37,3.39
+503,2021-09-07,657041,608331,,foul,4,Lane Thomas strikes out swinging.,0,0,2,1,2,-0.37,2.78
+504,2021-09-07,657041,592426,strikeout,called_strike,5,Lane Thomas called out on strikes.,2,2,2,5,8,0.25,2.1
+505,2021-09-07,657041,592426,,ball,14,Lane Thomas called out on strikes.,1,2,2,4,8,2.02,0.31
+506,2021-09-07,657041,592426,,swinging_strike,14,Lane Thomas called out on strikes.,1,1,2,3,8,0.33,1.38
+507,2021-09-07,657041,592426,,called_strike,7,Lane Thomas called out on strikes.,1,0,2,2,8,-0.32,2.13
+508,2021-09-07,657041,592426,,ball,12,Lane Thomas called out on strikes.,0,0,2,1,8,0.18,3.48
+509,2021-09-07,657041,554431,walk,ball,14,Lane Thomas walks.,3,2,0,8,7,0.04,0.57
+510,2021-09-07,657041,554431,,foul,5,Lane Thomas walks.,3,2,0,7,7,-0.2,2.44
+511,2021-09-07,657041,554431,,ball,12,Lane Thomas walks.,2,2,0,6,7,1.27,5.27
+512,2021-09-07,657041,554431,,foul,2,Lane Thomas walks.,2,2,0,5,7,-0.15,3.39
+513,2021-09-07,657041,554431,,ball,12,Lane Thomas walks.,1,2,0,4,7,1.51,4.19
+514,2021-09-07,657041,608331,field_out,hit_into_play,9,Lane Thomas lines out sharply to shortstop Dansby Swanson.,1,2,0,4,1,0.32,2.1
+515,2021-09-07,657041,608331,,swinging_strike,13,Lane Thomas lines out sharply to shortstop Dansby Swanson.,1,1,0,3,1,-0.43,1.03
+516,2021-09-07,657041,554431,,ball,13,Lane Thomas walks.,0,2,0,3,7,-1.9,-0.43
+517,2021-09-07,657041,608331,,ball,12,Lane Thomas lines out sharply to shortstop Dansby Swanson.,0,1,0,2,1,0.44,4.07
+518,2021-09-07,657041,554431,,called_strike,9,Lane Thomas walks.,0,1,0,2,7,0.69,1.6
+519,2021-09-07,657041,608331,,called_strike,4,Lane Thomas lines out sharply to shortstop Dansby Swanson.,0,0,0,1,1,-0.68,2.31
+520,2021-09-07,657041,554431,,called_strike,9,Lane Thomas walks.,0,0,0,1,7,0.5,1.85
+521,2021-09-06,657041,592866,single,hit_into_play,8,Lane Thomas singles on a line drive to left fielder Jeff McNeil.   Luis Garcia scores.    Patrick Corbin to 2nd.,2,2,0,6,4,0.03,1.54
+522,2021-09-06,657041,592866,,foul,2,Lane Thomas singles on a line drive to left fielder Jeff McNeil.   Luis Garcia scores.    Patrick Corbin to 2nd.,2,2,0,5,4,-0.08,2.82
+523,2021-09-06,657041,592866,,foul,5,Lane Thomas singles on a line drive to left fielder Jeff McNeil.   Luis Garcia scores.    Patrick Corbin to 2nd.,2,1,0,4,4,-0.13,2.31
+524,2021-09-06,657041,592866,,blocked_ball,14,Lane Thomas singles on a line drive to left fielder Jeff McNeil.   Luis Garcia scores.    Patrick Corbin to 2nd.,1,1,0,3,4,0.94,0.37
+525,2021-09-06,657041,592866,,called_strike,8,Lane Thomas singles on a line drive to left fielder Jeff McNeil.   Luis Garcia scores.    Patrick Corbin to 2nd.,1,0,0,2,4,-0.26,1.74
+526,2021-09-06,657041,592866,,blocked_ball,13,Lane Thomas singles on a line drive to left fielder Jeff McNeil.   Luis Garcia scores.    Patrick Corbin to 2nd.,0,0,0,1,4,-0.65,0.43
+527,2021-09-06,657041,592866,single,hit_into_play,14,Lane Thomas singles on a ground ball to right fielder Michael Conforto.   Patrick Corbin to 2nd.,0,0,2,1,2,0.65,1.39
+528,2021-09-06,657041,607625,field_out,hit_into_play,5,"Lane Thomas grounds out sharply, second baseman Javier Baez to first baseman Pete Alonso.",1,2,2,4,8,0.19,2.34
+529,2021-09-06,657041,607625,,foul,11,"Lane Thomas grounds out sharply, second baseman Javier Baez to first baseman Pete Alonso.",1,1,2,3,8,-1.28,2.68
+530,2021-09-06,657041,607625,,ball,11,"Lane Thomas grounds out sharply, second baseman Javier Baez to first baseman Pete Alonso.",0,1,2,2,8,-1.37,2.48
+531,2021-09-06,657041,607625,,swinging_strike,14,"Lane Thomas grounds out sharply, second baseman Javier Baez to first baseman Pete Alonso.",0,0,2,1,8,0.94,1.29
+532,2021-09-06,657041,544727,field_out,hit_into_play,5,"Lane Thomas grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,1,1,2,6,0.05,2.43
+533,2021-09-06,657041,544727,,called_strike,5,"Lane Thomas grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,1,1,6,0.01,2.19
+534,2021-09-06,657041,592866,field_out,hit_into_play,14,"Lane Thomas grounds out, second baseman Javier Baez to first baseman Pete Alonso.",1,2,0,4,1,0.99,1.64
+535,2021-09-06,657041,592866,,ball,14,"Lane Thomas grounds out, second baseman Javier Baez to first baseman Pete Alonso.",0,2,0,3,1,1.64,1.47
+536,2021-09-06,657041,592866,,called_strike,8,"Lane Thomas grounds out, second baseman Javier Baez to first baseman Pete Alonso.",0,1,0,2,1,-0.14,1.56
+537,2021-09-06,657041,592866,,called_strike,5,"Lane Thomas grounds out, second baseman Javier Baez to first baseman Pete Alonso.",0,0,0,1,1,-0.01,2.35
+538,2021-09-05,657041,592836,single,hit_into_play,4,Lane Thomas singles on a ground ball to right fielder Michael Conforto.   Yadiel Hernandez to 2nd.,0,0,1,1,5,-0.76,2.35
+539,2021-09-05,657041,592836,strikeout,foul_tip,9,Lane Thomas strikes out on a foul tip.,1,2,0,4,3,0.82,1.46
+540,2021-09-05,657041,592836,,called_strike,9,Lane Thomas strikes out on a foul tip.,1,1,0,3,3,0.4,1.72
+541,2021-09-05,657041,592836,,called_strike,7,Lane Thomas strikes out on a foul tip.,1,0,0,2,3,-0.68,1.71
+542,2021-09-05,657041,592836,,ball,13,Lane Thomas strikes out on a foul tip.,0,0,0,1,3,-1.45,1.87
+543,2021-09-05,657041,612434,field_out,hit_into_play,4,Lane Thomas flies out to right fielder Michael Conforto.,0,2,2,3,6,-0.5,2.46
+544,2021-09-05,657041,612434,,foul,4,Lane Thomas flies out to right fielder Michael Conforto.,0,1,2,2,6,-0.41,2.48
+545,2021-09-05,657041,612434,,called_strike,5,Lane Thomas flies out to right fielder Michael Conforto.,0,0,2,1,6,-0.06,2.7
+546,2021-09-05,657041,660546,field_out,hit_into_play,6,Lane Thomas flies out to center fielder Albert Almora.,2,2,0,7,9,0.32,2.22
+547,2021-09-05,657041,660546,,ball,14,Lane Thomas flies out to center fielder Albert Almora.,1,2,0,6,9,2.64,1.27
+548,2021-09-05,657041,592836,home_run,hit_into_play,1,Lane Thomas homers (3) on a fly ball to left center field.,3,1,0,5,1,-0.47,3.02
+549,2021-09-05,657041,660546,,foul,11,Lane Thomas flies out to center fielder Albert Almora.,1,2,0,5,9,-0.28,3.65
+550,2021-09-05,657041,592836,,called_strike,5,Lane Thomas homers (3) on a fly ball to left center field.,3,0,0,4,1,0.02,2.73
+551,2021-09-05,657041,660546,,foul,5,Lane Thomas flies out to center fielder Albert Almora.,1,2,0,4,9,0.03,2.61
+552,2021-09-05,657041,660546,,foul,2,Lane Thomas flies out to center fielder Albert Almora.,1,1,0,3,9,-0.16,3.02
+553,2021-09-05,657041,592836,,ball,14,Lane Thomas homers (3) on a fly ball to left center field.,2,0,0,3,1,1.36,1.43
+554,2021-09-05,657041,592836,,ball,9,Lane Thomas homers (3) on a fly ball to left center field.,1,0,0,2,1,0.82,2.02
+555,2021-09-05,657041,660546,,called_strike,1,Lane Thomas flies out to center fielder Albert Almora.,1,0,0,2,9,-0.4,3.23
+556,2021-09-05,657041,592836,,ball,11,Lane Thomas homers (3) on a fly ball to left center field.,0,0,0,1,1,-0.92,4.29
+557,2021-09-05,657041,660546,,ball,6,Lane Thomas flies out to center fielder Albert Almora.,0,0,0,1,9,0.82,2.26
+558,2021-09-04,657041,573186,sac_fly,hit_into_play,5,Lane Thomas out on a sacrifice fly to center fielder Albert Almora.   Carter Kieboom scores.    Luis Garcia to 3rd.,1,0,0,2,4,0.15,2.36
+559,2021-09-04,657041,573186,,ball,14,Lane Thomas out on a sacrifice fly to center fielder Albert Almora.   Carter Kieboom scores.    Luis Garcia to 3rd.,0,0,0,1,4,0.56,0.74
+560,2021-09-04,657041,656731,strikeout,swinging_strike_blocked,14,"Lane Thomas strikes out swinging, catcher James McCann to first baseman Pete Alonso.",1,2,1,4,5,1.36,0.39
+561,2021-09-04,657041,656731,,called_strike,8,"Lane Thomas strikes out swinging, catcher James McCann to first baseman Pete Alonso.",1,1,1,3,5,-0.16,1.69
+562,2021-09-04,657041,656731,,ball,12,"Lane Thomas strikes out swinging, catcher James McCann to first baseman Pete Alonso.",0,1,1,2,5,1.72,2.71
+563,2021-09-04,657041,656731,,swinging_strike,9,"Lane Thomas strikes out swinging, catcher James McCann to first baseman Pete Alonso.",0,0,1,1,5,0.59,1.52
+564,2021-09-04,657041,656731,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,1,2,2,4,2,1.21,1.13
+565,2021-09-04,657041,656731,,called_strike,9,Lane Thomas strikes out swinging.,1,1,2,3,2,0.6,2.09
+566,2021-09-04,657041,656731,,ball,14,Lane Thomas strikes out swinging.,0,1,2,2,2,1.26,2.24
+567,2021-09-04,657041,656731,,called_strike,9,Lane Thomas strikes out swinging.,0,0,2,1,2,0.53,1.74
+568,2021-09-04,657041,573186,field_out,hit_into_play,1,Lane Thomas pops out to shortstop Francisco Lindor.,2,0,2,3,2,-0.63,3.32
+569,2021-09-04,657041,573186,,ball,11,Lane Thomas pops out to shortstop Francisco Lindor.,1,0,2,2,2,-0.73,3.97
+570,2021-09-04,657041,573186,,ball,14,Lane Thomas pops out to shortstop Francisco Lindor.,0,0,2,1,2,1.02,1.63
+571,2021-09-04,657041,607625,strikeout,swinging_strike,9,Lane Thomas strikes out swinging.,2,2,2,9,7,0.78,1.67
+572,2021-09-04,657041,607625,,foul,13,Lane Thomas strikes out swinging.,2,2,2,8,7,-0.57,1.33
+573,2021-09-04,657041,607625,,ball,12,Lane Thomas strikes out swinging.,1,2,2,7,7,0.01,3.43
+574,2021-09-04,657041,612434,single,hit_into_play,7,Lane Thomas singles on a ground ball to second baseman Javier Baez.   Carter Kieboom to 3rd.    Andrew Stevenson to 2nd.,1,2,1,4,6,-0.49,1.84
+575,2021-09-04,657041,607625,,ball,11,Lane Thomas strikes out swinging.,0,2,2,6,7,-0.95,4.28
+576,2021-09-04,657041,607625,,foul,8,Lane Thomas strikes out swinging.,0,2,2,5,7,-0.03,2.0
+577,2021-09-04,657041,612434,,foul,5,Lane Thomas singles on a ground ball to second baseman Javier Baez.   Carter Kieboom to 3rd.    Andrew Stevenson to 2nd.,1,1,1,3,6,-0.1,2.34
+578,2021-09-04,657041,607625,,foul,1,Lane Thomas strikes out swinging.,0,2,2,4,7,-0.41,3.37
+579,2021-09-04,657041,612434,,ball,14,Lane Thomas singles on a ground ball to second baseman Javier Baez.   Carter Kieboom to 3rd.    Andrew Stevenson to 2nd.,0,1,1,2,6,0.94,1.18
+580,2021-09-04,657041,612434,,called_strike,6,Lane Thomas singles on a ground ball to second baseman Javier Baez.   Carter Kieboom to 3rd.    Andrew Stevenson to 2nd.,0,0,1,1,6,0.3,2.24
+581,2021-09-04,657041,607625,,foul,13,Lane Thomas strikes out swinging.,0,2,2,3,7,-0.93,1.61
+582,2021-09-04,657041,607625,,foul,11,Lane Thomas strikes out swinging.,0,1,2,2,7,-1.27,3.33
+583,2021-09-04,657041,607625,,called_strike,1,Lane Thomas strikes out swinging.,0,0,2,1,7,-0.4,3.18
+584,2021-09-04,657041,573186,single,hit_into_play,8,Lane Thomas singles on a ground ball to left fielder Jeff McNeil.,2,2,0,5,1,0.21,1.58
+585,2021-09-04,657041,573186,,called_strike,1,Lane Thomas singles on a ground ball to left fielder Jeff McNeil.,2,1,0,4,1,-0.43,2.68
+586,2021-09-04,657041,656731,home_run,hit_into_play,2,Lane Thomas homers (2) on a fly ball to center field.,1,2,0,4,1,0.27,3.24
+587,2021-09-04,657041,573186,,ball,14,Lane Thomas singles on a ground ball to left fielder Jeff McNeil.,1,1,0,3,1,1.89,0.61
+588,2021-09-04,657041,656731,,foul,9,Lane Thomas homers (2) on a fly ball to center field.,1,1,0,3,1,0.71,2.07
+589,2021-09-04,657041,656731,,ball,14,Lane Thomas homers (2) on a fly ball to center field.,0,1,0,2,1,0.98,1.97
+590,2021-09-04,657041,573186,,called_strike,9,Lane Thomas singles on a ground ball to left fielder Jeff McNeil.,1,0,0,2,1,0.73,1.78
+591,2021-09-04,657041,656731,,called_strike,8,Lane Thomas homers (2) on a fly ball to center field.,0,0,0,1,1,0.02,1.67
+592,2021-09-04,657041,573186,,ball,14,Lane Thomas singles on a ground ball to left fielder Jeff McNeil.,0,0,0,1,1,1.24,2.04
+593,2021-09-03,657041,448179,walk,ball,11,Lane Thomas walks.,3,1,0,5,6,-0.53,3.67
+594,2021-09-03,657041,448179,,called_strike,2,Lane Thomas walks.,3,0,0,4,6,-0.04,3.29
+595,2021-09-03,657041,448179,,ball,12,Lane Thomas walks.,2,0,0,3,6,0.57,4.2
+596,2021-09-03,657041,448179,,ball,12,Lane Thomas walks.,1,0,0,2,6,1.37,2.8
+597,2021-09-03,657041,448179,,ball,12,Lane Thomas walks.,0,0,0,1,6,0.93,3.3
+598,2021-09-03,657041,448179,field_out,hit_into_play,8,Lane Thomas flies out to left fielder Kevin Pillar.,0,1,2,2,3,-0.19,1.92
+599,2021-09-03,657041,448179,,called_strike,5,Lane Thomas flies out to left fielder Kevin Pillar.,0,0,2,1,3,0.12,2.52
+600,2021-09-03,657041,544727,field_out,hit_into_play,6,"Lane Thomas grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,2,1,4,10,0.3,2.63
+601,2021-09-03,657041,544727,,called_strike,8,"Lane Thomas grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,1,1,3,10,0.19,1.74
+602,2021-09-03,657041,544727,,called_strike,1,"Lane Thomas grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",1,0,1,2,10,-0.61,2.98
+603,2021-09-03,657041,544727,,ball,11,"Lane Thomas grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,1,1,10,-1.28,3.65
+604,2021-09-03,657041,571901,field_out,hit_into_play,4,"Lane Thomas grounds out, pitcher Aaron Loup to first baseman Pete Alonso.",0,1,1,2,8,-0.42,2.28
+605,2021-09-03,657041,448179,single,hit_into_play,4,Lane Thomas singles on a line drive to left fielder Kevin Pillar.,0,2,0,3,1,-0.51,2.59
+606,2021-09-03,657041,571901,,called_strike,6,"Lane Thomas grounds out, pitcher Aaron Loup to first baseman Pete Alonso.",0,0,1,1,8,0.75,2.55
+607,2021-09-03,657041,448179,,called_strike,7,Lane Thomas singles on a line drive to left fielder Kevin Pillar.,0,1,0,2,1,-0.29,1.97
+608,2021-09-03,657041,448179,,foul,8,Lane Thomas singles on a line drive to left fielder Kevin Pillar.,0,0,0,1,1,0.03,1.74
+609,2021-09-02,657041,605400,single,hit_into_play,8,"Lane Thomas singles on a sharp ground ball to left fielder Andrew McCutchen, deflected by shortstop Freddy Galvis.   Paolo Espino to 2nd.",1,2,0,5,5,-0.23,2.05
+610,2021-09-02,657041,605400,,foul,3,"Lane Thomas singles on a sharp ground ball to left fielder Andrew McCutchen, deflected by shortstop Freddy Galvis.   Paolo Espino to 2nd.",1,2,0,4,5,0.43,2.93
+611,2021-09-02,657041,605400,,foul,9,"Lane Thomas singles on a sharp ground ball to left fielder Andrew McCutchen, deflected by shortstop Freddy Galvis.   Paolo Espino to 2nd.",1,1,0,3,5,0.41,1.69
+612,2021-09-02,657041,605400,,ball,13,"Lane Thomas singles on a sharp ground ball to left fielder Andrew McCutchen, deflected by shortstop Freddy Galvis.   Paolo Espino to 2nd.",0,1,0,2,5,-0.46,1.29
+613,2021-09-02,657041,605400,,swinging_strike,13,"Lane Thomas singles on a sharp ground ball to left fielder Andrew McCutchen, deflected by shortstop Freddy Galvis.   Paolo Espino to 2nd.",0,0,0,1,5,-0.56,1.19
+614,2021-09-02,657041,605400,home_run,hit_into_play,8,Lane Thomas homers (1) on a fly ball to center field.,3,2,2,6,3,-0.09,2.06
+615,2021-09-02,657041,605400,,ball,13,Lane Thomas homers (1) on a fly ball to center field.,2,2,2,5,3,-1.05,0.95
+616,2021-09-02,657041,605400,,ball,14,Lane Thomas homers (1) on a fly ball to center field.,1,2,2,4,3,1.1,1.99
+617,2021-09-02,657041,605400,,swinging_strike,13,Lane Thomas homers (1) on a fly ball to center field.,1,1,2,3,3,-1.13,2.21
+618,2021-09-02,657041,605400,,ball,13,Lane Thomas homers (1) on a fly ball to center field.,0,1,2,2,3,-0.31,0.83
+619,2021-09-02,657041,605400,,called_strike,5,Lane Thomas homers (1) on a fly ball to center field.,0,0,2,1,3,0.23,2.22
+620,2021-09-02,657041,605151,strikeout,swinging_strike,6,Lane Thomas strikes out swinging.,3,2,1,7,8,0.3,2.71
+621,2021-09-02,657041,605151,,ball,11,Lane Thomas strikes out swinging.,2,2,1,6,8,-0.56,4.05
+622,2021-09-02,657041,605151,,foul,6,Lane Thomas strikes out swinging.,2,2,1,5,8,0.4,2.21
+623,2021-09-02,657041,605151,,ball,12,Lane Thomas strikes out swinging.,1,2,1,4,8,0.58,3.53
+624,2021-09-02,657041,605151,,ball,12,Lane Thomas strikes out swinging.,0,2,1,3,8,0.24,3.83
+625,2021-09-02,657041,605151,,called_strike,5,Lane Thomas strikes out swinging.,0,1,1,2,8,-0.12,2.43
+626,2021-09-02,657041,670456,strikeout,swinging_strike,11,Lane Thomas strikes out swinging.,1,2,1,5,6,-0.87,4.16
+627,2021-09-02,657041,605151,,called_strike,8,Lane Thomas strikes out swinging.,0,0,1,1,8,-0.26,1.75
+628,2021-09-02,657041,670456,,foul,1,Lane Thomas strikes out swinging.,1,2,1,4,6,-0.63,3.2
+629,2021-09-02,657041,670456,,foul,4,Lane Thomas strikes out swinging.,1,1,1,3,6,-0.46,2.54
+630,2021-09-02,657041,670456,,ball,14,Lane Thomas strikes out swinging.,0,1,1,2,6,1.05,1.81
+631,2021-09-02,657041,670456,,called_strike,2,Lane Thomas strikes out swinging.,0,0,1,1,6,0.05,3.17
+632,2021-09-02,657041,605400,field_out,hit_into_play,6,Lane Thomas flies out to center fielder Odubel Herrera.,1,0,0,2,1,0.6,2.41
+633,2021-09-02,657041,605400,,ball,14,Lane Thomas flies out to center fielder Odubel Herrera.,0,0,0,1,1,1.36,1.87
+634,2021-08-31,657041,519043,walk,ball,12,Lane Thomas walks.,3,1,0,5,4,0.56,3.86
+635,2021-08-31,657041,519043,,ball,13,Lane Thomas walks.,2,1,0,4,4,-1.38,1.43
+636,2021-08-31,657041,519043,,ball,14,Lane Thomas walks.,1,1,0,3,4,0.08,0.87
+637,2021-08-31,657041,519043,,called_strike,2,Lane Thomas walks.,1,0,0,2,4,-0.08,3.0
+638,2021-08-31,657041,519043,,ball,12,Lane Thomas walks.,0,0,0,1,4,1.77,3.69
+639,2021-08-31,657041,519043,double,hit_into_play,13,Lane Thomas doubles (6) on a line drive to center fielder Jorge Bonifacio.   Luis Garcia scores.    Adrian Sanchez to 3rd.,2,2,2,5,2,-0.42,1.29
+640,2021-08-31,657041,519043,,swinging_strike,6,Lane Thomas doubles (6) on a line drive to center fielder Jorge Bonifacio.   Luis Garcia scores.    Adrian Sanchez to 3rd.,2,1,2,4,2,0.36,2.57
+641,2021-08-31,657041,519043,,ball,11,Lane Thomas doubles (6) on a line drive to center fielder Jorge Bonifacio.   Luis Garcia scores.    Adrian Sanchez to 3rd.,1,1,2,3,2,-0.69,3.63
+642,2021-08-31,657041,519043,,called_strike,7,Lane Thomas doubles (6) on a line drive to center fielder Jorge Bonifacio.   Luis Garcia scores.    Adrian Sanchez to 3rd.,1,0,2,2,2,-0.3,1.58
+643,2021-08-31,657041,519043,,blocked_ball,13,Lane Thomas doubles (6) on a line drive to center fielder Jorge Bonifacio.   Luis Garcia scores.    Adrian Sanchez to 3rd.,0,0,2,1,2,-0.97,0.63
+644,2021-08-31,657041,593576,field_out,hit_into_play,5,Lane Thomas flies out sharply to left fielder Andrew McCutchen in foul territory.,3,2,0,6,8,0.01,2.58
+645,2021-08-31,657041,593576,,ball,14,Lane Thomas flies out sharply to left fielder Andrew McCutchen in foul territory.,2,2,0,5,8,1.04,1.11
+646,2021-08-31,657041,519043,field_out,hit_into_play,5,Lane Thomas pops out to first baseman Matt Vierling.,3,2,0,6,1,0.14,2.31
+647,2021-08-31,657041,593576,,ball,8,Lane Thomas flies out sharply to left fielder Andrew McCutchen in foul territory.,1,2,0,4,8,0.03,1.75
+648,2021-08-31,657041,593576,,ball,12,Lane Thomas flies out sharply to left fielder Andrew McCutchen in foul territory.,0,2,0,3,8,1.26,2.89
+649,2021-08-31,657041,656322,field_out,hit_into_play,5,"Lane Thomas grounds out softly, pitcher Sam Coonrod to first baseman Matt Vierling.",3,1,0,5,6,-0.16,2.3
+650,2021-08-31,657041,519043,,ball,12,Lane Thomas pops out to first baseman Matt Vierling.,2,2,0,5,1,0.79,3.73
+651,2021-08-31,657041,656322,,called_strike,1,"Lane Thomas grounds out softly, pitcher Sam Coonrod to first baseman Matt Vierling.",3,0,0,4,6,-0.28,3.12
+652,2021-08-31,657041,519043,,ball,12,Lane Thomas pops out to first baseman Matt Vierling.,1,2,0,4,1,1.47,3.87
+653,2021-08-31,657041,593576,,called_strike,6,Lane Thomas flies out sharply to left fielder Andrew McCutchen in foul territory.,0,1,0,2,8,0.63,2.37
+654,2021-08-31,657041,519043,,ball,11,Lane Thomas pops out to first baseman Matt Vierling.,0,2,0,3,1,-0.64,3.98
+655,2021-08-31,657041,656322,,ball,11,"Lane Thomas grounds out softly, pitcher Sam Coonrod to first baseman Matt Vierling.",2,0,0,3,6,-1.48,3.29
+656,2021-08-31,657041,593576,,called_strike,3,Lane Thomas flies out sharply to left fielder Andrew McCutchen in foul territory.,0,0,0,1,8,0.68,3.16
+657,2021-08-31,657041,656322,,ball,11,"Lane Thomas grounds out softly, pitcher Sam Coonrod to first baseman Matt Vierling.",1,0,0,2,6,-1.17,2.64
+658,2021-08-31,657041,519043,,foul,12,Lane Thomas pops out to first baseman Matt Vierling.,0,1,0,2,1,0.84,2.8
+659,2021-08-31,657041,519043,,called_strike,3,Lane Thomas pops out to first baseman Matt Vierling.,0,0,0,1,1,0.36,3.24
+660,2021-08-31,657041,656322,,ball,11,"Lane Thomas grounds out softly, pitcher Sam Coonrod to first baseman Matt Vierling.",0,0,0,1,6,-1.01,2.78
+661,2021-08-30,657041,554430,strikeout,called_strike,9,Lane Thomas called out on strikes.,0,2,1,3,4,0.7,1.99
+662,2021-08-30,657041,554430,,swinging_strike,2,Lane Thomas called out on strikes.,0,1,1,2,4,0.03,3.07
+663,2021-08-30,657041,554430,,swinging_strike,2,Lane Thomas called out on strikes.,0,0,1,1,4,-0.16,2.88
+664,2021-08-30,657041,554430,single,hit_into_play,4,Lane Thomas singles on a fly ball to left fielder Andrew McCutchen.   Carter Kieboom scores.    Luis Garcia to 3rd.,3,2,1,6,2,-0.72,2.71
+665,2021-08-30,657041,554430,,ball,12,Lane Thomas singles on a fly ball to left fielder Andrew McCutchen.   Carter Kieboom scores.    Luis Garcia to 3rd.,2,2,1,5,2,0.98,4.45
+666,2021-08-30,657041,554430,,swinging_strike,11,Lane Thomas singles on a fly ball to left fielder Andrew McCutchen.   Carter Kieboom scores.    Luis Garcia to 3rd.,2,1,1,4,2,-1.3,3.5
+667,2021-08-30,657041,554430,,foul,7,Lane Thomas singles on a fly ball to left fielder Andrew McCutchen.   Carter Kieboom scores.    Luis Garcia to 3rd.,2,0,1,3,2,-0.53,1.98
+668,2021-08-30,657041,554430,,ball,12,Lane Thomas singles on a fly ball to left fielder Andrew McCutchen.   Carter Kieboom scores.    Luis Garcia to 3rd.,1,0,1,2,2,0.4,3.55
+669,2021-08-30,657041,554430,,ball,11,Lane Thomas singles on a fly ball to left fielder Andrew McCutchen.   Carter Kieboom scores.    Luis Garcia to 3rd.,0,0,1,1,2,-0.89,3.6
+670,2021-08-30,657041,621237,walk,ball,12,Lane Thomas walks.,3,2,0,8,9,0.19,3.92
+671,2021-08-30,657041,621237,,ball,13,Lane Thomas walks.,2,2,0,7,9,-2.41,2.06
+672,2021-08-30,657041,621237,,foul,13,Lane Thomas walks.,2,2,0,6,9,-1.13,2.05
+673,2021-08-30,657041,621237,,foul,5,Lane Thomas walks.,2,2,0,5,9,-0.1,2.41
+674,2021-08-30,657041,621237,,foul,5,Lane Thomas walks.,2,1,0,4,9,0.06,2.63
+675,2021-08-30,657041,621237,,called_strike,2,Lane Thomas walks.,2,0,0,3,9,0.19,2.88
+676,2021-08-30,657041,621237,,ball,13,Lane Thomas walks.,1,0,0,2,9,-0.88,1.43
+677,2021-08-30,657041,621237,,ball,14,Lane Thomas walks.,0,0,0,1,9,0.63,1.14
+678,2021-08-30,657041,554430,field_out,hit_into_play,4,"Lane Thomas grounds out, third baseman Ronald Torreyes to first baseman Brad Miller.",0,2,0,4,1,-0.38,2.32
+679,2021-08-30,657041,554430,,foul,5,"Lane Thomas grounds out, third baseman Ronald Torreyes to first baseman Brad Miller.",0,2,0,3,1,0.19,2.52
+680,2021-08-30,657041,641401,field_out,hit_into_play,3,Lane Thomas flies out to left fielder Odubel Herrera.,0,1,0,2,7,0.82,3.29
+681,2021-08-30,657041,554430,,swinging_strike,11,"Lane Thomas grounds out, third baseman Ronald Torreyes to first baseman Brad Miller.",0,1,0,2,1,-1.55,2.64
+682,2021-08-30,657041,554430,,called_strike,12,"Lane Thomas grounds out, third baseman Ronald Torreyes to first baseman Brad Miller.",0,0,0,1,1,0.88,2.57
+683,2021-08-30,657041,641401,,called_strike,1,Lane Thomas flies out to left fielder Odubel Herrera.,0,0,0,1,7,-0.45,3.38
+684,2021-08-29,657041,656731,strikeout,swinging_strike,1,Lane Thomas strikes out swinging.,2,2,1,5,5,-0.29,3.33
+685,2021-08-29,657041,656731,,foul,7,Lane Thomas strikes out swinging.,2,1,1,4,5,-0.77,1.57
+686,2021-08-29,657041,656731,,blocked_ball,14,Lane Thomas strikes out swinging.,1,1,1,3,5,0.56,0.69
+687,2021-08-29,657041,656731,,called_strike,9,Lane Thomas strikes out swinging.,1,0,1,2,5,0.51,2.01
+688,2021-08-29,657041,656731,,ball,14,Lane Thomas strikes out swinging.,0,0,1,1,5,0.8,1.09
+689,2021-08-29,657041,656731,strikeout,swinging_strike,4,Lane Thomas strikes out swinging.,3,2,2,7,3,-0.39,2.61
+690,2021-08-29,657041,656731,,foul,5,Lane Thomas strikes out swinging.,3,2,2,6,3,0.19,2.71
+691,2021-08-29,657041,656731,,foul,5,Lane Thomas strikes out swinging.,3,1,2,5,3,0.19,2.51
+692,2021-08-29,657041,656731,,called_strike,6,Lane Thomas strikes out swinging.,3,0,2,4,3,0.72,2.47
+693,2021-08-29,657041,656731,,ball,14,Lane Thomas strikes out swinging.,2,0,2,3,3,1.28,2.27
+694,2021-08-29,657041,656731,,ball,12,Lane Thomas strikes out swinging.,1,0,2,2,3,1.89,2.57
+695,2021-08-29,657041,656731,,ball,12,Lane Thomas strikes out swinging.,0,0,2,1,3,1.64,3.27
+696,2021-08-29,657041,612434,strikeout,called_strike,5,Lane Thomas called out on strikes.,1,2,2,4,7,-0.08,2.04
+697,2021-08-29,657041,612434,,called_strike,2,Lane Thomas called out on strikes.,1,1,2,3,7,-0.09,3.09
+698,2021-08-29,657041,612434,,foul,8,Lane Thomas called out on strikes.,1,0,2,2,7,0.14,1.59
+699,2021-08-29,657041,612434,,ball,14,Lane Thomas called out on strikes.,0,0,2,1,7,0.89,1.41
+700,2021-08-29,657041,592390,strikeout,swinging_strike,12,Lane Thomas strikes out swinging.,1,2,2,5,9,1.17,3.07
+701,2021-08-29,657041,592390,,foul,12,Lane Thomas strikes out swinging.,1,2,2,4,9,0.98,2.55
+702,2021-08-29,657041,592390,,called_strike,14,Lane Thomas strikes out swinging.,1,1,2,3,9,1.05,2.07
+703,2021-08-29,657041,592390,,called_strike,5,Lane Thomas strikes out swinging.,1,0,2,2,9,-0.2,2.88
+704,2021-08-29,657041,592390,,ball,14,Lane Thomas strikes out swinging.,0,0,2,1,9,1.81,1.76
+705,2021-08-29,657041,656731,field_out,hit_into_play,4,"Lane Thomas grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",1,1,0,3,1,-0.31,2.53
+706,2021-08-29,657041,656731,,ball,12,"Lane Thomas grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",0,1,0,2,1,1.03,2.84
+707,2021-08-29,657041,656731,,called_strike,6,"Lane Thomas grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.",0,0,0,1,1,0.5,2.42
+708,2021-08-28,657041,573186,field_out,hit_into_play,7,"Lane Thomas grounds out sharply, third baseman Jonathan Villar to first baseman Pete Alonso.",2,1,0,4,5,-0.46,1.96
+709,2021-08-28,657041,573186,,ball,14,"Lane Thomas grounds out sharply, third baseman Jonathan Villar to first baseman Pete Alonso.",1,1,0,3,5,0.27,0.89
+710,2021-08-28,657041,573186,,ball,14,"Lane Thomas grounds out sharply, third baseman Jonathan Villar to first baseman Pete Alonso.",0,1,0,2,5,1.25,0.27
+711,2021-08-28,657041,573186,,called_strike,13,"Lane Thomas grounds out sharply, third baseman Jonathan Villar to first baseman Pete Alonso.",0,0,0,1,5,-0.62,1.36
+712,2021-08-28,657041,573186,double,hit_into_play,9,Lane Thomas doubles (5) on a sharp line drive to center fielder Brandon Nimmo.   Luis Garcia scores.,0,1,2,2,2,0.52,1.71
+713,2021-08-28,657041,573186,,called_strike,9,Lane Thomas doubles (5) on a sharp line drive to center fielder Brandon Nimmo.   Luis Garcia scores.,0,0,2,1,2,0.57,1.77
+714,2021-08-28,657041,543507,strikeout,called_strike,5,Lane Thomas called out on strikes.,1,2,1,5,7,0.01,2.63
+715,2021-08-28,657041,621242,strikeout,called_strike,3,Lane Thomas called out on strikes.,1,2,2,4,9,0.8,2.94
+716,2021-08-28,657041,543507,,foul,1,Lane Thomas called out on strikes.,1,2,1,4,7,-0.65,3.17
+717,2021-08-28,657041,621242,,ball,12,Lane Thomas called out on strikes.,0,2,2,3,9,1.19,4.37
+718,2021-08-28,657041,543507,,called_strike,9,Lane Thomas called out on strikes.,1,1,1,3,7,0.7,1.74
+719,2021-08-28,657041,621242,,foul,6,Lane Thomas called out on strikes.,0,1,2,2,9,0.42,2.53
+720,2021-08-28,657041,543507,,ball,12,Lane Thomas called out on strikes.,0,1,1,2,7,1.16,2.53
+721,2021-08-28,657041,621242,,called_strike,9,Lane Thomas called out on strikes.,0,0,2,1,9,0.79,1.93
+722,2021-08-28,657041,543507,,called_strike,12,Lane Thomas called out on strikes.,0,0,1,1,7,0.87,3.14
+723,2021-08-28,657041,573186,double,hit_into_play,5,Lane Thomas doubles (4) on a sharp line drive to left fielder Jeff McNeil.,3,2,0,6,1,-0.13,2.4
+724,2021-08-28,657041,573186,,ball,13,Lane Thomas doubles (4) on a sharp line drive to left fielder Jeff McNeil.,2,2,0,5,1,-0.68,1.15
+725,2021-08-28,657041,573186,,ball,14,Lane Thomas doubles (4) on a sharp line drive to left fielder Jeff McNeil.,1,2,0,4,1,2.48,1.08
+726,2021-08-28,657041,573186,,called_strike,12,Lane Thomas doubles (4) on a sharp line drive to left fielder Jeff McNeil.,1,1,0,3,1,1.31,2.7
+727,2021-08-28,657041,573186,,ball,14,Lane Thomas doubles (4) on a sharp line drive to left fielder Jeff McNeil.,0,1,0,2,1,1.98,1.75
+728,2021-08-28,657041,573186,,foul,1,Lane Thomas doubles (4) on a sharp line drive to left fielder Jeff McNeil.,0,0,0,1,1,-0.32,3.12
+729,2021-08-27,657041,448179,strikeout,foul_tip,7,Lane Thomas strikes out on a foul tip.,3,2,2,9,3,-0.81,1.75
+730,2021-08-27,657041,448179,,ball,12,Lane Thomas strikes out on a foul tip.,2,2,2,8,3,2.81,3.66
+731,2021-08-27,657041,448179,,ball,12,Lane Thomas strikes out on a foul tip.,1,2,2,7,3,1.34,3.77
+732,2021-08-27,657041,448179,,foul,8,Lane Thomas strikes out on a foul tip.,1,2,2,6,3,0.11,1.69
+733,2021-08-27,657041,448179,,foul,12,Lane Thomas strikes out on a foul tip.,1,2,2,5,3,0.69,3.57
+734,2021-08-27,657041,448179,,ball,12,Lane Thomas strikes out on a foul tip.,0,2,2,4,3,2.52,2.54
+735,2021-08-27,657041,448179,,foul,12,Lane Thomas strikes out on a foul tip.,0,2,2,3,3,1.18,2.92
+736,2021-08-27,657041,448179,,swinging_strike,3,Lane Thomas strikes out on a foul tip.,0,1,2,2,3,0.4,3.23
+737,2021-08-27,657041,448179,,swinging_strike,9,Lane Thomas strikes out on a foul tip.,0,0,2,1,3,0.51,2.1
+738,2021-08-27,657041,448179,field_out,hit_into_play,1,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",3,2,1,7,2,-0.45,3.05
+739,2021-08-27,657041,448179,,ball,12,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",2,2,1,6,2,1.39,3.04
+740,2021-08-27,657041,448179,,foul,12,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",2,2,1,5,2,0.28,3.68
+741,2021-08-27,657041,448179,,called_strike,5,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",2,1,1,4,2,-0.12,2.35
+742,2021-08-27,657041,448179,,called_strike,14,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",2,0,1,3,2,0.98,1.94
+743,2021-08-27,657041,448179,,ball,11,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",1,0,1,2,2,-0.71,3.47
+744,2021-08-27,657041,448179,,ball,12,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",0,0,1,1,2,1.61,3.22
+745,2021-08-27,657041,592390,field_out,hit_into_play,14,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",1,0,1,2,6,0.13,1.37
+746,2021-08-27,657041,592390,,ball,14,"Lane Thomas grounds out, third baseman J.  D. Davis to first baseman Pete Alonso.",0,0,1,1,6,1.67,2.15
+747,2021-08-27,657041,621242,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,1,2,0,5,9,1.41,0.93
+748,2021-08-27,657041,621242,,foul,4,Lane Thomas strikes out swinging.,1,2,0,4,9,-0.6,2.61
+749,2021-08-27,657041,621242,,foul,11,Lane Thomas strikes out swinging.,1,1,0,3,9,-1.17,3.65
+750,2021-08-27,657041,621242,,foul,5,Lane Thomas strikes out swinging.,1,0,0,2,9,0.0,2.47
+751,2021-08-27,657041,621242,,ball,14,Lane Thomas strikes out swinging.,0,0,0,1,9,1.68,1.88
+752,2021-08-26,657041,622694,field_out,hit_into_play,1,Lane Thomas pops out to catcher Jorge Alfaro in foul territory.,1,0,2,2,4,-0.33,3.36
+753,2021-08-26,657041,622694,,ball,14,Lane Thomas pops out to catcher Jorge Alfaro in foul territory.,0,0,2,1,4,1.01,1.82
+754,2021-08-25,657041,665795,grounded_into_double_play,hit_into_play,1,"Lane Thomas grounds into a double play, third baseman Brian Anderson to second baseman Isan Diaz to first baseman Jesus Aguilar.   Riley Adams out at 2nd.    Lane Thomas out at 1st.",0,1,1,2,6,-0.74,2.8
+755,2021-08-25,657041,665795,,foul,6,"Lane Thomas grounds into a double play, third baseman Brian Anderson to second baseman Isan Diaz to first baseman Jesus Aguilar.   Riley Adams out at 2nd.    Lane Thomas out at 1st.",0,0,1,1,6,0.31,2.65
+756,2021-08-25,657041,665795,field_out,hit_into_play,7,Lane Thomas flies out to center fielder Bryan De La Cruz.,3,1,2,5,3,-0.57,1.58
+757,2021-08-25,657041,665795,,ball,6,Lane Thomas flies out to center fielder Bryan De La Cruz.,2,1,2,4,3,0.79,2.3
+758,2021-08-25,657041,665795,,called_strike,5,Lane Thomas flies out to center fielder Bryan De La Cruz.,2,0,2,3,3,-0.19,2.25
+759,2021-08-25,657041,665795,,ball,11,Lane Thomas flies out to center fielder Bryan De La Cruz.,1,0,2,2,3,-0.94,4.31
+760,2021-08-25,657041,665795,,ball,11,Lane Thomas flies out to center fielder Bryan De La Cruz.,0,0,2,1,3,-1.32,2.92
+761,2021-08-25,657041,542914,field_out,hit_into_play,8,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",2,2,0,5,8,0.22,2.08
+762,2021-08-25,657041,542914,,called_strike,11,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",2,1,0,4,8,-0.09,3.42
+763,2021-08-25,657041,665795,field_out,hit_into_play,4,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",0,2,0,3,1,-0.5,2.34
+764,2021-08-25,657041,542914,,foul,1,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",2,0,0,3,8,-0.33,2.9
+765,2021-08-25,657041,665795,,foul,6,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",0,1,0,2,1,0.83,2.31
+766,2021-08-25,657041,542914,,ball,11,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",1,0,0,2,8,-0.29,3.87
+767,2021-08-25,657041,665795,,called_strike,7,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",0,0,0,1,1,-0.46,1.89
+768,2021-08-25,657041,542914,,ball,11,"Lane Thomas grounds out, third baseman Brian Anderson to first baseman Jesus Aguilar.",0,0,0,1,8,-0.35,5.38
+769,2021-08-24,657041,666200,single,hit_into_play,2,Lane Thomas singles on a ground ball to center fielder Bryan De La Cruz.   Luis Garcia scores.,1,2,2,4,4,-0.21,2.94
+770,2021-08-24,657041,666200,,foul,3,Lane Thomas singles on a ground ball to center fielder Bryan De La Cruz.   Luis Garcia scores.,1,1,2,3,4,0.4,3.49
+771,2021-08-24,657041,666200,,foul,6,Lane Thomas singles on a ground ball to center fielder Bryan De La Cruz.   Luis Garcia scores.,1,0,2,2,4,0.29,2.48
+772,2021-08-24,657041,666200,,ball,14,Lane Thomas singles on a ground ball to center fielder Bryan De La Cruz.   Luis Garcia scores.,0,0,2,1,4,0.08,1.07
+773,2021-08-24,657041,666200,walk,ball,13,Lane Thomas walks.,3,2,0,8,3,-0.98,0.96
+774,2021-08-24,657041,666200,,foul,2,Lane Thomas walks.,3,2,0,7,3,-0.1,3.33
+775,2021-08-24,657041,666200,,ball,3,Lane Thomas walks.,2,2,0,6,3,0.7,3.3
+776,2021-08-24,657041,666200,,ball,12,Lane Thomas walks.,1,2,0,5,3,2.15,4.1
+777,2021-08-24,657041,666200,,ball,12,Lane Thomas walks.,0,2,0,4,3,2.23,3.89
+778,2021-08-24,657041,666200,,foul,13,Lane Thomas walks.,0,2,0,3,3,-0.34,1.0
+779,2021-08-24,657041,666200,,called_strike,7,Lane Thomas walks.,0,1,0,2,3,-0.45,1.64
+780,2021-08-24,657041,666200,,called_strike,7,Lane Thomas walks.,0,0,0,1,3,-0.66,1.62
+781,2021-08-24,657041,571951,force_out,hit_into_play,8,"Lane Thomas grounds into a force out, third baseman Brian Anderson to second baseman Jazz Chisholm.   Victor Robles out at 2nd.    Lane Thomas to 1st.",0,0,0,1,9,0.05,1.91
+782,2021-08-24,657041,643493,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,3,2,1,6,6,0.86,1.22
+783,2021-08-24,657041,643493,,ball,13,Lane Thomas strikes out swinging.,2,2,1,5,6,-1.15,2.2
+784,2021-08-24,657041,643493,,called_strike,14,Lane Thomas strikes out swinging.,2,1,1,4,6,1.11,2.07
+785,2021-08-24,657041,643493,,ball,14,Lane Thomas strikes out swinging.,1,1,1,3,6,1.34,1.8
+786,2021-08-24,657041,643493,,ball,14,Lane Thomas strikes out swinging.,0,1,1,2,6,1.75,1.92
+787,2021-08-24,657041,643493,,called_strike,5,Lane Thomas strikes out swinging.,0,0,1,1,6,0.25,2.3
+788,2021-08-24,657041,666200,field_out,hit_into_play,1,Lane Thomas flies out to left fielder Lewis Brinson.,0,1,0,2,1,-0.41,3.17
+789,2021-08-24,657041,666200,,called_strike,5,Lane Thomas flies out to left fielder Lewis Brinson.,0,0,0,1,1,-0.05,2.78
+790,2021-08-22,657041,605288,single,hit_into_play,2,Lane Thomas singles on a line drive to center fielder Lorenzo Cain.   Riley Adams to 3rd.,0,2,2,3,3,0.13,3.02
+791,2021-08-22,657041,605288,,foul,4,Lane Thomas singles on a line drive to center fielder Lorenzo Cain.   Riley Adams to 3rd.,0,1,2,2,3,-0.43,2.3
+792,2021-08-22,657041,605288,,called_strike,1,Lane Thomas singles on a line drive to center fielder Lorenzo Cain.   Riley Adams to 3rd.,0,0,2,1,3,-0.38,2.87
+793,2021-08-22,657041,571948,single,hit_into_play,8,Lane Thomas singles on a ground ball to shortstop Willy Adames.   Riley Adams scores.  Throwing error by shortstop Willy Adames.,0,2,2,3,9,0.19,1.99
+794,2021-08-22,657041,571948,,foul,14,Lane Thomas singles on a ground ball to shortstop Willy Adames.   Riley Adams scores.  Throwing error by shortstop Willy Adames.,0,1,2,2,9,0.9,2.41
+795,2021-08-22,657041,571948,,called_strike,7,Lane Thomas singles on a ground ball to shortstop Willy Adames.   Riley Adams scores.  Throwing error by shortstop Willy Adames.,0,0,2,1,9,-0.37,2.07
+796,2021-08-22,657041,502202,field_out,hit_into_play,1,Lane Thomas flies out to left fielder Christian Yelich.,2,2,2,6,7,-0.48,3.26
+797,2021-08-22,657041,502202,,foul,9,Lane Thomas flies out to left fielder Christian Yelich.,2,2,2,5,7,0.77,2.03
+798,2021-08-22,657041,676879,double,hit_into_play,4,Lane Thomas doubles (3) on a line drive to left fielder Christian Yelich.   Luis Garcia to 3rd.,0,2,1,3,5,-0.45,2.32
+799,2021-08-22,657041,502202,,called_strike,9,Lane Thomas flies out to left fielder Christian Yelich.,2,1,2,4,7,0.8,1.51
+800,2021-08-22,657041,676879,,called_strike,2,Lane Thomas doubles (3) on a line drive to left fielder Christian Yelich.   Luis Garcia to 3rd.,0,1,1,2,5,0.03,2.9
+801,2021-08-22,657041,502202,,ball,11,Lane Thomas flies out to left fielder Christian Yelich.,1,1,2,3,7,-1.41,3.11
+802,2021-08-22,657041,676879,,swinging_strike_blocked,14,Lane Thomas doubles (3) on a line drive to left fielder Christian Yelich.   Luis Garcia to 3rd.,0,0,1,1,5,0.18,0.61
+803,2021-08-22,657041,502202,,ball,14,Lane Thomas flies out to left fielder Christian Yelich.,0,1,2,2,7,0.21,-0.05
+804,2021-08-22,657041,502202,,called_strike,14,Lane Thomas flies out to left fielder Christian Yelich.,0,0,2,1,7,1.0,2.16
+805,2021-08-22,657041,605288,walk,ball,13,Lane Thomas walks.,3,2,0,6,1,-0.95,0.99
+806,2021-08-22,657041,605288,,ball,13,Lane Thomas walks.,2,2,0,5,1,-0.46,1.15
+807,2021-08-22,657041,605288,,foul,11,Lane Thomas walks.,2,1,0,4,1,-0.93,2.86
+808,2021-08-22,657041,605288,,foul,7,Lane Thomas walks.,2,0,0,3,1,-0.62,1.96
+809,2021-08-22,657041,605288,,ball,14,Lane Thomas walks.,1,0,0,2,1,0.0,1.34
+810,2021-08-22,657041,605288,,ball,14,Lane Thomas walks.,0,0,0,1,1,0.99,1.3
+811,2021-08-21,657041,641778,single,hit_into_play,8,Lane Thomas singles on a line drive to center fielder Jackie Bradley.,2,1,1,4,5,0.15,1.59
+812,2021-08-21,657041,641778,,ball,11,Lane Thomas singles on a line drive to center fielder Jackie Bradley.,1,1,1,3,5,-1.17,3.21
+813,2021-08-21,657041,641778,,swinging_strike,8,Lane Thomas singles on a line drive to center fielder Jackie Bradley.,1,0,1,2,5,-0.08,1.47
+814,2021-08-21,657041,641778,,ball,13,Lane Thomas singles on a line drive to center fielder Jackie Bradley.,0,0,1,1,5,-0.18,0.97
+815,2021-08-21,657041,641778,walk,ball,12,Lane Thomas walks.,3,2,0,6,3,2.38,4.62
+816,2021-08-21,657041,641778,,ball,12,Lane Thomas walks.,2,2,0,5,3,0.58,3.97
+817,2021-08-21,657041,641778,,foul,5,Lane Thomas walks.,2,1,0,4,3,0.02,2.75
+818,2021-08-21,657041,641778,,ball,11,Lane Thomas walks.,1,1,0,3,3,-1.74,2.99
+819,2021-08-21,657041,641778,,ball,12,Lane Thomas walks.,0,1,0,2,3,1.34,2.61
+820,2021-08-21,657041,641778,,called_strike,9,Lane Thomas walks.,0,0,0,1,3,0.37,2.02
+821,2021-08-21,657041,608718,field_out,hit_into_play,3,Lane Thomas flies out to center fielder Jackie Bradley.,3,2,2,7,6,0.36,2.89
+822,2021-08-21,657041,608718,,ball,12,Lane Thomas flies out to center fielder Jackie Bradley.,2,2,2,6,6,1.26,3.82
+823,2021-08-21,657041,608718,,foul,5,Lane Thomas flies out to center fielder Jackie Bradley.,2,2,2,5,6,0.24,2.25
+824,2021-08-21,657041,608718,,blocked_ball,14,Lane Thomas flies out to center fielder Jackie Bradley.,1,2,2,4,6,0.79,0.66
+825,2021-08-21,657041,608718,,foul,7,Lane Thomas flies out to center fielder Jackie Bradley.,1,1,2,3,6,-0.53,1.8
+826,2021-08-21,657041,608718,,ball,14,Lane Thomas flies out to center fielder Jackie Bradley.,0,1,2,2,6,1.45,1.84
+827,2021-08-21,657041,608718,,called_strike,6,Lane Thomas flies out to center fielder Jackie Bradley.,0,0,2,1,6,0.57,2.58
+828,2021-08-21,657041,667376,walk,ball,14,Lane Thomas walks.,3,2,0,8,9,0.98,1.12
+829,2021-08-21,657041,667376,,foul,4,Lane Thomas walks.,3,2,0,7,9,-0.72,2.55
+830,2021-08-21,657041,667376,,foul,14,Lane Thomas walks.,3,2,0,6,9,0.86,2.37
+831,2021-08-21,657041,667376,,foul,6,Lane Thomas walks.,3,1,0,5,9,0.6,2.25
+832,2021-08-21,657041,667376,,ball,14,Lane Thomas walks.,2,1,0,4,9,1.03,2.1
+833,2021-08-21,657041,667376,,ball,14,Lane Thomas walks.,1,1,0,3,9,0.49,1.46
+834,2021-08-21,657041,667376,,foul,6,Lane Thomas walks.,1,0,0,2,9,0.64,2.5
+835,2021-08-21,657041,641778,double,hit_into_play,12,Lane Thomas hits a ground-rule double (2) on a line drive to right-center field.,1,0,0,2,1,1.04,2.51
+836,2021-08-21,657041,641778,,ball,12,Lane Thomas hits a ground-rule double (2) on a line drive to right-center field.,0,0,0,1,1,1.53,3.71
+837,2021-08-21,657041,667376,,ball,12,Lane Thomas walks.,0,0,0,1,9,1.04,3.83
+838,2021-08-20,657041,474463,triple,hit_into_play,12,Lane Thomas triples (1) on a line drive to right fielder Avisail Garcia.   Alcides Escobar scores.    Carter Kieboom scores.,1,1,2,3,4,0.84,2.45
+839,2021-08-20,657041,474463,,foul,12,Lane Thomas triples (1) on a line drive to right fielder Avisail Garcia.   Alcides Escobar scores.    Carter Kieboom scores.,1,0,2,2,4,0.93,2.57
+840,2021-08-20,657041,474463,,blocked_ball,13,Lane Thomas triples (1) on a line drive to right fielder Avisail Garcia.   Alcides Escobar scores.    Carter Kieboom scores.,0,0,2,1,4,-0.18,0.86
+841,2021-08-20,657041,596057,single,hit_into_play,14,Lane Thomas singles on a sharp line drive to center fielder Lorenzo Cain.,3,2,2,6,8,1.27,2.01
+842,2021-08-20,657041,596057,,ball,7,Lane Thomas singles on a sharp line drive to center fielder Lorenzo Cain.,2,2,2,5,8,-0.6,1.84
+843,2021-08-20,657041,596057,,called_strike,12,Lane Thomas singles on a sharp line drive to center fielder Lorenzo Cain.,2,1,2,4,8,1.04,2.42
+844,2021-08-20,657041,596057,,called_strike,14,Lane Thomas singles on a sharp line drive to center fielder Lorenzo Cain.,2,0,2,3,8,0.89,2.12
+845,2021-08-20,657041,596057,,blocked_ball,13,Lane Thomas singles on a sharp line drive to center fielder Lorenzo Cain.,1,0,1,2,8,-1.1,-0.24
+846,2021-08-20,657041,596057,,blocked_ball,13,Lane Thomas singles on a sharp line drive to center fielder Lorenzo Cain.,0,0,1,1,8,-0.8,0.74
+847,2021-08-20,657041,474463,grounded_into_double_play,hit_into_play,6,"Lane Thomas grounds into a double play, shortstop Willy Adames to second baseman Luis Urias to first baseman Rowdy Tellez.   Carter Kieboom out at 2nd.    Lane Thomas out at 1st.",2,1,0,4,2,0.48,2.4
+848,2021-08-20,657041,474463,,foul,6,"Lane Thomas grounds into a double play, shortstop Willy Adames to second baseman Luis Urias to first baseman Rowdy Tellez.   Carter Kieboom out at 2nd.    Lane Thomas out at 1st.",2,0,0,3,2,0.83,2.53
+849,2021-08-20,657041,474463,,ball,14,"Lane Thomas grounds into a double play, shortstop Willy Adames to second baseman Luis Urias to first baseman Rowdy Tellez.   Carter Kieboom out at 2nd.    Lane Thomas out at 1st.",1,0,0,2,2,1.38,2.32
+850,2021-08-20,657041,474463,,ball,4,"Lane Thomas grounds into a double play, shortstop Willy Adames to second baseman Luis Urias to first baseman Rowdy Tellez.   Carter Kieboom out at 2nd.    Lane Thomas out at 1st.",0,0,0,1,2,-0.68,2.15
+851,2021-08-20,657041,519326,strikeout,called_strike,9,Lane Thomas called out on strikes.,1,2,1,4,6,0.51,1.92
+852,2021-08-20,657041,519326,,ball,14,Lane Thomas called out on strikes.,0,2,1,3,6,2.42,1.76
+853,2021-08-20,657041,519326,,called_strike,4,Lane Thomas called out on strikes.,0,1,1,2,6,-0.34,2.52
+854,2021-08-20,657041,519326,,swinging_strike,1,Lane Thomas called out on strikes.,0,0,1,1,6,-0.4,3.26
+855,2021-08-17,657041,642048,walk,ball,14,Lane Thomas walks.,3,2,1,6,8,2.26,1.28
+856,2021-08-17,657041,642048,,swinging_strike,14,Lane Thomas walks.,3,1,1,5,8,0.19,0.69
+857,2021-08-17,657041,642048,,ball,14,Lane Thomas walks.,2,1,1,4,8,1.23,1.6
+858,2021-08-17,657041,642048,,ball,14,Lane Thomas walks.,1,1,1,3,8,1.56,1.61
+859,2021-08-17,657041,642048,,foul,14,Lane Thomas walks.,1,0,1,2,8,0.21,0.94
+860,2021-08-17,657041,642048,,ball,14,Lane Thomas walks.,0,0,1,1,8,2.15,0.88
+861,2021-08-15,657041,592767,single,hit_into_play,6,Lane Thomas singles on a line drive to right fielder Jorge Soler.   Victor Robles to 3rd.,1,2,1,4,3,0.35,2.65
+862,2021-08-15,657041,592767,,ball,13,Lane Thomas singles on a line drive to right fielder Jorge Soler.   Victor Robles to 3rd.,0,2,1,3,3,-1.74,-2.98
+863,2021-08-15,657041,592767,,foul,8,Lane Thomas singles on a line drive to right fielder Jorge Soler.   Victor Robles to 3rd.,0,1,1,2,3,0.0,1.41
+864,2021-08-15,657041,592767,,called_strike,11,Lane Thomas singles on a line drive to right fielder Jorge Soler.   Victor Robles to 3rd.,0,0,1,1,3,-1.0,2.56
+865,2021-08-15,657041,519293,walk,ball,14,Lane Thomas walks.,3,1,1,5,9,1.04,2.11
+866,2021-08-15,657041,592767,single,hit_into_play,9,Lane Thomas singles on a sharp ground ball to left fielder Adam Duvall.,3,2,1,6,1,0.43,1.73
+867,2021-08-15,657041,593144,field_out,hit_into_play,2,Lane Thomas flies out to right fielder Jorge Soler.,0,1,2,2,6,-0.15,3.23
+868,2021-08-15,657041,519293,,ball,12,Lane Thomas walks.,2,1,1,4,9,1.68,2.41
+869,2021-08-15,657041,519293,,called_strike,12,Lane Thomas walks.,2,0,1,3,9,0.46,3.52
+870,2021-08-15,657041,593144,,called_strike,3,Lane Thomas flies out to right fielder Jorge Soler.,0,0,2,1,6,0.48,2.86
+871,2021-08-15,657041,592767,,ball,12,Lane Thomas singles on a sharp ground ball to left fielder Adam Duvall.,2,2,1,5,1,1.5,2.98
+872,2021-08-15,657041,592767,,ball,13,Lane Thomas singles on a sharp ground ball to left fielder Adam Duvall.,1,2,1,4,1,-0.19,1.27
+873,2021-08-15,657041,519293,,ball,12,Lane Thomas walks.,1,0,1,2,9,1.12,2.88
+874,2021-08-15,657041,592767,,ball,14,Lane Thomas singles on a sharp ground ball to left fielder Adam Duvall.,0,2,1,3,1,0.15,1.05
+875,2021-08-15,657041,519293,,ball,14,Lane Thomas walks.,0,0,1,1,9,0.16,1.36
+876,2021-08-15,657041,592767,,swinging_strike,14,Lane Thomas singles on a sharp ground ball to left fielder Adam Duvall.,0,1,1,2,1,0.85,2.39
+877,2021-08-15,657041,592767,,called_strike,5,Lane Thomas singles on a sharp ground ball to left fielder Adam Duvall.,0,0,1,1,1,-0.16,2.27
+878,2021-08-15,657041,445926,field_out,hit_into_play,14,Lane Thomas lines out sharply to right fielder Jorge Soler.,0,1,1,2,5,0.83,2.41
+879,2021-08-15,657041,445926,,called_strike,2,Lane Thomas lines out sharply to right fielder Jorge Soler.,0,0,1,1,5,0.09,2.89
+880,2021-06-20,657041,592767,field_out,hit_into_play,5,Lane Thomas flies out to center fielder Guillermo Heredia.,2,2,2,5,5,0.25,2.51
+881,2021-06-20,657041,592767,,ball,12,Lane Thomas flies out to center fielder Guillermo Heredia.,1,2,2,4,5,0.46,4.62
+882,2021-06-20,657041,592767,,foul,12,Lane Thomas flies out to center fielder Guillermo Heredia.,1,1,2,3,5,0.87,2.85
+883,2021-06-20,657041,592767,,ball,14,Lane Thomas flies out to center fielder Guillermo Heredia.,0,1,2,2,5,0.38,1.0
+884,2021-06-20,657041,592767,,called_strike,6,Lane Thomas flies out to center fielder Guillermo Heredia.,0,0,2,1,5,0.45,2.2
+885,2021-06-18,657041,657097,field_out,hit_into_play,2,Lane Thomas lines out sharply to left fielder Abraham Almonte.,1,0,2,2,9,0.13,2.89
+886,2021-06-18,657041,657097,,blocked_ball,14,Lane Thomas lines out sharply to left fielder Abraham Almonte.,0,0,2,1,9,1.83,0.18
+887,2021-06-16,657041,645261,field_out,hit_into_play,6,Lane Thomas flies out to left fielder Lewis Brinson.,1,1,1,3,8,0.28,2.26
+888,2021-06-16,657041,645261,,swinging_strike,13,Lane Thomas flies out to left fielder Lewis Brinson.,1,0,1,2,8,-0.09,1.34
+889,2021-06-16,657041,645261,,ball,12,Lane Thomas flies out to left fielder Lewis Brinson.,0,0,1,1,8,1.17,2.89
+890,2021-06-15,657041,669432,field_out,hit_into_play,4,Lane Thomas flies out to center fielder Starling Marte.,1,2,0,4,6,-0.55,2.52
+891,2021-06-15,657041,669432,,foul,1,Lane Thomas flies out to center fielder Starling Marte.,1,1,0,3,6,-0.29,2.9
+892,2021-06-15,657041,669432,,ball,13,Lane Thomas flies out to center fielder Starling Marte.,0,1,0,2,6,-0.95,1.1
+893,2021-06-15,657041,669432,,called_strike,9,Lane Thomas flies out to center fielder Starling Marte.,0,0,0,1,6,0.39,2.05
+894,2021-06-15,657041,669432,field_out,hit_into_play,14,"Lane Thomas grounds out, pitcher Trevor Rogers to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",3,2,1,7,3,0.84,2.44
+895,2021-06-15,657041,669432,,ball,13,"Lane Thomas grounds out, pitcher Trevor Rogers to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",2,2,1,6,3,-1.38,1.98
+896,2021-06-15,657041,669432,,ball,14,"Lane Thomas grounds out, pitcher Trevor Rogers to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,2,1,5,3,0.9,1.01
+897,2021-06-15,657041,669432,,foul,9,"Lane Thomas grounds out, pitcher Trevor Rogers to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,2,1,4,3,0.54,1.57
+898,2021-06-15,657041,669432,,called_strike,4,"Lane Thomas grounds out, pitcher Trevor Rogers to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,1,1,3,3,-0.62,2.27
+899,2021-06-15,657041,669432,,called_strike,6,"Lane Thomas grounds out, pitcher Trevor Rogers to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",1,0,1,2,3,0.59,2.55
+900,2021-06-15,657041,669432,,ball,4,"Lane Thomas grounds out, pitcher Trevor Rogers to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.",0,0,1,1,3,-0.71,2.08
+901,2021-06-15,657041,542947,single,hit_into_play,5,Lane Thomas singles on a bunt ground ball to third baseman Isan Diaz.   Paul DeJong to 2nd.,1,1,0,3,8,0.15,2.47
+902,2021-06-15,657041,542947,,foul_bunt,6,Lane Thomas singles on a bunt ground ball to third baseman Isan Diaz.   Paul DeJong to 2nd.,1,0,0,2,8,0.8,2.48
+903,2021-06-15,657041,542947,,ball,8,Lane Thomas singles on a bunt ground ball to third baseman Isan Diaz.   Paul DeJong to 2nd.,0,0,0,1,8,0.13,1.38
+904,2021-06-12,657041,543294,field_out,hit_into_play,6,"Lane Thomas grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",3,2,1,7,5,0.47,2.4
+905,2021-06-12,657041,543294,,ball,14,"Lane Thomas grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",2,2,1,6,5,0.86,0.68
+906,2021-06-12,657041,543294,,foul,9,"Lane Thomas grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",2,2,1,5,5,0.38,2.09
+907,2021-06-12,657041,543294,,called_strike,6,"Lane Thomas grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",2,1,1,4,5,0.67,2.11
+908,2021-06-12,657041,543294,,ball,13,"Lane Thomas grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",1,1,1,3,5,-0.24,1.12
+909,2021-06-12,657041,543294,,called_strike,9,"Lane Thomas grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",1,0,1,2,5,0.58,1.72
+910,2021-06-12,657041,543294,,ball,14,"Lane Thomas grounds out, shortstop Javier Baez to first baseman Anthony Rizzo.",0,0,1,1,5,0.96,1.13
+911,2021-06-11,657041,667297,walk,ball,9,Lane Thomas walks.,3,1,1,5,6,0.63,1.78
+912,2021-06-11,657041,667297,,called_strike,1,Lane Thomas walks.,3,0,1,4,6,-0.31,3.22
+913,2021-06-11,657041,667297,,ball,11,Lane Thomas walks.,2,0,1,3,6,-1.22,3.57
+914,2021-06-11,657041,667297,,ball,11,Lane Thomas walks.,1,0,1,2,6,-0.78,3.51
+915,2021-06-11,657041,667297,,ball,14,Lane Thomas walks.,0,0,1,1,6,1.03,0.49
+916,2021-06-09,657041,663986,walk,ball,12,Lane Thomas walks.   Yadier Molina to 2nd.,3,1,1,5,7,0.25,3.51
+917,2021-06-09,657041,663986,,ball,14,Lane Thomas walks.   Yadier Molina to 2nd.,2,1,1,4,7,0.89,1.23
+918,2021-06-09,657041,663986,,ball,14,Lane Thomas walks.   Yadier Molina to 2nd.,1,1,1,3,7,0.47,0.93
+919,2021-06-09,657041,663986,,called_strike,6,Lane Thomas walks.   Yadier Molina to 2nd.,1,0,1,2,7,0.47,2.17
+920,2021-06-09,657041,663986,,ball,14,Lane Thomas walks.   Yadier Molina to 2nd.,0,0,1,1,7,1.56,2.32
+921,2021-06-08,657041,680704,strikeout,called_strike,12,Lane Thomas called out on strikes.,1,2,1,4,9,0.91,2.57
+922,2021-06-08,657041,680704,,swinging_strike,5,Lane Thomas called out on strikes.,1,1,1,3,9,-0.24,2.59
+923,2021-06-08,657041,680704,,called_strike,2,Lane Thomas called out on strikes.,1,0,1,2,9,0.2,2.9
+924,2021-06-08,657041,680704,,ball,14,Lane Thomas called out on strikes.,0,0,1,1,9,0.53,1.4
+925,2021-06-06,657041,489119,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,1,2,0,4,5,1.41,1.67
+926,2021-06-06,657041,489119,,ball,13,Lane Thomas strikes out swinging.,0,2,0,3,5,-1.62,1.42
+927,2021-06-06,657041,489119,,foul,11,Lane Thomas strikes out swinging.,0,1,0,2,5,-0.94,2.55
+928,2021-06-06,657041,489119,,called_strike,13,Lane Thomas strikes out swinging.,0,0,0,1,5,-0.95,1.65
+929,2021-06-05,657041,641816,field_out,hit_into_play,5,Lane Thomas pops out to first baseman Mike Freeman.,0,0,2,1,7,-0.18,2.62
+930,2021-06-03,657041,622088,strikeout,swinging_strike,9,Lane Thomas strikes out swinging.,0,2,1,3,7,0.62,1.56
+931,2021-06-03,657041,622088,,called_strike,6,Lane Thomas strikes out swinging.,0,1,1,2,7,0.66,2.15
+932,2021-06-03,657041,622088,,called_strike,1,Lane Thomas strikes out swinging.,0,0,1,1,7,-0.41,3.12
+933,2021-06-02,657041,621111,strikeout,called_strike,12,Lane Thomas called out on strikes.,1,2,1,4,6,0.48,3.34
+934,2021-06-02,657041,621111,,foul,11,Lane Thomas called out on strikes.,1,1,1,3,6,-0.06,3.77
+935,2021-06-02,657041,621111,,ball,14,Lane Thomas called out on strikes.,0,1,1,2,6,0.51,1.27
+936,2021-06-02,657041,621111,,called_strike,2,Lane Thomas called out on strikes.,0,0,1,1,6,-0.03,3.07
+937,2021-06-02,657041,670955,field_out,hit_into_play,5,Lane Thomas pops out to first baseman Yoshi Tsutsugo.,1,1,1,3,8,-0.13,2.49
+938,2021-06-02,657041,670955,,ball,11,Lane Thomas pops out to first baseman Yoshi Tsutsugo.,0,1,1,2,8,-0.66,3.62
+939,2021-06-02,657041,670955,,called_strike,14,Lane Thomas pops out to first baseman Yoshi Tsutsugo.,0,0,1,1,8,0.79,1.37
+940,2021-05-31,657041,624647,strikeout,swinging_strike,6,Lane Thomas strikes out swinging.,1,2,2,6,7,0.51,2.61
+941,2021-05-31,657041,624647,,foul,8,Lane Thomas strikes out swinging.,1,2,2,5,7,0.19,1.95
+942,2021-05-31,657041,624647,,ball,12,Lane Thomas strikes out swinging.,0,2,2,4,7,1.12,3.87
+943,2021-05-31,657041,624647,,foul,13,Lane Thomas strikes out swinging.,0,2,2,3,7,-0.84,2.29
+944,2021-05-31,657041,624647,,called_strike,5,Lane Thomas strikes out swinging.,0,1,2,2,7,0.11,2.48
+945,2021-05-31,657041,624647,,swinging_strike,12,Lane Thomas strikes out swinging.,0,0,2,1,7,0.84,2.88
+946,2021-05-30,657041,642092,walk,ball,8,Lane Thomas walks.,3,2,2,6,9,0.02,1.62
+947,2021-05-30,657041,676840,force_out,hit_into_play,8,"Lane Thomas grounds into a force out, shortstop Nick Ahmed to second baseman Josh Rojas.   Jose Rondon out at 2nd.",0,1,2,2,4,0.11,2.05
+948,2021-05-30,657041,642092,,ball,12,Lane Thomas walks.,2,2,2,5,9,1.2,2.47
+949,2021-05-30,657041,642092,,swinging_strike,13,Lane Thomas walks.,2,1,2,4,9,-0.9,1.85
+950,2021-05-30,657041,676840,,called_strike,14,"Lane Thomas grounds into a force out, shortstop Nick Ahmed to second baseman Josh Rojas.   Jose Rondon out at 2nd.",0,0,2,1,4,0.99,2.0
+951,2021-05-30,657041,642092,,ball,14,Lane Thomas walks.,1,1,2,3,9,1.95,1.24
+952,2021-05-30,657041,642092,,ball,14,Lane Thomas walks.,0,1,2,2,9,1.92,2.01
+953,2021-05-30,657041,642092,,called_strike,4,Lane Thomas walks.,0,0,2,1,9,-0.4,2.74
+954,2021-05-30,657041,676840,field_out,hit_into_play,9,Lane Thomas grounds out sharply to first baseman Christian Walker.   Andrew Knizner to 3rd.,0,2,1,3,2,0.34,2.06
+955,2021-05-30,657041,676840,,called_strike,6,Lane Thomas grounds out sharply to first baseman Christian Walker.   Andrew Knizner to 3rd.,0,1,1,2,2,0.37,2.69
+956,2021-05-30,657041,676840,,called_strike,7,Lane Thomas grounds out sharply to first baseman Christian Walker.   Andrew Knizner to 3rd.,0,0,1,1,2,-0.52,1.88
+957,2021-05-30,657041,642092,grounded_into_double_play,hit_into_play,9,"Lane Thomas grounds into a double play, shortstop Nick Ahmed to second baseman Josh Rojas to first baseman Christian Walker.   Jose Rondon to 3rd.    Andrew Knizner out at 2nd.    Lane Thomas out at 1st.",3,2,0,6,7,0.3,2.03
+958,2021-05-30,657041,642092,,ball,12,"Lane Thomas grounds into a double play, shortstop Nick Ahmed to second baseman Josh Rojas to first baseman Christian Walker.   Jose Rondon to 3rd.    Andrew Knizner out at 2nd.    Lane Thomas out at 1st.",2,2,0,5,7,1.25,3.05
+959,2021-05-30,657041,642092,,foul,4,"Lane Thomas grounds into a double play, shortstop Nick Ahmed to second baseman Josh Rojas to first baseman Christian Walker.   Jose Rondon to 3rd.    Andrew Knizner out at 2nd.    Lane Thomas out at 1st.",2,1,0,4,7,-0.59,2.29
+960,2021-05-30,657041,642092,,ball,14,"Lane Thomas grounds into a double play, shortstop Nick Ahmed to second baseman Josh Rojas to first baseman Christian Walker.   Jose Rondon to 3rd.    Andrew Knizner out at 2nd.    Lane Thomas out at 1st.",1,1,0,3,7,0.9,0.99
+961,2021-05-30,657041,642092,,ball,14,"Lane Thomas grounds into a double play, shortstop Nick Ahmed to second baseman Josh Rojas to first baseman Christian Walker.   Jose Rondon to 3rd.    Andrew Knizner out at 2nd.    Lane Thomas out at 1st.",0,1,0,2,7,1.18,2.04
+962,2021-05-30,657041,642092,,called_strike,6,"Lane Thomas grounds into a double play, shortstop Nick Ahmed to second baseman Josh Rojas to first baseman Christian Walker.   Jose Rondon to 3rd.    Andrew Knizner out at 2nd.    Lane Thomas out at 1st.",0,0,0,1,7,0.62,2.44
+963,2021-05-29,657041,573009,double,hit_into_play,6,"Lane Thomas doubles (1) on a line drive to left fielder David Peralta, deflected by center fielder Ketel Marte.",0,0,0,1,8,0.76,2.38
+964,2021-05-28,657041,518516,walk,ball,12,Lane Thomas walks.,3,2,1,7,4,1.42,3.2
+965,2021-05-28,657041,518516,,ball,12,Lane Thomas walks.,2,2,1,6,4,1.46,4.69
+966,2021-05-28,657041,518516,,foul,13,Lane Thomas walks.,2,2,1,5,4,-0.12,1.38
+967,2021-05-28,657041,518516,,ball,13,Lane Thomas walks.,1,2,1,4,4,-0.77,1.29
+968,2021-05-28,657041,518516,,ball,12,Lane Thomas walks.,0,2,1,3,4,2.68,2.76
+969,2021-05-28,657041,518516,,swinging_strike,8,Lane Thomas walks.,0,1,1,2,4,-0.15,1.8
+970,2021-05-28,657041,518516,,called_strike,4,Lane Thomas walks.,0,0,1,1,4,-0.3,2.3
+971,2021-05-28,657041,518516,strikeout,swinging_strike,11,Lane Thomas strikes out swinging.,0,2,0,4,2,-0.14,3.94
+972,2021-05-28,657041,518516,,foul,6,Lane Thomas strikes out swinging.,0,2,0,3,2,0.37,2.32
+973,2021-05-28,657041,518516,,called_strike,3,Lane Thomas strikes out swinging.,0,1,0,2,2,0.44,2.75
+974,2021-05-28,657041,518516,,called_strike,7,Lane Thomas strikes out swinging.,0,0,0,1,2,-0.58,1.63
+975,2021-05-28,657041,642092,strikeout,called_strike,9,Lane Thomas called out on strikes.,0,2,0,3,6,0.83,1.96
+976,2021-05-28,657041,642092,,called_strike,8,Lane Thomas called out on strikes.,0,1,0,2,6,0.25,1.75
+977,2021-05-28,657041,642092,,foul,5,Lane Thomas called out on strikes.,0,0,0,1,6,0.05,2.4
+978,2021-05-26,657041,607074,strikeout,swinging_strike,3,Lane Thomas strikes out swinging.,2,2,0,5,5,0.37,2.96
+979,2021-05-26,657041,607074,,swinging_strike,2,Lane Thomas strikes out swinging.,2,1,0,4,5,0.21,3.43
+980,2021-05-26,657041,607074,,ball,13,Lane Thomas strikes out swinging.,1,1,0,3,5,-1.28,1.41
+981,2021-05-26,657041,607074,,swinging_strike,5,Lane Thomas strikes out swinging.,1,0,0,2,5,-0.05,2.55
+982,2021-05-26,657041,607074,,ball,12,Lane Thomas strikes out swinging.,0,0,0,1,5,0.95,3.48
+983,2021-05-26,657041,607074,strikeout,foul_tip,5,Lane Thomas strikes out on a foul tip.,1,2,2,4,2,-0.09,2.51
+984,2021-05-26,657041,607074,,swinging_strike,5,Lane Thomas strikes out on a foul tip.,1,1,2,3,2,0.12,2.43
+985,2021-05-26,657041,607074,,ball,12,Lane Thomas strikes out on a foul tip.,0,1,2,2,2,0.78,3.56
+986,2021-05-26,657041,607074,,swinging_strike,2,Lane Thomas strikes out on a foul tip.,0,0,2,1,2,0.11,3.01
+987,2021-05-26,657041,656629,field_out,hit_into_play,11,Lane Thomas pops out to third baseman Yoan Moncada.,2,2,2,6,7,-0.26,3.99
+988,2021-05-26,657041,656629,,foul,11,Lane Thomas pops out to third baseman Yoan Moncada.,2,2,2,5,7,-0.2,3.61
+989,2021-05-26,657041,614179,strikeout,called_strike,6,Lane Thomas called out on strikes.,0,2,0,3,9,0.68,2.31
+990,2021-05-26,657041,614179,,foul,6,Lane Thomas called out on strikes.,0,1,0,2,9,0.38,2.79
+991,2021-05-26,657041,656629,,blocked_ball,14,Lane Thomas pops out to third baseman Yoan Moncada.,1,2,2,4,7,1.7,0.02
+992,2021-05-26,657041,614179,,foul,6,Lane Thomas called out on strikes.,0,0,0,1,9,0.46,2.36
+993,2021-05-26,657041,656629,,ball,11,Lane Thomas pops out to third baseman Yoan Moncada.,0,2,2,3,7,-0.24,4.84
+994,2021-05-26,657041,656629,,foul_tip,3,Lane Thomas pops out to third baseman Yoan Moncada.,0,1,2,2,7,0.59,2.85
+995,2021-05-26,657041,656629,,called_strike,5,Lane Thomas pops out to third baseman Yoan Moncada.,0,0,2,1,7,-0.08,2.3
+996,2021-05-25,657041,608337,strikeout,swinging_strike,8,Lane Thomas strikes out swinging.,1,2,2,5,4,0.11,1.86
+997,2021-05-25,657041,608337,,foul,3,Lane Thomas strikes out swinging.,1,2,2,4,4,0.4,3.39
+998,2021-05-25,657041,608337,,blocked_ball,14,Lane Thomas strikes out swinging.,0,2,2,3,4,0.97,0.8
+999,2021-05-25,657041,608337,,called_strike,8,Lane Thomas strikes out swinging.,0,1,2,2,4,0.13,1.72
+1000,2021-05-25,657041,608337,,called_strike,2,Lane Thomas strikes out swinging.,0,0,2,1,4,-0.02,2.99
+1001,2021-05-25,657041,608337,field_error,hit_into_play,1,Lane Thomas reaches on a throwing error by third baseman Yoan Moncada.,3,2,0,6,3,-0.37,2.91
+1002,2021-05-25,657041,608337,,blocked_ball,13,Lane Thomas reaches on a throwing error by third baseman Yoan Moncada.,2,2,0,5,3,-0.21,-0.06
+1003,2021-05-25,657041,608337,,ball,13,Lane Thomas reaches on a throwing error by third baseman Yoan Moncada.,1,2,0,4,3,-0.31,1.07
+1004,2021-05-25,657041,608337,,called_strike,5,Lane Thomas reaches on a throwing error by third baseman Yoan Moncada.,1,1,0,3,3,-0.01,2.03
+1005,2021-05-25,657041,608337,,blocked_ball,14,Lane Thomas reaches on a throwing error by third baseman Yoan Moncada.,0,1,0,2,3,0.37,0.66
+1006,2021-05-25,657041,608337,,called_strike,8,Lane Thomas reaches on a throwing error by third baseman Yoan Moncada.,0,0,0,1,3,0.12,2.0
+1007,2021-05-25,657041,676051,field_out,hit_into_play,7,Lane Thomas lines out to third baseman Yoan Moncada.,3,2,1,6,7,-0.61,1.82
+1008,2021-05-25,657041,676051,,ball,14,Lane Thomas lines out to third baseman Yoan Moncada.,2,2,1,5,7,1.76,0.92
+1009,2021-05-25,657041,676051,,foul,4,Lane Thomas lines out to third baseman Yoan Moncada.,2,1,1,4,7,-0.36,2.52
+1010,2021-05-25,657041,676051,,ball,13,Lane Thomas lines out to third baseman Yoan Moncada.,1,1,1,3,7,-0.51,1.32
+1011,2021-05-25,657041,676051,,ball,1,Lane Thomas lines out to third baseman Yoan Moncada.,0,1,1,2,7,-0.33,3.41
+1012,2021-05-25,657041,676051,,foul,13,Lane Thomas lines out to third baseman Yoan Moncada.,0,0,1,1,7,-1.01,2.11
+1013,2021-05-25,657041,521230,strikeout,swinging_strike,14,Lane Thomas strikes out swinging.,0,2,0,3,9,0.58,1.28
+1014,2021-05-25,657041,521230,,foul,2,Lane Thomas strikes out swinging.,0,1,0,2,9,0.16,3.06
+1015,2021-05-25,657041,521230,,called_strike,4,Lane Thomas strikes out swinging.,0,0,0,1,9,-0.48,2.54
+1016,2021-05-24,657041,458681,field_out,hit_into_play,2,Lane Thomas lines out sharply to center fielder Leury Garcia.,1,0,1,2,7,0.2,2.9
+1017,2021-05-24,657041,458681,,ball,14,Lane Thomas lines out sharply to center fielder Leury Garcia.,0,0,1,1,7,0.91,1.08
+1018,2021-05-24,657041,458681,field_out,hit_into_play,14,Lane Thomas flies out to right fielder Adam Eaton.,0,1,2,2,5,0.95,1.73
+1019,2021-05-24,657041,458681,,called_strike,6,Lane Thomas flies out to right fielder Adam Eaton.,0,0,2,1,5,0.76,2.44
+1020,2021-05-24,657041,458681,strikeout,swinging_strike,1,Lane Thomas strikes out swinging.,0,2,0,3,3,-0.73,3.07
+1021,2021-05-24,657041,458681,,foul,11,Lane Thomas strikes out swinging.,0,1,0,2,3,-0.84,3.3
+1022,2021-05-24,657041,458681,,foul,4,Lane Thomas strikes out swinging.,0,0,0,1,3,-0.67,2.7
+1023,2021-05-23,657041,605200,walk,ball,14,Lane Thomas walks.,3,1,2,5,4,2.34,1.59
+1024,2021-05-23,657041,605200,,called_strike,14,Lane Thomas walks.,3,0,2,4,4,0.96,1.96
+1025,2021-05-23,657041,605200,,ball,14,Lane Thomas walks.,2,0,2,3,4,2.15,2.25
+1026,2021-05-23,657041,605200,,ball,14,Lane Thomas walks.,1,0,2,2,4,2.2,1.9
+1027,2021-05-23,657041,605200,,ball,14,Lane Thomas walks.,0,0,2,1,4,1.44,1.0
+1028,2021-05-23,657041,605200,field_out,hit_into_play,4,Lane Thomas lines out to right fielder Kris Bryant.,2,1,2,4,2,-0.3,2.42
+1029,2021-05-23,657041,605200,,called_strike,6,Lane Thomas lines out to right fielder Kris Bryant.,2,0,2,3,2,0.83,2.67
+1030,2021-05-23,657041,605200,,ball,14,Lane Thomas lines out to right fielder Kris Bryant.,1,0,2,2,2,0.87,1.2
+1031,2021-05-23,657041,605200,,ball,14,Lane Thomas lines out to right fielder Kris Bryant.,0,0,2,1,2,1.23,2.02
+1032,2021-05-23,657041,667297,walk,ball,14,Lane Thomas walks.   Edmundo Sosa to 2nd.,3,2,0,9,7,1.04,1.72
+1033,2021-05-23,657041,667297,,foul,7,Lane Thomas walks.   Edmundo Sosa to 2nd.,3,2,0,8,7,-0.32,1.76
+1034,2021-05-23,657041,667297,,foul,3,Lane Thomas walks.   Edmundo Sosa to 2nd.,3,2,0,7,7,0.41,3.11
+1035,2021-05-23,657041,667297,,foul,14,Lane Thomas walks.   Edmundo Sosa to 2nd.,3,2,0,6,7,0.99,2.09
+1036,2021-05-23,657041,667297,,called_strike,2,Lane Thomas walks.   Edmundo Sosa to 2nd.,3,1,0,5,7,0.23,3.11
+1037,2021-05-23,657041,667297,,ball,14,Lane Thomas walks.   Edmundo Sosa to 2nd.,2,1,0,4,7,1.36,1.82
+1038,2021-05-23,657041,667297,,ball,14,Lane Thomas walks.   Edmundo Sosa to 2nd.,1,1,0,3,7,0.52,0.91
+1039,2021-05-23,657041,667297,,foul,2,Lane Thomas walks.   Edmundo Sosa to 2nd.,1,0,0,2,7,0.02,3.25
+1040,2021-05-23,657041,667297,,ball,14,Lane Thomas walks.   Edmundo Sosa to 2nd.,0,0,0,1,7,1.79,1.22
+1041,2021-05-23,657041,605177,field_out,hit_into_play,5,"Lane Thomas grounds out sharply, shortstop Javier Baez to first baseman Anthony Rizzo.",3,1,0,5,9,0.27,2.19
+1042,2021-05-23,657041,605177,,ball,13,"Lane Thomas grounds out sharply, shortstop Javier Baez to first baseman Anthony Rizzo.",2,1,0,4,9,-0.71,0.49
+1043,2021-05-23,657041,605177,,ball,13,"Lane Thomas grounds out sharply, shortstop Javier Baez to first baseman Anthony Rizzo.",1,1,0,3,9,-1.13,0.99
+1044,2021-05-23,657041,605177,,ball,14,"Lane Thomas grounds out sharply, shortstop Javier Baez to first baseman Anthony Rizzo.",0,1,0,2,9,0.29,0.77
+1045,2021-05-23,657041,605177,,foul,3,"Lane Thomas grounds out sharply, shortstop Javier Baez to first baseman Anthony Rizzo.",0,0,0,1,9,0.28,2.99
+1046,2021-05-22,657041,640470,field_out,hit_into_play,7,"Lane Thomas grounds out, pitcher Adbert Alzolay to first baseman Anthony Rizzo.",0,2,2,3,7,-0.8,2.07
+1047,2021-05-22,657041,640470,,called_strike,6,"Lane Thomas grounds out, pitcher Adbert Alzolay to first baseman Anthony Rizzo.",0,1,2,2,7,0.4,2.21
+1048,2021-05-22,657041,640470,,called_strike,4,"Lane Thomas grounds out, pitcher Adbert Alzolay to first baseman Anthony Rizzo.",0,0,2,1,7,-0.68,2.54
+1049,2021-05-22,657041,640470,single,hit_into_play,8,Lane Thomas singles on a sharp line drive to center fielder Ian Happ.   Edmundo Sosa scores.,0,1,2,2,5,0.07,2.04
+1050,2021-05-22,657041,640470,,called_strike,4,Lane Thomas singles on a sharp line drive to center fielder Ian Happ.   Edmundo Sosa scores.,0,0,2,1,5,-0.66,2.7
+1051,2021-05-22,657041,640470,strikeout,called_strike,6,Lane Thomas called out on strikes.,2,2,1,5,3,0.32,2.45
+1052,2021-05-22,657041,640470,,called_strike,9,Lane Thomas called out on strikes.,2,1,1,4,3,0.3,1.72
+1053,2021-05-22,657041,640470,,ball,11,Lane Thomas called out on strikes.,1,1,1,3,3,-1.08,2.91
+1054,2021-05-22,657041,640470,,ball,14,Lane Thomas called out on strikes.,0,1,1,2,3,1.98,1.08
+1055,2021-05-22,657041,640470,,foul,3,Lane Thomas called out on strikes.,0,0,1,1,3,0.39,3.09
+1056,2021-05-21,657041,623364,field_out,hit_into_play,7,Lane Thomas flies out to center fielder Ian Happ.,0,1,1,2,9,-0.43,1.61
+1057,2021-05-21,657041,623364,,called_strike,6,Lane Thomas flies out to center fielder Ian Happ.,0,0,1,1,9,0.36,2.26
+1058,2021-05-16,657041,453343,force_out,hit_into_play,9,"Lane Thomas grounds into a force out, fielded by second baseman Tucupita Marcano.   Harrison Bader out at 2nd.    Lane Thomas to 1st.",2,2,0,5,9,0.55,1.54
+1059,2021-05-16,657041,453343,,foul,9,"Lane Thomas grounds into a force out, fielded by second baseman Tucupita Marcano.   Harrison Bader out at 2nd.    Lane Thomas to 1st.",2,1,0,4,9,0.51,1.99
+1060,2021-05-16,657041,453343,,called_strike,9,"Lane Thomas grounds into a force out, fielded by second baseman Tucupita Marcano.   Harrison Bader out at 2nd.    Lane Thomas to 1st.",2,0,0,3,9,0.38,1.78
+1061,2021-05-16,657041,453343,,ball,14,"Lane Thomas grounds into a force out, fielded by second baseman Tucupita Marcano.   Harrison Bader out at 2nd.    Lane Thomas to 1st.",1,0,0,2,9,0.45,0.96
+1062,2021-05-16,657041,453343,,ball,14,"Lane Thomas grounds into a force out, fielded by second baseman Tucupita Marcano.   Harrison Bader out at 2nd.    Lane Thomas to 1st.",0,0,0,1,9,0.52,1.24
+1063,2021-05-15,657041,622503,force_out,hit_into_play,9,"Lane Thomas grounds into a force out, shortstop Ha-Seong Kim to second baseman Jake Cronenworth.   Tyler O'Neill out at 2nd.",1,2,2,5,8,0.48,1.85
+1064,2021-05-15,657041,622503,,foul,14,"Lane Thomas grounds into a force out, shortstop Ha-Seong Kim to second baseman Jake Cronenworth.   Tyler O'Neill out at 2nd.",1,2,2,4,8,0.88,1.11
+1065,2021-05-15,657041,622503,,swinging_strike,14,"Lane Thomas grounds into a force out, shortstop Ha-Seong Kim to second baseman Jake Cronenworth.   Tyler O'Neill out at 2nd.",1,1,2,3,8,1.07,1.44
+1066,2021-05-15,657041,622503,,called_strike,9,"Lane Thomas grounds into a force out, shortstop Ha-Seong Kim to second baseman Jake Cronenworth.   Tyler O'Neill out at 2nd.",1,0,2,2,8,0.78,2.01
+1067,2021-05-15,657041,622503,,ball,14,"Lane Thomas grounds into a force out, shortstop Ha-Seong Kim to second baseman Jake Cronenworth.   Tyler O'Neill out at 2nd.",0,0,2,1,8,0.97,2.28
+1068,2021-05-13,657041,622780,walk,ball,12,Lane Thomas walks.,3,1,0,5,9,1.22,2.75
+1069,2021-05-13,657041,622780,,called_strike,2,Lane Thomas walks.,3,0,0,4,9,-0.1,3.38
+1070,2021-05-13,657041,622780,,ball,12,Lane Thomas walks.,2,0,0,3,9,0.28,3.64
+1071,2021-05-13,657041,622780,,ball,12,Lane Thomas walks.,1,0,0,2,9,1.2,2.6
+1072,2021-05-13,657041,622780,,ball,13,Lane Thomas walks.,0,0,0,1,9,-0.51,0.36
+1073,2021-05-08,657041,571710,walk,ball,11,Lane Thomas walks.,3,1,0,5,8,-0.82,3.69
+1074,2021-05-08,657041,571710,,ball,14,Lane Thomas walks.,2,1,0,4,8,0.86,1.35
+1075,2021-05-08,657041,571710,,called_strike,6,Lane Thomas walks.,2,0,0,3,8,0.78,2.22
+1076,2021-05-08,657041,571710,,ball,13,Lane Thomas walks.,1,0,0,2,8,-1.18,2.41
+1077,2021-05-08,657041,571710,,ball,14,Lane Thomas walks.,0,0,0,1,8,0.55,1.41
+1078,2021-04-14,657041,605452,field_out,hit_into_play,6,"Lane Thomas grounds out, third baseman Starlin Castro to first baseman Ryan Zimmerman.",1,1,0,3,5,0.65,2.43
+1079,2021-04-14,657041,605452,,ball,13,"Lane Thomas grounds out, third baseman Starlin Castro to first baseman Ryan Zimmerman.",0,1,0,2,5,-1.16,2.22
+1080,2021-04-14,657041,605452,,called_strike,2,"Lane Thomas grounds out, third baseman Starlin Castro to first baseman Ryan Zimmerman.",0,0,0,1,5,-0.13,3.15
+1081,2021-04-14,657041,605452,strikeout,called_strike,8,Lane Thomas called out on strikes.,1,2,1,4,2,0.26,1.48
+1082,2021-04-14,657041,605452,,ball,12,Lane Thomas called out on strikes.,0,2,1,3,2,0.39,4.41
+1083,2021-04-14,657041,605452,,called_strike,5,Lane Thomas called out on strikes.,0,1,1,2,2,0.2,2.41
+1084,2021-04-14,657041,605452,,called_strike,4,Lane Thomas called out on strikes.,0,0,1,1,2,-0.39,2.45
+1085,2021-04-14,657041,608723,field_out,hit_into_play,9,Lane Thomas lines out to center fielder Victor Robles.,1,1,2,3,9,0.69,1.68
+1086,2021-04-14,657041,621348,force_out,hit_into_play,4,"Lane Thomas grounds into a force out, shortstop Trea Turner to second baseman Josh Harrison.   Austin Dean out at 2nd.    Lane Thomas to 1st.",0,1,1,2,7,-0.54,2.44
+1087,2021-04-14,657041,621348,,foul_tip,3,"Lane Thomas grounds into a force out, shortstop Trea Turner to second baseman Josh Harrison.   Austin Dean out at 2nd.    Lane Thomas to 1st.",0,0,1,1,7,0.55,2.81
+1088,2021-04-14,657041,608723,,called_strike,13,Lane Thomas lines out to center fielder Victor Robles.,1,0,2,2,9,-0.15,1.46
+1089,2021-04-14,657041,608723,,ball,2,Lane Thomas lines out to center fielder Victor Robles.,0,0,2,1,9,0.12,3.46
+1090,2021-04-13,657041,541650,strikeout,swinging_strike,5,Lane Thomas strikes out swinging.,0,2,1,3,8,-0.13,2.26
+1091,2021-04-13,657041,541650,,foul,2,Lane Thomas strikes out swinging.,0,1,1,2,8,-0.08,3.31
+1092,2021-04-13,657041,541650,,foul,13,Lane Thomas strikes out swinging.,0,0,1,1,8,-1.28,1.7
+1093,2021-04-12,657041,543272,single,hit_into_play,4,Lane Thomas singles on a ground ball to center fielder Victor Robles.,2,2,2,5,9,-0.45,2.69
+1094,2021-04-12,657041,543272,,called_strike,7,Lane Thomas singles on a ground ball to center fielder Victor Robles.,2,1,2,4,9,-0.71,1.91
+1095,2021-04-12,657041,543272,,ball,14,Lane Thomas singles on a ground ball to center fielder Victor Robles.,1,1,2,3,9,0.9,1.79
+1096,2021-04-12,657041,543272,,ball,13,Lane Thomas singles on a ground ball to center fielder Victor Robles.,0,1,2,2,9,-0.11,0.75
+1097,2021-04-12,657041,543272,,called_strike,7,Lane Thomas singles on a ground ball to center fielder Victor Robles.,0,0,2,1,9,-0.6,2.01
+1098,2021-04-11,657041,474463,single,hit_into_play,6,Lane Thomas singles on a sharp ground ball to right fielder Avisail Garcia.,0,0,2,1,4,0.54,2.51
+1099,2021-04-11,657041,474463,walk,ball,14,Lane Thomas walks.   Dylan Carlson to 3rd.    Austin Dean to 2nd.,3,2,1,7,2,1.05,1.11
+1100,2021-04-11,657041,474463,,ball,14,Lane Thomas walks.   Dylan Carlson to 3rd.    Austin Dean to 2nd.,2,2,1,6,2,0.93,1.06
+1101,2021-04-11,657041,474463,,foul,13,Lane Thomas walks.   Dylan Carlson to 3rd.    Austin Dean to 2nd.,2,2,1,5,2,-0.58,1.06
+1102,2021-04-11,657041,474463,,ball,13,Lane Thomas walks.   Dylan Carlson to 3rd.    Austin Dean to 2nd.,1,2,1,4,2,-1.28,1.13
+1103,2021-04-11,657041,474463,,ball,13,Lane Thomas walks.   Dylan Carlson to 3rd.    Austin Dean to 2nd.,0,2,1,3,2,-1.57,2.14
+1104,2021-04-11,657041,474463,,foul,8,Lane Thomas walks.   Dylan Carlson to 3rd.    Austin Dean to 2nd.,0,1,1,2,2,-0.26,1.99
+1105,2021-04-11,657041,474463,,called_strike,7,Lane Thomas walks.   Dylan Carlson to 3rd.    Austin Dean to 2nd.,0,0,1,1,2,-0.79,2.07
+1106,2021-04-11,657041,642233,double_play,hit_into_play,8,"Lane Thomas grounds into a double play, pitcher Eric Yardley to first baseman Daniel Vogelbach to shortstop Luis Urias.   Austin Dean out at 3rd.    Lane Thomas out at 1st.",1,2,0,4,6,-0.16,1.48
+1107,2021-04-11,657041,642233,,called_strike,9,"Lane Thomas grounds into a double play, pitcher Eric Yardley to first baseman Daniel Vogelbach to shortstop Luis Urias.   Austin Dean out at 3rd.    Lane Thomas out at 1st.",1,1,0,3,6,0.35,1.44
+1108,2021-04-11,657041,642233,,ball,13,"Lane Thomas grounds into a double play, pitcher Eric Yardley to first baseman Daniel Vogelbach to shortstop Luis Urias.   Austin Dean out at 3rd.    Lane Thomas out at 1st.",0,1,0,2,6,-1.47,1.17
+1109,2021-04-11,657041,642233,,swinging_strike,11,"Lane Thomas grounds into a double play, pitcher Eric Yardley to first baseman Daniel Vogelbach to shortstop Luis Urias.   Austin Dean out at 3rd.    Lane Thomas out at 1st.",0,0,0,1,6,-1.15,2.82
+1110,2021-04-11,657041,656876,strikeout,swinging_strike,6,Lane Thomas strikes out swinging.,2,2,0,5,9,0.45,2.15
+1111,2021-04-11,657041,656876,,ball,14,Lane Thomas strikes out swinging.,1,2,0,4,9,0.86,1.34
+1112,2021-04-11,657041,656876,,ball,14,Lane Thomas strikes out swinging.,0,2,0,3,9,1.0,1.33
+1113,2021-04-11,657041,656876,,called_strike,9,Lane Thomas strikes out swinging.,0,1,0,2,9,0.76,1.86
+1114,2021-04-11,657041,656876,,called_strike,1,Lane Thomas strikes out swinging.,0,0,0,1,9,-0.38,3.05

@@ -1,0 +1,13 @@
+
+VISION REPORT: xander_bogaerts (2021-04-01 thru 2021-10-04)
+     Strikes Swung At: 722 (61.66%)
+     Strikes Taken: 449 (38.34%)
+     Balls Swung At: 394 (29.54%)
+     Balls Taken: 940 (70.46%)
+     Strikeouts: 113
+     Walks: 60
+     xander_bogaerts saw 1171 strikes and 1334 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3269
+Average PA Length: 4.1393 (2496/603)
+Batting Avg: 0.295

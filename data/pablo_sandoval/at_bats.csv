@@ -1,0 +1,380 @@
+,game_date,batter,pitcher,events,description,zone,des,balls,strikes,outs_when_up,pitch_number,inning,plate_x,plate_z
+0,2021-07-29,467055,612434,strikeout,swinging_strike_blocked,13,Pablo Sandoval strikes out swinging.,0,2,2,3,6,-0.15,0.56
+1,2021-07-29,467055,612434,,called_strike,11,Pablo Sandoval strikes out swinging.,0,1,2,2,6,-1.03,2.82
+2,2021-07-29,467055,612434,,called_strike,1,Pablo Sandoval strikes out swinging.,0,0,2,1,6,-0.7,3.11
+3,2021-07-28,467055,621242,field_out,hit_into_play,6,Pablo Sandoval lines out to left fielder Kevin Pillar.,3,2,2,8,9,0.62,2.41
+4,2021-07-28,467055,621242,,foul,2,Pablo Sandoval lines out to left fielder Kevin Pillar.,3,2,2,7,9,-0.12,3.29
+5,2021-07-28,467055,621242,,ball,12,Pablo Sandoval lines out to left fielder Kevin Pillar.,2,2,2,6,9,0.63,4.07
+6,2021-07-28,467055,621242,,ball,12,Pablo Sandoval lines out to left fielder Kevin Pillar.,1,2,2,5,9,0.24,3.95
+7,2021-07-28,467055,621242,,foul,2,Pablo Sandoval lines out to left fielder Kevin Pillar.,1,2,2,4,9,0.27,3.2
+8,2021-07-28,467055,621242,,swinging_strike,12,Pablo Sandoval lines out to left fielder Kevin Pillar.,1,1,2,3,9,1.1,2.77
+9,2021-07-28,467055,621242,,foul,6,Pablo Sandoval lines out to left fielder Kevin Pillar.,1,0,2,2,9,0.77,2.67
+10,2021-07-28,467055,621242,,ball,11,Pablo Sandoval lines out to left fielder Kevin Pillar.,0,0,2,1,9,-0.01,3.64
+11,2021-07-26,467055,612434,strikeout,called_strike,4,Pablo Sandoval called out on strikes.,1,2,2,4,6,-0.4,2.78
+12,2021-07-26,467055,612434,,ball,13,Pablo Sandoval called out on strikes.,0,2,2,3,6,-1.64,2.34
+13,2021-07-26,467055,612434,,foul,13,Pablo Sandoval called out on strikes.,0,1,2,2,6,-1.04,1.88
+14,2021-07-26,467055,612434,,called_strike,1,Pablo Sandoval called out on strikes.,0,0,2,1,6,-0.81,2.77
+15,2021-07-25,467055,605400,field_out,hit_into_play,5,"Pablo Sandoval grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",2,2,1,5,8,-0.16,2.51
+16,2021-07-25,467055,605400,,ball,14,"Pablo Sandoval grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,2,1,4,8,1.95,0.37
+17,2021-07-25,467055,605400,,swinging_strike,8,"Pablo Sandoval grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",1,1,1,3,8,0.16,1.5
+18,2021-07-25,467055,605400,,ball,13,"Pablo Sandoval grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,1,1,2,8,-1.04,0.85
+19,2021-07-25,467055,605400,,called_strike,7,"Pablo Sandoval grounds out, second baseman Jean Segura to first baseman Rhys Hoskins.",0,0,1,1,8,-0.43,1.66
+20,2021-07-24,467055,660853,strikeout,swinging_strike,11,Pablo Sandoval strikes out swinging.,2,2,0,5,8,-0.26,4.09
+21,2021-07-24,467055,660853,,ball,11,Pablo Sandoval strikes out swinging.,1,2,0,4,8,-0.83,4.21
+22,2021-07-24,467055,660853,,foul,6,Pablo Sandoval strikes out swinging.,1,1,0,3,8,0.3,2.32
+23,2021-07-24,467055,660853,,called_strike,7,Pablo Sandoval strikes out swinging.,1,0,0,2,8,-0.35,1.44
+24,2021-07-24,467055,660853,,ball,13,Pablo Sandoval strikes out swinging.,0,0,0,1,8,-0.46,0.83
+25,2021-07-22,467055,661440,walk,ball,13,Pablo Sandoval walks.,3,2,1,6,9,-1.25,1.12
+26,2021-07-22,467055,661440,,foul,4,Pablo Sandoval walks.,3,1,1,5,9,-0.42,2.37
+27,2021-07-22,467055,661440,,ball,13,Pablo Sandoval walks.,2,1,1,4,9,-1.28,2.36
+28,2021-07-22,467055,661440,,ball,13,Pablo Sandoval walks.,1,1,1,3,9,-1.55,1.93
+29,2021-07-22,467055,661440,,swinging_strike,7,Pablo Sandoval walks.,1,0,1,2,9,-0.35,1.38
+30,2021-07-22,467055,661440,,ball,13,Pablo Sandoval walks.,0,0,1,1,9,-1.16,0.95
+31,2021-07-21,467055,453343,field_out,hit_into_play,13,"Pablo Sandoval grounds out, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",2,1,2,4,7,-0.15,1.22
+32,2021-07-21,467055,453343,,ball,13,"Pablo Sandoval grounds out, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",1,1,2,3,7,-1.1,1.22
+33,2021-07-21,467055,453343,,swinging_strike,14,"Pablo Sandoval grounds out, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",1,0,2,2,7,0.39,0.42
+34,2021-07-21,467055,453343,,ball,11,"Pablo Sandoval grounds out, second baseman Ha-Seong Kim to first baseman Jake Cronenworth.",0,0,2,1,7,-1.03,2.63
+35,2021-07-17,467055,642336,field_out,hit_into_play,3,"Pablo Sandoval grounds out, second baseman Wander Franco to first baseman Ji-Man Choi.",1,1,1,3,8,0.8,2.94
+36,2021-07-17,467055,642336,,called_strike,3,"Pablo Sandoval grounds out, second baseman Wander Franco to first baseman Ji-Man Choi.",1,0,1,2,8,0.46,2.86
+37,2021-07-17,467055,642336,,ball,14,"Pablo Sandoval grounds out, second baseman Wander Franco to first baseman Ji-Man Choi.",0,0,1,1,8,1.92,1.47
+38,2021-07-16,467055,605538,field_out,hit_into_play,9,Pablo Sandoval lines out to center fielder Brett Phillips.,0,2,2,3,8,0.29,1.59
+39,2021-07-16,467055,605538,,foul,5,Pablo Sandoval lines out to center fielder Brett Phillips.,0,1,2,2,8,0.19,2.19
+40,2021-07-16,467055,605538,,called_strike,4,Pablo Sandoval lines out to center fielder Brett Phillips.,0,0,2,1,8,-0.74,2.1
+41,2021-07-10,467055,542947,strikeout,called_strike,7,Pablo Sandoval called out on strikes.,1,2,1,4,6,-0.41,1.78
+42,2021-07-10,467055,542947,,ball,12,Pablo Sandoval called out on strikes.,0,2,1,3,6,0.23,4.16
+43,2021-07-10,467055,542947,,foul,13,Pablo Sandoval called out on strikes.,0,1,1,2,6,-1.07,2.09
+44,2021-07-10,467055,542947,,called_strike,5,Pablo Sandoval called out on strikes.,0,0,1,1,6,0.23,2.27
+45,2021-07-04,467055,554340,walk,ball,12,Pablo Sandoval walks.   Orlando Arcia to 2nd.,3,1,1,5,9,0.41,4.25
+46,2021-07-04,467055,554340,,called_strike,11,Pablo Sandoval walks.   Orlando Arcia to 2nd.,3,0,1,4,9,-0.55,3.4
+47,2021-07-04,467055,554340,,ball,11,Pablo Sandoval walks.   Orlando Arcia to 2nd.,2,0,1,3,9,-1.32,3.37
+48,2021-07-04,467055,554340,,ball,11,Pablo Sandoval walks.   Orlando Arcia to 2nd.,1,0,1,2,9,-2.33,3.25
+49,2021-07-04,467055,554340,,ball,11,Pablo Sandoval walks.   Orlando Arcia to 2nd.,0,0,1,1,9,-2.76,3.56
+50,2021-07-03,467055,554340,field_out,hit_into_play,13,Pablo Sandoval pops out to shortstop Miguel Rojas.,0,1,0,2,9,-0.2,1.36
+51,2021-07-03,467055,554340,,called_strike,2,Pablo Sandoval pops out to shortstop Miguel Rojas.,0,0,0,1,9,-0.26,3.11
+52,2021-07-02,467055,571670,walk,ball,1,Pablo Sandoval walks.,3,0,1,4,8,-0.8,3.38
+53,2021-07-02,467055,571670,,ball,14,Pablo Sandoval walks.,2,0,1,3,8,0.21,1.43
+54,2021-07-02,467055,571670,,ball,12,Pablo Sandoval walks.,1,0,1,2,8,0.12,4.13
+55,2021-07-02,467055,571670,,ball,12,Pablo Sandoval walks.,0,0,1,1,8,0.08,3.69
+56,2021-07-01,467055,607625,field_out,hit_into_play,4,"Pablo Sandoval grounds out, pitcher Seth Lugo to first baseman Pete Alonso.   Guillermo Heredia to 3rd.",2,2,0,5,9,-0.44,2.16
+57,2021-07-01,467055,607625,,foul_tip,8,"Pablo Sandoval grounds out, pitcher Seth Lugo to first baseman Pete Alonso.   Guillermo Heredia to 3rd.",2,1,0,4,9,0.01,1.51
+58,2021-07-01,467055,607625,,called_strike,4,"Pablo Sandoval grounds out, pitcher Seth Lugo to first baseman Pete Alonso.   Guillermo Heredia to 3rd.",2,0,0,3,9,-0.51,2.26
+59,2021-07-01,467055,607625,,ball,14,"Pablo Sandoval grounds out, pitcher Seth Lugo to first baseman Pete Alonso.   Guillermo Heredia to 3rd.",1,0,0,2,9,0.83,1.3
+60,2021-07-01,467055,607625,,ball,14,"Pablo Sandoval grounds out, pitcher Seth Lugo to first baseman Pete Alonso.   Guillermo Heredia to 3rd.",0,0,0,1,9,1.6,1.04
+61,2021-06-30,467055,546991,hit_by_pitch,hit_by_pitch,12,Pablo Sandoval hit by pitch.    Abraham Almonte scores.    Kevan Smith to 3rd.    Ender Inciarte to 2nd.,1,1,0,3,8,2.3,3.84
+62,2021-06-30,467055,546991,,swinging_strike,14,Pablo Sandoval hit by pitch.    Abraham Almonte scores.    Kevan Smith to 3rd.    Ender Inciarte to 2nd.,1,0,0,2,8,0.41,1.35
+63,2021-06-30,467055,546991,,ball,12,Pablo Sandoval hit by pitch.    Abraham Almonte scores.    Kevan Smith to 3rd.    Ender Inciarte to 2nd.,0,0,0,1,8,0.91,3.76
+64,2021-06-29,467055,621242,field_out,hit_into_play,8,Pablo Sandoval lines out to right fielder Michael Conforto.,0,0,1,1,9,-0.06,1.86
+65,2021-06-24,467055,622088,field_out,hit_into_play,12,Pablo Sandoval lines out softly to shortstop Kyle Farmer.,0,2,2,3,8,1.19,3.25
+66,2021-06-24,467055,622088,,swinging_strike,3,Pablo Sandoval lines out softly to shortstop Kyle Farmer.,0,1,2,2,8,0.8,2.77
+67,2021-06-24,467055,622088,,called_strike,8,Pablo Sandoval lines out softly to shortstop Kyle Farmer.,0,0,2,1,8,-0.27,1.95
+68,2021-06-23,467055,621242,strikeout,swinging_strike,7,Pablo Sandoval strikes out swinging.,3,2,1,7,8,-0.81,1.95
+69,2021-06-23,467055,621242,,ball,14,Pablo Sandoval strikes out swinging.,2,2,1,6,8,1.07,1.81
+70,2021-06-23,467055,621242,,foul,2,Pablo Sandoval strikes out swinging.,2,2,1,5,8,0.19,3.17
+71,2021-06-23,467055,621242,,ball,11,Pablo Sandoval strikes out swinging.,1,2,1,4,8,-2.99,3.28
+72,2021-06-23,467055,621242,,ball,12,Pablo Sandoval strikes out swinging.,0,2,1,3,8,0.35,4.11
+73,2021-06-23,467055,621242,,foul,12,Pablo Sandoval strikes out swinging.,0,1,1,2,8,0.0,3.62
+74,2021-06-23,467055,621242,,swinging_strike,11,Pablo Sandoval strikes out swinging.,0,0,1,1,8,-0.47,3.53
+75,2021-06-22,467055,543507,strikeout,swinging_strike,12,Pablo Sandoval strikes out swinging.,3,2,1,7,9,0.01,3.9
+76,2021-06-22,467055,543507,,ball,14,Pablo Sandoval strikes out swinging.,2,2,1,6,9,2.16,1.94
+77,2021-06-22,467055,543507,,ball,14,Pablo Sandoval strikes out swinging.,1,2,1,5,9,2.17,-1.74
+78,2021-06-22,467055,543507,,ball,11,Pablo Sandoval strikes out swinging.,0,2,1,4,9,-0.72,3.9
+79,2021-06-22,467055,543507,,foul,2,Pablo Sandoval strikes out swinging.,0,2,1,3,9,0.23,3.08
+80,2021-06-22,467055,543507,,called_strike,4,Pablo Sandoval strikes out swinging.,0,1,1,2,9,-0.81,2.11
+81,2021-06-22,467055,543507,,called_strike,2,Pablo Sandoval strikes out swinging.,0,0,1,1,9,-0.16,3.02
+82,2021-06-21,467055,594798,field_out,hit_into_play,12,Pablo Sandoval pops out to third baseman Jonathan Villar.,0,0,2,1,5,1.18,2.6
+83,2021-06-21,467055,543507,strikeout,swinging_strike,3,Pablo Sandoval strikes out swinging.,1,2,1,4,7,0.73,2.84
+84,2021-06-21,467055,543507,,swinging_strike,1,Pablo Sandoval strikes out swinging.,1,1,1,3,7,-0.33,2.91
+85,2021-06-21,467055,543507,,ball,11,Pablo Sandoval strikes out swinging.,0,1,1,2,7,-1.15,3.88
+86,2021-06-21,467055,543507,,called_strike,6,Pablo Sandoval strikes out swinging.,0,0,1,1,7,0.58,2.4
+87,2021-06-17,467055,658551,field_out,hit_into_play,8,"Pablo Sandoval grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",1,1,2,3,8,0.04,1.51
+88,2021-06-17,467055,658551,,ball,14,"Pablo Sandoval grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",0,1,2,2,8,2.1,0.14
+89,2021-06-17,467055,658551,,called_strike,4,"Pablo Sandoval grounds out sharply, second baseman Matt Carpenter to first baseman Paul Goldschmidt.",0,0,2,1,8,-0.54,2.76
+90,2021-06-16,467055,493603,field_out,hit_into_play,9,Pablo Sandoval flies out to right fielder Hunter Renfroe.,2,2,0,7,9,0.66,1.76
+91,2021-06-16,467055,493603,,foul,13,Pablo Sandoval flies out to right fielder Hunter Renfroe.,2,2,0,6,9,-0.98,1.82
+92,2021-06-16,467055,493603,,ball,12,Pablo Sandoval flies out to right fielder Hunter Renfroe.,1,2,0,5,9,0.59,4.09
+93,2021-06-16,467055,493603,,foul,5,Pablo Sandoval flies out to right fielder Hunter Renfroe.,1,2,0,4,9,-0.21,2.51
+94,2021-06-16,467055,493603,,called_strike,7,Pablo Sandoval flies out to right fielder Hunter Renfroe.,1,1,0,3,9,-0.78,2.0
+95,2021-06-16,467055,493603,,ball,14,Pablo Sandoval flies out to right fielder Hunter Renfroe.,0,1,0,2,9,1.72,1.35
+96,2021-06-16,467055,493603,,called_strike,2,Pablo Sandoval flies out to right fielder Hunter Renfroe.,0,0,0,1,9,-0.08,3.26
+97,2021-06-15,467055,676477,walk,ball,12,Pablo Sandoval walks.,3,2,0,6,6,1.22,2.29
+98,2021-06-15,467055,676477,,foul,5,Pablo Sandoval walks.,3,1,0,5,6,0.18,2.06
+99,2021-06-15,467055,676477,,ball,11,Pablo Sandoval walks.,2,1,0,4,6,-0.3,3.65
+100,2021-06-15,467055,676477,,foul,13,Pablo Sandoval walks.,2,0,0,3,6,-0.15,0.79
+101,2021-06-15,467055,676477,,ball,14,Pablo Sandoval walks.,1,0,0,2,6,0.71,1.08
+102,2021-06-15,467055,676477,,ball,14,Pablo Sandoval walks.,0,0,0,1,6,1.27,2.04
+103,2021-06-13,467055,643256,grounded_into_double_play,hit_into_play,2,"Pablo Sandoval grounds into a double play, second baseman Jon Berti to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.   Abraham Almonte to 3rd.    Austin Riley out at 2nd.    Pablo Sandoval out at 1st.",0,2,0,3,9,0.2,2.76
+104,2021-06-13,467055,643256,,foul,4,"Pablo Sandoval grounds into a double play, second baseman Jon Berti to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.   Abraham Almonte to 3rd.    Austin Riley out at 2nd.    Pablo Sandoval out at 1st.",0,1,0,2,9,-0.56,2.38
+105,2021-06-13,467055,643256,,called_strike,3,"Pablo Sandoval grounds into a double play, second baseman Jon Berti to shortstop Jazz Chisholm Jr.  to first baseman Jesus Aguilar.   Abraham Almonte to 3rd.    Austin Riley out at 2nd.    Pablo Sandoval out at 1st.",0,0,0,1,9,0.42,3.35
+106,2021-06-11,467055,554340,single,hit_into_play,6,Pablo Sandoval singles on a line drive to right fielder Adam Duvall.,2,2,0,6,9,0.64,2.06
+107,2021-06-11,467055,554340,,foul,3,Pablo Sandoval singles on a line drive to right fielder Adam Duvall.,2,2,0,5,9,0.36,3.21
+108,2021-06-11,467055,554340,,ball,11,Pablo Sandoval singles on a line drive to right fielder Adam Duvall.,1,2,0,4,9,-0.4,4.59
+109,2021-06-11,467055,554340,,foul,9,Pablo Sandoval singles on a line drive to right fielder Adam Duvall.,1,1,0,3,9,0.34,1.45
+110,2021-06-11,467055,554340,,foul,12,Pablo Sandoval singles on a line drive to right fielder Adam Duvall.,1,0,0,2,9,1.31,2.53
+111,2021-06-11,467055,554340,,ball,11,Pablo Sandoval singles on a line drive to right fielder Adam Duvall.,0,0,0,1,9,-0.96,2.43
+112,2021-06-08,467055,656322,field_out,hit_into_play,1,"Pablo Sandoval grounds out, shortstop Ronald Torreyes to first baseman Rhys Hoskins.   William Contreras to 3rd.    Guillermo Heredia to 2nd.",2,2,1,6,8,-0.7,2.79
+113,2021-06-08,467055,656322,,ball,11,"Pablo Sandoval grounds out, shortstop Ronald Torreyes to first baseman Rhys Hoskins.   William Contreras to 3rd.    Guillermo Heredia to 2nd.",1,2,1,5,8,-0.28,3.74
+114,2021-06-08,467055,656322,,foul,6,"Pablo Sandoval grounds out, shortstop Ronald Torreyes to first baseman Rhys Hoskins.   William Contreras to 3rd.    Guillermo Heredia to 2nd.",1,2,1,4,8,0.74,2.42
+115,2021-06-08,467055,656322,,foul,11,"Pablo Sandoval grounds out, shortstop Ronald Torreyes to first baseman Rhys Hoskins.   William Contreras to 3rd.    Guillermo Heredia to 2nd.",1,1,1,3,8,-0.9,2.56
+116,2021-06-08,467055,656322,,foul,14,"Pablo Sandoval grounds out, shortstop Ronald Torreyes to first baseman Rhys Hoskins.   William Contreras to 3rd.    Guillermo Heredia to 2nd.",1,0,1,2,8,1.04,1.34
+117,2021-06-08,467055,656322,,ball,14,"Pablo Sandoval grounds out, shortstop Ronald Torreyes to first baseman Rhys Hoskins.   William Contreras to 3rd.    Guillermo Heredia to 2nd.",0,0,1,1,8,1.09,2.17
+118,2021-06-06,467055,518858,field_out,hit_into_play,12,Pablo Sandoval pops out to third baseman Justin Turner.,0,0,1,1,8,0.45,3.48
+119,2021-06-05,467055,641360,grounded_into_double_play,hit_into_play,13,"Pablo Sandoval grounds into a double play, shortstop Gavin Lux to second baseman Chris Taylor to first baseman Albert Pujols.   Kevan Smith out at 2nd.    Pablo Sandoval out at 1st.",2,1,1,4,8,-0.95,2.33
+120,2021-06-05,467055,641360,,ball,1,"Pablo Sandoval grounds into a double play, shortstop Gavin Lux to second baseman Chris Taylor to first baseman Albert Pujols.   Kevan Smith out at 2nd.    Pablo Sandoval out at 1st.",1,1,1,3,8,-0.8,3.25
+121,2021-06-05,467055,641360,,foul,3,"Pablo Sandoval grounds into a double play, shortstop Gavin Lux to second baseman Chris Taylor to first baseman Albert Pujols.   Kevan Smith out at 2nd.    Pablo Sandoval out at 1st.",1,0,1,2,8,0.41,3.19
+122,2021-06-05,467055,641360,,ball,11,"Pablo Sandoval grounds into a double play, shortstop Gavin Lux to second baseman Chris Taylor to first baseman Albert Pujols.   Kevan Smith out at 2nd.    Pablo Sandoval out at 1st.",0,0,1,1,8,-1.17,4.58
+123,2021-06-04,467055,523260,strikeout,swinging_strike_blocked,14,Pablo Sandoval strikes out swinging.,1,2,1,6,8,2.3,-1.16
+124,2021-06-04,467055,523260,,foul,4,Pablo Sandoval strikes out swinging.,1,2,1,5,8,-0.6,2.1
+125,2021-06-04,467055,523260,,foul,5,Pablo Sandoval strikes out swinging.,1,2,1,4,8,-0.24,2.32
+126,2021-06-04,467055,523260,,swinging_strike,1,Pablo Sandoval strikes out swinging.,1,1,1,3,8,-0.5,3.32
+127,2021-06-04,467055,523260,,ball,14,Pablo Sandoval strikes out swinging.,0,1,1,2,8,0.93,1.12
+128,2021-06-04,467055,523260,,called_strike,8,Pablo Sandoval strikes out swinging.,0,0,1,1,8,-0.24,1.68
+129,2021-06-02,467055,663432,strikeout,foul_tip,11,Pablo Sandoval strikes out on a foul tip.,2,2,0,7,7,-0.1,3.5
+130,2021-06-02,467055,663432,,ball,11,Pablo Sandoval strikes out on a foul tip.,1,2,0,6,7,-2.49,3.15
+131,2021-06-02,467055,663432,,ball,11,Pablo Sandoval strikes out on a foul tip.,0,2,0,5,7,-2.6,4.94
+132,2021-06-02,467055,663432,,foul,14,Pablo Sandoval strikes out on a foul tip.,0,2,0,4,7,1.51,1.5
+133,2021-06-02,467055,663432,,foul,5,Pablo Sandoval strikes out on a foul tip.,0,2,0,3,7,0.24,2.73
+134,2021-06-02,467055,663432,,foul,14,Pablo Sandoval strikes out on a foul tip.,0,1,0,2,7,1.12,1.83
+135,2021-06-02,467055,663432,,swinging_strike,14,Pablo Sandoval strikes out on a foul tip.,0,0,0,1,7,0.16,0.96
+136,2021-06-01,467055,502179,field_out,hit_into_play,4,Pablo Sandoval flies out to center fielder Victor Robles.,1,1,2,3,8,-0.29,2.37
+137,2021-06-01,467055,502179,,called_strike,7,Pablo Sandoval flies out to center fielder Victor Robles.,1,0,2,2,8,-0.34,1.8
+138,2021-06-01,467055,502179,,ball,13,Pablo Sandoval flies out to center fielder Victor Robles.,0,0,2,1,8,-1.06,1.32
+139,2021-05-29,467055,656887,walk,ball,11,Pablo Sandoval walks.   Guillermo Heredia to 2nd.,3,0,2,4,8,-0.18,3.81
+140,2021-05-29,467055,656887,,ball,14,Pablo Sandoval walks.   Guillermo Heredia to 2nd.,2,0,2,3,8,1.67,2.06
+141,2021-05-29,467055,656887,,ball,12,Pablo Sandoval walks.   Guillermo Heredia to 2nd.,1,0,2,2,8,0.89,3.52
+142,2021-05-29,467055,656887,,ball,11,Pablo Sandoval walks.   Guillermo Heredia to 2nd.,0,0,2,1,8,-0.93,3.44
+143,2021-05-26,467055,601713,field_out,hit_into_play,6,Pablo Sandoval pops out to third baseman Rafael Devers.,1,0,2,2,5,0.31,2.46
+144,2021-05-26,467055,601713,,ball,12,Pablo Sandoval pops out to third baseman Rafael Devers.,0,0,2,1,5,0.25,3.51
+145,2021-05-26,467055,601713,strikeout,swinging_strike,12,Pablo Sandoval strikes out swinging.,2,2,1,5,3,0.69,3.44
+146,2021-05-26,467055,601713,,ball,11,Pablo Sandoval strikes out swinging.,1,2,1,4,3,-0.78,3.84
+147,2021-05-26,467055,601713,,called_strike,4,Pablo Sandoval strikes out swinging.,1,1,1,3,3,-0.43,2.21
+148,2021-05-26,467055,601713,,called_strike,5,Pablo Sandoval strikes out swinging.,1,0,1,2,3,0.09,2.3
+149,2021-05-26,467055,601713,,ball,11,Pablo Sandoval strikes out swinging.,0,0,1,1,3,-1.47,4.03
+150,2021-05-26,467055,601713,field_out,hit_into_play,12,Pablo Sandoval pops out to third baseman Rafael Devers in foul territory.,2,2,2,5,1,0.23,3.53
+151,2021-05-26,467055,601713,,ball,11,Pablo Sandoval pops out to third baseman Rafael Devers in foul territory.,1,2,2,4,1,-1.75,4.13
+152,2021-05-26,467055,601713,,swinging_strike,2,Pablo Sandoval pops out to third baseman Rafael Devers in foul territory.,1,1,2,3,1,-0.01,3.31
+153,2021-05-26,467055,601713,,called_strike,2,Pablo Sandoval pops out to third baseman Rafael Devers in foul territory.,1,0,2,2,1,-0.09,3.14
+154,2021-05-26,467055,601713,,ball,11,Pablo Sandoval pops out to third baseman Rafael Devers in foul territory.,0,0,2,1,1,-0.1,4.11
+155,2021-05-26,467055,493603,field_out,hit_into_play,8,Pablo Sandoval flies out to right fielder Hunter Renfroe.,2,2,1,5,8,0.12,1.67
+156,2021-05-26,467055,493603,,ball,11,Pablo Sandoval flies out to right fielder Hunter Renfroe.,1,2,1,4,8,-0.92,3.96
+157,2021-05-26,467055,493603,,foul,9,Pablo Sandoval flies out to right fielder Hunter Renfroe.,1,1,1,3,8,0.7,1.86
+158,2021-05-26,467055,493603,,ball,11,Pablo Sandoval flies out to right fielder Hunter Renfroe.,0,1,1,2,8,-0.9,4.63
+159,2021-05-26,467055,493603,,called_strike,11,Pablo Sandoval flies out to right fielder Hunter Renfroe.,0,0,1,1,8,-0.92,2.44
+160,2021-05-25,467055,572070,single,hit_into_play,7,Pablo Sandoval singles on a sharp ground ball to center fielder Danny Santana.,1,2,1,4,6,-0.5,1.5
+161,2021-05-25,467055,572070,,ball,11,Pablo Sandoval singles on a sharp ground ball to center fielder Danny Santana.,0,2,1,3,6,-1.58,2.38
+162,2021-05-25,467055,572070,,foul,12,Pablo Sandoval singles on a sharp ground ball to center fielder Danny Santana.,0,1,1,2,6,0.16,3.44
+163,2021-05-25,467055,572070,,called_strike,11,Pablo Sandoval singles on a sharp ground ball to center fielder Danny Santana.,0,0,1,1,6,-1.05,3.17
+164,2021-05-25,467055,572070,single,hit_into_play,1,Pablo Sandoval singles on a ground ball to left fielder Alex Verdugo.   Dansby Swanson to 3rd.,3,2,0,6,4,-0.34,3.09
+165,2021-05-25,467055,572070,,ball,11,Pablo Sandoval singles on a ground ball to left fielder Alex Verdugo.   Dansby Swanson to 3rd.,2,2,0,5,4,-1.39,3.38
+166,2021-05-25,467055,572070,,foul,1,Pablo Sandoval singles on a ground ball to left fielder Alex Verdugo.   Dansby Swanson to 3rd.,2,1,0,4,4,-0.63,3.16
+167,2021-05-25,467055,572070,,ball,11,Pablo Sandoval singles on a ground ball to left fielder Alex Verdugo.   Dansby Swanson to 3rd.,1,1,0,3,4,-1.83,4.74
+168,2021-05-25,467055,572070,,called_strike,13,Pablo Sandoval singles on a ground ball to left fielder Alex Verdugo.   Dansby Swanson to 3rd.,1,0,0,2,4,-0.89,2.33
+169,2021-05-25,467055,572070,,ball,11,Pablo Sandoval singles on a ground ball to left fielder Alex Verdugo.   Dansby Swanson to 3rd.,0,0,0,1,4,-1.31,4.21
+170,2021-05-25,467055,572070,single,hit_into_play,14,Pablo Sandoval singles on a fly ball to left fielder Alex Verdugo.,1,0,2,2,2,0.38,1.16
+171,2021-05-25,467055,572070,,ball,14,Pablo Sandoval singles on a fly ball to left fielder Alex Verdugo.,0,0,2,1,2,0.29,0.8
+172,2021-05-25,467055,676477,field_out,hit_into_play,13,"Pablo Sandoval grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",1,2,0,5,8,-0.23,0.97
+173,2021-05-25,467055,676477,,foul,3,"Pablo Sandoval grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",1,2,0,4,8,0.58,2.88
+174,2021-05-25,467055,676477,,called_strike,14,"Pablo Sandoval grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",1,1,0,3,8,0.83,1.9
+175,2021-05-25,467055,676477,,ball,11,"Pablo Sandoval grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",0,1,0,2,8,-1.85,2.92
+176,2021-05-25,467055,676477,,foul,13,"Pablo Sandoval grounds out, third baseman Rafael Devers to first baseman Bobby Dalbec.",0,0,0,1,8,-1.17,1.85
+177,2021-05-22,467055,665854,strikeout,called_strike,2,Pablo Sandoval called out on strikes.  Ender Inciarte steals (1) 2nd base.,3,2,1,6,8,-0.13,2.68
+178,2021-05-22,467055,665854,,foul,14,Pablo Sandoval called out on strikes.  Ender Inciarte steals (1) 2nd base.,3,1,1,5,8,0.93,1.75
+179,2021-05-22,467055,665854,,ball,13,Pablo Sandoval called out on strikes.  Ender Inciarte steals (1) 2nd base.,2,1,1,4,8,-1.09,0.99
+180,2021-05-22,467055,665854,,swinging_strike,5,Pablo Sandoval called out on strikes.  Ender Inciarte steals (1) 2nd base.,2,0,1,3,8,0.27,2.09
+181,2021-05-22,467055,665854,,ball,13,Pablo Sandoval called out on strikes.  Ender Inciarte steals (1) 2nd base.,1,0,1,2,8,-0.75,1.01
+182,2021-05-22,467055,665854,,blocked_ball,14,Pablo Sandoval called out on strikes.  Ender Inciarte steals (1) 2nd base.,0,0,1,1,8,0.97,0.64
+183,2021-05-20,467055,593144,strikeout,swinging_strike,14,Pablo Sandoval strikes out swinging.,2,2,1,5,9,0.88,2.22
+184,2021-05-20,467055,593144,,foul,2,Pablo Sandoval strikes out swinging.,2,1,1,4,9,0.02,3.3
+185,2021-05-20,467055,593144,,called_strike,6,Pablo Sandoval strikes out swinging.,2,0,1,3,9,0.46,2.68
+186,2021-05-20,467055,593144,,ball,11,Pablo Sandoval strikes out swinging.,1,0,1,2,9,-0.25,3.41
+187,2021-05-20,467055,593144,,ball,9,Pablo Sandoval strikes out swinging.,0,0,1,1,9,0.59,1.61
+188,2021-05-19,467055,622098,field_out,hit_into_play,5,Pablo Sandoval lines out to third baseman Jonathan Villar.,1,0,2,2,6,-0.27,2.39
+189,2021-05-19,467055,622098,,ball,1,Pablo Sandoval lines out to third baseman Jonathan Villar.,0,0,2,1,6,-0.61,3.04
+190,2021-05-18,467055,621242,field_out,hit_into_play,14,Pablo Sandoval flies out to center fielder Johneshwy Fargas.,1,1,2,3,9,0.27,1.19
+191,2021-05-18,467055,621242,,ball,13,Pablo Sandoval flies out to center fielder Johneshwy Fargas.,0,1,2,2,9,-1.47,2.41
+192,2021-05-18,467055,621242,,called_strike,4,Pablo Sandoval flies out to center fielder Johneshwy Fargas.,0,0,2,1,9,-0.31,2.47
+193,2021-05-17,467055,543507,field_out,hit_into_play,14,Pablo Sandoval lines out to right fielder Khalil Lee.,1,2,1,4,8,1.01,1.86
+194,2021-05-17,467055,543507,,swinging_strike_blocked,14,Pablo Sandoval lines out to right fielder Khalil Lee.,1,1,1,3,8,1.15,0.62
+195,2021-05-17,467055,543507,,ball,1,Pablo Sandoval lines out to right fielder Khalil Lee.,0,1,1,2,8,-0.63,3.61
+196,2021-05-17,467055,543507,,swinging_strike,14,Pablo Sandoval lines out to right fielder Khalil Lee.,0,0,1,1,8,0.94,0.63
+197,2021-05-16,467055,608718,fielders_choice,hit_into_play,4,"Pablo Sandoval reaches on a fielder's choice, fielded by shortstop Luis Urias.   William Contreras to 3rd.    Ender Inciarte to 2nd.",0,0,1,1,7,-0.51,2.34
+198,2021-05-15,467055,571948,hit_by_pitch,hit_by_pitch,13,Pablo Sandoval hit by pitch.,2,2,1,5,8,-1.59,1.54
+199,2021-05-15,467055,571948,,ball,13,Pablo Sandoval hit by pitch.,1,2,1,4,8,-1.11,1.71
+200,2021-05-15,467055,571948,,foul,3,Pablo Sandoval hit by pitch.,1,1,1,3,8,0.4,2.77
+201,2021-05-15,467055,571948,,called_strike,9,Pablo Sandoval hit by pitch.,1,0,1,2,8,0.77,2.14
+202,2021-05-15,467055,571948,,ball,12,Pablo Sandoval hit by pitch.,0,0,1,1,8,1.82,2.98
+203,2021-05-14,467055,458676,strikeout,swinging_strike,11,Pablo Sandoval strikes out swinging.,2,2,0,5,8,-0.04,3.87
+204,2021-05-14,467055,458676,,called_strike,11,Pablo Sandoval strikes out swinging.,2,1,0,4,8,-0.86,2.49
+205,2021-05-14,467055,458676,,swinging_strike,6,Pablo Sandoval strikes out swinging.,2,0,0,3,8,0.66,2.27
+206,2021-05-14,467055,458676,,ball,13,Pablo Sandoval strikes out swinging.,1,0,0,2,8,-0.79,1.07
+207,2021-05-14,467055,458676,,ball,11,Pablo Sandoval strikes out swinging.,0,0,0,1,8,-1.76,4.0
+208,2021-05-11,467055,605447,walk,ball,11,Pablo Sandoval walks.   Dansby Swanson to 2nd.,3,2,2,6,9,-1.0,3.17
+209,2021-05-11,467055,605447,,blocked_ball,14,Pablo Sandoval walks.   Dansby Swanson to 2nd.,2,2,2,5,9,0.53,0.37
+210,2021-05-11,467055,605447,,ball,12,Pablo Sandoval walks.   Dansby Swanson to 2nd.,1,2,2,4,9,0.17,4.68
+211,2021-05-11,467055,605447,,foul,6,Pablo Sandoval walks.   Dansby Swanson to 2nd.,1,1,2,3,9,0.36,2.52
+212,2021-05-11,467055,605447,,blocked_ball,13,Pablo Sandoval walks.   Dansby Swanson to 2nd.,0,1,2,2,9,-0.41,0.42
+213,2021-05-11,467055,605447,,called_strike,8,Pablo Sandoval walks.   Dansby Swanson to 2nd.,0,0,2,1,9,-0.07,1.64
+214,2021-05-08,467055,593576,home_run,hit_into_play,5,Pablo Sandoval homers (4) on a fly ball to right center field.    Ehire Adrianza scores.,1,2,2,4,9,-0.22,2.42
+215,2021-05-08,467055,593576,,foul,6,Pablo Sandoval homers (4) on a fly ball to right center field.    Ehire Adrianza scores.,1,1,2,3,9,0.79,2.37
+216,2021-05-08,467055,593576,,ball,14,Pablo Sandoval homers (4) on a fly ball to right center field.    Ehire Adrianza scores.,0,1,2,2,9,1.33,1.07
+217,2021-05-08,467055,593576,,swinging_strike,14,Pablo Sandoval homers (4) on a fly ball to right center field.    Ehire Adrianza scores.,0,0,2,1,9,0.11,0.51
+218,2021-05-07,467055,621107,field_out,hit_into_play,1,Pablo Sandoval flies out to left fielder Andrew McCutchen in foul territory.,0,2,1,3,5,-0.29,2.84
+219,2021-05-07,467055,621107,,swinging_strike,13,Pablo Sandoval flies out to left fielder Andrew McCutchen in foul territory.,0,1,1,2,5,-0.13,1.02
+220,2021-05-07,467055,621107,,called_strike,11,Pablo Sandoval flies out to left fielder Andrew McCutchen in foul territory.,0,0,1,1,5,-0.95,2.36
+221,2021-05-06,467055,543339,field_out,hit_into_play,4,"Pablo Sandoval grounds out sharply, shortstop Trea Turner to first baseman Josh Bell.",2,2,1,6,8,-0.62,2.26
+222,2021-05-06,467055,543339,,foul,14,"Pablo Sandoval grounds out sharply, shortstop Trea Turner to first baseman Josh Bell.",2,2,1,5,8,0.12,0.72
+223,2021-05-06,467055,543339,,ball,11,"Pablo Sandoval grounds out sharply, shortstop Trea Turner to first baseman Josh Bell.",1,2,1,4,8,-1.06,3.44
+224,2021-05-06,467055,543339,,swinging_strike,5,"Pablo Sandoval grounds out sharply, shortstop Trea Turner to first baseman Josh Bell.",1,1,1,3,8,-0.05,2.36
+225,2021-05-06,467055,543339,,swinging_strike,4,"Pablo Sandoval grounds out sharply, shortstop Trea Turner to first baseman Josh Bell.",1,0,1,2,8,-0.52,2.13
+226,2021-05-06,467055,543339,,ball,11,"Pablo Sandoval grounds out sharply, shortstop Trea Turner to first baseman Josh Bell.",0,0,1,1,8,-0.64,3.72
+227,2021-05-04,467055,501789,strikeout,swinging_strike,11,Pablo Sandoval strikes out swinging.,1,2,2,5,8,-0.25,3.97
+228,2021-05-04,467055,501789,,foul,14,Pablo Sandoval strikes out swinging.,1,2,2,4,8,0.65,1.03
+229,2021-05-04,467055,501789,,swinging_strike_blocked,14,Pablo Sandoval strikes out swinging.,1,1,2,3,8,1.39,0.31
+230,2021-05-04,467055,501789,,ball,11,Pablo Sandoval strikes out swinging.,0,1,2,2,8,-0.33,4.24
+231,2021-05-04,467055,501789,,foul,6,Pablo Sandoval strikes out swinging.,0,0,2,1,8,0.58,2.53
+232,2021-05-02,467055,548389,field_out,hit_into_play,4,"Pablo Sandoval grounds out, second baseman Marcus Semien to first baseman Vladimir Guerrero Jr.",1,0,1,2,4,-0.41,2.54
+233,2021-05-02,467055,548389,,ball,11,"Pablo Sandoval grounds out, second baseman Marcus Semien to first baseman Vladimir Guerrero Jr.",0,0,1,1,4,-0.5,4.37
+234,2021-05-02,467055,548389,strikeout,swinging_strike,1,Pablo Sandoval strikes out swinging.,2,2,0,7,2,-0.4,3.14
+235,2021-05-02,467055,548389,,foul,13,Pablo Sandoval strikes out swinging.,2,2,0,6,2,-0.31,0.86
+236,2021-05-02,467055,548389,,foul,7,Pablo Sandoval strikes out swinging.,2,2,0,5,2,-0.32,1.89
+237,2021-05-02,467055,548389,,foul,1,Pablo Sandoval strikes out swinging.,2,1,0,4,2,-0.43,3.21
+238,2021-05-02,467055,548389,,ball,11,Pablo Sandoval strikes out swinging.,1,1,0,3,2,-1.25,4.21
+239,2021-05-02,467055,621366,strikeout,swinging_strike,13,Pablo Sandoval strikes out swinging.,0,2,1,3,6,-0.37,1.37
+240,2021-05-02,467055,621366,,called_strike,6,Pablo Sandoval strikes out swinging.,0,1,1,2,6,0.66,2.61
+241,2021-05-02,467055,548389,,swinging_strike,7,Pablo Sandoval strikes out swinging.,1,0,0,2,2,-0.39,1.8
+242,2021-05-02,467055,548389,,ball,11,Pablo Sandoval strikes out swinging.,0,0,0,1,2,-0.66,4.58
+243,2021-05-02,467055,621366,,foul,14,Pablo Sandoval strikes out swinging.,0,0,1,1,6,0.54,1.25
+244,2021-05-02,467055,606303,strikeout,swinging_strike,1,Pablo Sandoval strikes out swinging.,1,2,0,4,9,-0.6,3.39
+245,2021-05-02,467055,606303,,swinging_strike,2,Pablo Sandoval strikes out swinging.,1,1,0,3,9,-0.16,3.11
+246,2021-05-02,467055,606303,,swinging_strike,6,Pablo Sandoval strikes out swinging.,1,0,0,2,9,0.31,2.65
+247,2021-05-02,467055,606303,,ball,11,Pablo Sandoval strikes out swinging.,0,0,0,1,9,-1.61,3.59
+248,2021-05-01,467055,543548,field_out,hit_into_play,7,Pablo Sandoval flies out to center fielder Randal Grichuk.,2,1,0,4,4,-0.51,2.04
+249,2021-05-01,467055,543548,,foul,14,Pablo Sandoval flies out to center fielder Randal Grichuk.,2,0,0,3,4,0.91,2.36
+250,2021-05-01,467055,543548,,ball,13,Pablo Sandoval flies out to center fielder Randal Grichuk.,1,0,0,2,4,-0.85,1.05
+251,2021-05-01,467055,543548,,ball,11,Pablo Sandoval flies out to center fielder Randal Grichuk.,0,0,0,1,4,-1.27,2.65
+252,2021-05-01,467055,663423,walk,ball,13,Pablo Sandoval walks.,3,2,0,7,6,-1.73,2.22
+253,2021-05-01,467055,663423,,ball,14,Pablo Sandoval walks.,2,2,0,6,6,0.9,1.12
+254,2021-05-01,467055,663423,,ball,11,Pablo Sandoval walks.,1,2,0,5,6,-0.23,4.55
+255,2021-05-01,467055,663423,,foul,5,Pablo Sandoval walks.,1,2,0,4,6,0.15,2.35
+256,2021-05-01,467055,663423,,ball,11,Pablo Sandoval walks.,0,2,0,3,6,-0.16,5.56
+257,2021-05-01,467055,663423,,foul,14,Pablo Sandoval walks.,0,1,0,2,6,0.59,0.74
+258,2021-05-01,467055,663423,,called_strike,1,Pablo Sandoval walks.,0,0,0,1,6,-0.45,3.09
+259,2021-05-01,467055,543548,single,hit_into_play,9,Pablo Sandoval singles on a line drive to center fielder Randal Grichuk.   Dansby Swanson to 2nd.,1,1,2,3,2,0.56,2.02
+260,2021-05-01,467055,543548,,called_strike,6,Pablo Sandoval singles on a line drive to center fielder Randal Grichuk.   Dansby Swanson to 2nd.,1,0,2,2,2,0.65,2.19
+261,2021-05-01,467055,543548,,ball,14,Pablo Sandoval singles on a line drive to center fielder Randal Grichuk.   Dansby Swanson to 2nd.,0,0,2,1,2,1.15,2.19
+262,2021-05-01,467055,543022,single,hit_into_play,5,Pablo Sandoval singles on a line drive to center fielder Randal Grichuk.,1,2,0,4,8,0.22,2.51
+263,2021-05-01,467055,543022,,swinging_strike,5,Pablo Sandoval singles on a line drive to center fielder Randal Grichuk.,1,1,0,3,8,-0.19,2.42
+264,2021-05-01,467055,543022,,swinging_strike,11,Pablo Sandoval singles on a line drive to center fielder Randal Grichuk.,1,0,0,2,8,-0.33,4.03
+265,2021-05-01,467055,543022,,ball,13,Pablo Sandoval singles on a line drive to center fielder Randal Grichuk.,0,0,0,1,8,-0.97,1.76
+266,2021-04-30,467055,605447,field_out,hit_into_play,8,"Pablo Sandoval grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,2,2,6,9,0.25,1.89
+267,2021-04-30,467055,605447,,foul,5,"Pablo Sandoval grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,2,2,5,9,0.13,2.48
+268,2021-04-30,467055,605447,,foul,1,"Pablo Sandoval grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",1,2,2,4,9,-0.56,2.91
+269,2021-04-30,467055,605447,,ball,11,"Pablo Sandoval grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",0,2,2,3,9,-0.82,4.43
+270,2021-04-30,467055,605447,,foul,9,"Pablo Sandoval grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",0,1,2,2,9,0.29,1.93
+271,2021-04-30,467055,605447,,swinging_strike,9,"Pablo Sandoval grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",0,0,2,1,9,0.31,1.52
+272,2021-04-29,467055,518886,strikeout,swinging_strike,14,Pablo Sandoval strikes out swinging.   Pablo Sandoval to 1st.  Wild pitch by pitcher Craig Kimbrel.,1,2,2,4,9,1.12,0.4
+273,2021-04-29,467055,518886,,foul,3,Pablo Sandoval strikes out swinging.   Pablo Sandoval to 1st.  Wild pitch by pitcher Craig Kimbrel.,1,1,2,3,9,0.83,2.87
+274,2021-04-29,467055,518886,,swinging_strike,6,Pablo Sandoval strikes out swinging.   Pablo Sandoval to 1st.  Wild pitch by pitcher Craig Kimbrel.,1,0,2,2,9,0.38,2.36
+275,2021-04-29,467055,518886,,ball,11,Pablo Sandoval strikes out swinging.   Pablo Sandoval to 1st.  Wild pitch by pitcher Craig Kimbrel.,0,0,2,1,9,-1.1,4.03
+276,2021-04-27,467055,519443,single,hit_into_play,8,Pablo Sandoval singles on a sharp line drive to center fielder Jake Marisnick.   Dansby Swanson scores.    Austin Riley to 3rd.,2,0,2,3,8,0.15,1.63
+277,2021-04-27,467055,519443,,blocked_ball,13,Pablo Sandoval singles on a sharp line drive to center fielder Jake Marisnick.   Dansby Swanson scores.    Austin Riley to 3rd.,1,0,2,2,8,-0.08,0.61
+278,2021-04-27,467055,519443,,ball,12,Pablo Sandoval singles on a sharp line drive to center fielder Jake Marisnick.   Dansby Swanson scores.    Austin Riley to 3rd.,0,0,2,1,8,1.63,3.28
+279,2021-04-25,467055,668678,strikeout,swinging_strike,12,Pablo Sandoval strikes out swinging.,2,2,1,6,7,0.25,4.13
+280,2021-04-25,467055,668678,,foul,14,Pablo Sandoval strikes out swinging.,2,2,1,5,7,0.59,1.25
+281,2021-04-25,467055,668678,,called_strike,8,Pablo Sandoval strikes out swinging.,2,1,1,4,7,0.1,1.87
+282,2021-04-25,467055,668678,,called_strike,5,Pablo Sandoval strikes out swinging.,2,0,1,3,7,-0.08,2.14
+283,2021-04-25,467055,668678,,ball,14,Pablo Sandoval strikes out swinging.,1,0,1,2,7,0.4,1.39
+284,2021-04-25,467055,668678,,ball,12,Pablo Sandoval strikes out swinging.,0,0,1,1,7,0.91,3.9
+285,2021-04-21,467055,446372,single,hit_into_play,3,Pablo Sandoval singles on a sharp line drive to right fielder Aaron Judge.,0,1,0,2,5,0.46,3.21
+286,2021-04-21,467055,446372,,called_strike,4,Pablo Sandoval singles on a sharp line drive to right fielder Aaron Judge.,0,0,0,1,5,-0.37,2.19
+287,2021-04-21,467055,446372,field_out,hit_into_play,9,Pablo Sandoval flies out to right fielder Aaron Judge.,1,0,1,2,2,0.52,1.69
+288,2021-04-21,467055,446372,,ball,14,Pablo Sandoval flies out to right fielder Aaron Judge.,0,0,1,1,2,1.39,1.52
+289,2021-04-21,467055,656793,strikeout,swinging_strike,1,Pablo Sandoval strikes out swinging.,3,2,1,7,6,-0.31,2.98
+290,2021-04-21,467055,656793,,ball,14,Pablo Sandoval strikes out swinging.,2,2,1,6,6,1.37,0.04
+291,2021-04-21,467055,656793,,ball,13,Pablo Sandoval strikes out swinging.,1,2,1,5,6,-0.83,-0.38
+292,2021-04-21,467055,570666,field_out,hit_into_play,4,Pablo Sandoval lines out to center fielder Aaron Hicks.,0,1,1,2,8,-0.47,2.11
+293,2021-04-21,467055,656793,,foul,1,Pablo Sandoval strikes out swinging.,1,2,1,4,6,-0.47,3.27
+294,2021-04-21,467055,570666,,called_strike,7,Pablo Sandoval lines out to center fielder Aaron Hicks.,0,0,1,1,8,-0.28,1.83
+295,2021-04-21,467055,656793,,swinging_strike,6,Pablo Sandoval strikes out swinging.,1,1,1,3,6,0.33,2.62
+296,2021-04-21,467055,656793,,swinging_strike,1,Pablo Sandoval strikes out swinging.,1,0,1,2,6,-0.51,3.21
+297,2021-04-21,467055,656793,,ball,14,Pablo Sandoval strikes out swinging.,0,0,1,1,6,1.19,2.31
+298,2021-04-20,467055,592791,single,hit_into_play,14,Pablo Sandoval singles on a ground ball to right fielder Aaron Judge.   Ozzie Albies to 2nd.,2,2,1,6,4,0.09,0.99
+299,2021-04-20,467055,592791,,foul,5,Pablo Sandoval singles on a ground ball to right fielder Aaron Judge.   Ozzie Albies to 2nd.,2,2,1,5,4,-0.14,2.17
+300,2021-04-20,467055,592791,,called_strike,11,Pablo Sandoval singles on a ground ball to right fielder Aaron Judge.   Ozzie Albies to 2nd.,2,1,1,4,4,-0.96,2.67
+301,2021-04-20,467055,592791,,foul,6,Pablo Sandoval singles on a ground ball to right fielder Aaron Judge.   Ozzie Albies to 2nd.,2,0,1,3,4,0.55,2.54
+302,2021-04-20,467055,592791,,ball,11,Pablo Sandoval singles on a ground ball to right fielder Aaron Judge.   Ozzie Albies to 2nd.,1,0,1,2,4,-0.71,3.81
+303,2021-04-20,467055,592791,,ball,11,Pablo Sandoval singles on a ground ball to right fielder Aaron Judge.   Ozzie Albies to 2nd.,0,0,1,1,4,-0.36,3.73
+304,2021-04-20,467055,476595,walk,ball,14,Pablo Sandoval walks.,3,1,0,5,7,0.08,1.27
+305,2021-04-20,467055,592791,strikeout,swinging_strike,11,Pablo Sandoval strikes out swinging.,0,2,1,3,2,-1.14,3.01
+306,2021-04-20,467055,592791,,called_strike,5,Pablo Sandoval strikes out swinging.,0,1,1,2,2,-0.27,2.21
+307,2021-04-20,467055,476595,,ball,13,Pablo Sandoval walks.,2,1,0,4,7,-1.15,1.72
+308,2021-04-20,467055,592791,,called_strike,8,Pablo Sandoval strikes out swinging.,0,0,1,1,2,0.18,1.8
+309,2021-04-20,467055,476595,,ball,11,Pablo Sandoval walks.,1,1,0,3,7,-0.75,4.15
+310,2021-04-20,467055,476595,,ball,13,Pablo Sandoval walks.,0,1,0,2,7,-2.22,-0.61
+311,2021-04-20,467055,476595,,swinging_strike,1,Pablo Sandoval walks.,0,0,0,1,7,-0.78,3.08
+312,2021-04-18,467055,595465,strikeout,swinging_strike,11,Pablo Sandoval strikes out swinging.,2,2,2,5,8,-0.11,3.81
+313,2021-04-18,467055,595465,,blocked_ball,14,Pablo Sandoval strikes out swinging.,1,2,2,4,8,1.07,0.27
+314,2021-04-18,467055,595465,,foul,14,Pablo Sandoval strikes out swinging.,1,1,2,3,8,1.29,2.22
+315,2021-04-18,467055,595465,,foul,12,Pablo Sandoval strikes out swinging.,1,0,2,2,8,1.75,2.72
+316,2021-04-18,467055,595465,,ball,11,Pablo Sandoval strikes out swinging.,0,0,2,1,8,-0.8,4.52
+317,2021-04-17,467055,571946,walk,ball,11,Pablo Sandoval walks.,3,2,2,7,7,-0.5,3.74
+318,2021-04-17,467055,571946,,foul,4,Pablo Sandoval walks.,3,2,2,6,7,-0.4,2.67
+319,2021-04-17,467055,571946,,swinging_strike,8,Pablo Sandoval walks.,3,1,2,5,7,-0.21,1.98
+320,2021-04-17,467055,571946,,ball,14,Pablo Sandoval walks.,2,1,2,4,7,0.83,1.16
+321,2021-04-17,467055,571946,,called_strike,11,Pablo Sandoval walks.,2,0,2,3,7,-1.06,2.65
+322,2021-04-17,467055,571946,,ball,13,Pablo Sandoval walks.,1,0,2,2,7,-0.48,0.79
+323,2021-04-17,467055,571946,,ball,11,Pablo Sandoval walks.,0,0,2,1,7,-1.3,2.57
+324,2021-04-17,467055,592094,field_out,hit_into_play,5,Pablo Sandoval lines out to center fielder Jake Marisnick.,2,0,0,3,9,-0.09,2.24
+325,2021-04-17,467055,592094,,ball,1,Pablo Sandoval lines out to center fielder Jake Marisnick.,1,0,0,2,9,-0.79,3.33
+326,2021-04-17,467055,592094,,ball,1,Pablo Sandoval lines out to center fielder Jake Marisnick.,0,0,0,1,9,-0.49,3.33
+327,2021-04-15,467055,647315,home_run,hit_into_play,4,Pablo Sandoval homers (3) on a fly ball to left field.   Austin Riley scores.    Guillermo Heredia scores.,0,0,2,1,6,-0.46,2.57
+328,2021-04-14,467055,595928,strikeout,called_strike,8,Pablo Sandoval called out on strikes.,2,2,2,5,9,-0.23,1.83
+329,2021-04-14,467055,595928,,ball,11,Pablo Sandoval called out on strikes.,1,2,2,4,9,-1.28,3.31
+330,2021-04-14,467055,595928,,foul,5,Pablo Sandoval called out on strikes.,1,1,2,3,9,0.23,2.62
+331,2021-04-14,467055,595928,,called_strike,2,Pablo Sandoval called out on strikes.,1,0,2,2,9,0.26,3.29
+332,2021-04-14,467055,595928,,ball,11,Pablo Sandoval called out on strikes.,0,0,2,1,9,-1.26,3.79
+333,2021-04-13,467055,647315,field_out,hit_into_play,4,"Pablo Sandoval grounds out sharply, shortstop Miguel Rojas to first baseman Jesus Aguilar.",1,1,0,3,8,-0.39,2.39
+334,2021-04-13,467055,647315,,foul,14,"Pablo Sandoval grounds out sharply, shortstop Miguel Rojas to first baseman Jesus Aguilar.",1,0,0,2,8,0.11,1.29
+335,2021-04-13,467055,647315,,ball,14,"Pablo Sandoval grounds out sharply, shortstop Miguel Rojas to first baseman Jesus Aguilar.",0,0,0,1,8,0.91,1.63
+336,2021-04-12,467055,645261,walk,blocked_ball,14,Pablo Sandoval walks.,3,2,1,10,7,1.36,0.61
+337,2021-04-12,467055,645261,,foul,1,Pablo Sandoval walks.,3,2,1,9,7,-0.31,2.93
+338,2021-04-12,467055,645261,,ball,12,Pablo Sandoval walks.,2,2,1,8,7,0.24,4.28
+339,2021-04-12,467055,645261,,ball,11,Pablo Sandoval walks.,1,2,1,7,7,-1.58,4.23
+340,2021-04-12,467055,645261,,foul,9,Pablo Sandoval walks.,1,2,1,6,7,0.78,1.84
+341,2021-04-12,467055,645261,,foul,6,Pablo Sandoval walks.,1,2,1,5,7,0.4,2.45
+342,2021-04-12,467055,645261,,foul,12,Pablo Sandoval walks.,1,2,1,4,7,0.29,3.8
+343,2021-04-12,467055,645261,,called_strike,2,Pablo Sandoval walks.,1,1,1,3,7,0.24,3.01
+344,2021-04-12,467055,645261,,blocked_ball,14,Pablo Sandoval walks.,0,1,1,2,7,1.26,-0.08
+345,2021-04-12,467055,645261,,foul,14,Pablo Sandoval walks.,0,0,1,1,7,0.88,1.86
+346,2021-04-11,467055,593576,field_out,hit_into_play,8,Pablo Sandoval flies out to right fielder Bryce Harper.,2,2,0,6,9,-0.24,1.42
+347,2021-04-11,467055,593576,,foul,13,Pablo Sandoval flies out to right fielder Bryce Harper.,2,2,0,5,9,-0.06,0.86
+348,2021-04-11,467055,593576,,swinging_strike,14,Pablo Sandoval flies out to right fielder Bryce Harper.,2,1,0,4,9,0.27,1.0
+349,2021-04-11,467055,593576,,ball,14,Pablo Sandoval flies out to right fielder Bryce Harper.,1,1,0,3,9,0.89,-0.41
+350,2021-04-11,467055,593576,,swinging_strike,2,Pablo Sandoval flies out to right fielder Bryce Harper.,1,0,0,2,9,-0.12,3.0
+351,2021-04-11,467055,593576,,ball,13,Pablo Sandoval flies out to right fielder Bryce Harper.,0,0,0,1,9,-1.15,1.13
+352,2021-04-07,467055,663432,home_run,hit_into_play,4,Pablo Sandoval homers (2) on a fly ball to center field.   Dansby Swanson scores.,3,2,2,6,7,-0.35,2.32
+353,2021-04-07,467055,663432,,ball,13,Pablo Sandoval homers (2) on a fly ball to center field.   Dansby Swanson scores.,2,2,2,5,7,-0.82,1.37
+354,2021-04-07,467055,663432,,ball,13,Pablo Sandoval homers (2) on a fly ball to center field.   Dansby Swanson scores.,1,2,2,4,7,-1.38,2.06
+355,2021-04-07,467055,663432,,swinging_strike,8,Pablo Sandoval homers (2) on a fly ball to center field.   Dansby Swanson scores.,1,1,2,3,7,-0.09,1.92
+356,2021-04-07,467055,663432,,foul,5,Pablo Sandoval homers (2) on a fly ball to center field.   Dansby Swanson scores.,1,0,2,2,7,0.01,2.34
+357,2021-04-07,467055,501593,strikeout,swinging_strike,13,Pablo Sandoval strikes out swinging.,1,2,1,5,6,-1.05,0.97
+358,2021-04-07,467055,663432,,ball,11,Pablo Sandoval homers (2) on a fly ball to center field.   Dansby Swanson scores.,0,0,2,1,7,-1.89,2.8
+359,2021-04-07,467055,501593,,ball,13,Pablo Sandoval strikes out swinging.,0,2,1,4,6,-1.11,0.61
+360,2021-04-07,467055,501593,,foul,4,Pablo Sandoval strikes out swinging.,0,2,1,3,6,-0.38,2.46
+361,2021-04-07,467055,501593,,swinging_strike,13,Pablo Sandoval strikes out swinging.,0,1,1,2,6,-0.62,1.02
+362,2021-04-07,467055,501593,,foul,2,Pablo Sandoval strikes out swinging.,0,0,1,1,6,-0.12,2.82
+363,2021-04-06,467055,640448,walk,ball,13,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,3,2,1,8,7,-0.41,0.76
+364,2021-04-06,467055,640448,,foul,4,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,3,2,1,7,7,-0.43,2.34
+365,2021-04-06,467055,640448,,foul,4,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,3,2,1,6,7,-0.34,2.57
+366,2021-04-06,467055,640448,,ball,13,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,2,2,1,5,7,-1.54,1.75
+367,2021-04-06,467055,640448,,ball,11,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,1,2,1,4,7,-1.43,3.81
+368,2021-04-06,467055,640448,,foul_tip,13,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,1,1,1,3,7,-0.94,2.18
+369,2021-04-06,467055,640448,,ball,14,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,0,1,1,2,7,0.53,1.45
+370,2021-04-06,467055,640448,,foul,8,Pablo Sandoval walks.   Austin Riley to 3rd.    Cristian Pache to 2nd.,0,0,1,1,7,-0.23,1.9
+371,2021-04-03,467055,593576,strikeout,called_strike,13,Pablo Sandoval called out on strikes.,1,2,1,5,9,-0.89,2.43
+372,2021-04-03,467055,593576,,foul,7,Pablo Sandoval called out on strikes.,1,2,1,4,9,-0.75,1.75
+373,2021-04-03,467055,593576,,ball,14,Pablo Sandoval called out on strikes.,0,2,1,3,9,0.07,0.22
+374,2021-04-03,467055,593576,,foul,7,Pablo Sandoval called out on strikes.,0,1,1,2,9,-0.52,1.44
+375,2021-04-03,467055,593576,,called_strike,4,Pablo Sandoval called out on strikes.,0,0,1,1,9,-0.49,2.57
+376,2021-04-01,467055,605400,home_run,hit_into_play,6,Pablo Sandoval homers (1) on a fly ball to right field.    Cristian Pache scores.,0,2,2,3,7,0.7,2.21
+377,2021-04-01,467055,605400,,foul,6,Pablo Sandoval homers (1) on a fly ball to right field.    Cristian Pache scores.,0,1,2,2,7,0.4,2.54
+378,2021-04-01,467055,605400,,called_strike,4,Pablo Sandoval homers (1) on a fly ball to right field.    Cristian Pache scores.,0,0,2,1,7,-0.38,2.35
