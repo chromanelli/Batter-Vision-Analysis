@@ -1,0 +1,18 @@
+
+VISION REPORT: manny_machado (2021-04-01 thru 2021-10-04)
+     Total PA: 640
+     Strikes Swung At: 712 (68.53%)
+     Strikes Taken: 327 (31.47%)
+     Balls Swung At: 335 (27.94%)
+     Balls Taken: 864 (72.06%)
+     Strikeouts: 102 (0.159)%
+     Walks: 63 (0.098)%
+     manny_machado saw 1039 strikes and 1199 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4084
+VISION SCORE METRIC B (VSA - SO%): 0.2490
+VISION SCORE METRIC C (VSB + BB%): 0.3475
+
+Average PA Length: 3.4813 (2228/640)
+Batting Avg: 0.278
+OBP: 0.347

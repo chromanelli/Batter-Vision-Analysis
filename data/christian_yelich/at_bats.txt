@@ -5,8 +5,8 @@ VISION REPORT: christian_yelich (2021-04-01 thru 2021-10-04)
      Strikes Taken: 329 (34.38%)
      Balls Swung At: 179 (16.97%)
      Balls Taken: 876 (83.03%)
-     Strikeouts: 113
-     Walks: 70
+     Strikeouts: 113 (0.238)%
+     Walks: 70 (0.147)%
      christian_yelich saw 957 strikes and 1055 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4950

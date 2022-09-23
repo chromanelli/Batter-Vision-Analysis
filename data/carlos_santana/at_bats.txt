@@ -1,0 +1,18 @@
+
+VISION REPORT: carlos_santana (2021-04-01 thru 2021-10-04)
+     Total PA: 659
+     Strikes Swung At: 836 (65.62%)
+     Strikes Taken: 438 (34.38%)
+     Balls Swung At: 308 (21.51%)
+     Balls Taken: 1124 (78.49%)
+     Strikeouts: 102 (0.155)%
+     Walks: 86 (0.131)%
+     carlos_santana saw 1274 strikes and 1432 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4486
+VISION SCORE METRIC B (VSA - SO%): 0.2939
+VISION SCORE METRIC C (VSB + BB%): 0.4244
+
+Average PA Length: 4.0880 (2694/659)
+Batting Avg: 0.214
+OBP: 0.319

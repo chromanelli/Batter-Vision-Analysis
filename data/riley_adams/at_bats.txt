@@ -5,8 +5,8 @@ VISION REPORT: riley_adams (2021-04-01 thru 2021-10-04)
      Strikes Taken: 101 (41.39%)
      Balls Swung At: 60 (20.34%)
      Balls Taken: 235 (79.66%)
-     Strikeouts: 40
-     Walks: 15
+     Strikeouts: 40 (0.333)%
+     Walks: 15 (0.125)%
      riley_adams saw 244 strikes and 295 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4026

@@ -5,8 +5,8 @@ VISION REPORT: francisco_lindor (2021-04-01 thru 2021-10-04)
      Strikes Taken: 304 (30.49%)
      Balls Swung At: 266 (24.20%)
      Balls Taken: 833 (75.80%)
-     Strikeouts: 96
-     Walks: 58
+     Strikeouts: 96 (0.183)%
+     Walks: 58 (0.111)%
      francisco_lindor saw 997 strikes and 1099 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4561

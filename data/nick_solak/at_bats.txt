@@ -5,8 +5,8 @@ VISION REPORT: nick_solak (2021-04-01 thru 2021-10-04)
      Strikes Taken: 359 (37.36%)
      Balls Swung At: 303 (27.72%)
      Balls Taken: 790 (72.28%)
-     Strikeouts: 107
-     Walks: 34
+     Strikeouts: 107 (0.209)%
+     Walks: 34 (0.067)%
      nick_solak saw 961 strikes and 1093 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3554

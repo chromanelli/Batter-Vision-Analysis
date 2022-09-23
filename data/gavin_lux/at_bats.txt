@@ -5,8 +5,8 @@ VISION REPORT: gavin_lux (2021-04-01 thru 2021-10-04)
      Strikes Taken: 220 (30.14%)
      Balls Swung At: 139 (19.55%)
      Balls Taken: 572 (80.45%)
-     Strikeouts: 83
-     Walks: 41
+     Strikeouts: 83 (0.218)%
+     Walks: 41 (0.108)%
      gavin_lux saw 730 strikes and 711 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5017

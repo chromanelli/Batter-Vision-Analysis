@@ -1,0 +1,18 @@
+
+VISION REPORT: randal_grichuk (2021-04-01 thru 2021-10-04)
+     Total PA: 545
+     Strikes Swung At: 696 (71.90%)
+     Strikes Taken: 272 (28.10%)
+     Balls Swung At: 306 (29.57%)
+     Balls Taken: 729 (70.43%)
+     Strikeouts: 114 (0.209)%
+     Walks: 27 (0.050)%
+     randal_grichuk saw 968 strikes and 1035 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4227
+VISION SCORE METRIC B (VSA - SO%): 0.2135
+VISION SCORE METRIC C (VSB + BB%): 0.2630
+
+Average PA Length: 3.6550 (1992/545)
+Batting Avg: 0.241
+OBP: 0.281

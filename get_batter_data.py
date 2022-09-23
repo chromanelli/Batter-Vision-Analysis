@@ -85,7 +85,9 @@ players_to_search = ["xander_bogaerts", "rafael_devers", "alex_verdugo", "trevor
 "albert_pujols", "khris_davis", "taylor_jones", "nick_senzel", "richie_martin", "riley_adams", "luke_williams", "pablo_sandoval",
 "mike_zunino", "gavin_lux", "starlin_castro", "elias_diaz", "matt_olson", "joey_votto", "josh_rojas", "nathaniel_lowe", "nick_solak",
 "ian_happ", "myles_straw", "miguel_sano", "paul_goldschmidt", "yordan_alvarez", "wil_myers", "justin_turner", "carlos_correa",
-"max_muncy", "adam_duvall", "miguel_cabrera", "ty_france", "jonathan_india", "nick_castellanos", "andrew_benintendi", "kris_bryant"]
+"max_muncy", "adam_duvall", "miguel_cabrera", "ty_france", "jonathan_india", "nick_castellanos", "andrew_benintendi", "kris_bryant",
+"david_fletcher", "manny_machado", "jorge_soler", "kyle_seager", "carlos_santana", "eugenio_suarez",
+"kevin_newman", "elvis_andrus", "austin_hays", "randal_grichuk", "hunter_dozier", "ryan_mountcastle", "tommy_edman", "bryce_harper"]
 
 s_dt = "2021-04-01"
 e_dt = "2021-10-04"

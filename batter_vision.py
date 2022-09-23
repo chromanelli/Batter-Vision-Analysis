@@ -1,6 +1,7 @@
 import pandas as pd
 import pybaseball as pyb
 from regression.get_vs_metrics import save_vs_data
+import numpy as np
 
 swings = ["swinging_strike", "foul", "hit_into_play"]
 end_events = ["strikeout", "walk", "field_error", "field_out", "single",
@@ -10,32 +11,22 @@ end_events = ["strikeout", "walk", "field_error", "field_out", "single",
 def vision_score(player_name, s_dt, e_dt, overall_data, verbose):
     batter_data = pd.read_csv("data/" + player_name + "/at_bats.csv")
     
-    strike_swing = 0
-    strike_take = 0
-    ball_swing = 0
-    ball_take = 0
-
-    total_strikes = 0
-    total_balls = 0
     total_so = overall_data["SO"].values[0]
     total_bb = overall_data["BB"].values[0]
 
     ab_length = 0
 
-    for index, row in batter_data.iterrows():
-        if row["zone"] <= 9:
-            if row["description"] in swings:
-                strike_swing += 1
-            else:
-                strike_take += 1
-            total_strikes += 1
-        else:
-            if row["description"] in swings:
-                ball_swing += 1
-            else: ball_take += 1
-            total_balls += 1
-        if row["events"] in end_events:
-            ab_length += int(row["pitch_number"])
+    in_zone = batter_data.loc[batter_data["zone"] <= 9]
+    strike_swing = len(in_zone.loc[in_zone["description"].isin(swings)])
+    strike_take = len(in_zone.loc[~in_zone["description"].isin(swings)])
+    total_strikes = strike_swing + strike_take
+
+    out_zone = batter_data.loc[batter_data["zone"] > 9]
+    ball_swing = len(out_zone.loc[out_zone["description"].isin(swings)])
+    ball_take = len(out_zone.loc[~out_zone["description"].isin(swings)])
+    total_balls = ball_swing + ball_take
+    
+    ab_length = np.sum(batter_data.loc[batter_data["events"].isin(end_events)]["pitch_number"].values)
 
     v_score_a = ((strike_swing + ball_take) - (strike_take + ball_swing)) / len(batter_data)
 
@@ -55,8 +46,8 @@ def vision_score(player_name, s_dt, e_dt, overall_data, verbose):
         f.write("     Strikes Taken: {:} ({:.2f}%)\n".format(strike_take, 100 * strike_take/total_strikes))
         f.write("     Balls Swung At: {:} ({:.2f}%)\n".format(ball_swing, 100 * ball_swing/total_balls))
         f.write("     Balls Taken: {:} ({:.2f}%)\n".format(ball_take, 100 * ball_take/total_balls))
-        f.write("     Strikeouts: {:}\n".format(total_so))
-        f.write("     Walks: {:}\n".format(total_bb))
+        f.write("     Strikeouts: {:} ({:.3f})%\n".format(total_so, so_rate))
+        f.write("     Walks: {:} ({:.3f})%\n".format(total_bb, bb_rate))
         f.write("     {:} saw {:} strikes and {:} balls\n\n".format(player_name, total_strikes, total_balls))
         f.write("VISION SCORE METRIC A (SSA+BT)/(ST+BSA): {:.4f}\n".format(v_score_a))
         f.write("VISION SCORE METRIC B (VSA - SO%): {:.4f}\n".format(v_score_b))

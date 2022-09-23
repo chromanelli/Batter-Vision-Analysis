@@ -1,0 +1,18 @@
+
+VISION REPORT: david_fletcher (2021-04-01 thru 2021-10-04)
+     Total PA: 665
+     Strikes Swung At: 722 (60.32%)
+     Strikes Taken: 475 (39.68%)
+     Balls Swung At: 290 (28.43%)
+     Balls Taken: 730 (71.57%)
+     Strikeouts: 60 (0.090)%
+     Walks: 31 (0.047)%
+     david_fletcher saw 1197 strikes and 1020 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3097
+VISION SCORE METRIC B (VSA - SO%): 0.2195
+VISION SCORE METRIC C (VSB + BB%): 0.2661
+
+Average PA Length: 3.3098 (2201/665)
+Batting Avg: 0.262
+OBP: 0.297

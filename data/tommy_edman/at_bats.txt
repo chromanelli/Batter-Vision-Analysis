@@ -1,0 +1,18 @@
+
+VISION REPORT: tommy_edman (2021-04-01 thru 2021-10-04)
+     Total PA: 691
+     Strikes Swung At: 866 (64.43%)
+     Strikes Taken: 478 (35.57%)
+     Balls Swung At: 335 (26.42%)
+     Balls Taken: 933 (73.58%)
+     Strikeouts: 95 (0.137)%
+     Walks: 38 (0.055)%
+     tommy_edman saw 1344 strikes and 1268 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3775
+VISION SCORE METRIC B (VSA - SO%): 0.2400
+VISION SCORE METRIC C (VSB + BB%): 0.2950
+
+Average PA Length: 3.7656 (2602/691)
+Batting Avg: 0.262
+OBP: 0.308

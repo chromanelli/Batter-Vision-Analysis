@@ -5,8 +5,8 @@ VISION REPORT: paul_goldschmidt (2021-04-01 thru 2021-10-04)
      Strikes Taken: 492 (36.94%)
      Balls Swung At: 337 (23.75%)
      Balls Taken: 1082 (76.25%)
-     Strikeouts: 136
-     Walks: 67
+     Strikeouts: 136 (0.200)%
+     Walks: 67 (0.099)%
      paul_goldschmidt saw 1332 strikes and 1419 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3973

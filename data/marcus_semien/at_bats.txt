@@ -5,8 +5,8 @@ VISION REPORT: marcus_semien (2021-04-01 thru 2021-10-04)
      Strikes Taken: 457 (31.74%)
      Balls Swung At: 296 (19.96%)
      Balls Taken: 1187 (80.04%)
-     Strikeouts: 146
-     Walks: 66
+     Strikeouts: 146 (0.202)%
+     Walks: 66 (0.091)%
      marcus_semien saw 1440 strikes and 1483 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4848

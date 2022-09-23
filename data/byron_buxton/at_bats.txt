@@ -5,8 +5,8 @@ VISION REPORT: byron_buxton (2021-04-01 thru 2021-10-04)
      Strikes Taken: 105 (23.49%)
      Balls Swung At: 137 (28.66%)
      Balls Taken: 341 (71.34%)
-     Strikeouts: 62
-     Walks: 13
+     Strikeouts: 62 (0.244)%
+     Walks: 13 (0.051)%
      byron_buxton saw 447 strikes and 478 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4768

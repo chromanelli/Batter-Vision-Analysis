@@ -5,8 +5,8 @@ VISION REPORT: lane_thomas (2021-04-01 thru 2021-10-04)
      Strikes Taken: 236 (41.92%)
      Balls Swung At: 106 (19.20%)
      Balls Taken: 446 (80.80%)
-     Strikeouts: 63
-     Walks: 37
+     Strikeouts: 63 (0.239)%
+     Walks: 37 (0.140)%
      lane_thomas saw 563 strikes and 552 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3865

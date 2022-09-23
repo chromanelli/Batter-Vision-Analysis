@@ -1,0 +1,18 @@
+
+VISION REPORT: austin_hays (2021-04-01 thru 2021-10-04)
+     Total PA: 529
+     Strikes Swung At: 603 (63.34%)
+     Strikes Taken: 349 (36.66%)
+     Balls Swung At: 281 (27.96%)
+     Balls Taken: 724 (72.04%)
+     Strikeouts: 107 (0.202)%
+     Walks: 28 (0.053)%
+     austin_hays saw 952 strikes and 1005 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3562
+VISION SCORE METRIC B (VSA - SO%): 0.1539
+VISION SCORE METRIC C (VSB + BB%): 0.2068
+
+Average PA Length: 3.6862 (1950/529)
+Batting Avg: 0.256
+OBP: 0.308

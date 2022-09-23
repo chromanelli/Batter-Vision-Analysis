@@ -5,8 +5,8 @@ VISION REPORT: jose_altuve (2021-04-01 thru 2021-10-04)
      Strikes Taken: 396 (34.17%)
      Balls Swung At: 382 (28.72%)
      Balls Taken: 948 (71.28%)
-     Strikeouts: 91
-     Walks: 66
+     Strikeouts: 91 (0.134)%
+     Walks: 66 (0.097)%
      jose_altuve saw 1159 strikes and 1330 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3748

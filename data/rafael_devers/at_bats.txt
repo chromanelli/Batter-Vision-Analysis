@@ -5,8 +5,8 @@ VISION REPORT: rafael_devers (2021-04-01 thru 2021-10-04)
      Strikes Taken: 282 (24.02%)
      Balls Swung At: 403 (30.35%)
      Balls Taken: 925 (69.65%)
-     Strikeouts: 143
-     Walks: 62
+     Strikeouts: 143 (0.215)%
+     Walks: 62 (0.093)%
      rafael_devers saw 1174 strikes and 1328 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4524

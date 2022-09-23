@@ -5,8 +5,8 @@ VISION REPORT: jon_berti (2021-04-01 thru 2021-10-04)
      Strikes Taken: 225 (39.40%)
      Balls Swung At: 115 (20.28%)
      Balls Taken: 452 (79.72%)
-     Strikeouts: 61
-     Walks: 32
+     Strikeouts: 61 (0.225)%
+     Walks: 32 (0.118)%
      jon_berti saw 571 strikes and 567 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4025

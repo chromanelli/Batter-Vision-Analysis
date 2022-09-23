@@ -5,8 +5,8 @@ VISION REPORT: starlin_castro (2021-04-01 thru 2021-10-04)
      Strikes Taken: 247 (37.42%)
      Balls Swung At: 167 (26.42%)
      Balls Taken: 465 (73.58%)
-     Strikeouts: 62
-     Walks: 26
+     Strikeouts: 62 (0.179)%
+     Walks: 26 (0.075)%
      starlin_castro saw 660 strikes and 632 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3591

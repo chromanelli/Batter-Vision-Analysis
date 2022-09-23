@@ -5,8 +5,8 @@ VISION REPORT: tony_kemp (2021-04-01 thru 2021-10-04)
      Strikes Taken: 297 (39.23%)
      Balls Swung At: 148 (19.63%)
      Balls Taken: 606 (80.37%)
-     Strikeouts: 51
-     Walks: 52
+     Strikeouts: 51 (0.128)%
+     Walks: 52 (0.131)%
      tony_kemp saw 757 strikes and 754 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4110

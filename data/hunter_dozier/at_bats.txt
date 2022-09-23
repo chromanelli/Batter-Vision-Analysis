@@ -1,0 +1,18 @@
+
+VISION REPORT: hunter_dozier (2021-04-01 thru 2021-10-04)
+     Total PA: 543
+     Strikes Swung At: 670 (68.72%)
+     Strikes Taken: 305 (31.28%)
+     Balls Swung At: 307 (27.88%)
+     Balls Taken: 794 (72.12%)
+     Strikeouts: 154 (0.284)%
+     Walks: 43 (0.079)%
+     hunter_dozier saw 975 strikes and 1101 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4104
+VISION SCORE METRIC B (VSA - SO%): 0.1268
+VISION SCORE METRIC C (VSB + BB%): 0.2060
+
+Average PA Length: 3.7974 (2062/543)
+Batting Avg: 0.216
+OBP: 0.286

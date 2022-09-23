@@ -1,0 +1,18 @@
+
+VISION REPORT: kyle_seager (2021-04-01 thru 2021-10-04)
+     Total PA: 670
+     Strikes Swung At: 856 (70.92%)
+     Strikes Taken: 351 (29.08%)
+     Balls Swung At: 361 (26.80%)
+     Balls Taken: 986 (73.20%)
+     Strikeouts: 161 (0.240)%
+     Walks: 59 (0.088)%
+     kyle_seager saw 1207 strikes and 1347 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4424
+VISION SCORE METRIC B (VSA - SO%): 0.2021
+VISION SCORE METRIC C (VSB + BB%): 0.2902
+
+Average PA Length: 3.7940 (2542/670)
+Batting Avg: 0.212
+OBP: 0.285

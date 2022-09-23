@@ -1,0 +1,18 @@
+
+VISION REPORT: bryce_harper (2021-04-01 thru 2021-10-04)
+     Total PA: 599
+     Strikes Swung At: 795 (73.61%)
+     Strikes Taken: 285 (26.39%)
+     Balls Swung At: 307 (23.24%)
+     Balls Taken: 1014 (76.76%)
+     Strikeouts: 134 (0.224)%
+     Walks: 100 (0.167)%
+     bryce_harper saw 1080 strikes and 1321 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5069
+VISION SCORE METRIC B (VSA - SO%): 0.2832
+VISION SCORE METRIC C (VSB + BB%): 0.4501
+
+Average PA Length: 3.9883 (2389/599)
+Batting Avg: 0.309
+OBP: 0.429

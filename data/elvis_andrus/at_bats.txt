@@ -1,0 +1,18 @@
+
+VISION REPORT: elvis_andrus (2021-04-01 thru 2021-10-04)
+     Total PA: 541
+     Strikes Swung At: 667 (65.01%)
+     Strikes Taken: 359 (34.99%)
+     Balls Swung At: 303 (29.50%)
+     Balls Taken: 724 (70.50%)
+     Strikeouts: 81 (0.150)%
+     Walks: 31 (0.057)%
+     elvis_andrus saw 1026 strikes and 1027 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3551
+VISION SCORE METRIC B (VSA - SO%): 0.2054
+VISION SCORE METRIC C (VSB + BB%): 0.2627
+
+Average PA Length: 3.7671 (2038/541)
+Batting Avg: 0.244
+OBP: 0.294

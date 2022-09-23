@@ -1,0 +1,18 @@
+
+VISION REPORT: jorge_soler (2021-04-01 thru 2021-10-04)
+     Total PA: 602
+     Strikes Swung At: 765 (68.43%)
+     Strikes Taken: 353 (31.57%)
+     Balls Swung At: 284 (21.93%)
+     Balls Taken: 1011 (78.07%)
+     Strikeouts: 142 (0.236)%
+     Walks: 67 (0.111)%
+     jorge_soler saw 1118 strikes and 1295 balls
+
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4720
+VISION SCORE METRIC B (VSA - SO%): 0.2361
+VISION SCORE METRIC C (VSB + BB%): 0.3474
+
+Average PA Length: 3.9767 (2394/602)
+Batting Avg: 0.223
+OBP: 0.317

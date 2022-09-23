@@ -5,8 +5,8 @@ VISION REPORT: hunter_renfroe (2021-04-01 thru 2021-10-04)
      Strikes Taken: 359 (34.82%)
      Balls Swung At: 343 (29.57%)
      Balls Taken: 817 (70.43%)
-     Strikeouts: 130
-     Walks: 44
+     Strikeouts: 130 (0.227)%
+     Walks: 44 (0.077)%
      hunter_renfroe saw 1031 strikes and 1160 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3592

@@ -3,15 +3,15 @@ VISION REPORT: myles_straw (2021-04-01 thru 2021-10-04)
      Total PA: 638
      Strikes Swung At: 812 (58.38%)
      Strikes Taken: 579 (41.62%)
-     Balls Swung At: 228 (18.07%)
-     Balls Taken: 1034 (81.93%)
-     Strikeouts: 121
-     Walks: 67
-     myles_straw saw 1391 strikes and 1262 balls
+     Balls Swung At: 227 (18.00%)
+     Balls Taken: 1034 (82.00%)
+     Strikeouts: 121 (0.190)%
+     Walks: 67 (0.105)%
+     myles_straw saw 1391 strikes and 1261 balls
 
-VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3916
-VISION SCORE METRIC B (VSA - SO%): 0.2020
-VISION SCORE METRIC C (VSB + BB%): 0.3070
+VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3920
+VISION SCORE METRIC B (VSA - SO%): 0.2024
+VISION SCORE METRIC C (VSB + BB%): 0.3074
 
 Average PA Length: 4.1489 (2647/638)
 Batting Avg: 0.271

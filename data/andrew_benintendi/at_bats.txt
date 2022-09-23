@@ -5,8 +5,8 @@ VISION REPORT: andrew_benintendi (2021-04-01 thru 2021-10-04)
      Strikes Taken: 299 (28.61%)
      Balls Swung At: 280 (28.00%)
      Balls Taken: 720 (72.00%)
-     Strikeouts: 97
-     Walks: 36
+     Strikeouts: 97 (0.180)%
+     Walks: 36 (0.067)%
      andrew_benintendi saw 1045 strikes and 1000 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4337

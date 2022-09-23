@@ -5,8 +5,8 @@ VISION REPORT: jonathan_schoop (2021-04-01 thru 2021-10-04)
      Strikes Taken: 377 (30.18%)
      Balls Swung At: 442 (33.01%)
      Balls Taken: 897 (66.99%)
-     Strikeouts: 133
-     Walks: 37
+     Strikeouts: 133 (0.197)%
+     Walks: 37 (0.055)%
      jonathan_schoop saw 1249 strikes and 1339 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3671

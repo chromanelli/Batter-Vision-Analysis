@@ -5,8 +5,8 @@ VISION REPORT: trevor_story (2021-04-01 thru 2021-10-04)
      Strikes Taken: 320 (28.17%)
      Balls Swung At: 361 (28.52%)
      Balls Taken: 905 (71.48%)
-     Strikeouts: 139
-     Walks: 53
+     Strikeouts: 139 (0.234)%
+     Walks: 53 (0.089)%
      trevor_story saw 1136 strikes and 1266 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4330

@@ -5,8 +5,8 @@ VISION REPORT: xander_bogaerts (2021-04-01 thru 2021-10-04)
      Strikes Taken: 449 (38.34%)
      Balls Swung At: 394 (29.54%)
      Balls Taken: 940 (70.46%)
-     Strikeouts: 113
-     Walks: 62
+     Strikeouts: 113 (0.187)%
+     Walks: 62 (0.103)%
      xander_bogaerts saw 1171 strikes and 1334 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3269
