@@ -1,5 +1,6 @@
 import pandas as pd
 import pybaseball as pyb
+from regression.get_vs_metrics import save_vs_data
 
 swings = ["swinging_strike", "foul", "hit_into_play"]
 end_events = ["strikeout", "walk", "field_error", "field_out", "single",
@@ -82,4 +83,6 @@ def vision_score(player_name, s_dt, e_dt, overall_data, verbose):
         print("Batting Avg: {:.3f}".format(overall_data["BA"].values[0]))
         print("OBP: {:.3f}\n".format(overall_data["OBP"].values[0]))
     
+    # save_vs_data([player_name], [strike_swing], [strike_take], [ball_swing], [ball_take], overall_data["BA"], overall_data["OBP"])
+
     return v_score_a, v_score_b, v_score_c, apal/total_pa
