@@ -15,3 +15,4 @@ VISION SCORE METRIC C (VSB + BB%): 0.2768
 
 Average PA Length: 3.7797 (2608/690)
 Batting Avg: 0.298
+OBP: 0.344

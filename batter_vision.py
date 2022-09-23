@@ -35,8 +35,6 @@ def vision_score(player_name, s_dt, e_dt, overall_data, verbose):
             total_balls += 1
         if row["events"] in end_events:
             ab_length += int(row["pitch_number"])
-            # if row["events"] == "strikeout": total_so += 1
-            # if row["events"] == "walk": total_bb += 1
 
     v_score_a = ((strike_swing + ball_take) - (strike_take + ball_swing)) / len(batter_data)
 
@@ -64,6 +62,7 @@ def vision_score(player_name, s_dt, e_dt, overall_data, verbose):
         f.write("VISION SCORE METRIC C (VSB + BB%): {:.4f}\n\n".format(v_score_c))
         f.write("Average PA Length: {:.4f} ({:}/{:})\n".format(apal/total_pa, apal, total_pa))
         f.write("Batting Avg: {:.3f}\n".format(overall_data["BA"].values[0]))
+        f.write("OBP: {:.3f}\n".format(overall_data["OBP"].values[0]))
     f.close()
 
     if verbose == True:
@@ -80,6 +79,7 @@ def vision_score(player_name, s_dt, e_dt, overall_data, verbose):
         print("VISION SCORE METRIC B (VSA - SO%): {:.4f}".format(v_score_b))
         print("VISION SCORE METRIC C (VSB + BB%): {:.4f}\n".format(v_score_c))
         print("Average PA Length: {:.4f} ({:}/{:})".format(apal/total_pa, apal, total_pa))
-        print("Batting Avg: {:.3f}\n".format(overall_data["BA"].values[0]))
+        print("Batting Avg: {:.3f}".format(overall_data["BA"].values[0]))
+        print("OBP: {:.3f}\n".format(overall_data["OBP"].values[0]))
     
     return v_score_a, v_score_b, v_score_c, apal/total_pa

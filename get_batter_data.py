@@ -11,6 +11,7 @@ all_vsc = []
 all_apal = []
 all_pa = []
 all_ba = []
+all_obp = []
 all_bb = []
 all_so = []
 
@@ -43,6 +44,7 @@ def get_data(player_name, s_dt, e_dt):
     all_apal.append(apal)
     all_pa.append(overall_data["PA"].values[0])
     all_ba.append(overall_data["BA"].values[0])
+    all_obp.append(overall_data["OBP"].values[0])
     all_bb.append(overall_data["BB"].values[0])
     all_so.append(overall_data["SO"].values[0])
 
@@ -60,6 +62,7 @@ def use_existing(s_dt, e_dt, overall_data):
     all_apal.append(apal)
     all_pa.append(overall_data["PA"].values[0])
     all_ba.append(overall_data["BA"].values[0])
+    all_obp.append(overall_data["OBP"].values[0])
     all_bb.append(overall_data["BB"].values[0])
     all_so.append(overall_data["SO"].values[0])
     return
@@ -96,7 +99,7 @@ for p_name in players_to_search:
     # get_data(player_name, s_dt, e_dt)
 
 data = {"name": players_to_search, "vsa": all_vsa, "vsb": all_vsb, "vsc": all_vsc, 
-"apal": all_apal, "pa": all_pa, "ba": all_ba, "bb": all_bb, "so": all_so}
+"apal": all_apal, "pa": all_pa, "ba": all_ba, "obp": all_obp, "bb": all_bb, "so": all_so}
 
 vision_data = pd.DataFrame(data)
 vision_data.to_csv("data/overall.csv")
