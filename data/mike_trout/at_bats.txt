@@ -1,14 +1,17 @@
 
 VISION REPORT: mike_trout (2021-04-01 thru 2021-10-04)
+     Total PA: 146
      Strikes Swung At: 183 (60.40%)
      Strikes Taken: 120 (39.60%)
      Balls Swung At: 45 (14.66%)
      Balls Taken: 262 (85.34%)
      Strikeouts: 41
-     Walks: 22
+     Walks: 27
      mike_trout saw 303 strikes and 307 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4590
 VISION SCORE METRIC B (VSA - SO%): 0.1782
+VISION SCORE METRIC C (VSB + BB%): 0.3631
+
 Average PA Length: 4.1507 (606/146)
 Batting Avg: 0.333

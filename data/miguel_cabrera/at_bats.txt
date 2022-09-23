@@ -1,14 +1,17 @@
 
 VISION REPORT: miguel_cabrera (2021-04-01 thru 2021-10-04)
+     Total PA: 526
      Strikes Swung At: 677 (67.56%)
      Strikes Taken: 325 (32.44%)
      Balls Swung At: 294 (28.46%)
      Balls Taken: 739 (71.54%)
-     Strikeouts: 117
+     Strikeouts: 118
      Walks: 40
      miguel_cabrera saw 1002 strikes and 1033 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3916
 VISION SCORE METRIC B (VSA - SO%): 0.1673
+VISION SCORE METRIC C (VSB + BB%): 0.2434
+
 Average PA Length: 3.8479 (2024/526)
 Batting Avg: 0.256

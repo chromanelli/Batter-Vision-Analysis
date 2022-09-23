@@ -1,5 +1,6 @@
 
 VISION REPORT: bo_bichette (2021-04-01 thru 2021-10-04)
+     Total PA: 690
      Strikes Swung At: 964 (77.74%)
      Strikes Taken: 276 (22.26%)
      Balls Swung At: 484 (35.35%)
@@ -10,5 +11,7 @@ VISION REPORT: bo_bichette (2021-04-01 thru 2021-10-04)
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4174
 VISION SCORE METRIC B (VSA - SO%): 0.2189
+VISION SCORE METRIC C (VSB + BB%): 0.2768
+
 Average PA Length: 3.7797 (2608/690)
 Batting Avg: 0.298

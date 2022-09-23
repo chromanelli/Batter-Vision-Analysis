@@ -1,14 +1,17 @@
 
 VISION REPORT: eric_hosmer (2021-04-01 thru 2021-10-04)
+     Total PA: 565
      Strikes Swung At: 680 (65.83%)
      Strikes Taken: 353 (34.17%)
      Balls Swung At: 353 (30.25%)
      Balls Taken: 814 (69.75%)
      Strikeouts: 99
-     Walks: 46
+     Walks: 48
      eric_hosmer saw 1033 strikes and 1167 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3582
 VISION SCORE METRIC B (VSA - SO%): 0.1830
+VISION SCORE METRIC C (VSB + BB%): 0.2679
+
 Average PA Length: 3.8743 (2189/565)
 Batting Avg: 0.269

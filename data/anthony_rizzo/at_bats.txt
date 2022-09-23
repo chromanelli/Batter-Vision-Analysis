@@ -1,14 +1,17 @@
 
 VISION REPORT: anthony_rizzo (2021-04-01 thru 2021-10-04)
+     Total PA: 576
      Strikes Swung At: 688 (63.00%)
      Strikes Taken: 404 (37.00%)
      Balls Swung At: 302 (26.54%)
      Balls Taken: 836 (73.46%)
-     Strikeouts: 85
-     Walks: 50
+     Strikeouts: 87
+     Walks: 52
      anthony_rizzo saw 1092 strikes and 1138 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3668
 VISION SCORE METRIC B (VSA - SO%): 0.2158
+VISION SCORE METRIC C (VSB + BB%): 0.3061
+
 Average PA Length: 3.8351 (2209/576)
 Batting Avg: 0.248

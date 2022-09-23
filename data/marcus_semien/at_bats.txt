@@ -1,5 +1,6 @@
 
 VISION REPORT: marcus_semien (2021-04-01 thru 2021-10-04)
+     Total PA: 724
      Strikes Swung At: 983 (68.26%)
      Strikes Taken: 457 (31.74%)
      Balls Swung At: 296 (19.96%)
@@ -10,5 +11,7 @@ VISION REPORT: marcus_semien (2021-04-01 thru 2021-10-04)
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4848
 VISION SCORE METRIC B (VSA - SO%): 0.2831
+VISION SCORE METRIC C (VSB + BB%): 0.3743
+
 Average PA Length: 4.0166 (2908/724)
 Batting Avg: 0.265

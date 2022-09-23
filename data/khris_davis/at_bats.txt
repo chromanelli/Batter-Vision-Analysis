@@ -1,5 +1,6 @@
 
 VISION REPORT: khris_davis (2021-04-01 thru 2021-10-04)
+     Total PA: 114
      Strikes Swung At: 181 (76.69%)
      Strikes Taken: 55 (23.31%)
      Balls Swung At: 43 (20.00%)
@@ -10,5 +11,7 @@ VISION REPORT: khris_davis (2021-04-01 thru 2021-10-04)
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5654
 VISION SCORE METRIC B (VSA - SO%): 0.2935
+VISION SCORE METRIC C (VSB + BB%): 0.3812
+
 Average PA Length: 3.9561 (451/114)
 Batting Avg: 0.206

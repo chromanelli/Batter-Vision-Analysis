@@ -1,14 +1,17 @@
 
 VISION REPORT: aaron_judge (2021-04-01 thru 2021-10-04)
+     Total PA: 633
      Strikes Swung At: 753 (64.25%)
      Strikes Taken: 419 (35.75%)
      Balls Swung At: 339 (22.87%)
      Balls Taken: 1143 (77.13%)
      Strikeouts: 158
-     Walks: 73
+     Walks: 75
      aaron_judge saw 1172 strikes and 1482 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4288
 VISION SCORE METRIC B (VSA - SO%): 0.1792
+VISION SCORE METRIC C (VSB + BB%): 0.2977
+
 Average PA Length: 4.1896 (2652/633)
 Batting Avg: 0.287

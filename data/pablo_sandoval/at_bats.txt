@@ -1,5 +1,6 @@
 
 VISION REPORT: pablo_sandoval (2021-04-01 thru 2021-10-04)
+     Total PA: 86
      Strikes Swung At: 113 (68.90%)
      Strikes Taken: 51 (31.10%)
      Balls Swung At: 61 (28.37%)
@@ -10,5 +11,7 @@ VISION REPORT: pablo_sandoval (2021-04-01 thru 2021-10-04)
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4090
 VISION SCORE METRIC B (VSA - SO%): 0.1183
+VISION SCORE METRIC C (VSB + BB%): 0.2462
+
 Average PA Length: 4.4070 (379/86)
 Batting Avg: 0.178

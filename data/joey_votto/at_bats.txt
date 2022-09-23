@@ -1,14 +1,17 @@
 
 VISION REPORT: joey_votto (2021-04-01 thru 2021-10-04)
+     Total PA: 533
      Strikes Swung At: 706 (66.10%)
      Strikes Taken: 362 (33.90%)
      Balls Swung At: 235 (20.19%)
      Balls Taken: 929 (79.81%)
      Strikeouts: 127
-     Walks: 71
+     Walks: 77
      joey_votto saw 1068 strikes and 1164 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4651
 VISION SCORE METRIC B (VSA - SO%): 0.2268
+VISION SCORE METRIC C (VSB + BB%): 0.3712
+
 Average PA Length: 4.1820 (2229/533)
 Batting Avg: 0.266

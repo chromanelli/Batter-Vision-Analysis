@@ -1,14 +1,17 @@
 
 VISION REPORT: carlos_correa (2021-04-01 thru 2021-10-04)
+     Total PA: 640
      Strikes Swung At: 762 (61.50%)
      Strikes Taken: 477 (38.50%)
      Balls Swung At: 313 (22.83%)
      Balls Taken: 1058 (77.17%)
      Strikeouts: 116
-     Walks: 73
+     Walks: 75
      carlos_correa saw 1239 strikes and 1371 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3946
 VISION SCORE METRIC B (VSA - SO%): 0.2134
+VISION SCORE METRIC C (VSB + BB%): 0.3306
+
 Average PA Length: 4.0547 (2595/640)
 Batting Avg: 0.279

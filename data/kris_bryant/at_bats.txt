@@ -1,14 +1,17 @@
 
 VISION REPORT: kris_bryant (2021-04-01 thru 2021-10-04)
+     Total PA: 586
      Strikes Swung At: 759 (72.35%)
      Strikes Taken: 290 (27.65%)
      Balls Swung At: 298 (25.19%)
      Balls Taken: 885 (74.81%)
-     Strikeouts: 133
-     Walks: 58
+     Strikeouts: 135
+     Walks: 62
      kris_bryant saw 1049 strikes and 1183 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4731
 VISION SCORE METRIC B (VSA - SO%): 0.2427
+VISION SCORE METRIC C (VSB + BB%): 0.3485
+
 Average PA Length: 3.7850 (2218/586)
 Batting Avg: 0.265

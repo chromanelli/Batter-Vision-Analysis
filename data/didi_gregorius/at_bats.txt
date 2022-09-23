@@ -1,14 +1,17 @@
 
 VISION REPORT: didi_gregorius (2021-04-01 thru 2021-10-04)
+     Total PA: 408
      Strikes Swung At: 587 (75.84%)
      Strikes Taken: 187 (24.16%)
      Balls Swung At: 242 (30.02%)
      Balls Taken: 564 (69.98%)
      Strikeouts: 67
-     Walks: 24
+     Walks: 25
      didi_gregorius saw 774 strikes and 806 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4570
 VISION SCORE METRIC B (VSA - SO%): 0.2927
+VISION SCORE METRIC C (VSB + BB%): 0.3540
+
 Average PA Length: 3.8676 (1578/408)
 Batting Avg: 0.209

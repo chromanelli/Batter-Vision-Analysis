@@ -1,14 +1,17 @@
 
 VISION REPORT: nathaniel_lowe (2021-04-01 thru 2021-10-04)
+     Total PA: 642
      Strikes Swung At: 871 (64.47%)
      Strikes Taken: 480 (35.53%)
      Balls Swung At: 290 (21.64%)
      Balls Taken: 1050 (78.36%)
-     Strikeouts: 159
-     Walks: 78
+     Strikeouts: 162
+     Walks: 80
      nathaniel_lowe saw 1351 strikes and 1340 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4277
 VISION SCORE METRIC B (VSA - SO%): 0.1754
+VISION SCORE METRIC C (VSB + BB%): 0.3000
+
 Average PA Length: 4.1386 (2657/642)
 Batting Avg: 0.264

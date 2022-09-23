@@ -3,12 +3,13 @@ import matplotlib.pyplot as plt
 
 def analysis():
     data = pd.read_csv("data/overall.csv")
-    low = data.loc[(data["ba"] < 0.243) | (data["vsb"] < 0.125)]
-    print(low)
+    # high = data.loc[(data["ba"] > 0.300) | (data["vsc"] > 0.450)]
+    # print(high)
     
     ba_y = data["ba"].values
     vsa_x = data["vsa"].values
     vsb_x = data["vsb"].values
+    vsc_x = data["vsc"].values
     apal_x = data["apal"].values
 
     plt.scatter(vsa_x, ba_y)
@@ -23,6 +24,13 @@ def analysis():
     plt.ylabel("Batting Average")
     plt.xlabel("VSB")
     plt.savefig("graphs/vsb_analysis.jpeg")
+    plt.close()
+
+    plt.scatter(vsc_x, ba_y)
+    plt.title("Vision Score Version C")
+    plt.ylabel("Batting Average")
+    plt.xlabel("VSC")
+    plt.savefig("graphs/vsc_analysis.jpeg")
     plt.close()
 
     plt.scatter(apal_x, ba_y)
@@ -66,5 +74,3 @@ def analysis():
     plt.close()
     
     return
-
-analysis()

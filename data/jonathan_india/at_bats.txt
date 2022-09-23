@@ -1,14 +1,17 @@
 
 VISION REPORT: jonathan_india (2021-04-01 thru 2021-10-04)
+     Total PA: 631
      Strikes Swung At: 720 (55.77%)
      Strikes Taken: 571 (44.23%)
      Balls Swung At: 271 (20.04%)
      Balls Taken: 1081 (79.96%)
-     Strikeouts: 140
-     Walks: 70
+     Strikeouts: 141
+     Walks: 71
      jonathan_india saw 1291 strikes and 1352 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3628
 VISION SCORE METRIC B (VSA - SO%): 0.1394
+VISION SCORE METRIC C (VSB + BB%): 0.2519
+
 Average PA Length: 4.1474 (2617/631)
 Batting Avg: 0.269

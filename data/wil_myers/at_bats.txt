@@ -1,14 +1,17 @@
 
 VISION REPORT: wil_myers (2021-04-01 thru 2021-10-04)
+     Total PA: 500
      Strikes Swung At: 630 (64.09%)
      Strikes Taken: 353 (35.91%)
      Balls Swung At: 267 (26.00%)
      Balls Taken: 760 (74.00%)
-     Strikeouts: 140
-     Walks: 52
+     Strikeouts: 141
+     Walks: 54
      wil_myers saw 983 strikes and 1027 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3831
 VISION SCORE METRIC B (VSA - SO%): 0.1011
+VISION SCORE METRIC C (VSB + BB%): 0.2091
+
 Average PA Length: 3.9860 (1993/500)
 Batting Avg: 0.256
