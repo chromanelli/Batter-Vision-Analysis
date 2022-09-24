@@ -1,32 +1,26 @@
 import pandas as pd
 import numpy as np
 from sklearn import linear_model
+from sklearn.metrics import r2_score
 import matplotlib.pyplot as plt
 
 data = pd.read_csv("regression/vs_metrics.csv")
-print(data)
 
-X = data[["sw", "st", "bs", "bt"]].values
+X = data[["sw", "st", "bs", "bt", "ba"]].values
 y = data["obp"].values
 
 regr = linear_model.LinearRegression()
 regr.fit(X, y)
 
-predicted_obp = regr.predict([[890, 280, 400, 930]])
-print(predicted_obp)
 print(regr.coef_)
 print(regr.intercept_)
+preds = regr.predict(X)
+print(r2_score(y, preds))
 
-all_vs = []
-all_obp = []
-
-for i in data.values:
-    vs = i[5]
-    for j in range(1, 5):
-        vs += (regr.coef_[j-1] * i[j])
-    print("{:}: {:.3f} {:.3f}".format(i[0], vs, i[6]))
-    all_vs.append(vs)
-    all_obp.append(i[6])
-
-plt.scatter(all_vs, all_obp)
-plt.savefig("regression/test.jpeg")
+plt.scatter(preds, y)
+# plt.plot(y, preds, color="red")
+plt.xlabel("Regression Vision Score")
+plt.ylabel("OBP")
+plt.title("Regression Score vs OBP")
+plt.savefig("regression/regression_results.jpeg")
+plt.close()
