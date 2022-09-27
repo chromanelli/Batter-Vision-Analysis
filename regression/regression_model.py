@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 data = pd.read_csv("regression/vs_metrics.csv")
 
-X = data[["sw", "st", "bs", "bt", "ba"]].values
+X = data[["sw", "st", "bs", "bt"]].values
 y = data["obp"].values
 
 regr = linear_model.LinearRegression()
