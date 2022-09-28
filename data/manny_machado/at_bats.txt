@@ -5,8 +5,8 @@ VISION REPORT: manny_machado (2021-04-01 thru 2021-10-04)
      Strikes Taken: 327 (31.47%)
      Balls Swung At: 335 (27.94%)
      Balls Taken: 864 (72.06%)
-     Strikeouts: 102 (0.159)%
-     Walks: 63 (0.098)%
+     Strikeouts: 102 (15.94%)
+     Walks: 63 (9.84%)
      manny_machado saw 1039 strikes and 1199 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4084

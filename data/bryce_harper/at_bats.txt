@@ -5,8 +5,8 @@ VISION REPORT: bryce_harper (2021-04-01 thru 2021-10-04)
      Strikes Taken: 285 (26.39%)
      Balls Swung At: 307 (23.24%)
      Balls Taken: 1014 (76.76%)
-     Strikeouts: 134 (0.224)%
-     Walks: 100 (0.167)%
+     Strikeouts: 134 (22.37%)
+     Walks: 100 (16.69%)
      bryce_harper saw 1080 strikes and 1321 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5069

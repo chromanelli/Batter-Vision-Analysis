@@ -5,8 +5,8 @@ VISION REPORT: carlos_correa (2021-04-01 thru 2021-10-04)
      Strikes Taken: 477 (38.50%)
      Balls Swung At: 313 (22.83%)
      Balls Taken: 1058 (77.17%)
-     Strikeouts: 116 (0.181)%
-     Walks: 75 (0.117)%
+     Strikeouts: 116 (18.12%)
+     Walks: 75 (11.72%)
      carlos_correa saw 1239 strikes and 1371 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3946

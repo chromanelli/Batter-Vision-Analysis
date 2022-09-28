@@ -5,8 +5,8 @@ VISION REPORT: myles_straw (2021-04-01 thru 2021-10-04)
      Strikes Taken: 579 (41.62%)
      Balls Swung At: 227 (18.00%)
      Balls Taken: 1034 (82.00%)
-     Strikeouts: 121 (0.190)%
-     Walks: 67 (0.105)%
+     Strikeouts: 121 (18.97%)
+     Walks: 67 (10.50%)
      myles_straw saw 1391 strikes and 1261 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3920

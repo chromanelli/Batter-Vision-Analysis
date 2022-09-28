@@ -5,8 +5,8 @@ VISION REPORT: kyle_seager (2021-04-01 thru 2021-10-04)
      Strikes Taken: 351 (29.08%)
      Balls Swung At: 361 (26.80%)
      Balls Taken: 986 (73.20%)
-     Strikeouts: 161 (0.240)%
-     Walks: 59 (0.088)%
+     Strikeouts: 161 (24.03%)
+     Walks: 59 (8.81%)
      kyle_seager saw 1207 strikes and 1347 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4424

@@ -5,8 +5,8 @@ VISION REPORT: bo_bichette (2021-04-01 thru 2021-10-04)
      Strikes Taken: 276 (22.26%)
      Balls Swung At: 484 (35.35%)
      Balls Taken: 885 (64.65%)
-     Strikeouts: 137 (0.199)%
-     Walks: 40 (0.058)%
+     Strikeouts: 137 (19.86%)
+     Walks: 40 (5.80%)
      bo_bichette saw 1240 strikes and 1369 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4174

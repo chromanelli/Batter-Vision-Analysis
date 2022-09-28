@@ -5,8 +5,8 @@ VISION REPORT: matt_olson (2021-04-01 thru 2021-10-04)
      Strikes Taken: 393 (29.39%)
      Balls Swung At: 330 (22.96%)
      Balls Taken: 1107 (77.04%)
-     Strikeouts: 113 (0.168)%
-     Walks: 88 (0.131)%
+     Strikeouts: 113 (16.79%)
+     Walks: 88 (13.08%)
      matt_olson saw 1337 strikes and 1437 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4787

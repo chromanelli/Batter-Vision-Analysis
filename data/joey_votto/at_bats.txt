@@ -5,8 +5,8 @@ VISION REPORT: joey_votto (2021-04-01 thru 2021-10-04)
      Strikes Taken: 362 (33.90%)
      Balls Swung At: 235 (20.19%)
      Balls Taken: 929 (79.81%)
-     Strikeouts: 127 (0.238)%
-     Walks: 77 (0.144)%
+     Strikeouts: 127 (23.83%)
+     Walks: 77 (14.45%)
      joey_votto saw 1068 strikes and 1164 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4651

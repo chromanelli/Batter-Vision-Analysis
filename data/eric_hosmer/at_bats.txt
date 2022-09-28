@@ -5,8 +5,8 @@ VISION REPORT: eric_hosmer (2021-04-01 thru 2021-10-04)
      Strikes Taken: 353 (34.17%)
      Balls Swung At: 353 (30.25%)
      Balls Taken: 814 (69.75%)
-     Strikeouts: 99 (0.175)%
-     Walks: 48 (0.085)%
+     Strikeouts: 99 (17.52%)
+     Walks: 48 (8.50%)
      eric_hosmer saw 1033 strikes and 1167 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3582

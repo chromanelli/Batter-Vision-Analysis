@@ -5,8 +5,8 @@ VISION REPORT: tommy_edman (2021-04-01 thru 2021-10-04)
      Strikes Taken: 478 (35.57%)
      Balls Swung At: 335 (26.42%)
      Balls Taken: 933 (73.58%)
-     Strikeouts: 95 (0.137)%
-     Walks: 38 (0.055)%
+     Strikeouts: 95 (13.75%)
+     Walks: 38 (5.50%)
      tommy_edman saw 1344 strikes and 1268 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3775

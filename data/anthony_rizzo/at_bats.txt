@@ -5,8 +5,8 @@ VISION REPORT: anthony_rizzo (2021-04-01 thru 2021-10-04)
      Strikes Taken: 404 (37.00%)
      Balls Swung At: 302 (26.54%)
      Balls Taken: 836 (73.46%)
-     Strikeouts: 87 (0.151)%
-     Walks: 52 (0.090)%
+     Strikeouts: 87 (15.10%)
+     Walks: 52 (9.03%)
      anthony_rizzo saw 1092 strikes and 1138 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3668

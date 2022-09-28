@@ -5,8 +5,8 @@ VISION REPORT: wil_myers (2021-04-01 thru 2021-10-04)
      Strikes Taken: 353 (35.91%)
      Balls Swung At: 267 (26.00%)
      Balls Taken: 760 (74.00%)
-     Strikeouts: 141 (0.282)%
-     Walks: 54 (0.108)%
+     Strikeouts: 141 (28.20%)
+     Walks: 54 (10.80%)
      wil_myers saw 983 strikes and 1027 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3831

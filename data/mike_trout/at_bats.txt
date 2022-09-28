@@ -5,8 +5,8 @@ VISION REPORT: mike_trout (2021-04-01 thru 2021-10-04)
      Strikes Taken: 120 (39.60%)
      Balls Swung At: 45 (14.66%)
      Balls Taken: 262 (85.34%)
-     Strikeouts: 41 (0.281)%
-     Walks: 27 (0.185)%
+     Strikeouts: 41 (28.08%)
+     Walks: 27 (18.49%)
      mike_trout saw 303 strikes and 307 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4590

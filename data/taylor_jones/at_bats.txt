@@ -5,8 +5,8 @@ VISION REPORT: taylor_jones (2021-04-01 thru 2021-10-04)
      Strikes Taken: 65 (30.66%)
      Balls Swung At: 65 (30.66%)
      Balls Taken: 147 (69.34%)
-     Strikeouts: 29 (0.269)%
-     Walks: 4 (0.037)%
+     Strikeouts: 29 (26.85%)
+     Walks: 4 (3.70%)
      taylor_jones saw 212 strikes and 212 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3868

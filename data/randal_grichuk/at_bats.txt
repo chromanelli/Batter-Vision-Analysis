@@ -5,8 +5,8 @@ VISION REPORT: randal_grichuk (2021-04-01 thru 2021-10-04)
      Strikes Taken: 272 (28.10%)
      Balls Swung At: 306 (29.57%)
      Balls Taken: 729 (70.43%)
-     Strikeouts: 114 (0.209)%
-     Walks: 27 (0.050)%
+     Strikeouts: 114 (20.92%)
+     Walks: 27 (4.95%)
      randal_grichuk saw 968 strikes and 1035 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4227

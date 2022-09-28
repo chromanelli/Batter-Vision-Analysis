@@ -5,8 +5,8 @@ VISION REPORT: cedric_mullins (2021-04-01 thru 2021-10-04)
      Strikes Taken: 498 (38.46%)
      Balls Swung At: 320 (24.75%)
      Balls Taken: 973 (75.25%)
-     Strikeouts: 125 (0.185)%
-     Walks: 59 (0.087)%
+     Strikeouts: 125 (18.52%)
+     Walks: 59 (8.74%)
      cedric_mullins saw 1295 strikes and 1293 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3679

@@ -5,8 +5,8 @@ VISION REPORT: jorge_soler (2021-04-01 thru 2021-10-04)
      Strikes Taken: 353 (31.57%)
      Balls Swung At: 284 (21.93%)
      Balls Taken: 1011 (78.07%)
-     Strikeouts: 142 (0.236)%
-     Walks: 67 (0.111)%
+     Strikeouts: 142 (23.59%)
+     Walks: 67 (11.13%)
      jorge_soler saw 1118 strikes and 1295 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4720

@@ -5,8 +5,8 @@ VISION REPORT: kris_bryant (2021-04-01 thru 2021-10-04)
      Strikes Taken: 290 (27.65%)
      Balls Swung At: 298 (25.19%)
      Balls Taken: 885 (74.81%)
-     Strikeouts: 135 (0.230)%
-     Walks: 62 (0.106)%
+     Strikeouts: 135 (23.04%)
+     Walks: 62 (10.58%)
      kris_bryant saw 1049 strikes and 1183 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4731

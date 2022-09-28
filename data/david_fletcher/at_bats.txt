@@ -5,8 +5,8 @@ VISION REPORT: david_fletcher (2021-04-01 thru 2021-10-04)
      Strikes Taken: 475 (39.68%)
      Balls Swung At: 290 (28.43%)
      Balls Taken: 730 (71.57%)
-     Strikeouts: 60 (0.090)%
-     Walks: 31 (0.047)%
+     Strikeouts: 60 (9.02%)
+     Walks: 31 (4.66%)
      david_fletcher saw 1197 strikes and 1020 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3097

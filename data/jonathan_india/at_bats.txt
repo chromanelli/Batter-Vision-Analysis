@@ -5,8 +5,8 @@ VISION REPORT: jonathan_india (2021-04-01 thru 2021-10-04)
      Strikes Taken: 571 (44.23%)
      Balls Swung At: 271 (20.04%)
      Balls Taken: 1081 (79.96%)
-     Strikeouts: 141 (0.223)%
-     Walks: 71 (0.113)%
+     Strikeouts: 141 (22.35%)
+     Walks: 71 (11.25%)
      jonathan_india saw 1291 strikes and 1352 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3628

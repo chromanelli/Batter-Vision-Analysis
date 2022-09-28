@@ -5,8 +5,8 @@ VISION REPORT: khris_davis (2021-04-01 thru 2021-10-04)
      Strikes Taken: 55 (23.31%)
      Balls Swung At: 43 (20.00%)
      Balls Taken: 172 (80.00%)
-     Strikeouts: 31 (0.272)%
-     Walks: 10 (0.088)%
+     Strikeouts: 31 (27.19%)
+     Walks: 10 (8.77%)
      khris_davis saw 236 strikes and 215 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5654

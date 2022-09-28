@@ -5,8 +5,8 @@ VISION REPORT: giancarlo_stanton (2021-04-01 thru 2021-10-04)
      Strikes Taken: 421 (38.45%)
      Balls Swung At: 343 (26.24%)
      Balls Taken: 964 (73.76%)
-     Strikeouts: 157 (0.271)%
-     Walks: 63 (0.109)%
+     Strikeouts: 157 (27.12%)
+     Walks: 63 (10.88%)
      giancarlo_stanton saw 1095 strikes and 1307 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3603

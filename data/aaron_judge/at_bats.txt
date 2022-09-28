@@ -5,8 +5,8 @@ VISION REPORT: aaron_judge (2021-04-01 thru 2021-10-04)
      Strikes Taken: 419 (35.75%)
      Balls Swung At: 331 (22.66%)
      Balls Taken: 1130 (77.34%)
-     Strikeouts: 158 (0.250)%
-     Walks: 75 (0.118)%
+     Strikeouts: 158 (24.96%)
+     Walks: 75 (11.85%)
      aaron_judge saw 1172 strikes and 1461 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4269

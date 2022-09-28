@@ -5,8 +5,8 @@ VISION REPORT: adam_duvall (2021-04-01 thru 2021-10-04)
      Strikes Taken: 362 (34.48%)
      Balls Swung At: 342 (30.87%)
      Balls Taken: 766 (69.13%)
-     Strikeouts: 174 (0.314)%
-     Walks: 35 (0.063)%
+     Strikeouts: 174 (31.35%)
+     Walks: 35 (6.31%)
      adam_duvall saw 1050 strikes and 1108 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3475

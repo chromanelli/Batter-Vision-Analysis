@@ -5,8 +5,8 @@ VISION REPORT: didi_gregorius (2021-04-01 thru 2021-10-04)
      Strikes Taken: 187 (24.16%)
      Balls Swung At: 242 (30.02%)
      Balls Taken: 564 (69.98%)
-     Strikeouts: 67 (0.164)%
-     Walks: 25 (0.061)%
+     Strikeouts: 67 (16.42%)
+     Walks: 25 (6.13%)
      didi_gregorius saw 774 strikes and 806 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4570

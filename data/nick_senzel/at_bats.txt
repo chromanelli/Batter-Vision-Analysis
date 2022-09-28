@@ -5,8 +5,8 @@ VISION REPORT: nick_senzel (2021-04-01 thru 2021-10-04)
      Strikes Taken: 44 (22.34%)
      Balls Swung At: 59 (26.82%)
      Balls Taken: 161 (73.18%)
-     Strikeouts: 16 (0.129)%
-     Walks: 12 (0.097)%
+     Strikeouts: 16 (12.90%)
+     Walks: 12 (9.68%)
      nick_senzel saw 197 strikes and 220 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.5060

@@ -5,8 +5,8 @@ VISION REPORT: pablo_sandoval (2021-04-01 thru 2021-10-04)
      Strikes Taken: 51 (31.10%)
      Balls Swung At: 61 (28.37%)
      Balls Taken: 154 (71.63%)
-     Strikeouts: 25 (0.291)%
-     Walks: 11 (0.128)%
+     Strikeouts: 25 (29.07%)
+     Walks: 11 (12.79%)
      pablo_sandoval saw 164 strikes and 215 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4090

@@ -5,8 +5,8 @@ VISION REPORT: ty_france (2021-04-01 thru 2021-10-04)
      Strikes Taken: 338 (29.24%)
      Balls Swung At: 346 (27.95%)
      Balls Taken: 892 (72.05%)
-     Strikeouts: 106 (0.163)%
-     Walks: 46 (0.071)%
+     Strikeouts: 106 (16.31%)
+     Walks: 46 (7.08%)
      ty_france saw 1156 strikes and 1238 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4286

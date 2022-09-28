@@ -5,8 +5,8 @@ VISION REPORT: juan_soto (2021-04-01 thru 2021-10-04)
      Strikes Taken: 510 (41.03%)
      Balls Swung At: 156 (11.49%)
      Balls Taken: 1202 (88.51%)
-     Strikeouts: 93 (0.142)%
-     Walks: 145 (0.222)%
+     Strikeouts: 93 (14.22%)
+     Walks: 145 (22.17%)
      juan_soto saw 1243 strikes and 1358 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4879

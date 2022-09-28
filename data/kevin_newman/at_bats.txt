@@ -5,8 +5,8 @@ VISION REPORT: kevin_newman (2021-04-01 thru 2021-10-04)
      Strikes Taken: 362 (37.59%)
      Balls Swung At: 242 (25.13%)
      Balls Taken: 721 (74.87%)
-     Strikeouts: 41 (0.074)%
-     Walks: 27 (0.049)%
+     Strikeouts: 41 (7.40%)
+     Walks: 27 (4.87%)
      kevin_newman saw 963 strikes and 963 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3728

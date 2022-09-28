@@ -5,8 +5,8 @@ VISION REPORT: ozzie_albies (2021-04-01 thru 2021-10-04)
      Strikes Taken: 237 (19.27%)
      Balls Swung At: 437 (31.71%)
      Balls Taken: 941 (68.29%)
-     Strikeouts: 128 (0.187)%
-     Walks: 47 (0.069)%
+     Strikeouts: 128 (18.66%)
+     Walks: 47 (6.85%)
      ozzie_albies saw 1230 strikes and 1378 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4831

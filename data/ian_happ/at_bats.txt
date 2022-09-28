@@ -5,8 +5,8 @@ VISION REPORT: ian_happ (2021-04-01 thru 2021-10-04)
      Strikes Taken: 397 (36.12%)
      Balls Swung At: 241 (20.94%)
      Balls Taken: 910 (79.06%)
-     Strikeouts: 156 (0.292)%
-     Walks: 62 (0.116)%
+     Strikeouts: 156 (29.16%)
+     Walks: 62 (11.59%)
      ian_happ saw 1099 strikes and 1151 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4329

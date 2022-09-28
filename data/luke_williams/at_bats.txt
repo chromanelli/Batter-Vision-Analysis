@@ -5,8 +5,8 @@ VISION REPORT: luke_williams (2021-04-01 thru 2021-10-04)
      Strikes Taken: 71 (35.15%)
      Balls Swung At: 45 (21.33%)
      Balls Taken: 166 (78.67%)
-     Strikeouts: 23 (0.213)%
-     Walks: 10 (0.093)%
+     Strikeouts: 23 (21.30%)
+     Walks: 10 (9.26%)
      luke_williams saw 202 strikes and 211 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4383

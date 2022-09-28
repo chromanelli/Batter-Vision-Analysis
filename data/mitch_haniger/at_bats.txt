@@ -5,8 +5,8 @@ VISION REPORT: mitch_haniger (2021-04-01 thru 2021-10-04)
      Strikes Taken: 487 (36.10%)
      Balls Swung At: 386 (27.07%)
      Balls Taken: 1040 (72.93%)
-     Strikeouts: 169 (0.245)%
-     Walks: 54 (0.078)%
+     Strikeouts: 169 (24.46%)
+     Walks: 54 (7.81%)
      mitch_haniger saw 1349 strikes and 1426 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3708

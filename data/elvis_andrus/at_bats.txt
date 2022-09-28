@@ -5,8 +5,8 @@ VISION REPORT: elvis_andrus (2021-04-01 thru 2021-10-04)
      Strikes Taken: 359 (34.99%)
      Balls Swung At: 303 (29.50%)
      Balls Taken: 724 (70.50%)
-     Strikeouts: 81 (0.150)%
-     Walks: 31 (0.057)%
+     Strikeouts: 81 (14.97%)
+     Walks: 31 (5.73%)
      elvis_andrus saw 1026 strikes and 1027 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3551

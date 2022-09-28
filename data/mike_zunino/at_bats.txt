@@ -5,8 +5,8 @@ VISION REPORT: mike_zunino (2021-04-01 thru 2021-10-04)
      Strikes Taken: 257 (35.16%)
      Balls Swung At: 200 (25.94%)
      Balls Taken: 571 (74.06%)
-     Strikeouts: 132 (0.352)%
-     Walks: 34 (0.091)%
+     Strikeouts: 132 (35.20%)
+     Walks: 34 (9.07%)
      mike_zunino saw 731 strikes and 771 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3915

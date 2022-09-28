@@ -5,8 +5,8 @@ VISION REPORT: eugenio_suarez (2021-04-01 thru 2021-10-04)
      Strikes Taken: 417 (36.68%)
      Balls Swung At: 268 (21.37%)
      Balls Taken: 986 (78.63%)
-     Strikeouts: 171 (0.298)%
-     Walks: 56 (0.098)%
+     Strikeouts: 171 (29.79%)
+     Walks: 56 (9.76%)
      eugenio_suarez saw 1137 strikes and 1254 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4270

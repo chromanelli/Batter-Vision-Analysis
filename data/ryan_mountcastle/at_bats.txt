@@ -5,8 +5,8 @@ VISION REPORT: ryan_mountcastle (2021-04-01 thru 2021-10-04)
      Strikes Taken: 263 (25.58%)
      Balls Swung At: 451 (35.60%)
      Balls Taken: 816 (64.40%)
-     Strikeouts: 161 (0.275)%
-     Walks: 41 (0.070)%
+     Strikeouts: 161 (27.47%)
+     Walks: 41 (7.00%)
      ryan_mountcastle saw 1028 strikes and 1267 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3778

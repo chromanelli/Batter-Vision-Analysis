@@ -5,8 +5,8 @@ VISION REPORT: justin_turner (2021-04-01 thru 2021-10-04)
      Strikes Taken: 417 (34.32%)
      Balls Swung At: 270 (21.60%)
      Balls Taken: 980 (78.40%)
-     Strikeouts: 98 (0.160)%
-     Walks: 61 (0.100)%
+     Strikeouts: 98 (16.01%)
+     Walks: 61 (9.97%)
      justin_turner saw 1215 strikes and 1250 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4426

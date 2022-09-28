@@ -5,8 +5,8 @@ VISION REPORT: hunter_dozier (2021-04-01 thru 2021-10-04)
      Strikes Taken: 305 (31.28%)
      Balls Swung At: 307 (27.88%)
      Balls Taken: 794 (72.12%)
-     Strikeouts: 154 (0.284)%
-     Walks: 43 (0.079)%
+     Strikeouts: 154 (28.36%)
+     Walks: 43 (7.92%)
      hunter_dozier saw 975 strikes and 1101 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.4104

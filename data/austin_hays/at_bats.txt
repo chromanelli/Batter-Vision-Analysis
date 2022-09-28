@@ -5,8 +5,8 @@ VISION REPORT: austin_hays (2021-04-01 thru 2021-10-04)
      Strikes Taken: 349 (36.66%)
      Balls Swung At: 281 (27.96%)
      Balls Taken: 724 (72.04%)
-     Strikeouts: 107 (0.202)%
-     Walks: 28 (0.053)%
+     Strikeouts: 107 (20.23%)
+     Walks: 28 (5.29%)
      austin_hays saw 952 strikes and 1005 balls
 
 VISION SCORE METRIC A (SSA+BT)/(ST+BSA): 0.3562
